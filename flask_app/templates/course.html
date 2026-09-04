@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}
+{{ course_title }} — {{ section_title }} — Flight Guide
+{% endblock %}
+
+{% block content %}
+
+<section class="course-home">
+
+    <div class="eyebrow">
+        {{ section_title | upper }}
+    </div>
+
+    <h1>
+        {{ course_title }}
+    </h1>
+
+    {% if tree %}
+
+        <p class="lead">
+            Select a topic from the navigation panel.
+        </p>
+
+    {% else %}
+
+        <p class="lead">
+            This section is ready for content.
+        </p>
+
+    {% endif %}
+
+</section>
+
+{% endblock %}

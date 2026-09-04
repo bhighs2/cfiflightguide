@@ -1,0 +1,2243 @@
+DOCUMENT_TITLE: 14_CFR_Part_43
+SOURCE_FILE: 14_CFR_Part_43.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+871 
+Federal Aviation Administration, DOT § 43.1 
+airworthiness directive. If you do not 
+have this authority, the local Flight 
+Standards District Office of FAA may 
+issue you a special flight permit unless 
+the airworthiness directive states oth-
+erwise. To ensure aviation safety, FAA 
+may add special requirements for oper-
+ating your aircraft to a place where the 
+repairs or modifications can be accom-
+plished. FAA may also decline to issue 
+a special flight permit in particular 
+cases if we determine you cannot move 
+the aircraft safely. 
+§ 39.25 How do I get a special flight 
+permit? 
+Apply to FAA for a special flight per-
+mit following the procedures in 14 CFR 
+21.199. 
+§ 39.27 What do I do if the airworthi-
+ness directive conflicts with the 
+service document on which it is 
+based? 
+In some cases an airworthiness direc-
+tive incorporates by reference a manu-
+facturer’s service document. In these 
+cases, the service document becomes 
+part of the airworthiness directive. In 
+some cases the directions in the service 
+document may be modified by the air-
+worthiness directive. If there is a con-
+flict between the service document and 
+the airworthiness directive, you must 
+follow the requirements of the air-
+worthiness directive. 
+PART 43—MAINTENANCE, PREVEN-
+TIVE MAINTENANCE, REBUILD-
+ING, AND ALTERATION 
+Sec. 
+43.1 Applicability. 
+43.2 Records of overhaul and rebuilding. 
+43.3 Persons authorized to perform mainte-
+nance, preventive maintenance, rebuild-
+ing, and alterations. 
+43.5 Approval for return to service after 
+maintenance, preventive maintenance, 
+rebuilding, or alteration. 
+43.7 Persons authorized to approve aircraft, 
+airframes, aircraft engines, propellers, 
+appliances, or component parts for re-
+turn to service after maintenance, pre-
+ventive maintenance, rebuilding, or al-
+teration. 
+43.9 Content, form, and disposition of main-
+tenance, preventive maintenance, re-
+building, and alteration records (except 
+inspections performed in accordance 
+with part 91, part 123, part 125, 
+§ 135.411(a)(1), and § 135.419 of this chap-
+ter). 
+43.10 Disposition of life-limited aircraft 
+parts. 
+43.11 Content, form, and disposition of 
+records for inspections conducted under 
+parts 91 and 125 and §§ 135.411(a)(1) and 
+135.419 of this chapter. 
+43.12 Maintenance records: Falsification, re-
+production, or alteration. 
+43.13 Performance rules (general). 
+43.15 Additional performance rules for in-
+spections. 
+43.16 Airworthiness Limitations. 
+43.17 Maintenance, preventive maintenance, 
+and alterations performed on U.S. aero-
+nautical products by certain Canadian 
+persons. 
+A
+PPENDIX A TO PART 43—M AJOR ALTER-
+ATIONS, MAJOR REPAIRS, AND PREVENTIVE 
+MAINTENANCE 
+APPENDIX B TO PART 43—R ECORDING OF  
+MAJOR REPAIRS AND MAJOR ALTERATIONS 
+APPENDIX C TO PART 43 [RESERVED] 
+APPENDIX D TO PART 43—S COPE AND DETAIL 
+OF ITEMS (AS APPLICABLE TO THE PAR-
+TICULAR AIRCRAFT) T O BE INCLUDED IN  
+ANNUAL AND 100-HOUR INSPECTIONS 
+APPENDIX E TO PART 43—A LTIMETER SYSTEM 
+TEST AND INSPECTION 
+APPENDIX F TO PART 43—ATC T RANSPONDER 
+TESTS AND INSPECTIONS 
+AUTHORITY: 42 U.S.C. 7572; 49 U.S.C. 106(f), 
+106(g), 40105, 40113, 44701–44702, 44704, 44707, 
+44709, 44711, 44713, 44715, 45303. 
+S
+OURCE: Docket No. 1993, 29 FR 5451, Apr. 
+23, 1964, unless otherwise noted. 
+EDITORIAL NOTE: For miscellaneous tech-
+nical amendments to this part 43, see Amdt. 
+43–3, 31 FR 3336, Mar. 3, 1966, and Amdt. 43– 
+6, 31 FR 9211, July 6, 1966. 
+§ 43.1 Applicability. 
+(a) Except as provided in paragraphs 
+(b) and (d) of this section, this part pre-
+scribes rules governing the mainte-
+nance, preventive maintenance, re-
+building, and alteration of any— 
+(1) Aircraft having a U.S. airworthi-
+ness certificate; 
+(2) Foreign-registered civil aircraft 
+used in common carriage or carriage of 
+mail under the provisions of Part 121 or 
+135 of this chapter; and 
+(3) Airframe, aircraft engines, propel-
+lers, appliances, and component parts 
+of such aircraft. 
+(b) This part does not apply to— 
+(1) Any aircraft for which the FAA 
+has issued an experimental certificate, 
+unless the FAA has previously issued a
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+872 
+14 CFR Ch. I (1–1–25 Edition) § 43.1, Nt. 
+different kind of airworthiness certifi-
+cate for that aircraft; 
+(2) Any aircraft for which the FAA 
+has issued an experimental certificate 
+under the provisions of § 21.191(i)(3) of 
+this chapter, and the aircraft was pre-
+viously issued a special airworthiness 
+certificate in the light-sport category 
+under the provisions of § 21.190 of this 
+chapter; or 
+(3) Any aircraft that is operated 
+under part 107 of this chapter, except 
+as described in § 107.140(d). 
+(c) This part applies to all life-lim-
+ited parts that are removed from a 
+type certificated product, segregated, 
+or controlled as provided in § 43.10. 
+(d) This part applies to any aircraft 
+issued a special airworthiness certifi-
+cate in the light-sport category except: 
+(1) The repair or alteration form 
+specified in §§ 43.5(b) and 43.9(d) is not 
+required to be completed for products 
+not produced under an FAA approval; 
+(2) Major repairs and major alter-
+ations for products not produced under 
+an FAA approval are not required to be 
+recorded in accordance with appendix B 
+of this part; and 
+(3) The listing of major alterations 
+and major repairs specified in para-
+graphs (a) and (b) of appendix A of this 
+part is not applicable to products not 
+produced under an FAA approval. 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–23, 47 FR 41084, Sept. 
+16, 1982; Amdt. 43–37, 66 FR 21066, Apr. 27, 
+2001; Amdt. 43–38, 67 FR 2109, Jan. 15, 2002; 
+Amdt. 43–39, 69 FR 44863, July 27, 2004; Amdt. 
+43–44, 75 FR 5219, Feb. 1, 2010; Docket FAA– 
+2015–0150, Amdt. 43–48, 81 FR 42208, June 28, 
+2016; Docket FAA–2018–1087, Amdt. 43–51, 86 
+FR 4381, Jan. 15, 2021] 
+E
+FFECTIVE DATE NOTE: At 89 FR 92483, Nov. 
+21, 2024, § 43.1 was amended by adding para-
+graph (e), effective Jan. 21, 2025. For the con-
+venience of the user, the added text is set 
+forth as follows: 
+§ 43.1 Applicability. 
+* * * * * 
+(e) Additional applicability of maintenance 
+provisions for powered-lift is set forth in 
+part 194 of this chapter. 
+§ 43.2 Records of overhaul and rebuild-
+ing. 
+(a) No person may describe in any re-
+quired maintenance entry or form an 
+aircraft, airframe, aircraft engine, pro-
+peller, appliance, or component part as 
+being overhauled unless— 
+(1) Using methods, techniques, and 
+practices acceptable to the Adminis-
+trator, it has been disassembled, 
+cleaned, inspected, repaired as nec-
+essary, and reassembled; and 
+(2) It has been tested in accordance 
+with approved standards and technical 
+data, or in accordance with current 
+standards and technical data accept-
+able to the Administrator, which have 
+been developed and documented by the 
+holder of the type certificate, supple-
+mental type certificate, or a material, 
+part, process, or appliance approval 
+under part 21 of this chapter. 
+(b) No person may describe in any re-
+quired maintenance entry or form an 
+aircraft, airframe, aircraft engine, pro-
+peller, appliance, or component part as 
+being rebuilt unless it has been dis-
+assembled, cleaned, inspected, repaired 
+as necessary, reassembled, and tested 
+to the same tolerances and limits as a 
+new item, using either new parts or 
+used parts that either conform to new 
+part tolerances and limits or to ap-
+proved oversized or undersized dimen-
+sions. 
+[Amdt. 43–23, 47 FR 41084, Sept. 16, 1982, as 
+amended by Amdt. 43–43, 74 FR 53394, Oct. 16, 
+2009] 
+§ 43.3 Persons authorized to perform 
+maintenance, preventive mainte-
+nance, rebuilding, and alterations. 
+(a) Except as provided in this section 
+and § 43.17, no person may maintain, re-
+build, alter, or perform preventive 
+maintenance on an aircraft, airframe, 
+aircraft engine, propeller, appliance, or 
+component part to which this part ap-
+plies. Those items, the performance of 
+which is a major alteration, a major re-
+pair, or preventive maintenance, are 
+listed in appendix A. 
+(b) The holder of a mechanic certifi-
+cate may perform maintenance, pre-
+ventive maintenance, and alterations 
+as provided in Part 65 of this chapter. 
+(c) The holder of a repairman certifi-
+cate may perform maintenance, pre-
+ventive maintenance, and alterations 
+as provided in part 65 of this chapter. 
+(d) A person working under the su-
+pervision of a holder of a mechanic or 
+repairman certificate may perform the
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+873 
+Federal Aviation Administration, DOT § 43.3 
+maintenance, preventive maintenance, 
+and alterations that his supervisor is 
+authorized to perform, if the supervisor 
+personally observes the work being 
+done to the extent necessary to ensure 
+that it is being done properly and if the 
+supervisor is readily available, in per-
+son, for consultation. However, this 
+paragraph does not authorize the per-
+formance of any inspection required by 
+Part 91 or Part 125 of this chapter or 
+any inspection performed after a major 
+repair or alteration. 
+(e) The holder of a repair station cer-
+tificate may perform maintenance, pre-
+ventive maintenance, and alterations 
+as provided in Part 145 of this chapter. 
+(f) The holder of an air carrier oper-
+ating certificate or an operating cer-
+tificate issued under Part 121 or 135, 
+may perform maintenance, preventive 
+maintenance, and alterations as pro-
+vided in Part 121 or 135. 
+(g) Except for holders of a sport pilot 
+certificate, the holder of a pilot certifi-
+cate issued under part 61 may perform 
+preventive maintenance on any air-
+craft owned or operated by that pilot 
+which is not used under part 121, 129, or 
+135 of this chapter. The holder of a 
+sport pilot certificate may perform 
+preventive maintenance on an aircraft 
+owned or operated by that pilot and 
+issued a special airworthiness certifi-
+cate in the light-sport category. 
+(h) Notwithstanding the provisions of 
+paragraph (g) of this section, the Ad-
+ministrator may approve a certificate 
+holder under Part 135 of this chapter, 
+operating rotorcraft in a remote area, 
+to allow a pilot to perform specific pre-
+ventive maintenance items provided— 
+(1) The items of preventive mainte-
+nance are a result of a known or sus-
+pected mechanical difficulty or mal-
+function that occurred en route to or 
+in a remote area; 
+(2) The pilot has satisfactorily com-
+pleted an approved training program 
+and is authorized in writing by the cer-
+tificate holder for each item of preven-
+tive maintenance that the pilot is au-
+thorized to perform; 
+(3) There is no certificated mechanic 
+available to perform preventive main-
+tenance; 
+(4) The certificate holder has proce-
+dures to evaluate the accomplishment 
+of a preventive maintenance item that 
+requires a decision concerning the air-
+worthiness of the rotorcraft; and 
+(5) The items of preventive mainte-
+nance authorized by this section are 
+those listed in paragraph (c) of appen-
+dix A of this part. 
+(i) Notwithstanding the provisions of 
+paragraph (g) of this section, in accord-
+ance with an approval issued to the 
+holder of a certificate issued under part 
+135 of this chapter, a pilot of an air-
+craft type-certificated for 9 or fewer 
+passenger seats, excluding any pilot 
+seat, may perform the removal and re-
+installation of approved aircraft cabin 
+seats, approved cabin-mounted stretch-
+ers, and when no tools are required, ap-
+proved cabin-mounted medical oxygen 
+bottles, provided— 
+(1) The pilot has satisfactorily com-
+pleted an approved training program 
+and is authorized in writing by the cer-
+tificate holder to perform each task; 
+and 
+(2) The certificate holder has written 
+procedures available to the pilot to 
+evaluate the accomplishment of the 
+task. 
+(j) A manufacturer may— 
+(1) Rebuild or alter any aircraft, air-
+craft engine, propeller, or appliance 
+manufactured by him under a type or 
+production certificate; 
+(2) Rebuild or alter any appliance or 
+part of aircraft, aircraft engines, pro-
+pellers, or appliances manufactured by 
+him under a Technical Standard Order 
+Authorization, an FAA-Parts Manufac-
+turer Approval, or Product and Process 
+Specification issued by the Adminis-
+trator; and 
+(3) Perform any inspection required 
+by part 91 or part 125 of this chapter on 
+aircraft it manufactured under a type 
+certificate, or currently manufactures 
+under a production certificate. 
+(k) Updates of databases in installed 
+avionics meeting the conditions of this 
+paragraph are not considered mainte-
+nance and may be performed by pilots 
+provided: 
+(1) The database upload is: 
+(i) Initiated from the flight deck; 
+(ii) Performed without disassembling 
+the avionics unit; and 
+(iii) Performed without the use of 
+tools and/or special equipment.
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+874 
+14 CFR Ch. I (1–1–25 Edition) § 43.5 
+(2) The pilot must comply with the 
+certificate holder’s procedures or the 
+manufacturer’s instructions. 
+(3) The holder of operating certifi-
+cates must make available written pro-
+cedures consistent with manufacturer’s 
+instructions to the pilot that describe 
+how to: 
+(i) Perform the database update; and 
+(ii) Determine the status of the data 
+upload. 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–4, 31 FR 5249, Apr. 1, 
+1966; Amdt. 43–23, 47 FR 41084, Sept. 16, 1982; 
+Amdt. 43–25, 51 FR 40702, Nov. 7, 1986; Amdt. 
+43–36, 61 FR 19501, May 1, 1996; Amdt. 43–37, 66 
+FR 21066, Apr. 27, 2001; Amdt. 43–39, 69 FR 
+44863, July 27, 2004; Amdt. 43–43, 74 FR 53394, 
+Oct. 16, 2009; Amdt. 43–45, 77 FR 71096, Nov. 
+29, 2012] 
+§ 43.5 Approval for return to service 
+after maintenance, preventive 
+maintenance, rebuilding, or alter-
+ation. 
+No person may approve for return to 
+service any aircraft, airframe, aircraft 
+engine, propeller, or appliance, that 
+has undergone maintenance, preventive 
+maintenance, rebuilding, or alteration 
+unless— 
+(a) The maintenance record entry re-
+quired by § 43.9 or § 43.11, as appro-
+priate, has been made; 
+(b) The repair or alteration form au-
+thorized by or furnished by the Admin-
+istrator has been executed in a manner 
+prescribed by the Administrator; and 
+(c) If a repair or an alteration results 
+in any change in the aircraft operating 
+limitations or flight data contained in 
+the approved aircraft flight manual, 
+those operating limitations or flight 
+data are appropriately revised and set 
+forth as prescribed in § 91.9 of this chap-
+ter. 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–23, 47 FR 41084, Sept. 
+16, 1982; Amdt. 43–31, 54 FR 34330, Aug. 18, 
+1989] 
+§ 43.7 Persons authorized to approve 
+aircraft, airframes, aircraft engines, 
+propellers, appliances, or compo-
+nent parts for return to service 
+after maintenance, preventive 
+maintenance, rebuilding, or alter-
+ation. 
+(a) Except as provided in this section 
+and § 43.17, no person, other than the 
+Administrator, may approve an air-
+craft, airframe, aircraft engine, pro-
+peller, appliance, or component part 
+for return to service after it has under-
+gone maintenance, preventive mainte-
+nance, rebuilding, or alteration. 
+(b) The holder of a mechanic certifi-
+cate or an inspection authorization 
+may approve an aircraft, airframe, air-
+craft engine, propeller, appliance, or 
+component part for return to service as 
+provided in Part 65 of this chapter. 
+(c) The holder of a repair station cer-
+tificate may approve an aircraft, air-
+frame, aircraft engine, propeller, appli-
+ance, or component part for return to 
+service as provided in Part 145 of this 
+chapter. 
+(d) A manufacturer may approve for 
+return to service any aircraft, air-
+frame, aircraft engine, propeller, appli-
+ance, or component part which that 
+manufacturer has worked on under 
+§ 43.3(j). However, except for minor al-
+terations, the work must have been 
+done in accordance with technical data 
+approved by the Administrator. 
+(e) The holder of an air carrier oper-
+ating certificate or an operating cer-
+tificate issued under Part 121 or 135, 
+may approve an aircraft, airframe, air-
+craft engine, propeller, appliance, or 
+component part for return to service as 
+provided in Part 121 or 135 of this chap-
+ter, as applicable. 
+(f) A person holding at least a private 
+pilot certificate may approve an air-
+craft for return to service after per-
+forming preventive maintenance under 
+the provisions of § 43.3(g). 
+(g) The holder of a repairman certifi-
+cate (light-sport aircraft) with a main-
+tenance rating may approve an aircraft 
+issued a special airworthiness certifi-
+cate in light-sport category for return 
+to service, as provided in part 65 of this 
+chapter. 
+(h) The holder of at least a sport 
+pilot certificate may approve an air-
+craft owned or operated by that pilot 
+and issued a special airworthiness cer-
+tificate in the light-sport category for 
+return to service after performing pre-
+ventive maintenance under the provi-
+sions of § 43.3(g). 
+[Amdt. 43–23, 47 FR 41084, Sept. 16, 1982, as 
+amended by Amdt. 43–36, 61 FR 19501, May 1, 
+1996; Amdt. 43–37, 66 FR 21066, Apr. 27, 2001; 
+Amdt. 43–39, 69 FR 44863, July 27, 2004]
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+875 
+Federal Aviation Administration, DOT § 43.10 
+§ 43.9 Content, form, and disposition of 
+maintenance, preventive mainte-
+nance, rebuilding, and alteration 
+records (except inspections per-
+formed in accordance with part 91, 
+part 125, § 135.411(a)(1), and 
+§ 135.419 of this chapter). 
+(a) Maintenance record entries. Except 
+as provided in paragraphs (b) and (c) of 
+this section, each person who main-
+tains, performs preventive mainte-
+nance, rebuilds, or alters an aircraft, 
+airframe, aircraft engine, propeller, ap-
+pliance, or component part shall make 
+an entry in the maintenance record of 
+that equipment containing the fol-
+lowing information: 
+(1) A description (or reference to data 
+acceptable to the Administrator) of 
+work performed. 
+(2) The date of completion of the 
+work performed. 
+(3) The name of the person per-
+forming the work if other than the per-
+son specified in paragraph (a)(4) of this 
+section. 
+(4) If the work performed on the air-
+craft, airframe, aircraft engine, pro-
+peller, appliance, or component part 
+has been performed satisfactorily, the 
+signature, certificate number, and kind 
+of certificate held by the person ap-
+proving the work. The signature con-
+stitutes the approval for return to 
+service only for the work performed. 
+(b) Each holder of an air carrier oper-
+ating certificate or an operating cer-
+tificate issued under Part 121 or 135, 
+that is required by its approved oper-
+ations specifications to provide for a 
+continuous airworthiness maintenance 
+program, shall make a record of the 
+maintenance, preventive maintenance, 
+rebuilding, and alteration, on aircraft, 
+airframes, aircraft engines, propellers, 
+appliances, or component parts which 
+it operates in accordance with the ap-
+plicable provisions of Part 121 or 135 of 
+this chapter, as appropriate. 
+(c) This section does not apply to per-
+sons performing inspections in accord-
+ance with Part 91, 125, § 135.411(a)(1), or 
+§ 135.419 of this chapter. 
+(d) In addition to the entry required 
+by paragraph (a) of this section, major 
+repairs and major alterations shall be 
+entered on a form, and the form dis-
+posed of, in the manner prescribed in 
+appendix B, by the person performing 
+the work. 
+[Amdt. 43–23, 47 FR 41085, Sept. 16, 1982, as 
+amended by Amdt. 43–37, 66 FR 21066, Apr. 27, 
+2001; Amdt. 43–39, 69 FR 44863, July 27, 2004] 
+§ 43.10 Disposition of life-limited air-
+craft parts. 
+(a) Definitions used in this section. For 
+the purposes of this section the fol-
+lowing definitions apply. 
+Life-limited part means any part for 
+which a mandatory replacement limit 
+is specified in the type design, the In-
+structions for Continued Airworthi-
+ness, or the maintenance manual. 
+Life status means the accumulated 
+cycles, hours, or any other mandatory 
+replacement limit of a life-limited 
+part. 
+(b) Temporary removal of parts from 
+type-certificated products. When a life- 
+limited part is temporarily removed 
+and reinstalled for the purpose of per-
+forming maintenance, no disposition 
+under paragraph (c) of this section is 
+required if— 
+(1) The life status of the part has not 
+changed; 
+(2) The removal and reinstallation is 
+performed on the same serial numbered 
+product; and 
+(3) That product does not accumulate 
+time in service while the part is re-
+moved. 
+(c) Disposition of parts removed from 
+type-certificated products. Except as pro-
+vided in paragraph (b) of this section, 
+after April 15, 2002 each person who re-
+moves a life-limited part from a type- 
+certificated product must ensure that 
+the part is controlled using one of the 
+methods in this paragraph. The method 
+must deter the installation of the part 
+after it has reached its life limit. Ac-
+ceptable methods include: 
+(1) Record keeping system. The part 
+may be controlled using a record keep-
+ing system that substantiates the part 
+number, serial number, and current life 
+status of the part. Each time the part 
+is removed from a type certificated 
+product, the record must be updated 
+with the current life status. This sys-
+tem may include electronic, paper, or 
+other means of record keeping. 
+(2) Tag or record attached to part. A 
+tag or other record may be attached to
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+876 
+14 CFR Ch. I (1–1–25 Edition) § 43.11 
+the part. The tag or record must in-
+clude the part number, serial number, 
+and current life status of the part. 
+Each time the part is removed from a 
+type certificated product, either a new 
+tag or record must be created, or the 
+existing tag or record must be updated 
+with the current life status. 
+(3) Non-permanent marking. The part 
+may be legibly marked using a non- 
+permanent method showing its current 
+life status. The life status must be up-
+dated each time the part is removed 
+from a type certificated product, or if 
+the mark is removed, another method 
+in this section may be used. The mark 
+must be accomplished in accordance 
+with the instructions under § 45.16 of 
+this chapter in order to maintain the 
+integrity of the part. 
+(4) Permanent marking. The part may 
+be legibly marked using a permanent 
+method showing its current life status. 
+The life status must be updated each 
+time the part is removed from a type 
+certificated product. Unless the part is 
+permanently removed from use on type 
+certificated products, this permanent 
+mark must be accomplished in accord-
+ance with the instructions under § 45.16 
+of this chapter in order to maintain the 
+integrity of the part. 
+(5) Segregation. The part may be seg-
+regated using methods that deter its 
+installation on a type-certificated 
+product. These methods must include, 
+at least— 
+(i) Maintaining a record of the part 
+number, serial number, and current life 
+status, and 
+(ii) Ensuring the part is physically 
+stored separately from parts that are 
+currently eligible for installation. 
+(6) Mutilation. The part may be muti-
+lated to deter its installation in a type 
+certificated product. The mutilation 
+must render the part beyond repair and 
+incapable of being reworked to appear 
+to be airworthy. 
+(7) Other methods. Any other method 
+approved or accepted by the FAA. 
+(d) Transfer of life-limited parts. Each 
+person who removes a life-limited part 
+from a type certificated product and 
+later sells or otherwise transfers that 
+part must transfer with the part the 
+mark, tag, or other record used to com-
+ply with this section, unless the part is 
+mutilated before it is sold or trans-
+ferred. 
+[Doc. No. FAA–2000–8017, 67 FR 2110, Jan. 15, 
+2002, as amended by Amdt. 43–38A, 79 FR 
+67055, Nov. 12, 2014] 
+§ 43.11 Content, form, and disposition 
+of records for inspections con-
+ducted under parts 91 and 125 and 
+§§ 135.411(a)(1) and 135.419 of this 
+chapter. 
+(a) Maintenance record entries. The 
+person approving or disapproving for 
+return to service an aircraft, airframe, 
+aircraft engine, propeller, appliance, or 
+component part after any inspection 
+performed in accordance with part 91, 
+125, § 135.411(a)(1), or § 135.419 shall 
+make an entry in the maintenance 
+record of that equipment containing 
+the following information: 
+(1) The type of inspection and a brief 
+description of the extent of the inspec-
+tion. 
+(2) The date of the inspection and air-
+craft total time in service. 
+(3) The signature, the certificate 
+number, and kind of certificate held by 
+the person approving or disapproving 
+for return to service the aircraft, air-
+frame, aircraft engine, propeller, appli-
+ance, component part, or portions 
+thereof. 
+(4) Except for progressive inspec-
+tions, if the aircraft is found to be air-
+worthy and approved for return to 
+service, the following or a similarly 
+worded statement—‘‘I certify that this 
+aircraft has been inspected in accord-
+ance with (insert type) inspection and 
+was determined to be in airworthy con-
+dition.’’ 
+(5) Except for progressive inspec-
+tions, if the aircraft is not approved for 
+return to service because of needed 
+maintenance, noncompliance with ap-
+plicable specifications, airworthiness 
+directives, or other approved data, the 
+following or a similarly worded state-
+ment—‘‘I certify that this aircraft has 
+been inspected in accordance with (in-
+sert type) inspection and a list of dis-
+crepancies and unairworthy items 
+dated (date) has been provided for the 
+aircraft owner or operator.’’ 
+(6) For progressive inspections, the 
+following or a similarly worded state-
+ment—‘‘I certify that in accordance 
+with a progressive inspection program,
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+877 
+Federal Aviation Administration, DOT § 43.13 
+a routine inspection of (identify wheth-
+er aircraft or components) and a de-
+tailed inspection of (identify compo-
+nents) were performed and the (aircraft 
+or components) are (approved or dis-
+approved) for return to service.’’ If dis-
+approved, the entry will further state 
+‘‘and a list of discrepancies and unair-
+worthy items dated (date) has been 
+provided to the aircraft owner or oper-
+ator.’’ 
+(7) If an inspection is conducted 
+under an inspection program provided 
+for in part 91, 125, or § 135.411(a)(1), the 
+entry must identify the inspection pro-
+gram, that part of the inspection pro-
+gram accomplished, and contain a 
+statement that the inspection was per-
+formed in accordance with the inspec-
+tions and procedures for that par-
+ticular program. 
+(b) Listing of discrepancies and plac-
+ards. If the person performing any in-
+spection required by part 91 or 125 or 
+§ 135.411(a)(1) of this chapter finds that 
+the aircraft is unairworthy or does not 
+meet the applicable type certificate 
+data, airworthiness directives, or other 
+approved data upon which its air-
+worthiness depends, that persons must 
+give the owner or lessee a signed and 
+dated list of those discrepancies. For 
+those items permitted to be inoper-
+ative under § 91.213(d)(2) of this chapter, 
+that person shall place a placard, that 
+meets the aircraft’s airworthiness cer-
+tification regulations, on each inoper-
+ative instrument and the cockpit con-
+trol of each item of inoperative equip-
+ment, marking it ‘‘Inoperative,’’ and 
+shall add the items to the signed and 
+dated list of discrepancies given to the 
+owner or lessee. 
+[Amdt. 43–23, 47 FR 41085, Sept. 16, 1982, as 
+amended by Amdt. 43–30, 53 FR 50195, Dec. 13, 
+1988; Amdt. 43–36, 61 FR 19501, May 1, 1996; 71 
+FR 44188, Aug. 4, 2006] 
+§ 43.12 Maintenance records: Falsifica-
+tion, reproduction, or alteration. 
+(a) No person may make or cause to 
+be made: 
+(1) Any fraudulent or intentionally 
+false entry in any record or report that 
+is required to be made, kept, or used to 
+show compliance with any requirement 
+under this part; 
+(2) Any reproduction, for fraudulent 
+purpose, of any record or report under 
+this part; or 
+(3) Any alteration, for fraudulent 
+purpose, of any record or report under 
+this part. 
+(b) The commission by any person of 
+an act prohibited under paragraph (a) 
+of this section is a basis for suspending 
+or revoking the applicable airman, op-
+erator, or production certificate, Tech-
+nical Standard Order Authorization, 
+FAA-Parts Manufacturer Approval, or 
+Product and Process Specification 
+issued by the Administrator and held 
+by that person. 
+[Amdt. 43–19, 43 FR 22639, May 25, 1978, as 
+amended by Amdt. 43–23, 47 FR 41085, Sept. 
+16, 1982] 
+§ 43.13 Performance rules (general). 
+(a) Each person performing mainte-
+nance, alteration, or preventive main-
+tenance on an aircraft, engine, pro-
+peller, or appliance shall use the meth-
+ods, techniques, and practices pre-
+scribed in the current manufacturer’s 
+maintenance manual or Instructions 
+for Continued Airworthiness prepared 
+by its manufacturer, or other methods, 
+techniques, and practices acceptable to 
+the Administrator, except as noted in 
+§ 43.16. He shall use the tools, equip-
+ment, and test apparatus necessary to 
+assure completion of the work in ac-
+cordance with accepted industry prac-
+tices. If special equipment or test appa-
+ratus is recommended by the manufac-
+turer involved, he must use that equip-
+ment or apparatus or its equivalent ac-
+ceptable to the Administrator. 
+(b) Each person maintaining or alter-
+ing, or performing preventive mainte-
+nance, shall do that work in such a 
+manner and use materials of such a 
+quality, that the condition of the air-
+craft, airframe, aircraft engine, pro-
+peller, or appliance worked on will be 
+at least equal to its original or prop-
+erly altered condition (with regard to 
+aerodynamic function, structural 
+strength, resistance to vibration and 
+deterioration, and other qualities af-
+fecting airworthiness). 
+(c) Special provisions for holders of air 
+carrier operating certificates and oper-
+ating certificates issued under the provi-
+sions of Part 121 or 135 and Part 129 oper-
+ators holding operations specifications.
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+878 
+14 CFR Ch. I (1–1–25 Edition) § 43.15 
+Unless otherwise notified by the ad-
+ministrator, the methods, techniques, 
+and practices contained in the mainte-
+nance manual or the maintenance part 
+of the manual of the holder of an air 
+carrier operating certificate or an op-
+erating certificate under Part 121 or 135 
+and Part 129 operators holding oper-
+ations specifications (that is required 
+by its operating specifications to pro-
+vide a continuous airworthiness main-
+tenance and inspection program) con-
+stitute acceptable means of compliance 
+with this section. 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–20, 45 FR 60182, Sept. 
+11, 1980; Amdt. 43–23, 47 FR 41085, Sept. 16, 
+1982; Amdt. 43–28, 52 FR 20028, June 16, 1987; 
+Amdt. 43–37, 66 FR 21066, Apr. 27, 2001] 
+§ 43.15 Additional performance rules 
+for inspections. 
+(a) General. Each person performing 
+an inspection required by part 91, 125, 
+or 135 of this chapter, shall— 
+(1) Perform the inspection so as to 
+determine whether the aircraft, or por-
+tion(s) thereof under inspection, meets 
+all applicable airworthiness require-
+ments; and 
+(2) If the inspection is one provided 
+for in part 125, 135, or § 91.409(e) of this 
+chapter, perform the inspection in ac-
+cordance with the instructions and pro-
+cedures set forth in the inspection pro-
+gram for the aircraft being inspected. 
+(b) Rotorcraft. Each person per-
+forming an inspection required by Part 
+91 on a rotorcraft shall inspect the fol-
+lowing systems in accordance with the 
+maintenance manual or Instructions 
+for Continued Airworthiness of the 
+manufacturer concerned: 
+(1) The drive shafts or similar sys-
+tems. 
+(2) The main rotor transmission gear 
+box for obvious defects. 
+(3) The main rotor and center section 
+(or the equivalent area). 
+(4) The auxiliary rotor on heli-
+copters. 
+(c) Annual and 100-hour inspections. (1) 
+Each person performing an annual or 
+100-hour inspection shall use a check-
+list while performing the inspection. 
+The checklist may be of the person’s 
+own design, one provided by the manu-
+facturer of the equipment being in-
+spected or one obtained from another 
+source. This checklist must include the 
+scope and detail of the items contained 
+in appendix D to this part and para-
+graph (b) of this section. 
+(2) Each person approving a recipro-
+cating-engine-powered aircraft for re-
+turn to service after an annual or 100- 
+hour inspection shall, before that ap-
+proval, run the aircraft engine or en-
+gines to determine satisfactory per-
+formance in accordance with the manu-
+facturer’s recommendations of— 
+(i) Power output (static and idle 
+r.p.m.); 
+(ii) Magnetos; 
+(iii) Fuel and oil pressure; and 
+(iv) Cylinder and oil temperature. 
+(3) Each person approving a turbine- 
+engine-powered aircraft for return to 
+service after an annual, 100-hour, or 
+progressive inspection shall, before 
+that approval, run the aircraft engine 
+or engines to determine satisfactory 
+performance in accordance with the 
+manufacturer’s recommendations. 
+(d) Progressive inspection. (1) Each per-
+son performing a progressive inspec-
+tion shall, at the start of a progressive 
+inspection system, inspect the aircraft 
+completely. After this initial inspec-
+tion, routine and detailed inspections 
+must be conducted as prescribed in the 
+progressive inspection schedule. Rou-
+tine inspections consist of visual exam-
+ination or check of the appliances, the 
+aircraft, and its components and sys-
+tems, insofar as practicable without 
+disassembly. Detailed inspections con-
+sist of a thorough examination of the 
+appliances, the aircraft, and its compo-
+nents and systems, with such dis-
+assembly as is necessary. For the pur-
+poses of this subparagraph, the over-
+haul of a component or system is con-
+sidered to be a detailed inspection. 
+(2) If the aircraft is away from the 
+station where inspections are normally 
+conducted, an appropriately rated me-
+chanic, a certificated repair station, or 
+the manufacturer of the aircraft may 
+perform inspections in accordance with 
+the procedures and using the forms of 
+the person who would otherwise per-
+form the inspection. 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–23, 47 FR 41086, Sept. 
+16, 1982; Amdt. 43–25, 51 FR 40702, Nov. 7, 1986; 
+Amdt. 43–31, 54 FR 34330, Aug. 18, 1989; 71 FR 
+44188, Aug. 4, 2006]
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+879 
+Federal Aviation Administration, DOT § 43.17 
+§ 43.16 Airworthiness limitations. 
+Each person performing an inspec-
+tion or other maintenance specified in 
+an Airworthiness Limitations section 
+of a manufacturer’s maintenance man-
+ual or Instructions for Continued Air-
+worthiness shall perform the inspec-
+tion or other maintenance in accord-
+ance with that section, or in accord-
+ance with operations specifications ap-
+proved by the Administrator under 
+part 121 or 135, or an inspection pro-
+gram approved under § 91.409(e). 
+[71 FR 44188, Aug. 4, 2006] 
+§ 43.17 Maintenance, preventive main-
+tenance, and alterations performed 
+on U.S. aeronautical products by 
+certain Canadian persons. 
+(a) Definitions. For purposes of this 
+section: 
+Aeronautical product means any civil 
+aircraft or airframe, aircraft engine, 
+propeller, appliance, component, or 
+part to be installed thereon. 
+Canadian aeronautical product means 
+any aeronautical product under air-
+worthiness regulation by Transport 
+Canada Civil Aviation. 
+U.S. aeronautical product means any 
+aeronautical product under airworthi-
+ness regulation by the FAA. 
+(b) Applicability. This section does not 
+apply to any U.S. aeronautical prod-
+ucts maintained or altered under any 
+bilateral agreement made between 
+Canada and any country other than the 
+United States. 
+(c) Authorized persons. (1) A person 
+holding a valid Transport Canada Civil 
+Aviation Maintenance Engineer license 
+and appropriate ratings may, with re-
+spect to a U.S.-registered aircraft lo-
+cated in Canada, perform maintenance, 
+preventive maintenance, and alter-
+ations in accordance with the require-
+ments of paragraph (d) of this section 
+and approve the affected aircraft for 
+return to service in accordance with 
+the requirements of paragraph (e) of 
+this section. 
+(2) A Transport Canada Civil Avia-
+tion Approved Maintenance Organiza-
+tion (AMO) holding appropriate ratings 
+may, with respect to a U.S.-registered 
+aircraft or other U.S. aeronautical 
+products located in Canada, perform 
+maintenance, preventive maintenance, 
+and alterations in accordance with the 
+requirements of paragraph (d) of this 
+section and approve the affected prod-
+ucts for return to service in accordance 
+with the requirements of paragraph (e) 
+of this section. 
+(d) Performance requirements. A person 
+authorized in paragraph (c) of this sec-
+tion may perform maintenance (includ-
+ing any inspection required by Sec. 
+91.409 of this chapter, except an annual 
+inspection), preventive maintenance, 
+and alterations, provided— 
+(1) The person performing the work is 
+authorized by Transport Canada Civil 
+Aviation to perform the same type of 
+work with respect to Canadian aero-
+nautical products; 
+(2) The maintenance, preventive 
+maintenance, or alteration is per-
+formed in accordance with a Bilateral 
+Aviation Safety Agreement between 
+the United States and Canada and asso-
+ciated Maintenance Implementation 
+Procedures that provide a level of safe-
+ty equivalent to that provided by the 
+provisions of this chapter; 
+(3) The maintenance, preventive 
+maintenance, or alteration is per-
+formed such that the affected product 
+complies with the applicable require-
+ments of part 36 of this chapter; and 
+(4) The maintenance, preventive 
+maintenance, or alteration is recorded 
+in accordance with a Bilateral Aviation 
+Safety Agreement between the United 
+States and Canada and associated 
+Maintenance Implementation Proce-
+dures that provide a level of safety 
+equivalent to that provided by the pro-
+visions of this chapter. 
+(e) Approval requirements. (1) To re-
+turn an affected product to service, a 
+person authorized in paragraph (c) of 
+this section must approve (certify) 
+maintenance, preventive maintenance, 
+and alterations performed under this 
+section, except that an Aircraft Main-
+tenance Engineer may not approve a 
+major repair or major alteration. 
+(2) An AMO whose system of quality 
+control for the maintenance, preven-
+tive maintenance, alteration, and in-
+spection of aeronautical products has 
+been approved by Transport Canada 
+Civil Aviation, or an authorized em-
+ployee performing work for such an 
+AMO, may approve (certify) a major re-
+pair or major alteration performed
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+880 
+14 CFR Ch. I (1–1–25 Edition) Pt. 43, App. A 
+under this section if the work was per-
+formed in accordance with technical 
+data approved by the FAA. 
+(f) No person may operate in air com-
+merce an aircraft, airframe, aircraft 
+engine, propeller, or appliance on 
+which maintenance, preventive main-
+tenance, or alteration has been per-
+formed under this section unless it has 
+been approved for return to service by 
+a person authorized in this section. 
+[Amdt. 43–33, 56 FR 57571, Nov. 12, 1991, as 
+amended by Amdt. 43–40, 71 FR 40877, July 14, 
+2005] 
+APPENDIX A TO PART 43—M AJOR ALTER-
+ATIONS, M AJOR REPAIRS, AND PRE-
+VENTIVE MAINTENANCE 
+(a) Major alterations —(1) Airframe major al-
+terations. Alterations of the following parts 
+and alterations of the following types, when 
+not listed in the aircraft specifications 
+issued by the FAA, are airframe major alter-
+ations: 
+(i) Wings. 
+(ii) Tail surfaces. 
+(iii) Fuselage. 
+(iv) Engine mounts. 
+(v) Control system. 
+(vi) Landing gear. 
+(vii) Hull or floats. 
+(viii) Elements of an airframe including 
+spars, ribs, fittings, shock absorbers, brac-
+ing, cowling, fairings, and balance weights. 
+(ix) Hydraulic and electrical actuating sys-
+tem of components. 
+(x) Rotor blades. 
+(xi) Changes to the empty weight or empty 
+balance which result in an increase in the 
+maximum certificated weight or center of 
+gravity limits of the aircraft. 
+(xii) Changes to the basic design of the 
+fuel, oil, cooling, heating, cabin pressuriza-
+tion, electrical, hydraulic, de-icing, or ex-
+haust systems. 
+(xiii) Changes to the wing or to fixed or 
+movable control surfaces which affect flutter 
+and vibration characteristics. 
+(2) Powerplant major alterations. The fol-
+lowing alterations of a powerplant when not 
+listed in the engine specifications issued by 
+the FAA, are powerplant major alterations. 
+(i) Conversion of an aircraft engine from 
+one approved model to another, involving 
+any changes in compression ratio, propeller 
+reduction gear, impeller gear ratios or the 
+substitution of major engine parts which re-
+quires extensive rework and testing of the 
+engine. 
+(ii) Changes to the engine by replacing air-
+craft engine structural parts with parts not 
+supplied by the original manufacturer or 
+parts not specifically approved by the Ad-
+ministrator. 
+(iii) Installation of an accessory which is 
+not approved for the engine. 
+(iv) Removal of accessories that are listed 
+as required equipment on the aircraft or en-
+gine specification. 
+(v) Installation of structural parts other 
+than the type of parts approved for the in-
+stallation. 
+(vi) Conversions of any sort for the purpose 
+of using fuel of a rating or grade other than 
+that listed in the engine specifications. 
+(3) Propeller major alterations. The following 
+alterations of a propeller when not author-
+ized in the propeller specifications issued by 
+the FAA are propeller major alterations: 
+(i) Changes in blade design. 
+(ii) Changes in hub design. 
+(iii) Changes in the governor or control de-
+sign. 
+(iv) Installation of a propeller governor or 
+feathering system. 
+(v) Installation of propeller de-icing sys-
+tem. 
+(vi) Installation of parts not approved for 
+the propeller. 
+(4) Appliance major alterations. Alterations 
+of the basic design not made in accordance 
+with recommendations of the appliance man-
+ufacturer or in accordance with an FAA Air-
+worthiness Directive are appliance major al-
+terations. In addition, changes in the basic 
+design of radio communication and naviga-
+tion equipment approved under type certifi-
+cation or a Technical Standard Order that 
+have an effect on frequency stability, noise 
+level, sensitivity, selectivity, distortion, 
+spurious radiation, AVC characteristics, or 
+ability to meet environmental test condi-
+tions and other changes that have an effect 
+on the performance of the equipment are 
+also major alterations. 
+(b) Major repairs—(1) Airframe major repairs. 
+Repairs to the following parts of an airframe 
+and repairs of the following types, involving 
+the strengthening, reinforcing, splicing, and 
+manufacturing of primary structural mem-
+bers or their replacement, when replacement 
+is by fabrication such as riveting or welding, 
+are airframe major repairs. 
+(i) Box beams. 
+(ii) Monocoque or semimonocoque wings or 
+control surfaces. 
+(iii) Wing stringers or chord members. 
+(iv) Spars. 
+(v) Spar flanges. 
+(vi) Members of truss-type beams. 
+(vii) Thin sheet webs of beams. 
+(viii) Keel and chine members of boat hulls 
+or floats. 
+(ix) Corrugated sheet compression mem-
+bers which act as flange material of wings or 
+tail surfaces. 
+(x) Wing main ribs and compression mem-
+bers. 
+(xi) Wing or tail surface brace struts. 
+(xii) Engine mounts. 
+(xiii) Fuselage longerons.
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+881 
+Federal Aviation Administration, DOT Pt. 43, App. A 
+(xiv) Members of the side truss, horizontal 
+truss, or bulkheads. 
+(xv) Main seat support braces and brack-
+ets. 
+(xvi) Landing gear brace struts. 
+(xvii) Axles. 
+(xviii) Wheels. 
+(xix) Skis, and ski pedestals. 
+(xx) Parts of the control system such as 
+control columns, pedals, shafts, brackets, or 
+horns. 
+(xxi) Repairs involving the substitution of 
+material. 
+(xxii) The repair of damaged areas in metal 
+or plywood stressed covering exceeding six 
+inches in any direction. 
+(xxiii) The repair of portions of skin sheets 
+by making additional seams. 
+(xxiv) The splicing of skin sheets. 
+(xxv) The repair of three or more adjacent 
+wing or control surface ribs or the leading 
+edge of wings and control surfaces, between 
+such adjacent ribs. 
+(xxvi) Repair of fabric covering involving 
+an area greater than that required to repair 
+two adjacent ribs. 
+(xxvii) Replacement of fabric on fabric cov-
+ered parts such as wings, fuselages, stabi-
+lizers, and control surfaces. 
+(xxviii) Repairing, including rebottoming, 
+of removable or integral fuel tanks and oil 
+tanks. 
+(2) Powerplant major repairs. Repairs of the 
+following parts of an engine and repairs of 
+the following types, are powerplant major re-
+pairs: 
+(i) Separation or disassembly of a crank-
+case or crankshaft of a reciprocating engine 
+equipped with an integral supercharger. 
+(ii) Separation or disassembly of a crank-
+case or crankshaft of a reciprocating engine 
+equipped with other than spur-type propeller 
+reduction gearing. 
+(iii) Special repairs to structural engine 
+parts by welding, plating, metalizing, or 
+other methods. 
+(3) Propeller major repairs. Repairs of the 
+following types to a propeller are propeller 
+major repairs: 
+(i) Any repairs to, or straightening of steel 
+blades. 
+(ii) Repairing or machining of steel hubs. 
+(iii) Shortening of blades. 
+(iv) Retipping of wood propellers. 
+(v) Replacement of outer laminations on 
+fixed pitch wood propellers. 
+(vi) Repairing elongated bolt holes in the 
+hub of fixed pitch wood propellers. 
+(vii) Inlay work on wood blades. 
+(viii) Repairs to composition blades. 
+(ix) Replacement of tip fabric. 
+(x) Replacement of plastic covering. 
+(xi) Repair of propeller governors. 
+(xii) Overhaul of controllable pitch propel-
+lers. 
+(xiii) Repairs to deep dents, cuts, scars, 
+nicks, etc., and straightening of aluminum 
+blades. 
+(xiv) The repair or replacement of internal 
+elements of blades. 
+(4) Appliance major repairs. Repairs of the 
+following types to appliances are appliance 
+major repairs: 
+(i) Calibration and repair of instruments. 
+(ii) Calibration of radio equipment. 
+(iii) Rewinding the field coil of an elec-
+trical accessory. 
+(iv) Complete disassembly of complex hy-
+draulic power valves. 
+(v) Overhaul of pressure type carburetors, 
+and pressure type fuel, oil and hydraulic 
+pumps. 
+(c) Preventive maintenance. Preventive 
+maintenance is limited to the following 
+work, provided it does not involve complex 
+assembly operations: 
+(1) Removal, installation, and repair of 
+landing gear tires. 
+(2) Replacing elastic shock absorber cords 
+on landing gear. 
+(3) Servicing landing gear shock struts by 
+adding oil, air, or both. 
+(4) Servicing landing gear wheel bearings, 
+such as cleaning and greasing. 
+(5) Replacing defective safety wiring or 
+cotter keys. 
+(6) Lubrication not requiring disassembly 
+other than removal of nonstructural items 
+such as cover plates, cowlings, and fairings. 
+(7) Making simple fabric patches not re-
+quiring rib stitching or the removal of struc-
+tural parts or control surfaces. In the case of 
+balloons, the making of small fabric repairs 
+to envelopes (as defined in, and in accord-
+ance with, the balloon manufacturers’ in-
+structions) not requiring load tape repair or 
+replacement. 
+(8) Replenishing hydraulic fluid in the hy-
+draulic reservoir. 
+(9) Refinishing decorative coating of fuse-
+lage, balloon baskets, wings tail group sur-
+faces (excluding balanced control surfaces), 
+fairings, cowlings, landing gear, cabin, or 
+cockpit interior when removal or dis-
+assembly of any primary structure or oper-
+ating system is not required. 
+(10) Applying preservative or protective 
+material to components where no dis-
+assembly of any primary structure or oper-
+ating system is involved and where such 
+coating is not prohibited or is not contrary 
+to good practices. 
+(11) Repairing upholstery and decorative 
+furnishings of the cabin, cockpit, or balloon 
+basket interior when the repairing does not 
+require disassembly of any primary struc-
+ture or operating system or interfere with an 
+operating system or affect the primary 
+structure of the aircraft. 
+(12) Making small simple repairs to fair-
+ings, nonstructural cover plates, cowlings, 
+and small patches and reinforcements not
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+882 
+14 CFR Ch. I (1–1–25 Edition) Pt. 43, App. B 
+changing the contour so as to interfere with 
+proper air flow. 
+(13) Replacing side windows where that 
+work does not interfere with the structure or 
+any operating system such as controls, elec-
+trical equipment, etc. 
+(14) Replacing safety belts. 
+(15) Replacing seats or seat parts with re-
+placement parts approved for the aircraft, 
+not involving disassembly of any primary 
+structure or operating system. 
+(16) Trouble shooting and repairing broken 
+circuits in landing light wiring circuits. 
+(17) Replacing bulbs, reflectors, and lenses 
+of position and landing lights. 
+(18) Replacing wheels and skis where no 
+weight and balance computation is involved. 
+(19) Replacing any cowling not requiring 
+removal of the propeller or disconnection of 
+flight controls. 
+(20) Replacing or cleaning spark plugs and 
+setting of spark plug gap clearance. 
+(21) Replacing any hose connection except 
+hydraulic connections. 
+(22) Replacing prefabricated fuel lines. 
+(23) Cleaning or replacing fuel and oil 
+strainers or filter elements. 
+(24) Replacing and servicing batteries. 
+(25) Cleaning of balloon burner pilot and 
+main nozzles in accordance with the balloon 
+manufacturer’s instructions. 
+(26) Replacement or adjustment of non-
+structural standard fasteners incidental to 
+operations. 
+(27) The interchange of balloon baskets and 
+burners on envelopes when the basket or 
+burner is designated as interchangeable in 
+the balloon type certificate data and the bas-
+kets and burners are specifically designed for 
+quick removal and installation. 
+(28) The installations of anti-misfueling de-
+vices to reduce the diameter of fuel tank 
+filler openings provided the specific device 
+has been made a part of the aircraft type 
+certificiate data by the aircraft manufac-
+turer, the aircraft manufacturer has pro-
+vided FAA-approved instructions for instal-
+lation of the specific device, and installation 
+does not involve the disassembly of the ex-
+isting tank filler opening. 
+(29) Removing, checking, and replacing 
+magnetic chip detectors. 
+(30) The inspection and maintenance tasks 
+prescribed and specifically identified as pre-
+ventive maintenance in a primary category 
+aircraft type certificate or supplemental 
+type certificate holder’s approved special in-
+spection and preventive maintenance pro-
+gram when accomplished on a primary cat-
+egory aircraft provided: 
+(i) They are performed by the holder of at 
+least a private pilot certificate issued under 
+part 61 of this chapter who is the registered 
+owner (including co-owners) of the affected 
+aircraft and who holds a certificate of com-
+petency for the affected aircraft (1) issued by 
+the holder of the production certificate for 
+that primary category aircraft that has a 
+special training program approved under 
+§ 21.24 of this subchapter; or (2) issued by an-
+other entity that has a course approved by 
+the Administrator; and 
+(ii) The inspections and maintenance tasks 
+are performed in accordance with instruc-
+tions contained by the special inspection and 
+preventive maintenance program approved 
+as part of the aircraft’s type design or sup-
+plemental type design. 
+(31) Removing and replacing self-con-
+tained, front instrument panel-mounted 
+navigation and communication devices that 
+employ tray-mounted connectors that con-
+nect the unit when the unit is installed into 
+the instrument panel, (excluding automatic 
+flight control systems, transponders, and 
+microwave frequency distance measuring 
+equipment (DME)). The approved unit must 
+be designed to be readily and repeatedly re-
+moved and replaced, and pertinent instruc-
+tions must be provided. Prior to the unit’s 
+intended use, and operational check must be 
+performed in accordance with the applicable 
+sections of part 91 of this chapter. 
+(Secs. 313, 601 through 610, and 1102, Federal 
+Aviation Act of 1958 as amended (49 U.S.C. 
+1354, 1421 through 1430 and 1502); (49 U.S.C. 
+106(g) (Revised Pub. L. 97–449, Jan. 21, 1983); 
+and 14 CFR 11.45) 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–14, 37 FR 14291, June 
+19, 1972; Amdt. 43–23, 47 FR 41086, Sept. 16, 
+1982; Amdt. 43–24, 49 FR 44602, Nov. 7, 1984; 
+Amdt. 43–25, 51 FR 40703, Nov. 7, 1986; Amdt. 
+43–27, 52 FR 17277, May 6, 1987; Amdt. 43–34, 57 
+FR 41369, Sept. 9, 1992; Amdt. 43–36, 61 FR 
+19501, May 1, 1996; Amdt. 43–45, 77 FR 71096, 
+Nov. 29, 2012; Docket No. FAA–2021–0237, 
+Amdt. No. 43–52, 87 FR 31414, May 24, 2022] 
+APPENDIX B TO PART 43—R ECORDING OF  
+MAJOR REPAIRS AND MAJOR ALTER-
+ATIONS 
+(a) Except as provided in paragraphs (b), 
+(c), and (d) of this appendix, each person per-
+forming a major repair or major alteration 
+shall— 
+(1) Execute FAA Form 337 at least in dupli-
+cate; 
+(2) Give a signed copy of that form to the 
+aircraft owner; and 
+(3) Forward a copy of that form to the FAA 
+Aircraft Registration Branch in Oklahoma 
+City, Oklahoma, within 48 hours after the 
+aircraft, airframe, aircraft engine, propeller, 
+or appliance is approved for return to serv-
+ice. 
+(b) For major repairs made in accordance 
+with a manual or specifications acceptable 
+to the Administrator, a certificated repair 
+station may, in place of the requirements of 
+paragraph (a)—
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+883 
+Federal Aviation Administration, DOT Pt. 43, App. D 
+(1) Use the customer’s work order upon 
+which the repair is recorded; 
+(2) Give the aircraft owner a signed copy of 
+the work order and retain a duplicate copy 
+for at least two years from the date of ap-
+proval for return to service of the aircraft, 
+airframe, aircraft engine, propeller, or appli-
+ance; 
+(3) Give the aircraft owner a maintenance 
+release signed by an authorized representa-
+tive of the repair station and incorporating 
+the following information: 
+(i) Identity of the aircraft, airframe, air-
+craft engine, propeller or appliance. 
+(ii) If an aircraft, the make, model, serial 
+number, nationality and registration marks, 
+and location of the repaired area. 
+(iii) If an airframe, aircraft engine, pro-
+peller, or appliance, give the manufacturer’s 
+name, name of the part, model, and serial 
+numbers (if any); and 
+(4) Include the following or a similarly 
+worded statement— 
+‘‘The aircraft, airframe, aircraft engine, 
+propeller, or appliance identified above was 
+repaired and inspected in accordance with 
+current Regulations of the Federal Aviation 
+Agency and is approved for return to service. 
+Pertinent details of the repair are on file 
+at this repair station under Order No. ___, 
+Date lllllllllllllllllllll
+Signed llllllllllllllllllll
+For signature of authorized representative) 
+Repair station name) (Certificate No.) 
+____________.’’ 
+(Address) 
+(c) Except as provided in paragraph (d) of 
+this appendix, for a major repair or major al-
+teration made by a person authorized in 
+§ 43.17, the person who performs the major re-
+pair or major alteration and the person au-
+thorized by § 43.17 to approve that work shall 
+execute an FAA Form 337 at least in dupli-
+cate. A completed copy of that form shall 
+be— 
+(1) Given to the aircraft owner; and 
+(2) Forwarded to the Federal Aviation Ad-
+ministration, Aircraft Registration Branch, 
+Post Office Box 25504, Oklahoma City, OK 
+73125, within 48 hours after the work is in-
+spected. 
+(d) For extended-range fuel tanks installed 
+within the passenger compartment or a bag-
+gage compartment, the person who performs 
+the work and the person authorized to ap-
+prove the work by § 43.7 shall execute an FAA 
+Form 337 in at least triplicate. A completed 
+copy of that form shall be— 
+(1) Placed on board the aircraft as specified 
+in § 91.417 of this chapter; 
+(2) Given to the aircraft owner; and 
+(3) Forwarded to the Federal Aviation Ad-
+ministration, Aircraft Registration Branch, , 
+Post Office Box 25724, Oklahoma City, OK 
+73125, within 48 hours after the work is in-
+spected. 
+(Secs. 101, 610, 72 Stat. 737, 780, 49 U.S.C. 1301, 
+1430) 
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as 
+amended by Amdt. 43–10, 33 FR 15989, Oct. 31, 
+1968; Amdt. 43–29, 52 FR 34101, Sept. 9, 1987; 
+Amdt. 43–31, 54 FR 34330, Aug. 18, 1989; 71 FR 
+58495, Oct. 4, 2006; Amdt. 43–41, 72 FR 53680, 
+Sept. 20, 2007; Doc. No. FAA–2018–0119, Amdt. 
+43–50, 83 FR 9170, Mar. 5, 2018] 
+APPENDIX C TO PART 43 [RESERVED] 
+APPENDIX D TO PART 43—S COPE AND DE-
+TAIL OF ITEMS (AS APPLICABLE TO  
+THE PARTICULAR AIRCRAFT) T O BE 
+INCLUDED IN ANNUAL AND 100-HOUR 
+INSPECTIONS 
+(a) Each person performing an annual or 
+100-hour inspection shall, before that inspec-
+tion, remove or open all necessary inspection 
+plates, access doors, fairing, and cowling. He 
+shall thoroughly clean the aircraft and air-
+craft engine. 
+(b) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) the following components of the fu-
+selage and hull group: 
+(1) Fabric and skin—for deterioration, dis-
+tortion, other evidence of failure, and defec-
+tive or insecure attachment of fittings. 
+(2) Systems and components—for improper 
+installation, apparent defects, and unsatis-
+factory operation. 
+(3) Envelope, gas bags, ballast tanks, and 
+related parts—for poor condition. 
+(c) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) the following components of the 
+cabin and cockpit group: 
+(1) Generally—for uncleanliness and loose 
+equipment that might foul the controls. 
+(2) Seats and safety belts—for poor condi-
+tion and apparent defects. 
+(3) Windows and windshields—for deterio-
+ration and breakage. 
+(4) Instruments—for poor condition, 
+mounting, marking, and (where practicable) 
+improper operation. 
+(5) Flight and engine controls—for im-
+proper installation and improper operation. 
+(6) Batteries—for improper installation and 
+improper charge. 
+(7) All systems—for improper installation, 
+poor general condition, apparent and obvious 
+defects, and insecurity of attachment. 
+(d) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) components of the engine and na-
+celle group as follows: 
+(1) Engine section—for visual evidence of 
+excessive oil, fuel, or hydraulic leaks, and 
+sources of such leaks.
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+884 
+14 CFR Ch. I (1–1–25 Edition) Pt. 43, App. E 
+(2) Studs and nuts—for improper torquing 
+and obvious defects. 
+(3) Internal engine—for cylinder compres-
+sion and for metal particles or foreign mat-
+ter on screens and sump drain plugs. If there 
+is weak cylinder compression, for improper 
+internal condition and improper internal tol-
+erances. 
+(4) Engine mount—for cracks, looseness of 
+mounting, and looseness of engine to mount. 
+(5) Flexible vibration dampeners—for poor 
+condition and deterioration. 
+(6) Engine controls—for defects, improper 
+travel, and improper safetying. 
+(7) Lines, hoses, and clamps—for leaks, im-
+proper condition and looseness. 
+(8) Exhaust stacks—for cracks, defects, and 
+improper attachment. 
+(9) Accessories—for apparent defects in se-
+curity of mounting. 
+(10) All systems—for improper installation, 
+poor general condition, defects, and insecure 
+attachment. 
+(11) Cowling—for cracks, and defects. 
+(e) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) the following components of the 
+landing gear group: 
+(1) All units—for poor condition and inse-
+curity of attachment. 
+(2) Shock absorbing devices—for improper 
+oleo fluid level. 
+(3) Linkages, trusses, and members—for 
+undue or excessive wear fatigue, and distor-
+tion. 
+(4) Retracting and locking mechanism—for 
+improper operation. 
+(5) Hydraulic lines—for leakage. 
+(6) Electrical system—for chafing and im-
+proper operation of switches. 
+(7) Wheels—for cracks, defects, and condi-
+tion of bearings. 
+(8) Tires—for wear and cuts. 
+(9) Brakes—for improper adjustment. 
+(10) Floats and skis—for insecure attach-
+ment and obvious or apparent defects. 
+(f) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) all components of the wing and cen-
+ter section assembly for poor general condi-
+tion, fabric or skin deterioration, distortion, 
+evidence of failure, and insecurity of attach-
+ment. 
+(g) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) all components and systems that 
+make up the complete empennage assembly 
+for poor general condition, fabric or skin de-
+terioration, distortion, evidence of failure, 
+insecure attachment, improper component 
+installation, and improper component oper-
+ation. 
+(h) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) the following components of the 
+propeller group: 
+(1) Propeller assembly—for cracks, nicks, 
+binds, and oil leakage. 
+(2) Bolts—for improper torquing and lack 
+of safetying. 
+(3) Anti-icing devices—for improper oper-
+ations and obvious defects. 
+(4) Control mechanisms—for improper op-
+eration, insecure mounting, and restricted 
+travel. 
+(i) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) the following components of the 
+radio group: 
+(1) Radio and electronic equipment—for 
+improper installation and insecure mount-
+ing. 
+(2) Wiring and conduits—for improper rout-
+ing, insecure mounting, and obvious defects. 
+(3) Bonding and shielding—for improper in-
+stallation and poor condition. 
+(4) Antenna including trailing antenna—for 
+poor condition, insecure mounting, and im-
+proper operation. 
+(j) Each person performing an annual or 
+100-hour inspection shall inspect (where ap-
+plicable) each installed miscellaneous item 
+that is not otherwise covered by this listing 
+for improper installation and improper oper-
+ation. 
+APPENDIX E TO PART 43—A LTIMETER 
+SYSTEM TEST AND INSPECTION 
+Each person performing the altimeter sys-
+tem tests and inspections required by § 91.411 
+of this chapter must comply with the fol-
+lowing: 
+(a) Static pressure system: 
+(1) Ensure freedom from entrapped mois-
+ture and restrictions. 
+(2) Perform a proof test to demonstrate the 
+integrity of the static pressure system in a 
+manner acceptable to the Administrator. For 
+airplanes certificated under part 25 of this 
+chapter, determine that leakage is within 
+the tolerances established by § 25.1325. 
+(3) Determine that the static port heater, 
+if installed, is operative. 
+(4) Ensure that no alterations or deforma-
+tions of the airframe surface have been made 
+that would affect the relationship between 
+air pressure in the static pressure system 
+and true ambient static air pressure for any 
+flight condition. 
+(b) Altimeter: 
+(1) Test by an appropriately rated repair 
+facility in accordance with the following 
+subparagraphs. Unless otherwise specified, 
+each test for performance may be conducted 
+with the instrument subjected to vibration. 
+When tests are conducted with the tempera-
+ture substantially different from ambient 
+temperature of approximately 25 degrees C., 
+allowance shall be made for the variation 
+from the specified condition.
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+885 
+Federal Aviation Administration, DOT Pt. 43, App. E 
+(i) Scale error. With the barometric pres-
+sure scale at 29.92 inches of mercury, the al-
+timeter shall be subjected successively to 
+pressures corresponding to the altitude spec-
+ified in Table I up to the maximum normally 
+expected operating altitude of the airplane 
+in which the altimeter is to be installed. The 
+reduction in pressure shall be made at a rate 
+not in excess of 20,000 feet per minute to 
+within approximately 2,000 feet of the test 
+point. The test point shall be approached at 
+a rate compatible with the test equipment. 
+The altimeter shall be kept at the pressure 
+corresponding to each test point for at least 
+1 minute, but not more than 10 minutes, be-
+fore a reading is taken. The error at all test 
+points must not exceed the tolerances speci-
+fied in Table I. 
+(ii) Hysteresis. The hysteresis test shall 
+begin not more than 15 minutes after the al-
+timeter’s initial exposure to the pressure 
+corresponding to the upper limit of the scale 
+error test prescribed in subparagraph (i); and 
+while the altimeter is at this pressure, the 
+hysteresis test shall commence. Pressure 
+shall be increased at a rate simulating a de-
+scent in altitude at the rate of 5,000 to 20,000 
+feet per minute until within 3,000 feet of the 
+first test point (50 percent of maximum alti-
+tude). The test point shall then be ap-
+proached at a rate of approximately 3,000 
+feet per minute. The altimeter shall be kept 
+at this pressure for at least 5 minutes, but 
+not more than 15 minutes, before the test 
+reading is taken. After the reading has been 
+taken, the pressure shall be increased fur-
+ther, in the same manner as before, until the 
+pressure corresponding to the second test 
+point (40 percent of maximum altitude) is 
+reached. The altimeter shall be kept at this 
+pressure for at least 1 minute, but not more 
+than 10 minutes, before the test reading is 
+taken. After the reading has been taken, the 
+pressure shall be increased further, in the 
+same manner as before, until atmospheric 
+pressure is reached. The reading of the al-
+timeter at either of the two test points shall 
+not differ by more than the tolerance speci-
+fied in Table II from the reading of the al-
+timeter for the corresponding altitude re-
+corded during the scale error test prescribed 
+in paragraph (b)(i). 
+(iii) After effect. Not more than 5 minutes 
+after the completion of the hysteresis test 
+prescribed in paragraph (b)(ii), the reading of 
+the altimeter (corrected for any change in 
+atmospheric pressure) shall not differ from 
+the original atmospheric pressure reading by 
+more than the tolerance specified in Table 
+II. 
+(iv) Friction. The altimeter shall be sub-
+jected to a steady rate of decrease of pres-
+sure approximating 750 feet per minute. At 
+each altitude listed in Table III, the change 
+in reading of the pointers after vibration 
+shall not exceed the corresponding tolerance 
+listed in Table III. 
+(v) Case leak. The leakage of the altimeter 
+case, when the pressure within it cor-
+responds to an altitude of 18,000 feet, shall 
+not change the altimeter reading by more 
+than the tolerance shown in Table II during 
+an interval of 1 minute. 
+(vi) Barometric scale error. At constant at-
+mospheric pressure, the barometric pressure 
+scale shall be set at each of the pressures 
+(falling within its range of adjustment) that 
+are listed in Table IV, and shall cause the 
+pointer to indicate the equivalent altitude 
+difference shown in Table IV with a toler-
+ance of 25 feet. 
+(2) Altimeters which are the air data com-
+puter type with associated computing sys-
+tems, or which incorporate air data correc-
+tion internally, may be tested in a manner 
+and to specifications developed by the manu-
+facturer which are acceptable to the Admin-
+istrator. 
+(c) Automatic Pressure Altitude Reporting 
+Equipment and ATC Transponder System In-
+tegration Test. The test must be conducted 
+by an appropriately rated person under the 
+conditions specified in paragraph (a). Meas-
+ure the automatic pressure altitude at the 
+output of the installed ATC transponder 
+when interrogated on Mode C at a sufficient 
+number of test points to ensure that the alti-
+tude reporting equipment, altimeters, and 
+ATC transponders perform their intended 
+functions as installed in the aircraft. The 
+difference between the automatic reporting 
+output and the altitude displayed at the al-
+timeter shall not exceed 125 feet. 
+(d) Records: Comply with the provisions of 
+§ 43.9 of this chapter as to content, form, and 
+disposition of the records. The person per-
+forming the altimeter tests shall record on 
+the altimeter the date and maximum alti-
+tude to which the altimeter has been tested 
+and the persons approving the airplane for 
+return to service shall enter that data in the 
+airplane log or other permanent record. 
+TABLE I 
+Altitude 
+Equivalent 
+pressure 
+(inches of 
+mercury) 
+Tolerance 
+±(feet) 
+¥1,000 .......................................... 31.018 20 
+0 ..................................................... 29.921 20 
+500 ................................................. 29.385 20 
+1,000 .............................................. 28.856 20 
+1,500 .............................................. 28.335 25 
+2,000 .............................................. 27.821 30 
+3,000 .............................................. 26.817 30 
+4,000 .............................................. 25.842 35 
+6,000 .............................................. 23.978 40 
+8,000 .............................................. 22.225 60 
+10,000 ............................................ 20.577 80 
+12,000 ............................................ 19.029 90 
+14,000 ............................................ 17.577 100 
+16,000 ............................................ 16.216 110 
+18,000 ............................................ 14.942 120 
+20,000 ............................................ 13.750 130 
+22,000 ............................................ 12.636 140
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+886 
+14 CFR Ch. I (1–1–25 Edition) Pt. 43, App. F 
+TABLE I—Continued 
+Altitude 
+Equivalent 
+pressure 
+(inches of 
+mercury) 
+Tolerance 
+±(feet) 
+25,000 ............................................ 11.104 155 
+30,000 ............................................ 8.885 180 
+35,000 ............................................ 7.041 205 
+40,000 ............................................ 5.538 230 
+45,000 ............................................ 4.355 255 
+50,000 ............................................ 3.425 280 
+TABLE II—T EST TOLERANCES 
+Test Tolerance 
+(feet) 
+Case Leak Test ............................................... ±100 
+Hysteresis Test: 
+First Test Point (50 percent of maximum 
+altitude) ................................................. 75 
+Second Test Point (40 percent of max-
+imum altitude) ....................................... 75 
+After Effect Test ............................................... 30 
+TABLE III—F RICTION 
+Altitude (feet) Tolerance 
+(feet) 
+1,000 .................................................................... ±70 
+2,000 .................................................................... 70 
+3,000 .................................................................... 70 
+5,000 .................................................................... 70 
+10,000 .................................................................. 80 
+15,000 .................................................................. 90 
+20,000 .................................................................. 100 
+25,000 .................................................................. 120 
+30,000 .................................................................. 140 
+35,000 .................................................................. 160 
+40,000 .................................................................. 180 
+50,000 .................................................................. 250 
+TABLE IV—P RESSURE-ALTITUDE DIFFERENCE 
+Pressure (inches of Hg) 
+Altitude dif-
+ference 
+(feet) 
+28.10 .................................................................... ¥1,727 
+28.50 .................................................................... ¥1,340 
+29.00 .................................................................... ¥863 
+29.50 .................................................................... ¥392 
+29.92 .................................................................... 0 
+30.50 .................................................................... + 531 
+30.90 .................................................................... + 893 
+30.99 .................................................................... + 974 
+(Secs. 313, 314, and 601 through 610 of the Fed-
+eral Aviation Act of 1958 (49 U.S.C. 1354, 1355, 
+and 1421 through 1430) and sec. 6(c), Dept. of 
+Transportation Act (49 U.S.C. 1655(c))) 
+[Amdt. 43–2, 30 FR 8262, June 29, 1965, as 
+amended by Amdt. 43–7, 32 FR 7587, May 24, 
+1967; Amdt. 43–19, 43 FR 22639, May 25, 1978; 
+Amdt. 43–23, 47 FR 41086, Sept. 16, 1982; Amdt. 
+43–31, 54 FR 34330, Aug. 18, 1989; Doc. No. 
+FAA–2015–1621, Amdt. 43–49, 81 FR 96700, Dec. 
+30, 2016] 
+APPENDIX F TO PART 43—ATC 
+TRANSPONDER TESTS AND INSPECTIONS 
+The ATC transponder tests required by 
+§ 91.413 of this chapter may be conducted 
+using a bench check or portable test equip-
+ment and must meet the requirements pre-
+scribed in paragraphs (a) through (j) of this 
+appendix. If portable test equipment with ap-
+propriate coupling to the aircraft antenna 
+system is used, operate the test equipment 
+for ATCRBS transponders at a nominal rate 
+of 235 interrogations per second to avoid pos-
+sible ATCRBS interference. Operate the test 
+equipment at a nominal rate of 50 Mode S in-
+terrogations per second for Mode S. An addi-
+tional 3 dB loss is allowed to compensate for 
+antenna coupling errors during receiver sen-
+sitivity measurements conducted in accord-
+ance with paragraph (c)(1) when using port-
+able test equipment. 
+(a) Radio Reply Frequency: 
+(1) For all classes of ATCRBS tran-
+sponders, interrogate the transponder and 
+verify that the reply frequency is 1090 ±3 
+Megahertz (MHz). 
+(2) For classes 1B, 2B, and 3B Mode S tran-
+sponders, interrogate the transponder and 
+verify that the reply frequency is 1090 ±3 
+MHz. 
+(3) For classes 1B, 2B, and 3B Mode S tran-
+sponders that incorporate the optional 1090 
+±1 MHz reply frequency, interrogate the 
+transponder and verify that the reply fre-
+quency is correct. 
+(4) For classes 1A, 2A, 3A, and 4 Mode S 
+transponders, interrogate the transponder 
+and verify that the reply frequency is 1090 ±1 
+MHz. 
+(b) Suppression: When Classes 1B and 2B 
+ATCRBS Transponders, or Classes 1B, 2B, 
+and 3B Mode S transponders are interrogated 
+Mode 3/A at an interrogation rate between 
+230 and 1,000 interrogations per second; or 
+when Classes 1A and 2A ATCRBS Tran-
+sponders, or Classes 1B, 2A, 3A, and 4 Mode S 
+transponders are interrogated at a rate be-
+tween 230 and 1,200 Mode 3/A interrogations 
+per second: 
+(1) Verify that the transponder does not re-
+spond to more than 1 percent of ATCRBS in-
+terrogations when the amplitude of P
+2 pulse 
+is equal to the P1 pulse. 
+(2) Verify that the transponder replies to 
+at least 90 percent of ATCRBS interrogations 
+when the amplitude of the P
+2 pulse is 9 dB 
+less than the P 1 pulse. If the test is con-
+ducted with a radiated test signal, the inter-
+rogation rate shall be 235 ±5 interrogations 
+per second unless a higher rate has been ap-
+proved for the test equipment used at that 
+location. 
+(c) Receiver Sensitivity: 
+(1) Verify that for any class of ATCRBS 
+Transponder, the receiver minimum trig-
+gering level (MTL) of the system is ¥73 ±4
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:14_CFR_Part_43.pdf>>>
+========================================
+
+887 
+Federal Aviation Administration, DOT Pt. 45 
+dbm, or that for any class of Mode S trans-
+ponder the receiver MTL for Mode S format 
+(P6 type) interrogations is ¥74 ±3 dbm by use 
+of a test set either: 
+(i) Connected to the antenna end of the 
+transmission line; 
+(ii) Connected to the antenna terminal of 
+the transponder with a correction for trans-
+mission line loss; or 
+(iii) Utilized radiated signal. 
+(2) Verify that the difference in Mode 3/A 
+and Mode C receiver sensitivity does not ex-
+ceed 1 db for either any class of ATCRBS 
+transponder or any class of Mode S trans-
+ponder. 
+(d) Radio Frequency (RF) Peak Output 
+Power: 
+(1) Verify that the transponder RF output 
+power is within specifications for the class of 
+transponder. Use the same conditions as de-
+scribed in (c)(1)(i), (ii), and (iii) above. 
+(i) For Class 1A and 2A ATCRBS tran-
+sponders, verify that the minimum RF peak 
+output power is at least 21.0 dbw (125 watts). 
+(ii) For Class 1B and 2B ATCRBS Tran-
+sponders, verify that the minimum RF peak 
+output power is at least 18.5 dbw (70 watts). 
+(iii) For Class 1A, 2A, 3A, and 4 and those 
+Class 1B, 2B, and 3B Mode S transponders 
+that include the optional high RF peak out-
+put power, verify that the minimum RF peak 
+output power is at least 21.0 dbw (125 watts). 
+(iv) For Classes 1B, 2B, and 3B Mode S 
+transponders, verify that the minimum RF 
+peak output power is at least 18.5 dbw (70 
+watts). 
+(v) For any class of ATCRBS or any class 
+of Mode S transponders, verify that the max-
+imum RF peak output power does not exceed 
+27.0 dbw (500 watts). 
+N
+OTE: The tests in (e) through (j) apply 
+only to Mode S transponders. 
+(e) Mode S Diversity Transmission Channel 
+Isolation: For any class of Mode S trans-
+ponder that incorporates diversity operation, 
+verify that the RF peak output power trans-
+mitted from the selected antenna exceeds 
+the power transmitted from the nonselected 
+antenna by at least 20 db. 
+(f) Mode S Address: Interrogate the Mode S 
+transponder and verify that it replies only to 
+its assigned address. Use the correct address 
+and at least two incorrect addresses. The in-
+terrogations should be made at a nominal 
+rate of 50 interrogations per second. 
+(g) Mode S Formats: Interrogate the Mode 
+S transponder with uplink formats (UF) for 
+which it is equipped and verify that the re-
+plies are made in the correct format. Use the 
+surveillance formats UF = 4 and 5. Verify 
+that the altitude reported in the replies to 
+UF = 4 are the same as that reported in a 
+valid ATCRBS Mode C reply. Verify that the 
+identity reported in the replies to UF = 5 are 
+the same as that reported in a valid ATCRBS 
+Mode 3/A reply. If the transponder is so 
+equipped, use the communication formats 
+UF = 20, 21, and 24. 
+(h) Mode S All-Call Interrogations: Inter-
+rogate the Mode S transponder with the 
+Mode S-only all-call format UF = 11 and 
+verify that the correct address and capa-
+bility are reported in the replies (downlink 
+format DF = 11). 
+(i) ATCRBS-Only All-Call Interrogation: 
+Interrogate the Mode S transponder with the 
+ATCRBS-only all-call interrogation (0.8 
+microsecond P
+4 pulse) and verify that no 
+reply is generated. 
+(j) Squitter: Verify that the Mode S trans-
+ponder generates a correct acquisition 
+squitter approximately once per second. 
+(k) Records: Comply with the provisions of 
+§ 43.9 of this chapter as to content, form, and 
+disposition of the records. 
+[Amdt. 43–26, 52 FR 3390, Feb. 3, 1987; 52 FR 
+6651, Mar. 4, 1987, as amended by Amdt. 43–31, 
+54 FR 34330, Aug. 18, 1989; Amdt. 43–53, 88 FR 
+71476, Oct. 17, 2023] 
+PART 45—IDENTIFICATION AND 
+REGISTRATION MARKING 
+Subpart A—General 
+Sec. 
+45.1 Applicability. 
+Subpart B—Marking of Products and 
+Articles 
+45.10 Marking. 
+45.11 Marking of products. 
+45.13 Identification data. 
+45.15 Marking requirements for PMA arti-
+cles, TSO articles, and Critical parts. 
+45.16 Marking of life-limited parts. 
+Subpart C—Nationality and Registration 
+Marks 
+45.21 General. 
+45.22 Exhibition, antique, and other air-
+craft: Special rules. 
+45.23 Display of marks; general. 
+45.25 Location of marks on fixed-wing air-
+craft. 
+45.27 Location of marks; nonfixed-wing air-
+craft. 
+45.29 Size of marks. 
+45.31 Marking of export aircraft. 
+45.33 Sale of aircraft; removal of marks. 
+A
+UTHORITY: 49 U.S.C. 106(f), 106(g), 40103, 
+40113–40114, 44101–44105, 44107–44111, 44504, 
+44701, 44708–44709, 44711–44713, 44725, 45302– 
+45303, 46104, 46304, 46306, 47122. 
+S
+OURCE: Docket No. 2047, 29 FR 3223, Mar. 
+11, 1964, unless otherwise noted. 
+EDITORIAL NOTE: Nomenclature changes to 
+part 45 appear at 74 FR 53394, Oct. 16, 2009.

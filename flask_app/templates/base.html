@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1"
+    >
+
+    <title>
+        {% block title %}
+        Flight Guide
+        {% endblock %}
+    </title>
+    <link
+        rel="icon"
+        type="image/png"
+        href="{{ url_for(
+            'static',
+            filename='branding/flight_guide_aircraft_mark.png'
+        ) }}"
+    >    
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+
+    {% block head %}
+    {% endblock %}
+
+</head>
+
+
+<body
+    data-current-path="{{ current_path }}"
+    data-has-lesson="{% if current_path != '/' %}true{% else %}false{% endif %}"
+>
+
+
+<!-- =====================================================
+     MOBILE NAVIGATION CONTROLS
+===================================================== -->
+
+<button
+    id="mobile-nav-button"
+    class="mobile-nav-button"
+    type="button"
+    aria-label="Open navigation"
+>
+    ☰
+</button>
+
+<div
+    id="mobile-nav-overlay"
+    class="mobile-nav-overlay"
+></div>
+
+
+<div class="app-shell">
+
+
+    <!-- =================================================
+         SIDEBAR
+    ================================================== -->
+
+    <aside class="sidebar">
+
+        <a
+            href="/"
+            class="brand"
+            aria-label="Flight Guide Home"
+        >
+            <img
+                src="{{ url_for('static', filename='branding/flight_guide_horizontal_logo.png') }}"
+                alt="Flight Guide"
+                class="brand-logo"
+            >
+        </a>
+
+
+        <a
+            href="/"
+            class="nav-link home-link"
+        >
+            Home
+        </a>
+
+
+        <!-- GENERAL LIBRARY CHAT -->
+
+        <button
+            id="open-library-assistant"
+            class="assistant-button"
+            type="button"
+            title="Request a Vector"
+            aria-label="Request a Vector"
+        >
+            Request a Vector
+        </button>
+
+
+        <!-- =================================================
+             NAVIGATION
+        ================================================== -->
+
+        {% macro render_tree(nodes) %}
+
+            <ul class="nav-tree">
+
+                {% for node in nodes %}
+
+                    <li class="nav-item">
+
+                        {% if node.has_lesson %}
+
+                            <a
+                                href="{{ node.url }}"
+                                class="
+                                    nav-link
+                                    {% if current_path == node.url %}
+                                        active
+                                    {% endif %}
+                                "
+                            >
+                                {{ node.title }}
+                            </a>
+
+
+                        {% elif node.children %}
+
+                            <button
+                                type="button"
+                                class="nav-group nav-toggle"
+                                aria-expanded="false"
+                            >
+
+                                <span>
+                                    {{ node.title }}
+                                </span>
+
+                                <span
+                                    class="nav-chevron"
+                                    aria-hidden="true"
+                                >
+                                    ›
+                                </span>
+
+                            </button>
+
+
+                            <div
+                                class="nav-children"
+                                hidden
+                            >
+
+                                {{ render_tree(node.children) }}
+
+                            </div>
+
+
+                        {% else %}
+
+                            <div class="nav-group">
+                                {{ node.title }}
+                            </div>
+
+                        {% endif %}
+
+                    </li>
+
+                {% endfor %}
+
+            </ul>
+
+        {% endmacro %}
+
+
+        {% if nav_title %}
+
+            <div class="nav-context">
+                {{ nav_title }}
+            </div>
+
+        {% endif %}
+
+        {% if tree %}
+
+            <nav>
+                {{ render_tree(tree) }}
+            </nav>
+
+        {% endif %}
+
+    </aside>
+
+
+    <!-- =================================================
+         MAIN CONTENT
+    ================================================== -->
+
+    <main class="main-content">
+
+        {% block content %}
+        {% endblock %}
+
+    </main>
+
+</div>
+
+
+<!-- =====================================================
+     FLOATING CURRENT-LESSON CHAT BUTTON
+===================================================== -->
+
+{% if current_path != "/" %}
+
+<button
+    id="open-lesson-assistant"
+    class="lesson-assistant-fab"
+    type="button"
+    title="Request a Vector"
+    aria-label="Request a Vector"
+>
+
+    <img
+        src="{{ url_for('static', filename='branding/vector_app_icon.png') }}"
+        alt=""
+        aria-hidden="true"
+    >
+
+</button>
+
+{% endif %}
+
+
+<!-- =====================================================
+     SHARED ASSISTANT OVERLAY
+===================================================== -->
+
+<div
+    id="assistant-overlay"
+    class="assistant-overlay"
+></div>
+
+
+<!-- =====================================================
+     GENERAL LIBRARY CHAT
+===================================================== -->
+
+<aside
+    id="library-assistant-drawer"
+    class="assistant-drawer"
+>
+
+    <div class="assistant-header">
+
+        <div class="assistant-header-brand">
+
+            <img
+                src="{{ url_for('static', filename='branding/vector_app_icon.png') }}"
+                alt="Vector"
+                class="assistant-brand-icon"
+            >
+
+            <div>
+
+                <div class="assistant-title">
+                    Request a Vector
+                </div>
+
+                <div class="assistant-subtitle">
+                    Your Flight Guide aviation knowledge assistant.
+                </div>
+
+            </div>
+
+        </div>
+
+        <button
+            class="assistant-close"
+            data-close-assistant
+            type="button"
+        >
+            ×
+        </button>
+
+    </div>
+
+
+    <div
+        id="library-messages"
+        class="assistant-messages"
+    ></div>
+
+
+    <form
+        id="library-form"
+        class="assistant-form"
+    >
+
+        <textarea
+            id="library-input"
+            rows="2"
+            placeholder="Ask or find anything..."
+            required
+        ></textarea>
+
+        <button type="submit">
+            Send
+        </button>
+
+    </form>
+
+</aside>
+
+
+<!-- =====================================================
+     CURRENT LESSON CHAT
+===================================================== -->
+
+{% if current_path != "/" %}
+
+<aside
+    id="lesson-assistant-drawer"
+    class="assistant-drawer lesson-assistant-drawer"
+>
+
+    <div class="assistant-header">
+
+        <div class="assistant-header-brand">
+
+            <img
+                src="{{ url_for('static', filename='branding/vector_app_icon.png') }}"
+                alt="Vector"
+                class="assistant-brand-icon"
+            >
+
+            <div>
+
+                <div class="assistant-title">
+                    Request a Vector
+                </div>
+
+                <div class="assistant-subtitle">
+                    Vector is focused on the lesson you are viewing.
+                </div>
+
+            </div>
+
+        </div>
+
+        <button
+            class="assistant-close"
+            data-close-assistant
+            type="button"
+        >
+            ×
+        </button>
+
+    </div>
+
+
+    <div
+        id="lesson-messages"
+        class="assistant-messages"
+    ></div>
+
+
+    <form
+        id="lesson-form"
+        class="assistant-form"
+    >
+
+        <textarea
+            id="lesson-input"
+            rows="2"
+            placeholder="Ask about this lesson..."
+            required
+        ></textarea>
+
+        <button type="submit">
+            Send
+        </button>
+
+    </form>
+
+</aside>
+
+{% endif %}
+
+
+<!-- =====================================================
+     NAVIGATION JAVASCRIPT
+===================================================== -->
+
+<script>
+
+document.addEventListener(
+    "DOMContentLoaded",
+    function () {
+
+
+        /* =============================================
+           COLLAPSIBLE NAVIGATION SECTIONS
+        ============================================= */
+
+        const toggles =
+            document.querySelectorAll(
+                ".nav-toggle"
+            );
+
+
+        function setExpanded(
+            toggle,
+            children,
+            expanded
+        ) {
+
+            toggle.setAttribute(
+                "aria-expanded",
+                expanded
+                    ? "true"
+                    : "false"
+            );
+
+            children.hidden =
+                !expanded;
+
+        }
+
+
+        toggles.forEach(
+            function (toggle) {
+
+                const navItem =
+                    toggle.closest(
+                        ".nav-item"
+                    );
+
+                if (!navItem) {
+                    return;
+                }
+
+
+                const children =
+                    navItem.querySelector(
+                        ":scope > .nav-children"
+                    );
+
+                if (!children) {
+                    return;
+                }
+
+
+                /*
+                 * Automatically expand any parent
+                 * containing the active lesson.
+                 */
+
+                if (
+                    children.querySelector(
+                        ".nav-link.active"
+                    )
+                ) {
+
+                    setExpanded(
+                        toggle,
+                        children,
+                        true
+                    );
+
+                }
+
+
+                toggle.addEventListener(
+                    "click",
+                    function () {
+
+                        const expanded =
+                            toggle.getAttribute(
+                                "aria-expanded"
+                            ) === "true";
+
+
+                        setExpanded(
+                            toggle,
+                            children,
+                            !expanded
+                        );
+
+                    }
+                );
+
+            }
+        );
+
+
+        /* =============================================
+           MOBILE SIDEBAR
+        ============================================= */
+
+        const sidebar =
+            document.querySelector(
+                ".sidebar"
+            );
+
+        const mobileButton =
+            document.getElementById(
+                "mobile-nav-button"
+            );
+
+        const mobileOverlay =
+            document.getElementById(
+                "mobile-nav-overlay"
+            );
+
+
+        function openMobileNav() {
+
+            if (
+                !sidebar
+                || !mobileOverlay
+            ) {
+                return;
+            }
+
+
+            sidebar.classList.add(
+                "mobile-open"
+            );
+
+            mobileOverlay.classList.add(
+                "open"
+            );
+
+            document.body.classList.add(
+                "mobile-nav-open"
+            );
+
+        }
+
+
+        function closeMobileNav() {
+
+            if (
+                !sidebar
+                || !mobileOverlay
+            ) {
+                return;
+            }
+
+
+            sidebar.classList.remove(
+                "mobile-open"
+            );
+
+            mobileOverlay.classList.remove(
+                "open"
+            );
+
+            document.body.classList.remove(
+                "mobile-nav-open"
+            );
+
+        }
+
+
+        if (mobileButton) {
+
+            mobileButton.addEventListener(
+                "click",
+                function () {
+
+                    if (!sidebar) {
+                        return;
+                    }
+
+
+                    if (
+                        sidebar.classList.contains(
+                            "mobile-open"
+                        )
+                    ) {
+
+                        closeMobileNav();
+
+                    } else {
+
+                        openMobileNav();
+
+                    }
+
+                }
+            );
+
+        }
+
+
+        if (mobileOverlay) {
+
+            mobileOverlay.addEventListener(
+                "click",
+                closeMobileNav
+            );
+
+        }
+
+
+        /*
+         * Close mobile navigation after
+         * selecting a lesson or Home.
+         */
+
+        document
+            .querySelectorAll(
+                ".sidebar .nav-link"
+            )
+            .forEach(
+                function (link) {
+
+                    link.addEventListener(
+                        "click",
+                        function () {
+
+                            if (
+                                window.innerWidth
+                                <= 850
+                            ) {
+
+                                closeMobileNav();
+
+                            }
+
+                        }
+                    );
+
+                }
+            );
+
+
+        /*
+         * If user rotates device or expands
+         * browser back to desktop size,
+         * reset the mobile drawer.
+         */
+
+        window.addEventListener(
+            "resize",
+            function () {
+
+                if (
+                    window.innerWidth
+                    > 850
+                ) {
+
+                    closeMobileNav();
+
+                }
+
+            }
+        );
+
+    }
+);
+
+</script>
+
+
+<!-- =====================================================
+     CHAT JAVASCRIPT
+===================================================== -->
+
+<script
+    src="{{ url_for('static', filename='chat.js') }}"
+></script>
+
+{% if current_path != "/" %}
+
+<script
+    src="{{ url_for('static', filename='lesson.js') }}"
+></script>
+
+{% endif %}
+
+
+</body>
+
+</html>

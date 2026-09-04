@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+
+{% block title %}
+Flight Guide
+{% endblock %}
+
+{% block content %}
+
+<section class="home library-home">
+
+    <div class="eyebrow">
+        FLIGHT GUIDE
+    </div>
+
+    <h1>
+        Aviation Training Library
+    </h1>
+
+    <p class="lead">
+        Choose an ACS study guide or a structured training syllabus.
+    </p>
+
+
+    {% for group in catalog %}
+
+        <section class="library-group">
+
+            <div class="library-group-heading">
+
+                <h2>
+                    {{ group.title }}
+                </h2>
+
+                <p>
+                    {{ group.description }}
+                </p>
+
+            </div>
+
+
+            <div class="course-card-grid">
+
+                {% for course in group.courses %}
+
+                    {% if course.available %}
+
+                        <a
+                            href="{{ course.url }}"
+                            class="course-card"
+                        >
+
+                            <span class="course-card-title">
+                                {{ course.title }}
+                            </span>
+
+                            <span
+                                class="course-card-arrow"
+                                aria-hidden="true"
+                            >
+                                ›
+                            </span>
+
+                        </a>
+
+                    {% else %}
+
+                        <div
+                            class="
+                                course-card
+                                course-card-coming-soon
+                            "
+                        >
+
+                            <span class="course-card-title">
+                                {{ course.title }}
+                            </span>
+
+                            <span class="course-card-status">
+                                Coming Soon
+                            </span>
+
+                        </div>
+
+                    {% endif %}
+
+                {% endfor %}
+
+            </div>
+
+        </section>
+
+    {% endfor %}
+
+</section>
+
+{% endblock %}

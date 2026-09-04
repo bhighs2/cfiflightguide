@@ -1,0 +1,133 @@
+DOCUMENT_TITLE: Airworthiness_Checklist
+SOURCE_FILE: Airworthiness_Checklist.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Airworthiness_Checklist.pdf>>>
+========================================
+
+Completed By:____________________________  Date: ________________  N-Number: ________________
+Documents 
+q External Data Plate - FAR 45.11 SERIAL NUMBER: ___________________
+q Airworthiness Certificate - FAR 91.203
+q Registration Certificate - FAR 91.203
+q Radio Station License – For flights outside US - FCC Regulation
+q Operating Handbook – Official POH/AFM - FAR 91.9
+q Weight and Balance – Official weight and balance located in the POH/AFM
+q Compass Deviation Card – FAR 23.1547 
+Inspections
+q Annual - 12 Months - 91.409(a) .................Most Recent: _____________ Next Due: ______________
+q VOR Equipment Check* –
+ 30 Days - FAR 91.171 ..................................Most Recent: _____________ Next Due:______________
+q 100 HR Inspection - FAR 91.409(b)
+  Determine Next 100 HR HOBBS Due
+ STEP 1:  Identify 2 most recent 100 HRS.
+  (A) Most Recent 100 HR: ______________________________
+  (B)     Minus Previous 100 HR:   — __________________________
+ STEP 2:  Determine if most recent 100 HR was over or under 100 HRS.
+  (C)  Subtract (B) from (A): = ______________________________  
+ STEP 3:  Determine next 100 HR HOBBS due.
+ If (C) is > 100, then 100 HR was over-flown. Next 100 HR is due 200 HRS after (B). (B) + 200.
+ If (C) is ≤ 100, then 100 HR was not over-flown. Next 100 HR due is 100 HRS after (A). (A) + 100.
+  (D) Next 100 HR HOBBS Due: ______________________________
+  (E) Minus Current HOBBS (OFF/ON):   — ____________________
+  (F) = HRS Left to 100 HR: __________________________________
+q Altimeter* – 24 Months - FAR 91.411 .......Most Recent: _____________ Next Due:______________
+q Transponder – 24 Months - FAR 91.413 ...Most Recent: _____________ Next Due:______________
+q ELT Battery – Inspect - FAR 91.207(c)........Most Recent: _____________ Next Due:______________
+q ELT – 12 months - FAR 91.207(d)...............Most Recent: _____________ Next Due:______________
+q Static & Encoder* –
+ 24 Months - FAR 91.411 .............................Most Recent: _____________ Next Due:______________
+* Required for IFR Flight
+TCDS Life Limited Parts – FAR 91.417(a)(2)(11)
+ (G) Life Limited Part: ______________________________________
+ (H) Minus Airframe Total Time
+  in Service (AFTTIS)
+  Next 100 HR:   — _______________________________________                
+ Line G minus H: = ______________________________________
+ (I) + HRS Left to 100 HR: ___________________________________
+ (J) = AIRFRAME TIME LEFT (LIFESPAN): ____________________
+(AFTTIS From Inspection Guide)
+(Line F Above)
+Airworthiness Checklist
+Version 1.3 - Revised 09/09/09
+TCDS Info:
+http://www.faa.gov/aircraft
+PA-44 Wing and Associated 
+Structure - 14,663 HRS
+(Should Match Aircraft Eq.
+and Inspection Guide)
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:Airworthiness_Checklist.pdf>>>
+========================================
+
+VFR (DAY) – Ref. FAR 91.205(b)
+q Anti-collision light system
+q Tachometer
+q Oil pressure gauge for each engine
+q Manifold pressure (for each altitude engine)
+q Airspeed Indicator
+q Temp gauge (for each liquid-cooled engine)
+q Oil temperature gauge (for each air-
+ cooled engine)
+q Fuel quantity indicator
+q Landing gear position indicators
+ (if retractable gear)
+q Altimeter
+q Magnetic compass
+q ELT
+q Safety belts
+VFR (Night) – Ref. FAR 91.205(c)
+q All Day VFR equipment
+q Fuse’s
+q Landing light (if for hire)
+q Anti collision lights
+q Position indicator lights
+q Source of electricity
+IFR – Ref. FAR 91.205(d)
+q All Day VFR equipment
+q All Night VFR equipment
+q Generator/alternator
+q Rate of turn indicator
+q Attitude indicator
+q Ball (Slip/Skid indicator)
+q Clock w/ sweeping second hand
+ or digital readout
+q Altimeter (pressure sensitive)
+q Radio equipment applicable
+ to the flight
+q Directional gyro
+q DME if above FL240 and using VOR’s
+Inoperative Equipment–FAR 91.213(d)
+q No Inoperative Equipment OR;
+q Inoperative Equipment 
+	q  Removed From Airplane
+	q  Appropriate MX records and Wt
+		 Balance Adjustments by licensed
+		 A&P Mechanic 
+ – OR –
+	q  Deactivated
+	q  Placarded
+	q  Not Required by 91.205 or 
+  Equipment List
+	q  PIC Determines Flight
+  Can be Conducted Safely
+Required Equipment - 91.205
+Airworthiness Checklist
+Version 1.3 - Revised 09/09/09
+Airworthiness Directives – 91.417(a)(2)(v) 
+q Verified: Status
+  Compliance
+  Appropriate Maintenance
+  Log Entries
+Form 337s
+q Verified: Status
+  Compliance with Instructions
+  for Continued Airworthiness
+  Appropriate Maintenance
+  Log Entries
