@@ -9,7 +9,7 @@
 {% block head %}
 
 <!--
-This makes relative Markdown asset paths such as:
+Relative Markdown asset paths such as:
 
 assets/diagram.png
 
@@ -18,25 +18,432 @@ resolve underneath the current lesson URL.
 
 <base href="{{ request.path.rstrip('/') }}/">
 
+
+{% if is_training_lesson %}
+
+<script
+    src="{{ url_for(
+        'static',
+        filename='training_lesson.js'
+    ) }}"
+    defer
+></script>
+
+{% endif %}
+
 {% endblock %}
 
 
 {% block content %}
 
-<article class="lesson">
+<article
+    class="
+        lesson
+        {% if is_training_lesson %}
+            training-lesson
+        {% endif %}
+    "
+    data-lesson-title="{{ title }}"
+    data-lesson-path="{{ current_path }}"
+>
 
     <div class="lesson-location">
-
         {{ current_path }}
-
     </div>
 
 
-    <div class="markdown-content">
+    {% if is_training_lesson %}
 
-        {{ lesson_html | safe }}
 
-    </div>
+        <!-- =================================================
+             TRAINING LESSON SECTION NAVIGATION
+        ================================================== -->
+
+        <nav
+            class="training-lesson-nav"
+            aria-label="Lesson sections"
+        >
+
+            {% if lesson_sections.overview %}
+
+                <button
+                    type="button"
+                    class="
+                        training-lesson-tab
+                        active
+                    "
+                    data-lesson-tab="overview"
+                    aria-selected="true"
+                >
+                    Overview
+                </button>
+
+            {% endif %}
+
+
+            {% if lesson_sections.prepare %}
+
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="prepare"
+                    aria-selected="false"
+                >
+                    Prepare
+                </button>
+
+            {% endif %}
+
+
+            {% if lesson_sections.brief %}
+
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="brief"
+                    aria-selected="false"
+                >
+                    Brief
+                </button>
+
+            {% endif %}
+
+
+            {% if lesson_sections.fly %}
+
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="fly"
+                    aria-selected="false"
+                >
+                    Fly
+                </button>
+
+            {% endif %}
+
+
+            {% if lesson_sections.debrief %}
+
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="debrief"
+                    aria-selected="false"
+                >
+                    Debrief
+                </button>
+
+            {% endif %}
+
+        </nav>
+
+
+        <!-- =================================================
+             OVERVIEW
+        ================================================== -->
+
+        {% if lesson_sections.overview %}
+
+            <section
+                class="
+                    training-lesson-panel
+                    active
+                "
+                data-lesson-panel="overview"
+            >
+
+                <div class="markdown-content">
+
+                    {{
+                        lesson_sections.overview
+                        | safe
+                    }}
+
+                </div>
+
+            </section>
+
+        {% endif %}
+
+
+        <!-- =================================================
+             PREPARE
+        ================================================== -->
+
+        {% if lesson_sections.prepare %}
+
+            <section
+                class="training-lesson-panel"
+                data-lesson-panel="prepare"
+                hidden
+            >
+
+                <div class="markdown-content">
+
+                    {{
+                        lesson_sections.prepare
+                        | safe
+                    }}
+
+                </div>
+
+            </section>
+
+        {% endif %}
+
+
+        <!-- =================================================
+             BRIEF
+        ================================================== -->
+
+        {% if lesson_sections.brief %}
+
+            <section
+                class="training-lesson-panel"
+                data-lesson-panel="brief"
+                hidden
+            >
+
+                <div class="markdown-content">
+
+                    {{
+                        lesson_sections.brief
+                        | safe
+                    }}
+
+                </div>
+
+            </section>
+
+        {% endif %}
+
+
+        <!-- =================================================
+             FLY
+        ================================================== -->
+
+        {% if lesson_sections.fly %}
+
+            <section
+                class="training-lesson-panel"
+                data-lesson-panel="fly"
+                hidden
+            >
+
+                <div class="lesson-section-toolbar">
+
+                    <button
+                        type="button"
+                        id="save-kneeboard"
+                        class="lesson-action-button"
+                    >
+                        Print / Save Kneeboard PDF
+                    </button>
+
+                </div>
+
+
+                <div
+                    id="kneeboard-print-area"
+                    class="
+                        markdown-content
+                        kneeboard-content
+                    "
+                >
+
+                    {{
+                        lesson_sections.fly
+                        | safe
+                    }}
+
+                </div>
+
+            </section>
+
+        {% endif %}
+
+
+        <!-- =================================================
+             DEBRIEF
+        ================================================== -->
+
+        {% if lesson_sections.debrief %}
+
+            <section
+                class="training-lesson-panel"
+                data-lesson-panel="debrief"
+                hidden
+            >
+
+                <div class="lesson-section-toolbar">
+
+                    <button
+                        type="button"
+                        id="save-debrief"
+                        class="lesson-action-button"
+                    >
+                        Save Debrief (.md)
+                    </button>
+
+
+                    <button
+                        type="button"
+                        id="print-debrief"
+                        class="
+                            lesson-action-button
+                            secondary
+                        "
+                    >
+                        Print / Save Debrief PDF
+                    </button>
+
+                </div>
+
+
+                <!-- =========================================
+                     LESSON-SPECIFIC DEBRIEF CONTENT
+                ========================================== -->
+
+                <div class="markdown-content">
+
+                    {{
+                        lesson_sections.debrief
+                        | safe
+                    }}
+
+                </div>
+
+
+                <!-- =========================================
+                     OFFLINE DEBRIEF RECORD
+                ========================================== -->
+
+                <div
+                    id="debrief-form"
+                    class="debrief-form"
+                >
+
+                    <h2>
+                        Flight Record
+                    </h2>
+
+
+                    <div class="debrief-field-grid">
+
+                        <label>
+                            Student / Pilot
+
+                            <input
+                                type="text"
+                                data-debrief-field="student"
+                            >
+                        </label>
+
+
+                        <label>
+                            Instructor
+
+                            <input
+                                type="text"
+                                data-debrief-field="instructor"
+                            >
+                        </label>
+
+
+                        <label>
+                            Date
+
+                            <input
+                                type="date"
+                                data-debrief-field="date"
+                            >
+                        </label>
+
+
+                        <label>
+                            Aircraft / N-Number
+
+                            <input
+                                type="text"
+                                data-debrief-field="aircraft"
+                            >
+                        </label>
+
+
+                        <label>
+                            Flight Time
+
+                            <input
+                                type="text"
+                                data-debrief-field="flight_time"
+                            >
+                        </label>
+
+                    </div>
+
+
+                    <label>
+                        What went well?
+
+                        <textarea
+                            rows="5"
+                            data-debrief-field="went_well"
+                        ></textarea>
+                    </label>
+
+
+                    <label>
+                        What needs improvement?
+
+                        <textarea
+                            rows="5"
+                            data-debrief-field="needs_improvement"
+                        ></textarea>
+                    </label>
+
+
+                    <label>
+                        Instructor Notes
+
+                        <textarea
+                            rows="7"
+                            data-debrief-field="instructor_notes"
+                        ></textarea>
+                    </label>
+
+
+                    <label>
+                        Next Assignment / Lesson
+
+                        <textarea
+                            rows="4"
+                            data-debrief-field="next_assignment"
+                        ></textarea>
+                    </label>
+
+                </div>
+
+            </section>
+
+        {% endif %}
+
+
+    {% else %}
+
+
+        <!-- =================================================
+             ACS / STANDARD LESSON
+        ================================================== -->
+
+        <div class="markdown-content">
+
+            {{ lesson_html | safe }}
+
+        </div>
+
+
+    {% endif %}
 
 </article>
 

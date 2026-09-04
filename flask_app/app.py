@@ -320,6 +320,11 @@ def process_custom_embeds(markdown_text):
 
     [[mnemonic: DR DR F CPR | Denial · Repression · ...]]
 
+    [[highlight:
+    Attention |
+    Important highlighted content here.
+    ]]
+
     [[answer:
     Answer text here.
     ]]
@@ -620,6 +625,76 @@ def process_custom_embeds(markdown_text):
         flags=re.DOTALL,
     )
 
+    # -----------------------------------------------------
+    # HIGHLIGHT / IMPORTANT CONTENT
+    # -----------------------------------------------------
+
+    highlight_pattern = (
+        r"\[\[highlight:\s*(.*?)\s*\]\]"
+    )
+
+    def replace_highlight(match):
+
+        raw_value = (
+            match.group(1)
+            .strip()
+        )
+
+        if "|" in raw_value:
+
+            label, content = (
+                raw_value.split(
+                    "|",
+                    1,
+                )
+            )
+
+        else:
+
+            label = "Important"
+            content = raw_value
+
+
+        label = html.escape(
+            label.strip()
+        )
+
+
+        content = (
+            content.strip()
+        )
+
+
+        content_html = markdown.markdown(
+            content,
+            extensions=[
+                "extra",
+                "sane_lists",
+            ],
+        )
+
+
+        return f"""
+<div class="lesson-highlight">
+
+    <div class="lesson-highlight-label">
+        {label}
+    </div>
+
+    <div class="lesson-highlight-content">
+        {content_html}
+    </div>
+
+</div>
+"""
+
+
+    markdown_text = re.sub(
+        highlight_pattern,
+        replace_highlight,
+        markdown_text,
+        flags=re.DOTALL,
+    )
 
     # -----------------------------------------------------
     # HIDDEN / REVEALABLE ANSWERS
@@ -2022,6 +2097,117 @@ def lesson_asset(
 
 
 # ---------------------------------------------------------
+# TRAINING LESSON SECTIONS
+# ---------------------------------------------------------
+
+TRAINING_LESSON_SECTIONS = {
+    "prepare": "prepare",
+    "ground brief": "brief",
+    "brief": "brief",
+    "flight card": "fly",
+    "fly": "fly",
+    "debrief": "debrief",
+}
+
+
+def split_training_lesson_markdown(markdown_text):
+    """
+    Split a training syllabus lesson into top-level sections.
+
+    Everything before # Prepare becomes Overview.
+
+    Recognized headings:
+
+        # Prepare
+        # Ground Brief
+        # Flight Card
+        # Debrief
+    """
+
+    sections = {
+        "overview": [],
+        "prepare": [],
+        "brief": [],
+        "fly": [],
+        "debrief": [],
+    }
+
+    current_section = "overview"
+
+    for line in markdown_text.splitlines(
+        keepends=True
+    ):
+
+        match = re.match(
+            r"^\s*#\s+(.+?)\s*$",
+            line,
+        )
+
+        if match:
+
+            heading = (
+                match.group(1)
+                .strip()
+                .lower()
+            )
+
+            heading = re.sub(
+                r"\s+",
+                " ",
+                heading,
+            )
+
+            mapped_section = (
+                TRAINING_LESSON_SECTIONS.get(
+                    heading
+                )
+            )
+
+            if mapped_section:
+
+                current_section = mapped_section
+
+                # The tab itself supplies the title,
+                # so do not retain the H1 heading.
+                continue
+
+        sections[
+            current_section
+        ].append(line)
+
+    return {
+        section: "".join(lines).strip()
+        for section, lines in sections.items()
+    }
+
+
+def render_lesson_markdown(markdown_text):
+    """
+    Run one lesson section through the site's existing
+    custom widgets and Markdown renderer.
+    """
+
+    if not markdown_text:
+        return ""
+
+    markdown_text = process_custom_embeds(
+        markdown_text
+    )
+
+    lesson_html = markdown.markdown(
+        markdown_text,
+        extensions=[
+            "extra",
+            "sane_lists",
+        ],
+    )
+
+    return make_markdown_links_new_tab(
+        lesson_html
+    )
+
+
+# ---------------------------------------------------------
 # LESSON PAGE
 # ---------------------------------------------------------
 
@@ -2045,21 +2231,34 @@ def lesson(content_path):
         encoding="utf-8"
     )
 
-    markdown_text = process_custom_embeds(
-        markdown_text
+    is_training_lesson = (
+        content_path.startswith(
+            "training-syllabi/"
+        )
     )
 
-    lesson_html = markdown.markdown(
-        markdown_text,
-        extensions=[
-            "extra",
-            "sane_lists",
-        ],
-    )
+    lesson_sections = None
+    lesson_html = None
 
-    lesson_html = make_markdown_links_new_tab(
-        lesson_html
-    )
+    if is_training_lesson:
+
+        raw_sections = split_training_lesson_markdown(
+            markdown_text
+        )
+
+        lesson_sections = {
+            section_name: render_lesson_markdown(
+                section_markdown
+            )
+            for section_name, section_markdown
+            in raw_sections.items()
+        }
+
+    else:
+
+        lesson_html = render_lesson_markdown(
+            markdown_text
+        )
 
     course_context = get_course_context(
         content_path
@@ -2080,6 +2279,8 @@ def lesson(content_path):
         nav_title=course_context["nav_title"],
         title=title,
         lesson_html=lesson_html,
+        lesson_sections=lesson_sections,
+        is_training_lesson=is_training_lesson,
         current_path="/" + content_path,
     )
 

@@ -2,194 +2,542 @@ document.addEventListener(
     "DOMContentLoaded",
     function () {
 
-        const content =
-            document.querySelector(
+        /* =============================================
+           LESSON CONTENT ROOTS
+        ============================================= */
+
+        const contents =
+            document.querySelectorAll(
                 ".markdown-content"
             );
 
-        if (!content) {
+        if (contents.length === 0) {
             return;
         }
 
 
+        /*
+         * Standard / ACS lessons historically use one
+         * Markdown content root. Keep a reference to the
+         * first root for the legacy ACS part-navigation
+         * logic farther down this file.
+         */
+
+        const content =
+            contents[0];
+
+
+        const isTrainingLesson =
+            document.querySelector(
+                ".training-lesson"
+            ) !== null;
+
+
+        function setLessonSectionState(
+            section,
+            collapsed
+        ) {
+
+            const body =
+                section.querySelector(
+                    ".lesson-section-body"
+                );
+
+            const button =
+                section.querySelector(
+                    ".lesson-section-toggle"
+                );
+
+
+            section.classList.toggle(
+                "collapsed",
+                collapsed
+            );
+
+
+            if (body) {
+
+                body.hidden =
+                    collapsed;
+
+            }
+
+
+            if (button) {
+
+                button.setAttribute(
+                    "aria-expanded",
+                    collapsed
+                        ? "false"
+                        : "true"
+                );
+
+            }
+
+        }
+
+
         /* =============================================
-           COLLAPSIBLE LESSON SECTIONS
+           MAJOR H2 SECTIONS
         ============================================= */
 
-        const headings =
-            Array.from(
-                content.children
-            ).filter(
-                function (element) {
+        function initializeLessonSections(
+            content,
+            useAccordion
+        ) {
 
-                    return (
-                        element.tagName
-                        === "H2"
+            const headings =
+                Array.from(
+                    content.children
+                ).filter(
+                    function (element) {
+
+                        return (
+                            element.tagName
+                            === "H2"
+                        );
+
+                    }
+                );
+
+
+            headings.forEach(
+                function (
+                    heading,
+                    index
+                ) {
+
+                    const section =
+                        document.createElement(
+                            "section"
+                        );
+
+                    section.className =
+                        "lesson-section";
+
+
+                    const body =
+                        document.createElement(
+                            "div"
+                        );
+
+                    body.className =
+                        "lesson-section-body";
+
+
+                    content.insertBefore(
+                        section,
+                        heading
+                    );
+
+
+                    section.appendChild(
+                        heading
+                    );
+
+                    section.appendChild(
+                        body
+                    );
+
+
+                    while (
+                        section.nextSibling
+                    ) {
+
+                        const next =
+                            section.nextSibling;
+
+
+                        if (
+                            next.nodeType
+                            === Node.ELEMENT_NODE
+                            &&
+                            (
+                                next.tagName === "H2"
+                                ||
+                                next.tagName === "H1"
+                            )
+                        ) {
+
+                            break;
+
+                        }
+
+
+                        body.appendChild(
+                            next
+                        );
+
+                    }
+
+
+                    const headingHtml =
+                        heading.innerHTML;
+
+
+                    heading.innerHTML = "";
+
+                    heading.classList.add(
+                        "lesson-section-heading"
+                    );
+
+
+                    const button =
+                        document.createElement(
+                            "button"
+                        );
+
+                    button.type =
+                        "button";
+
+                    button.className =
+                        "lesson-section-toggle";
+
+
+                    const title =
+                        document.createElement(
+                            "span"
+                        );
+
+                    title.className =
+                        "lesson-section-title";
+
+                    title.innerHTML =
+                        headingHtml;
+
+
+                    const chevron =
+                        document.createElement(
+                            "span"
+                        );
+
+                    chevron.className =
+                        "lesson-section-chevron";
+
+                    chevron.setAttribute(
+                        "aria-hidden",
+                        "true"
+                    );
+
+                    chevron.textContent =
+                        "›";
+
+
+                    button.appendChild(
+                        title
+                    );
+
+                    button.appendChild(
+                        chevron
+                    );
+
+                    heading.appendChild(
+                        button
+                    );
+
+
+                    /*
+                     * Training syllabus behavior:
+                     *
+                     * First H2 open.
+                     * Every other H2 closed.
+                     */
+
+                    const shouldCollapse =
+                        useAccordion
+                        && index > 0;
+
+
+                    setLessonSectionState(
+                        section,
+                        shouldCollapse
+                    );
+
+
+                    button.addEventListener(
+                        "click",
+                        function () {
+
+                            const currentlyCollapsed =
+                                section.classList.contains(
+                                    "collapsed"
+                                );
+
+
+                            /*
+                             * If opening a section in a
+                             * training lesson, close its
+                             * sibling H2 sections first.
+                             */
+
+                            if (
+                                useAccordion
+                                && currentlyCollapsed
+                            ) {
+
+                                Array.from(
+                                    content.children
+                                ).forEach(
+                                    function (
+                                        otherSection
+                                    ) {
+
+                                        if (
+                                            otherSection
+                                            !== section
+                                            &&
+                                            otherSection
+                                            .classList
+                                            .contains(
+                                                "lesson-section"
+                                            )
+                                        ) {
+
+                                            setLessonSectionState(
+                                                otherSection,
+                                                true
+                                            );
+
+                                        }
+
+                                    }
+                                );
+
+                            }
+
+
+                            setLessonSectionState(
+                                section,
+                                !currentlyCollapsed
+                            );
+
+                        }
                     );
 
                 }
             );
 
-
-        headings.forEach(
-            function (heading) {
-
-                const section =
-                    document.createElement(
-                        "section"
-                    );
-
-                section.className =
-                    "lesson-section";
+        }
 
 
-                const body =
-                    document.createElement(
-                        "div"
-                    );
+        /* =============================================
+           H3 SUBSECTIONS
+        ============================================= */
 
-                body.className =
-                    "lesson-section-body";
+        function initializeLessonSubsections(
+            content
+        ) {
 
-
-                content.insertBefore(
-                    section,
-                    heading
+            const sectionBodies =
+                content.querySelectorAll(
+                    ".lesson-section-body"
                 );
 
 
-                section.appendChild(
-                    heading
-                );
-
-                section.appendChild(
-                    body
-                );
-
-
-                while (
-                    section.nextSibling
+            sectionBodies.forEach(
+                function (
+                    sectionBody
                 ) {
 
-                    const next =
-                        section.nextSibling;
+                    const headings =
+                        Array.from(
+                            sectionBody.children
+                        ).filter(
+                            function (
+                                element
+                            ) {
+
+                                return (
+                                    element.tagName
+                                    === "H3"
+                                );
+
+                            }
+                        );
 
 
-                    if (
-                        next.nodeType
-                        === Node.ELEMENT_NODE
-                        &&
-                        (
-                            next.tagName === "H2"
-                            ||
-                            next.tagName === "H1"
-                        )
-                    ) {
+                    headings.forEach(
+                        function (
+                            heading
+                        ) {
 
-                        break;
+                            const subsection =
+                                document.createElement(
+                                    "section"
+                                );
 
-                    }
+                            subsection.className =
+                                "lesson-subsection";
 
 
-                    body.appendChild(
-                        next
+                            const body =
+                                document.createElement(
+                                    "div"
+                                );
+
+                            body.className =
+                                "lesson-subsection-body";
+
+
+                            sectionBody.insertBefore(
+                                subsection,
+                                heading
+                            );
+
+
+                            subsection.appendChild(
+                                heading
+                            );
+
+                            subsection.appendChild(
+                                body
+                            );
+
+
+                            /*
+                             * Everything after this H3
+                             * belongs to it until the
+                             * next H3.
+                             */
+
+                            while (
+                                subsection.nextSibling
+                            ) {
+
+                                const next =
+                                    subsection.nextSibling;
+
+
+                                if (
+                                    next.nodeType
+                                    === Node.ELEMENT_NODE
+                                    &&
+                                    next.tagName
+                                    === "H3"
+                                ) {
+
+                                    break;
+
+                                }
+
+
+                                body.appendChild(
+                                    next
+                                );
+
+                            }
+
+
+                            heading.classList.add(
+                                "lesson-subsection-heading"
+                            );
+
+                        }
+                    );
+
+                }
+            );
+
+        }
+
+
+        /* =============================================
+           INITIALIZE EACH MARKDOWN PANEL
+        ============================================= */
+
+        contents.forEach(
+            function (
+                content
+            ) {
+
+                const panel =
+                    content.closest(
+                        "[data-lesson-panel]"
+                    );
+
+
+                const panelName =
+                    panel
+                        ? panel.dataset.lessonPanel
+                        : null;
+
+
+                initializeLessonSections(
+                    content,
+                    isTrainingLesson
+                );
+
+
+                /*
+                 * Brief and Fly both use the deeper
+                 * H3 subsection-card hierarchy.
+                 */
+
+                if (
+                    isTrainingLesson
+                    &&
+                    (
+                        panelName === "brief"
+                        ||
+                        panelName === "fly"
+                    )
+                ) {
+
+                    initializeLessonSubsections(
+                        content
                     );
 
                 }
 
 
-                const headingHtml =
-                    heading.innerHTML;
+                /*
+                 * In the Fly panel, identify the
+                 * intentionally abbreviated Kneeboard
+                 * H2 section so print CSS can show
+                 * only that section.
+                 */
 
+                if (
+                    isTrainingLesson
+                    && panelName === "fly"
+                ) {
 
-                heading.innerHTML = "";
-
-                heading.classList.add(
-                    "lesson-section-heading"
-                );
-
-
-                const button =
-                    document.createElement(
-                        "button"
-                    );
-
-                button.type = "button";
-
-                button.className =
-                    "lesson-section-toggle";
-
-                button.setAttribute(
-                    "aria-expanded",
-                    "true"
-                );
-
-
-                const title =
-                    document.createElement(
-                        "span"
-                    );
-
-                title.className =
-                    "lesson-section-title";
-
-                title.innerHTML =
-                    headingHtml;
-
-
-                const chevron =
-                    document.createElement(
-                        "span"
-                    );
-
-                chevron.className =
-                    "lesson-section-chevron";
-
-                chevron.setAttribute(
-                    "aria-hidden",
-                    "true"
-                );
-
-                chevron.textContent =
-                    "›";
-
-
-                button.appendChild(
-                    title
-                );
-
-                button.appendChild(
-                    chevron
-                );
-
-                heading.appendChild(
-                    button
-                );
-
-
-                button.addEventListener(
-                    "click",
-                    function () {
-
-                        const collapsed =
-                            section.classList.toggle(
-                                "collapsed"
-                            );
-
-
-                        body.hidden =
-                            collapsed;
-
-
-                        button.setAttribute(
-                            "aria-expanded",
-                            collapsed
-                                ? "false"
-                                : "true"
+                    const sections =
+                        content.querySelectorAll(
+                            ".lesson-section"
                         );
 
-                    }
-                );
+
+                    sections.forEach(
+                        function (
+                            section
+                        ) {
+
+                            const title =
+                                section.querySelector(
+                                    ".lesson-section-title"
+                                );
+
+
+                            if (
+                                title
+                                &&
+                                title.textContent
+                                .trim()
+                                .toLowerCase()
+                                === "kneeboard"
+                            ) {
+
+                                section.classList.add(
+                                    "kneeboard-section"
+                                );
+
+                            }
+
+                        }
+                    );
+
+                }
 
             }
         );
