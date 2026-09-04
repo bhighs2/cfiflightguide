@@ -1546,6 +1546,101 @@ a.chat-reference-title:hover {
 }
 
 /* =====================================================
+   HIGHLIGHT / IMPORTANT CONTENT
+===================================================== */
+
+.lesson-highlight {
+    margin:
+        20px
+        0
+        24px;
+
+    padding:
+        14px
+        18px
+        16px;
+
+    border-left:
+        4px solid
+        #2563eb;
+
+    border-radius:
+        0
+        9px
+        9px
+        0;
+
+    background:
+        #eff6ff;
+
+    box-shadow:
+        0
+        1px
+        2px
+        rgba(37, 99, 235, 0.06);
+}
+
+
+.lesson-highlight-label {
+    margin-bottom:
+        6px;
+
+    color:
+        #1d4ed8;
+
+    font-size:
+        12px;
+
+    font-weight:
+        700;
+
+    letter-spacing:
+        0.07em;
+
+    text-transform:
+        uppercase;
+}
+
+
+.lesson-highlight-content {
+    color:
+        #1e3a5f;
+
+    font-size:
+        15px;
+
+    line-height:
+        1.6;
+}
+
+
+.lesson-highlight-content
+> :first-child {
+
+    margin-top:
+        0;
+}
+
+
+.lesson-highlight-content
+> :last-child {
+
+    margin-bottom:
+        0;
+}
+
+
+.lesson-highlight-content ul,
+.lesson-highlight-content ol {
+
+    margin:
+        10px
+        0
+        10px
+        22px;
+}
+
+/* =====================================================
    FLIGHT GUIDE VIDEO EXCERPTS
 ===================================================== */
 
@@ -2221,4 +2316,835 @@ a.course-card:hover
         grid-template-columns: 1fr;
     }
 
+}
+
+/* =========================================================
+   TRAINING LESSON NAVIGATION
+========================================================= */
+
+.training-lesson-nav {
+    position: sticky;
+    top: 0;
+    z-index: 60;
+
+    display: flex;
+    gap: 0.35rem;
+
+    padding: 0.75rem 0;
+    margin-bottom: 1.5rem;
+
+    background: var(--background, #ffffff);
+
+    border-bottom: 1px solid
+        rgba(0, 0, 0, 0.12);
+
+    overflow-x: auto;
+}
+
+/* =========================================================
+   TRAINING LESSON TABS
+========================================================= */
+
+.training-lesson-tab {
+    flex: 0 0 auto;
+
+    border: 1px solid transparent;
+    border-radius: 8px;
+
+    padding:
+        10px
+        16px;
+
+    background: transparent;
+
+    color: #374151;
+
+    font: inherit;
+    font-size: 15px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.15s ease,
+        color 0.15s ease,
+        border-color 0.15s ease;
+}
+
+
+.training-lesson-tab:hover {
+    background: #f3f4f6;
+
+    color: #111827;
+}
+
+
+.training-lesson-tab.active {
+    background: #e5e7eb;
+
+    border-color: #d1d5db;
+
+    color: #111827;
+
+    font-weight: 700;
+}
+
+
+/* Only the selected lesson panel is visible */
+
+.training-lesson-panel[hidden] {
+    display: none !important;
+}
+
+
+/* =========================================================
+   LESSON ACTION TOOLBAR
+========================================================= */
+
+.lesson-section-toolbar {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.75rem;
+
+    margin-bottom: 1.25rem;
+}
+
+
+.lesson-action-button {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+
+    padding:
+        10px
+        16px;
+
+    background: #f3f4f6;
+
+    color: #111827;
+
+    font: inherit;
+    font-weight: 600;
+
+    cursor: pointer;
+}
+
+
+.lesson-action-button:hover {
+    background: #e5e7eb;
+}
+
+
+.lesson-action-button.secondary {
+    background: white;
+}
+/* =========================================================
+   TRAINING LESSON — STACK STICKY SECTION HEADINGS
+   BELOW THE LESSON NAVIGATION
+========================================================= */
+
+.training-lesson
+.markdown-content
+.lesson-section-heading {
+
+    top: 64px;
+
+    z-index: 19;
+}
+
+/* =========================================================
+   TRAINING LESSON — BRIEF VISUAL HIERARCHY
+========================================================= */
+
+
+/* ---------------------------------------------------------
+   COLLAPSED MAJOR SECTIONS
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-section.collapsed {
+
+    margin:
+        10px
+        0;
+}
+
+
+/* ---------------------------------------------------------
+   H3 SUBSECTION CARD
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-subsection {
+
+    margin:
+        18px
+        0
+        26px;
+
+    border:
+        1px solid
+        #e5e7eb;
+
+    border-radius:
+        8px;
+
+    overflow:
+        hidden;
+
+    background:
+        #ffffff;
+
+    box-shadow:
+        0
+        1px
+        2px
+        rgba(15, 23, 42, 0.04);
+}
+
+
+/* ---------------------------------------------------------
+   H3 SUBSECTION HEADING
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-subsection-heading {
+
+    margin:
+        0 !important;
+
+    padding:
+        14px
+        18px
+        14px
+        18px !important;
+
+    border:
+        0 !important;
+
+    border-left:
+        4px solid
+        #9ca3af !important;
+
+    background:
+        #f8fafc;
+
+    color:
+        #111827;
+
+    font-size:
+        20px !important;
+
+    font-weight:
+        700;
+
+    line-height:
+        1.3;
+}
+
+
+/* ---------------------------------------------------------
+   H3 SUBSECTION BODY
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-subsection-body {
+
+    padding:
+        8px
+        22px
+        22px
+        28px;
+}
+
+
+/* ---------------------------------------------------------
+   H4 — INNER TOPIC LABEL
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-subsection-body
+> h4 {
+
+    margin:
+        22px
+        0
+        10px;
+
+    padding:
+        8px
+        12px;
+
+    border-left:
+        3px solid
+        #cbd5e1;
+
+    border-radius:
+        0
+        5px
+        5px
+        0;
+
+    background:
+        #f3f4f6;
+
+    color:
+        #1f2937;
+
+    font-size:
+        16px;
+
+    font-weight:
+        700;
+
+    line-height:
+        1.35;
+}
+
+
+/* ---------------------------------------------------------
+   CONTENT BENEATH H4
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-subsection-body
+> h4 + p,
+
+.training-lesson
+.lesson-subsection-body
+> h4 + ul,
+
+.training-lesson
+.lesson-subsection-body
+> h4 + ol {
+
+    margin-left:
+        14px;
+}
+
+
+/* ---------------------------------------------------------
+   NORMAL PARAGRAPH SPACING INSIDE SUBSECTION
+--------------------------------------------------------- */
+
+.training-lesson
+.lesson-subsection-body
+> p {
+
+    margin-top:
+        14px;
+
+    margin-bottom:
+        14px;
+}
+
+
+/* ---------------------------------------------------------
+   MOBILE
+--------------------------------------------------------- */
+
+@media (max-width: 700px) {
+
+    .training-lesson
+    .lesson-subsection-body {
+
+        padding:
+            6px
+            16px
+            18px
+            18px;
+    }
+
+
+    .training-lesson
+    .lesson-subsection-heading {
+
+        font-size:
+            18px !important;
+    }
+
+}
+
+
+/* =========================================================
+   DEBRIEF
+========================================================= */
+
+.debrief-form {
+    margin-top: 2rem;
+}
+
+
+.debrief-field-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(
+            2,
+            minmax(0, 1fr)
+        );
+
+    gap: 1rem;
+
+    margin-bottom: 1rem;
+}
+
+
+.debrief-form label {
+    display: flex;
+    flex-direction: column;
+
+    gap: 0.4rem;
+
+    margin-bottom: 1rem;
+
+    font-weight: 600;
+}
+
+
+.debrief-form input,
+.debrief-form textarea {
+    width: 100%;
+
+    box-sizing: border-box;
+
+    padding: 0.65rem;
+
+    border: 1px solid
+        rgba(0, 0, 0, 0.25);
+
+    border-radius: 0.4rem;
+
+    font: inherit;
+
+    background: transparent;
+}
+
+
+.debrief-form textarea {
+    resize: vertical;
+}
+
+
+@media (max-width: 700px) {
+
+    .debrief-field-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+
+/* =========================================================
+   PRINT — COMMON
+========================================================= */
+
+@media print {
+
+    /* =====================================================
+       KNEEBOARD — EXACTLY HALF OF LANDSCAPE LETTER
+       Full printed sheet = 11in × 8.5in
+       Kneeboard area = 5.5in × 8.5in
+    ===================================================== */
+
+    body.print-kneeboard {
+        width: 11in !important;
+        height: 8.5in !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    body.print-kneeboard
+        .sidebar,
+
+    body.print-kneeboard
+        .mobile-nav-button,
+
+    body.print-kneeboard
+        .lesson-location,
+
+    body.print-kneeboard
+        .training-lesson-nav,
+
+    body.print-kneeboard
+        .lesson-section-toolbar,
+
+    body.print-kneeboard
+        .lesson-assistant-fab,
+
+    body.print-kneeboard
+        .assistant-drawer,
+
+    body.print-kneeboard
+        .assistant-overlay {
+
+        display: none !important;
+    }
+
+
+    body.print-kneeboard
+        .training-lesson-panel {
+
+        display: none !important;
+    }
+
+
+    body.print-kneeboard
+        [data-lesson-panel="fly"] {
+
+        display: block !important;
+
+        width: 11in !important;
+        min-height: 8.5in !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    body.print-kneeboard
+        .app-shell,
+
+    body.print-kneeboard
+        .main-content,
+
+    body.print-kneeboard
+        .lesson {
+
+        display: block !important;
+
+        width: 11in !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area {
+
+        width: 5.5in !important;
+        min-height: 8.5in !important;
+
+        box-sizing: border-box !important;
+
+        padding: 0.10in !important;
+
+        margin: 0 !important;
+
+        overflow: visible !important;
+
+        font-size: 9pt !important;
+        line-height: 1.15 !important;
+    }
+
+
+    /* =====================================================
+       KNEEBOARD — PRINT ONLY ABBREVIATED SECTION
+    ===================================================== */
+
+    body.print-kneeboard
+        #kneeboard-print-area
+        > .lesson-section:not(
+            .kneeboard-section
+        ) {
+
+        display: none !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area
+        > .kneeboard-section {
+
+        display: block !important;
+
+        margin: 0 !important;
+
+        border: 0 !important;
+        border-radius: 0 !important;
+
+        box-shadow: none !important;
+
+        background: white !important;
+    }
+
+
+    body.print-kneeboard
+        .kneeboard-section
+        > .lesson-section-heading {
+
+        display: none !important;
+    }
+
+
+    body.print-kneeboard
+        .kneeboard-section
+        > .lesson-section-body {
+
+        display: block !important;
+
+        padding: 0 !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area h1 {
+
+        font-size: 14pt !important;
+        line-height: 1.05 !important;
+
+        margin:
+            0
+            0
+            0.08in
+            0 !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area h2 {
+
+        font-size: 11pt !important;
+        line-height: 1.05 !important;
+
+        margin:
+            0.08in
+            0
+            0.035in
+            0 !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area h3 {
+
+        font-size: 9.5pt !important;
+
+        margin:
+            0.06in
+            0
+            0.025in
+            0 !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area p,
+
+    body.print-kneeboard
+        #kneeboard-print-area ul,
+
+    body.print-kneeboard
+        #kneeboard-print-area ol {
+
+        margin:
+            0.025in
+            0 !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area ul,
+
+    body.print-kneeboard
+        #kneeboard-print-area ol {
+
+        padding-left:
+            0.18in !important;
+    }
+
+
+    body.print-kneeboard
+        #kneeboard-print-area li {
+
+        margin:
+            0.01in
+            0 !important;
+    }
+
+}
+/* =========================================================
+   KNEEBOARD — COMPACT VERTICAL SECTION RAIL
+========================================================= */
+
+.kneeboard-header {
+    margin: 0 0 12px;
+}
+
+.kneeboard-title {
+    font-weight: 800;
+    line-height: 1.25;
+}
+
+.kneeboard-target {
+    margin-top: 4px;
+    line-height: 1.3;
+}
+
+.kneeboard-layout {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+.kneeboard-group {
+    position: relative;
+    display: grid;
+    grid-template-columns: 28px minmax(0, 1fr);
+}
+
+/*
+ * Draw the section separator on the whole group rather
+ * than on only one grid cell. This guarantees the line
+ * crosses beneath the vertical rail and the content body.
+ */
+.kneeboard-group:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-bottom: 1px solid #9ca3af;
+    pointer-events: none;
+    z-index: 3;
+}
+
+.kneeboard-rail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+
+    padding: 6px 3px;
+
+    border-right: 1px solid #d1d5db;
+    background: #f8fafc;
+
+    color: #374151;
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kneeboard-group-body {
+    min-width: 0;
+    padding: 8px 10px;
+}
+
+.kneeboard-item {
+    margin: 0 0 5px;
+    line-height: 1.25;
+}
+
+.kneeboard-item:last-child {
+    margin-bottom: 0;
+}
+
+.kneeboard-item label {
+    cursor: pointer;
+}
+
+.kneeboard-item input[type="checkbox"] {
+    margin: 0 6px 0 0;
+    vertical-align: middle;
+}
+
+.kneeboard-airwork-item {
+    padding-bottom: 6px;
+    border-bottom: 1px dotted #d1d5db;
+}
+
+.kneeboard-airwork-item:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+.kneeboard-detail {
+    margin: 2px 0 0 22px;
+    color: #374151;
+    font-size: 0.92em;
+    line-height: 1.22;
+}
+
+.kneeboard-memory {
+    padding-top: 2px;
+}
+
+
+/* =========================================================
+   KNEEBOARD — PRINT COMPACTION
+   Add inside your existing @media print block if desired.
+========================================================= */
+
+body.print-kneeboard
+    .kneeboard-header {
+    margin-bottom: 0.05in !important;
+}
+
+body.print-kneeboard
+    .kneeboard-title {
+    font-size: 9.5pt !important;
+}
+
+body.print-kneeboard
+    .kneeboard-target {
+    margin-top: 0.02in !important;
+    font-size: 8pt !important;
+}
+
+body.print-kneeboard
+    .kneeboard-layout {
+    border-radius: 0 !important;
+}
+
+body.print-kneeboard
+    .kneeboard-group {
+    grid-template-columns: 0.19in minmax(0, 1fr) !important;
+    break-inside: avoid;
+}
+
+body.print-kneeboard
+    .kneeboard-group:not(:last-child)::after {
+    border-bottom-width: 0.7pt !important;
+    border-bottom-style: solid !important;
+}
+
+body.print-kneeboard
+    .kneeboard-rail {
+    padding: 0.04in 0.02in !important;
+    font-size: 6.2pt !important;
+    letter-spacing: 0.04em !important;
+}
+
+body.print-kneeboard
+    .kneeboard-group-body {
+    padding: 0.04in 0.06in !important;
+}
+
+body.print-kneeboard
+    .kneeboard-item {
+    margin-bottom: 0.025in !important;
+    font-size: 8pt !important;
+    line-height: 1.12 !important;
+}
+
+body.print-kneeboard
+    .kneeboard-airwork-item {
+    padding-bottom: 0.03in !important;
+}
+
+body.print-kneeboard
+    .kneeboard-detail {
+    margin: 0.01in 0 0 0.16in !important;
+    font-size: 7.2pt !important;
+    line-height: 1.08 !important;
 }
