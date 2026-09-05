@@ -324,6 +324,18 @@ Watch specifically for:
 
 [[youtube: https://www.youtube.com/watch?v=bz2vGyggf5E | title=FlightInsight - Flying a Traffic Pattern]]
 
+### How to Land (The Right Way)
+
+Watch specifically for:
+
+- aiming point,
+- roundout and flare,
+- landing attitude on the mains,
+- directional control after touchdown,
+- and going around instead of forcing a bad approach.
+
+[[youtube: https://www.youtube.com/watch?v=QqmwmYoN3aQ | title=Pilot Institute Airplanes - How to Land (The Right Way)]]
+
 ### How to Fly a Go-Around
 
 Watch specifically for:
@@ -353,6 +365,12 @@ Power → Pitch → Configure → Climb → Compensate → Communicate.
 [[mnemonic:
 PATTERN TRACK |
 Heading is what you fly. Ground track is what the runway sees. Crab as needed so the track stays rectangular.
+]]
+
+[[mnemonic:
+GUMPS |
+Gas · Undercarriage · Mixture · Prop · Seatbelts / Switches.
+Use on downwind before landing. Confirm fuel (BOTH as required), gear (fixed on the C172S — still say it), mixture RICH as required, prop (fixed pitch — still say it), seatbelts and needed switches. Then fly the airplane.
 ]]
 
 [[highlight:
@@ -476,6 +494,7 @@ Closed traffic at KDWH means remaining in that circuit rather than departing the
 Teach:
 
 - pattern altitude as a target to plan and capture, using local/airport guidance and instructor briefing;
+- remain on the departure / upwind leg until within **300 ft of traffic pattern altitude**, then turn crosswind;
 - approximate distance from the runway so base and final are not rushed;
 - descending only when the plan calls for it, not because the airplane “feels high” without a reference;
 - continuous traffic scan;
@@ -777,7 +796,7 @@ Produce a repeatable, wind-corrected rectangular ground track that sets up a sta
 #### Procedure
 
 1. Climb on upwind / departure, aligned with the runway ground track.
-2. Turn crosswind at the briefed altitude/point, clearing first.
+2. Remain on departure until within **300 ft of traffic pattern altitude**. Then turn **crosswind**, clearing first. Crab so the XWind ground track is rectangular, not blown downwind.
 3. Turn downwind; crab as needed to parallel the runway at a usable distance.
 4. Complete the landing checklist in a timely manner.
 5. Abeam the aiming point / as briefed, configure and descend.
@@ -1302,14 +1321,21 @@ If conditions do not allow, skip the physical abort and keep the brief.
 
 #### Common Errors
 
-Use the full normal-takeoff common-error list from the Ground Brief. Emphasize in the airplane:
+Common errors in the performance of normal takeoffs and departure climbs are:
 
-- abrupt throttle,
-- no instrument check,
-- chasing the ASI,
-- poor lift-off attitude,
-- failure to maintain VY,
-- wing drop from limited scan.
+- Failure to review AFM/POH and performance charts prior to takeoff.
+- Failure to adequately clear the area prior to taxiing into position on the active runway.
+- Abrupt use of the throttle.
+- Failure to check engine instruments for signs of malfunction after applying takeoff power.
+- Failure to anticipate the airplane’s left turning tendency on initial acceleration.
+- Overcorrecting for left turning tendency.
+- Relying solely on the airspeed indicator rather than developing an understanding of visual references and tracking clues of airplane airspeed and controllability during acceleration and lift-off.
+- Failure to attain proper lift-off attitude.
+- Inadequate compensation for torque/P-factor during initial climb resulting in a sideslip.
+- Over-control of elevators during initial climb-out and lack of elevator trimming.
+- Limiting scan to areas directly ahead of the airplane (pitch attitude and direction), causing a wing (usually the left) to drop immediately after lift-off.
+- Failure to attain/maintain best rate-of-climb airspeed (VY) or desired climb airspeed.
+- Failure to employ the principles of attitude flying during climb-out, resulting in “chasing” the airspeed indicator.
 
 ---
 
@@ -1317,18 +1343,23 @@ Use the full normal-takeoff common-error list from the Ground Brief. Emphasize i
 
 #### Procedure
 
-1. Upwind aligned with runway ground track.
-2. Crosswind at briefed point/altitude; clear.
-3. Downwind: parallel the runway with crab; timely landing checklist.
-4. Descent as briefed.
-5. Base with drift correction; coordinated turn.
-6. Final aligned; crab for track, not a slip.
-7. If not stabilized, go around.
+1. Upwind / departure aligned with runway ground track.
+2. Remain on departure until within **300 ft of TPA**. Then turn **XWind**; clear first.
+3. XWind: ~90° to the runway; crab so the ground track is rectangular, not blown downwind.
+4. Downwind: parallel the runway with crab; timely landing checklist.
+5. Descent as briefed.
+6. Base with drift correction; coordinated turn.
+7. Final aligned; crab for track, not a slip.
+8. If not stabilized, go around.
 
 #### Common Errors
 
-- Heading instead of track.
+- Flying heading instead of ground track.
+- Turning XWind before within 300 ft of TPA.
+- Pattern too wide or too tight.
+- XWind / downwind blown by the wind (no crab).
 - Late checklist.
+- Descending too early or too late.
 - Inadequate base drift correction.
 - Overshoot/undershoot or skid to final.
 - Inside fixation.
@@ -1354,7 +1385,23 @@ Instructor demonstrates the first pattern as needed. Learner then flies subseque
 
 #### Common Errors
 
-Use the full 15-item AFH landing common-error list from the Ground Brief.
+Common errors in the performance of normal approaches and landings are:
+
+1. Failure to complete the landing checklist in a timely manner.
+2. Inadequate wind drift correction on the base leg.
+3. An overshooting, undershooting, too steep, or too shallow a turn onto final approach.
+4. A skidding turn from base leg to final approach as a result of overshooting/inadequate wind drift correction.
+5. Poor coordination during turn from base to final approach.
+6. Unstable approach.
+7. Failure to adequately compensate for flap extension.
+8. Poor trim technique on final approach.
+9. Attempting to maintain altitude or reach the runway using elevator alone.
+10. Focusing too close to the airplane resulting in a too high round out.
+11. Focusing too far from the airplane resulting in a too low round out.
+12. Touching down prior to attaining proper landing attitude.
+13. Failure to hold sufficient back-elevator pressure after touchdown.
+14. Excessive braking after touchdown.
+15. Loss of aircraft control during touchdown and rollout.
 
 #### Instructor Emphasis
 
@@ -1379,7 +1426,18 @@ Complete **at least one** practiced go-around.
 
 #### Common Errors
 
-Use the full 10-item AFH go-around common-error list from the Ground Brief. Emphasize delay, indecision, and improper pitch.
+Common errors in the performance of go-arounds (rejected landings) are:
+
+1. Failure to recognize a condition that warrants a rejected landing.
+2. Indecision.
+3. Delay in initiating a go-around.
+4. Failure to apply maximum allowable power in a timely manner.
+5. Abrupt power application.
+6. Improper pitch attitude.
+7. Failure to configure the airplane appropriately.
+8. Attempting to climb out of ground effect prematurely.
+9. Failure to adequately compensate for torque/P factor.
+10. Loss of aircraft control.
 
 ---
 
@@ -1411,6 +1469,20 @@ If altitude, weather, traffic, and learner state allow after pattern work:
 5. Add power; immediately control pitch.
 6. Recover; retrim; reconfigure; maintain control.
 7. Connect the demo to the go-around.
+
+#### Common Errors
+
+Instructor watches for, and debriefs:
+
+- Failure to clear the area.
+- Failing specified configuration.
+- Not setting realistic thrust/torque/nose-up trim.
+- Improper pitch/heading/bank.
+- Failure to recognize first stall indications.
+- Allowing pitch to increase too high without immediate forward pressure when power is added.
+- Reducing power during recovery.
+- Failing to maintain control while retrimming/retracting flaps.
+- Secondary stall from pulling too soon.
 
 Do not convert this into Lesson 5 stall training.
 
@@ -1550,6 +1622,18 @@ The lesson may be repeated when pattern workload, landings, or go-around control
                 <label><input type="checkbox"> <strong>TRACK</strong></label>
                 <div class="kneeboard-detail"><strong>P:</strong> Rectangular ground track · crab each leg · clear before turn.</div>
                 <div class="kneeboard-detail"><strong>CE:</strong> Flying heading; pattern blows downwind.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>DEPARTURE</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Fly departure / upwind until within 300 ft of TPA. Then turn XWind.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Early XWind turn while still well below TPA.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>XWIND</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> ~90° to runway · crab for rectangular track · clear · set downwind distance.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> No crab; blown downwind; heading instead of track.</div>
             </div>
 
             <div class="kneeboard-item">
