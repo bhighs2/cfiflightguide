@@ -226,11 +226,7 @@ python sync_knowledge.py
 
 
 
-## Lesson creation prompt:
-✅ **COMPLETED:** Private Lesson 4 — Airspace, Local Operations and Pre-Solo Regulations
+## Example Lesson creation prompt:
+Work on Private Lesson 5. Aerodynamics, Slow Flight and Stalls
 
-- Full lesson.md generated (GROUND + FLIGHT, Developing)
-- Touch-and-go flight reinforcement (Lesson 3 procedures in Class D environment)
-- Kneeboard formatted per house style (Lesson 3 rail layout)
-- PNG image reference removed (embedded VFR minimums text instead)
-- Ready for your review
+Follow the Flight Guide lesson-authoring docs. Start with source alignment, inspect the adjacent approved lessons for continuity and house style, and do not generate the final lesson.md until I approve it.
