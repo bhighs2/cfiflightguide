@@ -227,6 +227,10 @@ python sync_knowledge.py
 
 
 ## Lesson creation prompt:
-Work on Private Lesson 3 — Traffic Pattern, Takeoffs, Landings and Go-Arounds.
+✅ **COMPLETED:** Private Lesson 4 — Airspace, Local Operations and Pre-Solo Regulations
 
-Follow the Flight Guide lesson-authoring docs. Start with source alignment, inspect the adjacent approved lessons for continuity and house style, and do not generate the final lesson.md until I approve it.
+- Full lesson.md generated (GROUND + FLIGHT, Developing)
+- Touch-and-go flight reinforcement (Lesson 3 procedures in Class D environment)
+- Kneeboard formatted per house style (Lesson 3 rail layout)
+- PNG image reference removed (embedded VFR minimums text instead)
+- Ready for your review
