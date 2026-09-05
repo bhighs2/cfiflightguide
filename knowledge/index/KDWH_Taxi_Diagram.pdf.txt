@@ -1,0 +1,248 @@
+DOCUMENT_TITLE: KDWH_Taxi_Diagram
+SOURCE_FILE: KDWH_Taxi_Diagram.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:KDWH_Taxi_Diagram.pdf>>>
+========================================
+
+CAUTION: BE ALERT TO RUNWAY CROSSING CLEARANCES.
+READBACK OF ALL RUNWAY HOLDING INSTRUCTIONS IS REQUIRED.
+AIRPORT DIAGRAM
+AIRPORT DIAGRAM
+20086
+20086
+AL-5457 (FAA)
+(DWH)DAVID WAYNE HOOKS MEMORIAL  
+DAVID WAYNE HOOKS MEMORIAL(DWH)
+HOUSTON, TEXAS
+HOUSTON, TEXAS
+127.4  354.1 EAST
+HOOKS TOWER
+128.375
+ATIS 
+118.4  354.1 WEST
+GND CON
+121.8  239.0
+CLNC DEL
+119.45
+D
+95°33.5'W
+30°04.5'N
+30°04.0'N
+30°03.5'N
+30°03.0'N
+95°33.0'W
+NORTH
+HANGARS
+WEST
+TERMINAL
+          S-30, D-85
+RWY  17R-35L
+          S-12.5
+RWY  17L-35R
+ELEV
+145
+ELEV
+144
+TERMINAL
+TRIANGLE
+233
+TWR
+150
+ELEV
+RAMP
+B
+RAMP
+A170.4°
+7009 X 100
+350.4°
+17L
+35R
+350.5°
+170.5°
+3500 X 35
+Q 
+A
+B
+D
+D
+G
+E
+G
+H
+F
+LF
+H
+W
+35
+M
+W
+17
+K
+J N
+P
+RA
+M
+P  D
+RA
+M
+P  C
+P
+K
+E
+C
+M
+35L
+17R
+ELEV
+151
+F
+ELEV
+FIELD
+152
+HS 3
+HS 1
+HS 2
+HS 4
+HS 5
+X
+X
+X
+X
+YY1
+Y2
+Y3
+Y
+J
+M1
+Z
+CORNER
+NORTHWEST
+2530 X 100
+0.1° W
+ANNUAL RATE OF CHANGE
+JANUARY 2020
+H
+V
+A
+R  2.4°  E
+SC-5,  16 JUL 2020  to  13 AUG 2020
+SC-5,  16 JUL 2020  to  13 AUG 2020
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:KDWH_Taxi_Diagram.pdf>>>
+========================================
+
+320 TEXAS
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
+DAN JONES INTL (T51) 22 NW UTC–6(–5DT)  N30º02.57´ W95º40.03´
+166 B   NOTAM FILE CXO
+RWY 17–35: H3440X50 (ASPH–TURF)  LIRL(NSTD)
+RWY 17: Thld dsplcd 255´. Tree.
+RWY 35: Thld dsplcd 380´. P–line.
+SERVICE:  S4 FUEL 100LL LGT SS–SR, ACTIVATE LIRL Rwy 17–35—CTAF . For rotating bcn call 936–521–9887. Rwy 
+17–35 NSTD LIRL, NSTD colors, single thr lgt each rwy end. 2240 ft of rwy usbl for ngt opns. Rwy 17 thr relctd 300 ft 
+for ngt opns: Rwy 35 thr relctd 900´ ft for ngt ops.
+AIRPORT REMARKS: Attended dawn to 0600Z‡. Arpt CLOSED midnight to dawn. Deer on rwys. Cattle invof rwy. PPR for rotor 
+wing acft. Rwy 17–35 2365 ft X 30 ft asph on N end. Rwy 17 thr dsplcd 255 ft days only. Rwy 35 thr dsplcd 400 ft 
+days only. Rwy 17–35 4 ft fence 53 ft east of cntrln. Left hand tfc 500´ and 1000´ MSL. North–south transitional acft 
+west of fld. Ldg fee.
+AIRPORT MANAGER: 936-521-9887
+COMMUNICATIONS: CTAF/UNICOM 122.8
+CLEARANCE DELIVERY PHONE: For CD ctc Houston Apch at 281-443-5844 to cnl IFR call 281-443-5888.
+RADIO AIDS TO NAVIGATION:  NOTAM FILE CXO.
+NAVASOTA  (H) VORW/DME 115.9 TNV Chan 106 N30º17.31´ W96º03.49´ 118º 25.1 NM to fld. 247/8E.
+DME unusable:
+005º–072º byd 18 NM blo 3,000´
+073º–077º byd 18 NM blo 2,000´
+078º–106º byd 18 NM blo 3,000´
+VOR portion unusable:
+000º–073º byd 18 NM blo 3,000´
+074º–077º byd 18 NM blo 2,000´
+078º–085º byd 18 NM blo 3,000´
+086º–145º byd 18 NM blo 6,000´
+086º–145º byd 35 NM
+146º–359º byd 18 NM blo 2,000´
+261º–271º byd 39 NM blo 5,000´
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
+DAVID WAYNE HOOKS MEM (DWH)(KDWH) 17 NW UTC–6(–5DT)  N30º03.71´ 
+W95º33.17´
+152 B   NOTAM FILE DWH
+RWY 17R–35L: H7009X100 (ASPH) S–30, D–85  HIRL
+RWY 17R: REIL. PAPI(P4R)—GA 3.0º TCH 52´. Thld dsplcd 1007´. 
+Road.
+RWY 35L: REIL. PAPI(P4L)—GA 3.0º TCH 41´. Trees.
+RWY 17L–35R: H3500X35 (ASPH) S–12.5
+RWY 35R: Thld dsplcd 208´. Antenna. Rgt tfc.
+RUNWAY DECLARED DISTANCE INFORMATION
+RWY 17R:TORA–7009 TODA–7009 ASDA–7009 LDA–6012
+RWY 35L:TORA–6700 TODA–6700 ASDA–6700 LDA–6700
+SERVICE:  S4 FUEL 100LL, JET A   OX 2 LGT When ATCT clsd ACTVT 
+REIL Rwys 17R and 35L; HIRL Rwy 17R–35L—CTAF . 17R REIL lctd 
+at dsplcd thld.
+AIRPORT REMARKS: Attended continuously. Noise sensitive area SW of arpt. 
+All mil acft departing Rwy 17R climb rwy hdg 650 ft MSL prior to 
+turns or rejoin. Hel practice area west of ATCT at or blo 600 ft. Twys 
+A and B clsd east of Rwy 17R indef. Acft 25000 lbs and ovr are rstrd 
+to Twys C, P , E (btn Twys P and G), Twy G (north of Twy E), ramps A 
+and C and the tomball jet cntr ramp. All other twys rstrd to acft below 
+25000 lbs. Twys D and K rstrd to acft 12500 lbs and blw. Twy K rstrd 
+to piston acft only. Twys unlgtd. After SS large acft use Twy P btn Twys 
+E and C. Intersection where Twys Papa, Echo, Juliette and Kilo meet is referred to as the triangle.  Four hel prkg spots lctd 
+east of Twy K.
+AIRPORT MANAGER: 281-376-5436
+WEATHER DATA SOURCES: ASOS (281) 251–7853
+COMMUNICATIONS: CTAF 118.4 ATIS 128.375 UNICOM 122.95
+®HOUSTON APP/DEP CON 119.7
+HOOKS TOWER 118.4 (West) 127.4 (East) (1300–0400Z‡) GND CON 121.8 CLNC DEL 119.45
+CLEARANCE DELIVERY PHONE: For CD when ATCT clsd, ctc Houston Apch on CD freq or call 281-443-5844.  for IFR cancellation 
+when ATCT clsd, call 281-443-5888.
+CONTINUED ON NEXT PAGE
+HOUSTON
+COPTER
+L–19D, 21A, GOMW
+HOUSTON
+COPTER
+H–7C, L–19D, 21A, GOMW
+IAP , AD
+SC, 16 JUL 2020 to 10 SEP 2020
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:KDWH_Taxi_Diagram.pdf>>>
+========================================
+
+TEXAS 321
+CONTINUED FROM PRECEDING PAGE
+AIRSPACE: CLASS D svc 1300–0400Z‡; other times CLASS G.
+RADIO AIDS TO NAVIGATION:  NOTAM FILE IAH.
+HUMBLE  (H) VORTACW 116.6 IAH Chan 113 N29º57.42´ W95º20.74´ 295º 12.5 NM to fld. 81/5E.
+VORTAC monitored by ATCT
+VOR portion unusable:
+060º–070º byd 35 NM
+175º–185º byd 20 NM blo 3,000´
+Byd 30 NM blo 2,000´
+DME unusable:
+015º–090º byd 30 NM blo 2,000´
+130º–320º byd 30 NM blo 2,000´
+175º–185º byd 20 NM blo 3,000´
+230º–250º
+Byd 25 left of course
+TACAN AZIMUTH unusable:
+040º–055º blo 5,000´
+150º–320º blo 4,500´
+150º–320º byd 10 NM
+LOC/DME 110.5 I–HEW Chan 42 Rwy 17R. DME unmonitored.
+••••••••••••••••••
+ 
+WATERWAY 17W–35W: 2530X100 (WATER)
+WATERWAY 17W: Berm.
+WATERWAY 35W: Berm. Rgt tfc.
+––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+SC, 16 JUL 2020 to 10 SEP 2020

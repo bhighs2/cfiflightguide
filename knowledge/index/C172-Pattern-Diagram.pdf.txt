@@ -1,0 +1,52 @@
+DOCUMENT_TITLE: C172-Pattern-Diagram
+SOURCE_FILE: C172-Pattern-Diagram.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:C172-Pattern-Diagram.pdf>>>
+========================================
+
+WNC AVIATION 
+CESSNA 172S/SKYHAWK SP 
+Standard Traffic Pattern 
+ 
+ 
+Downwind 
+3000 MSL 
+90-100 kts 
+2000 RPM* 
+Radio Call 
+Checklist 
+Turn Crosswind 
+2600-2700 MSL 
+Approx ½ mile 
+ 
+ 
+Final 
+30o flaps 
+70 kts 
+Rotate 
+55 kts 
+Climb Out 
+74 kts 
+Abeam touchdown point 
+1500 RPM 
+10 o flaps(below 110 kts) 
+80 kts 
+Start descent 
+Turn Final 
+2600’ MSL 
+2800’ MSL 
+When Touchdown 
+Point is 45 o Off Your 
+Shoulder Turn Base** 
+All turns should be cleared. Announce Pattern leg(crosswind, downwind, etc) clear before turning to that leg. 
+Before turn to final clear the opposing base for traffic also. 
+*Power settings are initial or approximate settings and should be adjusted as necessary to obtain the proper 
+airspeed and altitude. 
+**Tower may direct you to extend base or to make a close pattern. 
+Base leg 
+20o flaps 
+75 kts

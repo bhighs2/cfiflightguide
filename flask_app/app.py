@@ -6,6 +6,13 @@ import os
 import re
 import tempfile
 from urllib.parse import urlparse, parse_qs, urlencode, quote
+from urllib.parse import (
+    urlparse,
+    parse_qs,
+    urlencode,
+    quote,
+    unquote,
+)
 
 import markdown
 from dotenv import load_dotenv
@@ -56,6 +63,65 @@ app = Flask(__name__)
 # ---------------------------------------------------------
 # NAME / URL HELPERS
 # ---------------------------------------------------------
+
+DOCUMENT_DISPLAY_NAMES = {
+    "Airplane_Flying_Handbook.pdf":
+        "Airplane Flying Handbook",
+    "Pilots_Handbook_of_Aeronautical_Knowledge.pdf":
+        "Pilot's Handbook of Aeronautical Knowledge",
+    "Aviation_Instructors_Handbook.pdf":
+        "Aviation Instructor's Handbook",
+    "Risk_Management_Handbook.pdf":
+        "Risk Management Handbook",
+    "POH-Cessna-172S.pdf":
+        "Cessna 172S POH",
+    "ACS_Private_Pilot.pdf":
+        "Private Pilot ACS",
+    "CFI_ASEL_ACS.pdf":
+        "CFI Airplane ACS",
+    "14_CFR_Part_43.pdf":
+        "14 CFR Part 43",
+    "14_CFR_Part_61.pdf":
+        "14 CFR Part 61",
+    "14_CFR_Part_91.pdf":
+        "14 CFR Part 91",
+    "AC_61-65K_Certification.pdf":
+        "AC 61-65K",
+    "Airworthiness_Checklist.pdf":
+        "Airworthiness Checklist",
+}
+
+
+def pdf_document_display_name(url):
+    """Return a friendly display name for an embedded PDF URL."""
+
+    filename = Path(
+        unquote(
+            urlparse(url).path
+        )
+    ).name
+
+    if filename in DOCUMENT_DISPLAY_NAMES:
+        return DOCUMENT_DISPLAY_NAMES[filename]
+
+    cleaned_name = re.sub(
+        r"\.pdf$",
+        "",
+        filename,
+        flags=re.IGNORECASE,
+    )
+
+    cleaned_name = re.sub(
+        r"[_-]+",
+        " ",
+        cleaned_name,
+    )
+
+    return re.sub(
+        r"\s+",
+        " ",
+        cleaned_name,
+    ).strip() or "Reference Document"
 
 def strip_numeric_prefix(name):
     """
@@ -553,12 +619,52 @@ def process_custom_embeds(markdown_text):
                 + f"#page={start_page}"
             )
 
+        if start_page is not None and end_page is not None:
+            page_label = (
+                f"Pages {start_page}–{end_page}"
+            )
+        elif start_page is not None:
+            page_label = f"Page {start_page}"
+        else:
+            page_label = "Reference Document"
+
+        safe_url = html.escape(
+            url,
+            quote=True,
+        )
+
+        safe_page_label = html.escape(
+            page_label,
+            quote=False,
+        )
+
+        safe_document_name = html.escape(
+            pdf_document_display_name(
+                clean_url
+            ),
+            quote=False,
+        )
+
         return f"""
-<div class="pdf-embed">
-    <iframe
-        src="{url}"
-        title="PDF document"
-    ></iframe>
+<div
+    class="pdf-embed pdf-embed-lazy"
+    data-pdf-src="{safe_url}"
+>
+    <button
+        class="pdf-source-toggle"
+        type="button"
+        aria-expanded="false"
+    >
+        <span class="pdf-source-label">SOURCE</span>
+        <span class="pdf-source-range">
+            {safe_document_name}
+            ·
+            {safe_page_label}
+        </span>
+        <span class="pdf-source-action">View Source</span>
+    </button>
+
+    <div class="pdf-viewer" hidden></div>
 </div>
 """
 
@@ -2330,15 +2436,6 @@ def knowledge_excerpt(filename):
     ):
         abort(404)
 
-    reader = PdfReader(
-        str(source_path)
-    )
-
-    page_count = len(reader.pages)
-
-    if end_page > page_count:
-        abort(400)
-
     source_stat = source_path.stat()
 
     cache_key = hashlib.sha256(
@@ -2368,6 +2465,23 @@ def knowledge_excerpt(filename):
             f"{cache_key}.pdf"
         )
     )
+
+    if excerpt_path.exists():
+        return send_file(
+            excerpt_path,
+            mimetype="application/pdf",
+            as_attachment=False,
+            conditional=True,
+        )
+
+    reader = PdfReader(
+        str(source_path)
+    )
+
+    page_count = len(reader.pages)
+
+    if end_page > page_count:
+        abort(400)
 
     if not excerpt_path.exists():
 

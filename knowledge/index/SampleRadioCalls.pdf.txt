@@ -1,0 +1,379 @@
+DOCUMENT_TITLE: SampleRadioCalls
+SOURCE_FILE: SampleRadioCalls.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+All requirements cited are for Part 91 operations. For use in chart or flight-
+planning ring binders, cut along dashed lines and punch holes where indicated 
+For use in chart or flight planning ring binders, cut along dashed lines and punch holes as needed 
+in margins. To ensure accurate sizing, set printer Page Scaling option to “None” or “100%.”
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM
+Page 1 of 7
+Sample Radio Calls 
+The following sample communications will help you frame various 
+types of radio calls.
+When in doubt, remember the four Ws:
+ • Who you’re calling
+ • Who you are
+ • Where you are
+ • What you want
+Class D Airspace
+Departing
+ When ready to taxi:
+  Pilot:   Lancaster Ground, Cherokee 8121K, west ramp, VFR, 
+4,500 to Frederick with [information] Sierra.
+  Ground:  Cherokee 8121K, Lancaster Ground, taxi to Runway 
+26.
+  Pilot:  Taxi to Runway 26, Cherokee 8121K.
+ When ready for takeoff:
+  Pilot:  Lancaster Tower, Cherokee 8121K, Runway 26, ready 
+for takeoff.
+  Tower:  Cherokee 8121K, Runway 26, cleared for takeoff.
+  Pilot:  Cleared for takeoff Runway 26, Cherokee 8121K.
+Arriving
+  Pilot:  Lancaster Tower, Cherokee 8121K, 10 [miles] southwest  
+at 2,500, inbound for landing with [information] Sierra.
+  Tower:  Cherokee 8121K, Lancaster Tower, report entering left 
+downwind Runway 31.
+  Pilot:  Report entering left downwind, Cherokee 8121K.
+   . . . . . 
+  Pilot:  Cherokee 8121K entering left downwind Runway 31.
+  Tower:  Cherokee 21K, cleared to land Runway 31.
+  Pilot:  Cleared to land Runway 31, Cherokee 21K.
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+Class C or TRSA Airspace
+Departing
+When ready to taxi:
+  Pilot:  Greensboro Ground, Cherokee 8121K, general aviation 
+ramp, VFR, 5,500 to Raleigh with [information] Sierra.
+  Ground:  Cherokee 8121K, Greensboro Ground, cleared to  
+Raleigh, maintain VFR at or below 3,000, departure  
+frequency 118.5, squawk 4234, advise when ready to 
+taxi.
+  Pilot:  Cherokee 8121K is cleared to Raleigh, maintain VFR 
+at or below 3,000, departure frequency 118.5, squawk 
+4234, we’re ready to taxi.
+  Ground:  Cherokee 21K, taxi to Runway 23.
+  Pilot:  Taxi to Runway 23, Cherokee 21K.
+When ready for takeoff:
+  Pilot:  Greensboro Tower, Cherokee 8121K, Runway 23, 
+ready for takeoff.
+  Tower:  Cherokee 8121K, Runway 23, cleared for takeoff.
+  Pilot:  Cleared for takeoff, Runway 23, Cherokee 8121K.
+Arriving
+  Pilot:  Greensboro Approach, Cherokee 8121K, 20 [miles] 
+west at 5,500, landing with [information] Foxtrot.
+  ATC:   Cherokee 8121K, Greensboro Approach, squawk 2150 
+and ident.
+  Pilot:  Squawk 2150, Cherokee 8121K.
+  ATC:   Cherokee 21K, radar contact, fly heading 110, descend 
+and maintain 4,500, maintain VFR.
+  Pilot:  Fly heading 110, descend and maintain 4,500, maintain 
+VFR, Cherokee 21K.
+Page 2 of 7
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+Page 3 of 7
+Class B Airspace
+Departing
+Class B departure calls follow the same format as Class C or 
+TRSA airspace. However, you may need to contact Clearance  
+Delivery prior to calling Ground and provide them the four Ws.
+Arriving
+  Pilot:  Charlotte Approach, Cherokee 8121K, 20 [miles]  
+southwest at 7,500, landing Charlotte with [information] 
+Charlie.
+  ATC:  Cherokee 8121K, Charlotte Approach, squawk 4323  
+and ident.
+  Pilot:  Squawk 4323, Cherokee 8121K.
+  ATC:  Cherokee 21K, radar contact, cleared to enter Class 
+Bravo airspace, fly heading 020, descend and maintain 
+3,000, maintain VFR.
+  Pilot:  Cleared to enter Class Bravo airspace, fly heading 020, 
+descend and maintain 3,000, maintain VFR,  
+Cherokee 21K.
+Transiting
+  Pilot:  Seattle Approach, Cherokee 8121K, 20 [miles] southwest  
+of Seattle VOR at 7,500, en route Arlington, request  
+transit Class Bravo airspace. 
+  ATC:   Cherokee 8121K, Seattle Approach, squawk 3121  
+and ident. 
+  Pilot:  Squawk 3121, Cherokee 8121K.
+  ATC:   Cherokee 21K, radar contact 18 miles southwest of 
+SeaTac, Seattle altimeter 29.88, cleared through Class 
+Bravo direct Arlington, descend and maintain 5,500,  
+maintain VFR. 
+  Pilot:  Cleared through Class Bravo direct Arlington, descend 
+and maintain 5,500, maintain VFR, Cherokee 21K.
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+Opening a VFR Flight Plan
+  Pilot:  Raleigh Radio, Cherokee 8121K on 122.2.
+  Flight Service:  Cherokee 8121K, Raleigh Radio, go ahead.
+  Pilot:  Raleigh Radio, open flight plan for Cherokee 
+8121K from Greensboro to Knoxville at 1835 Zulu.
+  Flight Service:  Cherokee 21K, flight plan activated at 1835 Zulu, 
+Greensboro altimeter 30.02. We’d appreciate any 
+pilot reports on Flight Watch, 122.0.
+Requesting/Canceling Flight Following
+Requesting
+  Pilot:  Manchester Approach, Cherokee 8121K. 
+  ATC:   Cherokee 8121K, Manchester Approach.
+  Pilot:  Cherokee 8121K over Concord VOR at 6,500, en route 
+Trenton Mercer, request flight following.
+  ATC:   Cherokee 21K, squawk 3314.
+  Pilot:  Squawk 3314, Cherokee 21K.
+Canceling
+  Pilot:  Manchester Approach, Cherokee 8121K would like to 
+cancel flight following.
+  ATC:   Cherokee 8121K, radar service terminated, squawk 
+VFR, frequency change approved.
+  Pilot:  Squawk VFR, Cherokee 8121K.
+Page 4 of 7
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+Page 5 of 7
+Clearance Components
+Most IFR clearances consist of five basic components (“CRAFT”):
+ •  Clearance limit: Your destination airport or an intermediate fix. 
+ •  Route of flight: Hopefully the route you filed, unless traffic  
+conditions dictate otherwise. 
+ •  Altitude: If not as requested, typically followed by when to expect 
+climb or descent clearance.
+ •  Frequency: The radio frequency for departure control.
+ •  Transponder: Your four-digit squawk code.
+Position Report Components
+Include the following items when making a position report (“IPATTEN”):
+ •  Identification
+ •  Position
+ •  Altitude 
+ •  Time
+ •  Type of flight plan*
+ •  ETA to next reporting point
+ •  Name of next reporting point 
+* Not required in IFR position reports made directly to ATC centers or approach control.
+Lost Comm Route and Altitude
+If two-way IFR communication is lost, select a route and altitude based 
+on the acronyms below, or follow the simple flowchart on the reverse 
+side of this reference.
+Route (choose based on “AVEF” hierarchy):
+ 1.  Assigned—the route assigned in the last ATC clearance
+ 2.  Vectored—if being radar vectored, direct to the fix, route,  
+or airway specified
+ 3.  Expected—the route ATC said to expect in a further clearance
+ 4.  Filed—the route filed in your flight plan
+Altitude (fly the highest of “MEA”):
+ •  Minimum—the minimum en route altitude
+ •  Expected—the altitude ATC said to expect in a further clearance
+ •  Assigned—the altitude ATC assigned in the last clearance
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+Page 6 of 7
+IFR Two-Way Radio Communications  
+Failure Procedures: FAR 91.185
+Step 1: Route Procedures
+Step 2:  Altitude Procedures
+Step 3:  Leave Clearance Limit
+Is the clearance limit a fix from which an approach begins?
+What environment are you flying in?
+Fly the highest of the following:
+IFR
+Yes
+Yes
+Yes Yes
+Yes
+VFR
+No
+No
+No
+OR OR
+No
+Was a route  
+assigned by ATC?
+Fly that route Are you being 
+radar vectored?
+Fly the route specified in 
+the EFC clearance
+Fly your flight  
+plan route
+Fly directly to the fix, 
+route, or airway specified 
+in the clearance
+Altitude assigned by ATC
+Minimum altitude for IFR 
+operations using current 
+altimeter setting
+Commence descent  
+or descent and  
+approach as close as 
+possible to EFC time
+Leave clearance limit 
+at the EFC time and 
+proceed to a fix from 
+which an approach 
+begins; commence 
+descent or descent 
+and approach as 
+close as possible to 
+the ETA
+Commence descent  
+or descent and  
+approach as close as 
+possible to the ETA
+Upon arrival over 
+the clearance limit, 
+proceed to a fix from 
+which an approach 
+begins; commence 
+descent or descent 
+and approach as  
+close as possible to 
+the ETA
+Altitude expected in  
+further clearance
+Is there  
+an EFC route?
+Land as soon  
+as practical
+Did you receive an 
+EFC time?
+Did you receive an 
+EFC time?
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:SampleRadioCalls.pdf>>>
+========================================
+
+Page 7 of 7
+ATC Light Gun Signals
+ Steady green Cleared for takeoff Cleared to land Cleared to cross;  
+proceed; go
+  Flashing green Cleared to taxi
+Return for landing  
+(to be followed by 
+steady green at the 
+proper time)
+Not applicable
+ Steady red Stop
+Give way to  
+other aircraft and  
+continue circling
+Stop
+ Flashing red Taxi clear of landing 
+area or runway in use
+Airport unsafe- 
+Do not land
+Clear the  
+taxiway/runway
+ Flashing white
+Return to  
+starting point  
+on airport
+Not applicable
+Return to  
+starting point  
+on airport
+  Alternating red 
+and green
+General  
+warning signal –  
+exercise extreme 
+caution
+General  
+warning signal –  
+exercise extreme 
+caution
+General  
+warning signal –  
+exercise extreme 
+caution
+Fixed-wing aircraft
+ Between sunrise and sunset:
+  (a)  Move ailerons or rudder while  
+on the ground.
+  (b) Rock wings while in flight.
+ Between sunset and sunrise:
+  (a)  Flash landing light or  
+navigation lights.
+Helicopters
+ Between sunrise and sunset:
+  (a)  While hovering, either turn  
+the helicopter toward the  
+controlling facility and flash  
+the landing light or rock the  
+tip path plane.
+  (b)  While in flight, either flash the 
+landing light or rock the tip 
+path plane.
+ Between sunset and sunrise:
+  (a)  Flash navigation lights or  
+landing light.
+Reply with one of the following acknowledgements:
+Color and type  
+of signal
+Aircraft on the 
+ground Aircraft in flight
+Movement of  
+vehicles equipment 
+and personnel
+MEANING
+Mastering Radio Communication
+Review full course online anytime at 
+airsafetyinstitute.org/radiocomm
+WWW.AIRSAFETYINSTITUTE.ORG/RADIOCOMM

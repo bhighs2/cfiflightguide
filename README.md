@@ -223,3 +223,10 @@ Normal maintenance is therefore:
 .venv\Scripts\activate
 python sync_knowledge.py
 ```
+
+
+
+## Lesson creation prompt:
+Work on Private Lesson 3 — Traffic Pattern, Takeoffs, Landings and Go-Arounds.
+
+Follow the Flight Guide lesson-authoring docs. Start with source alignment, inspect the adjacent approved lessons for continuity and house style, and do not generate the final lesson.md until I approve it.

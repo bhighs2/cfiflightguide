@@ -784,6 +784,94 @@ document.addEventListener(
            CONSTRAINED YOUTUBE EXCERPTS
         ============================================= */
 
+        const pdfEmbeds =
+            Array.from(
+                document.querySelectorAll(
+                    ".pdf-embed-lazy"
+                )
+            );
+
+        pdfEmbeds.forEach(
+            function (embed) {
+
+                const toggle =
+                    embed.querySelector(
+                        ".pdf-source-toggle"
+                    );
+
+                const viewer =
+                    embed.querySelector(
+                        ".pdf-viewer"
+                    );
+
+                const action =
+                    embed.querySelector(
+                        ".pdf-source-action"
+                    );
+
+                if (!toggle || !viewer) {
+                    return;
+                }
+
+                toggle.addEventListener(
+                    "click",
+                    function () {
+
+                        let iframe =
+                            viewer.querySelector(
+                                "iframe"
+                            );
+
+                        if (!iframe) {
+
+                            const source =
+                                embed.dataset.pdfSrc;
+
+                            if (!source) {
+                                return;
+                            }
+
+                            iframe =
+                                document.createElement(
+                                    "iframe"
+                                );
+
+                            iframe.src = source;
+                            iframe.loading = "lazy";
+                            iframe.title =
+                                "PDF document";
+
+                            viewer.appendChild(
+                                iframe
+                            );
+
+                        }
+
+                        const isOpen =
+                            !viewer.hidden;
+
+                        viewer.hidden = isOpen;
+
+                        toggle.setAttribute(
+                            "aria-expanded",
+                            isOpen
+                                ? "false"
+                                : "true"
+                        );
+
+                        if (action) {
+                            action.textContent =
+                                isOpen
+                                    ? "View Source"
+                                    : "Hide Source";
+                        }
+
+                    }
+                );
+
+            }
+        );
+
         const youtubeSegments =
             Array.from(
                 document.querySelectorAll(
@@ -1556,44 +1644,116 @@ document.addEventListener(
         }
 
 
-        loadYouTubeApi()
-            .then(
-                function (YT) {
+        function initializeYouTubeSegmentOnce(
+            segment,
+            index
+        ) {
 
-                    youtubeSegments.forEach(
-                        function (segment, index) {
+            if (
+                segment.dataset.youtubeInitialized
+                === "true"
+                || segment.dataset.youtubeInitializing
+                === "true"
+            ) {
+                return;
+            }
 
-                            initializeYouTubeSegment(
-                                segment,
-                                index,
-                                YT
-                            );
+            segment.dataset.youtubeInitializing =
+                "true";
 
-                        }
+            loadYouTubeApi()
+                .then(
+                    function (YT) {
+
+                        segment.dataset.youtubeInitialized =
+                            "true";
+
+                        initializeYouTubeSegment(
+                            segment,
+                            index,
+                            YT
+                        );
+
+                    }
+                )
+                .catch(
+                    function (error) {
+
+                        delete segment.dataset.youtubeInitializing;
+
+                        console.error(
+                            "YouTube excerpt player error:",
+                            error
+                        );
+
+                        segment.classList.add(
+                            "youtube-segment-error"
+                        );
+
+                    }
+                );
+
+        }
+
+
+        if (
+            "IntersectionObserver" in window
+        ) {
+
+            const youtubeObserver =
+                new IntersectionObserver(
+                    function (entries) {
+
+                        entries.forEach(
+                            function (entry) {
+
+                                if (
+                                    !entry.isIntersecting
+                                ) {
+                                    return;
+                                }
+
+                                youtubeObserver.unobserve(
+                                    entry.target
+                                );
+
+                                initializeYouTubeSegmentOnce(
+                                    entry.target,
+                                    youtubeSegments.indexOf(
+                                        entry.target
+                                    )
+                                );
+
+                            }
+                        );
+
+                    },
+                    {
+                        rootMargin:
+                            "300px 0px",
+                    }
+                );
+
+            youtubeSegments.forEach(
+                function (segment) {
+                    youtubeObserver.observe(
+                        segment
                     );
-
-                }
-            )
-            .catch(
-                function (error) {
-
-                    console.error(
-                        "YouTube excerpt player error:",
-                        error
-                    );
-
-                    youtubeSegments.forEach(
-                        function (segment) {
-
-                            segment.classList.add(
-                                "youtube-segment-error"
-                            );
-
-                        }
-                    );
-
                 }
             );
+
+        } else {
+
+            youtubeSegments.forEach(
+                function (segment, index) {
+                    initializeYouTubeSegmentOnce(
+                        segment,
+                        index
+                    );
+                }
+            );
+
+        }
 
     }
 );
