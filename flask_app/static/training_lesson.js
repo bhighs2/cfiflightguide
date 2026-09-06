@@ -400,11 +400,61 @@ document.addEventListener(
             );
 
             content.querySelectorAll(
-                ".pdf-embed, .youtube-embed, .youtube-segment"
+                ".youtube-embed, .youtube-segment"
             ).forEach(
                 function (element) {
 
                     element.remove();
+
+                }
+            );
+
+            content.querySelectorAll(
+                ".pdf-embed"
+            ).forEach(
+                function (element) {
+
+                    const viewer =
+                        element.querySelector(
+                            ".pdf-viewer"
+                        );
+
+                    if (viewer) {
+                        viewer.remove();
+                    }
+
+                    const toggle =
+                        element.querySelector(
+                            ".pdf-source-toggle"
+                        );
+
+                    if (toggle) {
+                        const staticToggle =
+                            document.createElement(
+                                "div"
+                            );
+
+                        staticToggle.className =
+                            "pdf-source-toggle";
+
+                        staticToggle.innerHTML =
+                            toggle.innerHTML;
+
+                        const action =
+                            staticToggle.querySelector(
+                                ".pdf-source-action"
+                            );
+
+                        if (action) {
+                            action.remove();
+                        }
+
+                        element.replaceWith(
+                            staticToggle
+                        );
+                    } else {
+                        element.remove();
+                    }
 
                 }
             );
@@ -429,6 +479,54 @@ document.addEventListener(
 
                     checkbox.replaceWith(
                         printCheckbox
+                    );
+
+                }
+            );
+
+            content.querySelectorAll(
+                "p"
+            ).forEach(
+                function (paragraph) {
+
+                    const text =
+                        paragraph.textContent
+                            .replace(/\s+/g, " ")
+                            .trim();
+
+                    if (
+                        /^Source:?$/i.test(text)
+                        || /^SOURCE:?$/i.test(text)
+                    ) {
+                        paragraph.remove();
+                    }
+
+                }
+            );
+
+            content.querySelectorAll(
+                ".pdf-source-toggle"
+            ).forEach(
+                function (element) {
+
+                    const replacement =
+                        document.createElement(
+                            "div"
+                        );
+
+                    replacement.className =
+                        "pdf-source-toggle";
+
+                    replacement.setAttribute(
+                        "aria-hidden",
+                        "true"
+                    );
+
+                    replacement.innerHTML =
+                        element.innerHTML;
+
+                    element.replaceWith(
+                        replacement
                     );
 
                 }

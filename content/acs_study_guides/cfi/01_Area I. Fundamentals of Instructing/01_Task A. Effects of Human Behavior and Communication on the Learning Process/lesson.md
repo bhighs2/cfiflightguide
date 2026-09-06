@@ -1,5 +1,7 @@
 # Task A. Effects of Human Behavior and Communication on the Learning Process
 
+**Area I — Fundamentals of Instructing**
+
 ## Objective
 
 To determine that the instructor applicant understands human behavior and effective communication, can apply that knowledge, manage associated risks, demonstrate appropriate skills, and provide effective instruction.
@@ -121,13 +123,14 @@ The learner can explain and apply the major concepts required by CFI ACS Area I,
 ## Primary References
 
 - [FAA-S-ACS-25 — Flight Instructor for Airplane Category Airman Certification Standards](/knowledge/CFI_ASEL_ACS.pdf)
-- [FAA-H-8083-9 — Aviation Instructor's Handbook](/knowledge/Aviation_Instructors_Handbook.pdf)
-  - Chapter 2 — Human Behavior
-  - Chapter 4 — Effective Communication
+- [FAA-H-8083-9 — Aviation Instructor's Handbook, Chapter 2: Human Behavior (pages 34–51)](/knowledge/Aviation_Instructors_Handbook.pdf#page=34)
+- [FAA-H-8083-9 — Aviation Instructor's Handbook, Chapter 4: Effective Communication (pages 94–103)](/knowledge/Aviation_Instructors_Handbook.pdf#page=94)
 - [FAA-H-8083-2 — Risk Management Handbook](/knowledge/Risk_Management_Handbook.pdf)
 - [FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge](/knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf)
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=34 | end=51]]
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=94 | end=103]]
 
 ## Video Review — Human Behavior
 
@@ -189,7 +192,9 @@ The learner can explain and apply the major concepts required by CFI ACS Area I,
 
 # Teach
 
-## Human Behavior
+## FI.I.A.K1 — Elements of Human Behavior
+
+### FI.I.A.K1a — Definitions of Human Behavior
 
 Human behavior is the product of many influences that cause people to act and react in characteristic ways. In flight training, behavior is affected by needs, motivation, emotions, previous experience, physical condition, expectations, and the instructor-learner relationship.
 
@@ -200,9 +205,21 @@ Instructor Principle |
 The required standard remains the same. The method used to help the learner reach that standard may need to change.
 ]]
 
-## Human Needs and Motivation
+**Source:**
 
-### Motivation
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=34 | end=35]]
+
+### FI.I.A.K1b — Instructor and Learner Relationship
+
+The instructor-learner relationship directly affects learning. A productive relationship is based on mutual respect, trust, clear expectations, honest feedback, professional boundaries, open communication, and consistent standards.
+
+The instructor should learn the learner's goals and background, explain objectives and standards, evaluate performance objectively, encourage questions, and adapt the presentation when needed without lowering standards. Learners bring different personalities, experiences, strengths, and preferences to training, so instruction should be adapted to the individual rather than forcing every learner through exactly the same presentation style.
+
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=34 | end=35]]
+
+### FI.I.A.K1c — Motivation
 
 Motivation is the reason a person acts toward a goal and is one of the strongest influences on learning.
 
@@ -221,7 +238,17 @@ The instructor should determine **why the learner wants to fly** and connect ind
 
 Positive motivation generally supports stronger long-term learning. Fear, humiliation, intimidation, and excessive criticism may produce short-term compliance but can interfere with learning, confidence, judgment, and the instructor-learner relationship.
 
-### Maslow's Hierarchy of Needs
+### Maintaining Motivation
+
+Keep motivation by establishing relevant, attainable intermediate goals; showing progress; varying practice when useful; and connecting each lesson to the learner's reason for training. Recognize legitimate progress while maintaining the same performance standard.
+
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=35 | end=38]]
+
+### FI.I.A.K1d — Human Needs
+
+#### Maslow's Hierarchy of Needs
 
 Human needs can compete with learning for the learner's attention. The instructional value of Maslow's hierarchy is recognizing that a learner who is hungry, exhausted, frightened, embarrassed, or otherwise distracted by an unmet need may not be fully receptive to instruction.
 
@@ -262,23 +289,16 @@ Avoid:
 
 Many learners ultimately seek the satisfaction of becoming capable and independent aviators. The instructor's long-term goal is to develop the competence and judgment necessary for the learner to operate safely without the instructor.
 
-## Instructor and Learner Relationship
 
-The instructor-learner relationship directly affects learning. A productive relationship is based on:
+#### Human Nature and Motivation
 
-- Mutual respect
-- Trust
-- Clear expectations
-- Honest feedback
-- Professional boundaries
-- Open communication
-- Consistent standards
+Motivation is personal and can change as a learner's needs, confidence, experience, and circumstances change. The instructor observes the learner's behavior, asks useful questions, and adjusts the presentation or pace when needed without attempting to manipulate or diagnose the learner.
 
-The instructor should learn the learner's goals and background, explain objectives and standards, evaluate performance objectively, encourage questions, and adapt the presentation when needed without lowering standards.
+**Source:**
 
-The instructor should also recognize that learners bring different personalities, experiences, strengths, and preferences to training. Instruction should be adapted to the individual rather than forcing every learner through exactly the same presentation style.
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=38 | end=42]]
 
-## Defense Mechanisms
+### FI.I.A.K1e — Defense Mechanisms
 
 Defense mechanisms are often unconscious responses used to protect self-image or reduce anxiety. They matter to an instructor because they can distort a learner's perception of performance and interfere with correction.
 
@@ -358,9 +378,13 @@ Instructor Emphasis |
 Address the performance problem, not the learner's ego defense. Objective standards and guided self-assessment are usually more productive than confrontation.
 ]]
 
-## Learner Emotional Reactions
+**Source:**
 
-### Anxiety and Stress
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=42 | end=45]]
+
+## FI.I.A.K2 — Learner Emotional Reactions
+
+### FI.I.A.K2a — Anxiety and Stress
 
 Some anxiety is normal, especially during unfamiliar flight operations. Moderate stress may increase alertness, but excessive stress can reduce the ability to process information and perform safely.
 
@@ -382,7 +406,7 @@ A learner who believes the instructor is unfair or applying inconsistent standar
 
 The instructor should use clear objectives, consistent standards, objective assessment, and specific explanations of deficiencies. Fair treatment does not mean lowering standards.
 
-### Impatience
+### FI.I.A.K2b — Impatience
 
 An impatient learner may focus on a milestone rather than the proficiency required to reach it.
 
@@ -396,13 +420,13 @@ Examples include wanting to:
 
 The instructor should explain the training sequence, define measurable intermediate objectives, and progress the learner promptly when standards are met.
 
-### Worry or Lack of Interest
+### FI.I.A.K2c — Worry or Lack of Interest
 
 Work, family, financial concerns, frustration with training, or lack of interest in a particular task can reduce learning effectiveness.
 
 The instructor may not be able to solve the underlying issue but should recognize when meaningful learning is no longer occurring and modify the lesson when appropriate.
 
-### Physical Discomfort, Illness, Fatigue, and Dehydration
+### FI.I.A.K2d — Physical Discomfort, Illness, Fatigue, and Dehydration
 
 Physical condition affects both learning and flight safety.
 
@@ -419,7 +443,7 @@ Watch for:
 
 Possible responses include taking a break, shortening the lesson, increasing ventilation, providing water, returning to the airport, or rescheduling.
 
-### Apathy Due to Inadequate Instruction
+### FI.I.A.K2e — Apathy Due to Inadequate Instruction
 
 Sometimes the learner's lack of interest is caused by the instructor.
 
@@ -467,7 +491,11 @@ When behavior creates a legitimate concern about training or safety:
 
 Safety and responsible certification take priority over completing a training schedule.
 
-## Teaching the Adult Learner
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=45 | end=49]]
+
+## FI.I.A.K3 — Teaching the Adult Learner
 
 Most aviation learners are adults. Adult learners commonly:
 
@@ -484,7 +512,13 @@ The instructor should connect new knowledge to the learner's goals and prior exp
 
 **Example:** An experienced engineer may understand technical concepts quickly, but engineering experience does not automatically equal aviation systems knowledge. Use the experience as a bridge, then verify aviation understanding and application.
 
-## Basic Elements of Communication
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=50 | end=51]]
+
+## FI.I.A.K4 — Effective Communication
+
+### FI.I.A.K4a — Basic Elements of Communication
 
 Effective communication requires more than transmitting information.
 
@@ -507,7 +541,11 @@ Key Point |
 Transmission is not the same as understanding. Communication is successful only when the receiver interprets the message substantially as intended.
 ]]
 
-## Barriers to Effective Communication
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=95 | end=97]]
+
+### FI.I.A.K4b — Barriers to Effective Communication
 
 [[mnemonic: C O I L | Confusion · Overuse of Abstraction · Interference · Lack of Common Experience]]
 
@@ -554,7 +592,11 @@ Words and analogies may mean different things to people with different backgroun
 
 For a new learner, "add a little back pressure" may be too vague. Demonstration and an observable aircraft response may be necessary.
 
-## Developing Communication Skills
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=97 | end=99]]
+
+### FI.I.A.K4c — Developing Communication Skills
 
 Communication skills require deliberate development. The instructor should listen, ask effective questions, communicate clearly, monitor for misunderstanding, continue professional development, and use appropriate instructional techniques.
 
@@ -683,6 +725,10 @@ Prefer:
 > We began the flare high, which allowed the airspeed to decay before touchdown.
 
 Specific communication identifies the observable problem and gives the learner something that can be corrected.
+
+**Source:**
+
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=99 | end=103]]
 
 # Review
 
