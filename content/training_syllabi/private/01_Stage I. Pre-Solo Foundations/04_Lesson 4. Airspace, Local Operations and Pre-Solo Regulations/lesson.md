@@ -136,7 +136,7 @@ Before the lesson:
 - Review Part 91 § 91.126, § 91.127, and § 91.129 to understand operating rules by airspace class.
 - Review the Houston Terminal Area Chart (TAC) and locate KDWH relative to Class B airspace and other area airports (Hobby, Ellington).
 - Study the VFR Airspace Minimums diagram and understand how minimums change by airspace class and altitude.
-- Review the KDWH airport diagram and verify that KDWH is Class D during tower hours (1300–0400Z) and Class G otherwise.
+- Review the KDWH airport diagram and verify that KDWH is Class D during tower hours (1300–0400Z / 7:00 am–10:00 pm). When the tower is closed, the airspace converts to Class G from the surface to 700 feet AGL, with Class E above that until Class B is reached.
 - Watch the AOPA training tip on student-pilot assertiveness in a busy tower environment.
 - Be prepared to explain what you would do if a tower instruction was unclear or you believed you could not safely comply.
 - Review Lesson 3 takeoff and landing procedures for the flight component.
@@ -195,7 +195,7 @@ Study this diagram to understand visibility and ceiling minimums for Class D, E,
 
 ### KDWH Airport Diagram
 
-Verify KDWH's position, tower frequency, service hours (Class D 1300–0400Z, Class G otherwise), and CTAF.
+Verify KDWH's position, frequencies (Tower 118.4, Ground 121.8, ATIS 128.375, Houston Approach/Departure 119.7), service hours (Class D 1300–0400Z / 7:00 am–10:00 pm; Class G surface to 700 ft AGL with Class E above when closed), and CTAF (118.4 when the tower is closed).
 
 [[pdf: /knowledge/KDWH_Taxi_Diagram.pdf]]
 
@@ -215,7 +215,7 @@ Watch for:
 ## Concepts to Understand
 
 - **Airspace classification:** Class D (controlled, tower required), Class E (controlled, IFR structure), Class G (uncontrolled)
-- **KDWH airspace:** Class D during tower hours; Class G otherwise
+- **KDWH airspace:** Class D during tower hours; Class G (surface to 700 ft AGL) with Class E above when the tower is closed
 - **Class D entry requirements:** Clearance from tower, radio contact, transponder
 - **Student-pilot restrictions:** Aircraft type, location, speed, supervision, solo endorsements
 - **VFR minimums:** Visibility and ceiling thresholds vary by airspace class
@@ -233,7 +233,7 @@ Watch for:
 7. What are three pre-solo endorsements, and why does each matter?
 
 [[answer:
-1. KDWH is Class D (tower service) during tower hours (approximately 1300–0400Z). When the tower is closed, KDWH is Class G (uncontrolled).
+1. KDWH is Class D (tower service) during tower hours (1300–0400Z / 7:00 am–10:00 pm). When the tower is closed, the airspace converts to Class G (uncontrolled) from the surface to 700 feet AGL, with Class E above that until Class B is reached.
 
 2. Class D airspace is controlled by an ATC tower and requires radio contact, a clearance, and a transponder. Class G is uncontrolled airspace; radio contact is not required, but see-and-avoid remains your responsibility.
 
@@ -282,7 +282,7 @@ Use:
 From **Lesson 2 - Airport Environment, Communications and Surface Operations**, review:
 
 - KDWH airport diagram,
-- tower frequency and communication structure,
+- KDWH frequencies: Tower 118.4, Ground 121.8, ATIS 128.375, Houston Approach/Departure 119.7, and the communication structure,
 - radio readback and understanding,
 - and stop-when-uncertain.
 
@@ -333,7 +333,7 @@ The United States airspace is divided into classes based on traffic density, con
 
 [[highlight:
 Key Point |
-KDWH is **Class D** during tower hours (approximately 1300–0400Z) and **Class G** when the tower is closed.
+KDWH is **Class D** during tower hours (1300–0400Z / 7:00 am–10:00 pm). When the tower is closed, the airspace converts to **Class G** from the surface to **700 feet AGL**, with **Class E** above that until Class B is reached.
 ]]
 
 ### 2. Class D Airspace — KDWH During Tower Hours
@@ -357,17 +357,21 @@ KDWH is **Class D** during tower hours (approximately 1300–0400Z) and **Class 
 - Tower authorization before departing
 - Follows departure instructions (e.g., "Turn right heading 090 after departure")
 
-### 3. Class G Airspace — KDWH When Tower Is Closed
+### 3. Class G and Class E Airspace — KDWH When Tower Is Closed
+
+When the tower closes (outside 1300–0400Z / 7:00 am–10:00 pm), the airspace over KDWH converts: **Class G from the surface to 700 feet AGL, with Class E above that until Class B is reached.**
 
 **Entry:** No clearance required; no radio contact required (though good practice)
 
-**Communication:** Use CTAF (Common Traffic Advisory Frequency); typically the tower frequency when tower is closed (119.1 for KDWH)
+**Communication:** Use CTAF (Common Traffic Advisory Frequency); the tower frequency (118.4) becomes the CTAF when the tower is closed
 
 **Pilot Responsibility:** See-and-avoid; continuous traffic scan; self-announce position and intentions
 
+**Class E above 700 ft AGL:** Controlled airspace resumes overhead — VFR aircraft may operate without a clearance, but IFR traffic is separated by ATC and the Class E VFR minimums apply above the Class G ceiling.
+
 **Advantages:** Less formal; no clearance delay
 
-**Disadvantage:** No ATC separation service; rely on visual awareness and radio position reports
+**Disadvantage:** No ATC separation service in the Class G layer; rely on visual awareness and radio position reports
 
 ### 4. VFR Weather Minimums by Airspace Class
 
@@ -561,7 +565,7 @@ Defer to your instructor's judgment. Your job is to train safely within set limi
 
 #### Procedure
 
-1. Check current time and tower service hours (1300–0400Z for Class D; otherwise Class G).
+1. Check current time and tower service hours (1300–0400Z / 7:00 am–10:00 pm for Class D; otherwise Class G surface to 700 ft AGL with Class E above).
 2. Review airport information and active runway.
 3. Determine Class D or Class G based on current time.
 4. If Class D: plan radio contact, transponder setting, and ATC compliance.
@@ -637,7 +641,7 @@ Defer to your instructor's judgment. Your job is to train safely within set limi
 
 **Question:** What changes occur when the tower closes? What do I do for the last landing?
 
-**Answer:** KDWH transitions from Class D to Class G. Once Class G, you switch to CTAF (119.1), announce your position, and use self-announce procedures. Radio contact is not required, but good airmanship demands continued position reports. Approach and landing procedures do not change; only the communication and ATC separation concept changes.
+**Answer:** KDWH transitions from Class D to Class G (surface to 700 ft AGL, with Class E above). Once the tower closes, you switch to CTAF (118.4), announce your position, and use self-announce procedures. Radio contact is not required, but good airmanship demands continued position reports. Approach and landing procedures do not change; only the communication and ATC separation concept changes.
 
 ### Scenario 3: Tower Issues a Downwind Extension
 
@@ -727,10 +731,10 @@ This saves you from turning to the wrong runway or wrong pattern direction.
 
 #### Procedure
 
-1. Verify current time and tower service hours (1300–0400Z for Class D, otherwise Class G).
+1. Verify current time and tower service hours (1300–0400Z / 7:00 am–10:00 pm for Class D, otherwise Class G surface to 700 ft AGL with Class E above).
 2. Confirm ATIS or airport information for active runway(s) and NOTAMs.
 3. Confirm Class D status for today.
-4. Plan tower frequency (119.1) and transponder code (typically 1200 initially).
+4. Plan tower frequency (118.4) and transponder code (typically 1200 initially).
 5. Confirm VFR minimums are met: 3 SM visibility and 1,000 feet AGL ceiling minimum for Class D.
 6. Brief tower communication: ground for taxi, tower for takeoff/landing.
 7. Brief the student: "We are in Class D airspace. Tower controls all operations. If you do not understand an instruction, ask for clarification. If you cannot comply, say 'unable.'"
@@ -750,7 +754,7 @@ This saves you from turning to the wrong runway or wrong pattern direction.
 Apply Lesson 2 procedures (no reteach):
 
 1. Start and systems checks per C172S checklist.
-2. Contact KDWH Ground (119.1): "KDWH Ground, Skyhawk 826SW at [position], requesting taxi for takeoff, touch-and-gos, [runway] or request."
+2. Contact KDWH Ground (121.8): "Hooks Ground, Skyhawk 826SW at [position], requesting taxi for takeoff, touch-and-gos, [runway] or request."
 3. Ground issues taxi clearance and runway.
 4. Read back runway and taxiway.
 5. Taxi using Lesson 2 habits: wind control, brake check, hold-short verification, diagram orientation.
@@ -864,13 +868,13 @@ The flight is satisfactory when the learner demonstrates developing ability to:
 
             <div class="kneeboard-item">
                 <label><input type="checkbox"> <strong>KDWH AIRSPACE</strong></label>
-                <div class="kneeboard-detail"><strong>P:</strong> Tower hours 1300–0400Z (Class D). Otherwise Class G. VFR mins: 3 SM, 1,000 ft.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Tower 1300–0400Z / 0700–2200L (Class D). Closed: Class G to 700 ft AGL, Class E above. VFR mins: 3 SM, 1,000 ft.</div>
                 <div class="kneeboard-detail"><strong>CE:</strong> Wrong hour. Marginal VFR.</div>
             </div>
 
             <div class="kneeboard-item">
                 <label><input type="checkbox"> <strong>TRANSPONDER & RADIO</strong></label>
-                <div class="kneeboard-detail"><strong>P:</strong> Set transponder 1200. Frequency 119.1. Monitor ATIS.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Set transponder 1200. ATIS 128.375 · Ground 121.8 · Tower 118.4 · CTAF 118.4 · Hou Apch 119.7.</div>
                 <div class="kneeboard-detail"><strong>CE:</strong> Forgetting transponder. Wrong frequency.</div>
             </div>
 

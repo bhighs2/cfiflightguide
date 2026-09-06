@@ -2216,6 +2216,14 @@ TRAINING_LESSON_SECTIONS = {
 }
 
 
+CFI_ACS_LESSON_SECTIONS = {
+    "prepare": "prepare",
+    "teach": "teach",
+    "fly": "fly",
+    "review": "review",
+}
+
+
 def split_training_lesson_markdown(markdown_text):
     """
     Split a training syllabus lesson into top-level sections.
@@ -2287,6 +2295,63 @@ def split_training_lesson_markdown(markdown_text):
     }
 
 
+def split_cfi_acs_lesson_markdown(markdown_text):
+    """
+    Split a CFI ACS lesson into the CFI-specific tab sections.
+
+    Everything before the first recognized heading becomes Overview.
+    Training Syllabus heading recognition remains isolated in
+    split_training_lesson_markdown().
+    """
+
+    sections = {
+        "overview": [],
+        "prepare": [],
+        "teach": [],
+        "fly": [],
+        "review": [],
+    }
+
+    current_section = "overview"
+
+    for line in markdown_text.splitlines(
+        keepends=True
+    ):
+
+        match = re.match(
+            r"^\s*#\s+(.+?)\s*$",
+            line,
+        )
+
+        if match:
+
+            heading = re.sub(
+                r"\s+",
+                " ",
+                match.group(1).strip().lower(),
+            )
+
+            mapped_section = (
+                CFI_ACS_LESSON_SECTIONS.get(
+                    heading
+                )
+            )
+
+            if mapped_section:
+
+                current_section = mapped_section
+
+                # The CFI tab supplies the section title.
+                continue
+
+        sections[current_section].append(line)
+
+    return {
+        section: "".join(lines).strip()
+        for section, lines in sections.items()
+    }
+
+
 def render_lesson_markdown(markdown_text):
     """
     Run one lesson section through the site's existing
@@ -2343,12 +2408,32 @@ def lesson(content_path):
         )
     )
 
+    is_cfi_acs_lesson = (
+        content_path.startswith(
+            "acs-study-guides/cfi/"
+        )
+    )
+
     lesson_sections = None
     lesson_html = None
 
     if is_training_lesson:
 
         raw_sections = split_training_lesson_markdown(
+            markdown_text
+        )
+
+        lesson_sections = {
+            section_name: render_lesson_markdown(
+                section_markdown
+            )
+            for section_name, section_markdown
+            in raw_sections.items()
+        }
+
+    elif is_cfi_acs_lesson:
+
+        raw_sections = split_cfi_acs_lesson_markdown(
             markdown_text
         )
 
@@ -2387,6 +2472,7 @@ def lesson(content_path):
         lesson_html=lesson_html,
         lesson_sections=lesson_sections,
         is_training_lesson=is_training_lesson,
+        is_cfi_acs_lesson=is_cfi_acs_lesson,
         current_path="/" + content_path,
     )
 

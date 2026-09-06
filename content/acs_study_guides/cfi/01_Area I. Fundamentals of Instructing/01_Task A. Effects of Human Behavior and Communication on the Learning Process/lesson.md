@@ -2,79 +2,269 @@
 
 ## Objective
 
-At the completion of this lesson, the instructor applicant will be able to explain how human behavior and communication affect learning; recognize learner needs, motivation, defense mechanisms, and emotional reactions; identify and mitigate barriers to effective communication; adapt instruction to the adult learner; and use effective communication during ground and flight instruction.
+To determine that the instructor applicant understands human behavior and effective communication, can apply that knowledge, manage associated risks, demonstrate appropriate skills, and provide effective instruction.
 
-## References
+## Purpose
 
-- [FAA-S-ACS-25 — Flight Instructor for Airplane Category Airman Certification Standards](/knowledge/CFI_ASEL_ACS.pdf)
-- [FAA-H-8083-9 — Aviation Instructor's Handbook](/knowledge/Aviation_Instructors_Handbook.pdf)
-- [FAA-H-8083-2 — Risk Management Handbook](/knowledge/Risk_Management_Handbook.pdf)
-- [FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge](/knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf)
-- [YouTube — Todd Shellnut — CFI Fundamentals of Instructing: Human Behavior and Effective Communication](https://www.youtube.com/watch?v=L2MIniFJG5s)
-- [YouTube — FLY8MA — CFI Fundamentals of Instructing / Checkride Review](https://www.youtube.com/watch?v=4IxiQeh0FFI)
+Every interaction between an instructor and learner is influenced by human behavior and communication. The instructor must recognize factors that affect motivation, learning, and performance; communicate in a way the learner can understand; and adapt instruction without lowering the required standard.
+
+## Schedule / Equipment
+
+**Suggested Schedule**
+
+- Ground lesson: approximately 30 minutes
+- Learner discussion / questions: approximately 10 minutes
+
+**Equipment**
+
+- Whiteboard or tablet and stylus
+- Aviation Instructor's Handbook
+- CFI ACS
+- Flight Guide visual aids
+
+## Learner Actions / Instructor Actions
+
+**Learner Actions**
+
+- Participate in discussion and practical examples
+- Explain concepts in their own words
+- Ask questions
+- Review assigned FAA references and videos
+
+**Instructor Actions**
+
+- Present the ground lesson in a logical sequence
+- Relate human-behavior concepts to actual flight training
+- Use questions and scenarios to confirm understanding
+- Correct misconceptions and answer learner questions
+
+## Completion Standards
+
+The learner can explain and apply the major concepts required by CFI ACS Area I, Task A, including:
+
+- Human behavior and the instructor-learner relationship
+- Motivation and human needs
+- Defense mechanisms
+- Learner emotional reactions
+- Teaching adult learners
+- The basic communication process
+- Barriers to effective communication
+- Development of communication skills
+- Appropriate instructor responses to learner behavior that interferes with learning or safety
 
 ## ACS Elements
 
 ### Knowledge
 
 - **FI.I.A.K1 — Elements of human behavior**
-    - Definitions and influences on behavior
-    - Instructor-learner relationship
-    - Motivation
-    - Human needs
-    - Defense mechanisms
+  - **FI.I.A.K1a** — Definitions of human behavior
+  - **FI.I.A.K1b** — Instructor and learner relationship
+  - **FI.I.A.K1c** — Motivation
+  - **FI.I.A.K1d** — Human needs
+  - **FI.I.A.K1e** — Defense mechanisms
 - **FI.I.A.K2 — Learner emotional reactions**
-    - Anxiety and stress
-    - Impatience
-    - Worry or lack of interest
-    - Physical discomfort, illness, fatigue, and dehydration
-    - Apathy caused by inadequate instruction
-- **FI.I.A.K3 — Teaching adult learners**
+  - **FI.I.A.K2a** — Anxiety and stress
+  - **FI.I.A.K2b** — Impatience
+  - **FI.I.A.K2c** — Worry or lack of interest
+  - **FI.I.A.K2d** — Physical discomfort, illness, fatigue, and dehydration
+  - **FI.I.A.K2e** — Apathy due to inadequate instruction
+- **FI.I.A.K3** — Teaching the adult learner
 - **FI.I.A.K4 — Effective communication**
-    - Basic communication process
-    - Barriers to communication
-    - Development of communication skills
+  - **FI.I.A.K4a** — Basic elements of communication
+  - **FI.I.A.K4b** — Barriers to effective communication
+  - **FI.I.A.K4c** — Developing communication skills
 
 ### Risk Management
 
-- **FI.I.A.R1 — Recognizing learner behavior and adapting instruction appropriately**
-- **FI.I.A.R2 — Recognizing and mitigating barriers to effective communication**
+- **FI.I.A.R1** — Recognizing and accommodating human behavior
+- **FI.I.A.R2** — Barriers to communication
 
 ### Skills
 
-- **FI.I.A.S1 — Give practical examples showing how human behavior affects motivation and learning**
-- **FI.I.A.S2 — Explain appropriate instructor responses to serious abnormal emotional behavior and defense mechanisms**
-- **FI.I.A.S3 — Demonstrate effective communication during ground and flight instruction**
+- **FI.I.A.S1** — Give examples of how human behavior affects motivation and learning
+- **FI.I.A.S2 — Describe what the instructor can do to deal with:**
+  - **FI.I.A.S2a** — Serious abnormal emotional behavior
+  - **FI.I.A.S2b** — Defense mechanisms
+- **FI.I.A.S3** — Use effective communication in ground and flight instruction
 
-## Why This Matters
+## Ground Lesson Outline
 
-Flight instruction is not simply the transfer of technical information. The instructor is teaching a person whose motivation, needs, emotions, previous experiences, physical condition, and perception of the instructor all affect the ability to learn.
+1. Human Behavior
+2. Human Needs and Motivation
+   - Maslow's Hierarchy of Needs
+3. Instructor and Learner Relationship
+4. Defense Mechanisms
+5. Learner Emotional Reactions
+   - Anxiety and stress
+   - Impatience
+   - Worry or lack of interest
+   - Physical discomfort, illness, fatigue, and dehydration
+   - Apathy due to inadequate instruction
+   - Normal and abnormal reactions to stress
+6. Instructor Response to Serious Abnormal Behavior
+7. Teaching the Adult Learner
+8. Basic Elements of Communication
+   - Source
+   - Symbols
+   - Receiver
+9. Barriers to Effective Communication
+10. Developing Communication Skills
+    - Listening
+    - Questions
+    - Instructional communication
+    - Monitoring for misunderstanding
+    - Instructional enhancement
+    - Roleplaying
 
-The technical standard does not change from learner to learner, but the method used to help each learner reach that standard may need to change.
+# Prepare
 
-An effective instructor recognizes behavior that affects learning, responds appropriately within the instructor's role, communicates clearly, and knows when learning or safety has deteriorated enough that the lesson should be modified or stopped.
+## Primary References
 
-# Knowledge
+- [FAA-S-ACS-25 — Flight Instructor for Airplane Category Airman Certification Standards](/knowledge/CFI_ASEL_ACS.pdf)
+- [FAA-H-8083-9 — Aviation Instructor's Handbook](/knowledge/Aviation_Instructors_Handbook.pdf)
+  - Chapter 2 — Human Behavior
+  - Chapter 4 — Effective Communication
+- [FAA-H-8083-2 — Risk Management Handbook](/knowledge/Risk_Management_Handbook.pdf)
+- [FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge](/knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf)
 
-## FI.I.A.K1 — Elements of Human Behavior
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf]]
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=34 | end=45]]
+## Video Review — Human Behavior
 
-### Definitions and Influences on Behavior
+### Human Behavior
 
 [[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=05:42 | end=08:39 | title=Todd Shellnut — Human Behavior]]
 
-Human behavior describes the ways people act and react as a result of human nature, individual experience, environment, needs, emotions, and motivation.
+### Motivation
 
-Two learners receiving the same instruction can respond very differently. One may become excited by a challenge while another becomes anxious, impatient, withdrawn, defensive, or discouraged.
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=08:39 | end=09:49 | title=Todd Shellnut — Motivation]]
 
-The instructor should evaluate observable behavior and its effect on learning rather than simply labeling the learner.
+### Human Needs
 
-### Instructor-Learner Relationship
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=09:49 | end=19:31 | title=Todd Shellnut — Human Needs]]
 
-The instructor-learner relationship strongly affects learning.
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=01:43 | end=04:50 | title=FLY8MA — Maslow's Hierarchy of Needs in Flight Training]]
 
-A productive relationship supports:
+### Maintaining Motivation
+
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=19:31 | end=21:41 | title=Todd Shellnut — Maintaining Motivation]]
+
+### Defense Mechanisms
+
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=21:41 | end=35:14 | title=Todd Shellnut — Defense Mechanisms]]
+
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=04:50 | end=09:54 | title=FLY8MA — Student Defense Mechanisms Explained]]
+
+### Emotional Reactions and Stress
+
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=35:14 | end=47:14 | title=Todd Shellnut — Emotional Reactions and Stress]]
+
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=09:54 | end=14:18 | title=FLY8MA — Student Stress Explained]]
+
+## Video Review — Effective Communication
+
+### Communication Process
+
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=47:14 | end=48:18 | title=Todd Shellnut — Communication Process]]
+
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=14:15 | end=15:24 | title=FLY8MA — Communication Process]]
+
+### Barriers to Communication
+
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=48:18 | end=54:09 | title=Todd Shellnut — Barriers to Effective Communication]]
+
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=15:22 | end=19:05 | title=FLY8MA — Barriers to Communication]]
+
+### Developing Communication Skills
+
+[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=54:09 | title=Todd Shellnut — Developing Effective Communication]]
+
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=19:05 | end=22:30 | title=FLY8MA — Development of Communication Skills]]
+
+## Memory Aids
+
+[[mnemonic: DR DR F CPR | Denial · Repression · Displacement · Rationalization · Fantasy · Compensation · Projection · Reaction Formation]]
+
+[[mnemonic: C O I L | Confusion · Overuse of Abstraction · Interference · Lack of Common Experience]]
+
+# Teach
+
+## Human Behavior
+
+Human behavior is the product of many influences that cause people to act and react in characteristic ways. In flight training, behavior is affected by needs, motivation, emotions, previous experience, physical condition, expectations, and the instructor-learner relationship.
+
+Two learners can receive the same instruction and respond very differently. The instructor should evaluate **observable behavior and its effect on learning**, rather than simply labeling the learner.
+
+[[highlight:
+Instructor Principle |
+The required standard remains the same. The method used to help the learner reach that standard may need to change.
+]]
+
+## Human Needs and Motivation
+
+### Motivation
+
+Motivation is the reason a person acts toward a goal and is one of the strongest influences on learning.
+
+Common aviation motivations include:
+
+- Career advancement
+- Personal accomplishment
+- Recreation
+- Transportation
+- Challenge
+- Recognition
+- Independence
+- A lifelong desire to fly
+
+The instructor should determine **why the learner wants to fly** and connect individual lessons to that goal.
+
+Positive motivation generally supports stronger long-term learning. Fear, humiliation, intimidation, and excessive criticism may produce short-term compliance but can interfere with learning, confidence, judgment, and the instructor-learner relationship.
+
+### Maslow's Hierarchy of Needs
+
+Human needs can compete with learning for the learner's attention. The instructional value of Maslow's hierarchy is recognizing that a learner who is hungry, exhausted, frightened, embarrassed, or otherwise distracted by an unmet need may not be fully receptive to instruction.
+
+<figure class="lesson-reference-figure">
+    <img
+        src="/knowledge/Maslows_Hierarchy.png"
+        alt="Maslow's hierarchy of needs"
+        loading="lazy"
+    >
+    <figcaption>Maslow's Hierarchy of Needs</figcaption>
+</figure>
+
+### Physiological
+
+Basic physical needs include hunger, thirst, rest, temperature comfort, and the need to use the restroom. A dehydrated or exhausted learner may be physically present but unable to learn effectively.
+
+### Safety and Security
+
+The learner needs reasonable confidence that the instructional environment is safe. Before a first stall lesson, for example, explain what will occur, expected sensations, the recovery, and the safety parameters before beginning the maneuver.
+
+### Belonging
+
+Learners should feel accepted as legitimate participants in aviation and comfortable asking questions or admitting uncertainty.
+
+### Esteem
+
+Learners need appropriate recognition of legitimate progress. Critique the **performance**, not the learner's worth.
+
+Prefer:
+
+> We lost altitude because the pitch correction was late.
+
+Avoid:
+
+> You're terrible at steep turns.
+
+### Self-Actualization
+
+Many learners ultimately seek the satisfaction of becoming capable and independent aviators. The instructor's long-term goal is to develop the competence and judgment necessary for the learner to operate safely without the instructor.
+
+## Instructor and Learner Relationship
+
+The instructor-learner relationship directly affects learning. A productive relationship is based on:
 
 - Mutual respect
 - Trust
@@ -83,331 +273,134 @@ A productive relationship supports:
 - Professional boundaries
 - Open communication
 - Consistent standards
-- Psychological and physical safety
 
-The instructor should:
+The instructor should learn the learner's goals and background, explain objectives and standards, evaluate performance objectively, encourage questions, and adapt the presentation when needed without lowering standards.
 
-- Learn the learner's goals and background
-- Understand prior aviation experience
-- Establish expectations early
-- Explain lesson objectives
-- Give accurate and organized instruction
-- Evaluate performance objectively
-- Avoid humiliation or ridicule
-- Encourage questions
-- Admit when an answer is not known
-- Follow up with accurate information
-- Adapt the presentation without lowering standards
+The instructor should also recognize that learners bring different personalities, experiences, strengths, and preferences to training. Instruction should be adapted to the individual rather than forcing every learner through exactly the same presentation style.
 
-#### Instructor Application
+## Defense Mechanisms
 
-The instructor should focus on the cause and effect of behavior.
-
-A learner who becomes quiet after a poor landing may be discouraged, embarrassed, overloaded, or simply concentrating. The appropriate instructor response depends on what is actually occurring, so observation and communication are essential.
-
-The **standard remains the same**. The **method used to reach the standard may change**.
-
-### Motivation
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=08:39 | end=09:49 | title=Todd Shellnut — Motivation]]
-
-Motivation is the reason a person acts toward a goal and is one of the strongest influences on learning.
-
-A learner may be motivated by:
-
-- Career advancement
-- Personal accomplishment
-- Recreation
-- Transportation
-- Family tradition
-- Challenge
-- Recognition
-- Independence
-- A lifelong desire to fly
-- The practical usefulness of aviation
-
-#### Positive and Negative Motivation
-
-Positive motivation generally supports stronger long-term learning.
-
-Examples include:
-
-- Recognizing legitimate improvement
-- Connecting training to the learner's goals
-- Showing the practical purpose of a maneuver
-- Providing achievable challenges
-- Recognizing meaningful milestones
-
-Negative motivation may involve:
-
-- Fear
-- Embarrassment
-- Threats
-- Excessive criticism
-- Intimidation
-
-Fear may produce short-term compliance but can interfere with learning, judgment, confidence, and the instructor-learner relationship.
-
-#### Maintaining Motivation
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=19:31 | end=21:41 | title=Todd Shellnut — Maintaining Motivation]]
-
-The instructor should:
-
-1. Determine why the learner wants to fly.
-2. Connect each lesson to that goal.
-3. Establish clear objectives.
-4. Recognize incremental progress.
-5. Present new challenges as proficiency improves.
-6. Explain learning plateaus as a normal part of learning.
-7. Avoid unnecessary repetition after proficiency is achieved.
-8. Keep training relevant to real aviation operations.
-
-#### Instructor Application
-
-A learner becomes bored with ground reference maneuvers because cross-country flying is the larger goal.
-
-Instead of presenting the maneuver as something that must simply be completed for a test, connect wind correction during ground reference maneuvers to traffic patterns, navigation, and cross-country flying.
-
-The immediate task now supports the learner's larger goal.
-
-### Human Needs
-
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=39 | end=39]]
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=09:49 | end=19:31 | title=Todd Shellnut — Human Needs]]
-
-[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=01:43 | end=04:50 | title=FLY8MA — Maslow's Hierarchy of Needs in Flight Training]]
-
-Human needs affect a learner's ability to focus attention on instruction.
-
-Common categories include:
-
-- Physiological needs
-- Safety and security
-- Belonging
-- Esteem
-- Cognitive needs
-- Self-actualization
-
-These needs should not be treated as a rigid ladder that every learner follows identically. The instructional point is that unmet needs can compete with learning for the learner's attention.
-
-#### Physiological Needs
-
-Examples include:
-
-- Hunger
-- Thirst
-- Fatigue
-- Temperature discomfort
-- Illness
-- Need for rest
-
-A learner who is exhausted or dehydrated may be physically present for the lesson but not receptive to learning.
-
-#### Safety and Security
-
-The learner needs reasonable confidence that the instructional environment is safe.
-
-Before introducing stalls, the instructor can:
-
-- Explain what will happen
-- Explain the sensations the learner may experience
-- Explain the recovery
-- Establish altitude and clearing procedures
-- Demonstrate competent aircraft control
-
-The objective is not to remove all discomfort. It is to prevent unnecessary fear from overwhelming the learning process.
-
-#### Belonging
-
-A learner should feel accepted as a legitimate participant in aviation.
-
-The instructor should avoid creating an environment where the learner is afraid to ask questions or admit uncertainty.
-
-#### Esteem
-
-Learners need appropriate recognition of progress and competence.
-
-Critique the **performance**, not the learner's worth.
-
-Prefer:
-
-> We lost altitude because the pitch correction was late.
-
-Instead of:
-
-> You're terrible at steep turns.
-
-#### Self-Actualization
-
-Many learners ultimately seek the satisfaction of becoming capable, independent aviators.
-
-The instructor's long-term role is to help the learner develop the competence and judgment necessary to operate without the instructor.
-
-#### Instructor Application
-
-Before and during instruction, observe whether a basic need is competing with learning. A hungry, exhausted, frightened, embarrassed, or physically uncomfortable learner may require a different instructional response than a learner who simply lacks technical understanding.
-
-### Defense Mechanisms
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=21:41 | end=35:14 | title=Todd Shellnut — Defense Mechanisms]]
-
-[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=04:50 | end=09:54 | title=FLY8MA — Student Defense Mechanisms Explained]]
+Defense mechanisms are often unconscious responses used to protect self-image or reduce anxiety. They matter to an instructor because they can distort a learner's perception of performance and interfere with correction.
 
 [[mnemonic: DR DR F CPR | Denial · Repression · Displacement · Rationalization · Fantasy · Compensation · Projection · Reaction Formation]]
 
-Defense mechanisms are often unconscious responses used to protect a person's self-image or reduce anxiety.
+<figure class="lesson-reference-figure">
+    <img
+        src="/knowledge/Defense_Mechanisms.png"
+        alt="FAA defense mechanisms reference"
+        loading="lazy"
+    >
+    <figcaption>Defense Mechanisms</figcaption>
+</figure>
 
-The instructor should recognize them because they can distort a learner's perception of performance and interfere with correction.
+### Denial
 
-#### **D** — Denial
+Refusing to accept an unpleasant reality.
 
-The learner refuses to accept an unpleasant reality.
+**Example:** After repeatedly failing to maintain directional control on landing, the learner insists there is no problem.
 
-**Aviation example:** After repeatedly failing to maintain directional control on landing, the learner insists there is no problem.
+### Repression
 
-#### **R** — Repression
+Pushing an uncomfortable thought, memory, or fear from conscious awareness.
 
-An uncomfortable thought, memory, or fear is pushed from conscious awareness.
+**Example:** A learner has unexplained difficulty during stall training and may be suppressing a significant fear associated with loss of control.
 
-**Aviation example:** A learner has unexplained difficulty during stall training and may be suppressing a significant fear associated with loss of control.
+### Displacement
 
-#### **D** — Displacement
+Redirecting an emotion from its actual source toward another person or object.
 
-Emotion is redirected from its actual source toward a safer target.
+**Example:** A learner frustrated by poor flight performance becomes angry with line personnel or family members.
 
-**Aviation example:** A learner frustrated by poor performance becomes angry with line personnel or another learner.
+### Rationalization
 
-#### **R** — Rationalization
+Creating an apparently reasonable explanation for poor performance rather than accepting the actual cause.
 
-The learner creates an apparently reasonable explanation for poor performance rather than accepting the actual cause.
+**Example:** The learner says an altitude deviation occurred only because the airplane was difficult to trim rather than recognizing late corrections.
 
-**Aviation example:** The learner attributes an altitude deviation to poor aircraft trim rather than late corrections.
+### Fantasy
 
-#### **F** — Fantasy
+Escaping into imagined success rather than dealing with the work required to achieve it.
 
-The learner focuses on an imagined successful outcome instead of doing the work required to achieve it.
+**Example:** A learner frequently discusses an airline career but consistently arrives unprepared for lessons.
 
-**Aviation example:** The learner frequently discusses an airline career but consistently arrives unprepared for lessons.
+### Compensation
 
-#### **C** — Compensation
+Emphasizing strength in one area to offset a perceived weakness in another.
 
-The learner emphasizes strength in one area to offset a perceived weakness in another.
+**Example:** A learner struggling with aircraft control repeatedly emphasizes excellent written-test performance.
 
-**Aviation example:** A learner struggling with aircraft control repeatedly emphasizes excellent written-test performance.
+### Projection
 
-#### **P** — Projection
+Attributing personal shortcomings, mistakes, or unacceptable feelings to someone or something else.
 
-The learner attributes personal shortcomings or mistakes to someone or something else.
+**Example:** A learner blames every poor landing on the airplane or instructor.
 
-**Aviation example:** The learner attributes a poor landing entirely to ATC pressure or the airplane.
+### Reaction Formation
 
-#### **R** — Reaction Formation
+Expressing an attitude opposite to an uncomfortable underlying feeling.
 
-The learner outwardly adopts an attitude opposite to an uncomfortable underlying feeling.
+**Example:** A learner who is frightened by stalls acts excessively unconcerned or jokes about the maneuver.
 
-**Aviation example:** A learner who is frightened by stalls acts excessively unconcerned or jokes about the maneuver.
+### Instructor Response to Defense Mechanisms
 
-#### Instructor Response
-
-Do not attack the defense mechanism directly.
-
-Instead:
+Do not attack the learner or argue about the psychological label. Instead:
 
 1. Remain professional.
 2. Focus on observable behavior and performance.
 3. Use objective standards.
 4. Encourage accurate self-assessment.
 5. Reinforce legitimate progress.
-6. Restore confidence without giving false praise.
-7. Address the actual instructional problem.
-8. Recognize when the issue exceeds the instructor's role or competence.
+6. Address the underlying instructional problem.
+7. Withhold an endorsement when the required standard has not been demonstrated.
 
-## FI.I.A.K2 — Learner Emotional Reactions
+[[highlight:
+Instructor Emphasis |
+Address the performance problem, not the learner's ego defense. Objective standards and guided self-assessment are usually more productive than confrontation.
+]]
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=45 | end=49]]
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=35:14 | end=39:38 | title=Todd Shellnut — Emotional Reactions to Training]]
-
-[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=09:54 | end=14:18 | title=FLY8MA — Student Stress Explained]]
+## Learner Emotional Reactions
 
 ### Anxiety and Stress
 
-Some anxiety is normal, especially during unfamiliar flight operations.
+Some anxiety is normal, especially during unfamiliar flight operations. Moderate stress may increase alertness, but excessive stress can reduce the ability to process information and perform safely.
 
-Excessive anxiety may result in:
+Possible signs of excessive anxiety or stress include:
 
 - Freezing
 - Rushing
-- Irrational actions
 - Fixation
 - Reduced communication
 - Poor judgment
+- Irrational actions
 - Inability to process instruction
 
-The instructor can respond by:
+The instructor can reduce unnecessary workload, explain what to expect, break tasks into manageable steps, demonstrate when appropriate, and increase difficulty progressively.
 
-- Acknowledging the concern
-- Explaining what to expect
-- Breaking the task into manageable steps
-- Demonstrating first when appropriate
-- Increasing difficulty progressively
-- Avoiding unnecessary surprise
-- Maintaining a calm instructional environment
-- Stopping or modifying the activity when learning or safety deteriorates
+### Feeling of Unfair Treatment
 
-#### Example — Stall Training
+A learner who believes the instructor is unfair or applying inconsistent standards may become defensive, distrustful, or unreceptive to critique.
 
-Before the first stall:
-
-1. Explain the aerodynamics.
-2. Explain expected sight, sound, and control sensations.
-3. Review the recovery.
-4. Establish safety parameters.
-5. Demonstrate the maneuver.
-6. Allow progressive learner participation.
-7. Debrief afterward.
-
-If the learner becomes rigid and stops responding during the approach to a stall, recover the aircraft, reduce workload, discuss the concern, review the maneuver, and reintroduce it progressively rather than simply repeating the same maneuver at the same intensity.
+The instructor should use clear objectives, consistent standards, objective assessment, and specific explanations of deficiencies. Fair treatment does not mean lowering standards.
 
 ### Impatience
 
-An impatient learner may focus on the final goal instead of the required building blocks.
+An impatient learner may focus on a milestone rather than the proficiency required to reach it.
 
-Examples include a learner who:
+Examples include wanting to:
 
-- Wants to solo immediately
-- Wants cross-country authorization before fundamentals are solid
-- Wants to skip ground instruction
-- Rushes checklists
-- Pushes for endorsements before proficiency
+- Solo before proficiency is demonstrated
+- Begin cross-country training before fundamentals are solid
+- Skip ground instruction
+- Rush checklists
+- Receive endorsements before meeting the standard
 
-The instructor should define the training sequence, explain why prerequisites exist, establish measurable intermediate objectives, progress promptly when standards are met, and avoid unnecessary repetition.
-
-The instructor should neither hold back a capable learner nor advance an unprepared learner.
+The instructor should explain the training sequence, define measurable intermediate objectives, and progress the learner promptly when standards are met.
 
 ### Worry or Lack of Interest
 
-External problems can affect training even when they have nothing to do with aviation.
+Work, family, financial concerns, frustration with training, or lack of interest in a particular task can reduce learning effectiveness.
 
-Examples include:
-
-- Work problems
-- Family problems
-- Financial stress
-- Academic concerns
-- Frustration with training progress
-
-The instructor may not be able to solve those problems, but should recognize when they interfere with learning.
-
-Appropriate actions include:
-
-- Asking appropriate questions
-- Determining whether meaningful learning can occur
-- Adjusting the lesson when appropriate
-- Clearly communicating progress and deficiencies
-- Avoiding additional uncertainty about training status
+The instructor may not be able to solve the underlying issue but should recognize when meaningful learning is no longer occurring and modify the lesson when appropriate.
 
 ### Physical Discomfort, Illness, Fatigue, and Dehydration
 
@@ -420,243 +413,126 @@ Watch for:
 - Slowed responses
 - Loss of accuracy
 - Poor timing
-- Neglect of secondary tasks
-- Reduced situational awareness
 - Repeated errors
+- Reduced situational awareness
 - Nausea or airsickness
 
-Training should continue only while the learner remains sufficiently alert, receptive, and capable of safe performance.
+Possible responses include taking a break, shortening the lesson, increasing ventilation, providing water, returning to the airport, or rescheduling.
 
-Possible actions include:
-
-- Take a break
-- Shorten the lesson
-- Increase ventilation
-- Provide water
-- Return to the airport
-- Reschedule the lesson
-
-Do not interpret every performance problem as a lack of skill. The cause may be physiological.
-
-### Apathy Caused by Inadequate Instruction
+### Apathy Due to Inadequate Instruction
 
 Sometimes the learner's lack of interest is caused by the instructor.
 
-Causes may include:
+Possible causes include:
 
 - Poor preparation
 - Unclear objectives
-- Disorganized lessons
+- Disorganized instruction
 - Excessive repetition
 - Material inappropriate for the learner's level
 - Contradictory explanations
-- Instructor irritation
-- Talking down to the learner
 - Failure to explain relevance
+- Instructor irritation or condescension
 
-#### Instructor Self-Check
+A good instructor evaluates both **the learner and the instruction**.
 
-When a learner appears unmotivated, evaluate:
+## Normal and Abnormal Reactions to Stress
 
-- Whether the objective was clear
-- Whether the instructor was prepared
-- Whether the material was appropriate for the learner
-- Whether the lesson was connected to an operational purpose
-- Whether feedback was meaningful
-- Whether material was being repeated unnecessarily
-- Whether instructor behavior contributed to the problem
+Normal stress reactions can include increased alertness, focused attention, and temporary frustration. With training and experience, these reactions can help a pilot respond to a demanding situation.
 
-A good instructor evaluates both the learner **and the instruction**.
-
-### Normal and Abnormal Reactions to Stress
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=39:38 | end=47:14 | title=Todd Shellnut — Normal and Abnormal Reactions to Stress]]
-
-Stress can produce normal reactions such as increased alertness, faster responses, and focused attention.
-
-When training and experience are adequate, these responses may help the pilot deal with a demanding situation.
-
-#### Potentially Abnormal Reactions
-
-Warning signs may include:
+More concerning behavior can include:
 
 - Severe or unexplained anger
 - Extreme emotional changes
 - Illogical behavior under stress
 - Inappropriate laughter or emotional response
+- Extreme over-cooperation
 - Major changes in personality or motivation
 - Severe withdrawal
+- Morbid comments
 - Inability to function appropriately under pressure
 
-A single observation is not necessarily proof of a psychological disorder.
+A single observation does not establish a psychological disorder. The flight instructor should **not attempt to diagnose the learner**.
 
-The instructor should avoid attempting to diagnose the learner.
+### Instructor Response to Serious Abnormal Behavior
 
-#### Serious Abnormal Behavior
+When behavior creates a legitimate concern about training or safety:
 
-When an instructor has a legitimate concern about serious abnormal emotional behavior:
-
-- Do not simply ignore the behavior
+- Focus on observable behavior rather than diagnosis
 - Do not attempt amateur psychological treatment
-- Consider obtaining an independent evaluation by another qualified instructor
-- Withhold endorsements when competence and safety cannot be established
-- Refer serious psychological concerns to an appropriate professional
+- Stop or modify training when safety or meaningful learning is compromised
+- Consider a second instructor's independent evaluation when appropriate
+- Withhold endorsements when competence, judgment, or safety cannot be established
+- Refer serious concerns to an appropriate professional or authority when warranted
 
-Safety and responsible certification take priority over completing the training schedule.
+Safety and responsible certification take priority over completing a training schedule.
 
-#### Instructor Application
+## Teaching the Adult Learner
 
-The instructor's responsibility is to recognize behavior that affects training and safety, respond within the instructor's role, and avoid certifying performance that does not meet the required standard.
+Most aviation learners are adults. Adult learners commonly:
 
-#### Study Check
-
-How should an instructor respond when anxiety begins to interfere with training?
-
-[[answer:
-Reduce unnecessary workload, explain what to expect, break the task into manageable steps, demonstrate when appropriate, increase difficulty progressively, maintain a calm environment, and modify or stop the activity when learning or safety deteriorates.
-]]
-
-## FI.I.A.K3 — Teaching Adult Learners
-
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=49 | end=51]]
-
-### Teaching the Adult Learner
-
-Most aviation learners are adults.
-
-Adult learners generally:
-
-- Want to know why something matters
+- Want to know why the material matters
 - Bring previous experience into training
 - Prefer practical application
 - Are goal oriented
-- Value independence
-- Prefer involvement in the learning process
+- Value independence and self-direction
 - Want new knowledge to solve real problems
+- Prefer increasing responsibility
 - Expect respect
 
-#### Instructor Techniques
+The instructor should connect new knowledge to the learner's goals and prior experience while verifying that previous experience transfers correctly to aviation.
 
-The instructor should:
+**Example:** An experienced engineer may understand technical concepts quickly, but engineering experience does not automatically equal aviation systems knowledge. Use the experience as a bridge, then verify aviation understanding and application.
 
-- Explain the purpose of training
-- Connect new information to prior experience
-- Use realistic aviation scenarios
-- Encourage learner participation
-- Allow increasing responsibility
-- Encourage self-assessment
-- Respect the learner's experience without assuming it transfers perfectly to aviation
-- Avoid spoon-feeding
-- Establish clear objectives and standards
+## Basic Elements of Communication
 
-#### Instructor Application
+Effective communication requires more than transmitting information.
 
-An experienced engineer may understand technical concepts quickly, but engineering experience does not automatically equal aviation systems knowledge.
+**Source → Symbols → Receiver**
 
-Use relevant prior experience as a bridge to new learning, then verify actual aviation understanding and application.
+### Source
 
-#### Study Check
+The source initiates the communication. The instructor should understand the subject, organize the message, use terminology appropriate to the learner, and observe the learner's response.
 
-How should an instructor use an adult learner's previous experience?
+### Symbols
 
-[[answer:
-Use relevant prior experience as a bridge to new learning, connect new material to practical goals, involve the learner in the learning process, and verify that the previous experience actually transfers correctly to aviation. Prior experience should be respected but not assumed to equal aviation proficiency.
+Symbols include words, numbers, diagrams, gestures, demonstrations, tone of voice, visual references, and aircraft control inputs. A symbol has value only when the source and receiver attach substantially the same meaning to it.
+
+### Receiver
+
+The receiver interprets the message. Communication has not succeeded merely because the instructor spoke.
+
+[[highlight:
+Key Point |
+Transmission is not the same as understanding. Communication is successful only when the receiver interprets the message substantially as intended.
 ]]
 
-## FI.I.A.K4 — Effective Communication
+## Barriers to Effective Communication
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=94 | end=103]]
+[[mnemonic: C O I L | Confusion · Overuse of Abstraction · Interference · Lack of Common Experience]]
 
-### Basic Communication Process
+<figure class="lesson-reference-figure">
+    <img
+        src="/knowledge/Communication_Barriers.png"
+        alt="FAA barriers to effective communication reference"
+        loading="lazy"
+    >
+    <figcaption>Barriers to Effective Communication</figcaption>
+</figure>
 
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=47:14 | end=48:18 | title=Todd Shellnut — Communication Process]]
+### Confusion Between the Symbol and the Symbolized Object
 
-[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=14:15 | end=15:24 | title=FLY8MA — Communication Process]]
+Knowing a term does not necessarily mean the learner understands the concept it represents.
 
-Effective instruction requires more than speaking clearly.
+**Example:** A learner may be able to define *angle of attack* but still fail to recognize increasing angle of attack during an actual maneuver.
 
-Communication involves:
+### Overuse of Abstractions
 
-**Source → Symbols / Message → Receiver**
+Technical or vague language can become so abstract that it loses practical meaning.
 
-#### Source
+Instead of only saying "maintain coordinated flight," connect the concept to ball position, rudder pressure, adverse yaw, outside visual cues, and aircraft feel.
 
-The source is the person initiating the communication.
-
-For the instructor to communicate effectively, the instructor should:
-
-- Understand the subject
-- Organize the message
-- Select appropriate terminology
-- Adjust to the learner
-- Observe the learner's response
-
-#### Symbols / Message
-
-Communication can use:
-
-- Words
-- Numbers
-- Diagrams
-- Gestures
-- Demonstrations
-- Tone of voice
-- Visual references
-- Aircraft control inputs
-
-A symbol has meaning only when the sender and receiver understand it similarly.
-
-#### Receiver
-
-Communication has not succeeded merely because the instructor transmitted information.
-
-The learner must interpret the message substantially as intended.
-
-**Transmission is not the same as understanding.**
-
-#### Instructor Application
-
-Do not rely only on agreement or silence. Require the learner to explain, demonstrate, apply, teach back, or predict when appropriate.
-
-A successful instructional exchange includes evidence that the learner received and interpreted the message correctly.
-
-#### Study Check
-
-What are the basic elements of the communication process?
-
-[[answer:
-The basic elements are the **source, symbols or message, and receiver**. Effective instructional communication also requires evidence that the receiver interpreted the message substantially as intended.
-]]
-
-### Barriers to Effective Communication
-
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=48:18 | end=54:09 | title=Todd Shellnut — Barriers to Effective Communication]]
-
-[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=15:22 | end=19:05 | title=FLY8MA — Barriers to Communication]]
-
-[[mnemonic: C O I L | Confusion · Overuse of Abstraction · Interference · Lacking Common Experience]]
-
-#### Confusion Between a Symbol and What It Represents
-
-Knowing terminology does not necessarily demonstrate understanding.
-
-A learner who can define angle of attack may still fail to recognize increasing angle of attack during an actual maneuver.
-
-Instruction should connect terminology to real aircraft behavior.
-
-#### Overuse of Abstraction
-
-Technical language can become so abstract that it loses practical meaning.
-
-Instead of teaching only the phrase "maintain coordinated flight," connect the concept to:
-
-- Ball position
-- Rudder pressure
-- Adverse yaw
-- Outside visual cues
-- Aircraft feel
-
-#### Interference
+### Interference
 
 Communication may be disrupted by:
 
@@ -670,342 +546,102 @@ Communication may be disrupted by:
 - Poor intercom quality
 - Competing cockpit tasks
 
-Timing matters. A technically correct explanation delivered during a high-workload portion of flight may still be ineffective instruction.
+A technically correct explanation delivered during a high-workload phase of flight may still be ineffective instruction.
 
-#### Lack of Common Experience
+### Lack of Common Experience
 
-Words may mean different things to people with different backgrounds.
+Words and analogies may mean different things to people with different backgrounds.
 
-For a new learner, an instruction such as "add a little back pressure" may be too vague. Demonstration and an observable aircraft response may be necessary.
+For a new learner, "add a little back pressure" may be too vague. Demonstration and an observable aircraft response may be necessary.
 
-### Development of Communication Skills
+## Developing Communication Skills
 
-[[youtube: https://www.youtube.com/watch?v=L2MIniFJG5s | start=54:09 | title=Todd Shellnut — Developing Effective Communication]]
+Communication skills require deliberate development. The instructor should listen, ask effective questions, communicate clearly, monitor for misunderstanding, continue professional development, and use appropriate instructional techniques.
 
-[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=19:05 | end=22:30 | title=FLY8MA — Development of Communication Skills]]
+### Better Listening
 
-#### Use Clear Language
+<figure class="lesson-reference-figure">
+    <img
+        src="/knowledge/Better_Listening.png"
+        alt="FAA better listening reference"
+        loading="lazy"
+    >
+    <figcaption>Better Listening</figcaption>
+</figure>
 
-Use terminology appropriate to the learner's level.
+Effective listening includes:
 
-Introduce correct aviation terminology, but explain unfamiliar terms before relying on them.
+- Listening for meaning rather than simply hearing words
+- Observing reactions and nonverbal cues
+- Avoiding unnecessary interruption
+- Thinking before responding
+- Looking for underlying concerns or uncertainty
 
-#### Be Specific
-
-Avoid vague critique.
-
-Instead of:
-
-> That landing wasn't very good.
-
-Use a specific observation:
-
-> We began the flare high, which allowed the airspeed to decay before touchdown.
-
-Specific feedback tells the learner what happened and what needs correction.
-
-#### Listen
-
-Communication is two-way.
-
-Listen for:
-
-- What the learner understands
-- What the learner misunderstands
-- Uncertainty
-- Anxiety
-- Questions hidden behind statements
-
-#### Ask Effective Questions
+### Asking Effective Questions
 
 Good questions reveal understanding and encourage application.
 
-Questions that require explanation, prediction, comparison, or application are usually more useful than questions that only test memorized definitions.
+Prefer questions that require the learner to:
 
-#### Observe Nonverbal Communication
+- Explain
+- Compare
+- Predict
+- Apply
+- Demonstrate
+- Teach back
 
-The learner may communicate through:
+These are usually more useful than questions that only test memorized definitions.
 
-- Facial expression
-- Body tension
-- Silence
-- Control inputs
-- Hesitation
-- Fixation
-- Tone of voice
+### Instructional Communication
 
-A learner who verbally reports being comfortable while gripping the controls tightly during stall training may be communicating something different nonverbally.
+Instructors communicate best when they:
 
-#### Confirm Understanding
+- Know the subject well
+- Organize the presentation logically
+- Use appropriate terminology
+- Connect concepts to past experience when useful
+- Explain both **how** and **why**
+- Keep in-flight corrections concise and specific
+- Provide fuller explanation when workload is lower
 
-Do not rely solely on agreement.
+### Monitor for Misunderstanding
+
+<figure class="lesson-reference-figure">
+    <img
+        src="/knowledge/Communication_Monitor_For_Misunderstandings.png"
+        alt="FAA guidance for monitoring communication for misunderstandings"
+        loading="lazy"
+    >
+    <figcaption>Monitor for Misunderstandings</figcaption>
+</figure>
+
+Do not rely on agreement or silence as proof of understanding.
 
 Ask the learner to:
 
-- Explain it back
+- Explain the concept back
 - Demonstrate it
 - Apply it to a scenario
 - Teach it back
 - Predict what will happen next
 
-#### Instructor Application
+Observable application is stronger evidence of understanding than a simple "yes."
 
-During flight instruction:
+### Instructional Enhancement
 
-1. Brief the maneuver before workload increases.
-2. Explain the objective and important cues.
-3. Demonstrate when appropriate.
-4. Allow learner performance.
-5. Keep in-flight corrections concise and specific.
-6. Debrief afterward.
-7. Confirm that the learner understands both the result and the correction.
+A good instructor continues learning. Professional development, current technical knowledge, better teaching methods, and reflection on past instruction all improve communication effectiveness.
 
-#### Study Check
+### Roleplaying
 
-How can an instructor verify that communication actually occurred?
-
-[[answer:
-Require the learner to do more than simply agree. The learner can explain the concept back, demonstrate it, apply it to a scenario, teach it back, or predict what will happen next. Observable application is stronger evidence of understanding than silence or a simple yes.
-]]
-
-# Risk Management
-
-## FI.I.A.R1 — Recognizing Learner Behavior and Adapting Instruction Appropriately
-
-The instructor should recognize observable learner behavior, determine how it is affecting learning or safety, and adapt the instructional method without lowering the required standard.
-
-### Conditions That May Require Adaptation
+Roleplaying can make an abstract communication task realistic before workload increases.
 
 Examples include:
 
-- Anxiety or excessive stress
-- Impatience
-- Worry or lack of interest
-- Fatigue
-- Illness
-- Dehydration
-- Physical discomfort
-- Frustration
-- Apathy
-- Fixation on a training milestone
-- Defensive behavior
-- Loss of receptiveness to instruction
-
-The instructor should avoid assuming that every performance problem is simply a lack of ability.
-
-### Instructor Response
-
-When learner behavior begins to interfere with training:
-
-1. Observe the behavior and its effect on performance.
-2. Communicate calmly and objectively.
-3. Determine whether the learner is still receptive to meaningful instruction.
-4. Reduce workload when appropriate.
-5. Change the method, pace, or sequence of instruction when useful.
-6. Use measurable standards and specific feedback.
-7. Take a break, modify the lesson, or return to the airport when appropriate.
-8. Withhold an endorsement when the required performance, judgment, or risk management has not been demonstrated.
-
-The **standard does not change**. The instructional method may change.
-
-### Scenario — Solo Pressure
-
-A private pilot learner is preparing for the first solo.
-
-The learner has progressed quickly and believes solo should occur today. During the lesson, the learner repeatedly lands flat and fails to maintain centerline. When the deficiency is discussed, the learner attributes the performance to the wind and insists that solo readiness has already been demonstrated.
-
-After several more patterns, the learner becomes visibly irritated and begins rushing the before-landing checklist.
-
-#### Study Check 1
-
-What human behavior is affecting the learner?
-
-[[answer:
-The most obvious behaviors are **impatience, frustration, and increasing fixation on the solo milestone**. The learner's desire to achieve the goal is beginning to interfere with objective self-assessment and normal checklist discipline.
-]]
-
-#### Study Check 2
-
-How is motivation helping and hurting the learner?
-
-[[answer:
-The desire to solo provides strong motivation to train and improve, which is useful. It becomes counterproductive when the milestone becomes more important than the proficiency required to reach it safely. The instructor should preserve the goal while reconnecting it to objective performance standards.
-]]
-
-#### Study Check 3
-
-What should the instructor do?
-
-[[answer:
-The instructor should maintain the required standard, avoid arguing or embarrassing the learner, identify the specific deficiencies, explain their connection to solo safety, and establish clear performance goals. If frustration continues to degrade learning or safety, the lesson should be modified or stopped.
-]]
-
-#### Study Check 4
-
-Should the learner receive a solo endorsement today?
-
-[[answer:
-No. The learner is demonstrating deficiencies in landing performance, directional control, checklist discipline, and judgment. The endorsement should be withheld until the learner consistently demonstrates the required proficiency and safe decision-making.
-]]
-
-## FI.I.A.R2 — Recognizing and Mitigating Barriers to Effective Communication
-
-A communication barrier becomes a risk when the instructor and learner do not share the same understanding of a message, instruction, correction, or transfer of responsibility.
-
-### Common Barriers
-
-- Lack of common experience
-- Confusion between a symbol and what it represents
-- Excessive abstraction
-- Engine or environmental noise
-- Radio traffic
-- Turbulence
-- Workload
-- Fatigue
-- Anxiety
-- Distraction
-- Poor intercom quality
-- Poor timing of instruction
-- Learner reluctance to admit confusion
-- Instructor assumption that silence means understanding
-
-### Mitigation
-
-The instructor should:
-
-- Use terminology appropriate to the learner
-- Explain unfamiliar aviation terms
-- Use diagrams, demonstrations, and aircraft cues when words are insufficient
-- Brief complex tasks before workload increases
-- Keep critical in-flight communication concise
-- Require positive exchange of flight controls
-- Encourage questions
-- Observe verbal and nonverbal responses
-- Confirm understanding through explanation, demonstration, or application
-- Stop or simplify the activity when communication breaks down
-
-### Aviation Example
-
-During a high-workload traffic-pattern segment, the instructor gives a long technical explanation while the learner is simultaneously managing aircraft control, radio calls, configuration, and traffic.
-
-The information may be correct, but the timing makes the communication ineffective.
-
-The instructor should reduce the in-flight message to the immediate correction, then provide the full explanation during the debrief.
-
-#### Study Check
-
-What communication risks are developing when a frustrated learner becomes less receptive to critique and begins rushing a checklist?
-
-[[answer:
-Frustration can reduce listening, accurate self-assessment, and the learner's willingness to process corrective information. Rushed checklist use also indicates narrowing attention. The instructor should keep communication calm, specific, objective, and tied to observable performance, and should reduce or stop the activity if communication or safety deteriorates.
-]]
-
-# Skills
-
-## FI.I.A.S1 — Give Practical Examples Showing How Human Behavior Affects Motivation and Learning
-
-The instructor applicant should be able to connect human-behavior concepts to realistic aviation instruction rather than only defining the terms.
-
-### Example — Motivation
-
-A learner becomes bored with ground reference maneuvers because cross-country flying is the larger goal.
-
-The instructor connects wind correction during the maneuver to traffic patterns, navigation, and cross-country flying.
-
-**Effect on learning:** The immediate task becomes relevant to the learner's larger goal, which can improve motivation and engagement.
-
-### Example — Human Needs
-
-A learner arrives for a summer flight dehydrated, fatigued, and irritable.
-
-**Effect on learning:** Physical needs compete for attention, reduce receptiveness to instruction, and may degrade judgment and aircraft control.
-
-**Instructor response:** Address the physical condition before assuming the learner lacks ability. Shorten, modify, or reschedule the lesson when appropriate.
-
-### Example — Defense Mechanism
-
-A learner repeatedly blames the airplane for poor landings rather than evaluating personal control inputs.
-
-**Effect on learning:** Projection or rationalization can prevent accurate self-assessment and interfere with correction.
-
-**Instructor response:** Use objective observations, measurable standards, and guided self-assessment rather than attacking the learner personally.
-
-### Example — Anxiety
-
-A learner becomes rigid and stops responding during the approach to a stall.
-
-**Effect on learning:** Excessive anxiety has overwhelmed the learner's ability to process instruction.
-
-**Instructor response:** Recover the aircraft, reduce workload, discuss the concern, review what to expect, and reintroduce the maneuver progressively.
-
-#### Study Check
-
-How can an instructor maintain learner motivation without lowering standards?
-
-[[answer:
-Connect training to the learner's goals, establish clear objectives, recognize legitimate progress, provide achievable challenges, explain the operational relevance of training, and advance the learner promptly when the standard is met. Motivation changes the path to the standard, not the standard itself.
-]]
-
-## FI.I.A.S2 — Explain Appropriate Instructor Responses to Serious Abnormal Emotional Behavior and Defense Mechanisms
-
-The instructor applicant should be able to recognize behavior that affects training and explain an appropriate response while remaining within the instructor's role.
-
-### Defense Mechanisms
-
-When a defense mechanism interferes with learning:
-
-- Do not attack the learner personally
-- Do not argue about the psychological label
-- Focus on observable behavior and performance
-- Use objective standards
-- Encourage accurate self-assessment
-- Reinforce legitimate progress
-- Address the actual instructional problem
-- Withhold an endorsement when the demonstrated standard is not met
-
-#### Study Check
-
-A learner repeatedly blames the airplane for poor landings. What defense mechanisms may be involved, and how should the instructor respond?
-
-[[answer:
-**Projection or rationalization** may be involved. The instructor should avoid attacking the learner personally and instead use objective observations, measurable standards, and guided self-assessment to identify the actual cause of the performance problem.
-]]
-
-### Serious Abnormal Emotional Behavior
-
-Potential warning signs may include:
-
-- Severe or unexplained anger
-- Extreme emotional changes
-- Illogical behavior under stress
-- Inappropriate emotional responses
-- Major changes in personality or motivation
-- Severe withdrawal
-- Inability to function appropriately under pressure
-
-A single observation does not necessarily establish a psychological disorder.
-
-The instructor should **not attempt to diagnose the learner**.
-
-When there is a legitimate safety concern:
-
-- Recognize and document observable behavior
-- Do not attempt amateur psychological treatment
-- Consider an independent evaluation by another qualified instructor
-- Withhold endorsements when competence and safety cannot be established
-- Refer serious psychological concerns to an appropriate professional
-
-#### Study Check
-
-What is the instructor's role when serious abnormal emotional behavior is suspected?
-
-[[answer:
-The instructor should recognize and document observable behavior, avoid attempting to diagnose or provide amateur psychological treatment, seek appropriate additional evaluation when necessary, withhold endorsements when competence and safety cannot be established, and refer serious concerns to an appropriate professional.
-]]
-
-## FI.I.A.S3 — Demonstrate Effective Communication During Ground and Flight Instruction
-
-The instructor applicant should be able to demonstrate communication techniques appropriate to both low-workload ground instruction and higher-workload flight instruction.
+- Instructor acts as ATC while the learner practices radio calls
+- Learner practices a passenger briefing
+- Instructor presents a scenario requiring the learner to explain a risk-management decision
+
+## Effective Communication in Ground and Flight Instruction
 
 ### Ground Instruction
 
@@ -1036,7 +672,7 @@ The instructor should:
 9. Debrief after workload decreases.
 10. Confirm that the learner understands both the result and the correction.
 
-### Example — Vague Versus Specific Feedback
+### Vague Versus Specific Feedback
 
 Avoid:
 
@@ -1048,32 +684,78 @@ Prefer:
 
 Specific communication identifies the observable problem and gives the learner something that can be corrected.
 
-### Example — Confirming Understanding
+# Review
 
-Do not rely on:
+## Oral Review
 
-> Do you understand?
-
-Instead ask the learner to:
-
-- Explain the concept back
-- Demonstrate it
-- Apply it to a scenario
-- Teach it back
-- Predict what will happen next
-
-#### Study Check 1
-
-What barriers commonly interfere with communication during flight instruction?
+### 1. Why is motivation important to learning?
 
 [[answer:
-Common barriers include lack of common experience, confusion between terminology and the concept it represents, excessive abstraction, noise, workload, fatigue, anxiety, distraction, radio traffic, turbulence, poor intercom quality, and poor timing of instruction.
+Motivation gives the learner a reason to act toward a goal and strongly influences attention, effort, persistence, and willingness to learn. The instructor should connect training to the learner's goals while maintaining objective standards.
 ]]
 
-#### Study Check 2
-
-How can an instructor verify that communication actually occurred?
+### 2. How should Maslow's hierarchy be applied to flight instruction?
 
 [[answer:
-Require the learner to do more than simply agree. The learner can explain the concept back, demonstrate it, apply it to a scenario, teach it back, or predict what will happen next. Observable application is stronger evidence of understanding than silence or a simple yes.
+Use it as a reminder that unmet human needs can compete with learning for attention. Hunger, fatigue, fear, discomfort, lack of belonging, or threats to self-esteem can reduce receptiveness to instruction. The instructor should recognize and address relevant needs when practical rather than assuming every performance problem is a lack of skill.
+]]
+
+### 3. Name the eight defense mechanisms.
+
+[[answer:
+Denial, Repression, Displacement, Rationalization, Fantasy, Compensation, Projection, and Reaction Formation. A useful memory aid is **DR DR F CPR**.
+]]
+
+### 4. What is the difference between displacement, rationalization, and projection?
+
+[[answer:
+**Displacement** redirects an emotion toward a different target. **Rationalization** creates an apparently reasonable excuse for a shortcoming or poor result. **Projection** attributes one's own shortcomings, mistakes, or unacceptable feelings to someone or something else.
+]]
+
+### 5. How should an instructor respond to a learner using a defense mechanism?
+
+[[answer:
+Do not attack the learner or argue about the psychological label. Focus on observable behavior and performance, use objective standards, encourage accurate self-assessment, reinforce legitimate progress, and address the actual instructional problem.
+]]
+
+### 6. What should an instructor do when serious abnormal emotional behavior is suspected?
+
+[[answer:
+Recognize and document observable behavior, avoid diagnosing or attempting amateur psychological treatment, stop or modify training when safety or meaningful learning is compromised, obtain another qualified evaluation when appropriate, withhold endorsements when competence or safety cannot be established, and refer serious concerns appropriately when warranted.
+]]
+
+### 7. What characteristics are common to adult learners?
+
+[[answer:
+Adult learners commonly want practical and relevant instruction, bring previous experience into training, are goal oriented, value independence and self-direction, want to apply knowledge to real problems, and expect respect.
+]]
+
+### 8. What are the basic elements of communication?
+
+[[answer:
+**Source, Symbols, and Receiver.** Communication is successful only when the receiver interprets the message substantially as intended.
+]]
+
+### 9. What are the four major barriers to effective communication?
+
+[[answer:
+Confusion between a symbol and what it represents, overuse of abstractions, interference, and lack of common experience. The memory aid is **COIL**.
+]]
+
+### 10. How can an instructor verify that communication actually occurred?
+
+[[answer:
+Do more than ask whether the learner understands. Have the learner explain the concept back, demonstrate it, apply it to a scenario, teach it back, or predict what will happen next.
+]]
+
+### 11. Give an example of human behavior affecting motivation and learning.
+
+[[answer:
+A learner becomes impatient with ground reference maneuvers because cross-country flying is the larger goal. The instructor connects wind correction during the maneuver to traffic patterns, navigation, and cross-country flight. The same task becomes more relevant, improving motivation without changing the required standard.
+]]
+
+### 12. A learner is frustrated, rushing a checklist, and blaming the airplane for poor landings. What should the instructor recognize and do?
+
+[[answer:
+The learner may be showing impatience, frustration, and a defense mechanism such as projection or rationalization. The instructor should remain calm, use objective performance standards, identify the specific deficiencies, reconnect the learner to the training goal, and stop or modify the lesson if communication, learning, or safety continues to deteriorate.
 ]]

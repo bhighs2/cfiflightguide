@@ -19,7 +19,7 @@ resolve underneath the current lesson URL.
 <base href="{{ request.path.rstrip('/') }}/">
 
 
-{% if is_training_lesson %}
+{% if is_training_lesson or is_cfi_acs_lesson %}
 
 <script
     src="{{ url_for(
@@ -39,8 +39,11 @@ resolve underneath the current lesson URL.
 <article
     class="
         lesson
-        {% if is_training_lesson %}
+        {% if is_training_lesson or is_cfi_acs_lesson %}
             training-lesson
+        {% endif %}
+        {% if is_cfi_acs_lesson %}
+            cfi-acs-lesson
         {% endif %}
     "
     data-lesson-title="{{ title }}"
@@ -427,6 +430,110 @@ resolve underneath the current lesson URL.
             </section>
 
         {% endif %}
+
+
+    {% elif is_cfi_acs_lesson %}
+
+
+        <nav
+            class="training-lesson-nav"
+            aria-label="Lesson sections"
+        >
+
+            {% if lesson_sections.overview %}
+                <button
+                    type="button"
+                    class="training-lesson-tab active"
+                    data-lesson-tab="overview"
+                    aria-selected="true"
+                >
+                    Overview
+                </button>
+            {% endif %}
+
+            {% if lesson_sections.prepare %}
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="prepare"
+                    aria-selected="false"
+                >
+                    Prepare
+                </button>
+            {% endif %}
+
+            {% if lesson_sections.teach %}
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="teach"
+                    aria-selected="false"
+                >
+                    Teach
+                </button>
+            {% endif %}
+
+            {% if lesson_sections.fly %}
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="fly"
+                    aria-selected="false"
+                >
+                    Fly
+                </button>
+            {% endif %}
+
+            {% if lesson_sections.review %}
+                <button
+                    type="button"
+                    class="training-lesson-tab"
+                    data-lesson-tab="review"
+                    aria-selected="false"
+                >
+                    Review
+                </button>
+            {% endif %}
+
+            <button
+                type="button"
+                id="print-cfi-lesson"
+                class="lesson-action-button cfi-print-lesson-button"
+            >
+                Print Lesson
+            </button>
+
+            {% if lesson_sections.fly %}
+                <button
+                    type="button"
+                    id="save-kneeboard"
+                    class="lesson-action-button cfi-print-kneeboard-button"
+                >
+                    Print Kneeboard
+                </button>
+            {% endif %}
+
+        </nav>
+
+
+        {% for section_name in ["overview", "prepare", "teach", "fly", "review"] %}
+            {% if lesson_sections[section_name] %}
+                <section
+                    class="training-lesson-panel{% if section_name == 'overview' %} active{% endif %}"
+                    data-lesson-panel="{{ section_name }}"
+                    {% if section_name != "overview" %}hidden{% endif %}
+                >
+                    <div
+                        {% if section_name == "fly" %}
+                            id="kneeboard-print-area"
+                        {% endif %}
+                        class="markdown-content{% if section_name == 'fly' %} kneeboard-content{% endif %}"
+                    >
+                        {{ lesson_sections[section_name] | safe }}
+                    </div>
+                </section>
+            {% endif %}
+        {% endfor %}
 
 
     {% else %}
