@@ -1,0 +1,127 @@
+DOCUMENT_TITLE: binns_task_d_-_soft-field_approach_and_landing
+SOURCE_FILE: binns_task_d_-_soft-field_approach_and_landing.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)1
+Soft-FieldApproachandLanding
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthesoft-fieldlandingmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Thesoftfieldlandingmaneuverisusedwhenlandingongrassorothersoftlandingsurfaces. Itdemonstrateshowtheairplaneneedstobehandleddifferentlyonthesehigh-dragsurfaces. Masteringthismaneuverwillhelppilotsbecomecomfortableoperatingtoandfromgrassstrips.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainhowthenosewheelisprotected,flyingbehindthepowercurve,astabilizedapproach,groundeffect,andthesoftfieldtouchdownprocedure.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Performsanormalapproachtolandatpublishedapproachairspeed(or1.3Vso)+10/-5knots.● Transitionsintogroundeffectandsafelytouchesdownsoftly.● Holdsthenosewheeloffthegroundduringrolloutandtaxi.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)2
+References
+● MzeroAFlightTraining-“SoftFieldLanding”○ YouTube-https://www.youtube.com/watch?v=FzOLrxwV6gc● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter9,Page23-24[Soft-FieldApproachandLanding],Chapter9,Page30-37[FaultyApproachesandLandings]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter11,Page16-18[LandingPerformance],Chapter11,Page19-28[PerformanceCharts]● FAAAdvisoryCircularAC91-79A(MitigatingRisksofRunwayOverruns)-Page8-9● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskD● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskD● FAA-S-ACS-25(CFIACS)-AreaVIITaskD
+GroundLessonOutline
+● WhatareSoftFieldlandings?○ Protectingthenosewheel● ImportanceofEstimatingFieldConditions● AirspeedControlandTrim● BehindthePowerCurve-EnergyManagement● ImportanceofaStabilizedApproach● GroundEffect● DangersofFloating● LandingPerformance○ DensityAltitude○ Calculatinglandingperformancedata○ Softfieldsaffectperformance● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning-awarenessofobstaclesandfieldcondition○ Runwayincursionavoidance○ Windshear,Tailwinds,WakeTurbulence○ Bepreparedtogoaround● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Improperuseoflandingperformancedataandlimitations.● Failuretoestablishapproachandlandingconfigurationatappropriatetimeorinpropersequence.● Failuretoestablishandmaintainastabilizedapproach.● Failuretoconsidertheeffectofwindandlandingsurface.● Improperprocedureinuseofpower,wingflaps,andtrim.● Inappropriateremoval of handfromthrottle.● Improperprocedureduringroundoutandtouchdown.● Excessiveairspeedor floating.● Failuretoholdbackelevatorpressureaftertouchdown.● Closingthethrottletoosoonaftertouchdown.● Poor directional control after touchdown.● Improper useof brakes.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)3
+GroundLessonContent
+● What areSoft-FieldLandings?-Landingonagrassorothersoft-surfacerunway(soft field)hasafewimportantdifferencesfromnormallandingsmadeonpavedrunways. Pilotsmaygenerallyassumethatpavedrunwaysaremaintainedinacceptableconditions,howeversoftfieldshavenosuchguarantees. Softfieldsmaybecontaminatedwithwater,mud,rocks,orcoveredinpotholesorotherhazards. Evenfieldswhichmayfromadistanceappearquitedrycanbeunexpectedlymuddyorwet.
+● Becausemostcommontrainingairplaneshavetricyclelandinggear,withheavyenginesrestingabovesmallnosewheels,specialcaremustbetakentopreventthenosewheelfromsinkingintothegrassormudandslowingtheairplaneexcessively.
+● Grassandothersoftsurfaces,suchasdirt,provideasignificantamountofincreaseddragorrollingresistanceascomparedtopavedrunwaysurfaces. Therefore,landingdistanceswillbeimproved,howevertakeoffdistancescanbelengtheneddramatically. Taxiingwillalsorequireconsiderablymorepower,andrequirecarefulattentiontokeepingweightoffofthenosewheel!● Thebestwaytoprotectthenosewheelonsoft-surfacefieldsistotouchdownsoftlyonthemainwheelsonly,keepfull backelevator pressurewhenrollingoutafterlandingtokeepthenosewheelraised,remaininginmotionwhenleavingtherunwayafterlanding, avoidingwheelbraking,andretainingbackelevatorpressureduringtaxiing.● Importanceof EstimatingFieldCondition-Iftheconditionofasoftfieldisnotalreadyknown,itisgenerallyagoodideatoperformalowapproachtotakeacloselookatthefieldconditions. Thesurfaceshouldappear dry,thegrassproperlymowed,andfreeof potholesandrocks.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)4
+● AirspeedControl andTrim-Whenapproachingtoland,itisimportanttobeawareoftheproperfinalapproachairspeed. ThiswilloftenbespecifiedbythePOH,butotherwiseairspeedonfinalapproachshouldbenohigherthan1.3xVso,andinlandingconfiguration(usuallyfullflaps). It isimportant tousetheelevator trimtoholdapproachspeedthroughout themaneuver!● BehindthePower Curve-Whenflyingatapproachairspeeds,particularlylowershort-fieldapproachairspeeds,itisimportanttorememberthattheairplanewillbebehindthepower curve. Thepowercurverepresentstheamountofpowerrequiredtomaintainagivenairspeedwithoutaccelerating. Thisisataminimumwhentheamountoftotaldragisataminimum.○ Airspeedsbelowtheminimumdragspeed(thebestglidespeed)aresometimescalledtheregionof reversecommand. Thisisbecauseanyincreaseinpitch,andthereforeangleofattack,willresultinmoretotaldrag,whichwill increasetherateofdescent.○ Whenbehindthepowercurve,inordertocontroldescentrateandglidepath,thefirstactionmustbetoincreaseordecreasethethrottle! Addor removepower tocontrol thedescent,andpitchtomaintainairspeed.○ Itisusefultothinkaboutapproachesintermsof EnergyManagement,wherethereisafundamentaldifferencebetweenaHighEnergyandLowEnergyapproach,asthesemustbemanagedverydifferently.■ SeethelessononArea10(X) - TaskB- Demonstrationof Flight CharacteristicsatVariousConfigurationsandAirspeedsformoredetailsonenergymanagement.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)5
+● Importanceof aStabilizedApproach-Aswithalllandings,thequalityofthelandingbeginswiththequalityoftheapproach. Itiscriticallyimportanttomaintainastabilizedapproach.○ Unstableapproachesarealeadingcauseof accidentsandincidentsduringlanding!○ Theapproachshouldinvolvesmooth,gentlepatternturns,whilemaintainingtheproperapproachairspeedandavoidingdramaticforwardslipsorothermaneuverstheentiretime. Itisimportantthattheairplanebefullyconfiguredtolandandflyingatapproachspeed,andatastablerateofdescent,atleast½milebeforereachingtherunwaythreshold. Generally,theapproachshouldbestabilizedbeforereaching400ftAGL.
+○ Eventhoughobstaclesonfinalapproach,suchasterrainortrees,mayrequireasteeperdescent,itisstillpreferabletoflyastabilizedapproachthatwillclearobstacles,ratherthansteppingdownorotherwiseflyinganunstableapproach. Final approachshouldbeflowninastabledescent, properlyalignedwiththerunwayor landingarea!
+● Astheairplaneapproachestherunwayonfinal,thepilotshouldidentifyapointbeforethedesiredtouchdownpointanduseitasanaimingpoint. Astheairplanereachestheaimingpoint,anormalroundoutandflarecanbeconducted,suchthattheairplanetouchesdownatthetouchdownpoint.Aimingatthetouchdownpointwouldresultinlandinglong,becauseitdoesnotaccountforthelandingroundoutandflare.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)6
+● Pilotsshouldconductalllandingstohitadesignatedspot,whetherornottheyareperformingahigh-performancelanding. Forasoft-fieldlanding,thedesignatedspotshouldbeinthefirst⅓oftheavailablelandingarea. Duringtheroundoutandflare,thepilotshouldholdjustenoughbackpressuretokeeptheairplanefromtouchingdownuntilthedesiredtouchdownpointisreached.● GroundEffect-Forasoft-fieldlanding,touchdownshouldbemadeinanose-highattitude, assoftlyaspossible, at theminimumsafeairspeed. Itwillhelpcushionthelandingifabitofpowerisheldthroughtheroundout,flare,andtouchdown. Astheairplanefliesintogroundeffect,itshouldroundoutandflyleveltogentlybleedoffspeedandaltitude,suchthattouchdownoccurswithminimumsinkrate.○ Groundeffectisaphenomenonwheretheproximityofanairplane’swingtothegroundinterruptstheusualwingtipvorticesandprovidesacushioningeffect.
+● Dangersof Floating-AccordingtotheFAA’sAC91-79A, “A10percent excesslandingspeedcausesat least a21percent increaseinlandingdistance”. Beingonspeediscrucialtoproperlandingperformance. Evenmoredangerousisexcessivefloatingordelayingthetouchdown. Althoughgoodsoftfieldtechniquedoesnotemphasizelandinginaparticulardistance, excessivefloatingonalandingisunacceptable! Agoodruletofollowisthatiftheairplanehasnottoucheddownwithinthefirst⅓oftherunwaysurface, goaround!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)7
+● LandingPerformance-Determiningexactlyhowmuchdistancewillberequiredforthelandingiscrucialtoensurethechosenrunwaywillbelongenoughtomakethelandingsafely. Anairplane’slandingperformanceishighlydependentonseveralchangingfactors,suchasweight, wind, anddensityaltitude. Aircraftperformanceatheavierweightsorhigheraltitudesisgreatlyreduced.○ Densityaltitude,whichisacorrectionforatmosphericconditions,isthealtitudethatanairplane‘feels’.○ Athigheraltitudesoronhotdays,thedensityoftheairwillbelessandthereforetheairplanewillneedtomovemoreairtostayaloft. Becausetheairspeedindicatorisalsoaffectedbydensityaltitude,itwillshowthesamevalues,howeverthetrueairspeedwillbehigher.○ Thedifferencebetweenfieldaltitudeandthedensityaltitudecanbesignificant!■ SeetherelatedlessononDensityAltitude.● ThePOHforeveryaircraftwillcontainperformancechartsthatdetailhowmanyfeetoflandingdistanceisrequiredforvariousweights,winds,andweatherconditions. Italsoprescribesanairplaneconfigurationthatshouldbeused.○ Tousetheperformancecharts,firstfindthepressurealtitude,bysettingthealtimeterto29.92”orusingtheconversion. Then,findthecellinthetablethatmatchestheairplanegrossweightwiththepressurealtitudeandthecurrenttemperature.○ Itisbesttoadda‘safetyfactor’totheperformancefiguresobtainedfromthePOHperformancecharts. Generally,itisagoodideatooverestimatethepressurealtitudeandtemperatureforaworstcasescenario,andadd20-30%toaccountforthepossibilityoffloating,howeverasnotedabove, floatingmust beavoidedif performancenumbersaretobevalid!○ Soft-fieldapproachesareusuallyhelpedbythevastlyincreasedsurfacefrictionofthegrassorothersoftsurface. Landingperformanceisusuallymuchbetter,andtakeoffperformanceisconsiderablyworse.○ Don’t forget toconsider wind! Atailwinddramaticallyincreasestakeoffandlandingdistances. Likewise,astrongheadwindcangreatlyimproveperformance.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)8
+● SafetyConsiderations○ Aswithanylanding,theuseof checklistsisimportant. Beforebeginningthemaneuver,thebeforelandingchecklistmustbecompleted. Afterlandingandrollingouttoasafepointclearoftherunway,theafterlandingchecklistshouldbecompleted.○ Soft-fieldlandingsrequirespecial cautiontobeexercisedfor adequatefieldsurfaceconditionsandwatchingfor obstaclesonor near thefield! Powerlines,talltrees,orotherobstaclesmaybequiteclosetotherunwayenvironment!○ Itiscrucialtonotbecomesofocusedonthemaneuverthatanunsafesituationiscreated.Maintainsituationalawareness,makeappropriateradiocalls,andensurethatlandingclearanceisobtainedbeforelanding. Vigilancemust bemaintainedafter landingtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines. Ifthereisacontroltower,donotforgettocontactgroundcontrolfortaxiclearanceafterlanding,andatuncontrolledfields,clearlycommunicateyourtaxiintentionsontheradio. Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinalapproachpathisclear!○ Maneuveringinthepatternatlowairspeedcreatesariskofastallingsituation. Ifthestallwarningsoundsbeforethelandingflare,goaround!○ Whenexecutinganylanding,thereshouldbeapointidentified(nofurther thanthefirst 1/3oftherunway)beyondwhichiftheairplanehasnottoucheddownyouwillgoaround. Alwaysbepreparedtogoaround!○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)9
+ManeuverDescription● SelectingaSuitableSurface-Selectarunwayorsuitablesoftfieldsurfacethatwillallowlandingintothewind,orwithamanageablecrosswind. Whenusinganactualsoft-field,itisbesttofirstperformalowapproachtoverifythatitisfreefromlargepotholes,ruts,mud,orotherdebristhatmaydamagetheairplane.● SelectingaTouchdownPoint-Whenlandingonanactualsoftfield,therewilllikelybenorunwaymarkings,sotouchdownshouldbeplannedinthefirst⅓oftheavailablelandingarea. Untilproficiencyisdeveloped,selectaspotthatisnotdirectlyatthestartofthelandingarea,incaseoflandingshort.● EntryPositionandAltitude-Themaneuvershouldbeenteredonanormaldownwindleg,abeamthetouchdownpoint,atnormalpatternaltitude.● EntryAirspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVa. Ideally,beginthismaneuveratanormaltrafficpatternairspeed.● Checklists-Pilotsmustperformabefore-landingchecklistbeforebeginningthemaneuver,andanafter-landingchecklistaftertaxiingsafelyclearoftherunwayorlandingarea,forfull-stoplandings.● Airspeed-AirspeedshouldbekeptatthesoftfieldlandingairspeeddesignatedbythePOH,orslightlyhigher(addhalfthegustfactor)toaccountforgustingwindconditions. Bevigilant about maintainingairspeed, andif thestall indicationisheardat anypoint beforethefinal landingflare, discontinuethemaneuver andgoaround!● Bank-Sincethismaneuvertakesplaceinanairporttrafficpatternandinvolvesmaneuveringatlowspeedandatlowaltitude,thebankangleshouldbelessthan30degrees.● ApproachPath-Flyanormal,well-definedbaselegandfinalapproachsegment. Avoidcuttingthecornersoroverflyingthefinalapproachcourse.● Coordination-Themaneuvershouldbeflownincoordinatedflight. Attentionshouldbegiventoproperrudderinputduringturns.● Touchdown-Chooseanaimingpointsuchthattheairplanewilllandat, but not before,theselectedtouchdownpoint,orwithinareasonabledistancebeyondit. Allowtheairplanetoentergroundeffectandholdbackelevatorpressurebleedspeedandaltitudeslowly. Thelandingshouldbegentle,ataproperpitchangle(keepthenoseup),safe,andundercontrol. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_d_-_soft-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-D) / CAX(IV-D) / CFI (VII-D)10
+● After Touchdown-Applybackelevatorpressuretoensurethenosewheelremainsfreeandtoprovideaerodynamicbraking,asspecifiedbythePOH. Theprimaryconsiderationistokeeptheweightoffthenosewheel. Avoidusingwheel braking!● BePreparedtoGoAround! Theapproachmaynotworkoutandago-aroundisverypossible. Bepreparedtoexecuteago-aroundifneeded.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropermanagementoftheapproachpath. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthesoft-fieldlandingmaneuverandhowwindandotherfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotselectsarunwayorfieldsuitablefortheweatherconditions,establishestheairplaneonadownwindlegatpatternaltitude,performsapre-landingchecklist,establishesaspeedbelowVa,makestheappropriateradiocalls.○ Atthenormalabeampointonthedownwind,thepilotclosesthethrottle,appliescarbheatasnecessary,andestablishesadescentatthenormalapproachairspeed+10/-5knots.○ Pilotmakesasafe,softtouchdownonthemaingearwhileholdingthenosewheelofftheground.○ Pilotcontinuesholdingthenosewheeloffthegrounduntillossofelevatoreffectiveness,andretainsbackelevatorpressureduringtaxiclearoftherunwayorsoftfieldsurface.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.○ Pilotperformsatimelygo-aroundifthesafecompletionofthemaneuver withinstandardsisindoubt.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

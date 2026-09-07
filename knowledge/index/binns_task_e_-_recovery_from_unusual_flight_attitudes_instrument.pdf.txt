@@ -1,0 +1,111 @@
+DOCUMENT_TITLE: binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument
+SOURCE_FILE: binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)1
+RecoveryFromUnusual Flight Attitudes(Instrument)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftherecoveryfromunusualattitudesbasicinstrumentmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Nopilotwantstoeverfindthemselvesinanunusualattitude,howeveraninadvertentencounterwithinstrumentconditions,ormomentarydisorientationordistractioncanquicklyleadtoone. Learningtorecoverfromunusualattitudesisacruciallife-savingskillthatpilotscanusetoescapefromthesesituations.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:10minutes- IntroductiontoManeuver■ Flight 2:15minutes- ImproveProficiency(Dual)● Pre-Checkride■ Flight 3:10minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● Whiteboard/Markers(optional)● Foggles/Hood
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentexplainsthepurposeoftherecoveryfromunusualattitudesinstrumentmaneuverandhowthevariousinstrumentsareusedtodetectwhichtypeofunusualattitudehasoccurred,andexplainstheproperrecoveryprocedure.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Wheninstructedbytheexaminer,pilotdetectsthetypeofunusualattitudeandappliestheappropriaterecoveryproceduresolelybyreferencetoinstruments.● Pilotmaintainssmooth,coordinatedairplanecontrolthroughoutthemaneuverandreturnstheairplanetostraightandlevelflight.● UsesSRMorCRM,asappropriate(i.e.automation)
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)2
+References
+● ERAUSpecialVFR-“RecoveryfromUnusualAttitudes”○ YouTube-https://www.youtube.com/watch?v=ns2Oiys2sc8● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page5-6[IntegratedFlightInstruction],Chapter3,Page6-9[StraightandLevelFlight],Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter8,Page3-4[Altimeter],Chapter8,Page8-9[AirspeedIndicator],Chapter8,Page17-18[TurnCoordinator],Chapter8,Page18-19[AttitudeIndicator]● FAA-H-8083-15B(InstrumentFlyingHandbook)-Chapter3,Page2-5[SensorySystemsforOrientation],Chapter3,Page5-7[IllusionsLeadingtoSpatialDisorientation],Chapter5,Page19-21[GyroscopicInstruments],Chapter6,Page4-8[AttitudeInstrumentFlying/PrimaryandSupporting],Chapter6,Page10-13[InstrumentCross-Check/Interpretation],Chapter7,Page26-28[UnusualAttitudesandRecoveries]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVIIITaskE● FAA-S-ACS-25(CFIACS)-AreaXITaskE
+GroundLessonOutline
+● UnusualAttitudes○ Definition○ SituationsThatLeadtoUnusualAttitudes■ VFRintoIMC■ InattentionorDistraction■ SpatialDisorientation■ WakeTurbulence○ AvoidingUnusualAttitudes-Useautomationifpossible● YourSensesCannotBeTrusted○ SensoryIllusions■ SomatogravicIllusion■ SomatogyricIllusion○ RelyontheFlightInstruments● RecognizinganUnusualAttitude○ PrimaryInstrumentstoScan● TwoTypesofUnusualAttitudes○ NoseHigh-Primarydangerisstall,increasepower,decreasepitch,rolllevel○ NoseLow-Primarydangerisoverstress,decreasepower,rolllevel,increasepitch● ImportanceofSmooth,CoordinatedControl● EscapingbacktoVMC-Smooth,coordinated,180degreestandard-rateturn○ Useanautopilot/winglevelerifpossible!● ManeuverDescription-step-by-step○ Altitude,airspeed,etc.
+CommonErrors
+● Failuretorecognizeanunusualflightattitude.● Consequencesof attemptingtorecover fromanunusual flight attitudeby“feel”rather thanbyinstrument indications.● Inappropriatecontrol applicationsduringrecovery.● Failuretorecognizefrominstrumentindicationswhentheairplaneispassingthroughalevelflightattitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)3
+GroundLessonContent
+● Unusual Attitudes-Unusualattitudesrefertoflightattitudesthatarenotexperiencedduringnormalmaneuvering. Inparticular,instrumentflyingmaneuversaregenerallyquitedocilecomparedtovisualmaneuvers,andanylargepitchorbankanglesaregenerallydangerous. Theseattitudesarealmostalwaysaccidentalorunintentionalandaresometimescalledan“upset”.○ TheFAAdefinesunusualattitudesas:■ Pitchattitudegreaterthan25°,noseup.■ Pitchattitudegreaterthan10°,nosedown.■ Bankanglegreaterthan45°.■ Withintheaboveparameters,butflyingatairspeedsinappropriatefortheconditions.
+○ SituationsThat CanLeadtoUnusual Attitudes-■ VFRintoIMC-AlthoughaPrivatePilotcertificatedoesnotallownewpilotstoflyininstrumentconditions,situationsmightoccurwhenpilotsunexpectedlyfindthemselvesintheseconditions:aninadvertentencounterwithanunseenormisjudgedcloud,deterioratingweatherconditions,etc. Pilotswhoareinexperiencedwithflight solelybyreferencetoinstrumentsoftendonot scantheinstrumentsappropriatelyandcanrapidlyfindthemselvesinanunusual attitude.
+■ Inattentionor Distraction-Althoughtheairplanemaybeinvisualconditions,pilotsmaybecomedistractedbyothertasksandfailtomonitortheairplane’sattitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)4
+■ Spatial Disorientation-Spatialdisorientationmostcommonlyoccursduringinstrumentconditions,howeveritcanalsoaffectpilotsinvisualconditions. Night VFRconditionswithlimitedstarlight/moonlight or over unpopulatedareascanresult inopticalillusionswhichconfusethepilotssenseof orientation.■ WakeTurbulence-Anencounterwithwaketurbulencemayrapidlyputtheairplaneintoanunusualattitude.○ AvoidingUnusual Attitudes-Useautomationifpossible! Ifyouhaveaworkingautopilot,useit,especiallywhenyouneedtoperformanothertaskordivertyourattention.
+● Your SensesCannot BeTrusted-Themostchallengingaspectoftransitioningtoflyingoninstrumentsisthatpilotsareaccustomedtorecognizingthesensationstheirbodyisexperiencingduringflight. Somethingfeelslikeaturn,or feelslikeaclimb. However,pilotsmustrealizethathumanperceptionoforientationandmotionisextremelylimitedwhenoutsidevisualreferencesarenotpresent! Thehumanbodysensesmotionusingsomethingcalledthevestibular system.Thevestibularsystemprimarilysensesaccelerationsinonedirectionoranother. Itcangenerallysenserotationormovement,andwiththeaidoftheothersenses(primarilyvision),thebrainmaintainsaconceptofthebody’sorientationandmotion. However, likeaheadingindicator whichdriftsover time, without continual reinforcement fromoutsidevisual references, thebody’ssenseof “whichwayisup”or “whichwayamI going?”graduallydriftsover time.○ SensoryIllusions-Thevestibularsystemissusceptibletoanumberofcommonillusions:■ TheSomatogravicIllusion-Thesomatogravicillusioncausesthebraintosenseclimbingordescendingwhensubjectedtoaccelerationordeceleration. Thiscanhappenespeciallyduringtakeoff or go-aroundsinconditionswithpoor outsidevisibility.
+■ TheSomatogyricIllusion-Thesomatogyricillusionisoftencalled“theleans”,andhappenswhenthebrain‘re-centers’itsperceptionofwhichdirectionisup,andcausespilotstobelievetheyarelevelwhenturning,orturningwhilelevel. Thiscanhappenespeciallyafter prolonged, gentleturnswhenoutsidevisibilityislimited, suchas
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)5
+at night. Thisoftenleadstosomethingcalledthegraveyardspiral,wherethepilot,believingtheyareflyinglevelorturningtheoppositedirection,increasinglybanksinonedirection,causingtheairplanetoenterasteepening,descendingspiral.
+○ RelyontheFlight Instruments- Theonlysolutiontomaintainingcontrol ininstrumentconditionsistorelyontheflight instruments. Theflightinstrumentsarenotsubjecttothesameerrorsasthevestibularsystemandprovideamuchmorereliable,accuraterepresentationoftheaircraftattitude.
+● RecognizinganUnusual Attitude-Thefirstthingthatpilotsmustdoisbeabletorecognizewhenanunusualattitudehasoccurred. Generally,whenanyoftheflightinstrumentsaremovingfaster,orinwaysthatareunexpected,itissafesttoassumethattheairplaneisinanunusualattitude.○ PrimaryInstrumentstoScan-Themostimportantinstrumentstoconsiderarethealtimeter,turncoordinator, andairspeedindicator. Iftheattitudeindicatorisdisplayingarecognizableattitude,itcanalsobeused. (Ausableattitudeindicationmaynot beavailableinextremeunusual attitudes!)
+● TwoTypesof Unusual AttitudesandRecovery-Theprimarygoalofunusualattituderecoveryisreturningtostraightandlevelflight. Returningtoanyspecificaltitudeor headingissecondarytorecoverytostraight andlevel flight! Unusual attitudescanput theairplaneintoastall, orincreasetheloadfactor beyondstructural limits,sotheymustbepromptlyrecognizedandrecovered. Therearegenerallytwotypesofunusualattitudesthatmaybeencountered:
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)6
+○ NoseHigh-Theprimarysignsofanose-highunusualattitudearedecreasingairspeedandincreasingaltitude. Althoughtheairplanemayalsobeinaturn, theprimaryriskisthat of astall, sothepitchattitudemust bereducedfirst toreducetheangleof attack.■ Recognition- Decreasingairspeed, increasingaltitude.
+■ RecoveryProcedure● 1. Applyfull power.● 2. Reducepitchtolevel.● 3. Level wings.
+○ NoseLow-Theprimarysignsofanose-lowunusualattitudeareincreasingairspeedanddecreasingaltitude. Unlikeanose-highunusualattitude, theprimaryriskistheincreasingairspeedandloadfactorsontheairplane. Becauseofthis,thebankmustfirstbecorrectedbeforeattemptingtoraisethepitch. Attemptingtocorrect thepitchbeforecorrectingthebankwill unnecessarilyincreaseloadfactor(recall theincreasedloadfactor insteepturns),andslowthepitchincrease,asthenosewillmoveatanangletowardsthehorizon.■ Recognition- Increasingairspeed, decreasingaltitude.
+■ RecoveryProcedure● 1. Reducepower.● 2. Level wings.● 3. Raisepitchtolevel attitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)7
+● Importanceof Smooth, CoordinatedControl-Becauseunusualattitudesincreasetherisksofastallorexcessloadfactors,andinvolvepotentiallylargecontrolinputs, it iscrucial that pilotsapplyrecoveryinputsusingsmooth, coordinatedcontrol. Applycoordinatingrudderinputwhencorrectingthebankangle,andbecarefultonotoverstresstheairplanewhencorrectingpitch. Carelessorabruptapplicationofcontrolinputcancauseastallorexceedthelimitloadfactorandpotentiallydamagetheairplane.● EscapingbacktoVMC-PilotswhofindthemselvesinIMCshouldtrytoremaincalm. Afterdealingwithanypotentialunusualattitude,itisimperativethattheyexecuteasmooth,coordinated,180degreestandard-rateturntoreturntovisualconditions!○ Useanautopilot/wingleveler if possible! Somemodernautopilotsofferanemergency“Level”button.○ Donot hesitatetodeclareanemergencywithATCif youareunabletoconsistentlymaintainVisual Meteorological Conditions!
+ManeuverDescription● Preparation-Instructororexaminerwilltakecontroloftheplanewhilethepilotputsonthefogglesorhood. Thepilotwillbeaskedtoclosetheireyesandtheinstructororexaminerwillbeginmaneuveringtheairplanetocreatespatialdisorientation.● Detect-Wheninstructedbytheinstructororexaminer,thepilotopenstheireyesandbeginstheinstrumentscan/crosschecktodetectthetypeofunusualattitudethathasbeenencountered.● Recover-Applytheappropriate(nose-highornose-low)recoveryproceduretore-establishstraightandlevelflight.● Altitude, Airspeed, Heading-Returntothealtitude,airspeed,andheadingspecifiedbytheinstructororexaminer.● SmoothnessandCoordination- Proper coordinationisessential. Astallwhenininstrumentconditions,particularlyanuncoordinatedstall,isunlikelytoberecoverable. Additionally,duringnose-lowrecoveries,theairplanemaybeatabovemaneuveringspeed,soabruptrecoveriescanoverstresstheairframe.● Never attempt thismaneuver solo!-Theinstructororexaminerwillactaswhatiscalledasafetypilot,andwillberesponsibleforallvisualtrafficscanning,collisionavoidance,etc.● UseSRMor CRM, asappropriate-Ifyouhaveawing-levelingautopilot,youshouldalsopracticeusingittoassistwiththeunusualattitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_e_-_recovery_from_unusual_flight_attitudes_instrument.pdf>>>
+========================================
+
+PPL(VIII-E) / CAX/ CFI (XI-E)8
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

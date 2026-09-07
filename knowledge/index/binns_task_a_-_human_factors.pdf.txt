@@ -1,0 +1,137 @@
+DOCUMENT_TITLE: binns_task_a_-_human_factors
+SOURCE_FILE: binns_task_a_-_human_factors.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)1
+HumanFactors
+Objective
+Toensuretheapplicant learnsandcanexhibit aclearunderstandingof thehumanfactorsaffectingpilotsandpassengersduringflight.
+Purpose
+Flyingdemandsveryhighlevelsof humanperformance, butpilots, just likeanyoneelse, aresubject tofactorsthat impedetheir performance. Thislessonintroducespilotstothemedical certificationprocess, thehuman(physiological,psychological, andcognitive) factorsthat affect pilotsandtheir passengersinflight, aswell astheir causes, symptoms,andtreatments.
+Schedule Equipment
+● GroundLesson: 20minutes● Student Q&A: 10minutes
+● Whiteboard/ Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions, receivestudymaterial for thenext lesson.● Reviewlistedreferences.
+● Deliver thegroundlesson(below).● Answer student questions.
+CompletionStandards
+● Student canexplainthefollowingconcepts:● Howtoobtainamedical certificate, SODA, Special Issuance● Commonaeromedical factors, their causes, symptoms, andtreatments, including○ Hypoxia○ Hyperventilation○ MiddleEar or SinusProblems○ Spatial Disorientation○ MotionSickness○ COPoisoning○ Fatigue, Stress, Dehydration○ ExcessNitrogen(DecompressionSickness)● Commoncognitiveandpsychological concepts, including○ ADM/SRM, TaskPrioritization, DealingwithDistractions, andthePAVE/IMSAFEChecklist○ ConfirmationandExpectationBias○ TheFiveHazardousAttitudes● Therulesandregulationsconcerningalcohol anddrugs, andtheir impact onflight safety
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)2
+References
+● FAA-H-8083-25B(Pilot’sHandbookof Aeronautical Knowledge) - Chapter 17[Aeromedical Factors]● FAA-S-ACS-6C(PrivatePilot ACS) andFAA-S-ACS-7B(Commercial Pilot ACS) - AreaI TaskH● FAA-S-ACS-8Bw/ Change1(Instrument AirplaneACS) - AreaI TaskA● FAA-S-ACS-25(CFI ACS) - AreaII TaskAandFAA-S-8081-9D(CFII PTS) - AreaII TaskB
+GroundLessonOutline
+● ObtainingaMedical Certificate○ PossibleComplications, DisqualifyingConditions, Special Issuance, SODA● CommonAeromedical Factors- Pilotsshouldconsider PAVE/IMSAFEbeforeeveryflight!○ Hypoxia- Inadequateoxygensupply, particularlytothebrain(FAAOxygenRequirements§91.211)■ Types- Hypoxic(not enoughoxygenintheair), Hypemic(bloodcan’t carry, e.g. COpoisoning), Stagnant (bloodnot flowing, highG’s), Histoxic(cellscan’t use, e.g. alcohol anddrugs)■ Cause- Flight at highaltitude(esp. Above10,000), Anemia, Alcohol/Drugs, etc.■ Symptoms- Euphoria, carefreefeeling, bluefingernails, headache, drowsiness, etc.■ Effects- Reducedmental function, somewhat likedrunkenness.■ Treatment - Descendor increaseoxygensupply!○ Hyperventilation- Excessiverateof breathing, commoninhighaltitudeor highstresssituations.■ Cause- Stress, highbreathingrateonpureoxygensupply, etc. Insufficient CO2.■ Symptoms/Effects- Similar toHypoxia(alsotingling, dizzy), canleadtolossof consciousness.■ Treatment - Must reducebreathingrateor oxygenflow.○ MiddleEar andSinusProblems- Causedbyblockagesinsinusesor middleear, canbeextremelypainful, especiallyduringclimbsanddescents. Oral decongestantscreatesideeffects, donot use!■ Cause, Symptoms, Effects- Usuallycoldor sinusinfection, painor partial hearingloss.■ Descendslowly, trytoequalizetheearsgently. Avoidflyingwhensick!○ Spatial Disorientation- Causedbyunreliabilityof vestibular system, especiallywhenvisual cuesarelost! Brainusesvestibular, somatosensory, andvisual systemtogether tomaintainorientation.■ Spatial Illusions- TheLeans, Coriolis, GraveyardSpiral, Somatogravic, Inversion, Elevator■ Visual Illusions- FalseHorizon, Autokinesis, RunwayWidth, TerrainSlope, FeaturelessTerrain○ MotionSickness- Brainreceivingconflictinginformationabout thebody. Canbeexacerbatedbystress.■ Avoidturbulence, keepshort lessons, get freshair, etc. Canbeovercomewithtime.○ CarbonMonoxidePoisoning- Oftencausedbyexhaust leaks, etc. CausesHypemicHypoxia.■ Smokersalsoexperiencesomeeffects.○ FatigueandStress- Increaseddemandsonthebody. Causesother healthproblems, poor pilot perf.■ AcutevsChronic○ Dehydration- Critical lackof water inthebody. Oftencausedbyhot, unventilatedcockpits, etc.■ Symptomsincludeheadache, fatigue, cramps, sleepiness, anddizziness. Drinkmorewater!○ ExcessNitrogenSaturation/ ScubaDivers- Causedbyincreasedpartial pressureof nitrogenincompressedair. Canbedangerousor evenfatal! Must allowtimetodecompress(12-24hours)● DrugsandAlcohol - §91.17- Avoidalcohol, but evenprescriptiondrugscancausedangerousimpairment!○ RulesandRegulations■ Cannot act asacrewmember - Within8hoursof drinking, BAC>0.04, Under theInfluence■ Cannot allowanyonewhoappearsintoxicatedonboard.○ RelationshiptoFlight Safety- Flyingunder theinfluenceisnever safeandcreatedisastrousresults!● CognitiveandPsychological Factors○ ADM/ SRM- TaskPrioritization, PAVE/IMSAFE○ Distractions, Lossof Situational Awareness, Disorientation, ConfirmationandExpectationBias○ TheFiveHazardousAttitudes- Anti-Authority, Impulsivity, Invulnerability, Resignation, Macho
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)3
+GroundLessonContent
+● ObtainingaMedical Certificate- FAAAirmanMedical CertificatesaregrantedbyAviationMedicalExaminers(AMEs), whoareFAA-designateddoctorswhorepresent theFAAfor thepurposesofmedical certification.○ Searchfor anAME- https://www.faa.gov/pilots/amelocator/○ Applyat MedXPress- https://medxpress.faa.gov/medxpress/○ PossibleComplications■ DisqualifyingConditions● AnginaPectoris● Bipolar Disorder● CardiacValveReplacement● CoronaryHeart Diseasethat hasbeentreatedor, if untreated, that hasbeensymptomaticor clinicallysignificant● DiabetesMellitusrequiringhypoglycemicmedication● Disturbanceof Consciousnesswithout satisfactoryexplanationof cause● Epilepsy● Heart Replacement (CardiacTransplant)● Myocardial Infarction● Permanent cardiacpacemaker● PersonalityDisorder that issevereenoughtohaverepeatedlymanifesteditselfbyovert acts● Psychosis● SubstanceAbuse● SubstanceDependence● Transient Lossof Control of NervousSystemfunction(s) without satisfactoryexplanationof cause■ Special Issuance- §67.401(a) - At discretionof theFederal Air Surgeon, mayexpire.Usedinsituationswhere, for example, theapplicant hasadisqualifyingconditionbut ithasbeentreatedinamanner acceptabletotheFAAanddoesnot present asafetyofflight issue. Usuallyrequirestreatment byFAA-designatedspecialists, andworkingwithoneor moreAviationMedical Examiners.■ Statement of DemonstratedAbility(SODA) - §67.401(b) - At discretionof theFederalAir Surgeon, doesnot expireif conditionunchanged. Commonlyusedincasesof amedical disability, whereit doesnot affect safetyof flight. For example: Apilot withoneleg. Requires‘proving’ toFAArepresentativesthat theconditionisnot aseriousimpediment.● CommonAeromedical Factors- Therearemanycommonaeromedical factorsthat affect pilots.Flyingisachallengingenvironment for thehumanbody. Pilotsshouldconsider doingthePAVE/IMSAFEchecklist (describedbelow) toevaluatetheir general physiological conditionbeforeeveryflight toensuretheyaremedicallyfit. However, evenphysiologicallyfit pilotsaresusceptibletosomecommonaeromedical factorsinflight:
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)4
+○ Hypoxia- Inadequateoxygensupply, particularlytothebrain■ Types● Hypoxic- Not enoughoxygenintheair, e.g. highaltitude, suffocation○ HowtoDeal With■ Highperformanceplanespressurizethecabin■ GAaircraft generallyuse100%oxygen○ TheFAArequires(§91.211)■ Whenbetween12500ft and14000ft for morethan30minutesthatall crewmembersmust beonoxygen■ Above14000ft, all crewmembersmust beonoxygenfull time■ Above15000ft all passengersmust beofferedoxygen○ TheFAArecommends■ Usingoxygenat night above5000ft■ Usingoxygenduringthedayabove10000ft● Hypemic- Bloodcan’t carrysufficient oxygen, e.g. COpoisoning● Stagnant - Bloodnot flowing, e.g. highG’sor poor bloodcirculation● Histoxic- Cellscan’t useoxygen, e.g. alcohol anddrugs■ Cause- Flight at highaltitude(esp. Above10,000), Anemia, Alcohol/Drugs, etc.■ Symptoms- Euphoria, carefreefeeling, bluefingernails, headache, drowsiness, etc.■ Effects- Reducedmental function, somewhat likedrunkenness.■ Treatment - Descendor increaseoxygensupply! Canhappenveryfast at highaltitudes!
+○ Hyperventilation- Excessiverateof breathing, commoninhighaltitudeor highstresssituations. ResultsinaCO2deficiency.■ Cause- Stress, highbreathingrateonpureoxygensupply, etc. Insufficient CO2.■ Symptoms/Effects- Similar toHypoxia, canleadtolossof consciousness. Also:● Dizziness/Lightheadedness● Tinglingsensation
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)5
+● Visual Impairment● MuscleSpasms● Hot andColdFeelings■ Treatment - Must reducebreathingrateor oxygenflow.○ MiddleEar andSinusProblems- Causedbyblockagesinsinusesor middleear, canbeextremelypainful, especiallyduringclimbsanddescents. Oral decongestantscancreatesideeffectsthat areharmful topilot performance, donot usewhenflying!■ Cause, Symptoms, Effects- Usuallycoldor sinusinfection, painor partial hearingloss.■ Treatment - Descendslowly, trytoequalizetheearsgently. Avoidflyingwhensick, orwithsickpassengers! Cantryholdingyour noseandblowinggently.○ Spatial Disorientation- Causedbyunreliabilityof vestibular system, especiallywhenvisualcuesarelost!■ 3Systems- Thebrainusesinput from3separatesystemstomaintainamental modelof orientation:● Vestibular - Basedonsensitive, fluid-filledcanalsintheinner ear. Sensesaccelerations.● Somatosensory- Sensesaccelerationsusingnervesonskin, joints, etc. (e.g.G-Forces)● Visual System- Orientationisderivedfromthevisual scene.■ Spatial Illusions- Intheabsenceof reliablevisual information, thebraincanuseonlythevestibular andsomatosensorysystems. Thesesystemsareunreliableintheabsenceof visual systeminput (whichservesasaconstant correction). Thiscausesthebraintobecomeconfusedabout theorientation. Becausethesesystemsprimarilydependonaccelerationsinthevariousaxes, theyaresusceptibletoconfusionduringlong, gentle, sustainedmaneuvers, suchasconstant-rateturns.
+● TheLeans- Duringarollout fromaprolonged, constant-rateturn, thepilot feelsasif they’releaningtoonesidewhenstraight andlevel.
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)6
+● CoriolisIllusion- Duringaprolonged, constant-rateturn, movement of theheadcausespilotstofeel (fake) rotationinadifferent axis.● GraveyardSpiral - Similar totheleans, wherethepilot continuouslyinputsthewrongcorrectivecontrol inputs, leadingtoatightening, descendingspiral.
+● SomatogravicIllusion- Accelerationscancausethefeelingof pitchingup, anddecelerationsfeel likepitchingdown.● InversionIllusion- Abruptlylevelingoff fromaclimbcancauseafeelingoftumblingbackwards.● Elevator Illusion- Abrupt, brief, vertical accelerationscancreateasenseofclimbingor descending, evenwhenlevel.■ Visual andOptical Illusions- Thevisual systemisalsosusceptibletocertainkindsofvisual illusions, whichcanbeworsenedbypoor visibility, haze, fog, etc.● FalseHorizon- Aslopingcloudlayer, obscuredsky, groundlighting, or stars,canall contributetoincorrectlyperceivingafalsehorizon.● Autokinesis- Focusingonasmall point light inadarkareafor alongtimecancauseanappearanceof thelight moving, evenwhenit isnot.● RunwayWidth- Anarrower thanusual runwaycancausetheappearanceofbeingaboveglideslope, causingthepilot toflyexcessivelylowonapproach.
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)7
+● Terrain/RunwaySlope- Anupslopingrunwaycreatestheillusionof beinghigher thannormal, andvice-versa.
+● FeaturelessTerrainIllusion- Flight over featurelessterrain(suchasstill water,smoothsnow, etc) createsanillusionof beinghigher thantheactual altitude.
+○ MotionSickness- Brainreceivingconflictinginformationabout theorientationof thebody. Canbeexacerbatedbystressor anxiety.■ Potentiallyaffectseveryonefromtimetotime.■ Avoidturbulence, keepshort lessons, get freshair, etc.■ Canbeovercomewithtime.○ CarbonMonoxidePoisoning- Oftencausedbyexhaust leaks, etc.■ CausesHypemicHypoxia, andpotentiallyleadstoconfusionor lossof consciousness.■ Extremelydangerousandmust beavoided. If suspected, openwindowsor ventsto
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)8
+get freshair.● CODetectorsareinstalledinsomeaircraft. COisodorlessandcolorless, soverydifficult todetect! Monitor it periodicallyduringflight!
+■ Smokersalsoexperiencesomeeffects. (Smokingcancreatetheeffect of beingat 8,000feet)○ FatigueandStress- Increaseddemandsonthebody. Causesother healthproblems, poorpilot performance.■ AcuteStress- Short-termstress, e.g. “fight or flight”. Physical (heat, pressure, etc.),physiological (thirst, illness, etc.), psychological (anxiety, etc.) incause. Curedbyalleviatingtheunderlyingcause.■ AcuteFatigue- Tirednessafter aperiodof short termphysical or mental exertion, etc.Normallycuredbyrest.■ ChronicFatigue- Reducesabilitytoflysafely. Causedbyinsufficient recoverytimefromperiodsof acutefatigue.● AirlinesPilots- Require10hoursof rest (8hoursfor sleep) andmaxof 30hoursper week(8hoursper daywithout arest period)● Airlinesalsoconduct fatigueeducationandawarenesstrainingfor flight crewanddispatchers.● Reducedspeedandaccuracyof performance, lapsesof attention, delayedreactions, impairedreasoninganddecision-making, poor riskevaluation, reducedsituational awareness, lowmotivationtoperformoptional activities.○ Heavyfatigueismoredebilitatingthan3alcoholicdrinks● ToReduceFatigue○ Get plentyof sleep, exercise, drinkwater (coffee, sodaisonlytemporary),shift positioninseat or walkaroundif able, napincrewrest if possible■ ChronicStress- Relationship, school/workproblems, etc● Causesperformanceissues, pilot shouldgroundthemselvestill it isdealtwith.○ Dehydration- Critical lackof water inthebody. Oftencausedbyhot, unventilatedcockpits, etc.■ Symptomsincludeheadache, fatigue, cramps, sleepiness, anddizziness.■ Drinkmorewater!○ ExcessNitrogenSaturation/ ScubaDivers- Causedbyincreasedpartial pressureofnitrogenincompressedair. Breathingcompressedair duringdivescausesthebloodandbodytoabsorbhigher thannormal amountsof nitrogen. Wheninanunpressurizedairplane, or evenapressurizedairplanecabin, thelower pressurecausesthenitrogentoformbubblesandtrytoescapefrombodilyfluids.■ Thiscanbedangerousor evenfatal toanybodyaffected!■ Must allowtimetodecompress(12-24hours) dependingonthedepthof thedive, andwhether it requireddecompressionstops!
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)9
+● DrugsandAlcohol - §91.17○ RulesandRegulations■ Cannot act asacrewmember when● Within8hoursof drinking● BAC>0.04● Whileunder theInfluence■ Cannot allowanyonewhoappearsintoxicatedonboard○ RelationshiptoFlight Safety- Flyingunder theinfluenceisnever safeandcreatedisastrousresults!● CognitiveandPsychological Factors- Asidefromphysiological factors, cognitiveandpsychologicalfactorsalsogreatlyaffect theoutcomeof anyflight. Distractions, biases, andhazardousattitudescanall addrisktoanyflight.○ Aeronautical DecisionMaking(ADM) andSinglePilot ResourceManagement (SRM) helpspilotsmaintainamarginof safetybygivingastructuredframeworktomakedecisions, andavoidingunnecessaryrisk.■ TaskPrioritization- Especiallyinthecaseof SRM, it isvital that pilotsdividetheirattentionappropriately, meaningthat urgent itemsarepaidmoreattention. Theoldadageof “Aviate, Navigate, Communicate” isagreat basisfor makingsuchprioritizationdecisions.● Whendealingwithcomplexavionics, thereisadditionallyahigher susceptibilitytodistraction…gettinglost inmenusandbuttonologyisaseriousproblem.Alwaysdivideattentionwhenperformingthesetasks!■ D-E-C-I-D-EModel - Simpleandlogical decisionmakingprocess● Detect - Seeaproblem● Estimate- Determinewhether actionneedstobetaken● Choose- Chooseacourseof action● Identify- Identifystepstoachievecourseof action● Do- Implement thesteps● Evaluate- Evaluatetheperformance■ PAVE- Dividesrisksintocategories● Pilot - Riskfactorsaffectingpilot performance, health(IMSAFE), etc.● Aircraft - Riskfactorsaffectingtheairplane, maintenance, etc.● enVironment - Riskfactorsrelatingtoweather, unfamiliar airports, etc.● External Pressures- Riskfactorsrelatingtoexternal pressures, e.g.get-there-itis■ CARE- Determinelevel of Risk● Consequences- What wouldhappen?● Alternatives- What elsecouldwedo?● Reality- Beopentorecognizingwhenthingsaregoingwrong● External Pressures- Factorswhichmayinfluenceour risktakingdecisions■ TEAM- DealingwithRisks● Transfer - Asksomeoneelse? Get help● Eliminate- Canweeliminatetherisksomehow?● Accept - Canwejust accept therisk? Isit worthit?● Mitigate- Canwedosomethingtominimizetheconsequencesor likelihoodofoccurrence?○ Distractions, Lossof Situational Awareness, andDisorientation- All pilotsaresusceptibletotheseissues. Amisbehavingsystemcapturesyour attention, anon-sterilecockpit causesaturnor radiocall tobemissed, andconfusioncanfollow, leadingtodisorientation. Pilotsmustremainvigilant duringflight andobservesterilecockpit ruleswhenappropriate. It iscrucial to
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)10
+not divert your attentionawayfromtheprimaryflight instrumentsor thetaskof navigationandcommunicationfor lengthyperiods, nomatter what theissue.■ PositiveExchangeof Controls- Absolutelycrucial for safety, therecannever beanydoubt whoisflyingtheairplane● 3-WayExchange- Best waytoexchangeflight controls, confirmsbothpartiesunderstandwhoisincontrol○ “Youhavetheflight controls”○ “I havetheflight controls”○ “Youhavetheflight controls” (Alsovisuallyconfirm)■ SterileCockpit - Important tominimizeunnecessarydiscussionduringcritical phasesofflight● PreventsRunwayIncursions- Distractionsbyunnecessarydiscussioncanleadtorunwayincursions● PreventsForgettingCritical Items- Pilotscanforget checklistsor criticalchecklist items■ Useof Distractions- Student pilotsshouldbeevaluatedbytheinstructor creatingdeliberatedistractions● EnsureAbilitytoMultitask- Ensuresthat thestudent candivideattentionbetweenflyingandother tasks● Examples○ Dropapencil, Askfor aheadingtoanairport, Askstudent toidentifygroundobjects, etc.○ ConfirmationandExpectationBias- Manyaccidentsarecausedbecausepilotsexpectedtoseesomething, or allowedtheir biasesto‘color’ what theywereseeingtoconfirmsomethingtheyalreadybelievedtobetrue.■ E.g. Apilot islookingfor anaircraft reportingonCTAFasbeingonshort final, but theyseeanaircraft abit further out. Theybelievethisisthesameaircraft, eventhoughit wasadifferent aircraft onamuchfurther out final approach. Theyturnbaseearly, cuttingofftheoriginal aircraft, andcreatingapotential mid-air collision.○ TheFiveHazardousAttitudes- Theseattitudesareassociatedwithbad, andoftendangerous,outcomes. Pilotsmust bevigilant inpolicingtheir ownmindset toavoidfallingpreytothese!
+■ Anti-Authority- “Don’t tell me!”
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_a_-_human_factors.pdf>>>
+========================================
+
+PPL(I-H) / CAX(I-H) / CFI (II-A) / CFII (II-B) / IFR(I-A)11
+■ Impulsivity- “Doit quickly”■ Invulnerability- “It won’t happentome”■ Resignation- “What’stheuse?”■ Macho- “I candoit”○ AntidotesToHazardousAttitudes
+■ Anti-Authority- Followtherules, theyaretherefor areason.■ Impulsivity- Not sofast, think.■ Invulnerability- It canhappentoyou.■ Resignation- I amnot helpless, I canmakeadifference.■ Macho- Takingchancesisfoolish.
+Preparedby: RyanBinns(ryancbinns.com/flying), March2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder

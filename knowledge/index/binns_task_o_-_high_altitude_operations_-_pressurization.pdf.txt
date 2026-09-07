@@ -1,0 +1,57 @@
+DOCUMENT_TITLE: binns_task_o_-_high_altitude_operations_-_pressurization
+SOURCE_FILE: binns_task_o_-_high_altitude_operations_-_pressurization.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_o_-_high_altitude_operations_-_pressurization.pdf>>>
+========================================
+
+CAX(VIII-A/B) / CFI (II-O)1
+HighAltitudeOperations- Pressurization
+Objective
+Toensuretheapplicantlearnsthephysiologicaldangersofhighaltitudeflightandintroducesaircraftpressurizationsystems,aswellastheirfailuremodes.
+Purpose
+Flyinghigherincreasesaircraftperformance,butwithoutproperprecautions,itcanbedangerous. Higher-performanceaircraftarefrequentlypressurizedtoallowoperationatthesehigheraltitudeswithoutthediscomfortorinconvenienceofpersonaloxygendevices,howeverthesesystemscanbecomplex. Thislessonintroducespilotstothedangersofhypoxia,aircraftpressurizationsystems,andtheirfailuremodes.
+Schedule Equipment
+● GroundLesson:15minutes● Student Q&A:10minutes
+● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● Dangersofhypoxiaandhyperventilation,effectsonvision● Regulatoryrequirementsforuseofsupplementaloxygen● Thetypesofoxygensystemscommonlyused● Thebasicconceptofoperationforpressurizedaircraftandthedangersofrapidcabindecompression
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_o_-_high_altitude_operations_-_pressurization.pdf>>>
+========================================
+
+CAX(VIII-A/B) / CFI (II-O)2
+References
+● DavidMoran-“HighAltitudeHypoxiaFlightTraining”○ YouTube-https://www.youtube.com/watch?v=CptmVSXnEfc● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter7,Page34-37[PressurizedAircraft],Chapter17,Page3-5[Hypoxia/Hyperventilation]● FAA-S-ACS-7B(CommercialPilotACS)-AreaVIIITaskB● FAA-S-ACS-25(CFIACS)-AreaIITaskO
+GroundLessonOutline
+● HazardsofHighAltitudeFlight○ Hypoxia-Similartodrunkenness,confusion,etc. Canleadtolossofconsciousness.■ HypoxicHypoxia-Notenoughoxygenpartialpressure,causedbyhighaltitude■ HypemicHypoxia-Bloodcan’tbindoxygen,usuallyCOpoisoning■ HistoxicHypoxia-Cellscan’tuseoxygen,usuallydrugs/alcohol■ TimeofUsefulConsciousness- Seesupplement○ VisionImpairment-Especiallyatnight,over5,000feetMSL.● PressurizedAircraft○ Concept-Pressurizedairsource,Outflowvalve,maxcabinpressuredifferential■ Seesupplement○ Operation-CabinAltitude,CabinClimbRate○ RegulatoryRequirements-§91.211(b)■ AboveFL250-Atleasta10-minutesupplyofsupplementaloxygenforeachoccupant■ AboveFL350-Onepilotatthecontrolsoftheairplaneiswearingandusinganoxygenmaskthatissecuredandsealedandthateithersuppliesoxygenatalltimesorautomaticallysuppliesoxygenwheneverthecabinpressurealtitudeoftheairplaneexceeds14,000feet(MSL).● Except,whilebelowFL450iftherearetwopilotsatthecontrolsandeachpilothasaquick-donningtypeofoxygenmaskthatcanbeplacedonthefacewithonehandfromthereadypositionwithin5seconds.○ RisksUniquetoPressurizedAircraft■ Slowpressurizationfailure● Canoccurslowly,mustmonitorpressurizationsystems● Manyfamousexamplesofthis:PayneStewart,HeliosAirwaysFlight522■○ DangersofRapidDecompression■ Potentialforstructuraldamage,etc.■ Solutions● Requiresemergencyoxygenandrapiddecreaseinaltitude(SeeTimeofUsefulConsciousness)
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_o_-_high_altitude_operations_-_pressurization.pdf>>>
+========================================
+
+CAX(VIII-A/B) / CFI (II-O)3
+GroundLessonSupplement
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_o_-_high_altitude_operations_-_pressurization.pdf>>>
+========================================
+
+CAX(VIII-A/B) / CFI (II-O)4
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder

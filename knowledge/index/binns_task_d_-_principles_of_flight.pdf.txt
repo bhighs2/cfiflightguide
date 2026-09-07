@@ -1,0 +1,241 @@
+DOCUMENT_TITLE: binns_task_d_-_principles_of_flight
+SOURCE_FILE: binns_task_d_-_principles_of_flight.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)1
+Principlesof Flight (BasicAerodynamics)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofbasicaerodynamicsandthevariousfactorswhichaffectairplanestabilityandcontrollability.
+Purpose
+Abasicunderstandingofaerodynamicsandairplanestabilityandcontrollabilityisessentialforeverypilot. Whenflying,pilotsneedtounderstandthefourforcesactingonanairplane,whyawingstalls,whyrightrudderisneededinaclimb,andhowthecenterofgravityaffectscontrollabilityandmaneuverability. Thislessoninbasicaerodynamicswillintroducepilotstothefourforces,airfoils,lift,stalls,left-turningtendencies,loadfactors,stabilityandmanyotherimportantconceptsthatarefundamentaltootheraspectsofflying.
+Schedule Equipment
+● GroundLesson:1hour● Student Q&A:15minutes
+● Whiteboard/Markers(optional)● ModelAirplane(optional)● WindTunnelApponTablet(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplain:○ TheFourForces○ Angleofattack,andhowairfoilsproducelift○ Whywingsstall○ Theleft-turningtendencies○ StabilityandtheimpactofCenterofGravity○ LoadFactor○ WakeTurbulenceandWakeTurbulenceAvoidance
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)2
+References
+● FederalAviationAdministration-“HowAirplanesFly-16mmTrainingFilm(1968)”○ YouTube-https://www.youtube.com/watch?v=CgIDjLhPhcE● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page3-5[Lift],Chapter5,Page5[Lift/DragRatio],Chapter5,Page6-8[Drag],Chapter5,Page8-10[WingtipVortices],Chapter5,Page14-15[StaticandDynamicStability],Chapter5,Page15-17[LongitudinalStability],Chapter5,Page17-19[LateralStability],Chapter5,Page19-20[DirectionalStability],Chapter5,Page25-26[Stalls],Chapter5,Page30-33[LeftTurningTendencies]● FAA-S-ACS-25(CFIACS)-AreaIITaskD
+GroundLessonOutline
+● TheFourForces○ Weight,Lift,Thrust,Drag○ HowAirplanesClimb● Airfoils○ EvenaBarnDoorCanFly■ Creatingliftcreatesdrag■ Anymovingobjectcreatesdrag-Parasitedrag:Formdrag,interferencedrag,skinfrictiondrag○ AirfoilDesignFeatures■ LeadingEdge,TrailingEdge■ Chord,Camber,Thickness,Span/AspectRatio○ AngleofAttack■ Onlythingthatcreateslift● HowAirfoilsProduceLift○ AirisaFluid■ Hasmass,thereforemomentum■ Haspressure,cantransfermomentumtonearbyair/objects○ BasicFactsaboutLiftProduction■ AngleofAttack,PressureDifferential,Circulation○ OtherFacts■ Bernoulli’sPrinciple,EqualTransitTimeFallacy,ActionataDistance,AirfoilsCanBeAnyShape,CreatingLiftCreatesWingtipVortices● Stalls○ Criticalangleofattack○ Flapsaffectcamber,delaystall● StaticandDynamicStability● ManeuverabilityandControllability● LongitudinalStability○ CenterofLift,CenterofMass,NaturalTendencyforstallrecovery● LateralStability(Roll)● DirectionalStability● LeftTurningTendencies○ Torquereaction,SpiralingSlipstream,‘P-Factor’,GyroscopicPrecession● BankAngleandLoadFactor○ Normal,UtilityCategory,LimitLoadFactor,UltimateLoadFactor○ Vne○ VgDiagram,FlightEnvelope● WakeTurbulence○ Causedbywingtipvortices,Sinks,expands,moveswithwind,Starts,stopswithproductionoflift○ Avoidancestrategies● FurtherReading-LiftandAirfoils(expanded)
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)3
+GroundLessonContent
+● TheFour Forces-Airplanesinstraightandlevelflightaresubjectto4basicforces:○ Weight- Weightisthedownwardforceprovidedbygravity. Asanairplanesitsstationaryontheground,theonlyforceactingonitisgravity.○ Lift- Liftistheupwardforceprovidedbythewing. Asairflowsoverandaroundthewing,itisredirecteddownward,providinganupwardforcewhichduringflightbalancesthedownwardforceofgravity.○ Thrust- Thrustistheforwardforceprovidedbytheengine. Airplanesmustmoveforwardtogeneratelift,andthismovementisprovidedbyenginethrust.○ Drag- Dragistherearwardforceofairresistance,whichopposesthrust. Mostpilotsarealreadyfamiliarwithairresistance…holdingahandoutofthewindowofamovingcarisasimpledemonstrationofdrag.
+● HowAirplanesClimb-Aircraftdonotnecessarilyneedtohaveanengine. Glidersarequitepopularandworkperfectlywellwithoutanengine,demonstratingthatairplanescanflyforextendedperiodsoftimewithoutanyenginepoweratall. However,withoutanengine,itisverydifficultorimpossibletoclimb. Whilegliderscanmanagethisbyusingtheenergyofrisingair, conventional poweredairplanesareconsiderablylessefficient andcanonlysustainaclimbbyusingenginepower.○ ClimbsRequirePower-Itisacommonmisconceptionthatsimply‘pullingback’ontheflightcontrolsisallthatisneededforanairplanetoclimb. Whilethatwillproduceabriefclimb,climbsalmost alwaysrequireanincreaseinenginepower ascomparedtolevel flight.○ Putanotherway,airplanescanonlysustainaclimbwhenthepoweravailableisgreaterthanthepowerrequiredtomaintainlevelflight. Ifthereismorepoweravailable(ifthethrottlecanbeincreased),theairplanecanclimb.○ ForcesinClimbs-Duringunacceleratedflight,suchasduringstraightandlevelflight,thefourforcesactingonanairplaneareinequilibrium. (Iftheforceswerenotequal,theairplanewouldexperienceanaccelerationinsomedirection--up,down,forward,back)○ Whenanairplaneinitiatesaclimb, it pitchesup, anddirectsitsthrust inaslightlyupwarddirection. Thisinitiallycausesanacceleration(upwards),andtheairplanebeginstoascend.Oncetheairplanestabilizesintheclimb,itisnowmovingupwards(climbing),butitisnolongeracceleratingupwards(ithasastableverticalrateofclimb). Ithasagainreturnedtotheforcesbeinginequilibrium.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)4
+○ ClimbSpeeds-Becauseairplanesclimbduetoexcesspower,itisimportanttorealizethattheamountofexcesspoweranairplanehasisalsodependentontheairspeed. Airplanemanufacturerscalculatethespeedsthatproducethebestratesofclimb,andsotypicallypilotsaimtomaintainaparticularairspeedinaclimb. Generally, thesteeper theclimb, thelowertheairspeed. However, thereisaspeedbelowwhichtheclimbrateactuallyslows. (SeethelessononSlowFlight)
+● Airfoils-Airfoilsareanothernamefor wings,butgenerallyrefertoanyaerodynamicsurfacewhichismeanttoproducelift. Airfoilshaveanumberofdesigncharacteristicswhichcontributetotheirabilitytoproducelift,andmakethemmoreidealforliftproductionthanotherless-optimizedshapes.○ EvenaBarnDoor CanFly-Althoughairfoilsaregoodatproducinglift,nearlyanyflatormostlyflatsurfacewhenexposedtomovingair(therelativewind)willproducesomelift. Thethingthatairfoilsexcelatisthat theycanproducerelativelylargeamountsof lift withlimiteddrag.■ CreatingLift CreatesDrag-Liftalwaysactsperpendiculartothechordline,whichmeansthatsomeoftheliftpointsbackwards,opposingtheairfoil’soverallmotion.Thereisnowaytocreateliftwithoutcreatingdrag. Thisdragiscalledinduceddrag.■ AnyMovingObject CreatesDrag-Allobjectswhichmovethroughtheaircreatedrag,eventhosethatcreatenolift. Thedragthatiscreatedunrelatedtotheproductionofliftiscalledparasitedrag,andisalwayspresent. Parasitedragvarieswiththesquareofthespeedoftheobject. Therearethreetypesofparasitedrag:● FormDrag-Dragcreatedbytheshapeoftheobject.● InterferenceDrag-Dragcreatedwhenthedisturbedairfromtwodifferentfeaturesinteractswithoneanother,creatingmoredrag.● SkinFrictionDrag-Dragcreatedbyfrictionbetweentheairandthesurfaceoftheobject.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)5
+○ Airfoil DesignFeatures-Airfoilsallgenerallysharethesamecharacteristics,andusethosecharacteristicstovaryingdegreestoachievetheirdesigngoals.
+■ LeadingEdge-Mostairfoilshavearoundedleadingedgewhichtheoncomingaircanmovesmoothlyaround.■ TrailingEdge-Mostairfoilshaveaverypointed,sharptrailingedge,behindwhichthetwoairstreams(aboveandbelowthewing)canrejoinsmoothly.■ Chord-Theimaginarylinethatconnectsfromtheleadingedgeofthewingtothetrailingedge,andisusuallydiscussedintermsof chordlength. Generally,alongerchordlengthproducesmorelift.■ Camber-Thecurvatureoftheairfoil. Generally,theuppersurfaceofanairfoilismorecurvedthanthelowersurface, however thisisnot required. Airfoilswithmorecambergenerallystallathigheranglesofattack.■ Thickness-Thethicknessoftheairfoilitself. Thickwingshavedifferentflightcharacteristicsthanthinwings.■ Span-Thelengthofthewings. Longerwingspansproducemorelift. Themostimportantvalueisusuallytheaspect ratio,whichistheratioofthespantothechord.○ Angleof Attack-Onepropertyallairfoilsshareisthat theyonlyproducelift whenflyingat anon-zeroangleof attack. Theangleof attackistheanglebetweenthechordlineandtherelativewind. Generally,thegreatertheangleofattack,themorelift(anddrag)isproduced,uptoapoint.
+● HowAirfoilsProduceLift-Therearemanymisconceptions,myths,andincompleteexplanationsabouthowairfoilsproducelift. Therealunderlyingmechanismsarecomplicatedandgenerallyrequireanadvancedunderstandingofphysics.○ Air isaFluid-Inordertounderstandhowairfoilscreatelift,itiscrucialtounderstandthat air isafluid. Likeanyotherfluid,ithassomeproperties:■ Mass-Airhasmass,andthereforewhenit isinmotionit hasmomentum. Likeallmovingobjects,becauseofNewton’slaws,itwillnotchangedirectionwithoutbeingactedonbyanotherforce.■ Pressure-Airhaspressure,whichisafancywayofsaying,individualmoleculescollideagainsteachotherconstantly,andsoair moleculescantransfer momentumtotheirneighborsor other surroundings.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)6
+○ BasicFactsAbout Lift Production-Therearesomebasicfactsaboutairfoilsthatcanbestatedwhichavoidtheincorrectexplanations:■ Airfoilsproducelift byflyingat anangleof attack.■ Airfoilsproducelift bycreatingapressuredifferential.■ Airfoilsproducelift bycreatingacirculationwhichredirectsair downward,transferringmomentumtotheair.○ Theabovefactsarenot“alittleofA,alittleofB,alittleofC”. Theseareallpartofthesameunderlyingphysicalmechanism. Oneisnot moretruethantheothers.○ Afewotherbasicfactsareworthmentioning:■ Bernoulli’sPrinciple-Airfoilstemporarilyaccelerateairabovethemanddecelerateairbelowthem. Bernoulli’sPrinciplestatesthatairwhichismovingfasterwillhavelowerpressure,andairwhichismovingslowerwillhavehigherpressure.
+■ Equal Transit TimeFallacy-Thereisacommonmythregardingliftthattheairovertheuppersurfaceofanairfoil(theupper air parcel)mustmeettheairtravelingunderneaththeairfoil(thelower air parcel)atthesametimeatthetrailingedge. Thisisfalse. Infact, thisisonlytrueof airfoilsflyingat 0angleof attack, whichareproducingnolift! Alllift-producingsurfacesactuallyacceleratetheupperairsuchthatitarrivesatthetrailingedgewell beforethelowerair. Inreality,themomentumhasbeentransferredto
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)7
+theairfoil,meaningthattheupperandlowerairparcelswillnevermeetagain! (Thelower air parcel will never catchuptotheupper air parcel)
+■ Actionat aDistance-Wingsaffectairthatisnotevendirectlyincontactwiththem,generallyuptoonewingspanaway. Thecirculationcreatedbyanairfoilcreatessignificant upwashinfrontoftheairfoilandsignificant downwashbehindtheairfoil.
+■ AirfoilsCanBeAnyShape-Asstatedbefore,evenabarndoororflatplatewillcreatelift(attheexpenseofasignificantamountofdrag). Considerabalsawoodairplaneglidesfairlywellforhavingwingswhicharebasicallyflatplates.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)8
+■ ProducingLift CreatesWingtipVortices-Whenairfoilscreateliftbyinducingcirculation,thereisavortex(areaofspiralmovement)thatrotatesaroundtheairfoil,alongthespan(aroundtheairfoilasseenfromtheside,alsocalledspanwisecirculation). Becauseairfoilscannothaveaninfinitespan,eventuallythevortexmeetstheedgeofthewing,andspillsoverintotheundisturbedairaroundtheairfoil. Theoverallmotionoftheairinthewakeoftheairfoilisdownwards,relativetothesurroundingair. Thiscausesapair of vortexestotrail behindtheairfoil, fromthetips. Thesevortexesrotateoppositetoeachother,andgenerallymoveslowlyoutwardsanddownwards.
+● Stalls-Anaerodynamicstalliswhathappenswhenawing‘stopsflying’. Recallthatwingsonlyproduceliftwhentheyareflyingatanangleofattack. Astheangleofattackincreases,wingsproduceincreasingamountsoflift. Asthewingmovesatalowangleofattack,theairmovingoveritsupwardsurfacemovesasasmoothflow,whichisattached(tendstofollowthecontoursofthewing). Airflowatlowanglesofattackgeneratesrelativelylittledrag. Astheangleofattackincreases,theflowbecomesmoreturbulent,andatsomepoint,theairflowingoverthewing’suppersurfacecannotremainattached,andbecomesveryturbulent. Atthispoint,theliftproducedbythewingdropsdramatically,withacorrespondingdramaticincreaseindrag. Theangleatwhichtheliftisatmaximum,beforedecreasingrapidly,iscalledthecritical angleof attack. Onceawingexceedsthecriticalangleofattack,itissaidtobestalled. (It‘stopsflying’) Animportant propertyof wingsisthat theyalwaysstall at thesamecritical angleof attack, regardlessof airspeed!
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)9
+○ Belowisanairfoilinthenormal(lowangleofattack),highlift(highangleofattack),andstalledcondition,alongwiththecorrespondingangleofattackvsliftgraph:
+○ Althoughagivenwingalwaysstallsatthesameangleofattack,mostairplaneshavewingsthatcanactuallychangetheirdesigntosomeextent. Theadditionof flapschangestheaerodynamicsofawingbylengtheningthechordlineandchangingtheoverallcurvatureofthewing(calledcamber). Inmostcases,flapsaddmorelift,butsignificantlymoredrag. Becauseoftheincreasedcamber,flapsallowairplanestoproducemoreliftforagivenangleofattack.However, flapsgenerallydecreasethecritical angleof attackat whichthewingstalls.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)10
+○ Awingwhichisstalledisnowproducingverylittleliftrelativetothedragitisproducing. Ithas‘stoppedflying’. Theonlywaytorecover fromthestall andtoget thewingflyingagainistoreducetheangleof attack!
+● StaticandDynamicStability-Anairplane’sflightcharacteristicscanbedescribedintermsof staticstabilityanddynamicstability.○ Staticstabilityreferstothetendencyofanairplanetoreturntoitsoriginalflightattitudewhenitisdisturbed. Anairplanethathaspositivestaticstabilitytendstoreturntoitsoriginalattitude.Anairplanewhichhasneutral staticstabilitytendstostayinthenewattitude,andanairplanewithnegativestaticstabilitytendstomovefurtherawayfromtheoriginalattitude.○ Dynamicstabilityreferstothetendencyofanairplane, over time,tooscillate. Nearlyallairplanesundergooscillations,wheretheairplanemaygentlychangeattitudeinarepeated,cyclicalfashion. Iftheseoscillationstendtobecomegreaterovertime(calledadivergentoscillation),theairplaneissaidtohavenegativedynamicstability. Iftheoscillationsbecomelesserovertime(calledadampedoscillation),theairplanehaspositivedynamicstability.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)11
+● ManeuverabilityandControllability-Airplaneshavetwopropertieswhichareprimarilyaffectedbystability: maneuverabilityandcontrollability.○ Maneuverabilityistheabilityfortheairplanetoeasilyperformthemaneuverscommandedbythepilot,andtowithstandthestressesofthemaneuvers. Airplaneswhicharemorestabletendtobelessmaneuverable. (Theymayrequiremoreefforttomaneuverandrespondmoreslowly)○ Controllabilityistheabilityofanairplanetoremainundercontrolandrespondcorrectlytopilotinputs. Airplaneswhichhavepositivestabilitytendtobehighlycontrollable,andairplaneswithnegativestabilitymaybeuncontrollableinmanysituations. Divergentoscillationsmayleadtorapidlossofcontrol.
+● Longitudinal StabilityandStall Recovery- Longitudinal stabilityreferstoanairplane’sstabilityinpitch. Mostairplanesarestableinpitch,andhaveagentleup-downpitchoscillationovertime. Themostimportantfactorinlongitudinalstabilityisthelocationofthecenterofgravityrelativetothecenteroflift.○ Center of GravityandCenter of Lift-Whenconventionallydesignedairplanesfly,thecenterofgravityisalwaysinfront ofthecenteroflift.Youcanthinkofthecenterofliftasasortofpivotpointinaseesaw. Becausethehorizontalstabilizerisfarbehindthecenteroflift,itproducesdownwardforce(essentiallylift,butdownward)tokeepthenoseoftheairplanelevel. Thisdownwardforceopposestheupwardforceofthemainwing,requiringittoproduceslightlymorelifttocompensate. Also,becauseanyairfoilthatproducesliftalsoproducesdrag,theamountofdragcausedbythehorizontalstabilizerdependsontheforceitmustproduce.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)12
+■ Whenthecenterofgravityisfurtherforward,thehorizontalstabilizermustproducemoredownwardforcetoraisethenose,whichaddstotheloadsplacedontheCenterofLiftpivotpoint(themainwing).
+○ Airplanesaredesignedsothattheyhaveanaturaltendencytorecoverfromastall. Awell-designedairplane’sCenter of Gravityisalwaysforwardof theCenter of Lift.
+○ Thisdesigncausesanaturaltendencyfortheairplanetonosedown,reducingtheangleofattack. Tocounteractthis,thehorizontalstabilizerandelevatorsurfacesofanairplanearedesignedtoproduceadownwardforce,which‘holdsup’theheaviernoseareabypivotingtheairplanearoundtheCenterofLift. Whenanairplanestalls, if theelevator pressureisrelaxed, theCenter of Gravitywill fall naturally.○ AstheCenterofGravitymovesclosertotheCenterofLift,thenaturalnose-downstall-recoverytendencyisweakened,anditrequireslessdownwardforcebythetailtomovethenoseupordown. Inthisconfiguration, relativelysmall movementsof theelevator cancauselarge,rapidchangesinpitch. WhenanairplaneCenterofGravityistooclosetotheCenterofLift,orevenbehindit,averydangeroussituationexistswherethereisnonaturaltendencytorecoverfromastall. Infact, if theCenter of Gravityistoofar rearward(aft), theairplanemaybeuncontrollableinpitchandastall maybeunrecoverable! Thissituationiscalledlongitudinal instability.
+● Lateral Stability- Lateral stabilityisstabilityinroll. Mostairplaneshavefairlygoodlateralstabilitybecausetheyaredesignedwithdihedral,whichmeansthewingsareinclinedslightlywithrespecttoeachother. Duringturns,astheairplanebeginstosideslip,thelowerwingwillexperienceaslightlyhigherangleofattack,whichwilltendtorollitbacktowardsstraightandlevelflight.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)13
+● Directional Stability- Directional stabilityisstabilityinyaw. Airplaneyawislargelycontrolledbytheverticaltailsurface,andtoalesserextent,thefuselageitself. Duetothelargedistancefromthecenterofgravity,thetailsurfaceisveryeffectiveatmaintainingdirectionalstability. WhentheCGmovesrearwards, towardsthetail, thetail surfaceislesseffectiveanddirectional stabilityisreduced.
+● Left-TurningTendencies-Airplaneswithconventional clockwiserotatingpropellersduringflightaresubjecttoafewphysicalphenomenonthatresultinanaturaltendencyfortheairplanetoturnleft:
+○ TorqueReaction-Astheengineturnsthepropellertomovetheair,Newton’slawsofmotionrequireanequalandoppositereaction. Inparticular,asthepropellerturnsclockwise(fromthepilot’spointofview), theairplanewantstorotate(bank) oppositethepropeller rotation, totheleft. Inordertocounteractthis,airplanesaregenerallydesignedsothattheleftwingmakesslightlymoreliftthantherightwing(whichalso
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)14
+producesslightlymoredrag),butthesedesignfeaturesaretunedforcruisingflight. Athigherpowersettings,thiswillproduceanoticeableleft-turningtendency.
+○ SpiralingSlipstream-Astheairflowmovesthroughthepropellerandaroundthefuselage,wings,andcontrolsurfaces,itisspinning. Thespinningpropellerimpartsaconsiderablespiralingmotiontotheslipstream,andbecausethevertical tail surfaceextendsonlyabove,andnot below, thespiralingslipstreampushesthetail slightlyright, leadingtoleftyaw.■ Note:Thespiralingslipstreamalsoinducesaslight right rollingforce,howeverthisisnegligiblebecauseitisappliedveryclosetothecenterofgravity. Theverticaltailismuchfurtherfromthecenterofgravityandsothesameforceonitproducesamuchmorepronouncedeffect.
+○ P-Factor-Astheairplanebitesintotheoncomingair,itisimportanttorealizethatitisjustarotatingwing,andithasanangleofattackjustasanyotherwing. However,becausetheengineismountedinafixedorientationrelativetotheairplane,whentheairplaneitselfisflyingatahighangleofattack,theangleofattackofthedescendingbladeisconsiderablydifferent(higher)thantheascendingblade. Thisproducesmorethrustontheright sideof thepropeller disc, andpushesthenosetotheleft.
+○ GyroscopicPrecession-Anairplane’sspinningpropellerhasasignificantamountofmass,andduetothisbehaveslikeagyroscope. Gyroscopeshavearatherunusualproperty,calledgyroscopicprecession,thatwhenaforceisappliedtothem,theforceisactuallyfeltasifitwereapplied90degreesaheadinthedirectionof rotation. Becauseconventionalairplanepropellersspinclockwise(fromthepilot’sperspective), adownwardpitchingmotioncausesaleft yaw,andanupwardpitchingmotioncausesaright yaw.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)15
+● BankAngleandLoadFactor-Asanairplaneturns,itsweightremainsthesame,andthereforetheupwardcomponentofliftmustremainequaltoitsweight. Duringaturn,someoftheliftmustbedirectedtowardsthecenteroftheturn,reducingtheupwardcomponentoflift. Ifnopilotcorrectionswereapplied,theairplanewouldnotproduceanymorethanthenormal1goflift,andtheairplanewouldbegintodescend. Inordertocorrectforthelossofverticallift,andmaintainalevelaltitude,thewingmustproducemorelift,whichrequiresincreasedbackelevator pressure. Thisincreasedbackelevatorpressurewillcausethewingtoflyatahigher angleof attack,producingtheincreasedliftthatisrequired. ThiscanbefeltbythepilotasahigherthannormalG-force.○ Inordertomaintain1gofverticallift,whilealsoturning,thewingmustproducemorethan1goftotallift. Theamountoftotalliftiscalledtheloadfactor.
+○ Tomeetthedemandsofturningflightandnormalmaneuvering, airplanesmust bedesignedsuchthat theycanwithstandloadfactorsof considerablyhigher than1g. Inairplanedesign,therearetwocategories,whichdictatethemaximumpositiveandnegativeloadfactorsthatanairplanecanwithstand,whichcovermostnon-aerobaticairplanes:■ Normal Category- +3.8Gto-1.52G■ UtilityCategory- +4.4Gto-1.76G○ Thesemaximumloadfactorsarecalledthelimit loadfactor, andrepresent themaximumcertifiedloadthat theairplanecanhandleduringnormal usewithout causingstructuraldamage. Thereisanother,higherloadfactor,calledtheultimateloadfactor,whichistheloadfactoratwhichtheairplanecanbeexpectedtosufferastructuralfailure.○ MaximumSpeed-Everyairplanealsohasamaximumspeed,calledthenever exceedspeed,or Vneforshortabovewhichtheairplanemaysufferstructuraldamage.○ VgDiagramandtheFlight Envelope-TheVgdiagramgraphicallyillustratestherelationshipbetweenairspeedandloadfactor,shownbelow. TheStallSpeedwenormallyseeforouraircraft,VsorVs0
+,appliesonlyto‘unaccelerated’flight--thatis,flightat1gloadfactor. ObservefromtheVgdiagramthatastheloadfactorincreases,thestallspeedalsoincreases. Notethatthewingcanstall at anyairspeed! Iftheloadfactorishighenough,thewingwilleitherstall,
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)16
+orsufferstructuralfailure. Thenormaloperatingareawithintheloadlimitsiscalledtheflightenvelope.
+● Dangersof WakeTurbulence-Asdiscussedpreviously,whenwingsproducelift,theyproducewingtipvortices. Thisisalsocalledwaketurbulence. Thestrengthofthesevorticesstronglydependsonhowmuchliftisbeingproduced,whichmeansthatlargerairplanesproduceverylargewingtipvortices. Asmall airplanewhichencounterstheseinvisiblevortexescanroll violentlyandwithout warning.
+● Therearetwopropertieswhichpilotscanusetoavoidthem,however,thebehaviorofthevorticesispredictable:○ WingtipVorticesMoveSlowlyOutward-Theymoveoutandawayfromthewingtipsovertime.
+○ WingtipVorticesMoveSlowlyDownward-Theymoveslowlydownwardovertime,withtheoveralldownwardmovingairinthewakeofanairplane.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)17
+○ WingtipVorticesStopWhenLift Stops-Beforeanairplanerotatesontakeoffandafteranairplanelands,thewingsproducerelativelylittlelift,andthereforeverylittlewaketurbulence.
+○ WingtipVorticesAreAffectedByWind-Inamildcrosswindsituation,thedownwindvortexmovesrapidlyawayfromtherunway,butthemovementoftheupwindvortexisslowed,orstalled,anditmaylingerovertherunway.
+FurtherReading-LiftandAirfoils(Expanded)
+● Lift IsAll About Circulation-Puttingasideconventionalairfoilshapes,considertheairflowaroundaflatplate. Aflatplatewillproduceliftwhenitfliesatanangleofattackbecauseitcancreatecirculation.○ Considerhowairwouldflowaroundaflatplatewhichwasperpendiculartotheair. Airwouldsplitandflowaroundbothedges,curlingbackuponitself,likethefollowing:
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)18
+○ Obviouslyaflatplatedoesnotproduceanylift,andproducesalargeamountofdrag. Notethatthereisapointatwhichalltheairaboveflowsaroundthetopoftheplate,andalltheairbelowfollowsaroundthebottomoftheplate. Thisiscalledastagnationpoint,andtheairthereiscompletelystill,andthereisonedirectlyinthemiddleoftheplate. Therewouldalsobeastagnationpointdirectlybehindtheplate,wheretheairfromthetopandthebottomreunites.○ Now,considerhowairwouldflowpastaninclinedflatplate. Airwillstriketheplate,andjustasbefore,spillaroundtheedges. Similartotheperpendicularflatplate,thereisastagnationpointneartheleadingedge,wherealltheairtoonesidewillflowaroundtheedgeoftheplatetothetopside,andalltheairtotheothersidewillflowbelowandalongtheplate. Therewillbeanotherstagnationpointnearthetrailingedge,whereairfrombelowwillspillaroundtothebackoftheplate.Thislookslikethefollowing:
+○ Ifthisparticularairflowpatternwerepresent,theplatewouldnotcreateanylift,becausetherewouldbenocirculationinducedintheair. Becauseairisflowingaroundboththeleadingandthetrailingedgesoftheplate,thereisnonetcirculation,andsotheairinthewakeoftheplateisnotmovedrelativetoitsformerposition. Inthebelowimage,itispossibletoseethat theairover thetopandbottomof theplatecatchesuptoeachother inthewakeof theplate.Wecanalsolookathowairflowsaroundthetwostagnationpointstoseethatnonetcirculationispresentsinceairiscurlingaroundtheedgesoftheplateequally.
+○ Whilethisisonepossiblewayaircanphysicallyflowaroundaflatplate,itturnsout,however,that thisparticular configurationof airflowisunnatural. Airdoesnotreadilytendtoturn
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:binns_task_d_-_principles_of_flight.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-D)19
+sharpcornersat thetrailingedgeof anobstruction. Air tendstonaturallyassumeanairflowpatternwheretheair flowscleanlyoff thetrailingedge. Astheplatemovesthroughtheair,theairisunabletoturnthecorneratthetrailingedgerapidlyenough,andsotherearstagnationpointeventuallymovestothetrailingedge. ThisiscalledtheKuttaCondition:■ See:https://en.wikipedia.org/wiki/Kutta_condition○ WhentheKuttaConditionhasdevelopedaroundaflatplate,wecannowseethatanetcirculationhasdeveloped,whereairismovingmorearoundtheuppersurfacethanthelowersurface:
+○ Itisalsopossibletoseenowthat,becauseofthiscirculation,theairmovingovertheuppersurfaceistemporarilyacceleratedcomparedtoairalongthelowersurface,aswellasredirectedslightlydownwards. Infact,theairtravelingbeneaththesurfacewillnevercatchtheairtravelingabovethesurface. Becauseof thisdownwardturningandaccelerationof theairflow, downwardmomentumhasbeenpermanentlytransferredtotheair.
+○ Asageneralstatement,itisperhapssimplertosay,creatinglift requirescreatingcirculation,andwhencirculationispresent,theairflowabovewillalwaysbeacceleratedrelativetotheairflowbelow. If theairflowaboveisnot acceleratedrelativetotheairflowbelow, nocirculationexistsandnolift isbeingproduced.
+● IncorrectTheories○ EqualTransitTime-https://www.grc.nasa.gov/www/k-12/airplane/wrong1.html○ SkippingStone/BulletsTheory-https://www.grc.nasa.gov/www/k-12/airplane/wrong2.html○ VenturiTheory-https://www.grc.nasa.gov/www/k-12/airplane/wrong3.html● AirfoilsandAirflow(TechnicalDiscussion)-https://www.av8n.com/how/htm/airfoils.html● “Bernoullivs.Newton”-https://www.grc.nasa.gov/WWW/K-12/airplane/bernnew.html
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

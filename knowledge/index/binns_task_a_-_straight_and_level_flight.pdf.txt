@@ -1,0 +1,119 @@
+DOCUMENT_TITLE: binns_task_a_-_straight_and_level_flight
+SOURCE_FILE: binns_task_a_-_straight_and_level_flight.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)1
+Straight andLevel Flight
+Objective
+Toensuretheapplicantlearnsthepropermethodsforperformingstraightandlevelflight,aswellashasanunderstandingofthepurposeoftheflightcontrolsandthefactorsaffectingstraightandlevelflight.
+Purpose
+Straightandlevelflightisthemostfundamentalflyingmaneuver,andnearlytheentiretyofanormalflightisflownduringstraightandlevelflight. Thismaneuverintroducespilotstotheprimaryflightcontrols,pitchtrim,andthebasicsofmanagingaircraftattitude.
+Schedule Equipment
+● GroundLesson:10minutes● Flight Lessons■ Flight:20minutes- IntroductiontoManeuver■ Flight:10minutes(perlesson)- ImproveProficiency(Dual)● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeanduseoftheflightcontrolsandthefactorsaffectingstraight-and-levelflight.● Flight:Studentcanmaintainstraight-and-levelflightwithinthefollowingtolerances:● Maintainsvisualscanoutsidethecockpitwhileoccasionallyreferencingtheflightinstruments.● Trimstheairplaneappropriately.● Holdsheading+/-10degrees,altitude+/-100feet,airspeed+/-10knots.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)2
+References
+● ILearn2Fly-“StraightandLevelFlight”○ YouTube-https://www.youtube.com/watch?v=AeirV-y8wew● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page1-3[TheFourFundamentals/EffectandUseofFlightControls],Chapter3,Page5-6[IntegratedFlightInstruction],Chapter3,Page6-9[StraightandLevelFlight],Chapter3,Page10[TrimControl]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page1-8[ForcesActingonanAircraft/Thrust/Lift/Drag/Weight],Chapter5,Page12-13[AxesofanAircraft],Chapter6,Page2-8[FlightControls/Ailerons/Elevator/Rudder],Chapter6,Page10-12[TrimSystems],Chapter8,Page3-4[Altimeter],Chapter8,Page8-9[AirspeedIndicator],Chapter8,Page17-18[TurnCoordinator],Chapter8,Page18-19[AttitudeIndicator]● FAA-S-ACS-25(CFIACS)-AreaVIIITaskA
+GroundLessonOutline
+● IntroductiontotheFourFundamentals○ Straight-and-level,Turns,Climbs,andDescents○ Mostairplanesareinherentlystable○ Yaw/Pitch/Roll○ Airplanesturnbybanking● ThePrimaryFlightControls○ Ailerons,Elevator,Rudder● TheElevatorTrim○ Relievingelevatorpressure○ Trimwheel,trimtabs● ProperYokeGripandOvercontrolling○ One-handedgrip○ Controlmovementsvscontrolpressures● HowAirplanesTurn○ Airplanesturnwithbank○ Flightcontrolsaremostlyneutralinaconstantturn● MaintainingStraightandLevelFlight○ HeadingandAltitude(thealtimeter)● OutsideandInsideReferences○ Sightpicture○ Integratedflightinstruction,AttitudeIndicator,HeadingIndicator/Compass● TheFourForces○ Weight,Lift,Thrust,Drag● RelationshipofThrusttoMaintainingAltitude○ Airplanesdon’tclimbordescendwithelevatoralone○ Tachometer,listeningtotheengine
+CommonErrors
+● Failuretocross-checkandcorrectlyinterpret outsideandinstrument references.● Applicationof control movementsrather thanpressures.● Uncoordinateduseofflightcontrols.● Faultytrimprocedure.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)3
+GroundLessonContent
+● IntroductiontotheFour Fundamentals-Thefour fundamentalsofflightarestraight-and-levelflight, turns, climbs, anddescents. Everyflighttrainingcurriculumbeginswithmasteringthefirstfundamental:straight-and-levelflight.○ Mostairplanesareinherentlystable. Thegoodnewsforaspiringpilotsisthat,forthemostpart,anairplanecanbe‘flown’withouttouchingthecontrolsatall. Ofcourse,iftheairplaneistogowherethepilotwantsittogo,thepilotwillneedtocontinuouslymonitortheairplaneandmakecorrectionsusingtheflight controls.○ Straight-and-levelflightistheeasiestfundamentalbecauseitmostlycomesdowntopointingtheairplaneatwherethepilotwantstofly,andmakingverysmallcorrectionstoensurethattheairplaneismovingtowardsthedestinationandstayingattheappropriatealtitude.○ Unlikecars,whichturnonlyleftorrightintwodimensions,airplanescanmoveinthreedimensions,androtatearound3separateaxes. Theorientationoftheairplaneiscalledtheattitude. The3axesofflightare:■ Yaw- Yawisthefamiliar‘turning’leftandright. Rotatingaroundthevertical axis.■ Pitch- Pitchistheupanddownaxis. Theairplaneisrotatingaroundthelateral axis,andthenosewillbepointing‘uphill’or‘downhill’.■ Roll- Rollissomewhatuniquetoairplanes. Roll isalsooftencalledbank. Theairplaneisrotatingaroundthelongitudinalaxis. Thereisnorealsimilaritytocarsinthisdimension,butitcanbethoughtofastheairplaneleaningleftorright.
+○ Airplanesclimbanddescendinpartbyincreasingordecreasingpitch,however,somewhatunexpectedly, airplanesdonot turnbysimplychangingyaw. Airplanesturnbybankingtowardsthedirectionof theturn,whichdirectsthewingsliftforcetotheside. Theverticaltailsurfacekeepstheairplanealignedwiththedirectionoftravel,causingtheairplanetoyaw. Thisissimilartohowthefinsorfeathersonadartorarrowkeepitflyinginthedirectionitisthrown.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)4
+● ThePrimaryFlight Controls○ Airplanesarecommonlydesignedwith3primaryflightcontrols:■ Ailerons-AileronsmovetheairplanearounditsRollaxis. Theangleof roll iscalledthebankangleandpilotsusetheairplanetobankinthedirectiontheywishtoturn. Mostairplanescontroltheaileronswithayoke,whichissimilartoasteeringwheel. Turningthewheelleftorrightcausestheairplanetobankleftorright.
+■ Elevator-TheElevatormovestheairplanearounditsPitchaxis. Pilotscaninitiateaclimbordescentbypullingbackorpushingforwardontheyoke,respectively.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)5
+■ Rudder-TheRuddermovestheairplanearounditsYawaxis. Therudderisaverymysteriouscontrolformostnewpilots,becauseit isnot usedtoturntheairplane,asonemightexpect. Thesolepurposeoftherudderistoaidtheairplaneinmaintainingaproper(calledcoordinated)flightpathduringturnsmadewiththeailerons(bank).
+● TheElevator Trim-Inordertoholdthenosetheproperdistancefromthehorizonandmaintainlevelflight, newpilotsoftendiscover that it mayrequirecontinuousforwardsor backwardselevatorpressureonthecontrol yoke. Thisisnotonlyuncomfortable,italsorequirespilotstodevotemoreattentiontomaintainingstraightandlevelflightandpreventsthemfrommultitaskingeffectively. Thereisanother, secondaryflightcontrol,calledpitchtrimor elevator trim. Thesetermsareinterchangeable,andrefertoacontrolwheel (thetrimwheel) whichcanbeusedtorelievethesecontrol pressures.○ Thetrimmechanismisdifferentondifferentairplanes,butitusuallyconsistsofasmalltab,calledthetrimtabontheelevatorcontrolsurfaceitself. Thetrimtabservicesto‘rebalance’theneutralpositionoftheelevatorcontrolandhelpmaintainlowcontrolpressures.○ Thetrimtabismovedwiththetrimwheel,whichwhenrolledforwardmovesthetrimnosedown,andwhenrolledrearwards,movesthetrimnoseup.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)6
+● Proper YokeGripandOvercontrolling-Propercontroloftheairplanerequiresthatpilotsavoidovercontrolling. Unlikedrivingacar,whichrequireslargemovementsofthewheel,flyinganairplanerarelyrequireslargemovements,oralotofforceonthecontrols.○ Pilotswhogriptheyoketightlywithbothhandsoftenstrugglewithmaintainingstraightandlevelflightormakingsmoothturnsorothermaneuvers. Pilotscopingwithturbulentorbumpyconditionsoftenmakethebumpinessworsebyholdingtheyoketoofirmly.○ Inmostsituations,pilotsshouldattempttorelax,astheairplanecanbeflownmostlywithcontrol pressures, rather thancontrol movements. Aone-handed,lightgripontheyokealsofreesthepilotsotherhandformanipulatingthethrottle,oradjustingtheradios,etc.
+● HowAirplanesTurn-Althoughthegoalfornowisstraightandlevelflight,itisimportanttounderstandhowairplanesturn. Turninganairplanerequiresbankingtheairplanetowardsthedesireddirection,holdingtheairplaneinthebankuntilthedesiredturnisachieved,andthenlevelingthewingsagain.Forexample,tocompletealeftturn:
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)7
+○ Step1-Thepilotappliesleftaileroninput(turnstheyokeleft)tobeginbankingtheairplanetotheleft.○ Step2-Whenamodestbank(usually30degrees)isestablished,thepilotneutralizestheyoke.Theairplanewilltendtoremaininthebank,andbeginturning.○ Step3-Whenthedesiredturnisaccomplished,thepilotappliesrightaileroninput(turnstheyokeright)toreturntheairplanetolevelflight.● MaintainingStraight andLevel Flight-Keepingtheairplaneinstraight-and-levelflightissimple.Pilotsmustmanagetheairplanesothatitisflyinginthedesireddirection(calledheading),andmaintainingthedesiredaltitude.○ Heading-Maintainingthedesiredheadingisaccomplishedbybanking,byturningtheairplaneleft or right usingtheailerons,asdescribedabove. Headingcanbemaintainedbysimplyaimingthenoseoftheairplaneatprominentvisuallandmarks.○ Altitude-Whenestablishedinlevelflight, pilotscanmanagethealtitudewithpitch:byclimbingordescendingbypitchingup(pullingbackontheyoke),orpitchingdown(pushingforwardontheyoke).■ Unlikeheading,whichcanbejudgedvisually,itisnotusuallypossibletovisuallyestimatealtitudewithanyaccuracy. Therefore,pilotsmustuseaninstrumentcalledanaltimeter,whichreportshowhightheairplaneisabovesealevel.
+● OutsideandInsideReferences-Pilotsusebothoutside(lookingoutthewindow)andinside(lookingattheflight instruments)tomaintainaircraftattitude. It isimportant for pilotstousebothof thesereferenceswhenflyinganairplane,topreventopticalillusionsorpooroutsidevisibilityfromdisorientingthepilot. Comparingmultipleindependentsourcesofinformationaboutaircraftattitudeiscalledcross-checking. Theintegratedflight instructionmethodrecommendedbytheFAAemphasizespilotsutilizingbothoutsideandinsidereferencesfromtheverybeginningoftheirflyingcareertodevelopproperhabitsofcross-checkingthesereferences.○ Straight andLevel Sight Picture-Pilotscanvisuallyjudgetheirpitchandbankbyusingsomethingcalledasight picture. Asightpictureisjustafamiliarappearanceofthehorizonrelativetotheairplane’sinstrument panel(dashboard),andisusedtojudgetheattitude.○ Chooseareferencepoint directlyinfront of youonthenoseorinstrumentpanel. Whenflyingstraight andlevel at agivenspeed, thisreferencepoint shouldalwaysbekept at thesamedistancefromthehorizon. Lookleftandrightandnoticethatthewingtipsareonornearthehorizonbythesameamount.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)8
+○ Theinsidereferenceforpitchandbankisaninstrumentcalledtheattitudeindicator,whichisalsosometimescalledanartificial horizon.
+○○ Theattitudeindicatorisusedtobackuptheout-the-windowsightpictureforallphasesofflight:straight-and-level,climbs,turns,anddescents.
+○ Pilotsalsojudgetheirheadingbyusinganinstrumentcalledadirectional gyro,whichindicatesthecompassdirection(North,South,East,West,etc)thenoseoftheairplaneispointing.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_a_-_straight_and_level_flight.pdf>>>
+========================================
+
+PPL/ CFI (VIII-A)9
+● TheFour Forces-Airplanesinstraightandlevelflightaresubjectto4basicforces:○ Weight- Weightisthedownwardforceprovidedbygravity. Asanairplanesitsstationaryontheground,theonlyforceactingonitisgravity.○ Lift- Liftistheupwardforceprovidedbythewing. Asairflowsoverandaroundthewing,itisredirecteddownward,providinganupwardforcewhichduringflightbalancesthedownwardforceofgravity.○ Thrust- Thrustistheforwardforceprovidedbytheengine. Airplanesmustmoveforwardtogeneratelift,andthismovementisprovidedbyenginethrust.○ Drag- Dragistherearwardforceofairresistance,whichopposesthrust. Mostpilotsarealreadyfamiliarwithairresistance…holdingahandoutofthewindowofamovingcarisasimpledemonstrationofdrag.
+● Relationshipof Thrust toMaintainingAltitude-Mostnon-pilotsgenerallyunderstandthat“theenginemakestheairplanego”. Althoughpilotscanusetheelevatorcontroltoclimb,descend,orflylevel,withoutadjustingtheenginethrust,theairplanemayhaveinsufficientpowertoclimbordescendinresponsetopilotinputs.○ Whenanairplaneisflyingatgivenspeed(calledairspeed),allofthefourforcesareinequilibrium,whichmeansthat thethrust preciselyequalsthedrag. Therefore,abasictaskthatpilotsmustaccomplishtomaintainstraightandlevelflightismanagingtheenginethrust.○ Somewhatlikeacarcoastinguphillordownhill, if theairplaneisbeingheldat agivenaltitudewiththecontrol yoke, insufficient power will causetheairplanetoslowdown,andexcesspower will causetheairplanetospeedup.○ Pilotscanmanageanairplane’sthrustbyusinganotherinstrument,calledthetachometer.Similartoacar,itindicateshowmanyrevolutionsperminute(RPM)thepropellerisspinning.Highervaluesequalmorepower. Itisalsousefulforpilotstousetheirearstojudgethepowersetting. Withexperience, pilotscandeveloptheabilitytojudgewhether thepower settingistoohighor lowfromtheenginenoisealone.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

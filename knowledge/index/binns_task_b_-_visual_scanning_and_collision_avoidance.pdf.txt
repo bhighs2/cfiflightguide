@@ -1,0 +1,96 @@
+DOCUMENT_TITLE: binns_task_b_-_visual_scanning_and_collision_avoidance
+SOURCE_FILE: binns_task_b_-_visual_scanning_and_collision_avoidance.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)1
+Visual ScanningandCollisionAvoidance
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofvisualscanningandcollisionavoidanceprocedures.
+Purpose
+Althoughtheskyisabigplace,mid-aircollisionsareunfortunatelycommonoccurrences,particularlyaroundairportsorinpracticeareas. Thislessonintroducespilotstotheconceptsbehindpropervisualscanningandcollisionavoidanceprocedures,whichwillmakethemsaferpilots.
+Schedule Equipment
+● GroundLesson:15minutes● DuringFlight: Continuously● Student Q&A:5minutes
+● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● Thehumanvisualsystemanditslimitations● The“seeandavoid”concept● Propervisualscanningandclearingprocedures● Barrierstovisualscanning● Toolsforreducingcollisionrisks● Situationsthatcreateahigherriskofcollisions
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)2
+References
+● ERAUSpecialVFR-“CollisionAvoidancePrecautions”○ YouTube-https://www.youtube.com/watch?v=j3WOrhHBDMA● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter8,Page5-6[AirportTrafficPatterns/SafetyConsiderations]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter14,Page28-30[ClearingProcedures],Chapter14,Page31-33[RunwayIncursionAvoidance],Chapter17,Page19-29[VisioninFlight]● AIM-2024-03-21(AeronauticalInformationManual)-Chapter4,Section4-14[VisualSeparation],Chapter4,Section4-15[UseofVisualClearingProcedures],Chapter5,Section5-8[SeeandAvoid],Chapter5,Section5-10[TrafficAdvisories],Chapter8,Section1-6[VisioninFlight],Chapter8,Section1-8[JudgementAspectsofCollisionAvoidance]● FAAAC90-48E(Pilot’sRoleinCollisionAvoidance)● FAAAC90-66C(Non-ToweredAirportFlightOperations)● FAA-S-ACS-25(CFIACS)-AreaIITaskB
+GroundLessonOutline
+● Vision○ RelationshipofPhysicalConditionandVision○ TypesofVision-Photopic,Mesopic,Scotopic○ LimitationsofVision-Fovea/BlindSpot■ DayvsNightVision-Rods,Cones,NightBlindSpot,RelaxedIntermediateFocalDistance■ EnvironmentalConditions-Smoke,Haze,Dust,Fog○ VestibularandVisualIllusions● “SeeandAvoid”Concept○ VisualCuesofanImpendingmid-aircollision○ ProperVisualScanningProcedure-Distractions/PoorScanningHabits->IncreasedCollisionRisk○ ProperClearingProcedures○ BarriersToVisualScanning■ LimitationsofVision,AircraftBlindSpots-HighWingvsLowWing■ GlareshieldReflections,DirtyWindshields○ ToolsforReducingCollisionRisks■ Sunglasses,CrewResourceManagement(askforhelp)■ AircraftLighting-§ 91.209■ CTAF/PracticeAreaRadioCalls■ RightofWayRules-§ 91.113■ ProperNon-ToweredProcedures-§ 91.126(ClassG),§ 91.127(ClassE)■ TIS-B(ADS-BIn)■ ATCandFlightFollowing■ TrafficCalls-NosePosition(ClockSystem),BasedonGroundTrack■ SyntheticVisionSystems■ KnowingMinimumSafeAltitudes● Mid-AirCollisionRiskFactors○ Relationshipbetweenaircraftspeeddifferentialandcollisionrisk○ Situationsthatinvolvethegreatestcollisionrisk-Non-toweredairports,mostaccidentsduringdaytime!
+CommonErrors
+● Impropervisualscanningtechniques● Failuretoscanoutsidecockpit
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)3
+GroundLessonContent
+● Vision-Theprimarytoolpilotshaveforreducingtheriskofcollisionswithterrainorotheraircraftistheirvision,howeverhumanvisionhassomeimportantlimitations.○ Relationshipof Physical ConditionandVision-Visionisdependentonbeinginproperphysiologicalcondition. Fatiguecanreducevisualacuity. Oneofthemostimportantfactors,however,ishypoxia. Humanvisionissignificantlydegradedwhenathighaltitude,andat night,humanvisionissignificantlydegradedaboveonly5,000feet without supplementaloxygen.○ Typesof Vision-Thereare3typesofvision,whichareactiveindifferentlightlevels:■ Photopic-Activeinwell-litsituationsonly,bestvisualacuity,colorvision.■ Mesopic-Activeinmedium-lowlightsituations,dawk/dusk/moonlight. Mixtureofcolorandnon-colorvision. Consideredthemost dangerouslightingconditionforcollisionavoidance,acuityvaries,bothdayandnightblindspotsarepresentattimes.■ Scotopic-Usedinlow-lightsituationsonly,lowvisualacuity,nocolorvision.○ Limitationsof Vision■ Fovea-Mostofthehumanretinadoesnotsensehigh-detailimages. Thereis,however,asmallsectionatthecenterofthevisualfieldthatduringdaylight or well-lit scenesresolvesdetailquitewell. Thisareaiscalledthefovea. Thefoveacontainsbothrodsandcones,allowingittosensecoloraswellasintensity.● BlindSpot-Thereisalsoanareaforeacheyewheretheopticnerveattachestotheretinaandwheretherearenorodsandcones. Theeyeiscompletelyblindinthissectionoftheretina,howeverthehumanbraingenerally‘covers’thisdeficiencysuchthatitisdifficulttonotice. Intheimagebelow, ifoneeyeisclosedandtheother eyefocusesontheX, at acertainfocallengththeairplaneontheleft will ceasetobevisible.
+■ DayvsNight Vision-Therearetwotypesof
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)4
+cellsintheretina, rods,andcones. Conesareresponsibleforallcolorvision,buthavepoorlow-lightcapability. Rodsareextremelysensitivetolow-lightsituations,butdonotsensecolor. Duringnightsituations,onlytherodsareactive. Becausetherodsareextremelysensitive,itiseasyforthemtobeoverwhelmed. Pilotsmusttakecaretolettheireyesadapttothedark,avoidingbrightlightsources.● Night BlindSpot-Becausethefoveaispopulatedprimarilywithcones,thecenterofthevisualfieldisonlyusableduringwell-litsituations. Atnight,whenthevisionprovidedbyrodsdominates,thereiseffectivelyanight blindspot,wherethelackofrodsinthefoveacreateanareaoflow-lightblindness. Toaccountforthisdeficiency,pilotsmustuseoff-centerviewingatnight.
+■ RelaxedIntermediateFocal Distance(EmptyFieldMyopia)-Thereisanothervisualsystemlimitationcalledemptyfieldmyopia. Whenthereisnothingdefinitefortheeyestofocuson(asinhazyorfoggyconditions),theeyesnaturallyrelaxtoaveryshortfocaldistance,calledtherelaxedintermediatefocal distance(10to30feet). Thiseffectivelyeliminatesforwardvisualacuityentirely. Pilotsmustconcentrateonthesceneoutsideandforcetheireyestofocusondistantlightsourcesinordertoseeproperly.■ Environmental Conditions-Smoke,Haze,Dust,andFogalldramaticallyreducethecontrastofthevisualsceneandbycausingempty-fieldmyopia,makeitdifficulttofocusondistantobjects. Additionally,thevisualsystemreliesonhazeasasortofvisualcluefordistance,andobjectsinhazyscenesmayseemfurtherawaythantheyactuallyare.○ Vestibular andVisual Illusions-Thehumanbrainishighlydependentonthevisualandvestibularsystemsfordeterminingorientationandposition. Thesesystemsaresubjecttoseveralkindsofillusionsthatcancausespatialdisorientationandincreasetheriskofcollisionswithterrain.■ SeerelatedlessononAeromedical Factors(AreaII,TaskA).
+● “SeeandAvoid”Concept-VFRflyingprovidesanexceptionaldegreeoffreedomtopilots,butatthecostthat,sincethereisnorequirementtobeonaflightplanorbereceivingATCservices,pilotsaresolelyresponsibleforavoidingcollisionswithotheraircraftandterrain. Thisconceptisreferredtoas“seeandavoid”,anditrequirespilotstomaintainvigilanceatalltimesduringflighttopreventcollisions.○ Visual Cuesof anImpendingCollision-Unfortunately,twoaircraftonacollisioncoursewillappeartohavenorelativemotion,andthereforetheymaybehardtonotice. However,asanobjectapproachesanobserver'seye,itenlargesrapidlyinthefieldofview. Thereisevidencethathumansareabletodistinguishtherelativeexpansionrateoftheobject'simageontheretina,andapproximatethetimetocollision(TTC). Thismaysubconsciouslydrawyour
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)5
+attention,but prompt actionwill berequiredtoavoidacollision!■ See:https://jov.arvojournals.org/article.aspx?articleid=2121255○ Proper Visual ScanningProcedure-Becauseofthelimitationsinthehumanvisualsystem,namelythatvisualacuityissharpestonlyattheverycenterofthevisualfield,pilotsmustemployaprocedurethatusesbriefpausestovisuallyscansegmentsofthesky,asshownbelow. Notethatatnight,pilotsshouldintentionallylookoff-centertoavoidthenightblindspot.
+○ DistractionsandPoor Visual scanningHabits->IncreasedCollisionRisk-Failuretoadequatelyscanoutsidethecockpit(sometimesduetodistractions)createsalargeriskofamid-aircollision.○ Proper ClearingProcedures-Beforeperformingcertainmaneuvers,itiscrucialforpilotstovisuallyensurethattheareaisclearofothertrafficandobstacles.■ BeforeEnteringRunways-Beforeenteringanyrunway,evenwhenclearedbyATC,pilotsshouldvisuallyscanthefinalapproachpathat bothendsoftherunway.■ Climbs/Descents-Itmaybenecessarytomomentarilyleveloffatintervalstoscanfortraffic.■ Straight andLevel, BeforeTurns-Thenormalvisualscanshouldbeusedduringcruiseflight. Inhighwingairplanesespecially,pilotsshouldraiseawingtoensuretheareaisclearbeforebeginningaturn.■ BeforeManeuvering-Beforedoinganymaneuversorairwork,pilotsmustcleartheareabyperformingatleast290degreeturnsleftandright,whilelookingforothertraffic.■ BeforeLanding-Beforelanding,evenwhenclearedbyATC,pilotsshouldvisuallyconfirmtherunwayenvironmentisclear.○ BarriersToVisual Scanning■ Limitationsof Vision-Humanvisualsystemlimitationsdescribedabove.■ Aircraft BlindSpots- HighWingvsLowWing-Highwingairplanestendtobeblindtothesidesandabovetheairplane. Lowwingairplanesareblindtothesideandbelowtheairplane. Thiscanleadtoextremelydangeroussituations. Therehavebeenmanyaccidentsinvolvingalow-wingairplanedescendingontopofahigh-wingairplaneonasimultaneousfinalapproachatanuncontrolledairfield. Toavoidthis,pilotscanmakegentleS-turnstogainsomevisibilityaboveandbelow,andexercisingvigilanceinairporttrafficpatterns.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)6
+■ GlareshieldReflections, DirtyWindshields-Ifthewindshieldisnotproperlycleaned,reflections,dirt,andoilresiduecanmakeitdifficulttoscanproperly.○ Toolsfor ReducingCollisionRisks-Pilotshaveafewimportanttoolsforreducingcollisionrisks:■ Sunglasses, CrewResourceManagement (askfor help)-Wearsunglasses,employproperscanningprocedures,andaskpassengerstohelpscanfortraffic. (Dividethescanningresponsibilities)■ Aircraft Lighting- § 91.209-Flyingwithlandinglightsandstrobesonatalltimescanreducecollisionrisk. Flyingwithnavlightsonatnightisrequired.■ CTAF/PracticeAreaRadioCalls-Properradiocallscansupplementvisualscanningtomakeotherpilotsawareofwheretheyshouldbelooking.■ Right of WayRules- § 91.113-Obeyproperright-of-wayrules,whichcreatepredictablebehaviorthatminimizescollisionriskswhenusedproperly.■ Proper Non-ToweredProcedures- § 91.126(ClassG), § 91.127(ClassE)-Properpatternentries,andflyingproperpatterns(e.g.noright-handpatternswhennotauthorizedbyA/FDorATC)■ TIS-B(ADS-BIn)-TrafficdatafromADS-Bcangreatlyassistmaintainingsituationalawareness.■ ATCandFlight Following-UseATCservicestoassistwithtrafficavoidance.● TrafficCalls-ATCwillcallouttrafficusingtheirpositionrelativetothenose,e.g.“Traffic, 1o’clock, 1mile, 3,000feet indicated”○ Note:ATCdoesnotknowyouractualheading,andsoclockpositionsarebasedonyourgroundtrack!
+■ SyntheticVisionSystems-Syntheticvisionsystemscanhelpwithterrainavoidance.■ KnowingMinimumSafeAltitudes-Knowtheminimumsafealtitudeforeachareaandmaintainit.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_b_-_visual_scanning_and_collision_avoidance.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (II-B)7
+● Mid-Air CollisionRiskFactors○ Relationshipbetweenaircraft speeddifferential andcollisionrisk-Fastermovingairplanesconvergemuchmorerapidly,andcreateahighercollisionrisk.○ Situationsthat involvethegreatest collisionrisk-Anywheremanyairplanesareconvergingisahighriskareaforcollisions. Airporttrafficareas,particularthefinalapproachleg,aredangerousbecausemanyotherpilotscommonlyusenon-standardpatternentries. Practiceareasarealsohighlydangerous,withmanyairplanesmaneuveringinasmallareaacrossawiderangeofaltitudes.■ Thevast majorityof mid-air collisionsoccur at non-toweredairportsduringdaytime, clear conditions!
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

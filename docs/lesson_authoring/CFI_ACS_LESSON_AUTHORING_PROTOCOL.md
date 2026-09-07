@@ -51,16 +51,29 @@ Binns reference:
 
 # 2. Source Priority
 
+## Flight Guide knowledge-base rule
+
+All factual lesson content, including explanations, examples, procedures, common errors, scenarios, review answers, and completion standards, must be sourced only from the Flight Guide knowledge base. Before drafting, inspect the relevant local approved source and/or its indexed text, then write concise original prose based on that material.
+
+Do not use general model knowledge, external websites, videos, Binns prose, or user-provided materials as a factual content source unless that material has first been added to the Flight Guide knowledge base. User-provided assets, links, clips, videos, and other resources explicitly requested by the user must be retained or incorporated as supplemental material, but they do not establish factual lesson content.
+
+### Permitted instructional synthesis
+
+Key information may be concisely synthesized when it accurately combines knowledge-base material into a teachable summary. Flight Guide instructor principles, mnemonics, memory aids, and highlights may also use Flight Guide or explicitly user-provided instructional material. Clearly label these as a Flight Guide technique or memory aid when they are not FAA-defined language, and do not present them as a controlling FAA fact or source citation.
+
 Use this priority when building or verifying a lesson:
 
 1. **Current FAA CFI Airplane ACS**
 2. **FAA source documents named by the ACS Task**
 3. **Aircraft POH/AFM when aircraft-specific information is relevant**
 4. **Binns lesson for structure, coverage, and practical teaching flow**
-5. **User-provided references, screenshots, videos, techniques, and local examples**
-6. Other reliable aviation sources only when they materially improve the lesson
+5. **User-provided references, screenshots, videos, techniques, and local examples as supplemental material only**
 
 Never allow a secondary source to override the ACS or an applicable FAA/aircraft source.
+
+### Synced Binns lessons
+
+All Binns lesson PDFs stored in `knowledge/approved/` and indexed under `knowledge/index/` are Flight Guide knowledge-base sources. Review the matching indexed Binns PDF for every CFI Task, use it for practical lesson organization and coverage, and verify or reconcile its factual content with the controlling local FAA ACS and source documents. Cite the local Binns PDF with a `[[pdf: /knowledge/...]]` embed when it materially contributes to the lesson.
 
 ---
 
@@ -109,6 +122,8 @@ Inspect the actual files available under the approved knowledge source directory
 Do not infer file absence from an index or search result alone.
 
 Use actual approved filenames in lesson links.
+
+Read the relevant source passage before drafting its section. A source title or page range alone does not establish the factual content of a lesson.
 
 Examples include:
 
@@ -372,6 +387,7 @@ Prefer:
 
 - short paragraphs,
 - compact bullet lists,
+- bold emphasis for key technical terms, decision triggers, limitations, and operational consequences so the lesson scans quickly; do not bold complete paragraphs or routine connective prose,
 - clear H2/H3 hierarchy,
 - aviation examples,
 - concise procedures,

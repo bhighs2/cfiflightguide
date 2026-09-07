@@ -1,0 +1,138 @@
+DOCUMENT_TITLE: binns_task_d_-_taxiing_airport_signs_and_lighting
+SOURCE_FILE: binns_task_d_-_taxiing_airport_signs_and_lighting.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)1
+Taxiing, Airport Signs, andLighting
+Objective
+Toensuretheapplicantlearnsandcanexhibitaclearunderstandingoftaxiproceduresandhowtotaxisafelyandproperly.
+Purpose
+Everyflightbeginswithtaxiing. Thislessonintroducesaspiringpilotstotaxiprocedures,airportsignsandlighting,andemphasizesthespecialsafetyconsiderationsthatallpilotsmustbeawareofduringtaxioperations.
+Schedule Equipment
+● GroundLesson:10minutes- Intheairplane● Initial■ BeforeFlight:5minutes- IntroductionandDemonstration● EveryFlight■ BeforeFlight:5minutes- Student Performs
+● AirplaneChecklist● AirportDiagram
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverbeforeflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthebasicsoftaxiingandhowtosteertheairplaneontheground.● Flight:Studentcantaxitheairplanebydoingthefollowing:● PerformingaBeforeTaxichecklist,checkingthebrakes,andvisuallyclearingthearea.● Positioningtheflightcontrolsappropriatelyforthewind.● Usinganairportdiagramtoplanthetaxiroute.● ReceivesandcorrectlyreadsbackATCtaxiclearances,asapplicable. (OrmakesCTAFcalls)● Maintainsvigilanceinnon-movementareasandaroundotherairplanes.● Maintainingtaxiwaycenterline,taxiingatanappropriatespeed,andusingthethrottleandbrakesproperly.● Maintainingasterilecockpitandavoidingrunwayincursions.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)2
+References
+● ERAUSpecialVFR-“TaxiingLesson1”○ YouTube-https://www.youtube.com/watch?v=pK7KqQXPb7I● AIM-2024-03-21(AeronauticalInformationManual)-Chapter2,Section1-11[TaxiwayLights],Chapter2,Section3[AirportMarkingAidsandSigns]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter14,Page5-16[AirportMarkingsandSigns],Chapter14,Page16-20[AirportLighting]● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter2,Page18-21[Taxiing]● FAAAC150/5340-30J(DesignandInstallationDetailsforAirportVisualAids)● FAAAC150/5340-18G(StandardsforAirportSignSystems)● FAA-S-ACS-6C(PrivatePilotACS)-AreaIITaskD● FAA-S-ACS-7B(CommercialPilotACS)-AreaIITaskD● FAA-S-ACS-25(CFIACS)-AreaVTaskD
+GroundLessonOutline
+● BeforeTaxiChecklist○ BrakeCheck,InstrumentCheck● TaxiTechnique○ UseofRudderPedals-Differencesfromdrivingacar○ UseofThrottleandBrakes○ ProperAppearanceofTaxiwayCenterline-Parallax○ FlightControlPositioningforWinds-“TurnTowardstheWind/DiveAwayfromtheWind”■ SeeSupplementbelow● TaxiSafety○ WingtipClearance○ AvoidingOtherAirplanes-ParkedandNotParked○ AvoidingHazardsinNon-MovementAreas● TaxiingintheAirportEnvironment○ RunwayIncursionAvoidance(seelessononRunwayIncursionAvoidance[AreaII,TaskB])○ TaxiClearancesandTaxiRoutePlanning,HotSpots○ UseofAirportDiagrams,MinimizeDistractions/SterileCockpit/SituationalAwareness○ Non-ToweredAirportTaxiOperations■ CTAFTaxiSelf-Reporting■ Visualscanningforconflictingairplanes,cars,etc.■ Hazardous/PoorConditionTaxiwaySurfaces○ AirportMarkingsforTaxiOperations○ AirportSignsandLighting● AirportWindIndicators● ChallengesofTaxiinginLow-VisibilityorNightConditions
+CommonErrors
+● Improper useof brakes.● Improperpositioningoftheflightcontrolsforvariouswindconditions.● Hazardsoftaxiingtoofast.● Hazardsassociatedwiththefailuretocomplywithairport/taxiwaysurfacemarking, signals, andATCclearancesor instructions.● Hazardsof becomingdistractedwhiletaxiing.● Hazardsassociatedwithfailingtoadheretosterilecockpitprocedures.● Failuretouseproper runwayincursionavoidanceprocedures.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)3
+GroundLessonSupplements
+● Taxi Operations- Taxiingissimplymovementofaircraftontheairportenvironment,bothontaxiwaysandonrunways.○ Uniquechallenges-Airplanesaredesignedtofly,withverylittleconsiderationgiventogroundhandling. Thispresentsuniquechallenges.■ Steering/Maneuvering-Airplanesmaybedifficulttosteerormaneuver. Thereisnoabilitytomoveinreverse,asacarmight,andwidewingspansorlongfuselageandtailsectionscancausepartsoftheairplanetoencroachonrunwayareaseveniftherestoftheairplaneisnot.■ Flight Control Positioningfor Winds-Evenwhiletaxiingontheground,thepositionoftheflightcontrolsiscrucialforthestabilityoftheairplane. Failuretodosocanallowroguewindguststoprovideupsetsorlossesofdirectionalcontrolduringtaxi.■ Situational Awareness/MaintainingTaxiway/RunwayPosition-Taxiwaysoftenhavemanyintersectingtaxiways,runways,aprons,etc. Pilotsmustmaintainsituationalawarenessoftheirpositionontheairportatalltimes. Airplanesmayhavepooroutsidegroundvisibility,makingitdifficulttoseetaxiwayandrunwaysignsandmarkings.● Other airplanes, vehicles-Inadditiontotheirownposition,pilotsshouldmaintainamentalpictureofwhereotherairplanesandvehiclesaremovingontheairportenvironment.● What areRunwayIncursions?-Simplyput,arunwayincursionoccursanytimeanairplane(orgroundvehicle)entersarunway,orcontinuesonarunwayinamannerforwhichtheywerenotcleared.Accidentallytaxiingpastaholdlineintoarunwayarea,ortaxiingbeyondaholdlineonarunwayintoanintersectingrunway,ormakingawrongturnintoarunwayareaareallrunwayincursions.○ Dangersof RunwayIncursions-Althoughitwasnotdirectlycausedbyarunwayincursioninthetraditionalsense,theTenerifeAirport Disasterin1977demonstratesthesortofdisasterthatcanoccurwhentwoairplanesareonthesamerunwayduringflightoperations. Beingtheworstaviationaccidentinhistory,theTenerifeDisasterclaimedthelivesof583passengersandcrew,andcameaboutbecauseofafundamental confusionabout thepositionof other airplanesontheairport andrunwayenvironment. Similardisastersarepossibleanytimearunwayincursionoccurs.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)4
+● Taxi ClearancesandTaxi RoutePlanning-Whenoperatingattoweredairports,pilotsmustfirstobtainataxiclearancefromATC. Ataxiclearancewillincludeadestination,andaroutethatthepilotshouldtaketogetthere.○ Example: “Cessna1234, Taxi toRunway25at Alpha2viaAlpha, crossRunway13onAlpha”○ ATCCommunicationDuringPhases■ BeforeTakeoff/Taxi-Beforetaxifortakeoff,contacttheGroundcontrollerandaskforclearancetotaxifordeparturebeforeenteringanymovement areas. Pilotsarerequiredtoreadbacktaxi or holdshort clearancesinfull, includingtheir callsignandanyrunwaysgivenbyATC.● Non-Movement Areas-Aircraftmaytaxifreelyonnon-movement areas,whichareairportareasthatarenotcontrolledbyATC. Movement areasareareas(taxiways,runways,generally)whereaircraftmovementsarecontrolledbyATC.Whiletaxiinginnon-movement areasrequiresnoclearance, vigilancemustbemaintainbypilotssinceother vehiclesor peoplemaybepresentanywhereat anytime!■ BeforeLanding-Beforelanding,pilotsshouldbrieftherunwayexittheyintendtouse,andnoteanynearbyintersectingrunwayswheretheywillneedtoholdshort.■ After Landing-Afterlanding,pilotsmaytaxiclearofthelandingrunway, ensuringtheyfullycrosstheholdshort linetoexit therunway,butmaynotcontinuetaxiingwithoutanATCclearance! Pilotsshouldbevigilanttonotcrossanyothernearbyholdlineswithoutclearance.○ Techniques-Thereareseveraltechniquespilotscanusetominimizeconfusionabouttaxiinstructions■ WritingdownTaxi Clearances-Beforereadingbackataxiorholdshortclearance,writeitdownonakneeboardorscribbleitontheairportdiagram,toaidinmemory.■ Airport Diagrams/RoutePlanning/BriefingHot Spots-Itisbesttoactivelylookattheairportdiagramasthetaxiclearanceisreceived,sothatpilotscanformamentalmodelofthetaxiroute. Pilotsshouldideallyhighlightthereceivedtaxirouteontheirairportdiagram,andespeciallybriefanyhotspotsthatwillbeencounteredontheroute.● Hot Spots-Airport hot spotsareareaswhereotherpilots(orvehicles)havecommonlymademistakesleadingtorunwayincursions. Theyareoftenconfusingorirregularlyshapedholdlinesorintersections,andpilotsshouldbeextravigilant for thepresenceof holdlinesor runwayidentifier signsintheselocations.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)5
+■ MinimizingPilot Workload-Duringtaxioperations,inadditiontomaintainingasterilecockpit,pilotsshouldavoidunnecessarytasks(e.g.programmingtheGPS,workingonEFB,etc.)sothattheirfullattentioncanbedevotedtotaxiingandmaintainingsituationalawareness.■ Confirm/AlwaysBeSure-Mostimportantly, if anyuncertaintyexistsabout thetaxiclearanceor theairplane’spositionontherunwayor airport, thepilot must clarifytheinstructionswithATC. Uncertaintyabouttaxiinstructionsorthepositionofairplanesinrelationtorunwaysandtaxiwaysisextremelydangerousandcanleadtodisastrousresults. If indoubt, askagain! Pilotscanalsoaskfor progressivetaxiinstructions,whereATCwillprovideturn-by-turnguidance.● Verbalize-Whenapproachingarunwayholdline,pilotsshouldrefertotheirtaxiclearanceandconfirmtothemselvesthattheyareinfactclearedtocross.○ Example:(approachingRunway31hold)“IamclearedtocrossRunway31”.● CaseStudy- December 6, 1999Providence, RI Incident○ Thisincidenthadmanycontributingfactors,including:■ Pilotuncertaintyaboutposition■ Vaguedescriptionsofsignage“wearebytherunways”,not“wearebyRunway23L”■ Notcross-referencingoutsidesightpicturewithairportdiagram○ https://www.youtube.com/watch?v=equVF3ULVw8
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)6
+● Dangersof ConfirmationandExpectationBias-Itiscriticalthatpilotsactivelylistentotheirtaxiinstructionsandnotfallpreytoconfirmationorexpectationbias. Thesebiasescanleadpilotstohearwhattheyareexpectingtohear,ratherthanwhatwasactuallysaid.○ Example-ApilotisalwaysclearedtotaxitoRunway25“viaAlpha,Bravo”,butthistimetheyarecleared“viaAlpha,holdshortoftaxiwayBravo”. Thisdifferencecaneasilybemissed.● Non-ToweredAirport Taxi Operations-AlthoughthereisnoATCatnon-toweredairportstomanagetaxioperations,pilotsshouldnonethelessremainvigilantforrunwayincursions. Pilotsshouldmaintainsituationalawarenessaboutthepositionofotherairplanesandvehiclesonrunwaysandtaxiways,andalwaysself-announcetaxi intentionsandtheintentiontoenter arunway.○ Planningandradiocallsfor BeforeTakeoff, BeforeLanding, After Landing-Justaswithatoweredairport,pilotsshouldconsulttheairportdiagrambeforetaxi,takeoff,andlandingtobesurethattheyknowtheroutetheywillusetoenterandexittherunway.■ Becausenoexplicittakeofforlandingclearancesareavailableatnon-toweredairports,pilotsmustalsovisuallyconfirmthattherunwayandfinal approachareclearbeforeenteringanyrunways.● Taxi SafetyTechniques-Pilotscanenhancesafetybyalwaysvisuallyconfirmingthatarunway(andfinalapproaches)areclearbeforecrossingorenteringanyrunwaysurface, whether clearedornot. Othertechniquesinclude:○ Turningonairplanestrobes,taxi,andlandinglightstoenhancevisibility.○ Maintainingeyesoutsidethecockpitwheninanyrunwayarea.○ Taxiingclearofrunwaysquicklyandwithoutdelay.● After-LandingTaxi Operations-Manyrunwayincursionsactuallyoccurafterlanding,whenpilotslettheirguarddownandmaytaxiintoothernearbyrunwayareas.○ Briefinglandingrollout toataxiwayexit-Pilotsshouldalwaysbrieftheexpectedrunwayexitbeforelanding,especiallyiftherearenearbyrunways.○ Proximitytoother runways/holdlines-Whentworunwaysarenearby,orexitingtherunwaywillputtheairplanenearanotherrunway,pilotsshouldbeespeciallyvigilantthattheycrossonlythecorrectholdlinewhenexitingtherunway.■ Parallel runways-Inthecaseofexitingbetweenparallelrunways,theavailabletaxiareaforrunwayexitmaybequitesmall,andthedangerofarunwayincursionishigher.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)7
+Alwaysbriefthispotentialhazardbeforelanding!○ LAHSO-ATCatsomeairportsmayofferso-called“LAHSO”(LandAndHoldShortOperations)operations. Pilotsmust explicitlyaccept (andmayreject) aLAHSOclearance,howeverifaLAHSOclearanceisaccepted,pilotsshouldexplicitlybriefthelandingandbevigilantthattheydonotrolloutpasttheLAHSOlineduringlanding.
+● Airport Markingsimportant toTaxi Operations○ HoldLines- Holdlinesaretheprimarymarkingthatindicatestheboundariesofrunwaysorotherprotectedareas. Oftencalledholdshort lines,theyaredepictedonthepavementastwosolidandtwodashedlines. Crossingfromthedashedlinestothesolidlinesrequiresnoclearance(asin,exitingarunwayarea),however, crossingfromthesolidlinestothedashedlinesalwaysrequiresexplicit ATCclearance! (Attoweredairports)
+○ ILSCritical Areas-Identifyareaswherepilotsmustholdshort(wheninstructedbyATC)when
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)8
+ILSapproachesareinuse. Onlyusedinlowvisibilityconditions,belowVFRweatherminimums.○ TaxiwayCenterlines-Solidyellowlinesidentifythecenterlineofataxiway.■ EnhancedTaxiwayCenterlineMarkings-Nearholdlines
+● Airport Signs○ MandatoryInstructionSigns- RedandWhite. HoldLines,RunwaySafetyAreas,RunwayEntrances,RestrictedAreas,etc.■ RunwayHoldPosition-Oneofthemostimportantairportsignsthatpilotsshouldkeepwatchforistherunwayholdpositionsign. Theredcolorofthesignisusedonlyforimportantholdsignsonairports,andshouldalwaysbeacluethatthereisaholdlinenearby.
+■ Beawarefor runwayincursionswhenthesearenearby!○ Direction/InformationSigns-BlackonYellow,indicateinfoorthedirectionoftaxiwaysorrunways.○ TaxiwayLocationSigns-YellowonBlack,indicatethenameofthecurrenttaxiway.○ RunwayDistanceRemaining-WhiteonBlack,InThousandsofFeet○ RunwaySafetyAreaExit-BlackonYellow. Indicatethelocationoftherunwaysafetyareaholdlineswhenexitingarunway.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)9
+● Airport Lighting○ RunwayLighting■ REIL-RunwayEndIdentifierLights,flashinglightsoneithersideofthethreshold.■ CenterlineLighting-Foundonlyatlargerairports,embeddedinthepavement.■ EdgeLighting-Themostcommontypeofrunwaylighting,justmarktherunwayedges.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)10
+■ ThresholdLighting-Greenlightsindicatethestartoftherunway,andredlightsindicatetheendoftherunway.
+■ RunwayStatusLights-Foundonlyatlargeairports,usedtoindicatewhentherunwayissafetoenterorstarttakeoff.● REL-RunwayEntranceLights● THL-TakeoffHoldLights■ ClosedRunwayMarkings/Lighting-Usedwhenrunwaysaretemporarilyorpermanentlyclosed.
+○ TaxiwayLighting■ TaxiwayEdgeLighting-Omnidirectional,bluelights.■ TaxiwayCenterlineLighting-Omnidirectional,greenlights. In-pavement.■ ClearanceBars-3in-pavementyellowlights,atholdpositions■ RunwayGuardLights-Taxiway/Runwayintersections,pairofelevatedflashingyellow
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_d_-_taxiing_airport_signs_and_lighting.pdf>>>
+========================================
+
+PPL(II-D) / CAX(II-D) / CFI (V-D)11
+lightsorin-pavementyellowlightsacrossthelengthoftheholdbars■ StopBar Lights-ConfirmATCclearancetoenterarunway,redin-pavementlights● Airport WindIndicators-Especiallywhenoperatingatnon-toweredairports,pilotsshouldalwaysnotetheorientationofairportwindindicators. Manywindsocksarealsolightedforvisibilityatnight.
+● Challengesof Night andLow-VisibilityOperations-Whenoperatingatnight,orinlowvisibilityconditions,itismoredifficulttodistinguishtaxiwaymarkings,signs,andidentifyotheraircraft.Therefore,thepotentialforATCtomis-identifyaircraft(issuetherightinstructionstothewrongaircraft)ishigher,andpilotsmustbeextravigilantaboutmaintainingsituationalawarenessoftheirownposition,aswellasthatofotherairplanesandvehicles. If aninstructiondoesnot makesense, andgoesagainst what wasplannedor briefed, askfor clarificationfromATC! (SeeProvidence,RICaseStudy)
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

@@ -1,0 +1,96 @@
+DOCUMENT_TITLE: binns_task_e_-_short-field_takeoff_and_maximum_performance_climb
+SOURCE_FILE: binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)1
+Short-FieldTakeoff andMaximumPerformanceClimb
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheshort-fieldtakeoffmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Short-fieldtakeofftechniqueemphasizesconsiderationoftherunwayenvironment,weatherconditions,andtakeoffperformance,enablingoperatingfromverysmallrunways. Itintroducespilotstomaximum-performancetakeoffsandclimbs.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainshort-fieldobstacleavoidanceprocedures,leftturningtendencies,VxvsVy,densityaltitude,calculatingairplanetakeoffperformance.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Performsapre-takeoffchecklistandconfigurestheairplanecorrectly.● Alignswiththerunwaycenterline,usingallavailablerunway,holdsbrakeswhileapplyingfullpower.● Aftercheckingengineindications,acceleratesandremainsontherunwayuntilrotationspeed.● ClimbsoutatVxuntilclearofobstacles,thenacceleratestoandclimbsatVy.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)2
+References
+● MzeroAFlightTraining-“ShortFieldTakeoffandLanding”○ YouTube-https://www.youtube.com/watch?v=A7dcr12EqwE● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter6,Page1-2[PriortoTakeoff],Chapter6,Page3-6[NormalTakeoff],Chapter6,Page6-10[CrosswindTakeoff],Chapter6,Page10-11[GroundEffectonTakeoff],Chapter6,Page11-12[Short-FieldTakeoffandMaximumPerformanceClimb],Chapter6,Page14[RejectedTakeoff/EngineFailure]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page30-33[LeftTurningTendencies],Chapter11,Page7-8[RateofClimb,AngleofClimb],Chapter11,Page12-16[TakeoffPerformance],Chapter11,Page19-28[PerformanceCharts]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskE● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskE● FAA-S-ACS-25(CFIACS)-AreaVIITaskE
+GroundLessonOutline
+● WhatareShort-FieldTakeoffs?● BestAngleofClimb(Vx)vsBestRateofClimb(Vy)○ Obstacleavoidance● LeftTurningTendencies○ P-Factor,Slipstream,Torque,GyroscopicPrecession● TakeoffPerformance○ DensityAltitude○ Calculatingtakeoffperformancedata,Properaircraftconfiguration● RunwaySafety● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning○ Runwayincursionavoidance○ Windshear,Tailwinds,WakeTurbulence○ Runwaysurfaceconditions○ Bereadytoabort!● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Improperrunwayincursionavoidanceprocedures.● Improperuseofcontrolsduringashort-fieldtakeoff.● Improper lift-off procedures(liftingoff early).● Improper initial climbattitude, power setting, andairspeed(Vx) toclear obstacle.● Improperuseofchecklist.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)3
+GroundLessonContent
+● What areShort FieldTakeoffs?Theshort-fieldtakeoffis,asthenamesuggests,allaboutdepartingfromshortfields. Themaneuveriseffectivelyamaximum-performancetakeoffandclimb,andaimstotakeoffintheshortestpossibledistanceandclimbawayfromobstaclesassteeplyaspossible.● Best Angleof ClimbandBest Rateof Climb-Whenperformingamaximum-performanceclimb,therearetwoimportantspeedsthatpilotsmustmemorizefortheiraircraft:○ Vx-Thebest angleofclimb.○ Vy-Thebest rateofclimb.● Climbingatthebest angleofclimbmeansthattheairplanewillclimbmoresteeplyawayfromtheground,andisusuallyusedfor avoidingobstacleswhichmaybepresentespeciallynearsmallrunways.● Climbingatthebest rateofclimbismorecommonlyused,anditmeanstheairplanewillclimbfaster,butatashallowerangle. Thisisusedtogainthemostaltitudeintheshortestamountoftime.
+● Inashort-fieldtakeoff,pilotsshouldfirstclimbatVx,toavoidobstacles,andthen,whenclearofobstacles,acceleratetoVyandcontinueclimbing,tomaximizeperformance.
+● Left-TurningTendencies-Thismaneuveralsoillustratesthestrongeffectsofleft-turningtendenciesatlowairspeedsandhighangleofattack. Becausefullpowerisappliedwhiletheairplaneisnotmoving,afterbrakesarereleased,therudderhaslimitedeffectivenessandsignificant right rudderpressuremayberequiredtomaintainrunwaycenterline. Likewise,aftertakeoffandwhileclimbing
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)4
+atVx,theairplanewillbeflyingatahighangleofattackandhighpowersetting,exaggeratingthetorquereaction,spiralingslipstream,andP-Factor,againrequiringsignificantrightrudderpressure.
+● Takeoff Performance-Determiningexactlyhowmuchdistancewillberequiredfortakeoffiscrucialtoensurethechosenrunwaywillbelongenoughtodepartsafely. Anairplane’stakeoffperformanceishighlydependentonseveralchangingfactors,suchasweight, wind, anddensityaltitude. Aircraftperformanceatheavierweightsorhigheraltitudesisgreatlyreduced.○ Densityaltitude,whichisacorrectionforatmosphericconditions,isthealtitudethatanairplane‘feels’.○ Athigheraltitudesoronhotdays,thedensityoftheairwillbelessandthereforetheairplanewillneedtomovemoreairtostayaloft. Becausetheairspeedindicatorisalsoaffectedbydensityaltitude,itwillshowthesamevalues,howeverthetrueairspeedwillbehigher.○ Thedifferencebetweenfieldaltitudeandthedensityaltitudecanbesignificant!■ SeetherelatedlessononDensityAltitude.● ThePOHforeveryaircraftwillcontainperformancechartsthatdetailhowmanyfeetoftakeoffdistanceisrequiredforvariousweights,winds,andweatherconditions. Italsoprescribesanairplaneconfigurationthatshouldbeused.○ Tousetheperformancecharts,firstfindthepressurealtitude,bysettingthealtimeterto29.92”orusingtheconversion. Then,findthecellinthetablethatmatchestheairplanegrossweightwiththepressurealtitudeandthecurrenttemperature. Makesuretoreadthenotes, incasedistancesneedtobeadjustedfor windor other conditions!○ Itisbesttoadda‘safetyfactor’totheperformancefiguresobtainedfromthePOHperformancecharts. Generally,itisagoodideatooverestimatethepressurealtitudeandtemperatureforaworstcasescenario,andadd20-30%toaccountforthepossibilityofimperfecttechnique.○ Don’t forget toconsider wind! Atailwinddramaticallyincreasestakeoffandlandingdistances. Likewise,astrongheadwindcangreatlyimproveperformance.○ Payattentiontoaircraft configuration-SomePOHscallforflaps,sodonot. Theperformancenumbersareonlyvalidforthegivenconfiguration!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)5
+● RunwaySafety-Alltakeoffsgenerallystartwiththeairplanecrossingoveraholdshortline,whichisthelinethatindicateswheretherunwayareabegins. Holdshortlinesshouldbetakenveryseriously!○ Beforecrossingaholdshortline:■ Atatoweredairport,thepilotmusthavereceivedataxi,runwaycrossing,ortakeoffclearancefortherunwaytheyareabouttoenter.■ Atanon-toweredairport,thepilothascommunicatedtheirintentionsovertheradio(CommonTrafficAdvisoryFrequency--CTAF),andhasvisuallyverifiedthatthereisnotrafficonfinalapproachfortherunway,orontherunwayitself,whichwouldconflict.● SafetyConsiderations○ Aswithanytakeoff,theuseof checklistsisimportant. Beforeenteringtherunwayarea,thebeforetakeoffchecklistmustbecompleted.○ Short-fieldtakeoffsrequirespecial cautiontobeexercisedfor obstaclesonor near thefield! Powerlines,talltrees,orotherobstaclesmaybequiteclosetotherunwayenvironment!Theseobstaclesmaybedifficulttoseeinanose-highattitudeaftertakeoff,soathoroughtakeoffbriefingwhichhighlightsthesehazardsshouldbeconductedbeforeeverytakeoff.○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriateradiocalls,andensurethattakeoffclearanceisobtainedbeforeenteringanyrunways,ifatacontrolledfield. Vigilancemust bemaintainedtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines.Atuncontrolledfields,clearlycommunicateyourtaxiandtakeoffintentionsontheradio.Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinal approachpathisclear!○ Iftheairplaneisnotacceleratingasexpectedandthetakeoffisindoubt, abort!○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)6
+○ RunwaySurfaceConditions-Iftherunwayiswetoricy,itcanbequiteslippery,particularlyinthetouchdownzonewheremanyprecedingaircrafthavedepositedrubber. Exercisecautioninthesesituations!
+ManeuverDescription● SelectingaSuitableRunway-Selectarunwaythatwillallowtakeoffintothewind,orwithamanageablecrosswind.● Checklists-Pilotsmustperformabefore-takeoffchecklistbeforebeginningthemaneuver,andthoroughlybriefanyhazardsthatmaybepresentondeparture.● BeforeTakeoff-Configuretheairplaneforshort-fieldtakeoff(perthePOH),usuallyrequiringflaps.● EnteringtheRunway-Taxiintotherunway,usingallavailabletakeoffarea(possiblyrequiringback-taxiing)andlineupwiththecenterlineandcometoastop. Applyfullpowerwhileholdingstationarywithbrakes,andverifytheengineindications.● Takeoff Roll andLiftoff-Allowtheairplanetoacceleratebut donot allowtheairplanetolift offbeforerotationspeed. Bepreparedtocounteractthesignificantamountofleft-turningtendencieswithrightrudderduringtakeoffroll. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+● Climbout-OncetheairplanehasacceleratedtoVx,climbatVxuntilanyobstaclesarecleared. Afterallobstaclesarecleared,reducepitch,retractflaps,andacceleratetoVy. Makesuretoflycoordinated.Moreright rudder!● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthecenterline. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_e_-_short-field_takeoff_and_maximum_performance_climb.pdf>>>
+========================================
+
+PPL(IV-E) / CAX(IV-E) / CFI (VII-E)7
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheshort-fieldtakeoffmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotconfigurestheairplaneproperlyfortakeoff,performsapre-takeoffchecklist,ensuresthattakeoffclearanceisobtained(atatoweredairport)orthattherunwayandfinalapproachpathisclear(atanon-toweredairport),andmakestheappropriateradiocalls.○ Pilottaxisontotherunway,usingallavailablerunway(back-taxiingifnecessary),andalignswiththecenterline.○ Pilotholdstheairplanestationarywithbrakeswhileapplyingfullpower.○ Pilotverifiesproperengineindicationsbeforereleasingbrakesandremainsonthegrounduntilrotationspeed.○ PilotacceleratestoandclimbsoutatVxuntilclearofobstacles.○ Afterclearofobstacles,pilotproperlyreconfiguresairplaneandacceleratestoVy.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

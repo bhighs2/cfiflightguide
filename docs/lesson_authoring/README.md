@@ -179,6 +179,14 @@ Follow the CFI ACS Lesson Authoring Protocol. Review the current ACS Task, the m
 
 The authoring documents—not the prompt—should carry the detailed process.
 
+## Flight Guide Knowledge-Base Rule
+
+All future lesson factual content must come only from the Flight Guide knowledge base. Authors must inspect the local approved source material or indexed source text before writing each section. Do not create factual explanations, examples, procedures, common errors, scenarios, review answers, or completion standards from general knowledge or external material.
+
+External websites, Binns, videos, and user-provided material may guide lesson structure or be listed as supplemental references, but they cannot be used as the factual source unless they have been incorporated into the Flight Guide knowledge base first.
+
+Concise synthesis of key knowledge-base information is encouraged when it improves instruction. Flight Guide instructor principles, mnemonics, memory aids, and highlights may draw on Flight Guide or explicitly user-provided instructional material, provided they are labeled as Flight Guide material when they are not FAA-defined language and are not represented as controlling FAA fact.
+
 ---
 
 # 6. Permanent Source-Alignment Guardrails

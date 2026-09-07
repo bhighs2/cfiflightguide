@@ -1,0 +1,97 @@
+DOCUMENT_TITLE: binns_task_a_-_steep_turns
+SOURCE_FILE: binns_task_a_-_steep_turns.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)1
+SteepTurns
+Objective
+Toensuretheapplicantunderstandsandcanexhibitaclearunderstandingofthesteepturnsmaneuverandhowtoperformitproperly.
+Purpose
+Thesteepturnisamaximumperformancelevelturnthatdemonstratestheincreaseinloadfactorofsteeplybankedlevelturns,thenecessityofincreasingbackelevatorpressuretocompensateforthelossofverticallift,overbankingtendencies,andrequirespilotstohaveanunderstandingofmaneuveringspeedandacceleratedstalls.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:30minutes- IntroductiontoManeuver■ Flight 2:30minutes- ImproveProficiency(Dual)● Solo■ Flight 3:20minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.○ SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)2
+References
+● TheUNDAeroCast-CommercialSteepTurns○ YouTube:https://www.youtube.com/watch?v=24LySNN3SCE● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter10,Page1-3[SteepTurnsManeuverDescription],Chapter3,Page14[TurnRadius,OverbankingTendency]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page22-23[ForcesinTurns],Chapter5,Page30-33[LeftTurningTendencies],Chapter5,Page39[TurnRadius],Chapter5,Page34-35[LoadFactorsandStallingSpeeds],Chapter5,Page37-38[VgDiagram],Chapter5,Page20[SpiralInstability]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVTaskA● FAA-S-ACS-7B(CommercialPilotACS)-AreaVTaskA● FAA-S-ACS-25(CFIACS)-AreaIXTaskA
+GroundLessonOutline
+● ManeuverOverview● BankAngleandLoadFactor○ Loadfactordependsonbankangle-Feelingofincreasedweight○ IncreasedAoArequired○ Induceddragincreased● OverbankingTendency● LeftTurningTendencies○ Differencesbetweenleftandrightturns● EffectonStallSpeed/AcceleratedStalls○ VgDiagram● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Notclearingthearea● Inadequatepitchcontrolonentryorrollout● Gainingaltitudeor losingaltitude● Failuretomaintainconstant bankangle● Poorflightcontrolcoordination● Ineffectiveuseofpowerortrim● Inadequateairspeedcontrol● Becomingdisoriented● Performingbyreferencetotheflight instrumentsrather thanvisual references● Failuretoscanforothertrafficduringthemaneuver● Attemptstostartrecoveryprematurely● Failuretostoptheturnondesignatedheading
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)3
+GroundLessonContent
+● Maneuver Overview-Thesteepturnsmaneuverissimplytwosteep,high-performance,levelturns,performedbacktoback. ThebankangleischosentobehighenoughtoproducenoticeablyhigherG-forces,aswellastomaketheaerodynamicsthataffectturning,highangle-of-attackflightmorepronounced.
+● BankAngleandLoadFactor-Asanairplaneturns,itsweightremainsthesame,andthereforetheupwardcomponentofliftmustremainequaltoitsweight. Duringaturn,someoftheliftmustbedirectedtowardsthecenteroftheturn,reducingtheupwardcomponentoflift. Ifnopilotcorrectionswereapplied,theairplanewouldnotproduceanymorethanthenormal1goflift,andtheairplanewouldbegintodescend. Inordertocorrectforthelossofverticallift,andmaintainalevelaltitude,thewingmustproducemorelift,whichrequiresincreasedbackelevator pressure. Thisincreasedbackelevatorpressurewillcausethewingtoflyatahigher angleof attack,producingtheincreasedliftthatisrequired. ThiscanbefeltbythepilotasahigherthannormalG-force.● Steepturnsaresimplynormal,levelturnsthataremadeatabankanglewheretheamountoftotalliftrequiredissignificantlyhigherthan1g. Inordertomaintain1gofverticallift,whilealsoturning,thewingmustproducemorethan1goftotallift. Theamountoftotalliftiscalledtheloadfactor.
+● Asthebankangleincreases,theloadfactorrequiredtomaintainlevelflightincreasesslowlyatfirst,butincreasesrapidly,especiallyatbankanglesbeyond45degrees. Theloadfactorcreatedbyalevelturndependsonlyonthebankangle. Notethatairspeeddoesnotaffecttheloadfactorofaturn.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)4
+● Whileflyingatahigherangleofattacknecessarytomeetthedemandsofahighloadfactor,thewingwillproducemoreinduceddrag. Thiswillresultintheairspeeddecreasingunlesspowerisaddedtocompensatefortheincreaseddrag.● OverbankingTendency-Aircraftflyingwithahighrateofturnalsohaveastrongoverbankingtendency. Thisiscausedbytheoutsidewingtravelingalongerpaththantheinsidewing,andthereforetravelingataslightlyhigherairspeed,andcreatingmorelift. Itmaybenecessarytoapplyoppositeailerontocounteracttheoverbankingtendencyduringatightturn.
+● Left-TurningTendencies-Becauseofthehighpowersetting,increasedloadfactor,andresultingincreasedangleofattack,airplanesperformingsteepturnsarealsosubjecttomorepronouncedleft-turningtendencies. Specifically,ahighpowersettingproducesahightorquereaction,andthehighangleofattackmakesP-factorverypronounced, especiallyinasteepturntotheright. Rudderpressuretomaintaincoordinatedflightmaybesignificant.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)5
+● Effect onStall Speed/ AcceleratedStalls-Astheloadfactorincreasesinasteepturn,itisimportanttorecognizethat thestall speedalsoincreases. Wecanseethisrelationshipdepictedinaso-calledVgdiagram,shownbelow. TheStallSpeedwenormallyseeforouraircraft,VsorVs0
+,appliesonlyto‘unaccelerated’flight--thatis,flightat1gloadfactor. Astallthatoccursabove1giscalledanacceleratedstall. ObservefromtheVgdiagramthatastheloadfactorincreases,thestallspeedalsoincreases. Eventually,itreachesapointcalledthelimit loadfactor,whichforanormalcategoryairplaneis+3.8G. ThestallspeedatthispointiscalledVa,or maneuveringspeed. Belowthisspeed,thewingwillexceedthecriticalAoAandstallbeforetheaircraftsuffersstructuraldamage,howeverabovethisspeed,structuraldamagemayresult. It iscritical toalwaysperformsteepturnsbelowmaneuveringspeed!
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)6
+● SafetyConsiderations○ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.○ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.
+ManeuverDescription● EntryAltitude-Whilethereisnoofficiallyestablishedminimumaltitudeforthesteepturn,forsafety,asteepturnshouldbestartednolower than1,500ftAGL.● EntrySpeed-Likeallperformancemaneuvers,asteepturnmustbestartedatlessthanVa(maneuveringspeed). Typicallyasteepturnisenteredinlevelcruiseflight,atleast5-10knotsbelowVa.● Bank-Thebankangleshouldbesmoothlyincreasedtoapproximately45degreesof bankforPrivatePilotapplicantsand50degreesof bankforCommercialandCFIapplicantsandheldthroughouttheturn. Bankanglemaybevariedslightly(+/-5degrees)tohelpmaintainaltitude. Lackofadequatecontroloverthebankanglewillresultinlargeclimbsordescents. Thebankangleismarkedontheattitudeindicator,notethatsomeattitudeindicatorsdonothavea45degreemark:
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_a_-_steep_turns.pdf>>>
+========================================
+
+PPL(V-A) / CAX(V-A) / CFI (IX-A)7
+● Altitude-Altitudeshouldbemaintainedthroughoutthemaneuverprimarilybyvisualreferencetothehorizonandoccasionallycheckedagainstthealtimeter. Thealtitudemustremain+/- 100feet.● Airspeed-Airspeedshouldremainwithin10knotsoftheentryairspeed. Astheturnisstarted,passing30degreesofbank,itisnecessarytoaddalittlebitofpower. Ifinsufficientpowerisadded,theairspeedwilldecayduetoincreasedloadfactor,andanacceleratedstallmayoccur. If thestallhornsoundsat anypoint inthemaneuver, immediatelyrecover!● Recovery-Beginasmoothrolloutofthebankapproximately15-20degreesofturnbeforeyoureachyourentryheading. Bereadytoremovethepower that wasaddedatthestartofthemaneuvertopreventclimbing. Rollintoanoppositedirectionturn,ifrequested.● Coordination-Propercoordinationisessentialandshouldbemaintainedat all times. Donotattempttotightentheturnwithrudder. Uncoordinatedflightcreatestheriskofacross-controlledacceleratedstallorspin.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtohelpmonitortheaircraftattitudeandtheprogressoftheturn.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthesteepturnsmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanaltitudenotlessthan1,500ftAGL.○ PrivatePilot:Pilotrollsintoacoordinated360°steepturnwithapproximatelya45° bank.○ Commercial Pilot/CFI:Pilotrollsintoacoordinated360°steepturnwithapproximatelya50°bank.○ Pilotperformsanothersteepturnintheoppositedirection,asspecifiedbytheinstructor.○ Pilotmaintaintheentryaltitude±100feet,airspeed±10knots,bank±5°,androlloutontheentryheading±10°.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

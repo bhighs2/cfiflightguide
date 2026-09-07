@@ -1,0 +1,93 @@
+DOCUMENT_TITLE: binns_task_d_-_lazy_eights
+SOURCE_FILE: binns_task_d_-_lazy_eights.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)1
+LazyEights
+Objective
+Toensuretheapplicantunderstandsandcanexhibitaclearunderstandingofthelazyeightsmaneuverandhowtoperformitproperly.
+Purpose
+Thelazyeightsmaneuvercombinesseveralaerodynamicconceptssuchasoverbankingtendency,changingrateofturn,andtheleft-turningtendencieswitharequirementtomaneuveraccordingtoasetofgroundreferences. Masteryofthelazyeightsmaneuverdevelopssmooth,coordinated,preciseaircraftcontrolthroughoutawiderangeofaircraftspeedsandattitudes,whileconstantlymonitoringoutsidevisualreferences.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:30minutes- IntroductiontoManeuver■ Flight 2:30minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● n/a
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)2
+References
+● TheFinerPoints-“HowtoREALLYflyaLazyEight”○ YouTube-https://www.youtube.com/watch?v=6oQOUiHhjaY● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter10,Page6-7[LazyEightsManeuverDescription],Chapter3,Page14[TurnRadius,OverbankingTendency]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page30-33[LeftTurningTendencies],Chapter5,Page39[TurnRadius],Chapter5,Page20[SpiralInstability]● FAA-S-ACS-7B(CommercialPilotACS)-AreaVTaskD● FAA-S-ACS-25(CFIACS)-AreaIXTaskD
+GroundLessonOutline
+● WhatisaLazyEight?● VisualReferences○ 45,90,135degreepoints● OverbankingTendency● LeftTurningTendencies○ EspeciallyP-Factor,duetothehighAngleofAttack● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Notclearingthearea● Maneuverisnotsymmetricalacrosseach180°● Inadequateor improper selectionor useof 45°, 90°, 135° references● Ineffectiveplanning● Gainor lossof altitudeat each180° point● Poor control at thetopof eachclimbsegment resultinginthepitchrapidlyfallingthroughthehorizon● Airspeedorbankanglestandardsnotmet● Controlroughness● Poor flight control coordination● Stallingat anypoint duringthemaneuver● Executionofasteepturninsteadofaclimbingmaneuver● Notscanningforothertrafficduringthemaneuver● Performingbyreferencetotheflight instrumentsrather thanvisual references
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)3
+GroundLessonContent
+● What isaLazyEight?-ThelazyeightsmaneuvercanbethoughtofasamodifiedversionoftheSturnsacrossaroadmaneuver. Themaneuverismodifiedbyagentlepitchupduringeachturningportion,withtheaircrafttracingoutasymmetrical‘S’shapewiththecurvesliftedup.
+● Visual References-Thelazyeightmaneuverisbestvisualizedwhenperformedacrossareferencelineontheground,suchasaroad. Themaneuverrequires3prominentgroundreferencepoints,usuallychosennearthehorizonandfarfromtheaircraft. Astheturnprogressestowardseachpoint,thepilotsmoothlyvariesaircraftattitude,speed,andaltitudetomeetthesetargets:○ Start-Crossreferencelineperpendicularandlevel,atorbelowVa. Beginwithsmallbank(<5degrees),beginpitchup○ Atthe45degreereference-Maximumpitchup,approx15degreesbank,speeddecaying○ Atthe90degreereference-Approx30degreesbank,levelpitch(nosefallingthroughhorizon),speedjustabovestall,altitudemaximum○ Atthe135degreereference-Maximumpitchdown,approx15degreesbank,speedincreasing.○ Atthe180degreepoint(crossingthereferenceline)-Level,speedandaltitudesameastheStart. Repeat turnintheoppositedirection,usingthe135degreepointasthe45point,thesame90degreepoint,andthe45degreepointasthe135degreepoint. Properlyexecutedlazyeightsproducesymmetrical loopsineitherdirection.● OverbankingTendency-Duringthepitchupportionofthelazyeights,theairspeeddecaysastheplaneturnsgently,whichcausestherateofturntoincreaserapidly. Thisincreaseinturnratecausesapronouncedoverbankingtendency,astheoutsidewingisnowtravelingsignificantlyfasterthantheinboardwing,producingmorelift.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)4
+● Becauseofthisoverbankingtendency,thelazyeightcanbeflownbystartingwithonlyaverysmallbankangle,approximately5degreesorless. Astheairplanepitchesupandslows,this5degreesofbankwilltendtoincreasetothetarget30degreesofbank, without anyaileroninput at all.● Left TurningTendencies-Atthetopoftheturns,theairplaneshouldbeveryclosetostallspeed,flyingwithhighangleofattack,andacruisepowersetting. Thiscausestheleft-turningtendenciesoftorque,slipstream,andespeciallyP-factortobeverypronounced. Thismeansthatmaintainingcoordinationthroughoutthemaneuverwillrequirestrongrudderpressureatthehighestpoints,especiallywhenthemaneuverturnstotheright.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)5
+● SafetyConsiderations○ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.○ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.
+ManeuverDescription● SelectingGroundReferences-Selectaprominentroadorotherstraightlinefeature,whichiseasytoidentifyandisclearofhazardsontheground. Thepointshouldideallybesomethinglikearoadoracanalinanunpopulatedarea. Donotplantomaneuveroverhousesorotherstructureswhichcouldcauseanuisance. Asyoupreparetoenterthemaneuver,select3prominentpointsfarawayfromtheaircraft,nearthehorizon. Onepointshouldbeatthe45degreeposition,onepointatthe90degreeposition(alongthereferenceline,towardsthehorizon),anda135degreeposition(45degreesbehind).
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)6
+● EntryPositionandHeading-Aimtobeginthemaneuveratoneendofthereferenceline(road,canal,etc),crossingperpendiculartotheline. Theaircraftshouldbeproperlyconfiguredbeforethispoint,suchthattheturncanbeginimmediatelyuponcrossingthereferenceline.● EntryAltitude-Alazyeightshouldbecompletednolower than1,500ftAGL. Astheloopsofthemaneuverprogress,youmayendupslightlylowerthanyourstartingaltitude,therefore,anentryaltitudeofatleast 2,000ftAGLshouldbeplanned.● EntryAirspeed-Likeallperformancemaneuvers,lazyeightsmustbestartedatlessthanVa(maneuveringspeed). Typicallylazyeightsareenteredinlevelcruiseflight,atleast5-10knotsbelowVa.● BankAngle-Thebankanglewillvarycontinuouslythroughoutthemaneuver,butshouldatmaximumbeapproximately30degrees.● PitchAngle-Thepitchanglewillvarycontinuouslythroughthemaneuver,butshouldbeatmaximumbeapproximately20degreesnoseupand20degreesnosedown. Thepitchchosenshouldresultintheairplanebeingveryslow,nearstallspeed,atthehighest,90degreepointsofthemaneuver. It isimportant tonot overpitcheither upor downduringthemaneuver,astheairspeedcandecaytoapower-onstallatthehighestpoint,orexceedVaatthelowestpoint. Itwillrequiresomepracticetodeterminetherateofpitch,andthehighestpitchrequiredtomaketheturnworkout.● Recovery-Whencompletingthesecondloop,airspeed,altitude,andheadingshouldbeapproximatelythesameasthemaneuverentry. Recovertonormalcruiseflight.● Coordination-Propercoordinationisessentialtothelazyeightsmaneuverandshouldbemaintainedat all times. Rightrudderpressurewillbesignificant,especiallymidwaythroughtheright-turningloop.Failuretoapplyadequaterudderpressurecanresultinanuncoordinatedpower-onstall,whichcanleadtoenteringaspin.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensureproperaircraftattitudeasthemaneuvermovesthrougheachofthegroundreferencepoints.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_d_-_lazy_eights.pdf>>>
+========================================
+
+CAX(V-D) / CFI (IX-D)7
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthelazyeightsmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanaltitudethatwillallowthemaneuvertobeperformednolowerthan1,500feetabovegroundlevel(AGL).○ Pilotmaintainscoordinatedflightthroughoutthemaneuver.○ Pilotcompletethemaneuverinaccordancewiththefollowing:■ Approximately30°bankatthesteepestpoint(90degreereference)■ Constantchangeofpitchandrollrateandairspeed■ Altitudeat180°point,±100feetfromentryaltitude■ Airspeedatthe180°point,±10knotsfromentryairspeed■ Headingatthe180°point,±10°○ Pilotcontinuesthemaneuverthroughthenumberofsymmetricalloopsspecified,thenresumesstraight-and-levelflight.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

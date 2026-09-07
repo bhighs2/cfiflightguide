@@ -1,0 +1,79 @@
+DOCUMENT_TITLE: binns_task_a_-_preflight_assessment
+SOURCE_FILE: binns_task_a_-_preflight_assessment.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_preflight_assessment.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (V-A)1
+Preflight Assessment
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthepreflightassessmentandhowtoperformtheprocedureproperly.
+Purpose
+AsafeflightbeginsbyconductingthePAVEchecklist. The‘A’inPAVEreferstotheAircraft. Weneedanairworthyairplane.Beforeanyflight,pilotsmustthoroughlyinspecttheairplanetoensureairworthiness. Mechanicsforgettoattachitems,windcandamageanairplanesittingontheramp,andfuelandfluidsleak. Thislessonintroducespilotstothepreflightinspectionprocedure,andteachesthemhowtodeterminewhatisnormalandabnormalfortheirparticularairplane.
+Schedule Equipment
+● GroundLesson:10minutes- At theairplane● Initial■ BeforeFlight:15minutes- IntroductionandDemonstration● EveryFlight■ BeforeFlight:10minutes- Student Performs
+● PAVEChecklist● AirplaneChecklist● AirplaneMaintenanceRecords
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratetheprocedure.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthepreflightassessmentandhowtoexecuteitproperly.● BeforeEveryFlight:Studentcanperformthepreflightassessment,includingthefollowing.● FollowsthePAVEchecklisttodeterminetheflightcanbeconductedsafely.● Determiningairworthinesspaperwork(inspections,etc.)arecorrectandcurrent● Followsapreflightinspectionchecklist● Inspectingflightcontrols,fuselage,engine,fuel,wheels/brakes,lights,pitot/staticsystem,antennas,etc.● Notinganydefects,usingsoundjudgmenttodetermineairworthiness
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_preflight_assessment.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (V-A)2
+References
+● GeneralAviationGuru-“HowtoPreflightaCessna172[HD]”○ YouTube-https://www.youtube.com/watch?v=C-yqLXZtkjA● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter2,Page1-12[PreflightAssessmentoftheAircraft]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter6[FlightControls],Chapter7[AircraftSystems]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIITaskA● FAA-S-ACS-7B(CommercialPilotACS)-AreaIITaskA● FAA-S-ACS-25(CFIACS)-AreaVTaskA
+GroundLessonOutline
+● Beforegoingtotheaircraft○ EstablishingAirworthiness-Inspections,ADs,etc. RefertoAreaIII - B- AirworthinessRequirements○ ConsiderPlanfortheFlight- Refer toAreaII TaskI - NavigationandCrossCountryPlanning○ ConsiderWeather/EnvironmentalFactorsfortheFlight-RefertoAreaIII - C- Weather Information○ PAVEChecklist-RefertoAreaII - A- HumanFactors● PreflightInspection○ ReasonsforPreflightInspections○ Importanceofusingachecklist○ Itemsthatshouldbeinspected-Flightcontrols,fuel,engine,lights,wheels/brakes,pitot/staticports,antennas,etc.○ Pilotjudgement,ADM/RiskManagement-Acceptnounnecessaryrisk● FuselageandFlightControls○ Removalofcontrollock,ailerons,elevator,rudder,trimtabs,flaps○ Hinges,controlrods/cables,properfreemovement○ Stallindicator○ Cracks,missingscrews,bent/crumpledareas○ Ice/Frost-Nonepermitted! (Removal,etc.)○ Removalofchocks/tiedowns,securingofbaggagearea,anylooseitems,andbaggagedoor● Engine/Propeller○ Oillevel,belts,visibleoilleaks,airfilter,exhaustsystem,propellerdings,etc.○ Addingoil● Fuel○ Howtocheckquantity,fuelquality,drainlocations,ventlocations○ Whattodoincaseofcontaminatedfuel● Wheels/Brakes-Tirewear,wheelbrakepads,visiblehydraulicleaks,etc.● Lights-Battery,landing/strobe/nav/anti-collisionlights● Pitot/Static-Pitottubecoverremoval,staticportfreefromdebris● Antennas-Nonemissing,abnormallybent,etc.● Oxygensystem,includingsupplyandproperoperation(ifapplicable).
+CommonErrors
+● Failuretoconduct aPAVEchecklist beforeflight.● Failuretouseor theimproper useof checklist.● Hazardswhichmayresult fromallowingdistractionstointerrupt avisual inspection.● Inabilitytorecognizediscrepanciestodetermineairworthiness.● Failuretoensureservicingwiththeproper fuel andoil.● Failuretoensureproperloadingandsecuringofbaggage,cargo,andequipment.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_preflight_assessment.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (V-A)3
+GroundLessonSupplement
+● Propeller Ding-Cancatchafingernailontheding
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_preflight_assessment.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (V-A)4
+● CheckingFuel QuantityandQuality- Visuallyinspectfuellevelandquantity.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_preflight_assessment.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (V-A)5
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_preflight_assessment.pdf>>>
+========================================
+
+PPL/ CAX/ CFI (V-A)6
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

@@ -1,0 +1,76 @@
+DOCUMENT_TITLE: binns_task_c_-_chandelles
+SOURCE_FILE: binns_task_c_-_chandelles.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_chandelles.pdf>>>
+========================================
+
+CAX(V-C) / CFI (IX-C)1
+Chandelles
+Objective
+Toensuretheapplicantunderstandstheelementsofthechandellemaneuverandhowtoperformitproperly.
+Purpose
+Thepurposeofthechandellemaneuveristoexecutea180degreeclimbingturnwithminimumturnradius. Thechandelledemonstratestherelationshipbetweenspeedandrateofturn,andtheleft-turningtendencies. Correctlyperformingthechandellemaneuverdemonstratespilotproficiencywithaccuratelymanagingaircraftattitude,maneuveringinslowflightnearthestall,andcompensatingfortheleft-turningtendencies.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:30minutes- IntroductiontoManeuver■ Flight 2:30minutes- ImproveProficiency(Dual)● Solo■ Flight 3:20minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● n/a
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_chandelles.pdf>>>
+========================================
+
+CAX(V-C) / CFI (IX-C)2
+References
+● TheUNDAeroCast-CommercialChandelles○ YouTube-https://www.youtube.com/watch?v=Ml8YI7oj2Q8● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter10,Page4-6[ChandellesManeuverDescription],Chapter3,Page14[TurnRadius,OverbankingTendency]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page30-33[LeftTurningTendencies],Chapter5,Page39[TurnRadius]● FAA-S-ACS-7B(CommercialPilotACS)-AreaVTaskC● FAA-S-ACS-25(CFIACS)-AreaIXTaskC
+GroundLessonOutline
+● WhatisaChandelle?○ Twophases■ ConstantBank,IncreasingPitch■ ConstantPitch,DecreasingBank● RateofTurnvs.Airspeed○ Lessspeed=Higherrateofturnforagivenbankangle● OverbankingTendency● LeftTurningTendencies○ EspeciallyP-factorduetohighAngleofAttack● Safetyconsiderations○ Lowspeedturningflight-AcceleratedStalls○ Useofchecklists○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Pitchcontrolwithdecreasingairspeed○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Notclearingthearea● Initial bankistooshallowresultinginastall● Initialbankistoosteepresultinginfailuretogainmaximumperformance● Allowingthebankangletoincreaseafterinitialestablishment● Notstartingtherecoveryatthe90°pointintheturn● Allowingthepitchattitudetoincreaseasthebankisrolledoutduringthesecond90°ofturn● Levelingthewingsprior tothe180° point beingreached● Pitchattitudeislowonrecoveryresultinginairspeedwell abovestall speed● Applicationofflightcontrolpressuresisnotsmooth● Poor flight control coordination● Stallingatanypointduringthemaneuver● Executionofasteepturninsteadofaclimbingmaneuver● Notscanningforothertrafficduringthemaneuver● Performingbyreferencetotheflight instrumentsrather thanvisual references
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_c_-_chandelles.pdf>>>
+========================================
+
+CAX(V-C) / CFI (IX-C)3
+GroundLessonContent
+● What isaChandelle?-Thechandelleisamaximumperformance180degreeclimbingturnthatcanbebrokendownintotwophases:○ Phase1- Constant Bank, IncreasingPitch-Aircraftbeginsinnormalcruise,belowVa,banksto30degrees,setsmaximumavailablepower,andincreasespitchsmoothlyuntilthe90degreepointoftheturn.○ Phase2- Constant Pitch, DecreasingBank-Aircraftmaintainsaconstantpitchanglewhilesmoothlyreducingbankangleuntilthe180degreepointoftheturnisreached,endinginslowflight,justabovestallspeed. Theaircraftthenrecoverstonormalcruise.
+● Rateof TurnvsAirspeed-Thismaneuverillustratestheconceptthatasairspeeddecaysandbankangleremainsthesame,therateofturnincreases. Asthebankangleisreducedinthesecondphaseofthemaneuver,therateofturnremainshighduetothedecreasingspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_c_-_chandelles.pdf>>>
+========================================
+
+CAX(V-C) / CFI (IX-C)4
+● OverbankingTendency-Aircraftflyingwithahighrateofturnalsohaveastrongoverbankingtendency. Thisiscausedbytheoutsidewingtravelingalongerpaththantheinsidewing,andthereforetravelingataslightlyhigherairspeed,andcreatingmorelift. Itmaybenecessarytoapplyoppositeailerontocounteracttheoverbankingtendencyduringatightturn.
+● Left TurningTendencies-Thismaneuveralsoillustratestheincreasingeffectsofleft-turningtendenciesasairspeeddecreasesandangleofattackincreases. Towardstheendofthemaneuver,rightrudderpressurewillbesignificant. Theamount of rudder pressurerequiredvariesbetweenachandelleperformedtotheleft andoneperformedtotheright!
+● SafetyConsiderations○ Lowspeedturningflight-AcceleratedStallsareaconcernduringtheChandellemaneuver,astheaircraftwillbeturningatlowairspeedsandbeveryclosetothestallspeedattheendofthemaneuver. Pilotsmust bereadytoreact toastall warning.○ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_c_-_chandelles.pdf>>>
+========================================
+
+CAX(V-C) / CFI (IX-C)5
+○ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.
+ManeuverDescription● EntryAltitude-Achandelleshouldbestartednolower than1,500ftAGL,howeveritisimportanttorealizethatachandellewillresultinasignificantgaininaltitude. Analtitudeshouldbeselectedsuchthatthemaneuverbeginsatleast1,500ftAGL,butthatitcanbesafelycompletedbelowanyoverlyingairspace. Achandelletypicallyresultsinthegainofapproximately500feetofaltitude,howeverplanningfor1,000ftofaltitudegainwillallowforadequatesafetymargin.● EntrySpeed-Likeallperformancemaneuvers,achandellemustbestartedatlessthanVa(maneuveringspeed). Typicallyachandelleisenteredinlevelcruiseflight,atleast5-10knotsbelowVa.● Bank-Thesteepestbankangleshouldbeapproximately30degreesof bank.● PitchandExit Speed-Sufficientpitchshouldbeusedsuchthatattheendofthemaneuver,theairplaneisinslowflight,nearthestallwarning. Typicallythisisbetween15and20degreesof pitch.Ideally,thestallwarningsoundsjustasthe180degreepointoftheturnisreached. Endingtheturnatanairspeedtoofarabovethestallresultsinfailingtoachievemaximumperformance. Notethat duetothedecreasingairspeed, nose-upelevator pressurewill needtocontinuallyincreasethroughout themaneuver!● Recovery-Maintainaltitude(donot losealtitude)whileslowlyreducingbackelevatorpressuretoregainairspeed. Recovertonormalcruiseflight.● Coordination-Propercoordinationisessentialtothechandelleandshouldbemaintainedat all times.Rightrudderpressurewillbesignificant,especiallyinarightchandelle. Failuretoapplyadequaterudderpressurecanresultinanuncoordinatedpower-onstall,whichcanleadtoenteringaspin.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtohelpmonitortheaircraftattitudeandtheprogressoftheturn.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthechandelleandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanaltitudetoperformthemaneuver,beginningnolowerthan1,500ftAGL○ Pilotbanksapproximately30degreesandpitchesupsmoothlyuntilreachingthe90degreepointoftheturn○ Pilotsmoothlyreducesbankwhileholdingconstantpitchandrollingoutatthe180degreepoint+/-10degreesjustabovestallspeed,andmomentarilymaintainsthisspeedwithout stalling.○ Pilotresumesstraightandlevelflightwithminimumlossofaltitude
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

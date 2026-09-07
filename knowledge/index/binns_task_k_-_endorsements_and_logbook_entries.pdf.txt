@@ -1,0 +1,41 @@
+DOCUMENT_TITLE: binns_task_k_-_endorsements_and_logbook_entries
+SOURCE_FILE: binns_task_k_-_endorsements_and_logbook_entries.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_k_-_endorsements_and_logbook_entries.pdf>>>
+========================================
+
+CFI  (II-K)  1  
+Logbook  Entries  and  Certificate  Endorsements  
+Objective  
+ 
+To  ensure  the  applicant  learns  the  required  elements  of  logbook  entries,  logging  of  training  given,  and  student  pilot  endorsements.  
+Purpose  
+The  ‘power  of  the  pen’  is  one  of  the  most  powerful  tools  a  CFI  has  at  their  disposal.   This  lesson  takes  an  aspiring  CFI  through  all  of  the  required  logbook  entries  and  endorsements  necessary  to  take  a  student  pilot  through  the  Private  Pilot  checkride.  
+Schedule  Equipment  
+●  Ground  Lesson :  30  minutes  ●  Student  Q&A :  10  minutes  
+●  Copy  of  AC  61-65K  ●  14  CFR  Part  61  ●  Endorsement  Quick  Reference  (optional)  ●  Whiteboard  /  Markers  (optional)  
+Student  Actions  Instructor  Actions  
+●  Ask  any  questions,  receive  study  material  for  the  next  lesson.  ●  Watch  linked  video.  ●  Review  listed  references.  
+●  Deliver  the  ground  lesson  (below).  ●  Answer  student  questions.  
+Completion  Standards  
+●  Student  can  explain  the  following  concepts:  ●  Required  elements  of  a  logbook  entry,  and  a  logbook  entry  for  training  given  ●  When  logbook  entries  are  required  ●  Required  training  and  endorsements  for  student  solo,  solo  X/C,  and  PPL  checkride  ●  Requirements  for  flight  instructor  record  keeping  ●  Flight  instructor  certificate  renewal  and  reinstatement  requirements  
+ 
+Prepared  by:  Ryan  Binns  (ryancbinns.com/flying),  February  2020  (Updated  January  2026)  Editable  versions  available  at  binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_k_-_endorsements_and_logbook_entries.pdf>>>
+========================================
+
+CFI  (II-K)  2  
+ 
+References  
+●  Todd  Shellnutt  -  “Log  Book  Endorsements  for  the  CFI  Check  Ride”  ○  YouTube  -  https://www.youtube.com/watch?v=yy_lc6KDilU ●  14  CFR  -  61.51  [Logbooks],  61.87  [Student  Solo],  61.93  [Solo  XC],  61.35/39  [Knowledge/Practical  Tests]  ●  FAA  AC  61-65K  (Certification:  Pilots  and  Flight  and  Ground  Instructors)  -  Appendix  A  [Sample  Endorsements]  ●  FAA-S-ACS-25  (CFI  ACS)  -  Area  II  Task  K  
+Ground  Lesson  Outline  
+●  Required  Logbook  Entries  -  §61.51(a)  -  Training  for  a  certificate,  rating  or  flight  review  /  Recency  of  experience   ●  Required  Logbook  Entries  for  Instruction  Given  ○  All  entries  -  §61.51(b)  -  Date,  Flight  Time,  To/From,  Type  and  Identifier,  Safety  Pilot  Name  (if  required),  Type  of  Experience  (Solo/PIC/Dual/etc),  Conditions  of  Flight  (Day/Night/Sim  IMC/etc)  ○  Training  -  §61.51(h)  -  Endorsed  legibly  (signed)  by  authorized  instructor,  certificate  #,  certificate  expiration  (e.g.  “ Exp  02/28/27 ”)  -or-  recency  of  experience  expiration  (e.g.  “ RE  02/28/27 ”),  description  of  the  training  given,  training  time  ●  Required  Student  Pilot  Endorsements  and  Logbook  Entries  ○  Importance  of  Endorsement  expiration  dates  and  applying  appropriate  limitations  ○  Pre-Solo  and  Solo  -  Must  have  training  in  make/model  -  ( TSA  MED  IACRA  61.87  B  C  N )  ■  Before  Training  -  §  1552.15(c)  TSA  Endorsement  (AC  61-65K  A.14 )   ■  Medical  Certificate  -  MedXPress  ■  Student  Pilot  Certificate  -  IACRA  ■  §  61.87(b)  -  Pre-Solo  Aeronautical  Knowledge  (AC  61-65K  A.3 )  ■  §  61.87(c)(1)  and  (2)  -  Pre-Solo  Flight  Training  (make/model,  §  61.87(d))  (AC  61-65K  A.4 )  ■  §  61.87(n)  -  Initial  90  Day  Solo  (AC  61-65K  A.6)  /  §  61.87(p)  -  Additional  90  Days  Solo  ( A.7 )  ○  XC  -  Must  have  training  in  make/model  ■  §  61.93(b)(1)  -  Solo  takeoff/landings  at  airport  <25nm  -  (AC  61-65K  A.8 )  ■  §  61.93(c)(1)  and  (2)  -  Solo  XC  (General)  -  (AC  61-65K  A.9 )  -  Training  instructor,  make/model  ■  §  61.93(c)(3)  -  Solo  XC  (Per  Flight)  -  (AC  61-65K  A.10 )  -  Instructor  who  reviewed  the  planning  ●  Preparation  of  a  recommendation  for  a  pilot  practical  test,  including  appropriate  logbook  entry  for:  ○  Initial  pilot  certification  -  ( Solo  age  16,  PPL  age  17 )  ■  §  61.35(a)(1)  -  Review  Home  Study  Curriculum  (AC  61-65K  A.86 )  -  See  61-65K  Section  10  ■  §§  61.35(a)(1),  61.103(d),  and  61.105  -  PPL  Knowledge  Test  (AC  61-65K  A.36 )  ■  §  61.39(a)(6)(i)  and  (ii)  -  Prerequisites  for  Practical  Test  (AC  61-65K  A.1 )  -  Logged  training  within  2  calendar  months  ■  §  61.39(a)(6)(iii)  -  Review  of  Deficiencies  on  Knowledge  Test  (AC  61-65K  A.2 )  ■  §§  61.103(f),  61.107(b),  and  61.109  -  Flight  Proficiency/PPL  Practical  Test  (AC  61-65K  A.37 )  ○  Additional  pilot  certification  ( CPL/CFI  age  18 )  ■  All  checkrides  -  A.1 ,  A.2 ,  relevant  practical  and  knowledge  test  endorsements  ○  Additional  aircraft  qualification  -  Complex/HP/Tailwheel/etc  are  just  endorsements  ■  Added  class  -  No  written,  no  minimum  training,  checkride  also  requires  A.1  and  A.2  above  ●  §  61.31(d)(2)  -  Solo  without  category/class  (AC  61-65K  A.76 )  ●  §  61.63(b)  or  (c)  -  Additional  category  or  class  practical  test  (AC  61-65K  A.78 )  ■  Added  category  -  Usually  no  written,  Meet  aeronautical  experience  experience,  same  endorsements  as  above  ●  Endorsements  for  Completion  of  a  Flight  Review  -  61.51  ○  §  61.56(a)  and  (c)  -  Flight  Review  (1  hour  flight  and  1  hour  ground)  (AC  61-65K  A.69 )  ●  Required  Flight  Instructor  Records  -  §  61.189(b)  -  ( Maintain  3  years )  ○  Name  of  each  person  endorsed  for  solo  (plus  the  date  of  endorsement),  or  knowledge/practical  test  ●  Flight  Instructor  Recency  of  Experience  (§  61.197)  and  Reinstatement  Requirements  -  See  AC  61-65K  §30-31   
+Prepared  by:  Ryan  Binns  (ryancbinns.com/flying),  February  2020  (Updated  January  2026)  Editable  versions  available  at  binnsflightservices.com/cfibinder

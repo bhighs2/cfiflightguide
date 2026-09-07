@@ -1,0 +1,110 @@
+DOCUMENT_TITLE: binns_task_a_-_normal_takeoff_and_climb
+SOURCE_FILE: binns_task_a_-_normal_takeoff_and_climb.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)1
+Normal Takeoff andClimb
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofnormaltakeoffandclimbmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Everyflightbeginswithatakeoff. Gettingupintotheaircanappeareasy,butdoingitsafelyrequirespilotstodevelopbettercontroloftheairplanetomanagevaryingwindconditionsandairplaneclimbperformance.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:10minutes- IntroductiontoManeuver■ Flight:20minutes(perflight)- Practice● Solo■ Flight:20minutes(persoloflight)- ImproveProficiency● Pre-Checkride■ Flight:10minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplaincrabbing,sideslips,crosswindtechnique,VxandVy.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Configuresairplanefortakeoff,performspre-takeoffchecklist,andverifiestakeoffrunway.● MakesappropriatecrosswindcorrectionsandrotatesatVr.● PitchesforandmaintainsaclimbatVy(+10/-5knotsPrivatePilot,+/-5knotsCommercial).● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)2
+References
+● ERAUSpecialVFR-“NormalandCrosswindTakeoffandClimb”○ YouTube-https://www.youtube.com/watch?v=l5ZxnVu-A1E● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter6,Page1-2[PriortoTakeoff],Chapter6,Page3-6[NormalTakeoff],Chapter6,Page6-10[CrosswindTakeoff],Chapter6,Page14[RejectedTakeoff/EngineFailure]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page9-10[AvoidingWakeTurbulence],Chapter5,Page30-33[LeftTurningTendencies],Chapter11,Page12-16[TakeoffPerformance],Chapter11,Page19-28[PerformanceCharts]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskA● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskA● FAA-S-ACS-25(CFIACS)-AreaVIITaskA
+GroundLessonOutline
+● Takeoffs● AirplanesFlyWithTheAir○ Crosswinds,crabbing● Sideslips● CrosswindTechnique● RunwaySafety● BestAngleofClimb(Vx)andBestRateofClimb(Vy)● Left-TurningTendencies● TakeoffPerformance○ Densityaltitude● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning○ Runwayincursionavoidance○ Windshear,Tailwinds,WakeTurbulence○ Runwaysurfaceconditions○ RejectedTakeoffs,EngineFailureduringTakeoff● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Improperrunwayincursionavoidanceprocedures.● Improper useof controlsduringanormal or crosswindtakeoff.● Inappropriatelift-off procedures.● Improperclimbattitude,powersetting,andairspeed(VY).● Improperuseofchecklist
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)3
+GroundLessonContent
+● Takeoffs-Allflightsbeginwithatakeoff. Comparedtolandings,takeoffsaregenerallyasimplemaneuver,andmanystudentpilotsareabletoperformthemonthefirstlesson. However,proper,safecrosswindtakeofftechniqueisanessentialpilotingskill. Pilotsmustbeawareoftheaerodynamicsofslips,theperformanceandlimitationsoftheiraircraft,andhowtomanagethesubsequentclimb.● AirplanesFlyWithTheAir-Itmayseemsillytostatesomethingsoobvious,butitiscrucialtounderstand. Airisalwaysmoving,andairplanesaremovingwithinit. Whenastudentpilotwatchesotherairplanesland,itishardnottonoticethattheirnosesarealmostneveralignedwiththerunway.Theyseemcrooked. Thesameistrueoftakeoffs.
+○ Althoughairplanesgenerallyflystraightcoursesthroughtheair,whenthemovementoftheairisadded,thesecoursesaredifferentacrosstheground. Thegroundtrackof anairplaneisthecombinationof it’sairspeed(speedthroughtheair), heading(thedirectionit ispointing), andthewindspeed.
+○ Almost all takeoffsarecrosswindtakeoffs. Thereisusuallyatleastsomecomponentofwindwhichisside-to-siderelativetotherunway. However,becauseairplanesflywiththeair,theyusuallywanttotakeoffandlandintothewind,asmuchaspossible,toavoidside-to-sidewindsortailwinds.○ Anairplanewhichistrackingacoursealongthegroundbyaligningitsnosewithanotherdirectionissaidtobecrabbing.○ Inordertosafelytakeoffonrunways,whicharenevermoving,inwinds,whicharealwaysmoving,airplanesneedtoapplyacorrectiontotracktherunwayinastraightline. Airplanelandinggeararejustwheels,andjustlikeacaroranyothervehicle,theyneedtopointinthe
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)4
+directionoftravel. Soasanairplanemakesitstakeoff roll, itswheelsneedtostayalignedwiththerunway.● Sideslips-Itispossibletoflyanairplanesuchthatit’snosepointsinonedirection,butitfliesthroughtheairinaslightlydifferentdirection. Thislookslikeaslightsidewaysmotion(relativetotheair),andiscalledasideslip.○ Asanairplaneacceleratestotakeoffspeed,itmustenterasideslipwherethesideslipismovingtowardsthewind. Thesidewaysmotionwillbe‘canceled’bythewind,anditwillresultintheairplanetravelingstraightdowntherunway.○ Sideslipshappenwhenanairplaneisbanked,buttherateof turnisinsufficientforthebankangle. Consideranormalbankedturn,withtheballcentered. Theairplanewillhavearateofturnwhichisrelatedtothebankangle--morebank, morerateof turn. Normalturnsrequireruddertomaintaintheballinthecenter.○ If, insteadof applyingrudder inthedirectionof thebank, thepilot doesnot usetherudder at all or appliesrudder oppositethebank, theairplanewill enter asideslip.○ Wheninasideslip,theairplanegenerallywantstoreturntonormalflight,andpilotswillhavetoholdoppositeaileronandruddercontrolstoremaininthesideslip. Thisiscalledacross-controlledcondition.
+● CrosswindTechnique-Pilotscanusetheirknowledgeofsideslipstotakeoffincrosswinds:○ Astheairplanealignswiththerunwayfortakeoff,thepilotbeginsby‘crossingthecontrols’,withtheaileronintothedirectionof thewind,which,oncetheairplanehasacceleratedenoughtomakethecontrolsaerodynamicallyeffective,putstheplaneintoasideslipandkeepstheairplanealignedwiththerunway. Thisiscalledcrosswindcorrection.○ Becauseofthesideslip(andbankintothewind), themainlandinggear tothesideof thewind(theupwindwheel) will belower thantheother mainlandinggear (thedownwindwheel),andtheairplanewillleavethegrounddownwindwheelfirst,andthenupwindwheel.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)5
+○ Astheairplaneleavestheground, thecrosswindcorrectioncanberelaxedandtheairplanewill naturallyweathervane,whichistosayitalignsitselftowardsthewind,andfliesinacrabbedorientation.
+● RunwaySafety-Alltakeoffsgenerallystartwiththeairplanecrossingoveraholdshortline,whichisthelinethatindicateswheretherunwayareabegins. Holdshortlinesshouldbetakenveryseriously!○ Beforecrossingaholdshortline:■ Atatoweredairport,thepilotmusthavereceivedataxi,runwaycrossing,ortakeoffclearancefortherunwaytheyareabouttoenter.■ Atanon-toweredairport,thepilothascommunicatedtheirintentionsovertheradio(CommonTrafficAdvisoryFrequency--CTAF),andhasvisuallyverifiedthatthereisnotrafficonfinalapproachfortherunway,orontherunwayitself,whichwouldconflict.● Best Angleof ClimbandBest Rateof Climb-Whenperformingatakeoffandclimb,therearetwoimportantspeedsthatpilotsmustmemorizefortheiraircraft:○ Vx-Thebest angleofclimb.○ Vy-Thebest rateofclimb.● Climbingatthebest angleofclimbmeansthattheairplanewillclimbmoresteeplyawayfromtheground,andisusuallyusedforavoidingobstacleswhichmaybepresentespeciallynearsmallrunways.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)6
+● Climbingatthebest rateofclimbismorecommonlyused,anditmeanstheairplanewillclimbfaster,butatashallowerangle. Thisisusedtogainthemostaltitudeintheshortestamountoftime. Thisisnormallythespeedpilotswilluseaftermosttakeoffs.
+● Left-TurningTendencies-Thismaneuverillustratesthestrongeffectsofleft-turningtendenciesatlowairspeedsandhighangleofattack. Becausefullpowerisappliedwhiletheairplaneisatlowspeed,beforetheairplanehasreachedflyingspeed,therudderhaslimitedeffectivenessandsignificant rightrudder pressuremayberequiredtomaintainrunwaycenterline. Likewise,aftertakeoffandwhileinitiallyclimbing,theairplanewillbeflyingatahighangleofattackandhighpowersetting,exaggeratingthetorquereaction,spiralingslipstream,andP-Factor,againrequiringsignificantrightrudderpressure.
+● Takeoff Performance-Determiningexactlyhowmuchdistancewillberequiredfortakeoffiscrucialtoensurethechosenrunwaywillbelongenoughtodepartsafely. Anairplane’stakeoffperformanceishighlydependentonseveralchangingfactors,suchasweight, wind, anddensityaltitude. Aircraftperformanceatheavierweightsorhigheraltitudesisgreatlyreduced.○ Densityaltitude,whichisacorrectionforatmosphericconditions,isthealtitudethatanairplane‘feels’.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)7
+○ Athigheraltitudesoronhotdays,thedensityoftheairwillbelessandthereforetheairplanewillneedtomovemoreairtostayaloft. Becausetheairspeedindicatorisalsoaffectedbydensityaltitude,itwillshowthesamevalues,howeverthetrueairspeedwillbehigher.○ Thedifferencebetweenfieldaltitudeandthedensityaltitudecanbesignificant!■ SeetherelatedlessononDensityAltitude.● ThePOHforeveryaircraftwillcontainperformancechartsthatdetailhowmanyfeetoftakeoffdistanceisrequiredforvariousweights,winds,andweatherconditions. Italsoprescribesanairplaneconfigurationthatshouldbeused.● SafetyConsiderations○ Aswithanytakeoff,theuseof checklistsisimportant. Beforeenteringtherunwayarea,thebeforetakeoffchecklistmustbecompleted.○ All takeoffsrequirecautiontobeexercisedfor obstaclesonor near thefield! Powerlines,talltrees,orotherobstaclesmaybequiteclosetotherunwayenvironment! Theseobstaclesmaybedifficulttoseeinanose-highattitudeaftertakeoff,soathoroughtakeoffbriefingwhichhighlightsthesehazardsshouldbeconductedbeforeeverytakeoff.○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriateradiocalls,andensurethattakeoffclearanceisobtainedbeforeenteringanyrunways,ifatacontrolledfield. Vigilancemust bemaintainedtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines.Atuncontrolledfields,clearlycommunicateyourtaxiandtakeoffintentionsontheradio.Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinal approachpathisclear!○ Iftheairplaneisnotacceleratingasexpectedandthetakeoffisindoubt, abort!○ Alwayshaveaplaninmindincaseof enginefailureimmediatelyafter takeoff!Therewillbenotimetocomeupwithaplanifithappensatverylowaltitude.○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.○ RunwaySurfaceConditions-Iftherunwayiswetoricy,itcanbequiteslippery,particularlyinthetouchdownzonewheremanyprecedingaircrafthavedepositedrubber. Exercisecautioninthesesituations!
+ManeuverDescription● SelectingaSuitableRunway-Selectarunwaythatwillallowtakeoffintothewind,orwithamanageablecrosswind.● Checklists-Pilotsmustperformabefore-takeoffchecklistbeforebeginningthemaneuver,andthoroughlybriefanyhazardsthatmaybepresentondeparture.● BeforeTakeoff-Configuretheairplanefortakeoff(perthePOH).● EnteringtheRunway-Taxiintotherunway,andlineupwiththecenterline. Applyfullpower,takeyourtoesoffthetoebrakes,andkeeptheairplanealignedwiththerunwayusingtherudder.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_a_-_normal_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-A) / CAX(IV-A) / CFI (VII-A)8
+● Takeoff Roll andLiftoff-Allowtheairplanetoacceleratebut donot allowtheairplanetolift offbeforerotationspeed. Bepreparedtocounteractthesignificantamountofleft-turningtendencieswithrightrudderduringtakeoffroll. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+● Climbout-Oncetheairplanehasacceleratedtorotationspeed,rotateandacceleratetoandclimbatVy. Makesuretoflycoordinated. Moreright rudder!● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthecenterline. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthenormaltakeoffmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotconfigurestheairplaneproperlyfortakeoff,performsapre-takeoffchecklist,ensuresthattakeoffclearanceisobtained(atatoweredairport)orthattherunwayandfinalapproachpathisclear(atanon-toweredairport),andmakestheappropriateradiocalls.○ Pilottaxisontotherunway,andalignswiththecenterline.○ Pilotappliesfullpower,verifiesproperengineindications,andremainsonthegrounduntilrotationspeed.○ Pilotacceleratestorotationspeed,rotates,andclimbsoutatVy+10/-5knots.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

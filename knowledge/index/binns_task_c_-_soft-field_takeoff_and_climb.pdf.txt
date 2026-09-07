@@ -1,0 +1,108 @@
+DOCUMENT_TITLE: binns_task_c_-_soft-field_takeoff_and_climb
+SOURCE_FILE: binns_task_c_-_soft-field_takeoff_and_climb.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)1
+Soft-FieldTakeoff andClimb
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthesoft-fieldtakeoffmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Thesoftfieldtakeoffmaneuverisusedwhendepartingfromgrassorothersoftlandingsurfaces. Itdemonstrateshowtheairplaneneedstobehandleddifferentlyonthesehigh-dragsurfaces. Masteringthismaneuverwillhelppilotsbecomecomfortableoperatingtoandfromgrassstrips.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainhowthenosewheelisprotected,groundeffect,andVxvsVy.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Performsapre-takeoffchecklistandconfigurestheairplanecorrectly.● Holdsweightoffofthenosewheelduringtaxiandalignswiththerunwaycenterlinewithoutstopping.● LiftsoffatthelowestpossiblespeedandacceleratesingroundeffecttoVx.● ClimbsoutatVxuntilclearofobstacles,thenacceleratestoandclimbsatVy.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)2
+References
+● ERAUSpecialVFR-“SoftFieldTakeoff”○ YouTube-https://www.youtube.com/watch?v=6OK-4tudazs● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter6,Page1-2[PriortoTakeoff],Chapter6,Page3-6[NormalTakeoff],Chapter6,Page6-10[CrosswindTakeoff],Chapter6,Page10-11[GroundEffectonTakeoff],Chapter6,Page13-14[Soft/Rough-FieldTakeoffandClimb],Chapter6,Page14[RejectedTakeoff/EngineFailure]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page7[InducedDrag],Chapter5,Page11-12[GroundEffect],Chapter11,Page12-16[TakeoffPerformance],Chapter11,Page19-28[PerformanceCharts]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskC● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskC● FAA-S-ACS-25(CFIACS)-AreaVIITaskC
+GroundLessonOutline
+● WhatareSoftFieldtakeoffs?○ Protectingthenosewheel● ImportanceofEstimatingFieldConditions● GroundEffect● TakeoffPerformance○ DensityAltitude○ Calculatingtakeoffperformancedata,properaircraftconfiguration○ Softfieldsaffectperformance○ VxvsVy,Left-turningtendencies● RunwaySafety● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning-awarenessofobstaclesandfieldcondition○ Runwayincursionavoidance○ Windshear,Tailwinds,WakeTurbulence○ Bereadytoabort!● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Improperrunwayincursionavoidanceprocedures.● Improperuseofcontrolsduringasoft-fieldtakeoff.● Improper lift-off procedures(climbingout of groundeffect prematurely).● Improper climbattitude, power setting, andairspeed(Vyor Vx).● Improperuseofchecklist
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)3
+GroundLessonContent
+● What areSoft Fieldtakeoffs?Takingofffromagrassorothersoft-surfacerunway(soft field)hasafewimportantdifferencesfromnormallandingsmadeonpavedrunways.Pilotsmaygenerallyassumethatpavedrunwaysaremaintainedinacceptableconditions,howeversoftfieldshavenosuchguarantees. Softfieldsmaybecontaminatedwithwater,mud,rocks,orcoveredinpotholesorotherhazards. Evenfieldswhichmayfromadistanceappearquitedrycanbeunexpectedlymuddyorwet.
+● Becausemostcommontrainingairplaneshavetricyclelandinggear,withheavyenginesrestingabovesmallnosewheels,specialcaremustbetakentopreventthenosewheelfromsinkingintothegrassormudandslowingtheairplaneexcessively.
+● Grassandothersoftsurfaces,suchasdirt,provideasignificantamountofincreaseddragorrollingresistanceascomparedtopavedrunwaysurfaces. Therefore,landingdistanceswillbeimproved,howevertakeoffdistancescanbelengtheneddramatically. Taxiingwillalsorequireconsiderablymorepower,andrequirecarefulattentiontokeepingweightoffofthenosewheel!● Thebestwaytoprotectthenosewheelonsoft-surfacefieldsistokeepfull backelevator pressurewheneverinmotiononthesoftsurface, avoidingwheel braking,andavoidingcomingtoacompletestopwheneverpossible.● Importanceof EstimatingFieldConditions-Iftheconditionofasoftfieldisnotalreadyknown,itisgenerallyagoodideatoinspectitcloselytoassessthefieldconditions. Thesurfaceshouldappear dry,thegrassproperlymowed,andfreeof potholesandrocks.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)4
+● Veryearlyinthetakeoffrollthenosewheelwillcomeoffthesurface. Somebackelevatorpressurewillneedtobereleasedtoallowtheairplanetoacceleratesome,buteventuallytheairplanewillwanttobegintoliftoff.● GroundEffect-Astheairplaneliftsoff,andremainsjustabovetheground,itisflyingingroundeffect.Groundeffectisaphenomenonwheretheproximityofanairplane’swingtothegroundinterruptstheusualwingtipvorticesandprovidesacushioningeffect.
+● Flyingingroundeffectwillallowtheairplanetolift off at alower thannormal speed. Itwillalsoallowtheairplanetocontinuetoacceleratetoanairspeedwhichwillallowittoclimbawayfromthegroundsafely.○ Onmanysoft surfaces, therollingresistanceissogreat it maybeimpossibletoacceleratetoflyingspeedwithout gettingintogroundeffect!○ Inthesesituations,itmaybenecessaryto‘unstick’theairplanefromthesoftsurfacebybrisklypullingbackontheelevatortogetairborneandintogroundeffect.○ Itisimportanttorealizethat if theairplanetriestoclimbout of groundeffect beforeitacceleratestoanormal climbairspeed(usuallyVx), it mayenter astall or settlebacktothesurface!● Groundeffectonlyoccurswithinaveryshortdistanceabovethesurface. Generally,theeffectisalmostcompletelygoneby1wingspandistancefromtheground,andisstrongestwithin½awingspanfromtheground.● Takeoff Performance-Determiningexactlyhowmuchdistancewillberequiredfortakeoffiscrucialtoensurethechosenrunwaywillbelongenoughtodepartsafely. Anairplane’stakeoffperformanceishighlydependentonseveralchangingfactors,suchasweight, wind, anddensityaltitude. Aircraftperformanceatheavierweightsorhigheraltitudesisgreatlyreduced.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)5
+○ Densityaltitude,whichisacorrectionforatmosphericconditions,isthealtitudethatanairplane‘feels’.○ Athigheraltitudesoronhotdays,thedensityoftheairwillbelessandthereforetheairplanewillneedtomovemoreairtostayaloft. Becausetheairspeedindicatorisalsoaffectedbydensityaltitude,itwillshowthesamevalues,howeverthetrueairspeedwillbehigher.○ Thedifferencebetweenfieldaltitudeandthedensityaltitudecanbesignificant!■ SeetherelatedlessononDensityAltitude.● Best Angleof ClimbandBest Rateof Climb-Whenclimbingoutofsmallairstrips,whichareofteninconfinedareas,therearetwoimportantspeedsthatpilotsmustmemorizefortheiraircraft:○ Vx-Thebest angleofclimb.○ Vy-Thebest rateofclimb.● Climbingatthebest angleofclimbmeansthattheairplanewillclimbmoresteeplyawayfromtheground,andisusuallyusedfor avoidingobstacleswhichmaybepresentespeciallynearsmallrunways.● Climbingatthebest rateofclimbismorecommonlyused,anditmeanstheairplanewillclimbfaster,butatashallowerangle. Thisisusedtogainthemostaltitudeintheshortestamountoftime.
+● Remember theLeft TurningTendencies-Recallthe4left-turningtendenciesdescribedinpreviouslessons. Itisimportantforpilotstokeeptheseinmindwhileclimbing,especiallyatlowairspeeds(asinaVxclimb),tomaintainpropercoordination.● ThePOHforeveryaircraftwillcontainperformancechartsthatdetailhowmanyfeetoftakeoffdistanceisrequiredforvariousweights,winds,andweatherconditions. Italsoprescribesanairplaneconfigurationthatshouldbeused.○ Tousetheperformancecharts,firstfindthepressurealtitude,bysettingthealtimeterto29.92”orusingtheconversion. Then,findthecellinthetablethatmatchestheairplanegrossweightwiththepressurealtitudeandthecurrenttemperature. Makesuretoreadthenotes, incasedistancesneedtobeadjustedfor windor other conditions! Rememberthatasoftfieldwillalwaysrequiremoretakeoffdistancethanapavedrunway,sotakeoffperformancefiguresneedtobeadjusted.○ Itisbesttoadda‘safetyfactor’totheperformancefiguresobtainedfromthePOHperformancecharts. Generally,itisagoodideatooverestimatethepressurealtitudeandtemperatureforaworstcasescenario,andadd20-30%toaccountforthepossibilityofimperfecttechnique.○ Don’t forget toconsider wind! Atailwinddramaticallyincreasestakeoffandlandingdistances. Likewise,astrongheadwindcangreatlyimproveperformance.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)6
+○ Payattentiontoaircraft configuration-SomePOHscallforflaps,sodonot. Theperformancenumbersareonlyvalidforthegivenconfiguration!
+● RunwaySafety-Alltakeoffsgenerallystartwiththeairplanecrossingoveraholdshortline,whichisthelinethatindicateswheretherunwayareabegins. Holdshortlinesshouldbetakenveryseriously!○ Beforecrossingaholdshortline:■ Atatoweredairport,thepilotmusthavereceivedataxi,runwaycrossing,ortakeoffclearancefortherunwaytheyareabouttoenter.■ Atanon-toweredairport,thepilothascommunicatedtheirintentionsovertheradio(CommonTrafficAdvisoryFrequency--CTAF),andhasvisuallyverifiedthatthereisnotrafficonfinalapproachfortherunway,orontherunwayitself,whichwouldconflict.● SafetyConsiderations○ Aswithanytakeoff,theuseof checklistsisimportant. Beforeenteringtherunwayarea,thebeforetakeoffchecklistmustbecompleted.○ Soft-fieldtakeoffsrequirespecial cautiontobeexercisedfor adequatefieldsurfaceconditionsandwatchingfor obstaclesonor near thefield! Powerlines,talltrees,orotherobstaclesmaybequiteclosetotherunwayenvironment! Theseobstaclesmaybedifficulttoseeinanose-highattitudeaftertakeoff,soathoroughtakeoffbriefingwhichhighlightsthesehazardsshouldbeconductedbeforeeverytakeoff.○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriateradiocalls,andensurethattakeoffclearanceisobtainedbeforeenteringanyrunways,ifatacontrolledfield. Vigilancemust bemaintainedtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines.Atuncontrolledfields,clearlycommunicateyourtaxiandtakeoffintentionsontheradio.Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinal approachpathisclear!○ Iftheairplaneisnotacceleratingasexpectedandthetakeoffisindoubt, abort! Thisisespeciallyimportantonsoftfields,whereanunexpectedlywetorsoftrunwaysurfacemayproduceenoughrollingresistancethattakeoffisimpossible!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)7
+○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.
+ManeuverDescription● SelectingaSuitableSurface-Selectarunwayorsuitablesoftfieldsurfacethatwillallowtakeoffintothewind,orwithamanageablecrosswind. Whenusinganactualsoft-field,itisbesttofirstinspectthefieldtoverifythatitisfreefromlargepotholes,ruts,mud,orotherdebristhatmaydamagetheairplane.● Checklists-Pilotsmustperformabefore-takeoffchecklistbeforebeginningthemaneuver,andthoroughlybriefanyhazardsthatmaybepresentondeparture.● Taxiing-Taxiwithfullelevatorbackpressuretokeepweightoffofthenosewheelandavoiduseofbrakesorcomingtoacompletestop.● BeforeTakeoff-Configuretheairplaneforsoft-fieldtakeoff(perthePOH),usuallyrequiringflaps.● EnteringtheRunway-Taxiintotherunwayandsmoothlylineupwiththecenterlinewithoutstopping.Applyfullpowerwhileholdingelevatorbackpressure.● Takeoff Roll andLiftoff-Thenosewheelshouldcomeupveryearlyinthetakeoffroll. Gentlyreleaseelevatorpressuretoallowtheairplanetoacceleratewhilekeepingthenosewheelofftheground.Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting. Allowtheairplanetoliftoffandquicklypushforwardontheelevator toenter groundeffectandflylevelingroundeffectwhileaccelerating.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_c_-_soft-field_takeoff_and_climb.pdf>>>
+========================================
+
+PPL(IV-C) / CAX(IV-C) / CFI (VII-C)8
+● Climbout-OncetheairplanehasacceleratedtoVxingroundeffect,climbatVxuntilanyobstaclesarecleared. Afterallobstaclesarecleared,reducepitch,retractflaps,andacceleratetoVy. Makesuretoflycoordinated. Moreright rudder!● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthecenterline. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthesoft-fieldtakeoffmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotconfigurestheairplaneproperlyfortakeoff,performsapre-takeoffchecklist,ensuresthattakeoffclearanceisobtained(atatoweredairport)orthattherunwayandfinalapproachpathisclear(atanon-toweredairport),andmakestheappropriateradiocalls.○ Pilotmaintainsfullelevatorbackpressurewhiletaxiing,avoidingcomingtocompletestops,andsmoothlytaxisontotherunwayareaandalignswiththecenterline.○ Pilotraisesthenosewheelontakeoffroll,liftsoffearly,andremainsingroundeffect.○ PilotacceleratestoVxingroundeffect,andclimbsoutatVxuntilclearofobstacles.○ Afterclearofobstacles,pilotproperlyreconfiguresairplaneandacceleratestoVy.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

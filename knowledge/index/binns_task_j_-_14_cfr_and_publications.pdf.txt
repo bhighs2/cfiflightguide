@@ -1,0 +1,41 @@
+DOCUMENT_TITLE: binns_task_j_-_14_cfr_and_publications
+SOURCE_FILE: binns_task_j_-_14_cfr_and_publications.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_j_-_14_cfr_and_publications.pdf>>>
+========================================
+
+PPL  /  CAX  /  CFI  (II-J)  1  
+14  CFR  and  Publications  
+Objective  
+ 
+To  ensure  the  applicant  learns  the  purpose  of  and  can  exhibit  a  clear  understanding  of  the  various  FAA  publications  commonly  used  by  pilots.  
+Purpose  
+Mastering  the  rules  and  regulations  is  critical  for  all  pilots.   This  lesson  introduces  pilots  to  the  various  FAA  publications  available  to  pilots,  as  well  as  their  general  purpose,  content,  and  availability.  
+Schedule  Equipment  
+●  Ground  Lesson :  15  minutes  ●  Student  Q&A :  10  minutes  
+●  FAR/AIM  ●  Airplane  POH  ●  ACS/PTS  Documents  ●  Whiteboard  /  Markers  (optional)  
+Student  Actions  Instructor  Actions  
+●  Ask  any  questions,  receive  study  material  for  the  next  lesson.  ●  Review  listed  references.  
+●  Deliver  the  ground  lesson  (below).  ●  Answer  student  questions.  
+Completion  Standards  
+●  Student  can  explain  the  general  content  of  the  following:  ●  14  CFR  Part  1,  61,  and  91,  NTSB  830  ●  Advisory  Circulars  ●  AIM  ●  Legal  Interpretations  ●  Aviation  Handbooks  ●  POH/AFMs  ●  ACS/PTS  Documents  
+ 
+Prepared  by:  Ryan  Binns  (ryancbinns.com/flying),  March  2020  (Updated  January  2026)  Editable  versions  available  at  binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_j_-_14_cfr_and_publications.pdf>>>
+========================================
+
+PPL  /  CAX  /  CFI  (II-J)  2  
+ 
+References  
+●  14  CFR  (Federal  Aviation  Regulations)  ●  FAA-H-8083-3C  (Airplane  Flying  Handbook)  ●  FAA-H-8083-25B  (Pilot’s  Handbook  of  Aeronautical  Knowledge)  ●  FAA-S-ACS-25  (CFI  ACS)  -  Area  II  Task  J  
+Ground  Lesson  Outline  
+●  Federal  Aviation  Regulations  -  Often  called  the  FAR’s  ○  14  CFR  Part  1  -  Definitions  and  Abbreviations  ○  14  CFR  Part  61  -  Certification  of  Pilots  and  Instructors  ■  Standards  and  training  requirements  for  each  level  of  pilot  certificate,  logging  of  time,  medical  requirements,  etc.  ○  14  CFR  Part  91  -  General  Operating  Rules  ■  PIC  Authority,  General  Rules,  Airspace  Visibility  and  Equipment  Rules,  Required  Equipment  and  Inspections,  etc.  ●  NTSB  Part  830  -  Deals  with  the  reporting  of  aviation  incidents  and  accidents  ○  Accidents  involve  substantial  damage,  injury,  etc.   Requires  immediate  notification.  ○  Incidents  that  also  require  immediate  notification:  ■  Flight  control  system  malfunction  or  failure,  Inability  of  crew  member  to  perform  duties  due  to  illness  or  injury,  Uncontained  turbine  engine  failure,  In-flight  fire,  Mid-air  collision,  Damage  to  non-aircraft  property  in  excess  of  $25,000  for  repair  or  replacement,  Propeller  blade  separation  excluding  that  caused  by  ground  strike,  etc.  ●  Aeronautical  Information  Manual  (AIM)  -  Information  on  a  variety  of  aviation-related  topics,  such  as  non-towered  airport  best  practices  and  information  on  ATC  procedures.  ●  Advisory  Circulars  -  Small  documents  produced  by  the  FAA  providing  context  and  detail  on  important  aviation  topics  ○  Availability  -  https://www.faa.gov/regulations_policies/advisory_circulars/ ○  Commonly  Used  ACs  ■  AC  60-22  -  Aeronautical  Decision  Making,  AC  60-28B  -  English  Language  Skill  Standards,  AC  61-65K  -  Certification:  Pilots  and  Flight  and  Ground  Instructors  [Endorsements],  AC  61-67C  -  Stall  and  Spin  Awareness  Training,  AC  61-98E  -  Currency  Requirements  and  Guidance  for  the  Flight  Review  and  Instrument  Proficiency  Check,  AC  61-142  -  Cost  Sharing,  AC  90-66C  -  Non-Towered  Airport  Flight  Operations,  AC  120-12A  -  Private  Carriage  vs.  Common  Carriage  ●  Information  for  Operators  (InFOs)  -  contains  valuable  information  for  operators  that  should  help  them  meet  certain  administrative,  regulatory,  or  operational  requirements,  with  relatively  low  urgency  or  impact  on  safety.  ●  Safety  Alerts  for  Operators  (SAFOs)  -  Contains  important  safety  information  and  may  include  recommended  action,  usually  for  air  carriers.  ●  Legal  Interpretations  -  Responses  from  the  FAA  Office  of  the  Chief  Counsel  to  questions  on  FARs,  considered  legally  binding  opinions  of  the  FAA  ○  https://www.faa.gov/about/office_org/headquarters_offices/agc/practice_areas/regulations/interpretations ●  Practical  Test  Standards  /  Airmen  Certification  Standards  -  Standards  for  the  conduct  of  practical  tests  (checkrides)  ●  Pilot  Operating  Handbooks  /  Airplane  Flying  Manuals  -  Published  by  airplane  manufacturers,  per  make/model.  ○  Procedures,  Emergency  Procedures,  Limitations,  Equipment  List/W&B,  Description  of  Systems  ●  Handbooks  ○  Airplane  Flying  Handbook  (FAA-H-8083-3C)  -  How  to  fly  an  airplane,  basics  of  flying  maneuvers.  ○  Pilot’s  Handbook  of  Aeronautical  Knowledge  (FAA-H-8083-25B)  -  How  airplanes  fly.  ○  Aviation  Instructor’s  Handbook  (FAA-H-8083-9B)  -  How  to  teach  aviation-related  subjects.  ○  Aviation  Weather  Handbook  (FAA-H-8083-28)  -  A  wealth  of  weather  information.   
+Prepared  by:  Ryan  Binns  (ryancbinns.com/flying),  March  2020  (Updated  January  2026)  Editable  versions  available  at  binnsflightservices.com/cfibinder

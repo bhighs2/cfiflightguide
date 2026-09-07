@@ -8,9 +8,9 @@ To determine the applicant understands evaluation and testing, can apply that kn
 
 ## Purpose
 
-Assessment tells the instructor and learner whether training is working. A professional instructor uses assessment to identify what the learner knows, can do, and still needs to improve; it is not a tool for surprise, punishment, or protecting the instructor's ego.
+Assessment is an essential part of teaching and learning. It gives the instructor feedback about the quality of instruction and gives the learner guidance, positive reinforcement, and specific direction for raising performance.
 
-Effective assessment is aligned with the lesson objective, uses observable evidence, and gives the learner a clear path to the required standard.
+Assessment may be formal or informal, and it should give the learner a meaningful opportunity for self-evaluation. That self-evaluation supports the judgment and decision-making needed in aviation.
 
 ## Schedule / Equipment
 
@@ -25,30 +25,30 @@ Effective assessment is aligned with the lesson objective, uses observable evide
 - Whiteboard or tablet and stylus
 - Aviation Instructor's Handbook
 - CFI Airplane ACS
-- Sample written test, rubric, and lesson plan
+- Sample written assessment and rubric
 - Flight Guide visual aids
 
 ## Learner Actions / Instructor Actions
 
 **Learner Actions**
 
-- Distinguish assessment, evaluation, critique, and grading.
-- Select an assessment method that fits the objective and learner.
-- Write and ask effective oral-assessment questions.
-- Use a rubric or standard to assess a maneuver.
-- Deliver a concise critique with specific improvement guidance.
+- Explain traditional and authentic assessment.
+- Conduct a learner self-assessment using the four-step collaborative process.
+- Select an assessment method from stated learning objectives.
+- Ask and answer oral-assessment questions.
+- Assess a maneuver or procedure against an established performance standard.
 
 **Instructor Actions**
 
-- State the standard and assessment purpose before assessing performance.
-- Use questions, observation, and realistic application to verify learning.
-- Keep assessment objective, timely, and appropriate to the learner.
-- Give specific feedback tied to observable performance.
-- Protect safety and avoid creating distracting or excessive workload during flight assessment.
+- State the objective, criterion, and purpose of an assessment.
+- Use factual observations and the completion standard to assess performance.
+- Keep the assessment constructive, specific, and appropriate to the learner.
+- Use a critique to reinforce effective performance and correct deficiencies.
+- Retain responsibility for safety while observing and assessing flight performance.
 
 ## Completion Standards
 
-The applicant can explain effective, traditional, and authentic assessment; select a method appropriate to the task and learner; conduct oral assessment using effective questions; deliver a constructive critique; and assess ground or flight performance against an established standard.
+The applicant can explain and use appropriate assessment methods in ground or flight training. The applicant can assess learner performance against established standards, conduct a constructive critique and oral assessment, and use assessment results to guide further instruction.
 
 ## ACS Elements
 
@@ -81,10 +81,10 @@ The applicant can explain effective, traditional, and authentic assessment; sele
 1. Assessment terminology and purpose.
 2. Characteristics of effective assessment.
 3. Traditional and authentic assessment.
-4. Selecting the assessment method.
-5. Critiques and oral assessment.
-6. Assessing risk management and piloting ability.
-7. Instructor application: assess performance, explain the result, and plan the next lesson.
+4. Learner-centered assessment and rubrics.
+5. Selecting assessment methods from objectives.
+6. Critiques and oral assessment.
+7. Assessment of piloting ability and delivery risk.
 
 # Prepare
 
@@ -92,8 +92,7 @@ The applicant can explain effective, traditional, and authentic assessment; sele
 
 - [FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS](/knowledge/CFI_ASEL_ACS.pdf) — Area I, Task D
 - [FAA-H-8083-9 — Aviation Instructor's Handbook, Chapter 6: Assessment (pages 132–144)](/knowledge/Aviation_Instructors_Handbook.pdf#page=132)
-- [FAA-H-8083-2 — Risk Management Handbook](/knowledge/Risk_Management_Handbook.pdf)
-- [FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge](/knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf)
+- [FAA-H-8083-9 — Aviation Instructor's Handbook, Chapter 9: Techniques of Flight Instruction, Assessment of Piloting Ability (page 182)](/knowledge/Aviation_Instructors_Handbook.pdf#page=182)
 
 [[pdf: /knowledge/CFI_ASEL_ACS.pdf | start=13 | end=13]]
 
@@ -105,17 +104,31 @@ The applicant can explain effective, traditional, and authentic assessment; sele
 
 ## Memory Aids
 
-[[mnemonic: S-A-F-E | Specific · Accurate · Fair · Effective — qualities of useful assessment feedback]]
+[[mnemonic: R4 | Replay · Reconstruct · Reflect · Redirect — learner-centered assessment sequence]]
 
-[[mnemonic: Ask, Listen, Confirm | Ask an open question · listen to the reasoning · confirm through application or performance]]
+[[mnemonic: O-F-A-C-O-T-S | Objective · Flexible · Acceptable · Comprehensive · Constructive · Organized · Thoughtful · Specific]]
 
 # Teach
 
 ## FI.I.D.K1 — Purpose and Characteristics of Effective Assessment
 
-Assessment is the process of measuring learner performance against a standard so the instructor and learner can make an informed decision about progress. It identifies strengths, deficiencies, and the next training need.
+Assessment provides immediate feedback about instruction and learner performance. It helps the instructor identify where more explanation, demonstration, or emphasis is needed. It also gives the learner practical, specific feedback and guidance for improving performance.
 
-Effective assessment is objective, flexible, comprehensive, constructive, organized, thoughtful, specific, and acceptable to the learner. It is planned around the objective and standard, not based on an instructor's general impression.
+An effective assessment is factual and aligned with the lesson completion standards. It is:
+
+- **Objective:** based on what the learner actually did, rather than personal opinion or bias.
+- **Flexible:** considers the whole performance in its context and fits the tone, content, and technique to the learner and occasion.
+- **Acceptable:** delivered fairly, sincerely, and from demonstrated competence.
+- **Comprehensive:** includes strengths and weaknesses in the amount of detail useful for the situation.
+- **Constructive:** gives guidance that helps the learner improve.
+- **Organized:** follows a logical pattern that makes sense to the learner.
+- **Thoughtful:** respects the learner's dignity and avoids ridicule, anger, or public embarrassment.
+- **Specific:** identifies precisely what was done well or poorly and how performance can improve.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Assess the observable performance, not the learner's personality. Compare the result with the completion standard and identify the next improvement action.
+]]
 
 <figure class="lesson-reference-figure">
     <img
@@ -126,20 +139,15 @@ Effective assessment is objective, flexible, comprehensive, constructive, organi
     <figcaption>Effective Assessment</figcaption>
 </figure>
 
-[[highlight:
-Instructor Principle |
-Assess the performance, not the person. Describe what occurred, compare it with the standard, and identify the next action.
-]]
-
 **Source:**
 
 [[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=132 | end=134]]
 
 ## FI.I.D.K2 — Traditional Assessments
 
-Traditional assessment normally uses objective tests, true-false items, multiple-choice questions, matching, fill-in-the-blank, and essay questions. It can efficiently measure recalled knowledge and some understanding, but a correct written answer alone does not prove the learner can apply the knowledge in a flight-training decision.
+Traditional assessment generally uses written tests: multiple-choice, matching, true-false, fill-in-the-blank, and similar items. The learner usually has a set time to recognize or reproduce memorized information and provides one correct response. It normally assesses rote and understanding levels of learning, although carefully constructed scenario questions may assess higher levels.
 
-A useful written test is valid, reliable, objective, usable, comprehensive, discriminating, and appropriate to the stated objective. Match the question to the learning objective and avoid testing details that do not support safe performance.
+Traditional tests are useful for measuring factual knowledge, concepts, terms, processes, and rules. An effective written test is reliable, valid, usable, objective, comprehensive, and discriminating. Validity is the central question: the test items must measure the stated objectives of instruction.
 
 <figure class="lesson-reference-figure">
     <img
@@ -153,7 +161,7 @@ A useful written test is valid, reliable, objective, usable, comprehensive, disc
 <figure class="lesson-reference-figure">
     <img
         src="/knowledge/Good_Test_Characteristics.png"
-        alt="Characteristics of a good test"
+        alt="Characteristics of a good written test"
         loading="lazy"
     >
     <figcaption>Good Test Characteristics</figcaption>
@@ -161,19 +169,41 @@ A useful written test is valid, reliable, objective, usable, comprehensive, disc
 
 **Source:**
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=134 | end=136]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=132 | end=136]]
 
 ## FI.I.D.K3 — Authentic Assessments
 
-Authentic assessment asks the learner to apply knowledge and skill in a meaningful situation. It is especially useful in aviation because safe flying requires more than recognition of a correct answer; the learner must interpret conditions, make decisions, manage risk, and perform.
+Authentic assessment requires the learner to perform a real-world task and demonstrate meaningful application of learned skills and competencies. The learner generates a solution rather than selecting a predetermined response. Open-ended questions and known performance criteria focus assessment on the learning process, higher-order thinking, real-world skill, and the learner's ability to assess personal work.
+
+A rubric supports reliable, fair, and valid performance assessment. It contains performance dimensions, a rating scale for each dimension, and standards for defined performance levels.
 
 ### FI.I.D.K3a — Learner-Centered Assessment
 
-Learner-centered assessment involves the learner in the process. Ask the learner to explain what happened, identify the discrepancy, and propose the correction. This develops self-assessment and makes the learner an active participant rather than a passive recipient of a grade.
+Learner-centered assessment uses a collaborative critique with open-ended questions. The instructor guides the learner through four steps:
+
+1. **Replay:** describe the flight or procedure while the instructor listens for inaccurate perceptions.
+2. **Reconstruct:** identify what could, would, or should have been done differently.
+3. **Reflect:** give the experience meaning by examining performance, decisions, and comparison with the ACS standard.
+4. **Redirect:** relate the lesson to prior and future experiences, including risk mitigation and needed proficiency.
+
+The instructor and learner then compare their assessments and jointly determine progress. The instructor may need to teach the learner how to participate actively in this process.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Let the learner assess first. The instructor then compares that assessment with observed performance and uses the difference to guide the debrief.
+]]
 
 ### FI.I.D.K3b — Maneuver or Procedure Grades
 
-A maneuver or procedure grade compares observable performance with a published or stated standard. The grade should identify the task, conditions, criteria, observed performance, and needed correction. Avoid allowing one attractive part of a maneuver to conceal a safety-critical deficiency.
+The maneuver or procedure rubric describes a demonstrated level of proficiency:
+
+- **Describe:** the learner can state the physical and cognitive elements but needs assistance to execute the task.
+- **Explain:** the learner understands the concepts, principles, and procedures but needs assistance to execute the task.
+- **Practice:** the learner can plan and execute with coaching, instruction, or assistance to correct deviations.
+- **Perform:** the learner completes the task without instructor assistance and recognizes and corrects errors promptly.
+- **Not Observed:** the event was not accomplished or required.
+
+These grades represent performance level, not personal prestige. Progress is expected: a task may begin at Describe, progress to Practice, and later reach Perform.
 
 <figure class="lesson-reference-figure">
     <img
@@ -186,7 +216,11 @@ A maneuver or procedure grade compares observable performance with a published o
 
 ### FI.I.D.K3c — Assessing Risk Management Skills
 
-Assess risk management through the learner's process, not only the outcome. Ask the learner to identify hazards, assess their significance, consider alternatives, make and explain a decision, and evaluate the result. A favorable outcome does not prove sound judgment when the decision process was weak.
+The risk-management rubric uses three levels:
+
+- **Explain:** the learner identifies and understands scenario risks but needs prompting to identify risks and make decisions.
+- **Practice:** the learner identifies, understands, and applies SRM principles to the actual situation; coaching or assistance corrects minor deviations.
+- **Manage-Decide:** the learner gathers important data inside and outside the flight deck, identifies courses of action, evaluates the risk in each, and makes the appropriate decision without intervention for safe completion.
 
 **Source:**
 
@@ -194,9 +228,19 @@ Assess risk management through the learner's process, not only the outcome. Ask 
 
 ## FI.I.D.K4 — Choosing an Effective Assessment Method
 
-Choose the assessment method that best matches the lesson objective, the learner's stage, and the evidence needed. A written test may verify knowledge; a guided discussion can reveal reasoning; observation during a maneuver can verify skill; and a scenario can assess integrated knowledge, skill, and risk management.
+Select the method through a general-to-specific process:
 
-Use more than one method when one source of evidence cannot establish learning. For example, before solo, a learner should be able to explain the wind and traffic-pattern plan, demonstrate the maneuver, and make sound decisions when conditions change.
+1. Determine the level-of-learning objectives.
+2. List observable indicators or samples of the desired behaviors.
+3. Establish criterion objectives that specify behavior, conditions, and criteria.
+4. Develop criterion-referenced assessment items that measure those behaviors.
+
+Traditional assessment is often useful early, when a learner is acquiring facts. As the learner develops enough knowledge to analyze, synthesize, and evaluate, authentic assessment becomes more useful. Performance testing is desirable for training that involves an operation, procedure, or process.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Choose the assessment from the evidence needed: recall for facts, performance for procedures, and open-ended scenarios for judgment and risk management.
+]]
 
 **Source:**
 
@@ -204,98 +248,123 @@ Use more than one method when one source of evidence cannot establish learning. 
 
 ## FI.I.D.K5 — Purposes and Types of Critiques
 
-A critique helps a learner understand performance and improve. Its purpose is to identify what happened, why it happened, and what should change on the next attempt. It differs from a grade because it is instructional rather than merely a judgment.
+A critique is an instructor-to-learner assessment used with either traditional or authentic assessment. It examines good and poor performance, individual parts, relationships among parts, and overall performance. Critiques can be oral, written, or both, and should occur promptly while performance details are easy to recall.
 
-Use an instructor-led critique when the learner needs a clear explanation, a learner-led critique when self-assessment will reveal the issue, a small-group critique when peers can contribute constructively, and a combined critique when both learner reflection and instructor guidance are needed.
+Types include instructor/learner, learner-led, small-group, peer, self-, and written critique. In every form, the instructor maintains control, provides criteria and guidelines, resolves disagreements and inaccurate impressions, and covers material that was omitted or needs reinforcement. A group critique must not embarrass the learner.
 
-Deliver critiques promptly, privately when appropriate, and in language that is specific to the performance. Do not use critique to embarrass a learner or substitute vague praise or criticism for useful feedback.
+[[highlight:
+Flight Guide Instructor Principle |
+Debrief promptly while details are available. Preserve dignity, identify strengths and deficiencies, and make the next attempt more specific.
+]]
 
 **Source:**
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=141 | end=143]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=141 | end=142]]
 
 ## FI.I.D.K6 — Oral Assessment
 
-Oral assessment lets the instructor discover how a learner thinks, not simply whether the learner recognizes a memorized answer. Questions should be clear, relevant, objective-linked, and matched to the learner's level.
+Oral assessment commonly uses direct or indirect questions. Fact questions rely on memory or recall and generally ask who, what, when, or where. Higher-order thinking questions ask why or how and require the learner to analyze situations, solve problems, and form conclusions. Questioning reveals the effectiveness of training, checks retention and comprehension, reviews material, maintains interest, emphasizes important points, and identifies areas needing more emphasis.
 
 ### FI.I.D.K6a — Characteristics of Effective Questions
 
-Effective questions are brief, understandable, relevant to the objective, and designed to reveal understanding or application. Prefer questions that ask the learner to explain, compare, predict, decide, or teach back.
+Prepare pertinent questions in advance, often as part of the lesson plan, and add appropriate questions as the lesson develops. Effective questions apply to the subject, are brief, clear, and definite, fit the learner's ability and training stage, address one idea, and present an appropriate challenge.
 
 ### FI.I.D.K6b — Types of Questions to Avoid
 
-Avoid ambiguous, trick, multiple-part, leading, and irrelevant questions. Avoid asking a question when the instructor only wants one answer and will not listen to the learner's reasoning. Do not use oral assessment to expose, intimidate, or trap a learner.
+Avoid yes/no questions such as “Do you understand?” Avoid puzzle, oversize, toss-up, bewilderment, trick, and irrelevant questions. They combine too many ideas, confuse the learner, turn instruction into a contest, or divert attention from the subject being assessed.
 
 ### FI.I.D.K6c — Answering Learner Questions
 
-Listen to the full question, identify what the learner is really asking, and answer at the learner's level. When appropriate, return a question that guides the learner to the answer. If the answer is not known, say so, find the authoritative answer, and follow up rather than guessing.
+Understand the question before answering. Show interest, provide a direct and accurate answer, and verify the learner is satisfied. Avoid introducing unnecessary advanced material. When an instructor does not know the answer, the instructor should admit it and obtain the answer or help the learner locate it in available references.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Ask one clear question, then wait for the learner's reasoning. Rephrase or simplify the question when the response shows the question was not understood.
+]]
 
 **Source:**
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=141 | end=143]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=142 | end=143]]
 
 ## FI.I.D.K7 — Assessment of Piloting Ability
 
-Assess piloting ability through direct observation during ground and flight instruction. Brief the objective and criteria, observe the learner's planning, aircraft control, procedures, communication, situational awareness, and risk management, then debrief against the standard.
+Assessment of flight performance is based on established performance standards, modified as appropriate for learner experience and stage of development. Assess mastery of maneuver elements, rather than only the overall maneuver. Before a solo endorsement, the instructor determines that the learner consistently demonstrates proficiency in the flight tasks required for that flight.
 
-In flight, protect safety first. Do not turn an assessment into a surprise workload exercise, let the learner continue an unsafe maneuver to collect more evidence, or delay intervention while waiting for an error to develop. The instructor must manage the aircraft, environment, and learner workload while assessing.
+Keep the learner informed of progress during the lesson or in a postflight critique. Assessment can identify a need for reteaching; when it does, the instructor demonstrates the maneuver, directs learner practice, and evaluates the next performance through observation.
+
+[[highlight:
+Flight Guide Instructor Principle |
+During flight assessment, protect the operation first. Observe enough to identify the learning need, then intervene or discontinue the task when safety requires it.
+]]
 
 **Source:**
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=136 | end=140]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=182 | end=182]]
 
 ## Instructor Application — Delivering an Assessment
 
-Delivering an assessment is the Task D risk-management element. Establish the purpose and standard, choose an appropriate method, create a respectful environment, observe evidence rather than assumptions, and give specific feedback. When evaluating in flight, keep control of the risk: intervene early when needed and postpone complex explanation until workload is lower.
+Deliver assessment from observed performance and the applicable completion standard. Keep it objective, flexible, constructive, thoughtful, and specific. Give enough coverage to be useful, but focus on the performance areas the learner can reasonably improve. During flight instruction, continue to manage the operation while collecting the information needed to guide the learner's next instruction.
 
 # Review
 
 ## Oral / Checkride Review
 
-### 1. What is the purpose of assessment?
+### 1. What are the two broad categories of assessment?
 
 [[answer:
-Assessment measures learner performance against a standard so the instructor and learner can identify strengths, deficiencies, and the next training need.
+Traditional assessment commonly uses written tests with one correct response and usually measures rote and understanding. Authentic assessment requires a learner to perform real-world tasks and generate solutions that show application and correlation.
 ]]
 
-### 2. What characteristics make assessment effective?
+### 2. What makes an assessment effective?
 
 [[answer:
-Effective assessment is objective, flexible, comprehensive, constructive, organized, thoughtful, specific, and acceptable to the learner. It is aligned with the objective and standard.
+It is factual and aligned with the completion standards. It is objective, flexible, acceptable, comprehensive, constructive, organized, thoughtful, and specific.
 ]]
 
-### 3. Contrast traditional and authentic assessment.
+### 3. Explain the R4 learner-centered assessment process.
 
 [[answer:
-Traditional assessment commonly uses written or objective tests to measure knowledge. Authentic assessment asks the learner to apply knowledge, skill, and judgment in a meaningful task or scenario.
+Replay the event, Reconstruct what could or should have been done differently, Reflect on performance and decisions, and Redirect the lesson learned to future situations.
 ]]
 
-### 4. How do you assess risk-management skill in a scenario?
+### 4. What do Describe, Explain, Practice, and Perform mean on a maneuver rubric?
 
 [[answer:
-Assess the learner's process: identify hazards, assess significance, consider alternatives, make and explain a decision, and evaluate the result. Do not judge risk management only from a favorable outcome.
+They identify demonstrated proficiency. Describe states task elements, Explain shows understanding, Practice performs with coaching or assistance, and Perform completes the task independently while recognizing and correcting errors promptly.
 ]]
 
-### 5. What makes an oral-assessment question effective, and what questions should be avoided?
+### 5. How is risk management assessed with a rubric?
 
 [[answer:
-Effective questions are clear, brief, relevant, objective-linked, and matched to the learner. Avoid ambiguous, trick, multiple-part, leading, irrelevant, or intimidating questions.
+The levels are Explain, Practice, and Manage-Decide. At Manage-Decide, the learner gathers important data, identifies alternatives, evaluates the risk in each, and makes the appropriate decision without intervention for safe completion.
 ]]
 
-### 6. How should an instructor answer a learner question when the answer is unknown?
+### 6. How do you choose an effective assessment method?
 
 [[answer:
-Acknowledge that the answer is not known, locate the authoritative source, and follow up. Never invent an answer to preserve authority.
+Determine the level-of-learning objective, list observable desired behaviors, establish criterion objectives, and develop criterion-referenced assessment items that measure those behaviors.
 ]]
 
-### 7. How does critique differ from grading?
+### 7. What critique types does the handbook describe?
 
 [[answer:
-A grade measures performance against a standard. A critique is instructional feedback that helps the learner understand what occurred, why it occurred, and how to improve.
+Instructor/learner, learner-led, small-group, peer, self-, and written critiques. The instructor provides criteria and control, corrects inaccurate impressions, and avoids embarrassing the learner.
 ]]
 
-### 8. How do you assess piloting ability without increasing risk?
+### 8. What makes an oral question effective, and what question types should be avoided?
 
 [[answer:
-Brief the standard, observe planning and performance, manage workload, intervene early when safety requires it, and debrief after workload is lower. Do not let an unsafe error continue merely to gather assessment evidence.
+An effective question applies to the subject, is brief, clear, definite, appropriate to the learner's ability and stage, centers on one idea, and provides a challenge. Avoid yes/no, puzzle, oversize, toss-up, bewilderment, trick, and irrelevant questions.
+]]
+
+### 9. How should an instructor respond when a learner asks a question the instructor cannot answer?
+
+[[answer:
+Admit that the answer is not known, then obtain it or help the learner find it in available references.
+]]
+
+### 10. How is piloting ability assessed?
+
+[[answer:
+Use established standards appropriate to the learner's experience and stage, assess the elements of the maneuver, keep the learner informed of progress, and use observed deficiencies to guide demonstration, practice, and reevaluation.
 ]]

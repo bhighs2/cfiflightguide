@@ -8,47 +8,42 @@ To determine the applicant understands the teaching process, can apply that know
 
 ## Purpose
 
-A professional flight instructor does not merely deliver information; the instructor engineers a sequence of learning. A well-developed course, a clear syllabus, and a solid lesson plan help the learner move from basic understanding to demonstrated skill without confusion, unsafe shortcuts, or inconsistent standards.
-
-This task is about preparing instruction deliberately. The instructor chooses the teaching method, organizes the material, aligns the lesson with the training objective, and selects the training aids and sequence that fit the learner’s needs and the task being taught.
+The teaching process organizes material so a learner can understand it. A well-planned course of training, syllabus, and lesson plan connect objectives, standards, teaching methods, learner practice, and assessment in a logical sequence.
 
 ## Schedule / Equipment
 
 **Suggested Schedule**
 
-- Ground lesson: approximately 45–60 minutes
-- Instructor-led discussion and lesson-plan review: approximately 15 minutes
-- Follow-up application: integrated into the next ground or flight lesson
+- Ground lesson: approximately 60 minutes
+- Lesson-plan application: approximately 20 minutes
 
 **Equipment**
 
-- Whiteboard or tablet and stylus
-- FAA ACS and applicable lesson materials
 - Aviation Instructor's Handbook
-- Sample lesson plan, syllabus, or instructor notebook
-- Relevant visual aids and teaching examples
+- CFI Airplane ACS
+- Whiteboard or tablet
+- Sample syllabus and lesson plan
+- Flight Guide visual aids
 
 ## Learner Actions / Instructor Actions
 
 **Learner Actions**
 
-- Explain the purpose of a course of training, syllabus, block of learning, and lesson plan.
-- Identify the difference between performance-based and decision-based objectives.
-- Choose a teaching method appropriate to a task and learner.
-- Critique the structure of a sample lesson plan.
-- Explain how instructional aids support the learning objective.
+- Explain the teaching process and essential teaching skills.
+- Relate course, syllabus, blocks of learning, and lesson plans.
+- Select a method appropriate to a stated learning objective.
+- Prepare an objective, standards, and a lesson-plan outline.
 
 **Instructor Actions**
 
-- Present the task in a practical, aviation-training sequence.
-- Connect the lesson to the real job of developing a consistent, risk-aware training program.
-- Show how method, objective, and material must match the task and learner.
-- Use examples to demonstrate effective and ineffective lesson design.
-- Help the learner understand how to balance standards, safety, and teaching efficiency.
+- Use objectives and standards to organize instruction.
+- Select and combine methods appropriate to the task and learner.
+- Use instructional aids to support, not replace, instruction.
+- Adapt the lesson plan to learner progress while preserving the course objective.
 
 ## Completion Standards
 
-The applicant can explain the course-development process, identify the relationship between the course of training, syllabus, blocks of learning, and lesson plan, and prepare an instructional lesson plan using teaching methods and materials appropriate to the task and learner. The applicant can explain how objectives, completion standards, instructional aids, and training methods support safe and effective instruction.
+The applicant can explain the teaching process, select a teaching method appropriate to the task and learner, and prepare an instructional lesson plan for a ground lesson and maneuver introduction using clear objectives, completion standards, appropriate materials, and logical sequence.
 
 ## ACS Elements
 
@@ -96,14 +91,11 @@ The applicant can explain the course-development process, identify the relations
 
 ## Ground Lesson Outline
 
-1. What a course of training is and how it leads to a goal.
-2. Training objectives, completion standards, and performance-based objectives.
-3. How lesson organization supports learning and safety.
-4. Training delivery methods: lecture, discussion, guided discussion, cooperative learning, demonstration-performance, drill and practice.
-5. Instructional aids and training technologies.
-6. Blocks of learning, training syllabus, and lesson plans.
-7. Problem-based instruction and integrated flight training.
-8. Instructor application: design a lesson plan that fits the task and learner.
+1. Teaching process and teaching skills.
+2. Course, objectives, standards, and lesson organization.
+3. Delivery methods and instructional aids.
+4. SBT and integrated flight instruction.
+5. Blocks, syllabus, and lesson plans.
 
 # Prepare
 
@@ -112,8 +104,6 @@ The applicant can explain the course-development process, identify the relations
 - [FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS](/knowledge/CFI_ASEL_ACS.pdf) — Area I, Task C
 - [FAA-H-8083-9 — Aviation Instructor's Handbook, Chapter 5: The Teaching Process (pages 104–131)](/knowledge/Aviation_Instructors_Handbook.pdf#page=104)
 - [FAA-H-8083-9 — Aviation Instructor's Handbook, Chapter 7: Planning Instructional Activity (pages 145–158)](/knowledge/Aviation_Instructors_Handbook.pdf#page=145)
-- [FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge](/knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf)
-- [FAA-H-8083-2 — Risk Management Handbook](/knowledge/Risk_Management_Handbook.pdf)
 
 [[pdf: /knowledge/CFI_ASEL_ACS.pdf | start=12 | end=13]]
 
@@ -127,11 +117,13 @@ The applicant can explain the course-development process, identify the relations
 
 [[youtube: https://www.youtube.com/watch?v=He1E1B1o0lw | title=Lesson Plans Part 2 - Maneuvers]]
 
+[[youtube: https://www.youtube.com/watch?v=4IxiQeh0FFI | start=44:50 | end=51:50 | title=FLY8MA — Problem-Based Learning and Building Scenarios]]
+
 ## Memory Aids
 
-[[mnemonic: O-C-M-E | Objective · Content · Method · Evaluation — a Flight Guide check for a complete lesson plan]]
+[[mnemonic: P-P-A-A | Preparation · Presentation · Application · Assessment — four steps of the teaching process.]]
 
-[[mnemonic: B-S-L | Blocks → Syllabus → Lesson Plan — build the course from broad sequence to individual instruction]]
+[[mnemonic: B-S-L | Blocks of learning → Syllabus → Lesson plan — course planning from broad to specific.]]
 
 # Teach
 
@@ -139,25 +131,14 @@ The applicant can explain the course-development process, identify the relations
 
 ### FI.I.C.K1a — Process
 
-Teaching is a deliberate process, not merely a lecture. The instructor begins with the objective, selects the best method for the learner and task, organizes the material, and then provides feedback that lets the learner progress toward a standard. A lesson plan does not replace judgment; it gives the instructor a reliable structure to build good instruction.
+Teaching means instructing or training. The teaching process organizes material so the learner can understand it. Its four steps are preparation, presentation, application, and assessment, regardless of the delivery method used.
 
 ### FI.I.C.K1b — Essential Skills
 
-A good lesson plan answers four questions:
-
-- What does the learner need to know or do?
-- What standard or completion point defines success?
-- What method and sequence will best teach it?
-- What evidence will show the learner has achieved it?
-
-That structure is the foundation of a course of training, a training syllabus, and an individual lesson plan.
+Essential teaching skills are people skills, subject-matter expertise, management skills, and assessment skills. Management includes planning, organizing, leading, supervising, and using time effectively. Assessment determines how well the learner is progressing before, during, and after training.
 
 <figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/Lesson_Guidelines.png"
-        alt="Lesson guidelines for planning and teaching"
-        loading="lazy"
-    >
+    <img src="/knowledge/Lesson_Guidelines.png" alt="Lesson guidelines" loading="lazy">
     <figcaption>Lesson Guidelines</figcaption>
 </figure>
 
@@ -167,27 +148,7 @@ That structure is the foundation of a course of training, a training syllabus, a
 
 ## FI.I.C.K2 — Course of Training
 
-A course of training is a complete series of studies leading to a specific goal, such as a certificate, endorsement, or completion of a training phase. The training syllabus is the roadmap that organizes the course into blocks of learning, explains the sequence, and keeps the learner moving toward the standard.
-
-A course connects its objectives, lesson content, instructional methods, review, and evaluation. It supplies the overall structure from which the syllabus and individual lesson plans are developed.
-
-<figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/Ground_Lesson_Units.png"
-        alt="Ground lesson units in a training sequence"
-        loading="lazy"
-    >
-    <figcaption>Ground Lesson Units</figcaption>
-</figure>
-
-<figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/Flight_Lesson_Units.png"
-        alt="Flight lesson units and blocks of learning"
-        loading="lazy"
-    >
-    <figcaption>Flight Lesson Units</figcaption>
-</figure>
+A course of training is a complete series of studies leading to a specific goal. A curriculum includes courses for certificates or ratings. A syllabus summarizes one course and contains multiple lessons, objectives, and completion standards. A lesson plan details how one instructional period is conducted.
 
 **Source:**
 
@@ -197,25 +158,24 @@ A course connects its objectives, lesson content, instructional methods, review,
 
 ### FI.I.C.K3a — Training Objectives and Completion Standards
 
-The foundation of a lesson is the objective. Every good lesson objective identifies what the learner should be able to do, under what conditions, and to what standard. The objective should be clear enough that both teacher and learner know what success looks like.
-
-A completion standard defines the acceptable level of performance. It tells the instructor when the learner has met the objective. In aviation, the ACS provides the framework for many standards, but the lesson plan still needs to interpret those standards in a practical, teachable way for the learner.
+Objectives identify the desired level of learning in the cognitive, affective, and psychomotor domains. Standards describe the desired knowledge, behavior, or skill in specific terms, including conditions and criteria. Clearly defined objectives and standards that the learner understands are essential to teaching.
 
 ### FI.I.C.K3b — Performance-Based Objectives
 
-The best objectives are measurable and observable. A performance-based objective describes the behavior, conditions, and criteria.
+A performance-based objective states a measurable and repeatable desired performance. It has three parts: the description of the skill or behavior, the conditions for the performance, and the criteria used to measure accomplishment.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Before instruction begins, make the learner's required performance, conditions, and completion criteria visible in the lesson plan.
+]]
 
 ### FI.I.C.K3c — Importance of the ACS in Aviation Training Curricula
 
-The ACS identifies the knowledge, risk-management, and skill elements that training must address and the standard used for certification. It helps the instructor align a curriculum, lesson plan, and evaluation with the outcome expected of the applicant. The ACS does not replace a complete syllabus; certification tests do not represent the entire course of training.
+The ACS supplies specific performance objectives based on standards for issuance of a certificate or rating. It supports content validity by matching the task to actual flying and criterion validity by using acceptable completion standards. ACS tasks are critical job tasks; they do not represent an entire training syllabus.
 
 ### FI.I.C.K3d — Decision-Based Objectives
 
-A decision-based objective requires the learner to make a judgment under realistic conditions and explain the rationale. It is especially appropriate for ADM, risk management, and scenario-based instruction.
-
-### Example objective
-
-- Given a crosswind landing scenario, the learner will explain the wind correction technique, identify the correct approach path, and execute a safe landing with proper control coordination.
+Decision-based objectives develop judgment and ADM through dynamic, meaningful scenarios. They require the learner to gather information and make informed, safe, and timely decisions. They supplement, rather than eliminate, concentrated maneuver training.
 
 **Source:**
 
@@ -223,9 +183,7 @@ A decision-based objective requires the learner to make a judgment under realist
 
 ## FI.I.C.K4 — Organization of Material
 
-Well-organized material flows from simple to complex, known to unknown, and basic skills to integrated performance. A lesson should not wander from objective to objective. It should present the key idea, demonstrate the standard, reinforce learning, and leave room for learner practice and feedback.
-
-The instructor should plan for sequence of instruction, skill progression, realistic applications, review of previous learning, time for practice and feedback, and a clear link to the course objective.
+A lesson traditionally has introduction, development, and conclusion. The introduction gains attention, provides motivation, and gives an overview. Development presents main points in a logical pattern such as simple to complex, known to unknown, or most frequently used to least used. The conclusion reviews key elements and relates them to the objective without introducing new ideas.
 
 **Source:**
 
@@ -233,40 +191,36 @@ The instructor should plan for sequence of instruction, skill progression, reali
 
 ## FI.I.C.K5 — Training Delivery Methods
 
-A single lesson often uses more than one teaching method. The instructor selects the method based on the task, the learner, the time available, and the goal of the instruction. The method must support the objective, not simply reflect habit or convenience.
+The instructor normally combines methods and selects the one that best conveys the information at the appropriate time.
 
 ### FI.I.C.K5a — Lecture
 
-Lecture works well for presenting facts, procedures, and principles when the learner needs a clear structure or overview. It is most effective when it is organized, focused, and paired with questions or discussion. A lecture that becomes a monologue is rarely effective.
+A lecture gives a general understanding of a subject, introduces new material, summarizes ideas, and relates theory to practice. A teaching lecture permits some learner participation and requires the instructor to recognize subtle learner feedback.
 
 ### FI.I.C.K5b — Discussion
 
-Discussion invites participation. It works especially well when learners can contribute relevant experience, compare ideas, or explain their understanding.
+Discussion combines a short lecture with instructor-learner and learner-learner exchange. It promotes active participation, recall, use of information, and higher-order thinking. The instructor keeps the discussion on subject and summarizes learning.
 
 ### FI.I.C.K5c — Guided Discussion
 
-A guided discussion leads the learner toward the key idea by asking questions that help the learner compare, analyze, and explain. In flight instruction, it is especially useful for scenario decisions, risk factors, and judgment-based learning.
+Guided discussion draws out learner knowledge using questions. Learners need background knowledge, the instructor maintains control, and open-ended questions guide learners toward the lesson objective.
 
 ### FI.I.C.K5d — Cooperative or Group Learning
 
-Cooperative learning organizes learners into small groups so they can share ideas, compare reasoning, and solve problems together. This works well for decision-making and teamwork when the instructor clearly defines the objective and monitors the quality of the discussion.
+Group learning organizes small groups to maximize understanding. It requires clear objectives, complete instructions, access to needed information, sufficient time, individual accountability, and instructor facilitation.
 
 ### FI.I.C.K5e — Demonstration-Performance
 
-This method is especially valuable for physical skills. It follows a teaching sequence of explanation, demonstration, learner performance, and instructor supervision. The instructor explains the task, demonstrates the correct performance, supervises learner practice, and then corrects errors without changing the standard.
+Demonstration-performance teaches mental or physical skills through explanation, demonstration, learner performance, instructor supervision, and evaluation. Learners perform soon after demonstration while the instructor coaches and evaluates performance against how the skill was taught.
 
 <figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/Demonstration_Performance_Method.png"
-        alt="Demonstration-performance teaching method flow"
-        loading="lazy"
-    >
+    <img src="/knowledge/Demonstration_Performance_Method.png" alt="Demonstration-performance method" loading="lazy">
     <figcaption>Demonstration-Performance Method</figcaption>
 </figure>
 
 ### FI.I.C.K5f — Drill and Practice
 
-Drill and practice are used to build habit, accuracy, and recall. A procedure is repeated until the learner can perform it smoothly and consistently. The instructor must use practice carefully so it strengthens skill rather than producing mindless repetition.
+Drill and practice strengthen connections through repeated application. The instructor provides opportunities to practice while directing the process toward an objective.
 
 **Source:**
 
@@ -274,7 +228,7 @@ Drill and practice are used to build habit, accuracy, and recall. A procedure is
 
 ## FI.I.C.K6 — Electronic Learning (e-Learning)
 
-Electronic learning can deliver information, guided practice, simulation, review, and assessment through computer-based courses, online content, or learning-management tools. It is effective when it is aligned with an objective, gives the learner meaningful interaction or feedback, and is monitored by the instructor. It does not eliminate the instructor's responsibility to verify understanding and performance.
+E-learning uses an electronic component and may be stand-alone software, an interactive web course, simulation, or computer-assisted learning. It can be flexible, accessible, learner-centered, and interactive, but may reduce peer interaction and personal feedback. The instructor remains responsible for monitoring progress and ensuring that training objectives are achieved.
 
 **Source:**
 
@@ -284,28 +238,22 @@ Electronic learning can deliver information, guided practice, simulation, review
 
 ### FI.I.C.K7a — Characteristics of Effective Instructional Aids
 
-The method is chosen to fit the lesson objective and learner characteristics. Selecting the wrong method is a risk in itself because it can create confusion, reduce efficiency, or make the learner feel overwhelmed.
-
-Instructional aids are effective when they are clear, simple, relevant, accurate, and focused on key points.
+Instructional aids support, supplement, or reinforce instruction. Effective aids cover key points, present straightforward factual material, are simple, and are matched to the desired learning outcome.
 
 ### FI.I.C.K7b — Reasons for Use
 
-They help gain and hold attention, clarify relationships between objects and concepts, support learner understanding, and can reduce language barriers.
+Aids gain and hold attention, support retention, clarify relationships between objects and concepts, address some language barriers, and can communicate information more quickly and accurately.
 
 ### FI.I.C.K7c — Guidelines for Use
 
-Select the ideas an aid should support, prepare it before the lesson, and ensure it can be seen or heard. Introduce it when it supports the point, rather than allowing it to compete with the instruction.
+Establish the objective, research supporting material, organize the lesson, and select only the key ideas that need aid support. Keep words to a minimum, ensure the aid can be seen or heard, test it in the actual environment, and verify technical accuracy, clarity, simplicity, and suitability for the learner.
 
 ### FI.I.C.K7d — Types
 
-Types include models, mock-ups, charts, diagrams, photographs, multimedia, computer-based instruction, and the aircraft or its components when practical.
+Aids include marker boards, printed charts, diagrams, graphs, projected material, video, interactive computer systems, computer-assisted learning, models, mock-ups, and cut-aways.
 
 <figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/Instructional_Aids.png"
-        alt="Examples of effective instructional aids"
-        loading="lazy"
-    >
+    <img src="/knowledge/Instructional_Aids.png" alt="Instructional aids" loading="lazy">
     <figcaption>Instructional Aids</figcaption>
 </figure>
 
@@ -315,15 +263,35 @@ Types include models, mock-ups, charts, diagrams, photographs, multimedia, compu
 
 ## FI.I.C.K8 — Integrated Flight Instruction
 
-Integrated flight instruction combines ground knowledge and flight application. The instructor does not teach a maneuver as a disconnected skill; the instructor connects it to aerodynamics, procedures, decision-making, and risk management. This keeps the learner focused on the bigger picture while still developing technical skill.
+Integrated flight instruction combines ground knowledge, maneuver practice, ADM, risk management, and scenario application. Individual skills are taught and practiced, then placed into increasingly complex scenarios as the learner can manage the added workload. The instructor becomes a mentor or learning facilitator as the learner assumes planning and decision-making responsibility.
+
+<figure class="lesson-reference-figure">
+  <img src="/knowledge/Ground_Lesson_Units.png" alt="Ground lesson units" loading="lazy">
+  <figcaption>Ground Lesson Units</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+  <img src="/knowledge/Flight_Lesson_Units.png" alt="Flight lesson units" loading="lazy">
+  <figcaption>Flight Lesson Units</figcaption>
+</figure>
 
 **Source:**
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=126 | end=126]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=30 | end=32]]
 
 ## FI.I.C.K9 — Problem-Based Instruction
 
-Problem-based instruction uses a realistic problem to force the learner to recall knowledge, make decisions, and apply judgment. It is particularly useful for ADM and scenario-based training because it teaches the learner to apply a rule in context rather than merely recite it.
+Problem-based learning presents real-life problems that require real-world solutions. Effective problems are open-ended, require decisions, connect previous and new knowledge, reflect objectives, and challenge critical thinking. The basic approach is to set up the problem, determine outcomes, solve it, reflect, consider additional solutions, reevaluate, and decide what makes a solution best.
+
+<figure class="lesson-reference-figure">
+  <img src="/knowledge/SBT_Main_Points.png" alt="Scenario-based training main points" loading="lazy">
+  <figcaption>Scenario-Based Training Main Points</figcaption>
+</figure>
+
+[[highlight:
+Flight Guide Instructor Principle |
+The scenario is a learning activity, not a surprise test. Define the learning objective and possible safe outcomes before presenting the problem.
+]]
 
 **Source:**
 
@@ -333,133 +301,98 @@ Problem-based instruction uses a realistic problem to force the learner to recal
 
 ### FI.I.C.K10a — Blocks of Learning
 
-A block of learning is a defined segment of training that builds toward a larger objective. Blocks should be similar in scope and arranged in a building-block sequence so each supports the next.
+Blocks of learning are measurable units that form necessary parts of the total objective. They are not isolated subjects or merely a sequence of instruction periods. Learners master blocks individually and progressively combine related blocks; the sequence should build from simple to complex and account for learner background.
 
 ### FI.I.C.K10b — Training Syllabus
 
-A training syllabus is the course roadmap. It organizes blocks of learning in an efficient sequence and identifies objectives, standards, review, and evaluation. It must be flexible enough to accommodate learner progress while preserving the logical relationships among the blocks.
+A syllabus is a brief but comprehensive course summary that sequences blocks of learning efficiently and identifies objectives and standards for each lesson. It is a practical guide, flexible enough to accommodate learner progress, scheduling, weather, and aircraft availability without ignoring relationships between learning blocks.
 
 ### FI.I.C.K10c — Lesson Plans
 
-A lesson plan is the detailed blueprint for one instructional period. It tells the instructor what to teach, in what order, by what method, and with what instructional aids. It also relates the lesson to the broader course objective and records learner progress.
-
-### Selecting the Method for the Planned Lesson
-
-Selection of teaching method is the central risk-management element of this task. A good instructor matches the method to the task:
-
-- Use a lecture or guided discussion when the learner needs a concept or framework.
-- Use demonstration-performance when the learner must physically practice a procedure or maneuver.
-- Use a scenario or problem-based approach when the goal is decision-making and judgment.
-- Use drill and practice when the goal is consistent, accurate habit formation.
-
-### Traditional Lesson Plans vs. Scenario-Based Lesson Plans
-
-A traditional lesson plan is often linear and structured: objective, content, method, and evaluation. It is still useful for a clear, straightforward skill or concept. A scenario-based lesson plan adds context and decision-making, making the learner solve realistic problems under conditions that resemble actual flying.
-
-The important point is not whether the format is traditional or scenario-based; the important point is whether the plan supports the objective and standard. A lesson designed for a classroom concept or a maneuver introduction may look quite different from a lesson designed for a realistic scenario or a decision-making exercise.
+A lesson plan is a written outline for one instructional period. It identifies what to do, the order, and the teaching procedure. It includes objectives, content supporting the objectives, and completion standards. It guides sequence, helps eliminate unimportant detail, promotes uniform instruction, relates the lesson to the course objective, and should be revised as conditions change.
 
 <figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/Traditional_Lesson_Plan.png"
-        alt="Traditional lesson plan layout"
-        loading="lazy"
-    >
+  <img src="/knowledge/Evaluation_Tools.png" alt="Evaluation tools" loading="lazy">
+  <figcaption>Evaluation Tools</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Traditional_Lesson_Plan.png" alt="Traditional lesson plan" loading="lazy">
     <figcaption>Traditional Lesson Plan</figcaption>
 </figure>
 
 <figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/SBT_Lesson_Plan.png"
-        alt="Scenario-based training lesson plan layout"
-        loading="lazy"
-    >
+    <img src="/knowledge/SBT_Lesson_Plan.png" alt="Scenario-based training lesson plan" loading="lazy">
     <figcaption>Scenario-Based Training Lesson Plan</figcaption>
 </figure>
 
-<figure class="lesson-reference-figure">
-    <img
-        src="/knowledge/SBT_Main_Points.png"
-        alt="Scenario-based training main points"
-        loading="lazy"
-    >
-    <figcaption>Scenario-Based Training Main Points</figcaption>
-</figure>
+### Selection of Teaching Method
 
-**Source:**
-
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=145 | end=157]]
-
-### Risk Management in Lesson Design
-
-The teaching method itself is a risk-management issue. A poor choice of method can overload the learner, create confusion, or allow a learner to practice an unsafe habit. A lesson design that ignores the learner’s readiness, workload, and instructional needs can be both inefficient and unsafe.
-
-The instructor should consider:
-
-- Is the learner ready for the lesson objective?
-- Is the method appropriate for the task and learner level?
-- Are the instructional aids clear and relevant?
-- Will the learner understand what good performance looks like?
-- Is the lesson structured so feedback can correct errors before they become habits?
-
-A lesson plan that addresses these questions is less likely to produce avoidable risk.
+Method selection must fit the objective, learner background, desired level of learning, material, and training environment. The instructor uses the method that best supports understanding and performance, changes the approach when learner progress shows it is needed, and continues to apply objectives and standards.
 
 [[highlight:
-Instructor Principle |
-The lesson plan is not a script for the instructor; it is a design tool that organizes learning, promotes safety, and protects the standard.
+Flight Guide Instructor Principle |
+Select the method to fit the task and learner, not instructor habit. Preserve the lesson objective and standard when adapting the presentation.
 ]]
 
 **Source:**
 
-[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=145 | end=157]]
+[[pdf: /knowledge/Aviation_Instructors_Handbook.pdf | start=145 | end=154]]
 
 # Review
 
 ## Oral / Checkride Review
 
-### 1. What is the difference between a course of training, a syllabus, a block of learning, and a lesson plan?
+### 1. What are the four steps of the teaching process?
 
 [[answer:
-A course of training is the complete set of studies leading to a goal. A syllabus is the roadmap that organizes the course into blocks and sequence. A block of learning is a defined segment of training. A lesson plan is the detailed plan for one instructional period or task.
+Preparation, presentation, application, and assessment.
 ]]
 
-### 2. Why are objectives and completion standards important in lesson design?
+### 2. What essential skills does an effective instructor use?
 
 [[answer:
-They define what the learner is expected to do and the level of performance required. Without a standard, instruction becomes vague and evaluation becomes inconsistent.
+People skills, subject-matter expertise, management skills, and assessment skills.
 ]]
 
-### 3. What are the major teaching methods listed in the ACS, and how does the instructor choose among them?
+### 3. What are the three parts of a performance-based objective?
 
 [[answer:
-The major methods include lecture, discussion, guided discussion, cooperative or group learning, demonstration-performance, drill and practice, and problem-based instruction. The instructor matches the method to the task, learner, objective, and desired result.
+Description of the skill or behavior, conditions, and criteria.
 ]]
 
-### 4. Why are instructional aids useful, and what makes them effective?
+### 4. How does the ACS support curriculum development?
 
 [[answer:
-Instructional aids help gain attention, clarify concepts, and support understanding. They are effective when they are focused, simple, relevant, visible, and directly tied to the lesson objective.
+It provides specific performance objectives and standards for a certificate or rating, while the instructor still develops a complete training syllabus beyond the critical tasks tested for certification.
 ]]
 
-### 5. Explain how a lesson plan manages risk.
+### 5. What are the traditional three parts of lesson organization?
 
 [[answer:
-A good lesson plan reduces risk by matching teaching method to the learner, organizing content logically, preventing information overload, building toward standard performance, and creating opportunities for feedback before errors become habits.
+Introduction, development, and conclusion.
 ]]
 
-### 6. What is the difference between a traditional lesson plan and a scenario-based lesson plan?
+### 6. What are the five phases of demonstration-performance?
 
 [[answer:
-A traditional lesson plan is typically linear and objective-driven. A scenario-based lesson plan adds realistic context and decision-making, allowing the learner to apply knowledge and judgment under conditions that resemble actual operations.
+Explanation, demonstration, learner performance, instructor supervision, and evaluation.
 ]]
 
-### 7. What is the relationship between the flight training syllabus and the lesson plan?
+### 7. What is the role of instructional aids?
 
 [[answer:
-The syllabus is the broader roadmap for the course; the lesson plan is the detailed blueprint for a specific lesson. One defines the path, and the other executes a step on that path.
+They support, supplement, or reinforce instruction. They should focus on key points, be simple, accurate, visible or audible, and fit the objective.
 ]]
 
-### 8. How does the instructor maintain standards while using a variety of teaching methods?
+### 8. What is problem-based learning?
 
 [[answer:
-The standard does not change because the method changes. The instructor may use different methods to build understanding, but the objective, safety requirements, and performance standard remain the same.
+A learner-centered environment using real-life problems that require real-world, open-ended solutions and critical thinking.
+]]
+
+### 9. Distinguish a block of learning, syllabus, and lesson plan.
+
+[[answer:
+Blocks are measurable units contributing to the total objective. A syllabus sequences those blocks across a course. A lesson plan is the written guide for one instructional period.
 ]]

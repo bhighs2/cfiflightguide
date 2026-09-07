@@ -1,0 +1,104 @@
+DOCUMENT_TITLE: binns_task_m_-_slip_to_a_landing
+SOURCE_FILE: binns_task_m_-_slip_to_a_landing.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)1
+SlipToALanding
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthesliptoalandingmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Sometimespilotsneedtolandanairplaneimmediately,andago-aroundisnotpossible,forexample,asduringanengine-outemergency. Othertimes,averysteepdescentmaybeneededtolandinaverysmallfieldsurroundedbytrees. Aforwardsliptoalandingisatoolwhichintroducesforwardslips,andhowtheycanbeusedtolosealtitudequicklywithoutgainingexcessiveairspeed,aswellascontrollingtheairplaneduringcross-controlledflight.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplaintheforwardslip,howtoflyoneandrecoverfromone.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Selectsatouchdownpointbasedonwind,landingsurface,obstructions,andairplanelimitations.● Performsastabilizedapproachatpublishedapproachairspeedtoapointonfinalabovethenormalglidepath.● Transitionstoaforwardslip(correlatedwithwinddirection)todescendmoresteeplytotherunway.● Recoversfromtheforwardslipandtouchesdownsafelyatthedesignatedtouchdownpoint-0/+400feet.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)2
+References
+● ERAUSpecialVFR-“ForwardSlips”○ YouTube-https://www.youtube.com/watch?v=yxy2MnUnfUM● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter9,Page12-13[IntentionalSlips],Chapter9,Page30-37[FaultyApproachesandLandings]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page22-24[ForcesinTurns(Slips)]● FAA-S-ACS-6B(PrivatePilotACS)-AreaIVTaskM● FAA-S-ACS-25(CFIACS)-AreaVIITaskM
+GroundLessonOutline
+● Slipstoalandingcanbeausefultool● Slips○ Forwardslipsvssideslips○ Createdrag○ Inherentlysafe○ Causeairspeederrors● Enteringaforwardslip● Correctingforwinddrift● Recovery● Avoidingobstacles● Slipsshouldnotreplaceastabilizedapproach○ EnergyManagement,Nota‘band-aid’forbadapproaches● WakeTurbulence● WindShear● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning○ Runwayincursionavoidance○ Windshear,Tailwinds,WakeTurbulence,Runwaysurfaceconditions○ Bepreparedtogoaround● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Improperuseoflandingperformancedataandlimitations.● Failuretoestablishapproachandlandingconfigurationatappropriatetimeorinpropersequence.● Failuretomaintainastabilizedslip.● Inappropriateremovalofhandfromthrottle.● Improperprocedureduringtransitionfromthesliptothetouchdown.● Poordirectionalcontrolaftertouchdown.● Improperuseofbrakes(landplane).
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)3
+GroundLessonContent
+● Slipstoalandingcanbeauseful tool-Althoughaconventionalstabilizedapproachisgenerallypreferred,forwardsliplandingscanallowdramaticallysteepapproachpathsandareanimportanttoolwhichpilotscanusetoperformlandingsthatwouldotherwisebeimpossible.○ Themost important useof aforwardsliplandingisinanemergency, whereavailablelandingareaisverylimitedandago-aroundisnot possible.○ Forwardsliplandingscanalsobeusedtolandonveryconfinedairstripsthatrequireexcessivelysteepapproachangles,ortobrieflycorrectanapproachwhichistoohigh.○ Whenapproachingarunwayfromaveryhighapproachpath, if agoaroundisnot possible,aforwardslipcanallowtheairplanetodescendtoaproperglidepathwithoutgainingexcessiveairspeedandcausingfloatingoroverrunningtheavailablerunway.
+● Timing,judgment,andcontrolprocedureduringtransitionfromsliptotouchdown.● Slips-Itispossibletoflyanairplanesuchthatit’snosepointsinonedirection,butitfliesthroughtheairinaslightlydifferentdirection. Thislookslikeaslightsidewaysmotion(relativetotheair),andiscalledaslip.○ Slipshappenwhenanairplaneisbanked,buttherateof turnisinsufficientforthebankangle.Consideranormalbankedturn,withtheballcentered. Theairplanewillhavearateofturnwhichisrelatedtothebankangle--morebank, morerateof turn. Normalturnsrequireruddertomaintaintheballinthecenter.○ If, insteadof applyingrudder inthedirectionof thebank, thepilot doesnot usetherudder at all or appliesrudder oppositethebank, theairplanewill enter aslip.○ Wheninaslip,theairplanegenerallywantstoreturntonormalflight,andpilotswillhavetoholdoppositeaileronandruddercontrolstoremaininthesideslip. Thisiscalledacross-controlledcondition.○ Theonlydifferencebetweenasideslipandaforwardslipisthedirectionoftravelalongtheground. Aerodynamicallytheyarethesame.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)4
+● SlipsCreateDrag-Theprimarypurposeofaforwardslipistogeneratedrag. Specifically,byforcingtheairplanetoflydramaticallyunalignedwiththerelativewind,thesideofthefuselageoftheairplanecreatestremendousdrag.○ Thefuselagealsoblanketstheother wing, andpotentiallythehorizontal tail surfaces.○ Duetothisdrag,forwardslipsflownwithfullycrossedcontrolscangenerateextremeratesofdescent withminimal gainsinairspeed.○ Becausetheprimarypurposeisthecreationofdrag, it makesnosensetoperformaforwardslipwhenthepower isnot at idle. Reducingpoweristheprimarytoolforslowingdownandgettingdown. Enginepoweronlyopposesthedragcreatedbyforwardslips.
+● SlipsAreInherentlySafe-Becausetheairplaneisbankedtowardsthedirectionoftravel,thehighwing,awayfromthedirectionoftheslip,flieswithdownaileron,atahigherangleofattack,andisblanketedbythefuselage. Thisblanketingmaycausethehighwingtoproducelessliftorevenstall.However,ifthehighwingbeginstostall,itwillcausethebanktoreduce,whichnaturallyun-stallsthewing.○ Thisnaturallycorrectingtendencycanbeovercome,however,andsoitisimportantthatairspeednotbeallowedtodecaytoomuchduringaslip. Forwardslipsshouldalwaysbeperformedwiththenosebelowthehorizontokeeptheairspeedfromdecreasingtoomuch!● SlipsCauseAirspeedErrors-Becauseairspeedismeasuredbycomparingramairpressureinapitottube,whichnormallypointsdirectlyattherelativewind,withastaticport,whenflyinginaslip
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)5
+thereisaninherenterrorinairspeedindication. Thiserrorcanbeevenfurtherexacerbatedwhenthepitottubeisonthehighsideoftheslip,whichisflyinginairdisturbedbythefuselage. Thepositionofthestaticportonthefuselagealsoaffectstheairspeedindications.○ Theairspeedindicator shouldnot beconsideredreliableduringaslip! Generallyitwillindicatelowerthantherealairspeed,howeverthisisspecifictoeachaircraft.○ Itisbestiftheairplaneisproperlytrimmedtoanappropriateairspeedbeforebeginningtheslip.Oncethecross-controlledinputsarerelaxed,theairplanewilltrytoreturntothepreviouslytrimmedairspeed.● EnteringtheForwardSlip-Oncethepilothasdeterminedthataforwardslipisnecessarytolosealtitude, andreducingenginepower or addingflapsor loweringlandinggear isnot sufficient,theslipcanbeentered.○ Forwardslipsareenteredbyapplyingoppositeaileronandrudder input,andloweringthenosejustbelowthehorizontopreventtheairspeedfromdecayingexcessively.○ Althoughairspeedisdifficulttojudgeaccuratelyinaslip,aproperforwardslipshouldnotallowairspeedtobuildexcessivelyeither. Thepoint istoslowdown, andget down.○ Itisbesttotrytoslipatapproximatelyanormalapproachairspeed.○ Whenanairplaneislandingwithacrosswind, it isbest toslipwiththeairplanebankedtowardsthedirectionof thewind,sothatrecoverycantransitionseamlesslytoapropercrosswindsideslip.○ Astheairplanefliesintheslip,itsgroundtrackmaybepushedleftorrightofcoursebythewind. Althoughthenosewillnotbepointingtowardstherunway,takenoteofthegroundtrack.Keeptheairplanetrackingstraight towardstherunwaybyvaryingtheamount of bank.○ Theamountofrudderdeterminesthe‘aggressiveness’oftheslip. Inaveryaggressiveslip,theairplanemay‘runoutof’rudderatsomepoint. Whentheairplanehas‘runout of’ rudderauthority, it hasreachedthelimit of it’sforwardslipcapability.● Recovery-Whentheairplanehasreturnedtothedesiredglidepath,oronceithasreachedtheroundoutandlandingflare,thecross-controlledinputsshouldbegentlyrelaxedtorecoverfromtheslip.○ Theinputsshouldnotbereleasedsuddenly,causinganupset.○ Astheairplanerecoverstonormalflight,itispossiblethatitwilltendtoballoonup,asitmayhavebeenflyingatahigherspeedthanindicated.● AvoidingObstacles-Forwardsliplandingsallowextremelysteeplandingapproaches,whichmakeslandinginverytightrunwayenvironmentspossible,howevertheseenvironmentsarealsofrequentlysurroundedbytalltrees,powerlines,terrain,orotherobstacleswhichmustbeavoided.○ Donotflyacurvingorotherwiseabnormalfinalapproach. Trytomaketheapproachasnormalaspossible.● Slipsshouldnot replaceastabilizedapproach-Forwardsliplandingsareatoolwhichshouldbeusedsparingly. Inmost cases, rather than‘fixing’ anunstableapproachwithaforwardslip, it issafer togoaround!○ Itisusefultothinkaboutapproachesintermsof EnergyManagement,wherethereisafundamentaldifferencebetweenaHighEnergyandLowEnergyapproach,asthesemustbemanagedverydifferently. Slipsareonlyappliedinveryhighenergyapproaches,butthesetypesofapproacheshaveinherentrisks!■ SeethelessononArea10(X) - TaskB- Demonstrationof Flight CharacteristicsatVariousConfigurationsandAirspeedsformoredetailsonenergymanagement.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)6
+● WakeTurbulence-Smallairplanesareparticularlyvulnerableduringtakeoffandlandingbecausetheysharethesamerunwaysasmuchlarger,heavieraircraft. Theseaircraftcanleavedangerousvorticesbehindthem,calledwaketurbulence. Thesevorticesbeginatthewingtipsoftheheavieraircraft,tendtomovewiththewind,andgraduallymoveapartanddescend. Thereforeit iscritical that whendepartingbehindlarger, heavier aircraft, sufficient time(usually1-2minutes) isallowedtopassinorder toallowthewaketurbulencetodissipate.○ Whenlanding,waketurbulenceofprecedingairplanescanbeavoidedbyremainingabovetheapproachpathoftheheavierairplane.● WindShear-Smallaircraftarealsoparticularlyvulnerabletoshiftingwinddirections,calledwindshear. Becausetheyaregenerallyunderpoweredandcannotclimbrapidlytosafety,ifanairplaneisflyingintoa10knotheadwindthatsuddenlydissipatesorchangesdirection,itmayendupinasituationwhereitdescendsrapidlyandunexpectedly,andtheangleofattackmayincreasetothatofastall.○ Whenlanding,largefluctuations(morethan5knots)ontheairspeedindicatorareawarningsignofpossiblewindshear. If youseelargefluctuationsintheairspeedindicator, goaround!● SafetyConsiderations○ Aswithanylanding,theuseof checklistsisimportant. Beforebeginningthemaneuver,thebeforelandingchecklistmustbecompleted. Afterlandingandrollingouttoasafepointclearoftherunway,theafterlandingchecklistshouldbecompleted.○ All landingsrequirecautionfor powerlines, tall trees, or other obstaclesonfinalapproachwhichmaybenear therunwayenvironment.○ Itiscrucialtonotbecomesofocusedonthelandingthatanunsafesituationiscreated.Maintainsituationalawareness,makeappropriateradiocalls,andensurethatlandingclearanceisobtainedbeforelanding. Vigilancemust bemaintainedafter landingtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines. Ifthereisacontroltower,donotforgettocontactgroundcontrolfortaxiclearanceafterlanding,andatuncontrolledfields,clearlycommunicateyourtaxiintentionsontheradio. Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinalapproachpathisclear!○ Maneuveringinthepatternatlowairspeedcreatesariskofastallingsituation. If thestallwarningsoundsbeforethelandingflare, goaround!○ Whenexecutinganylanding,thereshouldbeapointidentified(nofurther thanthefirst 1/3oftherunway)beyondwhichiftheairplanehasnottoucheddownyouwillgoaround. Ifanyunsafesituationdevelops,suchasexcessiveballooningorbeingblownoffrunwaycenterline,goaround! Alwaysbepreparedtogoaround!○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.○ RunwaySurfaceConditions-Iftherunwayiswetoricy,itcanbequiteslippery,particularlyinthetouchdownzonewheremanyprecedingaircrafthavedepositedrubber. Exercisecautioninthesesituations!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)7
+ManeuverDescription● SelectingaSuitableRunway-Selectarunwaythatwillallowlandingintothewind,orwithamanageablecrosswind.● SelectingaTouchdownPoint-Selectaprominentfeatureontherunwaythatiseasytoidentifyfromthedownwindleg,andexplicitlystateit. Featureslike1,000footmarkers,touchdownzonemarkers,orrunwaynumbersaregoodchoices. Untilproficiencyisdeveloped,selectafeaturethatisnotdirectlyatthestartoftherunway,incaseoflandingshort.● EntryPositionandAltitude-Themaneuvershouldbeenteredonanormaldownwindleg,abeamthetouchdownpoint,atnormalpatternaltitude.● EntryAirspeed-Beginthismaneuveratanormaltrafficpatternairspeed,usuallyaround90knots.● Checklists-Pilotsmustperformabefore-landingchecklistbeforebeginningthemaneuver,andanafter-landingchecklistaftertaxiingsafelyclearoftherunway,forfull-stoplandings.● Airspeed-AirspeedshouldbekeptattheapproachairspeeddesignatedbythePOH,orslightlyhigher(addhalfthegustfactor)toaccountforgustingwindconditions. Bevigilant about maintainingairspeed,andif thestall indicationisheardat anypoint beforethefinal landingflare, discontinuethemaneuverandgoaround!● Bank-Sincethismaneuvertakesplaceinanairporttrafficpatternandinvolvesmaneuveringatlowspeedandatlowaltitude,thebankangleshouldbelessthan30degrees.● ApproachPath-Flyanormal,well-definedbaselegandfinalapproachsegment. Avoidcuttingthecornersoroverflyingthefinalapproachcourse.● Coordination-Themaneuvershouldbeflownincoordinatedflight. Attentionshouldbegiventoproperrudderinputduringturns.● Touchdown-Chooseanaimingpointsuchthattheairplanewilllandat, but not before,theselectedtouchdownpoint. Thelandingshouldbeatapropernose-highpitchangle(not onthenosewheel-- donot forceit!),safe,andundercontrol. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_m_-_slip_to_a_landing.pdf>>>
+========================================
+
+PPL(IV-M) / CAX/ CFI (VII-M)8
+● After Touchdown-Applyaerodynamicandwheelbrakingifmakingafullstoplanding,orifmakingatouch-and-go,reconfiguretheairplanefortakeoffandapplyfullpowerpromptly.● BePreparedtoGoAround! Theapproachmaynotworkoutandago-aroundisverypossible. Bepreparedtoexecuteago-aroundifneeded.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropermanagementoftheapproachpath. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheforwardsliptoalandingmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotselectsarunwaysuitablefortheweatherconditions,establishestheairplaneonadownwindlegatpatternaltitude,performsapre-landingchecklist,establishesaspeedbelowVa,makestheappropriateradiocalls,anddesignatesatouchdownpoint.○ Atthenormalabeampointonthedownwind,thepilotclosesthethrottle,appliescarbheatasnecessary,andestablishesaslowdescentatthenormalapproachairspeed.○ Pilotintentionallypositionstheairplaneonfinalabovethenormalapproachpath,andtransitionstoaforwardslip(correlatedwiththewinddirection)todescendmoresteeply.○ Pilotmanagestheforwardslipandaimsforapointsoastorecoverfromtheforwardslipandmakeasafe,controlledlandingat or within400feet beyondthedesignatedtouchdownpoint. (Thepilotmaynottouchdownbeforethedesignatedpoint)○ Pilotapplieswheelandaerodynamicbrakingtechniques.○ Pilotdividesattentionbetweenairplanecontrolandoutsidevisualreferences.○ Pilotperformsatimelygo-aroundifthesafecompletionofthemaneuver withinstandardsisindoubt.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

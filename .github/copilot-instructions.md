@@ -33,6 +33,10 @@ first read:
 
 - `docs/lesson_authoring/CFI_ACS_LESSON_AUTHORING_PROTOCOL.md`
 
+All factual lesson content must be sourced only from the Flight Guide knowledge base. Inspect the relevant approved local source or indexed source text before drafting. Do not use general knowledge, Binns, external websites, videos, or user-provided material as the factual source unless it has first been added to the Flight Guide knowledge base. Keep or incorporate user-provided assets, links, clips, videos, and other explicitly requested resources as supplemental lesson material.
+
+Synthesize key knowledge-base information into concise teaching material when useful. Flight Guide instructor principles, mnemonics, memory aids, and highlights may use Flight Guide or explicitly user-provided instructional material; label them as Flight Guide material when they are not FAA-defined language, and do not present them as controlling FAA fact.
+
 The CFI ACS lesson-authoring protocol governs these files and takes precedence over the Training Syllabus authoring instructions when the two differ.
 
 CFI ACS lessons are standalone lesson plans organized exactly by CFI ACS Area and Task.

@@ -1,0 +1,112 @@
+DOCUMENT_TITLE: binns_task_i_-_spin_awareness_and_spins
+SOURCE_FILE: binns_task_i_-_spin_awareness_and_spins.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)1
+Spins/ SpinAwareness
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheintentionalspinsmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Spinsareoneofthemostdangeroushazardsthataffectpilots,anddevelopinganunderstandingofthecausesforthemwillmakepilotsmoreproficientatavoidingthem. Thislessonwillintroducepilotstotheaerodynamicsinvolvedinspins,aswellastheproperrecoveryprocedures,sothatuncoordinatedstallscanbeproperlyrecoveredbeforetheydevelopintospins.
+Schedule Equipment
+● GroundLesson:30minutes● Flight:1hour- Demonstrationof Maneuver● Debrief:20minutes
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideos.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplaintheaerodynamicsinvolvedinaspin,whenspinsarelikelytooccur,andtheproperrecoveryprocedure.● Flight:Studentobservesthespinorincipientspindemonstrationandcandemonstratetheproperrecoverytechnique.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)2
+References
+● MZeroAFlightTraining-“ProperSpinRecovery”○ YouTube-https://www.youtube.com/watch?v=52tPNkBcfmg● TheUNDAeroCast-“SpinAwarenessTraining”○ YouTube-https://www.youtube.com/watch?v=c4XbkwMdZvY● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery],Chapter5,Page22-27[SpinAwareness/IntentionalSpins]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page25-26[Stalls]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVIITaskD(SpinAwareness)● FAA-S-ACS-7B(CommercialPilotACS)-AreaVIITaskD(SpinAwareness)● FAA-S-ACS-25(CFIACS)-AreaXTaskI
+GroundLessonOutline
+● Spinsare‘Scary’○ Anxietyfactors,Nausea/Airsickness● AerodynamicsofSpins○ Insidewingmorestalledthanoutsidewing● AirplanesApprovedforIntentionalSpins○ Airworthinesscategoryandtypecertificate.● ImpactofCG,Weight,andCoordination○ OverweightoroutofCG->Recoverymaybeimpossible!● SituationsLeadingtoUnintentionalSpins○ BasetoFinalTurn,Power-OnStallPractice● BasicSpinRecognitionandRecovery○ PARE->PowertoIdle,AileronsNeutral,RudderOpposite,ElevatorForwardtoBreakStall● HowtoSpin,OnPurpose○ EntryfromsimulatedBase-Finalturns(Cross-ControlledStalls)or‘Kick’therudderatthestall○ Pro-Spinvs.Anti-SpinInputs○ MinimumEntryAltitude-6,000ftAGL,MinimumRecoveryAltitude-4,000ftAGL● MaintainingOrientation○ Don’tlosetrackofheadingoraltitude,countthespins● ManeuverDescription-step-by-step○ Cleanconfiguration○ Entryposition,airspeed,etc.
+CommonErrors
+● Failuretoestablishproperconfigurationpriortospinentry.● Failuretoachieveandmaintainafullstallduringspinentry.● Failuretoclosethrottlewhenaspinentryisachieved.● Failuretorecognizetheindicationsofanimminent,unintentionalspin.● Improperuseofflightcontrolsduringspinentry,rotation,orrecovery.● Disorientationduringaspin.● Failuretodistinguishbetweenahigh-speedspiralandaspin.● Excessivespeedoracceleratedstallduringrecovery.● Failuretorecoverwithminimumlossofaltitude.● Hazardsofattemptingtospinanairplanenotapprovedforspins.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)3
+GroundLessonContent
+● Spinsare‘Scary’-Manypilotsareintimidatedbyspins,andbecauseofthedangertheyposetopilots,thisfearseemsjustified. However,whenpilotsareeducatedaboutspinentry,spinrecovery,andtheaerodynamicsofspins,itispossibletoovercomethenaturalanxietyandfocusmoreontheelementsofthemaneuver. Beforeanylessoninvolvingaspin,orcross-controlledstalldemonstration,athoroughpreflightbriefingshouldbeaccomplishedoutliningexactlywhatstepswillbeperformed,sotheelementofsurpriseisalleviated.○ NauseaandAirsickness-Additionally,spinscarryasignificantriskofnauseaorairsickness.Beforebeginninganydemonstrationofspinsinflight,applicantsshouldensurethattheyandtheirstudentsareready. (Donotgoonafullstomach,haveairsicknessbags,etc)
+● Aerodynamicsof Spins-Tounderstandtheaerodynamicsofspins,pilotsmustfirstunderstandthatallspinsfirstbeginwithanuncoordinated(oftencross-controlled)stall. Inanuncoordinated,usuallyskidding,turn,onewingisbeingblanketedpartiallybythefuselage,aswellasflyingashorterpaththantheoutsidewing,resultingintheinsidewingflyingslightlyslowerthantheoutsidewing. Thisleadstoanasymmetricstall wheretheinsidewingstallsfirst,evenwhentheoutsidewingmaystillbeflyingnormally,creatingaviolenttendencytobankinthedirectionofthestalledwing. Additionally,themorestalledwingisnowproducingmoredragalso, whichtightensandincreasestherotation.
+○ Incipient Phase-Iftheasymmetricstallingconditionpersists,theairplanewillcontinuerollingtowardsthestalledwing,pastthevertical,andentertheincipient phaseofthespin. Theairplanebeginsacceleratingdownwardsrapidly,andtherotationincreases.○ DevelopedPhase-Astheairplanebeginsatightrotationinthedirectionoftheoriginalturn,bothwingsarenowstalled,however theinsidewingisflyingat ahigher angleof attack, andremainsmorestalledthantheoutsidewing. Eventually,thespinstabilizeswiththeairplaneatlowairspeed,astabledescentrate,andasteadyrotationrate. Thisiscalledthedevelopedphaseofaspin. Mostsmallairplanes
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)4
+willbelosingaltitudeatanincrediblerateinthisphase,often500feetper2-secondturn.
+○ Recovery-Ifthepilotappliesanti-spincontrolinputsbyreducingthethrottle,neutralizingtheailerons,usingoppositerudder,andapplyingforwardelevatorpressure,thestalledconditionisbrokenandthewingsarenowflyingagain. Theoppositeruddercounteractstherotationandallowsthespintodevelopintoasteep,descendingspiraldive,fromwhichanormalrecoverycanbemade.
+● AirplanesApprovedfor Intentional Spins-Manycommontrainingairplanesarenotapprovedforintentionalspins. AlwaysconsulttheLimitationssectionofthePOHtodetermineunderwhichconditions,ifany,intentionalspinsareapproved.○ Airworthinesscategoryandtypecertificate-SometrainingairplanesapproveintentionalspinsonlyundertheUtilityCategory,whichprovideshigherpositiveandnegativelimitloadfactors.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)5
+● Impact of CG, Weight, andCoordination-Asstatedabove,manyairplanesareonlyapprovedforintentionalspinsintheUtilityCategory,whichisdeterminedlargelybyweight. HoweverCenterofGravityalsoimpactsspinrecovery. Recallthatspinsarejustanaggravatedstallcondition,andsonormalstallrecoveryconsiderationsalsoapplytospins.○ Overweight or out of CG->Recoverymaybeimpossible!-Airplanesaredesignedsothattheyhaveanaturaltendencytorecoverfromastall. Theyaredesignedsothatduringflight,theyrotatearoundapointcalledtheCenter of Lift. TheCenter of Gravityisthe‘balancepoint’.(Imaginebalancinganobjectonafingertip) Awell-designedairplane’sCenter of Gravityisalwaysforwardof theCenter of Lift.
+○ Thisdesigncausesanaturaltendencyfortheairplanetonosedown,reducingtheangleofattack. Tocounteractthis,thehorizontalstabilizerandelevatorsurfacesofanairplanearedesignedtoproduceadownwardforce,which‘holdsup’theheaviernoseareabypivotingtheairplanearoundtheCenterofLift. Whenanairplanestalls, if theelevator pressureisrelaxed, theCenter of Gravitywill fall naturally.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)6
+○ WhenanairplaneCenterofGravityistooclosetotheCenterofLift,orevenbehindit,averydangeroussituationexistswherethereisnonaturaltendencytorecoverfromastall. Infact, iftheCenter of Gravityistoofar rearward(aft), astallmaybeunrecoverable!○ Recallalsothataspininvolvesahighrateofrotation,andthattherudderandverticaltailsurfaceareneededtoarresttherotation. Airplaneyawislargelycontrolledbytheverticaltailsurface,andtoalesserextent,thefuselageitself. Duetothelargedistancefromthecenterofgravity,thetailsurfaceisveryeffectiveatmaintainingdirectionalstability. WhentheCGmovesrearwards,towardsthetail,thetailsurfaceislesseffectiveanddirectionalstabilityisreduced. AnairplanewithaCGthat istoofar aft haslimiteddirectional stabilityandrudder authoritymaybeinsufficient torecover fromthespin!
+● SituationsLeadingtoUnintentional Spins-Spinsultimatelybeginasuncoordinated(oftencross-controlled)stalls,andusuallyhappenbyaccident. Anyuncoordinatedstallcandevelopintoaspinentry. Theycansurprisepilotsinthetrafficpattern,orinthepracticearea.○ Base-to-Final Turns-Themostcommonplaceanunintentionalstallandspinwouldoccuris,inadvertently,duringagliding,base-to-finalturn. Pilotsoftenhavebeentaughttofearbankingtoomuchwhenclosetotheground,andinsituationswheretheyhaveovershotthebase-to-finalturn,theymaytrytosteepentheturnwithoutincreasingthebank. Thisleadstoaskidding(‘bottomrudder’)turn,wheretheaileronsarebeingheldoppositeinordertofighttooverbankingtendency. Thiscross-controlledstallisaclassicspinentrytechnique.■ Anatomyof theGlidingBase-to-Final Stall-Spin-Thetypical‘entry’procedureforanunintentionalgliding,base-to-finalspinisasfollows:● BaseLeg-Airplaneisflyingonabaseleg,approachingtheturntofinal. Theairspeedislowforapproachandlanding,andoftenallowedtoget toolow.● Overshoot Final-Theairplaneovershootsfinalapproach. Thisoftenoccurswhenthereisaleftcrosswindonaleftbase,withthecrosswindprovidinganunexpectedtailwindonbase.● SkiddingTurnToFinal-Thepilotbankstheairplanetowardsfinal,andnotwantingtoincreasebankanyfurther,appliesbottomor insideruddertohastentheturntofinal.● BankIncreases, NoseFalls-Thepilotnoticesthattheairplanewantstocontinuetobanktowardstheturn,sotheyapplyoppositeaileron. Thiscross-controlled,uncoordinatedsituationincreasesdragandcausesthenosetofall.● Stall-Thepilotattemptstoraisethenosewithelevatorandtheairplanebeginstostall. Theincreasedstallspeedfromthebankedturn,combinedwiththe
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)7
+uncoordinatedcrossed-controls,causestheinsidewingtostallfirst,rollingtheairplanetowardstheinsideoftheturn.● SpinEntry-Ifleftuncorrected,theairplanewillbeginspinninginthedirectionoftheturn.
+○ Improper Stall Recovery-Anotherplacewhereunintentionalstallandspinsareencounteredisduringimproperrecoveryfromstallsperformedintraining. Iftheairplaneisuncoordinatedwhenenteringthestall,onewingwilltendtodroprapidly. Surprisedandinexperiencedpilotsattempttoraisethefallingwingwithaileron,deepeningthestall,andleadingtoasecondary,crosscontrolledstall,andsubsequententryintoaspin.
+● BasicSpinRecognitionandRecovery-Pilotsshouldconsulteachairplane’sPOHforthemakeandmodelspecificrecoveryprocedures,butformostairplanestheacronymP-A-R-Eisusedtooutlinethespinrecoveryinputs:○ Power toIdle-Theairplanewillbedescendingextremelyrapidly,andenginethrustonlyhastensthedescent,aswellasflattensthespin.○ AileronsNeutral-Theaileronsareamajorcontributingcausetothe‘onewingismorestalledthantheother’situation,andneutralizingtheaileronsreducesthis.○ Rudder Opposite-Theruddershouldbepushedallthewaytothestopsinthedirectionoppositeofthespintoslowtherotation.○ Elevator BrisklyForwardtoBreakStall-Movetheelevatorforwardbrisklyassoonastherudderreachesthestop. Thiswillbreakthestallandallowthewingstoflynormallyagain. Ifdonecorrectly,theairplanewillnowbeinapower-off,steep,descendingspiraldive. Thedivecanberecoverednormally,withsmoothandgentleelevator pressuretoraisethenose,takingcarenot toenter anacceleratedstall.
+● HowtoSpin, OnPurpose-Anintentionalspiniseasilyenteredintwomainways:○ Method1-EnterfromsimulatedBase-Finalturns(Cross-ControlledStalls).○ Method2-‘Kick’therudderatthestallinthedesireddirectionofspin.○ Topromotethetendencytospin,pilotsshouldapply‘pro-spin’inputs. Oppositeailerontothedirectionofspinwilldeepen. Avoid‘anti-spin’inputs,suchasrelaxingelevatorbackpressure(tobreakthestall),anddonotapplyoppositerudderuntilreadytorecover.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_i_-_spin_awareness_and_spins.pdf>>>
+========================================
+
+PPL(VII-D) / CAX(VII-D) / CFI (X-I)8
+○ MinimumEntryandRecoveryAltitude-Intentionalspinsshouldbeenteredat nolessthan6,000ft AGL,andrecoveryshouldbemadenolater than4,000ft AGL.
+● MaintainingOrientation○ EyesOutside-Don’tlosetrackofheadingoraltitude,counttherotations. Monitor thealtitudesothat recoveryisinitiatedbytheminimumrecoveryaltitude.■ Itisverylikelythatphysicalgyroinstrumentsmaytumbleduringaspin,andtheymaybeunreliable.
+ManeuverDescription● EntryAltitude-Spinsshouldalwaysbeperformedatasafealtitude,incaseofadelayedorinadequaterecovery,orotherproblems. Themaneuvershouldbeperformedsuchthataccountingforaltitudelossduringspin,thefinalaltitudeisnolowerthan2,500feetAGL. Thereforeitisbesttobeginthemaneuver at least 4,000feet AGL.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver. Becausesignificant altitudemaybelost inthismaneuver, makesuretoclear theareabelowtheairplaneaswell!● Configuration-Configuretheairplaneinthecleanconfiguration,toavoidoverspeedingtheflapsduringtherecovery.● EntryAirspeedandPower-Thepowershouldbereducedandtheairspeedallowedtodecaytoastall.● Stall andSpinEntry-Eitherapplycross-controlledstallinputs,orwaitforthestallandkickfullrudderinthedesiredspindirection.● Recovery-Promptlyreducepower toidle, neutralizetheailerons, applyfull oppositerudder toslowtherotation, andbrisklypushforwardontheelevator tobreakthestall. Oncetheairplanehasrecoveredtoasteepspiral,gentlyraisethenosetothehorizon,avoidinganacceleratedstall,andapplyfullpowerandestablishaclimbatVxorVytogetbacktothepre-maneuveraltitude.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtomonitortheprogressofthemaneuver.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

@@ -1,0 +1,96 @@
+DOCUMENT_TITLE: binns_task_b_-_traffic_patterns
+SOURCE_FILE: binns_task_b_-_traffic_patterns.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)1
+TrafficPatterns
+Objective
+Toensuretheapplicantlearnstheelementsofanairporttrafficpatternandtheproceduresforoperatingintrafficpatternsatbothtoweredandnon-toweredairports.
+Purpose
+EveryVFRflightbeginsorendswithanairporttrafficpattern.Airportsareextremelybusyenvironments,andproperadherencetopropertrafficpatternproceduresiscriticaltoensuresafeoperation,particularlyatnon-toweredairports.Thislessonintroducespilotstotheelementsofanairporttrafficpattern,andtheproperproceduresforoperatingwithinthepattern.
+Schedule Equipment
+● GroundLesson:20minutes● Student Q&A:10minutes
+● ChartSupplement● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplaintheelementsoftheairporttrafficpatternandproperairporttrafficpatternprocedures,including:● Correctpatterndistances,howtoensureadequatespacing,visualscanningandcollisionavoidance● Toweredpatternoperations● Non-Toweredpatternoperations,includinghowtodeterminerunwayinuse,andpatternentries● Importanceofwindcorrectionintrafficpatterns● Right-of-wayrules● Duringeachflight,thestudentdemonstratestheabilityto:● ComplywithpropertrafficpatternproceduresandATCinstructions● Correctforwinddriftandmaintainappropriatespacingfromothertrafficinthetrafficpattern● Maintaintrafficpatternaltitude+/-100feetandtheappropriateairspeed+/-10knots
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)2
+References
+● ERAUSpecialVFR-“TrafficPatterns”○ YouTube-https://www.youtube.com/watch?v=w_Bbs4K7L5U● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter8[AirportTrafficPatterns]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter14,Page20-22[WindDirectionIndicators/TrafficPatterns]● AIM-2024-03-21(AeronauticalInformationManual)-Chapter4,Section2[RadioCommunicationsPhraseologyandTechniques],Chapter4,Section3[AirportOperations]● FAAAC90-48E(Pilot’sRoleinCollisionAvoidance)● FAAAC90-66C(Non-ToweredAirportFlightOperations)● FAA-S-ACS-6C(PrivatePilotACS)-AreaIIITaskB● FAA-S-ACS-7B(CommercialPilotACS)-AreaIIITaskB● FAA-S-ACS-25(CFIACS)-AreaVITaskB
+GroundLessonOutline
+● AirportTrafficPatterns○ Upwind,Crosswind,Downwind,Base,Final● TrafficPatternProcedures○ AppropriateDistances○ WindCorrection○ EnsuringAdequateSpacing○ VisualScanningandCollisionAvoidance○ WindshearandWakeTurbulenceAvoidance○ UseofChecklists● ToweredAirports○ ListentoATIS○ PatternEntry-Usuallydownwindorbaseentry,sometimesstraight-in● Non-ToweredAirports○ DeterminingRunwayinUse-Wind(ASOS,Windsock),CTAF○ TrafficPatternDirection-§91.126(ClassG),§91.127(ClassE)■ SegmentedCircles,ChartSupplement○ PatternEntry-45degreedownwindentrypreferred○ PatternExit-45degreeturntowardsdownwind○ RightofWayRules-§ 91.113● SpecialAirTrafficRules-14CFRPart93
+CommonErrors
+● Failuretocomplywithtrafficpatterninstructions, procedures, andrules.● Impropercorrectionforwinddrift.● Inadequatespacingfromother traffic.● Pooraltitudeorairspeedcontrol.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)3
+GroundLessonContent
+● Airport TrafficPatterns-Duetothefactthatatairportsmanyairplanesareconvergingtothesameplace(therunway)simultaneously,procedureshavebeendevelopedtoprovideorderfortrafficarrivinganddepartingatairports. Theairport trafficpatternissimplyarectangularflightpath,withoneofthelongsegmentsalignedwiththerunway. Imagineanairplanethatwouldtakeofffromarunway,and‘circleback’tolandagainonthesamerunway. Doingsowouldbecalled‘flyingapattern’. Atrafficpatternisusedtoorganizetheflowoftraffictakingoffandlandingonthesamerunway,andhas5‘legs’:○ Upwind/Departure-Astheairplanetakesoff,thefirstportionoftheflight,inthesamedirectionastherunway,iscalledthe‘upwind’or‘departure’leg. Itiscalledthisbecausenormallyairplaneschoosetotakeoffonarunwaywhichfacesintothewind.○ Crosswind-Astheairplaneclimbs,usuallyonceithasreached300feetbelowtrafficpatternaltitude(usually700ftabovetheground),itturnsleft. Thisiscalled‘crosswind’,asthelegisacrossthewind.○ Downwind-Astheairplanecontinuesinthepattern,itturnsleftagain,nowfacingoppositeofhowitbegan. Thisisusuallywiththewind,meaningthewindisblowingfrombehind,andthisiscalled‘downwind’. Thislegisflownattrafficpatternaltitude,whichisusually1,000feetabovetheground.○ Base-Astheairplanepreparestoland,itbeginstodescendandturnsleftagain,onceitisfarenoughfromthelandingrunway. Thisiscalledthe‘base’leg,becausethislegisthebasisfor,anddetermineshowthenext,finalapproachleg,willbestarted.○ Final-Theairplaneturnsleftoncemoretoalignwiththerunway. Thisisessentiallythesameasthe‘Upwind’leg,buttheairplaneislandinginsteadoftakingoff.
+● TrafficPatternProcedures-Inordertoensuresafeoperationinthetrafficpattern,certainproceduresmustalwaysbefollowedwhenflyinginatrafficpattern.○ AppropriateDistances■ Downwindshouldgenerallybeflownabout1milefromtherunway. Excessivelywidedownwindlegscanleadtofollowingtrafficlosingvisualoraccidentallycuttingaheadinthepattern,whichcancreateaverydangerouscollisionrisk!■ Finalshouldbeatleast1milegenerally. Thiscanbesetupbynotturningbaseuntiltherunwayisvisuallyapproximatelyatthemidpointbetweenthewingandthetail.○ WindCorrection-Itisessentialtorememberthatwindcorrectionshouldbeappliedonalllegsofthepattern. Inastrongcrosswindsituation,significantwindcorrectionanglesmayberequired. Acrosswindfromthedownwindpatternsideisparticularlydangeroussinceitpushes
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)4
+theairplanetowardstherunwayandcausesthebaselegtobeshorterthannormalandcausesadangerofovershootingfinal. Thesesituationsfrequentlyleadtostall/spinaccidentsonthebasetofinal turn!
+○ EnsuringAdequateSpacing-Maintainvisualcontactwiththetrafficaheadinthepatternatalltimes. Generallya1milefollowingdistanceisbest. Distanceshouldbeestimatedatkeypointsinthepattern:■ Donotturncrosswinduntilreaching300feetbelowpatternaltitudeandthetrafficaheadisapproachingtheturntodownwind.■ Donotturnbaseuntilthetrafficaheadisbeginningtoturnfinal.■ Ondownwind,ifthedistancetothetrafficaheadisclosing,deployflapsandslowdownearly. Ifthisdoesnoteasethespacing,itmaybenecessarytoexitandrejointhepattern.○ Visual ScanningandCollisionAvoidance-Itisimportanttovisuallyscanfortrafficatalltimeswhennearanairporttrafficpattern!○ Windshear Avoidance-PilotsshouldbeespeciallyvigilantwhenATC(orweatherforecasts)indicatethepossiblepresenceofwindshear. Itisappropriatetocarryextraairspeedinthesesituations,orbetteryet–considerdivertingtoanalternateairport!○ WakeTurbulenceAvoidance-Itisextremelyimportanttoprovidegreater-than-normalspacingwhenoperatingnearlargeorheavyaircraft. Spacingonfinalcanbeextendedbyextendingthedownwindleganddelayingtheturntobase. Aimtoflyabovetheglidepathof thelargeraircraft at all times!
+○ Useof Checklists-Pilotsmustdevelopahabitofalwaysperformingabeforelandingchecklistatthesamepointsinthepattern. Alwaysperformabeforelandingcheckondownwind.● ToweredAirports-OperatingattoweredairportsisgenerallyeasiestbecauseATCisresponsiblefor
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)5
+sequencingtrafficanddeterminingtherunwayinuse.○ ListentoATIS-TheATISwilldescribetheweatherconditionsandtherunwayinuse.○ PatternEntry-ATCwillprovideinstructionsforjoiningthepattern,whichisusuallyadownwindorbaseentry. Dependingontraffic,ATCsometimesallowsstraight-inarrivals.● Non-ToweredAirports-Non-toweredairportscanbefairlychaoticanddangerousenvironments,andthevastmajorityofmid-aircollisionsoccuratnon-toweredairportsinclear,daytimeconditions.Extremevigilancebypilotsisrequired.○ DeterminingRunwayinUse-Thereisnoconceptofan‘active’runwayatanon-toweredairport. Pilotscooperativelydecide(viatheCommonTrafficAdvisoryFrequency)whichrunwaywillbeused. Generallytherunwaybestalignedwiththewindwillbeused,bylisteningtotheASOS(AutomatedSurfaceObservationSystem)ifoneisavailable,orlookingatthewindsockorwinddirectiondevices.
+○ TrafficPatternDirection-TheFARs(§91.126(ClassG),§91.127(ClassE))requirethatalltrafficpatternsatnon-toweredairportsbeflownusingleft trafficunlesstheChartSupplementoratrafficpatternindicatorrequiresrighttraffic.■ SegmentedCircles-Someairportsincludesegmentedcirclesorothertrafficpatternindicatorswhichvisuallydepictthetrafficpatterndirectionforeachrunway. The‘L’shaperepresentstheBaseandFinallegsofthepattern.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)6
+■ Chart Supplement-TheChart Supplement(formerlytheAirport/FacilityDirectory)willindicatewhetherRightTrafficisrequiredforaparticularrunway.○ PatternEntry-Whilenotrequired,a45degreedownwindentrypreferred○ PatternExit-Whilenotrequired,a45degreeturntowardsdownwind
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_b_-_traffic_patterns.pdf>>>
+========================================
+
+PPL(III-B) / CAX(III-B) / CFI (VI-B)7
+○ Right of WayRules-TheFARs(§ 91.113)requirepilotstofollowtheestablishedright-of-wayruleswhenoperatingatnon-toweredairports. Generally,airplanesonfinalhaveright-of-way,andairplanesatloweraltitudeshaveright-of-way. However, pilotsarenot totakeadvantageof thisruleto‘cut inline’ inthetrafficpattern!
+● Special Air TrafficRules-14CFRPart93-SomeairportsarespecificallydesignatedintheFARsashavingspecialrulesgoverningthetrafficpatternproceduresatthoseairports. PilotsmustreviewPart93toensurethattheycomplywiththeseruleswhenoperatingatthoseairports.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

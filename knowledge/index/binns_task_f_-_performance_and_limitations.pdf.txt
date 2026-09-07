@@ -1,0 +1,163 @@
+DOCUMENT_TITLE: binns_task_f_-_performance_and_limitations
+SOURCE_FILE: binns_task_f_-_performance_and_limitations.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)1
+PerformanceandLimitations
+Objective
+Toensuretheapplicantlearnstheimpactofweightandbalanceandenvironmentalfactorsonaircraftperformance,theimportanceofmemorizingimportantaircraftlimitationsandhowtocalculateweightandbalanceandperformancedata.
+Purpose
+Airplanesaredesignedtobeassafeaspossibleandperformwellunderavarietyofcircumstances,butthissafetyandperformanceisbasedonpilotsremainingwithinthepublishedlimitationsandperformanceenvelopes. Thislessonintroducespilotstotheproceduresforcalculatingthevariousfactorswhichaffectairplaneperformance,aswellashowtoconsiderairplaneperformanceandlimitationsduringflightplanning.
+Schedule Equipment
+● GroundLesson:45minutes● Student Q&A:15minutes
+● AirplaneChecklist● AirplanePOH● Calculator● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● HowtocomputeWeightandBalance,thedangersofbeingoutoftheenvelope,weighteffectsonperformance○ Datum,weight,grossweight,arm,moment○ Strategiesfordealingwithanairplaneoutoftheallowableweightandbalanceenvelope● Howtocomputetakeoff,landing,andcruiseperformance● ListairplaneVspeedsandwhattheyrepresent● Effectsofdensityaltitude,wind,runwaysurfaces,etc.● Importanceofcalculatingrequiredperformance,differencesfromactualperformance,safetymargin
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)2
+References
+● CyndyHollman-“TakeoffPerformance(PrivatePilotLesson7c)”○ YouTube-https://www.youtube.com/watch?v=3OKXUl5le30● AirplanePOH-Section2[Limitations],Section5[Performance],Section6[Weight&Balance]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter4,Page4-4[DensityAltitude],Chapter5,Page14-15[StaticandDynamicStability],Chapter5,Page15-17[LongitudinalStability],Chapter5,Page19-20[DirectionalStability],Chapter5,Page25-26[Stalls],Chapter5,Page34-35[LoadFactorsandStallingSpeeds],Chapter5,Page37-38[VgDiagram],Chapter10,Page2[EffectsofWeight],Chapter10,Page2-4[Balance,Stability,CenterofGravity],Chapter10,Page4-5[TermsandDefinitions],Chapter10,Page5-11[ComputingW&B],Chapter11,Page16-18[LandingPerformance],Chapter11,Page19-28[PerformanceCharts]● FAA-S-ACS-6C(PrivatePilotACS)-AreaITaskF● FAA-S-ACS-7B(CommercialPilotACS)-AreaITaskF● FAA-S-ACS-25(CFIACS)-AreaIITaskF
+GroundLessonOutline
+● ImportanceofWeightandBalance-DangersofImbalance● WeightandBalanceTerms-Weight,GrossWeight,BasicEmptyWeight,Arm,Station,Moment,Datum,CG● EffectofWeightandBalanceonPerformance○ WeightraisesAoAforlevelflight,Affectsstallspeed,takeoffandlandingdistance,maneuveringspeed○ CG-Affectsstallspeed,stability● MethodsofWeightandBalanceControl○ Movingorreducingpassengersorcargo,Adjustingfuelload,Ballast● ComputingWeightandBalance-AirplanePOHSection6[Weight&Balance]○ HowToCompute-TotalMoment,CheckFlightEnvelope-NormalCategory/UtilityCategory○ Adding,Removing,andShiftingLoads● POHPerformanceCharts-AirplanePOHSection5[Performance]○ TakeoffPerformance,ClimbPerformance,CruisePerformance,LandingPerformance○ FuelBurn,TAS,Endurance● AirplaneLimitations-AirplanePOHSection2[Limitations]○ VSpeeds-Airplane,FlapsExtended,GearExtendedMaxSpeeds○ MaxDemonstratedCrosswind-Notatruelimitation○ VgDiagram,LoadFactor,DangersofExceedingLimitations● EffectsofAtmosphericConditionsonPerformance○ Wind,Temperature,Pressure○ TrueAltitude,PressureAltitude,DensityAltitude○ EffectonTakeoffandLandingSpeeds● RequiredPerformance○ Determiningsufficientairplaneperformanceforplannedflight■ Alsoconsider:Hard/SoftSurface,AirportEnvironment(RunwaySlope)○ EffectsofConfiguration○ CalculatedPerformancevs.ActualPerformance■ PilotSkill,AircraftCondition,ImproperLeaning■ SafetyMargin
+CommonErrors
+● Failingtoconsider changesinpassenger, cargo, or fuel loadonweight andCGcalculations.● MiscalculatingtheCGwhenloadingchanges.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)3
+GroundLessonContent
+● Importanceof Weight andBalance-Itisquiteintuitivethattheheavieranairplaneis,themoreforceisrequiredtomakeitfly,ortomaneuverit. Airplanesareextremelysensitivetoweight,andaredesignedtooperateonlyinspecificrangesofminimumandmaximumweights. Additionally,airplanesarequitesensitivetobalance,whichreferstothelocationoftheCenterofGravity.○ Dangersof Imbalance-Airplanesinflightrelyontheirflightcontrolsurfacestoproducesufficientforcestomaneuverandcontroltheairplane. Largeimbalancesinweightdistributioncanleadtosituationswheretheairplaneisexcessivelynoseheavy,ortailheavy,orwantstorollonedirectionoranother.
+● Weight andBalanceTerms○ Weight-Simply,howheavyistheairplaneoverall(grossweight),orhowheavytheindividualobjectis,whetherthanbepassengers,cargo,orevenfuelorairplaneparts.■ MaximumGrossWeight-Maximumweightallowablefortheairplane.■ BasicEmptyWeight-Weightoftheairplanewithallstandardandoptionalequipment,plusanyunusablefuel. Doesnotincludeweightofusablefuel,passengers,orcargo.■ Useful Load-DifferencebetweenMaximumGrossWeightandBasicEmptyWeight.Loadusableforfuel,passengers,andcargo.■ Payload-Loadavailableafterfuelisloaded.○ Datum-Agivenpointontheairplanefromwhichallrelativedistancesaremeasured. Forinstance,thepositionofallobjectsintheplanecanbespecifiedinthenumberofinchesfromthetipofthepropellerspinner,oranyotherlocation. Thedatumcanbeimaginedasthefulcruminabalanceorscale.
+○ Arm-Thedistancefromthedatum.Thefurtherthatanobjectisfromthedatum,thelongerthearm. Armisusuallyexpressedasinchesaft of datum(positivearmnumbers)or inchesforwardof datum(negativearmnumbers). ThisisalsosometimescalledastationinsomePOHs.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)4
+○ Moment-Inthe‘balancescale’concept,momentsimplydescribesthetendencyofanobjecttorotatearoundthedatum. A50lbobject100inchesfromthedatumwantstorotatemorethana50lbobject50inchesfromthedatum. Thisisintuitivelyexperiencedwithlevers: thelongerthelever, thelessforcemust beappliedtoachievethesameresult. Whenusingascale,aheavierobjectononesidecanbebalancedbylighterobjectsontheother,ifthoselighterobjectsarefurtherawayfromthefulcrum. MomentiscalculatedbymultiplyingWeightxArm,andisusuallyexpressedin‘inchpounds’.
+○ CG-Onceallindividualweightsinanaircraftareconsidered,theCenter of Gravity(CG)representsasortof‘averageposition’oftheweights. Whenbalancinganobject byafingertip, objectsbalanceontheir center of gravity. Whencomputingweightandbalanceforairplanes,thepositionoftheCGisassumedtobesomedistancefromthedatum,representedasanarm,or inchesaft of datum.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)5
+● Effect of Weight andBalanceonPerformance○ Weight■ Takeoff andLandingPerformance-Heavierairplanesrequiremorerunwaytotakeoff, andrequiremorerunwaytoland.■ Stall Speed-Whenflyingathigherweights,thetotalloadonthewingishigher,andtheairplanemustproducemorelifttomaintainstraightandlevelflight. Thisrequiresahigherangleofattackforthesameairspeed. Becauseairplanesalwaysstallatthesameangleofattack,andheavierweightsincreaseangleofattack,itcanbeconcludedthat heavier aircraft stall at ahigher airspeed.■ LoadFactor-Airplaneloadfactors(maximumandminimumstructuralloads)arecomputedonlyforallowablerangesofairplaneweights. Exceedingtheseweightsmaycausestructural failureinflight! Thisisespeciallytruewhenencounteringturbulence,etc.■ ManeuveringSpeed-Likewise,flyingatverylightweightsalsoaffectsperformance,becauseitwillrequirelessflightcontrolmovementtoproducethesameforces. Recallthatthewingwillbeflyingatalowerangleofattackwhentheweightislower,whichmeansthatthewingcanproducemoretotalliftbeforeitstalls. Thiscanresult intheairplaneexceedingthelimit loadfactor at lower airspeeds!○ CG-ThepositionoftheCenterofGravityaffectsmanyaspectsofairplaneperformanceandstability:■ Longitudinal StabilityandStall Recovery- Longitudinal stabilityreferstoanairplane’sstabilityinpitch. Mostairplanesarestableinpitch,andhaveagentleup-downpitchoscillationovertime. Themostimportantfactorinlongitudinalstabilityisthelocationofthecenterofgravityrelativetothecenteroflift.● Center of GravityandCenter of Lift-Whenconventionallydesignedairplanesfly,thecenterofgravityisalwaysinfrontofthecenteroflift. Youcanthinkofthecenterofliftasasortofpivotpointinaseesaw. Becausethehorizontalstabilizerisfarbehindthecenteroflift,itproducesdownwardforce(essentiallylift,butdownward)tokeepthenoseoftheairplanelevel. Thisdownwardforceopposestheupwardforceofthemain
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)6
+wing,requiringittoproduceslightlymorelifttocompensate. Also,becauseanyairfoilthatproducesliftalsoproducesdrag,theamountofdragcausedbythehorizontalstabilizerdependsontheforceitmustproduce.○ Whenthecenterofgravityisfurtherforward,thehorizontalstabilizermustproducemoredownwardforcetoraisethenose,whichaddstotheloadsplacedontheCenterofLiftpivotpoint(themainwing).
+● Airplanesaredesignedsothattheyhaveanaturaltendencytorecoverfromastall. Awell-designedairplane’sCenter of Gravityisalwaysforwardof theCenter ofLift.
+● Thisdesigncausesanaturaltendencyfortheairplanetonosedown,reducingtheangleofattack.Tocounteractthis,thehorizontalstabilizerandelevatorsurfacesofanairplanearedesignedtoproduceadownwardforce,which‘holdsup’theheaviernoseareabypivotingtheairplanearoundtheCenterofLift. Whenanairplanestalls,if theelevator pressureisrelaxed, theCenter of Gravitywill fall naturally.● AstheCenterofGravitymovesclosertotheCenterofLift,thenaturalnose-downstall-recoverytendencyisweakened,anditrequireslessdownwardforcebythetailtomovethenoseupordown. Inthisconfiguration, relativelysmall movementsof theelevator cancauselarge, rapidchangesinpitch.WhenanairplaneCenterofGravityistooclosetotheCenterofLift,orevenbehindit,averydangeroussituationexistswherethereisnonaturaltendencytorecoverfromastall. Infact, if theCenter of Gravityistoofar rearward(aft),theairplanemaybeuncontrollableinpitchandastall maybeunrecoverable! Thissituationiscalledlongitudinal instability.■ Stall Speed-SimilartothenaturaltendencyforaforwardCGtocausetheairplanetorecoverfromastall,aforwardCGrequirestherearhorizontalstabilizertoproducemoredownwardforcetokeepthenoseraisedforlevelflight. Thisinturnaddsmoreweightforthemainwingtosupport,increasingitsangleofattack,andthereforeincreasingstallspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)7
+■ Directional Stability- Directional stabilityisstabilityinyaw. Airplaneyawislargelycontrolledbytheverticaltailsurface,andtoalesserextent,thefuselageitself. Duetothelargedistancefromthecenterofgravity,thetailsurfaceisveryeffectiveatmaintainingdirectionalstability. WhentheCGmovesrearwards, towardsthetail, thetail surfaceislesseffectiveanddirectionalstabilityisreduced.
+● Methodsof Weight andBalanceControl-Pilotshaveafewwaystomanagetheweightandbalanceofanairplane.○ Movingor reducingpassengersor cargo-Iftheweightistoomuch,theamountofpassengersorcargocanbereduced. Similarly,iftheissueismerelythatofbalance,itispossiblethatsimplymovingthepassengersorcargotoanotherlocationcanalleviatetheproblem.○ Adjustingfuel load-Airplanesoftencarrysignificantamountsoffuel,whichcanbereducedtogiveahigher payload(weightcarryingcapabilityforpassengersandcargo).○ Ballast-IftheissueissolelyoneofCG,itisoftenpossibletoaddrelativelysmallweightstobaggagecompartmentstogeneratelargechangesintheCG,sincebaggagecompartmentsareoftenfarfromthedatum.
+● ComputingWeight andBalance-InordertodeterminethetotalweightandfindtheCenterofGravityforanairplane,theGrossWeightandCGlocationmustbecomputed.○ HowToCompute-Computingweightandbalanceisfairlysimple:■ Step1:StartwiththeAirplane’sEmptyWeight andCG. ThiscanbefoundinthePOH,andrepresentstheGrossWeight andCGlocationwithno(usable) fuel,passengers, or cargo. Seeyour AirplanePOHSection6[Weight &Balance]■ Step2:Addtheweightoffuel,passengers,andcargototheAirplaneEmptyWeight.Thisisthegrossweight.■ Step3:Multiplytheweightofeachitem(fuel,eachpassengeranditemofcargo)bythearmfortheirlocation. Thisprovidesthemomentforeachitem. ComputethemomentoftheemptyairplanebymultiplyingtheAirplaneEmptyWeightbytheemptyCG. (SomeW&Bsheetsalreadyprovidethis) Thisistheemptymoment.■ Step4:Addeachcalculatedmomenttotheemptymomenttodeterminethetotalmoment.■ Step5:Dividethetotal momentbythegrossweight. ThisprovidestheCGlocation,intermsof distancefromthedatum.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)8
+○ CheckFlight Envelope-UsethePOHtofindwherethecomputedgrossweightandCGliewithintheenvelope. DependingonthePOH,youmayneedtousetotal momentor CG(inches). If theintersectionbetweentheweight andCGdoesnot liewithintheenvelope,theairplaneisnot withintheallowableCGrangeandweight must beadded, removed, ormovedtoalter theCG!■ Normal vsUtilityCategory-NotethatmanyairplanesmaybeoperatedintheUtilityCategoryatcertainrangesofweightandCG. Ifthemaneuversbeingplannedrequiretheairplanetobeoperatedinthiscategory,besuretoensuretheweightandCGarewithinlimitsforthatareaoftheflightenvelope.
+○ Adding, Removing, andShiftingLoads-ItisalsoeasytocomputewhatwillhappentotheweightorCG. Thefurtherfromthedatum(furthertowardstherearoftheairplane)anobjectisplaced,themoreitwillmovetheresultingCGrearwards.■ Forexample,tosimulatetheaddingof10lbsofballasttotherearbaggagearea,simplymultiplytheweightoftheballasttimesthearmlocationofthebaggagearea,andaddtotheexistingtotalmoment,toseeiftheCGmoveswithinlimits. Likewise, tosimulatetheremoval of anitem, computeanegativeweight inthegivenlocation(givinganegativemoment), andaddit tothetotal moment.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)9
+● POHPerformanceCharts-SeeyourAirplanePOHSection5[Performance]○ Takeoff Performance-Usetablesforcalculations,takenoteofconditionsandconfiguration!■ Important Note:TablebelowisanExampleOnly. UsedatafromyourairplanePOH.
+○ ClimbPerformance-Usetablesforcalculations,takenoteofconditionsandconfiguration!■ Important Note:TablebelowisanExampleOnly. UsedatafromyourairplanePOH.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)10
+○ LandingPerformance-Usetablesforcalculations,takenoteofconditionsandconfiguration!■ Important Note:TablebelowisanExampleOnly. UsedatafromyourairplanePOH.
+○ CruisePerformance, Fuel Burn, TAS, Endurance-Usetablesforcalculations,takenoteofconditionsandconfiguration!
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)11
+● AirplaneLimitations-SeeyourAirplanePOHSection2[Limitations]○ VSpeeds-ItiscrucialforpilotstomemorizeandstaywithintheVspeedsoftheirairplane.SomeimportantV-Speedsthatpilotsshouldknow:■ Vs-Stallspeed(generallyincleanconfiguration)■ Vs0
+-StallSpeedinlandingconfiguration■ Vx-BestAngleofClimb■ Vy-BestRateofClimb
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)12
+■ Vg-BestGlide■ Vfe-MaxFlapsExtended■ Vle-MaxGearExtendedSpeed/Vlo-MaxGearOperatingSpeed■ Va-ManeuveringSpeed■ Vno-MaxNormalOperatingSpeed(TopofGreenArc)■ Vne-NeverExceedSpeed■ MaxDemonstratedCrosswind-MaxDemonstratedCrosswindisnotatruelimitation,itissimplythemaximumvaluethatwasdemonstratedduringcertification. However,pilotsshouldconsider their ownproficiencywithcrosswindtechniqueswhendecidinghowmuchcrosswindisallowable. Thereisanaerodynamiclimit(unpublished)tohowmuchcrosswindispossibleinanairplane.○ VgDiagram-TheVgDiagramvisuallyillustratesthevariousairplanespeedlimitationsandhowLoadFactoraffectsstallspeed,etc.
+○ Dangersof ExceedingLimitations-Exceedingpublishedairplanelimitationsisextremelydangerousandcanleadtoin-flightstructuralfailure!● Effectsof AtmosphericConditionsonPerformance○ Wind, Temperature, Pressure-POHPerformanceChartsgenerallyaccountforthesevariables,astheycanincrease,ordecreaseperformance.○ Measuresof Altitude■ TrueAltitude-ActualaltitudeaboveMeanSeaLevel(MSL)inabsoluteterms.■ PressureAltitude-AltitudeaboveMSLcorrectedfornon-standardpressure. (StdPressure=29.92”) Each0.01”ofdeviationaccountsfor 10feetofcorrection. Whentheatmosphericpressureishigher thanstandard, thepressurealtitudeislowerthanthetruealtitude.■ DensityAltitude-AltitudeaboveMSLcorrectedfornon-standardpressureandtemperature. Thisaltitudeisusedprimarilyinperformancecalculationssinceit
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:binns_task_f_-_performance_and_limitations.pdf>>>
+========================================
+
+PPL(I-F) / CAX(I-F) / CFI (II-F)13
+representsthe“equivalentaltitude”inthestandardatmosphere(29.92”and15°Celcius)wherethesameperformancewouldbeachieved.● Thisiscomputedbecausebothairplaneaerodynamicperformanceandengineperformanceareaffectedbyreduceddensityoftheatmosphere.○ Effect onTakeoff andLandingSpeeds-WhenDensityAltitudeishigh,takeoffandlandingtrueairspeedwillbehigher,althoughtheairspeedindicatorwilldisplaythesameindicatedairspeeds. Thisequatestolonger takeoff andlandingdistances!● RequiredPerformance○ Itiscrucialthatpilotsdeterminebeforeeveryflightthattheairplanehassufficientperformancefortheplannedflight. Otherfactorstoconsider:■ Soft RunwaySurfacesincreasetakeoffrolls,anddecreaselandingrolls■ Airport Environment-Upwardslopingrunwaysincreasetakeoffrolls,anddecreaselandingrolls. Obstaclesintheapproachordeparturepathmayrequirealongertakeofforlandingroll.○ Effectsof Configuration-POHperformancevaluesarevalidonlyforthespecifiedconfigurations. IfthePOHspecifiestouseFlaps,Flapsmustbeusedtomeetthestatedperformance!○ CalculatedPerformancevs. Actual Performance-ThePOHperformancenumbersshouldbetreatedasbest casevalues. Itisgenerallybesttoaddsome‘safetymargin’tothecomputednumberstoaccountforthingslike:■ Pilot Skill-Meetingcalculatedlandingortakeoffdistancesrequiresgoodpilottechnique. Anymistakescanincreasethesevalues.■ Aircraft Condition-Airplaneswhichareolderfrequentlyfailtoexactlymatch‘bookvalues’.■ Improper Leaning-Itisveryeasytoperformthemixtureleaningprocedureimproperly,whichcanmakealargedifferenceinactualfuelburn.○ SafetyMargin-Add10-20%totakeofforlandingdistances. Add10-20%tofuelburnfigures.Donotplantoconductflightsthatrequiremaximumperformance,suchasinextremecrosswinds,etc.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

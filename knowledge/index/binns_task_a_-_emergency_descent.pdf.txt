@@ -1,0 +1,111 @@
+DOCUMENT_TITLE: binns_task_a_-_emergency_descent
+SOURCE_FILE: binns_task_a_-_emergency_descent.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)1
+EmergencyDescent
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheemergencydescentmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Someemergencies,suchasfires,requirethatpilotsgetdownonthegroundimmediately. Theemergencydescentintroducespilotstotheproceduresforhandlingtheseemergenciesanddemonstrateshowtodissipatealtitudeextremelyquicklyinasafe,controlledmanner.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Pre-Checkride■ Flight 3:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeoftheemergencydescentmaneuver,whenthemaneuvershouldbeperformed,andhowloadfactoraffectstheperformanceofthemaneuver.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Atthedirectionoftheinstructororexaminer,determinesthenatureoftheemergencyandconsulttheappropriateemergencychecklist.● Clearsthearea,selectsasuitableemergencylandingarea,configurestheairplaneperthePOH,andbeginsadescentatthehighestspeedallowablefortheconfiguration,-10/+0knots.● Maintainspositiveloadfactorsandcoordinatedflightthroughoutthedescent,withabankanglebetween30and45degrees.● Thepilotclearstheengineonceperrevolution,andrecoversatthespecifiedaltitude,+/-100ft.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)2
+References
+● ERAUSpecialVFR-“EmergencyDescent”○ YouTube-https://www.youtube.com/watch?v=q1YRjSOfxsw● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter18,Page2-5[BasicSafetyConcepts],Chapter18,Page5-7[TerrainTypes],Chapter18,Page7-8[EngineFailureAfterTakeoff],Chapter18,Page8-9[EmergencyDescents/In-FlightFire]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page34-35[LoadFactorsinSteepTurns]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIXTaskA● FAA-S-ACS-7B(CommercialPilotACS)-AreaIXTaskA● FAA-S-ACS-25(CFIACS)-AreaXIITaskA
+GroundLessonOutline
+● WhatisanEmergencyDescent?○ GetDownFast■ FireInFlight■ LossofCabinPressurization● HowtoGetDownFast○ ReduceThrusttoIdle○ IncreaseDrag■ Positiveloadfactor/induceddrag■ Highspeed/parasitedrag■ Configuration-flaps/gear/etc● Don’tJustNoseOver○ Entry-Positiveloadfactor○ Spiral-Setupforemergencylanding● DiagnosisandEmergencyChecklists○ Removefuelsupplyinfireemergencies!● ManagingtheBankAngle● Recovery● Safetyconsiderations○ ClearingTurns-especiallybelow○ EmergencyChecklists○ Visualtrafficscanning○ Clearingtheengine-onceperrevolution○ NeverExceedSpeed● ManeuverDescription-step-by-step○ Altitude,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Theconsequencesof failingtoidentifyreasonfor executinganemergencydescent.● Improper useof theprescribedemergencychecklist toverifyaccomplishment of proceduresforinitiatingtheemergencydescent.● Improperuseofclearingproceduresforinitiatingtheemergencydescent.● Improperproceduresforrecoveringfromanemergencydescent.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)3
+GroundLessonContent
+● What isanEmergencyDescent?-Inshort,certainemergencysituationsmayoccurinflightwherethepilotneedstogetdownnow,wheretimeisofcriticalimportance. Manyemergencydescentswouldfollowupwithanemergencylanding,perhapsinafieldoronaroad. Theemergencydescentisamaneuverdesignedtoloseasmuchaltitudeaspossible, asquicklyaspossible, whileremainingwithinthestructural limitsof theairplane. Somesituationsthatmightrequireanemergencydescent:○ FireInFlight-Anengineorelectricalfireinflightisoneofthemostdangerousemergenciesapilotcanencounter. Thesmokeproducedwillmakeitdifficultorimpossibleforthepilottoseeandbreathe,andthefireitselfthreatenstoweakentheairplanestructurally. Incaseoffire,pilotsmust landimmediately.■ Somefiresmayevenbeextinguished(be‘blownout’)bydescendingatveryhighairspeeds,astheincreasedairflowcancreateanincombustiblemixture,thatis, toomuchairflowtosustainafire.■ Firescanspreadrapidlyandrapidlycompromiseanaircraftorapilot,sotheymustbedealtwithimmediatelytoavoidcatastrophe.
+○ Lossof CabinPressurization-Inpressurizedairplanes(nottypicaltrainingairplanes),alossofcabinpressurizationrequiresarapiddescenttoloweraltitudestopreventthepassengersorcrewfromexperiencinghypoxiaandlosingconsciousness.
+● HowtoGet DownFast-Newpilotsmightassumethatgettinganairplanedownquicklyiseasy,howeveritdoestakesomeskill. Simplypitchingdownandpointingtheairplaneatthegroundwillproducearapiddescent,howeveritwillquicklycausetheairplanetoexceedVne(never-exceedspeed)andcouldstructurallycompromisetheairplane. Pilotsmust managethedescent toflyasfast aspossiblewhilecreatingasmuchdragaspossible, without exceedinganystructurallimitsof theairplane.○ ReduceThrust toIdle-Enginethrustiscountertothedesiretoadddrag,andsoitshouldbereducedtoidle.○ AddDrag-■ IncreaseLoadFactor-Recallthatasanairplanebanks,itexperiencesahigher loadfactor(g-force),whichcausesthewingtoproducemorelift(flyatahigherangleofattack),therebyincreasinginduceddrag. Anairplanewhichisbankingat45degrees,
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)4
+forexample,hasaloadfactorof1.4g. Astheloadfactor increases, theangleofattackincreases, theinduceddragincreasesexponentially.
+■ GoFast-Pilotsalsoknowfrombasicaerodynamicsthatdragalsoincreasesrapidlyasairspeedincreases. Byflyingasfastaspossible(generally,atVneifconditionsallow,otherwiseatVnointurbulentair),dragcanbeincreased.
+■ Configure-Someairplanesspecifythatemergencydescentsshouldbemadewithlandinggearextended(forretractablegear),orwithflapsdown,etc. Theseconfigurationchangesalladddrag,howevertheyalsogenerallyreducethemaximumallowableairspeed. Refer totheAirplanePOHtodeterminethecorrectconfigurationandairspeedfor anemergencydescent.
+● Don’t Just NoseOver-WhenbeginningthepitchdownforVne,pilotsmightattempttojustpushthepitchdowntoaccelerate. Arapidpushovercreatesa<1gloadfactor,whichinitiallyreducesdrag,aswellascreatesariskofanegative-gor0-gsituation. Theemergencydescent shouldbeflownwithapositiveloadfactor continuouslythroughout themaneuver tomaximizedragandavoidthe<1gareaoftheenvelope.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)5
+○ Entry-Generally,theproperentryforanemergencydescentistoreducepowertoidle,begina30-45degreebankedturn,andlowerthepitchangletoacceleratetoVneorVno,asappropriate.
+○ Spiral-Inordertomaintainpositiveloadfactorsthroughout,andtoremainoverapotentialemergencylandingarea,anemergencydescentisoftenflownasasteep,spiralingdescent. Inmost cases, theobjectiveistorapidlydescendtoasuitablelandingareawhereanemergencyapproachandlandingcanbeexecuted. Therefore,agoodpointonthegroundtospiraloveristhe‘downwindkeyposition’fortheeventualemergencylandinglocation.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)6
+● DiagnosisandEmergencyChecklists-Beforeandduringtheemergencydescent,itisimportantthatpilotsattempttodiagnosetheproblem,andperformtheemergencychecklists. Theemergencychecklist itemsmayresolvethesituationthat iscausingtheemergencydescent!○ Forexample:Inanenginefireemergency,theemergencychecklistwillinstructpilotstocutoffthefuelsupplytotheengine,whichmayassistinextinguishingthefire.
+● ManagingtheBankAngle-Inordertoremainovertheselectedemergencylandingarea,theangleofbankmustbevariedthroughoutthemaneuvertoaccountforthewind. Asgroundspeeddecreaseswhileupwind,lessbankisrequired,butasgroundspeedincreaseswhiledownwind,morebankisrequired. Constantlychangingbankwill requirecloseattentiontothecoordinationof theturns. Theemergencydescent shouldbeflownbetween30and45degreesof bank.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)7
+● Recovery-Recoveryfromanemergencydescentshouldbemadegently,astheairplaneisverylikelybeingflownovermaneuveringspeed. Donot continuetheemergencydescent below1,000ft AGL,andensurethatrecoveryisstartedearlyenoughsothattheairplanecanslowtoprepareforanemergencyoff-airportlanding.
+● SafetyConsiderations○ ClearingTurns-Anemergencydescentwillinvolveflightatveryhighspeedsandacrossaverylargeverticalsectionofsky. It isimportant that pilotsthoroughlyclear thearea,especiallydirectlybelowtheairplane.○ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.○ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.○ ClearingtheEngine-Becausethemaneuverisperformedwhiletheengineisatidleforanextendedperiodoftime,carbheatmayberequired,andtheengineshouldbeperiodicallycleared(broughtuptohighpowerbriefly),atleastonceperrevolution,topreventsparkplugfouling.○ Never ExceedSpeed-Forthepurposesofsimulation,itisoftenbettertoflytheairplaneatVno. Theairplanecannever beallowedtoexceedVne!
+ManeuverDescription● Maneuver Start-Usuallytheinstructororexaminerwillindicatethatsomekindofemergencyisoccurring. Whenasimulatedemergencyoccursthatwouldwarrantanemergencydescent,initiatethemaneuver.● Clear TheArea-Cleartheareaaroundtheairplane,especiallydirectlybelow.● EmergencyChecklist-Dependingonthetypeofemergency,referencetheappropriateemergencychecklistandcompleteanystepsnecessarybeforebeginningtheemergencydescent.● ConfigurationandAirspeed-DependingonwhattheemergencychecklistandPOHcallfor,configuretheairplaneanddescendattheappropriatespeed. (UsuallyVfewithflapsextended, orVno/Vnewithnoflaps)● Select aSuitableEmergencyLandingArea-Oncethedescenthasbegun,findanopenfieldorotherarea,freefromobstacles,thatwillallowlandingintothewind,orwithamanageablecrosswind.● BankAngle-Selectabankangleinitiallybetween30and45degrees,varyingthebankangletomaintainanearlyconstantradiusoverapossibleemergencylandingarea. Becauseofthevaryinggroundspeed,thisbankanglewillnotbeconstant. Aimtobanknolessthan30degrees,bothtomaintainpositiveloadfactorsandtoensureeachrevolutionwillnotloseexcessivealtitudeandrequirethemaneuvertobestartedatanimpracticallyhighentryaltitude.● RecoveryAltitude-Generally,theemergencydescentshouldbecompletednolower than1,500ftAGL. Allowforenoughaltitudetomakeittoapositionfromwhichapower-offapproachandlandingcanbeexecuted.● Coordination-Tospiralaroundtheemergencylandingarea,theangleofbankwillvary,whichwillrequirecloseattentiontocoordination. Propercoordinationmustbemaintainedatalltimes,asbankingsteeplyatrelativelylowaltitudesrequirescautiontoavoidastallorspin.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_a_-_emergency_descent.pdf>>>
+========================================
+
+PPL(IX-A) / CAX(IX-A) / CFI (XII-A)8
+● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthetargetemergencylandingarea.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheemergencydescentmaneuver,whenthemaneuvershouldbeperformed,andhowloadfactoraffectstheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Atthedirectionoftheinstructororexaminer,determinethenatureoftheemergencyandconsulttheappropriateemergencychecklist.○ Pilotclearsthearea,selectsasuitableemergencylandingarea,configurestheairplane(perthePOH),andbeginsadescent at thehighest speedallowablefor theconfiguration, -10/+0knots.○ Pilotmaintainspositiveloadfactorsthroughoutthedescent,withabankanglebetween30and45degrees.○ Thepilotclearstheengineonceperrevolution,maintainscoordinatedflight,andrecoversatthespecifiedaltitude,+/-100ft.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

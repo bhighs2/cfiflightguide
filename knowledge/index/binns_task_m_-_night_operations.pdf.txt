@@ -1,0 +1,96 @@
+DOCUMENT_TITLE: binns_task_m_-_night_operations
+SOURCE_FILE: binns_task_m_-_night_operations.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)1
+Night Operations
+Objective
+Toensuretheapplicantlearnstheelementsthataffectnightvisionandtheproceduresforoperatingsafelyatnight.
+Purpose
+Whilenotallpilotsflyatnight,nightflyingcanprovideagreatdealofutilityandenjoyment. Weatherisoftenquitefavorableatnight,withsmoothairandgoodvisibility. However,nightflightisassociatedwithcertainhazards,andrequirespilotstouseproperprocedurestoensuresafeoperations. Thislessonintroducespilotstothepotentialhazardsofnightflying,aswellashowtoperformtheproperproceduresforsafenightflying.
+Schedule Equipment
+● GroundLesson:20minutes● Student Q&A:10minutes
+● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● Factorsthatrelatetonightvision,nightblindspot,thefunctionofrodsandcones● Howtopreservenightvision,howtoadjustcockpitlighting● Nightopticalandspatialillusions● Proceduresfornightoperations○ Preflight,taxi,takeoff,climb,enroute,go-arounds○ Trafficpatternoperations,PilotControlledLighting○ “BlackHole”Approaches,UseofLandingLights○ OrientingbasedonAircraftNavigationalandPositionalLights○ Importanceofincreasedrelianceonflightinstruments○ Proceduresforhandlingnightemergencies
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)2
+References
+● MZeroAFlightTraining-“HazardsWhenFlyingAtNight-Day18#31DaySPC”○ YouTube-https://www.youtube.com/watch?v=DN7qO7q-ieg● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter11[NightOperations]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter17,Page6-12[SpatialDisorientationandIllusions],Chapter17,Page19-29[VisioninFlight]● AIM-2024-03-21(AeronauticalInformationManual)-Chapter8,Section1-6[VisioninFlight]● FAA-S-ACS-6C(PrivatePilotACS)-AreaXITaskA● FAA-S-ACS-25(CFIACS)-AreaIITaskM
+GroundLessonOutline
+● FactorsRelatedtoNightVision○ FunctionofRodsandCones○ NightBlindSpot○ EffectsofHypoxia,Fatigue● DisorientationandNightOpticalIllusions○ FalseHorizon,Autokinesis● PreservingNightVision○ DarkAdaptation■ Closeoneeyenearbrightlights■ Don’twearsunglassesafterdark■ Moveeyesslowly■ Blinkifeyesbecomeblurry■ Concentrateonseeingobjects■ Useoff-centerviewing■ Maintaingoodphysicalcondition■ Avoiddrinking/smoking/drugs○ CockpitLighting-Adjustmentofinteriorlighting,Importanceofaredlens○ AircraftLighting● NightOperatingProcedures○ EquipmentRequired-Keepessentialswithineasyreach. Whiteflashlight,redflashlight○ NightPreflightInspection-Importanceofusingawhitelight○ Enginestartingprocedures,Useofpositionandanti-collisionlightspriortostart-§91.209○ TaxiingandOrientationonanAirport-Useofairportdiagrams,taxiwaysigns,lighting,andmarkings○ InFlight-Importanceofincreasedrelianceoninstruments,lackofoutsidereferences■ TakeoffandClimb-out-Dangersoflossofhorizoninaclimbattitude■ In-flightorientation-Awarenessofnightopticalillusions● Orientationbasedonaircraftnavigationlights■ TrafficPatternProcedures● SpottingAirportBeacons● PilotControlledLighting● “BlackHole”Approaches● Landingwithandwithoutlandinglights● Dangersofnightgo-arounds■ In-flightEmergencies-Aimfordarkareasifnotwithinglidingdistanceofanairport○ ChallengesofNightandLowVisibilityOperations
+CommonErrors
+● Failuretoprotect night visionduringtaxi or other operations.● Operationwithinoperativelightingor equipment at night.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)3
+GroundLessonContent
+● FactorsRelatedtoNight Vision○ Functionof RodsandCones-Twotypesofcellsintheretina■ Rods-Evenlydistributedaroundtheretinaexceptthefovea,extremelysensitivetolowlevelsoflightbutdonotprovideanycolorvision.■ Cones-Providecolorvision,butnoteffectiveatnight. Mostlyconcentratedinthefovea.○ Night BlindSpot-Thefovea,nearthecenterofvision,consistsmostlyofconeswithveryfewrods. Thereforeatnight,thereisanight blindspot,duetothelackofrodsinthefovea. Pilotsmustuseoff-centerviewingatnighttoscanfortrafficorobstacles.
+○ Effectsof Hypoxia-Hypoxiasignificantlydecreasesnightvisionasrodshavereducedfunctionalityinlowoxygenenvironments. Pilotsshouldusesupplemental oxygenwhenover 5,000feet at night.■ Fatigue-Fatiguealsoreducesnightvision.● DisorientationandNight Optical Illusions-Nightflyingproducesanumberofopticalillusionswhichcanleadtospatialdisorientation. Inparticular,nightflyingprovideslessoutsidevisualreferences,whichincreasesthedifficultyofflyingbyvisualreferencesonly.○ FalseHorizon-Pilotscanconfusegroundlighting,stars,orangledcloudswiththetruehorizon.○ Autokinesis-Staringatabrightlightinadarkareaforalongtimecancauseanappearanceofspontaneousmovementwhennoneexists.● PreservingNight Vision-Rods,whileextremelysensitiveinlowlight,areslowtoadapt. Itcantake30minutesforeyestoadapttoverylowlightconditions. Onceeyesareadaptedtolowlight,itisimportanttoprotectthemfromviewingbrightlights,whichwilloverwhelmtherodsanddegradenightvision. Itmaytakeseveralminutes(evenupto30minutesagain)toregainthelostnightvision.○ DarkAdaptation
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)4
+■ Closeoneeyenear bright lights-Whenexpectingtoviewabrightlightsource,closeoneeyetopreservedarkadaptationintheother.■ Don’t wear sunglassesafter dark-Sunglassessignificantlyimpairthedarkadaptationprocess.■ Moveeyesslowly-Ittakesmoretimeforeyestoadjustinlowlight.■ Blinkif eyesbecomeblurry■ Concentrateonseeingobjects-Focusingonobjectsmayrequiretimeanddeliberateeffort.■ Useoff-center viewing-Avoidlookingdirectlyatthings,toavoidthenightblindspot.■ Maintaingoodphysical condition-Fatiguecanimpairnightvision.■ Avoiddrinking/smoking/drugs-Smokingordrugs/alcoholcancausehypemicorhistoxichypoxia,whichimpairsnightvisionsignificantly.○ Cockpit Lighting-Itisimportanttokeepcockpitlightingdim,usingonlyredlight,asredlightdoesnotcreateharmfulglare. Keeparedflashlightavailableandineasyreachatalltimes.
+○ Aircraft Lighting-Atalltimes,pilotsshoulduseananti-collisionlightorbeaconwhentheairplaneisoperating. Theuseofnavigationlightsisrequiredatnight(aftertheendofciviltwilight),butitisbesttousethemfromsunsettosunrise. Avoiduseof strobesor brightlandinglightswhenintheproximityof other airplanesandnot ontherunway! Thishelpsotherpilotsprotecttheirownnightvision.● Night OperatingProcedures○ Equipment Required-Keepessentialswithineasyreach. Aredflashlightshouldbewithineasyreachatalltimes. Aheadlampwitharedlensisalsoagoodidea,incaseofanin-flightelectricalfailure.
+○ Night Preflight Inspection-Becauseredlightdistortsdetails,pilotsshoulduseawhitelightforperformingexternalpreflightoperations.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)5
+○ EngineStartingProcedures-Pilotsshouldalwaysusepositionandanti-collisionlightspriortostartwhenoperatingatnight-§91.209○ TaxiingandOrientationonanAirport-Taxiingonanairportatnightisextremelyconfusingbecausetaxiwaymarkingsmaybedifficulttouse. Itisimportanttouseairportdiagramstotracktheprogressoftheairplaneontheairport. Keepacarefulwatchfortaxiwaysigns,lighting,andmarkings○ RunwayLighting■ REIL-RunwayEndIdentifierLights,flashinglightsoneithersideofthethreshold.■ CenterlineLighting-Foundonlyatlargerairports,embeddedinthepavement.■ EdgeLighting-Themostcommontypeofrunwaylighting,justmarktherunwayedges.
+■ ThresholdLighting-Greenlightsindicatethestartoftherunway,andredlightsindicatetheendoftherunway.
+■ RunwayStatusLights-Foundonlyatlargeairports,usedtoindicatewhentherunwayissafetoenterorstarttakeoff.● REL-RunwayEntranceLights● THL-TakeoffHoldLights■ ClosedRunwayMarkings/Lighting-Usedwhenrunwaysaretemporarilyorpermanentlyclosed.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)6
+○ TaxiwayLighting■ TaxiwayEdgeLighting-Omnidirectional,bluelights.■ TaxiwayCenterlineLighting-Omnidirectional,greenlights. In-pavement.■ ClearanceBars-3in-pavementyellowlights,atholdpositions■ RunwayGuardLights-Taxiway/Runwayintersections,pairofelevatedflashingyellowlightsorin-pavementyellowlightsacrossthelengthoftheholdbars■ StopBar Lights-ConfirmATCclearancetoenterarunway,redin-pavementlights○ InFlight-Duringnightoperations,outsidevisualreferencesarefrequentlyunavailable,forexamplejustaftertakeoff,particularlyonmoonlessorovercastnights. Pilotsmust scantheirflight instrumentsmorefrequentlyat night, especiallywhenoutsidevisual referencesarelessavailable!■ Takeoff andClimb-out-Duringapitchupontakeofforduringclimboutonmoonlessorovercastnights,nogroundlightingisvisibleoverthenoseanditiseasytolosereferencetothehorizon.■ In-flight orientation-Bevigilantfornightopticalillusions,suchasfalsehorizonscausedbygroundlighting. Paycloseattentiontotheattitudeindicatorespecially!● OrientingusingAircraft NavigationLights-Whenspottingothertraffic,remembertheorientationofaircraftnavigationandpositionlights. Thiscanhelpyouunderstandthedirectiontheotheraircraftistravelingrelativetoyourownaircraft.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_m_-_night_operations.pdf>>>
+========================================
+
+PPL(XI-A) / CAX/ CFI (II-M)7
+■ TrafficPatternProcedures-Followingpropernighttimetrafficpatternproceduresisimportant:● SpottingAirport Beacons-Lookforthegreen-whiteflashingairportbeaconstofindairportsatnight. Airportsoftenappearasinkyblackareaswhentherunwaylightsarenotilluminated.● Pilot ControlledLighting-Mostuncontrolledairportshavepilot-controlledlightning,wherepilotshavetoactivatetherunwaylightingfor15minutesatatimeusing3,5,or7clickswithin5secondsofthepush-to-talkswitchontheCTAFfrequency. (Forlow,medium,andhighintensity)● “BlackHole”Approaches-Descendingtoarunwayatnightwheretherearenootheroutsidevisualreferencescancreatethefeelingofdescendingintoablackhole,andpilotscaninadvertentlyendupfartoolow. Alwaysbeawareof thefieldaltitudeandcheckinstrumentscarefully!● Landingwithandwithout landinglights-Landingwithoutalandinglightisextremelydifficult,especiallyonmoonlessnightsorwithoutproperdarkadaptation. Pilotsshouldpracticethisskilloccasionally,shouldtheneedarise.● Dangersof night go-arounds-Go-aroundsatnightareexceptionallydangerousforthesamereasonsasnighttakeoffs.■ In-flight Emergencies-Aimfordarkareasifnotwithinglidingdistanceofanairport.Roadsaregenerallysurroundedbypowerlinesorotherhazards. Optionsduringnightemergenciesareverylimited,anddarkareasaremorelikelytobeunpopulatedandfreefromsuchhazards.● Challengesof Night andLow-VisibilityOperations-Whenoperatingatnight,orinlowvisibilityconditions,itismoredifficulttodistinguishtaxiwaymarkings,signs,andidentifyotheraircraft.Therefore,thepotentialforATCtomis-identifyaircraft(issuetherightinstructionstothewrongaircraft)ishigher,andpilotsmustbeextravigilantaboutmaintainingsituationalawarenessoftheirownposition,aswellasthatofotherairplanesandvehicles. If aninstructiondoesnot makesense, andgoesagainst what wasplannedor briefed, askfor clarificationfromATC!
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

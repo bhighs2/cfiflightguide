@@ -1,0 +1,182 @@
+DOCUMENT_TITLE: binns_task_e_-_airplane_flight_controls_and_operation_of_systems
+SOURCE_FILE: binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)1
+AirplaneFlight ControlsandOperationof Systems
+Objective
+Toensuretheapplicantlearnsthepurposeanduseoftheprimaryandsecondaryflightcontrolsaswellastheprinciplesofoperationforthesystemsandinstrumentsinstalledintheirairplane.
+Purpose
+Theflightcontrolsarewhatmakespilots. Theyarethemechanismbywhichairplanesmoveincontrolledflight. Thislessonwillintroducenewpilotstothevarioustypesofflightcontrols,andtheirpurpose. Also,inordertooperatesafelyandefficiently,allpilotsmustbefamiliarwiththesystemsthatareinstalledontheairplanestheyareflying. Thislessonfurtherintroducespilotstothebasicprinciplesofoperationofmanycommonairplanesystems.
+Schedule Equipment
+● GroundLesson(Flight Controls):20minutes● GroundLesson(Systems):40minutes● Student Q&A:20minutes(eachlesson)
+● AirplanePOH● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthepurposeanduseoftheprimaryandsecondaryflightcontrols,aswellastheroleoftheaileronsandrudderinturns.● Studentcandescribeandexplainthebasicoperationalprinciplesofthefollowingsystems:○ ThePrimaryandSecondaryFlightControls,TheEngineandPropellerSystem,TheFuel,Ignition,andOilSystems,TheElectricalSystem,Avionics,ThePitot-StaticandGyroscopicInstruments,TheLandingGear,Anti-IceorDe-IceSystems(ifinstalled),OxygenSystems(ifinstalled)
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)2
+References
+● ERAUSpecialVFR-“AircraftSystems-02-FlightControls”○ YouTube-https://www.youtube.com/watch?v=WhQ8Ai4fa_Q● WrenAviation,LLC-“ConstantSpeedPropBasics”○ YouTube-https://www.youtube.com/watch?v=QKfQ6f6R82Y● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter12[TransitiontoComplexAirplanes]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter6,Page2-3[PrimaryFlightControls/AxesofRotation],Chapter6,Page3-5[Ailerons],Chapter6,Page5-7[Elevator],Chapter6,Page8[Rudder],Chapter6,Page8-10[SecondaryFlightControls],Chapter6,Page10-12[TrimSystems],Chapter7[AircraftSystems]● FAA-S-ACS-6C(PrivatePilotACS)-AreaITaskG● FAA-S-ACS-7B(CommercialPilotACS)-AreaITaskG● FAA-S-ACS-25(CFIACS)-AreaIITaskE
+GroundLessonOutline
+● FlyinginThreeDimensions-Yaw,Pitch,Roll/Airplanesturnwithroll(bank)● ThePrimaryFlightControls-Yoke/Stick,ControlCables,Ailerons,Elevator,Rudder● TheSecondaryFlightControls-Flaps,Spoilers,LeadingEdgeDevices● ElevatorTrim-TrimWheel● RudderTrimDevices-RudderTrim,GroundAdjustableTabs● ProperYokeGripandOvercontrolling● RoleoftheRudderinTurningFlight○ Weathervaning,CoordinatedFlight○ TwoPhasesofTurningFlight-Banking(AdverseYaw)andTurning(TailPositionRearofCG)● Cessna172-DescriptionofSystems-RefertoPOHSection7(Systems)● PowerplantandPropeller○ HorizontallyOpposed,Air-CooledEngine○ DualMagnetoIgnition○ CarburetorvsFuelInjection,MixtureControl/EGT○ FixedvsConstantSpeedPropellers-HowAConstantSpeedPropellerWorks● LandingGear-FixedvsRetractableGearSystems● Fuel,Oil,andHydraulic○ Fuel-Twotanks,gravityfed○ Oil-8qtstotal● Electrical-28VSystem,AlternatorandBattery● AvionicsincludingAutopilot-DualG5s,Garmin530W,KingNAV/COMRadios● Pitot/StaticSystem○ AirspeedIndicator,Altimeter,VerticalSpeedIndicator● GyroandVacuumInstruments○ AttitudeIndicator,DirectionalGyro-Vacuum-poweredGyroorAHRS■ GyroscopicRigidityinSpace,Precession○ TurnCoordinator-ElectricallyPoweredGyro■ Measuresrateofturnbysensingprecession● Environmental● DeicingandAnti-icing-PitotHeat,WindscreenDefrost
+CommonErrors
+● Lackof understandingof thepurposeandusageof therudder.● Lackofunderstandingofthepurposeandusageoftrimdevices.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)3
+GroundLessonContent
+● FlyinginThreeDimensions-Unlikecars,whichturnonlyleftorrightintwodimensions,airplanescanmoveinthreedimensions,androtatearound3separateaxes. Theorientationoftheairplaneiscalledtheattitude. The3axesofflightare:■ Yaw- Yawisthefamiliar‘turning’leftandright. Rotatingaroundthevertical axis.■ Pitch- Pitchistheupanddownaxis. Theairplaneisrotatingaroundthelateral axis,andthenosewillbepointing‘uphill’or‘downhill’.■ Roll- Rollissomewhatuniquetoairplanes. Roll isalsooftencalledbank. Theairplaneisrotatingaroundthelongitudinalaxis. Thereisnorealsimilaritytocarsinthisdimension,butitcanbethoughtofastheairplaneleaningleftorright.
+○ Airplanesclimbanddescendinpartbyincreasingordecreasingpitch,however,somewhatunexpectedly,airplanesdonot turnbysimplychangingyaw. Airplanesturnbybankingtowardsthedirectionof theturn,whichdirectsthewingsliftforcetotheside. Theverticaltailsurfacekeepstheairplanealignedwiththedirectionoftravel,causingtheairplanetoyaw. Thisissimilartohowthefinsorfeathersonadartorarrowkeepitflyinginthedirectionitisthrown.
+● ThePrimaryFlight Controls○ Airplanesarecommonlydesignedwith3primaryflightcontrols,whichareconnectedtoacontrol yoke,or stickbyaseriesof control cablesormechanicallinkageslikepushrods:■ Ailerons-AileronsmovetheairplanearounditsRollaxis. Theangleof roll iscalledthebankangleandpilotsusetheairplanetobankinthedirectiontheywishto
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)4
+turn. Mostairplanescontroltheaileronswithayoke,whichissimilartoasteeringwheel. Turningthewheelleftorrightcausestheairplanetobankleftorright.
+■ Elevator-TheElevatormovestheairplanearounditsPitchaxis. Pilotscaninitiateaclimbordescentbypullingbackorpushingforwardontheyoke,respectively. MostnewpilotsarealreadyfamiliarwiththisconceptfromTVandmovies,e.g.“pullup”topitchup.
+■ Rudder-TheRuddermovestheairplanearounditsYawaxis. Therudderisaverymysteriouscontrolformostnewpilots,becauseit isnot usedtoturntheairplane,asonemightexpect. Thesolepurposeoftherudderistoaidtheairplaneinmaintainingaproper(calledcoordinated)flightpathduringturnsmadewiththeailerons(bank).
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)5
+● SecondaryFlight Controls-Airplanesarealsoequippedwithavarietyof secondaryflight controls,whichtosomedegreeaffecttheaerodynamicsoftheairplane,butsomearetypicallyusedonlyincertainsituations.○ Trim-Trimdevicesareaformofsecondaryflightcontrolswhichwillbediscussedseparately,buttheirprimaryfunctionistoalleviatecontrolpressuresfeltinflight.○ Flaps-Themostcommonsecondaryflightcontrolistheflaps,whichsimplyincreasethecamberofthewing,andsometimeslengthenthechordline(SeethelessononBasicAerodynamics),inordertoprovidemoreliftandlowerthestallspeed,whilecreatingmoredragtoenableasteeperdescentforlanding. Flapsareusuallycontrolledwithalevelorswitchinthecockpit,andusuallyhavemultiplepositions,correspondingtovaryingdegreesofdeflection.
+○ Spoilers-Large,fast,andefficientairplanesoftenincludespoilerswhicharedevicesusedtodeliberatelycreatedragand‘spoil’lift. Thesearenotnormallyfoundonsmallairplanes.○ LeadingEdgeDevices-Largeairplanesalsooftenincludeleadingedgedevices,oftenslots,leadingedgeflapsor slats,whichalsoincreaseliftandlowerstallspeedbydelayingairflowdetachmentandstallatlowairspeeds. Somesmallairplanes,typicallyusedforveryshorttakeoffandlandingroles,areequippedwithslotsorslats,butthesearenotcommonontrainingairplanes.
+● TheElevator Trim-Inordertoholdthenosetheproperdistancefromthehorizonandmaintainaltitude, newpilotsoftendiscover that it mayrequirecontinuousforwardsor backwardselevator
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)6
+pressureonthecontrol yoke. Thisisnotonlyuncomfortable,italsorequirespilotstodevotemoreattentiontomaintainingstraightandlevelflightandpreventsthemfrommultitaskingeffectively. Thereisanother, secondaryflightcontrol,calledpitchtrimor elevator trim. Thesetermsareinterchangeable,andrefertoacontrolwheel (thetrimwheel) whichcanbeusedtorelievethesecontrol pressures.○ Thetrimmechanismisdifferentondifferentairplanes,butitusuallyconsistsofasmalltab,calledthetrimtabontheelevatorcontrolsurfaceitself. Thetrimtabservicesto‘rebalance’theneutralpositionoftheelevatorcontrolandhelpmaintainlowcontrolpressures.○ Thetrimtabismovedwiththetrimwheel,whichwhenrolledforwardmovesthetrimnosedown,andwhenrolledrearwards,movesthetrimnoseup.
+● Rudder TrimDevices-Evenduringcruiseflight,airplanesaresubjecttoleft-turningtendenciesbecausetheairplaneisalmostneverflyingat0angleofattack,andthespiralingslipstreamiscontinuouslypushingthenoseslightlytotheleft. Thisresultsintheairplanenaturallyflyingsomewhat uncoordinated, andwouldnecessitatethepilot flyingwithslight right rudderpressureat all times,averyuncomfortablesituation. Toalleviatethis,thereareacoupletypesofruddertrimthatsomeairplanesprovide:○ Rudder Trim-Ruddertrimisjustlikeelevatortrim,inthatthereisusuallyawheelwhichisturnedtoalleviatetheruddercontrolforces. Someairplaneshavearuddertrimtabontherudder,butitisalsocommonlyjustanadjustmentonaspringorcablewhichappliessomeforcetotherudderpedalsdirectly.○ GroundAdjustableRudder Tabs-Mostsmallairplanesarealsoequippedwithagroundadjustabletabontherudder,whichcanbeliterallybenttoprovideaslightamountofrudderdeflection. Thisisatrial anderror processandshouldnot bedoneexcept bytheairplaneowner or maintenancepersonnel!
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)7
+● Proper YokeGripandOvercontrolling-Propercontroloftheairplanerequiresthatpilotsavoidovercontrolling. Unlikedrivingacar,whichrequireslargemovementsofthewheel,flyinganairplanerarelyrequireslargemovements,oralotofforceonthecontrols.○ Pilotswhogriptheyoketightlywithbothhandsoftenstrugglewithmaintainingstraightandlevelflightormakingsmoothturnsorothermaneuvers. Pilotscopingwithturbulentorbumpyconditionsoftenmakethebumpinessworsebyholdingtheyoketoofirmly.○ Inmostsituations,pilotsshouldattempttorelax,astheairplanecanbeflownmostlywithcontrol pressures, rather thancontrol movements. Aone-handed,lightgripontheyokealsofreesthepilotsotherhandformanipulatingthethrottle,oradjustingtheradios,etc.
+● Roleof theRudder inTurningFlight-Newpilotsdiscoverquicklyandintuitivelythatturninganairplanerequiresbanking,howevertherudderalsoplaysaveryimportantrole. Inordertounderstandwhy,itisnecessarytobrieflydescribetheaerodynamicsinvolved.○ Weathervaning-Astheairplanefliesaroundtheturn,thereisahorizontalcomponentoflift,whichisaforcedirectedtowardsthecenteroftheturn,andaverticalcomponentoflift,whichactsupwardandopposesgravity. Astheairplanebeginstomovesideways, therelativewindstrikesthevertical tail surfaces, andcausesit torotatetowardsthewind, just asinaweather vane. Thiskeepsthenoseoftheairplanepointedtowardstherelativewind,producingayawinthedirectionofthebank.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)8
+○ Two‘Phases’ of TurningFlight-Theaboveexplanation,however,isoversimplified. Therearetwodistinctphasesthatanairplanegoesthroughinturningflight:■ Banking-Althoughbankscauseairplanestoturn,bankingbyitselfisnotaturn. Whenbanking,theairplaneusesitsaileronstorolltheairplanearoundthelongitudinalaxis.Theoutside(awayfromtheturn)wingaileronlowers,producingahigherangleofattackandmorelift,andtheinsidewingaileronraises,producingalowerangleofattackandlesslift. Thisincreaseinlift ontheoutsidewingcausesthat wingtoproducemoredragonthat side, whichactuallyinitiallycausestheairplanetoturnawayfromtheintendeddirectionof turn! Thistendencyiscalledadverseyaw. Pilotsshouldcorrect for adverseyawbyusingtherudder pedalstocounteract it whenever theyusetheailerons.
+■ Turning-Oncetheairplaneisestablishedinabank,theeffectsofadverseyawaremostlynolongerpresentsincetheaileronsareneutralornearlyneutral. However, anairplanebankedtowardsaturnwill still not byitself flyperfectlyinlinewiththerelativewind! Thisisbecause,duetothecurveflightpath,therelativewindisangledslightlydifferentlyatthefrontandrearoftheairplane. Thelarger,verticaltailsurfacewilltendtoassumeanorientationthatisalignedwiththewind,butthiscausesthenoseoftheairplanetoactuallypointslightlyoutsideoftheturn! Thisiscalledaslippingturn. Aturnwherethenosepointstotheinsideoftheturniscalledaskiddingturn,andisfairly
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)9
+similartoacarskiddingturingaturn. (Theturnis‘tooflat’,withnotenoughbankanglefortherateofturn) Bothslippingandskiddingturnsareundesirable!
+○ CoordinatedFlight-Inordertocorrectforthesetendencies,pilotsmustusetherudderpedalstomanagetheamountofsidesliporskiddingasthepilotrollstheairplaneormaintainsaturn.Flyingwithnoskidorsideslipiscalledcoordinatedflight. Theinstrumentwhichgivesthepilotdirectinformationaboutthisiscalledtheturncoordinator,however pilotscanalsolearntosensewhentheyarebeingpushedawayfromtheturnor towardstheturn.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)10
+● AirplanePistonEngines-Mostsmalltrainingairplaneshavereciprocatingengines(piston-poweredengines,similartoacar). Mostoftheseareair-cooled, horizontally-opposedengines,withawet sumpoilsystem. Unlikeacar,airplaneenginesusuallygeneratetheirownspark(independentoftheelectricalsystem)usingamagnetoignitionsystem. Mostairplaneshavedualmagnetos,leadingtotwosparkplugspercylinder,whichfiresimultaneouslyformorecompletecombustion.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)11
+● Fuel System-Manytrainingplaneshaveasimple, gravity-fedfuelsystem. Generallytheseenginesalsointroducefuelusingacarburetor,whichatomizes(finelydisperses)fuelusingtheventuri effect.
+● Constant SpeedPropellers-Manytrainingairplaneshavefixed-pitchpropellers,whicharesimplyrotating,curvedairfoils(wings). Likeallwings,theseoperateatsomeangleof attack. Thisisnotadjustableinflight,andhastobechosenatthetimeofmanufacture. Becausedragvariesgreatlydependingonangleofattack,beingabletochangeAoAdynamicallyisuseful. Therefore,someairplaneshaveconstant-speedpropellers,whichcontinuouslyvarytheAoAinordertomaintainafixedenginespeed.○ Principleof Operation-Constant-speedpropellersuseagovernor,whichisconfiguredtomaintainaspecificRPMbyadjustingaspeedspring. Thegovernorcontrolsthepropellerpitchbydirectingengineoiltothepropellerhub,orreleasingengineoil.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)12
+■ GoverningRange-Therangeofpropellerbladepitchmovementislimitedbythehighandlowpitchstops. Dependingonairspeed,thismaycausetheenginetoturnslowerorfasterthantheconfiguredengineRPM.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)13
+● RetractableGear Systems-Someairplaneshaveretractablelandinggearsystems,whichretractthelandinggearintothefuselagetoreducedragduringflight. Thesesystemsgenerallyhavealandinggear positionswitch, landinggear positionindicators, safetyswitches(whichoperatetheindicators),emergencyreleasesystems,andaseriesofmechanicalorhydraulicconnectionstotheactuallandinggear.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)14
+● Pitot StaticSystem-Airplanessenseairspeedbymeansofthepitot tube,whichispressurizedbytheoncomingairstreamduringflight. Airspeedcanbemeasuredbycomparingthispressure(thedynamicpressure)totheun-capturedairstream(thestaticpressure). Thepitot-staticsystemreferstothesystemswhichareconnectedtothepitotandstatictubesandlines.○ Instrumentslikethealtimeterandvertical speedindicatordependonlyonstaticpressure.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:binns_task_e_-_airplane_flight_controls_and_operation_of_systems.pdf>>>
+========================================
+
+PPL(I-G) / CAX(I-G) / CFI (II-E)15
+● GyroscopicandVacuumInstruments-Thegyroscopicinstrumentsrelyonthegyroscopicprinciplesof precessionandrigidityinspaceinordertodisplayairplaneattitude,rateofturn,etc.○ VacuumSystem-Manyolderairplanesuseavacuumpumptocreateasuctionwhichdrawsairthroughthegyrosandcausesthemtospin.○ Electrical Gyros-Somegyrosareelectricallypowered.○ Thetraditionalvacuum-poweredinstrumentsaretheattitudeindicatorandthedirectional gyro(Byrelyingonrigidityinspace).○ Thetraditionalelectrically-poweredinstrumentsaretheturncoordinator,whichsensestherateofturn. (Bymeasuringprecession)
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

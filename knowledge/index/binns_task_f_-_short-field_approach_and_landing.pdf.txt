@@ -1,0 +1,155 @@
+DOCUMENT_TITLE: binns_task_f_-_short-field_approach_and_landing
+SOURCE_FILE: binns_task_f_-_short-field_approach_and_landing.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)1
+Short-FieldApproachandLanding
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofshort-fieldlandingmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Short-fieldlandingtechniqueisnaturallyusedforlandingonshortrunways,howeveritalsoemphasizesprecisionairspeedcontrolanddevelopsspotlandingtechniques. Pilotswhomastershortfieldlandingswillgreatlyimprovetheirnormallandingtechniques.
+Schedule Equipment
+● GroundLesson:30minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainshortfieldobstacleclearanceprocedures,flyingbehindthepowercurve,calculatinglandingperformance,andthedangersoffloating.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Performsastabilizedapproachatpublishedshort-fieldapproachairspeed(or1.3Vso)+10/-5knots.● Touchesdownsafelyatadesignatedtouchdownpoint-0/+200feet(-0/+100feet for Commercial).● Appliespositivebraking.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)2
+References
+● ERAUSpecialVFR-“ShortFieldApproach&Landing”○ YouTube-https://www.youtube.com/watch?v=zz6gvSmz5DM● MzeroAFlightTraining-“ShortFieldTakeoffandLanding”○ YouTube-https://www.youtube.com/watch?v=A7dcr12EqwE● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter9,Page20-23[Short-FieldApproachandLanding],Chapter9,Page30-37[FaultyApproachesandLandings]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter11,Page16-18[LandingPerformance],Chapter11,Page19-28[PerformanceCharts]● FAAAdvisoryCircularAC91-79A(MitigatingRisksofRunwayOverruns)-Page10-16● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskF● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskF● FAA-S-ACS-25(CFIACS)-AreaVIITaskF
+GroundLessonOutline
+● WhatareShortFieldapproaches?○ Spotlandings,inrealshortfieldsthereislessmarginforerror● Obstacles○ Theroleofflapsanddescentangle,MechanicalTurbulence● AirspeedControlandTrim-10%increaseinspeed=21%increaseinlandingdistance○ DangersofExcessSpeedorFloating● BehindthePowerCurve-EnergyManagement● ImportanceofaStabilizedApproach● EstimatingGlidePath-VGSIs/VASI/PAPI● ChoosingaTouchdownPoint○ Aimingpointvs.touchdownpoint● LandingPerformance○ Weight,Wind,BrakingAction,Up/DownSlope,DensityAltitude○ Calculatinglandingperformancedata-Butcanyoualsotakeoffagain?● RunwayWidthIllusion○ OvershootingCrosswindBase-FinalStall/SpinDanger● Safetyconsiderations○ Useofchecklists,Visualtrafficscanning,Awarenessofobstacles○ Runwayincursionavoidance,Bepreparedtogoaround○ Windshear,Tailwinds,WakeTurbulence,Runwaysurfaceconditions● ManeuverDescription-step-by-step● ExpandedCompletionStandards
+CommonErrors
+● Improperuseoflandingperformancedataandlimitations.● Failuretoestablishapproachandlandingconfigurationatappropriatetimeorinpropersequence.● Failuretoestablishandmaintainastabilizedapproach.● Improperprocedureinuseofpower,wingflaps,andtrim.● Inappropriateremoval of handfromthrottle.● Improperprocedureduringroundoutandtouchdown.● Excessiveairspeedor floating.● Poor directional control after touchdown.● Improperuseofbrakes.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)3
+GroundLessonContent
+● What areshort fieldapproaches?-Itmayseemsomewhatobviousfromthename,butshort-fieldapproachesandlandingsofcourseinvolvetechniquesforlandingonshortrunways(usuallylessthan2,500feet),howevershortfieldtechniquecanbeusedinavarietyofsituations.○ Propershortfieldtechniqueinvolvestightairspeedcontrolandemphasizesspotlandingskills○ Createsawarenessofobstructionsonfinalapproachandbuildsskillsatflyingsteeper-than-usualfinalapproaches.○ Emphasizestheimportanceofaproperroundoutandflare,withminimalfloating,andtheconceptofhavingadesignatedpointbeyondwhichthepilotwillinitiateago-around.● Generally,landingonshortfieldsmeansthereislessmarginforerror. Inthefieldbelow,thewateristoeitherendoftherunwayandthereisnorunoff. Thereisnoallowanceforlandinglong!
+● Additionally,thesesortsoffieldscanpresentaquiteintimidatingsightpicturewhenonshortfinal!Despitethis,withaproperunderstandingofshortfieldtechniques,pilotscandetermineiftheycansafelylandontherunwayandhowtoperformtheapproachsafely.
+● Obstacles-Whenconductingashort-fieldapproach,clearingobstaclesonfinalwilloftenrequireasteeperthannormaldescentangle. Flapsareonetoolforaccomplishingthis. Flapsaddadditionallift,buttheyalsoaddadditional drag. Thiswillresultintheairplaneflyingasteeper descent anglethanit
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)4
+otherwisewouldforthesameapproachairspeed. Thishastheadditionalbenefitofallowingforbettervisibilityoverthenosewhenatverylowairspeeds,asinashort-fieldlanding.
+● AirspeedControl andTrim-Whenapproachingtoland,itisimportanttobeawareofthepropershort-fieldfinalapproachairspeed. ThiswilloftenbespecifiedbythePOH,butotherwiseairspeedonfinalapproachshouldbenohigherthan1.3xVso,andinlandingconfiguration(usuallyfullflaps). It isimportant tousetheelevator trimtoholdapproachspeedthroughout themaneuver!○ Dangersof ExcessSpeedandFloating-AccordingtotheFAA’sAC91-79A, “A10percentexcesslandingspeedcausesat least a21percent increaseinlandingdistance”. Beingonspeediscrucialtopropershort-fieldlandingperformance. Evenmoredangerousisfloatingordelayingthetouchdown. Excessivefloatingonashort-fieldlandingisunacceptable! Agoodruletofollowisthatiftheairplanehasnottoucheddownwithinthefirst⅓oftherunwaysurface, goaround!
+● BehindthePower Curve-Whenflyingatapproachairspeeds,particularlylowershort-fieldapproachairspeeds,itisimportanttorememberthattheairplanewillbebehindthepower curve. Thepowercurverepresentstheamountofpowerrequiredtomaintainagivenairspeedwithoutaccelerating. Thisisataminimumwhentheamountoftotaldragisataminimum.○ Airspeedsbelowtheminimumdragspeed(thebestglidespeed)aresometimescalledtheregionof reversecommand. Thisisbecauseanyincreaseinpitch,andthereforeangleofattack,willresultinmoretotaldrag,whichwill increasetherateofdescent.○ Whenbehindthepowercurve,inordertocontroldescentrateandglidepath,thefirstactionmustbetoincreaseordecreasethethrottle! Addor removepower tocontrol thedescent,andpitchtomaintainairspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)5
+○ Itisusefultothinkaboutapproachesintermsof EnergyManagement,wherethereisafundamentaldifferencebetweenaHighEnergyandLowEnergyapproach,asthesemustbemanagedverydifferently.■ SeethelessononArea10(X) - TaskB- Demonstrationof Flight CharacteristicsatVariousConfigurationsandAirspeedsformoredetailsonenergymanagement.
+● Importanceof aStabilizedApproach-Aswithalllandings,thequalityofthelandingbeginswiththequalityoftheapproach. Itiscriticallyimportanttomaintainastabilizedapproach.○ Unstableapproachesarealeadingcauseof accidentsandincidentsduringlanding!○ Theapproachshouldinvolvesmooth,gentlepatternturns,whilemaintainingtheproperapproachairspeedandavoidingdramaticforwardslipsorothermaneuverstheentiretime. Itisimportantthattheairplanebefullyconfiguredtolandandflyingatapproachspeed,andatastablerateofdescent,atleast½milebeforereachingtherunwaythreshold. Generally,theapproachshouldbestabilizedbeforereaching400ftAGL.
+○ Eventhoughobstaclesonfinalapproach,suchasterrainortrees,mayrequireasteeperdescent,itisstillpreferabletoflyastabilizedapproachthatwillclearobstacles,ratherthansteppingdownorotherwiseflyinganunstableapproach. Final approachshouldbeflowninastabledescent, properlyalignedwiththerunwayor landingarea!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)6
+● Astheairplaneapproachestherunwayonfinal,thepilotshouldidentifyapointbeforethedesiredtouchdownpointanduseitasanaimingpoint. Astheairplanereachestheaimingpoint,anormalroundoutandflarecanbeconducted,suchthattheairplanetouchesdownatthetouchdownpoint.Aimingat thetouchdownpoint wouldresult inlandinglong,becauseitdoesnotaccountforthelandingroundoutandflare.
+● EstimatingGlidePath-Inordertoperformthismaneuversuccessfully,pilotsmustdeveloptheirskillsinvisuallyestimatingtheairplane’sglidepath. Thisbeginswithfindinganaimingpointwhichisjustbeforethedesiredtouchdownpoint,toaccountfortheroundoutandflare. Wheninastabledescent,iftheaimpointismovingaway,thelandingwillbeshort. Whentheaimpointismovingcloser,thelandingwillbetoolong. Itiscrucialtopaycloseattentiontothemovementoftheaimingpointandmaketheappropriatecorrections.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)7
+● SomerunwaysareequippedwithVisualGlideslopeIndicators(VGSIs),andwhenavailabletheyareagreattoolforjudgingtheglidepath
+● Pilotsshouldconductalllandingstohitadesignatedspot,whetherornottheyareperformingahigh-performancelanding. Duringtheroundoutandflare,thepilotshouldholdjustenoughbackpressuretokeeptheairplanefromtouchingdownuntilthedesiredtouchdownpointisreached.● ChoosingaTouchdownPoint-Thismaneuverinvolvesdemonstratingprecisioncontrolovertheapproachpathsuchthatthelandingoccurswithminimalfloating. Atouchdownpointontherunwayshouldbeselectedsuchthattheairplanewilllandat, but not before,thispoint,orwithin200feetbeyondit. (ForCommercialPilotapplicants,thestandardis100feet)○ Onarunwaywithprecisionmarkings,the1,000foot(aimingpoint)markersareagoodchoice,asonmostrunwaystheyare150feetlong. Otherpossibletouchdownpointscanbeaparticularcenterlinestripe,orthenumbers(forrunwayswithoutothermarkings). It isgenerallybest tochooseamarkingthat isnot right at thestart of therunway, toavoidthepossibilityoflandingshort of therunway.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)8
+● LandingPerformance-Determiningexactlyhowmuchdistancewillberequiredforthelandingiscrucialtoensurethechosenrunwaywillbelongenoughtomakethelandingsafely. Anairplane’slandingperformanceishighlydependentonseveralchangingfactors,suchasweight, wind, runwayslope, brakingaction, anddensityaltitude. Aircraftperformanceatheavierweightsorhigheraltitudesisgreatlyreduced.○ Densityaltitude,whichisacorrectionforatmosphericconditions,isthealtitudethatanairplane‘feels’.○ Athigheraltitudesoronhotdays,thedensityoftheairwillbelessandthereforetheairplanewillneedtomovemoreairtostayaloft. Becausetheairspeedindicatorisalsoaffectedbydensityaltitude,itwillshowthesamevalues,howeverthetrueairspeedwillbehigher.○ Thedifferencebetweenfieldaltitudeandthedensityaltitudecanbesignificant!■ SeetherelatedlessononDensityAltitude.● ThePOHforeveryaircraftwillcontainperformancechartsthatdetailhowmanyfeetoflandingdistanceisrequiredforvariousweights,winds,andweatherconditions. Italsoprescribesanairplaneconfigurationthatshouldbeused.○ Tousetheperformancecharts,firstfindthepressurealtitude,bysettingthealtimeterto29.92”orusingtheconversion. Then,findthecellinthetablethatmatchestheairplanegrossweightwiththepressurealtitudeandthecurrenttemperature. Makesuretoreadthenotes, incasedistancesneedtobeadjustedfor windor other conditions!○ Itisbesttoadda‘safetyfactor’totheperformancefiguresobtainedfromthePOHperformancecharts. Generally,itisagoodideatooverestimatethepressurealtitudeandtemperatureforaworstcasescenario,andadd20-30%toaccountforthepossibilityoffloating,howeverasnotedabove, floatingmust beavoidedonhigh-performancelandings!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)9
+○ Don’t forget toconsider wind! Atailwinddramaticallyincreasestakeoffandlandingdistances. Likewise,astrongheadwindcangreatlyimproveperformance.
+● RunwayWidthIllusion-Anarrower-than-usualrunwaycancreatecertainvisualillusionsthatinducepilotstoflyamuchcloser-than-normaldownwindandbaseleg(therunwayappearsfurtheraway),whichinturncreatesanunstableapproachorovershootingfinal.
+○ OvershootingCrosswindandBase-to-Final Stall/SpinDanger-Whenapilotfliesanexcessivelyclosedownwind,thereisahighprobabilityofovershootingtheturntofinal. Manypilotsthenfallvictimtothetrapoftryingtotightentheturnwithuncoordinateduseofrudderor
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)10
+increasingtheloadfactor,leadingtoastallandspin. Thisisparticularlycommonwhenthereisanovershootingcrosswind,wherethecrosswindiscomingfromthedirectionofthedownwindleg. Whenpilotsdonotapplypropercrosswindcorrectionsondownwind,thedownwindleggraduallygetsclosertotherunway,increasingthechancesofanovershoot.
+● SafetyConsiderations○ Aswithanylanding,theuseof checklistsisimportant. Beforebeginningthemaneuver,thebeforelandingchecklistmustbecompleted. Afterlandingandrollingouttoasafepointclearoftherunway,theafterlandingchecklistshouldbecompleted.○ Short-fieldlandingsoftenoccur inconfinedareasandrequireextracautionforpowerlines, tall trees, or other obstacleswhichmaybequitenear therunwayenvironment.○ Itiscrucialtonotbecomesofocusedonthemaneuverthatanunsafesituationiscreated.Maintainsituationalawareness,makeappropriateradiocalls,andensurethatlandingclearanceisobtainedbeforelanding. Vigilancemust bemaintainedafter landingtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines. Ifthereisacontroltower,donotforgettocontactgroundcontrolfortaxiclearanceafterlanding,andatuncontrolledfields,clearlycommunicateyourtaxiintentionsontheradio. Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinalapproachpathisclear!○ Maneuveringinthepatternatlowairspeedcreatesariskofastallingsituation. Ifthestallwarningsoundsbeforethelandingflare,goaround!○ Whenexecutinganylanding,thereshouldbeapointidentified(nofurther thanthefirst 1/3oftherunway)beyondwhichiftheairplanehasnottoucheddownyouwillgoaround. Alwaysbepreparedtogoaround!○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)11
+takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.○ RunwaySurfaceConditions-Iftherunwayiswetoricy,itcanbequiteslippery,particularlyinthetouchdownzonewheremanyprecedingaircrafthavedepositedrubber. Exercisecautioninthesesituations!
+ManeuverDescription● SelectingaSuitableRunway-Selectarunwaythatwillallowlandingintothewind,orwithamanageablecrosswind.● SelectingaTouchdownPoint-Selectaprominentfeatureontherunwaythatiseasytoidentifyfromthedownwindleg,andexplicitlystateit. Featureslike1,000footmarkers,touchdownzonemarkers,orrunwaynumbersaregoodchoices. Untilproficiencyisdeveloped,selectafeaturethatisnotdirectlyatthestartoftherunway,incaseoflandingshort.● EntryPositionandAltitude-Themaneuvershouldbeenteredonanormaldownwindleg,abeamthetouchdownpoint,atnormalpatternaltitude.● EntryAirspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVa. Ideally,beginthismaneuveratanormaltrafficpatternairspeed.● Checklists-Pilotsmustperformabefore-landingchecklistbeforebeginningthemaneuver,andanafter-landingchecklistaftertaxiingsafelyclearoftherunway,forfull-stoplandings.● Airspeed-AirspeedshouldbekeptattheshortfieldlandingairspeeddesignatedbythePOH,orslightlyhigher(addhalfthegustfactor)toaccountforgustingwindconditions. Bevigilant aboutmaintainingairspeed, andif thestall indicationisheardat anypoint beforethefinal landingflare,discontinuethemaneuver andgoaround!● Bank-Sincethismaneuvertakesplaceinanairporttrafficpatternandinvolvesmaneuveringatlowspeedandatlowaltitude,thebankangleshouldbelessthan30degrees.● ApproachPath-Flyanormal,well-definedbaselegandfinalapproachsegment. Avoidcuttingthecornersoroverflyingthefinalapproachcourse.● Coordination-Themaneuvershouldbeflownincoordinatedflight. Attentionshouldbegiventoproperrudderinputduringturns.● Touchdown-Chooseanaimingpointsuchthattheairplanewilllandat, but not before,theselectedtouchdownpoint,orwithin200feetbeyond. (100feetbeyondforCommercialPilotapplicants) Thelandingshouldbeataproperpitchangle(not onthenosewheel-- donot forceit!),safe,andundercontrol. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+● After Touchdown-ApplyaerodynamicandwheelbrakingasspecifiedbythePOH. (Youmaybepermittedtosimulatehardbrakingifnotflyingonanactualshortfield,butplantoapplymorethannormalbraking.)● BePreparedtoGoAround! Theapproachmaynotworkoutandago-aroundisverypossible. Bepreparedtoexecuteago-aroundifneeded.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_f_-_short-field_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-F) / CAX(IV-F) / CFI (VII-F)12
+● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropermanagementoftheapproachpath. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheshort-fieldlandingmaneuverandhowwindandotherfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotselectsarunwaysuitablefortheweatherconditions,establishestheairplaneonadownwindlegatpatternaltitude,performsapre-landingchecklist,establishesaspeedbelowVa,makestheappropriateradiocalls,anddesignatesatouchdownpoint.○ Atthenormalabeampointonthedownwind,thepilotclosesthethrottle,appliescarbheatasnecessary,andestablishesadescentattheshort-fieldapproachairspeed(or1.3Vso)+10/-5knots.○ Pilotmanagesthedescentandaimsforapointsoastomakeasafe,controlledlandingat orwithin200feet beyond(within100feetforCommercial) thedesignatedtouchdownpoint.(Thepilotmaynottouchdownbeforethedesignatedpoint)○ Pilotapplieswheelandaerodynamicbrakingtechniques.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.○ Pilotperformsatimelygo-aroundifthesafecompletionofthemaneuver withinstandardsisindoubt.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

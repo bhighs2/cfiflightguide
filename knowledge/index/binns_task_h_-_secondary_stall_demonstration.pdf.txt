@@ -1,0 +1,66 @@
+DOCUMENT_TITLE: binns_task_h_-_secondary_stall_demonstration
+SOURCE_FILE: binns_task_h_-_secondary_stall_demonstration.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_h_-_secondary_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-H)1
+SecondaryStalls(Demonstration)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthesecondarystallmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Moststudentpilotshaveprobablyinadvertentlyexperiencedasecondarystall. Whenpilotsfailtoperformaproperstallrecovery,asecondarystallcanoccur,andisoftenmoreviolentandaggressive. ThesecondarystallsdemonstrationmaneuverintroducesCFIapplicantstothismaneuversothattheycanbepreparedforencounteringthesestallsduringflighttraining.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:40minutes- DemonstrateManeuver● CFIApplicantsOnly■ Flight:30minutes- PracticeManeuver (Dual)■ Flight:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthesecondarystallmaneuver,whenitmaybeencounteredduringflighttraining,andtheproperrecoveryprocedure.● Flight:Studentcanperformthemaneuvertothefollowingstandards:● Clearsthearea,performsapre-maneuverchecklist,andconfigurestheairplaneforlanding.● Selectsanaltitudenolower than3,500ft AGL.● Beginsastabilizeddescentatanormalapproachairspeed.● Reducespowertoidle,increasesbackelevatorpressure,andinducesastall.● Intentionallyappliesaninsufficientrecoveryandinducesasecondarystall.● Recognizesandacknowledgesthesecondarystallandappliesnosedownpitchandfullpower,whilemaintainingcoordinatedflight.● Returnstoanormalclimbattitudeandairspeedandreturnstopre-maneuveraltitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_h_-_secondary_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-H)2
+References
+● MZeroAFlightTraining-“SecondaryStalls”○ YouTube-https://www.youtube.com/watch?v=pVyns0kctbs● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery],Chapter5,Page18-19[SecondaryStall]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page25-26[Stalls]● FAA-S-ACS-25(CFIACS)-AreaXTaskH
+GroundLessonOutline
+● WhatisaSecondaryStall?○ Moreviolent○ Incompleterecovery● AerodynamicsofSecondaryStalls○ Angularmomentumofaviolentpitchup○ Sameasnormalstalls,butpotentiallyfurtherbeyondcriticalAoA● SituationsLeadingtoSecondaryStalls○ Notrelaxingelevatorpressure/breakingstall○ Overlyaggressivepitchupafterastallrecovery○ Flighttrainingmaneuvers■ Intentionalstalls■ Spinrecoveries● RecognitionandRecovery○ Normalstallindications○ Normalrecovery,butpotentiallymoreaggressiveinputsrequired● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.
+CommonErrors
+● Failuretoestablishselectedconfigurationpriortoentry.● Performingthemaneuver belowtheminimumsafealtitude.● Improperorinadequatedemonstrationoftherecognitionofandrecoveryfromasecondarystall.● Failuretopresentsimulatedstudentinstructionthatadequatelyemphasizesthehazardsofpoorprocedureinrecoveringfromaprimarystall.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_h_-_secondary_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-H)3
+GroundLessonContent
+● What isaSecondaryStall?-Asecondarystallissimplyastallthatisencounteredduringtheincorrectorincompleterecoveryfromanotherstall. Unlikeordinarystalls, however, secondarystallstendtobemoreviolent or aggressivethantheinitial stall.
+● Aerodynamicsof SecondaryStalls-Secondarystallsareaerodynamicallythesameasordinarystalls,inthatthewinghasexceededthecriticalangleofattack,buttheyareusuallycausedbyrapidcontrolmovements. Whenapilotattemptstorecoverfromastallbyonlyslightlyloweringthenoseandthenrapidlypitchingup, theangular momentumof theupwardpitchingmotionmaycausetheairplanetoexceedthecritical angleof attackbyanevenlarger marginthantheoriginal stall.Thiscanleadtoasituationcalledadeepstall,whereamoredramaticnose-downpitchingmovementmayberequiredinordertobreakthestall.
+● SituationsLeadingtoSecondaryStalls-Secondarystallsarealwaysencounteredafteranormalstall,andaregenerallycausedbypilotsnotreducingpitchenoughtobreakthestall,orbyapplyingexcessivebackelevatorpressuretoraisethenosebacktothehorizon.○ Becausesecondarystallscanbemoreviolentthantheoriginalstall,andcanbedeepstalls,theymustbeavoided. Secondarystallswill generallyresult inalargelossof altitude, andinthecaseof aspinrecovery, cancausetheairplanetore-enter thespin.
+● RecognitionandRecovery-Pilotscanrecognizeasecondarystallbypayingcloseattentiontothenormalindicationsofastall,controlbuffet,mushiness,orthestallwarninghorn.○ Recoveryissimple: relaxbackelevator pressure. Itmaybenecessarytoapplyforwardelevatorpressuretobreakthestallifthestallhasdeepened.
+ManeuverDescription
+● EntryAltitude-Stallsshouldalwaysbeperformedatasafealtitude,incaseofadelayedorinadequaterecovery,orotherproblems. Themaneuvershouldbeperformedsuchthataccountingforaltitudelossduringthestall,thefinalaltitudeisnolowerthan3,000feetAGL. Thereforeitisbesttobeginthemaneuver at least 3,500feet AGL.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_h_-_secondary_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-H)4
+● EntryAirspeed-Themaneuvershouldbestartedatanormalapproachairspeed.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver. Becausethismaneuverismeanttosimulateanapproachtolanding,itisagoodideatoalsoperformapre-landingchecklist.● Configuration-Configuretheairplaneforlanding(generallyaddflapsandlowerlandinggear).● EntryPower-Initially,reducethepowertobeginanormaldescentforlandingattheapproachairspeed.● Bank-Ifrequested,beginaturninthespecifieddirection. Thebankangleshouldbelessthan20degreestokeepalowloadfactor.● Descent-Aftertheairplaneisestablishedinastabledescent,pitchtheairplaneuptopreventanyfurtherdescentandinduceastall.● Stall-Acknowledge(callout)thefirstindicationsofanapproachingstall(especiallythebuffetorstallwarninghorn). Maintainbackelevatorpressureandallowtheairplanetostall.● IncompleteRecovery/SecondaryStall-Attemptto‘recover’byonlyslightlyrelaxingbackelevatorpressuretosilencethestallwarning,andthenbegintoincreasepitchagaintoinduceasecondarystall.● Recovery-Promptlyreducebackelevator pressure, level thewings, lower thepitchattitude, andapplyfull power. Oncetheairplanehasregainedflyingairspeed,establishaclimbatVxorVytogetbacktothepre-maneuveraltitude. Ifperformedinthedirtyorlandingconfiguration,progressivelyretractflaps,landinggear,etc.● Coordination-Duetothestrongleft-turningtendenciespresentathighpowersettingsduringstallrecovery, proper coordinationisessential. Attentionshouldbegiventoproperrudderinputduringturns.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtoholdheading.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

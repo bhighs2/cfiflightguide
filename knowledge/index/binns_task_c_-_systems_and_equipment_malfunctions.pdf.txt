@@ -1,0 +1,94 @@
+DOCUMENT_TITLE: binns_task_c_-_systems_and_equipment_malfunctions
+SOURCE_FILE: binns_task_c_-_systems_and_equipment_malfunctions.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)1
+SystemsandEquipment Malfunctions
+Objective
+Toensuretheapplicantlearnsthetypesofsystemandequipmentmalfunctionsthatarecommonlyencounteredandhowtodealwiththeseproblemscorrectly.
+Purpose
+Mostpilotswillatsomepointdealwithanin-flightmalfunctionoremergency. Thislessonintroducespilotstothetypesoffailuresthatmayoccurinflightandhowtheyshouldbehandled.
+Schedule Equipment
+● GroundLesson:25minutes● Pre-Solo■ Flight:5-10minutes- SimulatedMalfunction(per flight)● Pre-Checkride■ Flight:20minutes- SimulatedMalfunctionsPractice● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplaintheproperprocedureforhandlingthefollowingtypesoffailures:○ SuspectedCarbIce,RoughRunningEngine/PartialPowerLoss○ FuelExhaustion,LowOilPressure,TotalPowerLoss○ Smoke/Fire○ ElectricalSystemFailure○ Dooropeninginflight,trimorflapmalfunctions● Flight:Studentcanperformtheappropriatestepsforeachtypeofsystemfailureinflightby:○ Correctlyidentifyingtheproblem○ Followingtheappropriateemergencychecklistortroubleshootingsteps○ Communicating(simulated)withATC,asneeded○ DemonstratingPilot-in-Commanddecisionmaking
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)2
+References
+● Niko’sWings-“CirrusSR22-InsideaRealEmergencyOverIllinois-ElectricalFailure”○ YouTube-https://www.youtube.com/watch?v=qRvJ-5JgT_4● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter18[EmergencyProcedures]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter7[AircraftSystems]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIXTaskC● FAA-S-ACS-7B(CommercialPilotACS)-AreaIXTaskC● FAA-S-ACS-25(CFIACS)-AreaXIITaskC
+GroundLessonOutline
+● BethePilotinCommand-Bedecisive.Makedecisionsintheinterestofsafety. DECIDEmodel.○ StartleResponse○ Aviate,Navigate,Communicate,FollowChecklists,UseAllAvailableResources● SmokeandFire-Assumesmokemeansfire!○ OntheGround○ InFlight-ElectricalvsEngineFire● EngineIssues○ Roughrunningorpartialpowerloss-Attempttodiagnoseandresolve,otherwiseland■ CarbIce,FuelStarvation,MagnetoFailure,InternalEngineFailure(Stuckvalve,etc.)○ Overheating-Attempttolowertemps,otherwiseland■ CHTandAirspeed,LowOilPressure,etc.○ LowOilPressure-LandAssoonaspossible!■ LowOilLevel,ImminentEngineFailure○ TotalEngineFailure-ForcedLanding■ FuelStarvation(tankswitchingproblems,etc),CarbIce,CatastrophicInternalEngineFailure● ElectricalIssues○ AlternatorFailure-Two-sidedMasterSwitch■ Shedelectricalload■ Batteryexpectedruntime○ PoppingFuses/CircuitBreakers■ Shedelectricalload○ Electricalshort/fire-TurnoffMasterSwitchentirely!■ Remembersomeairplanesneedelectricityforflaps!○ NightConsiderations-Lights,radios(Pilot-ControlledLighting)● InstrumentFailure-Pitot/StaticSystem,VacuumSystem,etc.● HydraulicIssues○ Brakes-AerodynamicBraking● LandingGear-Emergencyextensionprocedures,landingwithunsafegear● DoororWindowOpeninginFlight○ Normallynon-emergency!■ Someairplanesmustland,somecanbeclosedinflight carefully.● Inoperativeor“Runaway”Trim○ Circuitbreakerforelectrictrim,Iftrimissuesaresuspected,stopusing!● FlapMalfunction○ Flaplesslandings● Pressurization/OxygenSystemMalfunction-Descendnow!
+CommonErrors
+● Failuretoperformtheappropriateemergencychecklist.● Failuretoattempt todeterminethecauseof themalfunction.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)3
+GroundLessonContent
+● BethePilot inCommand-Bedecisive.Makedecisionsintheinterestofsafety. Don’tdelaydecisionmaking.○ StartleResponse-Itisnormalforpilotstobestartledwhenasystemfailuresinflight,especiallysomethinglikeadoorpoppingopen. KeepcalmandFlytheAirplanewhileevaluatingwhatyouwilldo.○ DECIDEModel-■ D-Detecttheproblem/Determinethatanactionisnecessary■ E-Estimatethesignificanceoftheaction■ C-Chooseadesirableoutcome■ I-Identifyactionsneededinordertoachievethechosenoption■ D-Dothenecessaryactiontoachievechange■ E-Evaluatetheeffectsoftheaction○ Aviate, Navigate, Communicate-Thefirstresponsibilityofallpilotsistomaintainpositiveaircraft control at all times. Thisismoreimportantthantroubleshootingproblems,communicatingwithATC,ornavigation.○ Useall availableresources-TalktoATC,askforassistance,etc.○ FollowEmergencyChecklists-Alwaysfollowtheappropriateemergencychecklist!● SmokeandFire-Assumesmokemeansfire!○ OntheGround-Ifduringenginestart,followfireduringstartchecklist. Mayneedtoevacuateanduseafireextinguisherifavailable.○ InFlight-Fireinflightisadireemergency,landimmediately!■ Electrical Fire-Turnoffmasterswitch,smoke/fumesincockpitareasignificantdanger.■ EngineFire-Removefuelsourcebycuttingoffmixtureandfueltanks,performanemergencydescenttoincreaseairspeedandcreateanincombustiblemixture. (Lean)● EngineIssues-Prepareasifanenginefailureisimminent.○ Roughrunningor partial power loss■ CarbIce-Theventurieffectofacarburetorcreateslowtemperaturesthatcancreatecarbiceevenwhenoutsidetemperaturesarenowherenearfreezing. Whencarbiceissuspected,applycarbheatimmediately! Iftheenginerunsrougherandthenimproves,carbicewasthelikelycause.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)4
+■ Fuel Starvation-Asafueltankrunsdry,theenginemayrunroughmomentarilybeforefailure. Fastactiontoswitchtanksorapplythefuelboostpumpmayavoidpowerloss.■ MagnetoFailure-Afailingmagnetoisacommoncauseofaroughrunningengine.Themagnetoscanbecycledinflighttodetermineifonehasfailed.● Note: Onaircraft withacontrollablepitchprop, amagnetofailurewill beveryhardtodistinguish! (Nolossof RPM, etc) Keepaneyeout for anunexplainedriseinEGTs!■ Internal EngineFailure(Stuckvalve, etc.)-Internaldamagetotheenginemaycauseapartialpowerloss. Atotalenginefailuremaybeimminent.○ Overheating-Someoverheatingcanberesolvedinflight(e.g.byincreasingairspeed),butoverheatingisadangerousconditionthatshouldbemonitoredclosely.■ CHTandAirspeed-Flyingathighpowersettingsandlowairspeedscanleadtoexcessivelyhighcylinderheadtemperatures. AvoidprolongedclimbsatVxorVy,particularlyonhotdays. If your aircraft hascowl flaps, openthem!■ LowOil Pressure-Lowoilpressurecausesdecreasedlubrication,increasedfriction,andcanleadtooverheating. Risingoil temperatureisasignof imminent enginefailure!○ LowOil Pressure-Lowoilpressurecanleadtocatastrophicfailureofanengineandshouldalwaysbeconsideredanemergency.■ LowOil Level-Lowoillevelcancauselowoilpressurebystarvingtheoilpump.■ Imminent EngineFailure-Lowoilpressurewilldecreaselubricationandisusuallyanindicationthattotalenginefailureisimminent.○ Total EngineFailure■ Fuel Starvation-Fuelstarvationisoneofthemostcommoncausesofenginefailure.Beespeciallycautiouswhenswitchingfueltanksandverifythatthefuelselectorisfullyinposition! Donot forget toswitchtanks!
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)5
+■ CarbIce-Carburetoricethatisnotaddressedpromptlywillleadtoatotalenginefailure,whichmaynotbeeasilycorrectedastheenginecools.■ CatastrophicInternal EngineFailure-Totalenginefailurecanalsobecaused(lesscommonly)bytotalfailureofinternalcomponents.● Electrical Issues○ Alternator Failure-Alternatorscanfailinflightforavarietyofreasons,includingexcessiveload. Allairplanesareequippedwithatwo-sidedMasterSwitch,wherecyclingthealternatorsideoftheswitchresetsthecircuitbreakerforthealternator. Cyclingthisswitchmaytemporarily‘fix’thealternator,butpilotsshouldassumeitwillfailagainsoon.
+■ Shedelectrical load-Ifelectricaloverloadisthesuspectedcause,beginbyturningoffunnecessaryelectricalaccessoriesorsecondaryradios.
+■ Batteryexpectedruntime-Theairplanewillrunforseveralminutestohalfanhouronbattery,but batterypower must beconservedtooperateflaps, radios, etc!○ PoppingFuses/Circuit Breakers-Ifcircuitbreakersarepopping,theremaybeanelectricalshort,oranoverloadcondition.■ Shedelectricalloadbyturningoffnon-criticalitemsandthenattempttoresetthebreakers. Donot continuouslyreset breakersif theykeepfailing, thiscouldbeevidenceof ashort circuit that couldleadtoanelectrical fire!○ Electrical short/fire-TurnoffMasterSwitchentirely!■ Remembersomeairplanesneedelectricityforflaps! Prepareforaflaplessimmediatelanding.○ Night Considerations-AirplaneLights(suchaslandinglights)maybeunavailable,andradios
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)6
+arenecessarytocontrolPilot-ControlledLightingatnon-toweredairports. CarryingaportableVHFtransceivermaybeusefulasabackupwhenmakingnightflights.● Instrument Failure○ Pitot/StaticSystem-Instrumentssuchastheairspeedindicator,altimeter,andVSIdependonthepitot/staticsystem. Thefailureofthepitotorstaticsystemismostcommonlycausedbyblockages,usuallyintheformoficeorliquid,thatcollectinthepitottubeandstaticports. Ifapitottubeblockageissuspected,applypitotheat. Ifastaticportblockageissuspected,switchtothealternatestaticsource.
+○ VacuumSystem-Inairplaneswithvacuumsystems,afailureofthissystemwillcausetheattitudeindicatoranddirectionalgyrotoindicateunreliably. Monitorthesuctionorvacuumgauge,andif vacuumfailureislikely, cover theattitudeindicator anddirectional gyrotoprevent distraction!● HydraulicIssues○ Brakes-Ifhydraulicbrakesfail,pilotscanuseaerodynamicbrakingtopartiallycompensate.● LandingGear-Followemergencyextensionproceduresintheappropriatechecklist. Ifunsuccessful,preparetotouchdownatthelowestpossiblespeed,ideallyatatoweredairportwhereemergencyserviceswillbeavailable.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_c_-_systems_and_equipment_malfunctions.pdf>>>
+========================================
+
+PPL(IX-C) / CAX(IX-C) / CFI (XII-C)7
+● Door or WindowOpeninginFlight○ Normallythisisanon-emergency! Remember toflytheplanefirst!■ Someairplanesmustland,somecanbeclosedinflight carefully. Itmaybenecessarytoreduceairspeedorgentlysidesliptheairplanetoallowclosureofthedoor.■ Ifclosureisnotpossible,landandclosethedoororwindow.● Inoperativeor “Runaway”Trim-Runawaytrimcanbeextremelydangerousandrequirespromptaction.○ Runawaytrimonlyoccurswithelectrictrim,sobefamiliarwiththelocationoftheelectrictrimcircuitbreakerandbepreparedtouseit!■ Inmost aircraft, holdingdowntheAutopilot Disconnect buttonwill interrupt powertothetrimsystemwhileyousearchfor thebreaker.○ Iftrimissuesaresuspected,stopusingtrim! Mostairplanescanbelandedsafelyevenwhentrimmedincorrectly. Bepreparedforincreasedcontrolpressures.● FlapMalfunction-Themostdangerousflapmalfunctionisasymmetricflapextension. Thiswouldcauseanuncontrollablerolltooneside. Ifthishappens, reversetheflapsettingimmediately!○ Flaplesslandingsaresimpleandshouldbepracticedoften. Theysimplyrequirepilotstoflyaslightlyfasterfinalapproach.● Pressurization/ OxygenSystemMalfunction- Descendnow! Thetimeofusefulconsciousnessisverylow,andpilotsmustdescendbelow12,500feetassoonaspossible. Consideranemergencydescent!
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

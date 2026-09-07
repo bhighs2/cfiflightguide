@@ -1,0 +1,64 @@
+DOCUMENT_TITLE: binns_task_b_-_steep_spiral
+SOURCE_FILE: binns_task_b_-_steep_spiral.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_steep_spiral.pdf>>>
+========================================
+
+CAX(V-B) / CFI (IX-B)1
+SteepSpirals
+Objective
+Toensuretheapplicantunderstandstheelementsofthesteepspiralmaneuverandhowtoperformitproperly.
+Purpose
+Thesteepspiralmaneuverisaglidingturnoverafixedgroundreferencepoint,commonlyusedasatooltoremainoverapointfromwhichapowerofflandingcanbemade.Learningtoperformthismaneuvercorrectlyprovidesavaluabletoolthatcanbeusedinanengine-outemergencyscenario.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:30minutes- IntroductiontoManeuver■ Flight 2:30minutes- ImproveProficiency(Dual)● Solo■ Flight 3:20minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● n/a
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.● Afterlesson,practicemaneuversolo,ideallytransitioningtoapower-off180landing.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_steep_spiral.pdf>>>
+========================================
+
+CAX(V-B) / CFI (IX-B)2
+References
+● MzeroAFlightTraining-SteepSpiralLanding○ YouTube-https://www.youtube.com/watch?v=4t_Z7ZtkmcY● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter10,Page3-4[SteepSpiralManeuverDescription]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page34-35[LoadFactorsinSteepTurns]● FAA-S-ACS-7B(CommercialPilotACS)-AreaVTaskB● FAA-S-ACS-25(CFIACS)-AreaIXTaskB
+GroundLessonOutline
+● WhentouseaSteepSpiral○ Leadstoanemergencylanding/poweroff180● Positiveloadfactor○ Dissipatealtitudequickly● Managingbankangle○ Relationshiptogroundspeed○ Bankmoresteeplydownwind,etc.● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning○ Clearingengine● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Notclearingthearea● Inadequatepitchcontrolonentryorrollout● Gainingaltitude● Not correctingthebankangletocompensatefor wind● Poor flight control coordination● Ineffectiveuseoftrim● Inadequateairspeedcontrol● Becomingdisoriented● Performingbyreferencetotheflight instrumentsrather thanvisual references● Notscanningforothertrafficduringthemaneuver● Not completingtheturnondesignatedheadingor reference(losingtrackof thenumber of revolutionsor beingdisoriented)● Failingtocleartheengineonceperrevolution
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_steep_spiral.pdf>>>
+========================================
+
+CAX(V-B) / CFI (IX-B)3
+GroundLessonContent
+● WhenToUseASteepSpiral-Thesteepspiralisusedtolosealtitudequicklywhileremainingoverapointontheground. Inmanyemergencyscenarios,thispointisselectedtobeapointfromwhichapowerofflandingcouldbeaccomplishedsafely.
+● PositiveLoadFactor-Bykeepingthebankangleatamoderatevalue,typically30-45degrees,asignificantamountofliftisdirectedtowardstheinsideoftheturn,necessitatingahigheroverallloadfactortomaintainastabledescent. Thishelpswithdissipatingaltitudequickly,whileremainingoverthedesignatedpoint.● Byperformingthismaneuverataslow(nearbestglide)airspeed,therateofturnwillbehighandtheaircraftwillremainclosetothereferencepoint.● ManagingtheBankAngle-Inordertoremainoverthegroundreferencepoint,theangleofbankmustbevariedthroughoutthemaneuvertoaccountforthewind. Asgroundspeeddecreaseswhileupwind,lessbankisrequired,butasgroundspeedincreaseswhiledownwind,morebankisrequired.Constantlychangingbankwill requirecloseattentiontothecoordinationof theturns.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_steep_spiral.pdf>>>
+========================================
+
+CAX(V-B) / CFI (IX-B)4
+● SafetyConsiderations○ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.○ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.○ ClearingtheEngine-Becausethemaneuverisperformedwhiletheengineisatidleforanextendedperiodoftime,carbheatmayberequired,andtheengineshouldbeperiodicallycleared(broughtuptohighpowerbriefly),atleastonceperrevolution,topreventsparkplugfouling.
+ManeuverDescription● SelectingaGroundReference-Selectaprominentpoint,whichiseasytoidentifyandisclearofhazardsontheground. Thepointshouldideallybesomethinglikearoadintersection,selectedoveranunpopulatedarea. Donotplantospiraloverhousesorotherstructureswhichcouldcauseanuisance.● EntryPositionandHeading-Aimtobeginthemaneuverapproximatelyhalfamileabeamthereferencepoint. Fromhighaltitude,thismayappeartobenearlystraightdown. Notetheentryheading,andcounttherevolutionsfromthispoint. Themaneuvershouldendonthisheading,after3revolutions.● EntryAltitude-Asteepspiralshouldbecompletednolower than1,500ftAGL. Theamountofaltitudelostperrevolutiondependsontheradiusoftheturn,airspeed,andotherfactorsaffectingglideperformance. Itisgenerallybesttoassumethateachrevolutionmaylose600-700ft,and3fullrevolutionsarerequired. Therefore,anentryaltitudeofatleast 3,500ftAGLshouldbeplanned.● EntryAirspeed-Thesteepspiralisaglidingmaneuver,andshouldbeenteredatapproximatelythebest glidespeed,withtheenginepoweratidle.● BankAngle-Selectabankangleinitiallybetween30and45degrees,andat all timeslessthan60degrees,varyingthebankangletomaintainaconstantradiusoveragroundpoint. Becauseofthevaryinggroundspeed,thisbankanglewillnotbeconstant. Aimtobanknolessthan30degrees,bothtomaintainpositiveloadfactorsandtoensureeachrevolutionwillnotloseexcessivealtitudeandrequirethemaneuvertobestartedatanimpracticallyhighentryaltitude.● Coordination-Totrackaconstantradiusaroundthereferencepoint,theangleofbankwillvary,whichwillrequirecloseattentiontocoordination. Propercoordinationmustbemaintainedatalltimes,asbankingsteeplyatrelativelylowairspeedsrequirescautiontoavoidastallorspin.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthegroundreferencepoint.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthesteepspiralmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,selectsanaltitudehighenoughforthree360degreeturns,selectsasuitablegroundreferencepoint,andbeginsadescentatapproximatelybest-glidespeed.○ Pilotbeginsaturnaroundthegroundreferencepointatadistancesuchthatthebankangleremainslessthan60degrees.○ Thepilotcompletesthree360degreeturns,clearingtheengineonceperrevolution,andfinishesabove1,500ft AGL.○ Thepilotmaintainscoordinatedflight,+/-10KIAS,androllsoutontheentryheading+/-10degrees.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

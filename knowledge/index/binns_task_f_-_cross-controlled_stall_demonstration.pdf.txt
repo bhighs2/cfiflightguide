@@ -1,0 +1,75 @@
+DOCUMENT_TITLE: binns_task_f_-_cross-controlled_stall_demonstration
+SOURCE_FILE: binns_task_f_-_cross-controlled_stall_demonstration.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_f_-_cross-controlled_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-F)1
+Cross-ControlledStalls(Demonstration)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthecross-controlledstallmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Everypilot’sworstnightmareisabase-to-finalstallandspin.Thereisverylittlealtitudeandverylittleopportunitytorecover,andtheseaccidentsareoftenfatal. Thecross-controlledstallsdemonstrationintroducespilotstothehazardsofuncoordinatedstalls,theiraerodynamics,andteachestheproperrecoveryprocedures.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:40minutes- DemonstrateManeuver● CFIApplicantsOnly■ Flight:30minutes- PracticeManeuver (Dual)■ Flight:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthecross-controlledstallmaneuver,whenitmaybeencounteredduringflighttraining,andtheproperrecoveryprocedure.● Flight:Studentcanperformthemaneuvertothefollowingstandards:● Clearsthearea,performsapre-maneuverchecklist,andconfigurestheairplaneforlandinginthecleanconfiguration.● Selectsasimulated‘runway’,andbeginsasimulatedbaselegdescentat nolower than3,500ft AGL.● Descendsatanormalapproachairspeedandintentionallyovershootsfinal.● Turnstowardsfinal,andsteepensturnwithinsiderudder,holdingoppositeailerontopreventoverbanking..● Pullsbacktoholdthenoseup,andrecognizesthestallwarning,andatthediscretionoftheinstructor,inducesthecross-controlledstall.● Relaxeselevatorpressureandappliesoppositeruddertorecover.● Returnstoanormalclimbconfigurationandairspeedandreturnstopre-maneuveraltitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_f_-_cross-controlled_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-F)2
+References
+● LewDixAviation-“InstructingTheInstructor|PartTwo:TheDreadedBaseToFinalTurn”○ YouTube-https://www.youtube.com/watch?v=379E6V-TgxI● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery],Chapter5,Page20[Cross-ControlStall]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page25-26[Stalls]● FAA-S-ACS-25(CFIACS)-AreaXTaskF
+GroundLessonOutline
+● WhatareCross-ControlledStalls?○ Base-to-FinalTurns○ ImproperStallRecovery● AerodynamicsofCross-ControlledStalls○ Tendencytoenteraspin○ AnatomyoftheGlidingBase-to-FinalStall-Spin■ BaseLeg■ OvershootFinal■ SkiddingTurnToFinal■ BankIncreases,NoseFalls■ Stall■ SpinEntry● EntryProcedure○ SimulateBase-to-FinalStall○ Minimumentryaltitude-3,500ftAGL● RecognitionandRecovery○ Relaxelevatorbackpressureandapplyanti-spinrudder○ Minimumrecoveryaltitude-3,000ftAGL● ManeuverDescription-step-by-step○ Cleanconfiguration○ Entryposition,airspeed,etc.
+CommonErrors
+● Failuretoestablishselectedconfigurationpriortoentry.● Failuretoestablishacross-controlledturnandstall conditionthat will adequatelydemonstratethehazardsof across-controlledstall.● Improper or inadequatedemonstrationof therecognitionandrecoveryfromacross-controlledstall.● Failuretopresentsimulatedstudentinstructionthatemphasizesthehazardsofacross-controlledconditioninaglidingorreducedairspeedcondition.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_f_-_cross-controlled_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-F)3
+GroundLessonContent
+● What areCross-ControlledStalls?-Cross-controlledstallsareexactlywhattheysoundlike:stallsthathappenwhileuncoordinated,usuallywiththecontrols‘crossed’. Usuallytheyinvolveaskiddingturn.Thesestallsareconsiderablymoredangerousthannormalstalls. Mostpilotshavebeentaughtsinceveryearlyintheirtrainingtoavoidcross-controlledstallsatallcosts. Crosscontrolledstallsusuallyhappenbyaccident,andtheycansurprisepilotsinthetrafficpattern,orinthepracticearea.○ Base-to-Final Turns-Themostcommonplaceacross-controlledstallwouldoccuris,inadvertently,duringagliding,base-to-finalturn. Pilotsoftenhavebeentaughttofearbankingtoomuchwhenclosetotheground,andinsituationswheretheyhaveovershotthebase-to-finalturn,theymaytrytosteepentheturnwithoutincreasingthebank. Thisleadstoaskidding(‘bottomrudder’)turn,wheretheaileronsarebeingheldoppositeinordertofighttooverbankingtendency.○ Improper Stall Recovery-Anotherplacewhereacross-controlledstallsareencounteredisduringimproperrecoveryfromstallsperformedintraining. Iftheairplaneisuncoordinatedwhenenteringthestall,onewingwilltendtodroprapidly. Surprisedandinexperiencedpilotsattempttoraisethefallingwingwithaileron,deepeningthestall,andleadingtoasecondary,crosscontrolledstall.
+● Aerodynamicsof Cross-ControlledStalls-Tounderstandthedangerofcross-controlledstalls,pilotsmustunderstandtheaerodynamicsinvolved. Inanuncoordinated,usuallyskidding,turn,onewingisbeingblanketedpartiallybythefuselage,aswellasflyingashorterpaththantheoutsidewing,resultingintheinsidewingflyingslightlyslowerthantheoutsidewing. Thisleadstoastallwheretheinsidewingstallsfirst,evenwhentheoutsidewingmaystillbeflyingnormally,creatingaviolenttendencytobankinthedirectionofthestalledwing.
+○ Tendencytoenter aspin-Thesituationdescribedaboveisthesameprocessthatoccursduringaspinentry,anduncoordinated, cross-controlledstallswill rapidlybecomespinsifprompt correctiveactionisnot applied!○ Anatomyof theGlidingBase-to-Final Stall-Spin-Thetypical‘entry’procedureforanunintentionalgliding,base-to-finalspinisasfollows:
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_f_-_cross-controlled_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-F)4
+■ BaseLeg-Airplaneisflyingonabaseleg,approachingtheturntofinal. Theairspeedislowforapproachandlanding,andoftenallowedtoget toolow.■ Overshoot Final-Theairplaneovershootsfinalapproach. Thisoftenoccurswhenthereisaleftcrosswindonaleftbase,withthecrosswindprovidinganunexpectedtailwindonbase.■ SkiddingTurnToFinal-Thepilotbankstheairplanetowardsfinal,andnotwantingtoincreasebankanyfurther,appliesbottomor insideruddertohastentheturntofinal.■ BankIncreases, NoseFalls-Thepilotnoticesthattheairplanewantstocontinuetobanktowardstheturn,sotheyapplyoppositeaileron. Thiscross-controlled,uncoordinatedsituationincreasesdragandcausesthenosetofall.■ Stall-Thepilotattemptstoraisethenosewithelevatorandtheairplanebeginstostall.Theincreasedstallspeedfromthebankedturn,combinedwiththeuncoordinatedcrossed-controls,causestheinsidewingtostallfirst,rollingtheairplanetowardstheinsideoftheturn.■ SpinEntry-Ifleftuncorrected,theairplanewillbeginspinninginthedirectionoftheturn.
+● EntryProcedure○ SimulateBase-to-Final Stall-Todemonstratethecross-controlledstallmaneuver,thepilotshoulddesignatearoadorotherlinefeatureonthegroundasa‘runway’andflyasimulateddescendingbaselegtolineupwithit. Overshootfinalapproach,andmakeanuncoordinated,skiddingturntoattempttolineup. Maintainpitchtoinducethestall.○ Minimumentryaltitude-Themaneuvershouldbestartednolower than3,500ft AGL.
+● RecognitionandRecovery-Ingeneral,pilotsshouldrecognizethefactorsthatleadtoacross-controlledstallandpreventthebase-finalstallsituationfromdevelopinginthefirstplace.However,ifonedoesoccur,andawingdrops,itisimportanttorecognizethat aileroninput will onlyworsenthesituation. Relaxelevatorpressure,andapplyimmediateopposite(anti-spin)ruddertoraisethedroppingwing. Ifastallindicationisheardduringatightturn,orawingdropshardafterastall,applythecross-controlledstallrecovery:○ Relaxelevator backpressureandapplyopposite(anti-spin) rudder○ Minimumrecoveryaltitude-Recoveryshouldbemadenolower than3,000ft AGL.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_f_-_cross-controlled_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-F)5
+ManeuverDescription● EntryAltitude-Cross-controlledstallsareeffectivelyspinentries,andsoshouldalwaysbeperformedatasafealtitude,incaseofadelayedorinadequaterecovery,orotherproblems. Themaneuvershouldbeperformedsuchthataccountingforaltitudelossduringthestall,ortheensuingincipientspin,thefinalaltitudeisnolowerthan3,000feetAGL. Thereforeitisbesttobeginthemaneuver at least3,500feet AGL.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver. Becausethismaneuverismeanttosimulateanapproachtolanding,itisagoodideatoalsoperformapre-landingchecklist. Becausesignificant altitudemaybelost inthismaneuver, makesuretoclear theareabelowtheairplaneaswell!● GroundReference-Selectasuitablelineargroundreference(road,canal,etc)torepresentthe‘runway’andsetupadescendingbaselegtoit.● EntryAirspeed-Themaneuvershouldbestartedatanormalapproachairspeed.● Configuration-Configuretheairplaneinthecleanconfiguration,toavoidoverspeedingtheflapsintheeventofanunintentionalspin.● EntryPower-Initially,reducethepowertobeginanormaldescentforlandingattheapproachairspeed.● Overshoot Final-Intentionallyovershootthenormalbase-to-finalturn.● Bank-Makeaturntowardsthe‘runway’atanormalpatternbankangle. Thebankangleshouldbe20-30degreestokeepalowloadfactor.● Skid-Aftertheairplaneisestablishedinastabledescendingturntowardsfinal,attempttotightentheturnwithinsiderudder,whileholdingoppositeailerontopreventtheairplanefrombankingfurther.● Stall-Acknowledge(callout)thefirstindicationsofanapproachingstall(especiallythebuffetorstallwarninghorn). Maintainbackelevatorpressureandallowtheairplanetostall.● Recovery-Promptlyreducebackelevator pressure, applyoppositerudder tostopthefallingwing, andsmoothlyrecover toanormal pitchattitude. Oncetheairplanehasregainedflyingairspeed,applyfullpowerandestablishaclimbatVxorVytogetbacktothepre-maneuveraltitude.● Coordination-Thismaneuverisintentionallyflownuncoordinated,butbeawareofthepotentialforenteringaspinandbepreparedtoapplyspinrecoverytechniques.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtomonitortheprogressofthemaneuver.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

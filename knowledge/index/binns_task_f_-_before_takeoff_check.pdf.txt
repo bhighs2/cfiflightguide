@@ -1,0 +1,40 @@
+DOCUMENT_TITLE: binns_task_f_-_before_takeoff_check
+SOURCE_FILE: binns_task_f_-_before_takeoff_check.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_f_-_before_takeoff_check.pdf>>>
+========================================
+
+PPL(II-F) / CAX(II-F) / CFI (V-F)1
+BeforeTakeoff Check(Runup)
+Objective
+ToensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheBeforeTakeoffCheckprocedureandhowtoperformtheprocedureproperly.
+Purpose
+Nopilotwantstobeconfrontedwithanunexpectedenginefailureorfailureoftheflightcontrolsatanypointduringaflight,buttheseareespeciallydangerousontakeoff. TheBeforeTakeoffCheckandRunupareimportantprocedureswhichwillensurethattheengineandairplaneareairworthyandfunctioningproperly. ThislessonintroducestheBeforeTakeoffCheckandRunupproceduresandtheimportanceofaPre-DepartureBriefing.
+Schedule Equipment
+● Preflight GroundLesson:5minutes- Intheairplane● Initial■ BeforeFlight:5minutes- IntroductionandDemonstration● EveryFlight■ BeforeFlight:5minutes- Student Performs
+● AirplaneChecklist
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below)intheairplanebeforetheflightportionbegins.● Demonstratetheprocedureintheairplane.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeoftheprocedureandhowtoexecuteitproperly.● Flight:Studentperformstheprocedurewithoutassistance,including:● Positioningtheairplaneappropriatelywithregardtowind,otherairplanes,etc.● Followingtheappropriatechecklistsandperformingaflightcontrolcheck.● Performinganenginerunup,specificallychecking:○ TemperaturesandPressures,Magnetos,CarbHeat,IdleCheck● PerformingaPre-DepartureBriefing,including:○ EmergencyProcedures,VSpeeds,DeparturePlan● PerformingaPre-LineupandLineupcheck,including:○ Verifyingclearance,ensuringrunwayisclear,confirmingtakeoffrunway
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_f_-_before_takeoff_check.pdf>>>
+========================================
+
+PPL(II-F) / CAX(II-F) / CFI (V-F)2
+References
+● RyanBinns-“Cessna172PRunup(KORL)”○ YouTube-https://www.youtube.com/watch?v=tbR2ZXEuDwg● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter2,Page21-22[Before-TakeoffCheck/TakeoffChecks]● AirplanePOH-Section4[NormalProcedures]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIITaskF● FAA-S-ACS-7B(CommercialPilotACS)-AreaIITaskF● FAA-S-ACS-25(CFIACS)-AreaVTaskF
+GroundLessonOutline
+● BeforeTakeoffChecklist○ ReadandDoChecklist■ Nohurry,toucheachitemtoconfirm○ PositioningtheAirplane■ Wind,SurfaceConditions,OtherAircraft○ DivisionofAttention-Inside,Outside○ FlightControlsCheck■ Verifyproperaircraftconfiguration(e.g.Flaps)○ EngineRunup-Necessarytoensureproperfunctioningofengine,magnetosnotfouled,etc.■ MagnetoCheck-Purpose/CheckEGTs,ifavailable● WhattodoincaseofabadMagCheck/PlugFouling■ CarburetorHeatCheck■ ProperEngineIndications● TempsandPressureshouldbeinthegreen,mayneedtowarmup■ IdleCheck○ ResetDirectionalGyro/HeadingBugforTakeoff● Pre-DepartureBriefing○ EmergencyProcedures■ LandAhead,TurnBackAltitudes,etc.○ BriefTakeoffProcedure■ VSpeeds,AbortPoint○ BriefExpectedDepartureProcedure■ TrafficPatternorTurnoutDirection● Pre-LineupandLineupCheck○ Confirmclearedfortakeoff/CommunicateintentionsonCTAF■ Preventrunwayincursions!○ Visuallyconfirmfinalapproachisclear○ Visuallyconfirmproperrunway/DirectionalGyroagreement
+CommonErrors
+● Failuretoproperlyusetheappropriatechecklist.● Improperpositioningoftheairplane.● Improper acceptanceof marginal engineperformance.● Animproper checkof flight controls.● Failuretoconfiguretheaircraft for takeoff.● Hazardsoffailuretoreviewtakeoffandemergencyprocedures.● Failuretoavoidrunwayincursionsandtoensurenoconflictwithtrafficpriortotaxiingintotakeoffposition.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

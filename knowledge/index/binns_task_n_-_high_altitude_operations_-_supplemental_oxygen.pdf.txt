@@ -1,0 +1,48 @@
+DOCUMENT_TITLE: binns_task_n_-_high_altitude_operations_-_supplemental_oxygen
+SOURCE_FILE: binns_task_n_-_high_altitude_operations_-_supplemental_oxygen.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_n_-_high_altitude_operations_-_supplemental_oxygen.pdf>>>
+========================================
+
+PPL/ CAX(VIII-A/B) / CFI (II-N)1
+HighAltitudeOperations- Supplemental Oxygen
+Objective
+Toensuretheapplicantlearnsthephysiologicaldangersofhighaltitudeflightandthetypesofoxygensystemsavailable,aswellastheiruseandservicing.
+Purpose
+Flyinghigherincreasesaircraftperformance,butwithoutproperprecautions,itcanbedangerous. Additionally,theFARsrequirepilotstouseoxygenwhenoperatingatcertainaltitudes. Thislessonintroducespilotstothedangersofhypoxia,thetypesofoxygensystemsandtheiruse,aswellastheregulationsrequiringpilotuseofoxygen.
+Schedule Equipment
+● GroundLesson:15minutes● Student Q&A:10minutes
+● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● Dangersofhypoxiaandhyperventilation,effectsonvision,timeofusefulconsciousness● Regulatoryrequirementsforuseofsupplementaloxygen● Thetypesofoxygensystemscommonlyused
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_n_-_high_altitude_operations_-_supplemental_oxygen.pdf>>>
+========================================
+
+PPL/ CAX(VIII-A/B) / CFI (II-N)2
+References
+● DavidMoran-“HighAltitudeHypoxiaFlightTraining”○ YouTube-https://www.youtube.com/watch?v=CptmVSXnEfc● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter7,Page37-40[OxygenSystems],Chapter17,Page3-5[Hypoxia/Hyperventilation]● FAA-S-ACS-7B(CommercialPilotACS)-AreaVIIITaskA● FAA-S-ACS-25(CFIACS)-AreaIITaskN
+GroundLessonOutline
+● HazardsofHighAltitudeFlight○ Hypoxia-Similartodrunkenness,confusion,etc. Canleadtolossofconsciousness.■ HypoxicHypoxia-Notenoughoxygenpartialpressure,causedbyhighaltitude■ HypemicHypoxia-Bloodcan’tbindoxygen,usuallyCOpoisoning■ HistoxicHypoxia-Cellscan’tuseoxygen,usuallydrugs/alcohol■ TimeofUsefulConsciousness- Seesupplement○ Hyperventilation-SometimesoccurswhenbreathingpureO2○ VisionImpairment-Especiallyatnight,over5,000feetMSL.● SupplementalOxygenSystems○ Regulatoryrequirementsforuseofoxygen-§91.211■ >12,500feetMSLand<=14,500morethan30minutes-Crewprovidedandusesoxygen■ >14,000feetMSL-Crewprovidedandusesoxygen■ >15,000feetMSL-Passengersprovidedoxygen○ ImportanceofusingonlyAviator’sBreathingOxygen-Pure,nomoisturecontent(freezingdanger)○ TypesofSystems■ Maskvs.Cannula-Cannulauseisonlyallowedupto18,000feetMSL■ Diluter-Demand-Supplyonlywhenuserinhales. Automixvalve. Usedupto40,000feet.■ Pressure-Demand-Similartodiluter-demandbutoxygenunderpressureover34,000feet.■ ContinuousFlow-Usuallyprovidedtopassengers,usesareservoir/bag.■ ElectricalPulse-Demand-Detectusersbreathingandsuppliesonlywheninhaling. Savesoxygen.○ CareandStorageofOxygenBottles,Servicing○ PulseOximeters
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_n_-_high_altitude_operations_-_supplemental_oxygen.pdf>>>
+========================================
+
+PPL/ CAX(VIII-A/B) / CFI (II-N)3
+GroundLessonSupplement
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

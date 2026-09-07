@@ -1,0 +1,70 @@
+DOCUMENT_TITLE: binns_task_a_-_pilot_qualifications
+SOURCE_FILE: binns_task_a_-_pilot_qualifications.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_pilot_qualifications.pdf>>>
+========================================
+
+PPL(I-A)/CAX(I-A)/CFI(III-A)1
+PilotQualifications
+Objective
+Toensuretheapplicant learnstherequirementsfor thevariouspilot andmedical certificates, aswell astheirprivilegesandlimitations.
+Purpose
+All pilotsmust knowtherulestoensurethat theyarelegal tofly. Thislessonintroducespilotstotherulesgoverningthevariousclassesof pilot andmedical certificates, aswell astherecencyof experiencerequirements, andtherequirementsforlogbookentries.
+Schedule Equipment
+● GroundLesson: 15minutes● StudentQ&A: 10minutes
+● FAR/AIM● Whiteboard/ Markers(optional)
+StudentActions InstructorActions
+● Askanyquestions, receivestudymaterial for thenext lesson.● Reviewlistedreferences.
+● Deliver thegroundlesson(below).● Answer student questions.
+CompletionStandards
+● Student canexplainthefollowingconcepts:● Therequirementsfor obtainingthepilot certificatetheyareseeking, plustheprivilegesandlimitations● Theclassesanddurationsof medical certificates, aswell asthemedical certificaterequiredfor their flying● Therecent flight experiencerequiredasPIC● Therequirementsfor loggingflight timeandthecontentsof alogbookentry● Thecertificatesanddocumentsthat pilotsmust carrywiththemtoexercisetheprivilegesof their certificates
+Preparedby: RyanBinns(ryancbinns.com/flying), February2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_pilot_qualifications.pdf>>>
+========================================
+
+PPL(I-A)/CAX(I-A)/CFI(III-A)2
+References
+● 14CFRPart 61(FAR, Certificationof Pilots)● 14CFRPart 67(FAR, Medical Certificates)● 14CFRPart 91(FAR, General OperatingandFlight Rules)● FAA-S-ACS-6C(PrivatePilot ACS) - AreaI TaskA● FAA-S-ACS-7B(Commercial Pilot ACS) - AreaI TaskA● FAA-S-ACS-25(CFI ACS) - AreaIII TaskA
+GroundLessonOutline
+● Trainingfor Pilot Certificates○ Recreational Pilot - Part 61Subpart D- §61.99■ 30hoursTotal, 15hoursDual, 3hoursSolo, 2hoursDual XC(>25nm)○ PrivatePilot - Part 61Subpart C(Student Pilots), Part 61Subpart E(PrivatePilots) - §61.109■ 40hoursTotal, 20hoursDual, 10hoursSolo, 3hoursNight, 3hoursInstrument, 5hourssoloXC, 3hoursDual XC○ Commercial Pilot - Part 61Subpart F(Commercial Pilots) - §61.129■ Holdat least aPPL■ 250hoursTotal, 100PIC(50Airplane, 50XC), 20hoursDual, 10hoursComplex/TAADual, 10hoursInstrument Dual, 10hoursSolo(XC), 5hoursSoloNight VFR(TAADefn. - §61.129(j))● PrivilegesandLimitations○ Recreational Pilot - §61.101■ Maximum1Passenger■ Generallyremain<50nmhomeairport - Otherwise, needtrainingandendorsement○ PrivatePilot - §61.113■ NoFlyingfor Compensationor Hire, Must Payat Least Pro-RataShare● Exception: Solowhenflyingisincidental tothebusiness, e.g. travelinglawyer■ At least 3rdClassMedical or BasicMed○ Commercial Pilot - §61.133■ Canflyfor Compensationor Hire● Operationsthat don’t needoperatingcertificate- §119.1(e)○ Ferryflights, banner towing, cropdusting, parachutedrop, etc.■ At least 2ndClassMedical toexercisePrivileges■ NoInstrument Rating- NoPassengersFor Hire>50nmor at Night - §61.133(b)(1)○ Certificatesanddocumentsthat pilotsmust carrywiththem● ClassandDurationof Medical Certificates- §61.23○ 1st Class- <4012Calendar Mos, >406Calendar Mos- WhenUsingATPPrivileges○ 2ndClass- 12Calendar Mos- WhenUsingATPSICor CPLPrivileges○ 3rdClass- <4060Calendar Mos, >4024Calendar Mos- WhenUsingPPLor RequiredCrewmember○ Part 68BasicMed- Restrictionsonairplaneandoperations- §61.113(i)○ Special Issuance, SODA- §67.401● Recent Pilot Flight ExperienceRequirements- §61.57○ Flight Review, TakeoffsandLandingsfor Passenger Carrying, Night Currency, ProficiencyvsCurrency● RequiredLogbookEntries○ Format of aLogEntry■ All entries- §61.51(b)● Date, Flight Time, To/From, TypeandIdentifier, SafetyPilot Name(if required), TypeofExperience(Solo/PIC/Dual/etc), Conditionsof Flight (Day/Night/SimIMC/etc)■ Training- §61.51(h)● Endorsedlegibly(signed) byauthorizedinstructor, certificate#, certificateexpiration,descriptionof thetraininggiven, trainingtime○ Onlyrequiredtomeet recencyof experienceor for earningacertificate
+Preparedby: RyanBinns(ryancbinns.com/flying), February2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_pilot_qualifications.pdf>>>
+========================================
+
+PPL(I-A)/CAX(I-A)/CFI(III-A)3
+GroundLessonContent
+● TrainingforPilotCertificates○ RecreationalPilot - Part 61Subpart D-§61.99■ 30hoursTotal, 15hoursDual, 3hoursSolo, 2hoursDual XC(>25nm)○ PrivatePilot - Part 61Subpart C(Student Pilots), Part 61Subpart E(PrivatePilots) -§61.109■ 40hoursTotal, 20hoursDual, 10hoursSolo, 3hoursNight, 3hoursInstrument, 5hourssoloXC, 3hoursDual XC○ CommercialPilot - Part 61Subpart F(Commercial Pilots) -§61.129■ Holdat least aPPL■ 250hoursTotal, 100PIC(50Airplane, 50XC), 20hoursDual, 10hoursComplex/TAADual, 10hoursInstrument Dual, 10hoursSolo(XC), 5hoursSoloNight VFR● TAADefined-§61.129(j)● PrivilegesandLimitations○ RecreationalPilot-§61.101■ Maximum1Passenger■ Generallyremain<50nmhomeairport - Otherwise, needtrainingandendorsement○ PrivatePilot-§61.113■ NoFlyingfor Compensationor Hire, Must Payat Least Pro-RataShare● Exception: Solowhenflyingisincidental tothebusiness, e.g. travelinglawyer■ At least 3rdClassMedical or BasicMed○ CommercialPilot-§61.133■ Canflyfor Compensationor Hire● Operationsthatdon’tneedoperatingcertificate-§119.1(e)○ Ferryflights, banner towing, cropdusting, parachutedrop, etc.■ At least 2ndClassMedical toexercisePrivileges■ NoInstrumentRating-§61.133(b)(1)● NoPassengersFor Hire>50nmor at Night○ Certificatesanddocumentsthatpilotsmustcarrywiththem■ Government issuedphotoID■ Pilot Certificate(student pilot certificateif onsolo)■ Medical Certificate.■ If onasolo, must havetheir logbookwithall soloendorsements.■ (For international flights) RestrictedRadiotelephoneOperatorsLicense● ClassandDurationofMedicalCertificates-§61.23- Certificatescanbeusedfor theprivilegesof alower classmedical after expirationof thehigher classprivileges, subject tothoseexpirations
+Preparedby: RyanBinns(ryancbinns.com/flying), February2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_pilot_qualifications.pdf>>>
+========================================
+
+PPL(I-A)/CAX(I-A)/CFI(III-A)4
+○ 1stClass■ <4012CalendarMonths,>406CalendarMonths■ WhenUsingATPPrivileges○ 2ndClass■ 12CalendarMonths■ WhenUsingATPSICor CPLPrivileges○ 3rdClass■ <4060CalendarMonths,>4024CalendarMonths■ WhenUsingPPLor RequiredCrewmember○ Part68BasicMed- Appliesrestrictionstoairplaneandoperation-§61.113(i)○ SpecialIssuance- CanbegrantedbyFAAfor peoplenot otherwiseeligibleif theyperformadditional tests, etc.○ SODA-§67.401- Statement of DemonstratedAbility■ Canbeusedwhensomeoneisineligiblebut candemonstrateabilitytoFAArepresentative● RecentPilotFlightExperienceRequirements○ FlightReview-§61.56■ 1hour of flight and1hour of groundtraining, plusendorsement, inprevious24calendarmonths
+○ TakeoffsandLandingsforPassengerCarrying-§61.57(a)(1)■ Solemanipulator of thecontrols■ 3takeoffsand3landingsinthepreceding90days○ NightCurrency-§61.57(b)(1)■ Solemanipulator of thecontrols■ 3takeoffsand3landingstoafull stop, intheperiod1hour after sunset to1hour before
+Preparedby: RyanBinns(ryancbinns.com/flying), February2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_pilot_qualifications.pdf>>>
+========================================
+
+PPL(I-A)/CAX(I-A)/CFI(III-A)5
+sunriseinthepreceding90days○ ProficiencyvsCurrency- Beinglegallycurrent isnot sufficient!● RequiredLogbookEntries○ FormatofaLogEntry■ Allentries-§61.51(b)● Date, Flight Time, To/From, TypeandIdentifier, SafetyPilot Name(if required),Typeof Experience(Solo/PIC/Dual/etc), Conditionsof Flight (Day/Night/SimIMC/etc)■ Training-§61.51(h)● Endorsedlegibly(signed) byauthorizedinstructor, certificate#, certificateexpiration, descriptionof thetraininggiven, trainingtime○ Onlyrequiredtomeet recencyof experienceor for earningacertificate
+Preparedby: RyanBinns(ryancbinns.com/flying), February2020(UpdatedApril 2024)Editableversionsavailableat binnsflightservices.com/cfibinder

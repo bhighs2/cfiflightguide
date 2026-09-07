@@ -1,0 +1,75 @@
+DOCUMENT_TITLE: binns_task_g_-_elevator_trim_stall_demonstration
+SOURCE_FILE: binns_task_g_-_elevator_trim_stall_demonstration.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_g_-_elevator_trim_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-G)1
+Elevator TrimStalls(Demonstration)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheelevatortrimstallmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Duringgo-arounds,pilotsareoftenunderhighstressandworkload,andelevatortrimstallscandevelopunexpectedly.ThismaneuverintroducesCFIapplicantstothehazardsoffailingtoarrestnose-uppitchingduringgo-aroundsandhowtoproperlyrecoverfromanelevatortrimstall.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:40minutes- DemonstrateManeuver● CFIApplicantsOnly■ Flight:30minutes- PracticeManeuver (Dual)■ Flight:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeoftheelevatortrimstallmaneuver,theaerodynamicsthataffectthemaneuver,andhowtoexecuteitproperly.● Flight:Studentcanperformthemaneuvertothefollowingstandards:● Clearsthearea,performsapre-maneuverchecklist,andconfigurestheairplaneforlanding.● Selectsanaltitudenolower than3,500ft AGL.● Beginsastabilizeddescentatanormalapproachairspeed.● Rapidlyappliesfullpowerandallowsthenosetorise.● Recognizesandacknowledgesthefirstindicationsofanapproachingelevatorstallandappliesnosedownpitchandelevatortrim,whilemaintainingcoordinatedflight.● Returnstoanormalclimbattitudeandairspeedandreturnstopre-maneuveraltitude.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_g_-_elevator_trim_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-G)2
+References
+● LeoHorton-“CFIElevatorTrimStall”○ YouTube-https://www.youtube.com/watch?v=DZfOtvjJR-I● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery],Chapter5,Page20-21[ElevatorTrimStall]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page25-26[Stalls]● FAA-S-ACS-25(CFIACS)-AreaXTaskG
+GroundLessonOutline
+● WhatisanElevatorTrimStall?○ Go-arounds○ Power-offstallrecovery● AerodynamicsofElevatorTrimStalls○ LowThrustLine○ IncreasedDownwash● Don’tOverpitchDuringAGo-Around○ DangersofFailuretoArrestPitchUp● RecognitionandRecovery○ Excessivenose-upattitude○ Stallwarning○ Forwardelevator,reducenose-uptrim,maintaincoordination● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.
+CommonErrors
+● Failuretopresentsimulatedstudentinstructionthatadequatelyemphasizesthehazardsofpoorcorrectionfortorqueandup-elevatortrimduringgo-aroundandothermaneuvers.● Performingthemaneuver belowtheminimumsafealtitude.● Failuretoestablishselectedconfigurationpriortoentry.● Improperorinadequatedemonstrationoftherecognitionofandtherecoveryfromanelevatortrimstall.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_g_-_elevator_trim_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-G)3
+GroundLessonContent
+● What isanElevator TrimStall?-Anelevatortrimstallissimplyastallthatoccursbyhavingexcessivenose-uptriminasituationwheretheairplanenaturallywantstopitchup. Forexample,anelevatortrimstallisoftenencounteredwhenperformingago-around,orrecoveryfromapower-offstall,becausetheairplaneistrimmedforslowflightandasuddenburstofpowercancausethenosetoriserapidlyintoastall.
+● Aerodynamicsof Elevator TrimStalls-Elevatortrimstallsoccurfortwomainreasons:○ LowThrust Line-Thelinethroughthepropellerindicatingthedirectionandlocationofthecenteroftheenginethrustiscalledthethrust line. Inmanyairplanes, thethrust lineisbelowthecenter of gravity, sothat whenpower isapplied, thereisanupwardpitchingtendency. (Likewise,reducingpowerhasadownwardspitchingtendency)
+○ IncreasedDownwash-Duringnormalstraightandlevelflight,thethrustfromthepropellercreatesasignificantamountof downwashovertherearhorizontalstabilizer. Whenflyingatlowspeedsandlowpowersettings,thisdownwashisreduced. Thisrequiresmorenose-upelevatortriminordertomaintainthesameairspeed. Whenahighpower settingisrestored,thedownwashincreasesagain, andtheelevator trimsettingisnowmuchtoohighfor theairspeed, causingarapidnose-uppitch.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_g_-_elevator_trim_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-G)4
+● Don’t OverpitchDuringAGo-Around-Becauseofthelowthrustlineandthesuddenlyincreaseddownwash,whenfullpowerisappliedinago-around,theairplanewilltendtopitchuponitsown,sometimesviolently. Itisimportantthatpilotsarepreparedforthisandapplynose-downelevatorpressuretocounteractit. If thispitchupisnot stoppedbythepilot, it ispossiblefor theairplanetoenter apower-onstall! (An‘elevator trimstall’)○ It maybenecessarytoquicklyapplynosedowntrimandaggressivelyapplyforwardelevator pressuretoovercomethenose-uppitch!○ Proper go-aroundpitchissimilar toproper takeoff pitch. Thenoseshouldbeabovethehorizon,butnotexcessivelyso.○ Becauseofthehighpowersettingandsuddenlygreatlyincreasedpitch(andthereforeangleofattack),left-turningtendencieswillbeexaggerated. If left uncorrected, thiswill tendtocreateanuncoordinatedstall, whichcreatesahighriskof aspin!
+● RecognitionandRecovery-Pilotscanrecognizeanapproachtoanelevatortrimstallbynoticingwhenthenoserisesrapidlywhenpowerisappliedquickly. Nose-upattitudesof greater than20degreesof pitch, or astall warningindicationareimportant cuesthat shouldbeacteduponpromptly!○ Recoveryissimple: applyforwardelevator pressure, quicklytrimnose-down, andmaintaincoordination. ResumeanormalclimbingpitchattitudeandacceleratetoVxorVy,asappropriate.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_g_-_elevator_trim_stall_demonstration.pdf>>>
+========================================
+
+CFI (X-G)5
+ManeuverDescription
+● EntryAltitude-Stallsshouldalwaysbeperformedatasafealtitude,incaseofadelayedorinadequaterecovery,orotherproblems. Themaneuvershouldbeperformedsuchthataccountingforaltitudelossduringthestall,thefinalaltitudeisnolowerthan3,000feetAGL. Thereforeitisbesttobeginthemaneuver at least 3,500feet AGL.● EntryAirspeed-Themaneuvershouldbestartedatanormalapproachairspeed.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver. Becausethismaneuverismeanttosimulateago-aroundfollowinganapproachtolanding,itisagoodideatoalsoperformapre-landingchecklist.● Configuration-Configuretheairplaneforlanding(generallyaddflapsandlowerlandinggear).● EntryPower andTrim-Initially,reducethepowerandapplynose-upelevatortrimtobeginanormaldescentforlandingattheapproachairspeed.● ‘GoAround’-Simulateago-aroundbyapplyingfullpowerrapidlybut donotapplyforwardelevatorpressureandallowthenosetoriserapidly.● Recognize-Acknowledge(callout)thefirst indicationsofanapproachingstall(especiallythebuffetorstallwarninghorn).● Recovery-Promptlyapplystrongforwardelevator pressure, level thewings, andrapidlyapplynose-downelevator trim, maintainingcoordination. EstablishanormalclimbatVxorVytogetbacktothepre-maneuveraltitude. Progressivelyretractflaps,landinggear,etc.● Coordination-Duetothestrongleft-turningtendenciespresentathighpowersettingsduringstallrecovery, proper coordinationisessential. Failuretocorrectforleft-turningtendenciescanleadtoanuncoordinatedpower-onstallandspin.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtoholdheading.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

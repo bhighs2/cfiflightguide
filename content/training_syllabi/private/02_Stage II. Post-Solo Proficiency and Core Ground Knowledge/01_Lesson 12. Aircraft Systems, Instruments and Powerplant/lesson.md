@@ -426,8 +426,6 @@ Know the layout: what the alternator and battery do, how fuel flows and is selec
     <figcaption>Electrical system — the alternator, battery, and bus that power the panel and avionics.</figcaption>
 </figure>
 
-**Source:**
-
 [[pdf: /knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf | start=161 | end=203]]
 
 [[pdf: /knowledge/POH-Cessna-172S.pdf | start=163 | end=216]]
@@ -449,8 +447,6 @@ The pitot-static system drives three instruments. The **ASI** uses pitot against
     <figcaption>Blocked static — the altimeter freezes; the ASI and VSI are also affected.</figcaption>
 </figure>
 
-**Source:**
-
 [[pdf: /knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf | start=203 | end=231]]
 
 ### 3. The Gyroscopic Instruments and the Compass
@@ -464,8 +460,6 @@ A vacuum failure takes the attitude and heading indicators. Know which instrumen
     <figcaption>Vacuum system — drives the gyroscopic attitude and heading indicators on aircraft so equipped.</figcaption>
 </figure>
 
-**Source:**
-
 [[pdf: /knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf | start=203 | end=231]]
 
 ### 4. The VOR at the Instrument Level
@@ -478,8 +472,6 @@ The VOR is a receiver and a display. The pilot interacts with the **receiver** (
 
 This lesson stays at the instrument level — what the VOR is and how to read it. Navigation mastery comes later.
 
-**Source:**
-
 [[pdf: /knowledge/Pilots_Handbook_of_Aeronautical_Knowledge.pdf | start=203 | end=231]]
 
 ### 5. Attitude Instrument Flying — The Introduction
@@ -487,8 +479,6 @@ This lesson stays at the instrument level — what the VOR is and how to read it
 Attitude instrument flying controls the airplane by reference to the instruments alone, using **attitude plus power to produce performance**. Establish the attitude and power for the desired flight condition; the performance instruments confirm the result.
 
 The scan is selective and brief — no fixation. The defense against inadvertent VMC into IMC is exactly this: trust the instruments over the body, level the airplane, and make a controlled 180° turn back to visual conditions. This lesson introduces the skill; Lesson 18 develops it.
-
-**Source:**
 
 [[pdf: /knowledge/Airplane_Flying_Handbook.pdf | start=62 | end=67]]
 

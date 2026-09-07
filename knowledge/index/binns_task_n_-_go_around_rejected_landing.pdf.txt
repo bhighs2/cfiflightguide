@@ -1,0 +1,98 @@
+DOCUMENT_TITLE: binns_task_n_-_go_around_rejected_landing
+SOURCE_FILE: binns_task_n_-_go_around_rejected_landing.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)1
+GoAround/RejectedLanding
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthegoaroundmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Sometimesapproachesandlandingsgowrong,orotherairplanes,cars,orevenanimalswanderontotherunway.Thego-aroundisthesafestapproachtoabortingalandingandclimbingbacktosafety. Practicinggo-aroundssharpensapilot’sfundamentalflyingskillsanddevelopsaeronauticaldecisionmakingskills.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:10minutes- IntroductiontoManeuver■ Flight:10minutes(perlesson)- Practice● Solo■ Flight:10minutes(persoloflight)- ImproveProficiency● Pre-Checkride■ Flight:10minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainthebasicgo-aroundprocedure,thetendencytooverpitch,andhowtocounterit.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Makesatimelygo-arounddecision,andimmediatelyappliesfullpower.● PitchesforandmaintainsaclimbatVxorVyasappropriate(+10/-5knotsPrivatePilot,+/-5knotsCommercial).● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)2
+References
+● ERAUSpecialVFR-“GoAround”○ YouTube-https://www.youtube.com/watch?v=yaaZEK22YRg● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter9,Page10-15[GoArounds(RejectedLandings)],Chapter9,Page30-37[FaultyApproachesandLandings]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page15-17[LongitudinalStability(Pitching)],Chapter5,Page30-33[LeftTurningTendencies],Chapter11,Page7-8[RateofClimb,AngleofClimb]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskN● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskN● FAA-S-ACS-25(CFIACS)-AreaVIITaskN
+GroundLessonOutline
+● WhatisaGoAround?○ Reasonsforagoaround○ StabilizedApproach,EnergyManagement● Don’tDelay○ Decidequickly,withoutdelay○ Fullpower!● Don’tOverpitch○ Possibilityofelevatortrimstall● Transitioningtonormalclimb● Leftturningtendencies● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning,SituationalAwareness/RunwayIncursions○ Stallavoidance○ Windshear,Tailwinds,WakeTurbulence● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Failuretorecognizeasituationwhereago-around/rejectedlandingisnecessary.● Hazardsofdelayingadecisiontogo-around/rejectedlanding.● Improperpowerapplication.● Failuretocontrolpitchattitude.● Failuretocompensatefor torqueeffect.● Impropertrimprocedure.● Failuretomaintainrecommendedairspeeds.● Improperwingflapsorlandinggearretractionprocedure,ifapplicable.● Failuretomaintainpropertrackduringclimb-out.● Failuretoremainwellclearofobstructionsandothertraffic.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)3
+GroundLessonContent
+● What isaGo-Around?Sometimeswhenlanding,thingsdon’tgoright. Maybetheairplaneistoohigh,toolow,aroguewindgustpopsup,anairplaneorananimalenterstherunwayunexpectedly.Wheneverthesafeoutcomeofthelandingisindoubt,pilotsshouldelecttoperformago-around.
+○ Althoughgo-aroundsusuallyhappenbeforetouchingtherunway,sometimestheycanbenecessaryaftertheinitiallanding…forexampleinthecaseofabadbounce,‘porpoising’,orlossofdirectionalcontrol. Usuallythesafestcourseofactionistogoaround.
+○ Everysuccessfullandingbeginswithastabilizedapproach,butoftenpoor EnergyManagementnecessitatesagoaround. ThereisafundamentaldifferencebetweenaHighEnergyandLowEnergyapproach,asthesemustbemanagedverydifferently.■ SeethelessononArea10(X) - TaskB- Demonstrationof Flight CharacteristicsatVariousConfigurationsandAirspeedsformoredetailsonenergymanagement.● Don’t Delay-Go-aroundsareoneofthefewmaneuversinnormalflyingwherethereislittletonomarginfordelay. Whenadangeroussituationhappensduringlanding, it isimportant tomakeadecisionquicklyandthatpilotsfollowthrough. Onceadecisiontogo-aroundhasbeenmade,don’tchangeit!○ Ago-aroundisafairlysimplemaneuver: first, applyfull power.○ Afterapplyingfullpower,thepilotpitchestheairplaneuptoclimbbackupawayfromtherunway,usuallybackintothetrafficpatterntoattemptanotherlanding.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)4
+○ Aftertheairplaneissafelyclimbingawayfromtherunway,theairplanecanbetrimmedandwingflapsandlandinggearretracted,ifnecessary.
+● Don’t Overpitch-Whenfullpowerisappliedinago-around,theairplanewilltendtopitchuponitsown,sometimesviolently. Itisimportantthatpilotsarepreparedforthisandapplynose-downelevatorpressuretocounteractit. If thispitchupisnot stoppedbythepilot, it ispossiblefor theairplanetoenter apower-onstall! (An‘elevator trimstall’)○ Airplanespitchupwhenpowerisappliedbecauseatlowpowersettings,thereislessdownwashoverthetailsurface. Becauseofthis,theelevatortrimwillbesettomorenoseuptriminordertomaintainthesameairspeed. Whenenginethrustisincreased,thisdownwashincreasesdramatically,resultinginastrongpitchuptendency.○ It maybenecessarytotrimnosedownquicklyandaggressivelytoovercomethenose-uppitch!○ Proper go-aroundpitchissimilar toproper takeoff pitch. Thenoseshouldbeabovethehorizon,butnotexcessivelyso.○ Someairplanes(e.g.High-wing,Cessnas)havethecenterofgravitylocatedabovethethrustline(effectively,animaginarylineintersectingthecenterofthepropellerdisc),whichalsocontributestoupwardpitching.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)5
+● AirplaneswhichhaveaCGbelowthethrustlinewillhaveadownwardpitchingtendencywhenpowerisapplied,andmayneedlessaggressivepitchcorrections.
+● TransitioningtoNormal Climb-Afterthe‘exciting’elementsofthego-aroundarefinished,pilotsshouldtreatthemasanormalclimb. Thismeansclimbingattheappropriatespeed(usuallybestrate,Vy),andcleaninguptheairplane(retractflaps,retractlandinggear,etc).○ Aswithanyafter-takeoffclimb,itisstillimportanttoflyrunwayheading,andbeawareofanyobstructions,traffic,orotherhazards.○ Mostimportantly,pilotsshouldalwaysperformaclimbchecklistafterthedangerhaspassedandtheairplaneisclimbingagain.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)6
+● Left-TurningTendencies-Thismaneuveralsoillustratesthestrongeffectsofleft-turningtendenciesatlowairspeedsandhighangleofattack. Whileclimbing,theairplanewillbeflyingatahighangleofattackandhighpowersetting,exaggeratingthetorquereaction,spiralingslipstream,andP-Factor,requiringsignificant right rudder pressure.
+● SafetyConsiderations○ Similartoanytakeoff,theuseof checklistsisimportant. Aftertheinitialclimbisestablished,theclimbchecklistmustbeperformed.○ All takeoffsandgo-aroundsrequirespecial cautiontobeexercisedfor obstaclesonornear thefield! Powerlines,talltrees,orotherobstaclesmaybequiteclosetotherunwayenvironment! Theseobstaclesmaybedifficulttoseeinanose-highattitudeafterago-around.○ Runwayincursionsareamajorcauseofgo-arounds. Thesecancreateanexcitingsituation,andagoaroundisaverybusytimeinanaircraft. Itiscrucialtonotbecomesofocusedontasksinsidethecockpitthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriateradiocallsafter establishingasafeclimb.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_n_-_go_around_rejected_landing.pdf>>>
+========================================
+
+PPL(IV-N) / CAX(IV-N) / CFI (VII-N)7
+○ Oneofthemajorrisksisthatofapower-onstall. Ifthestallindicatorisheardatanypoint,lower thenose! Apower-onstallislikelynotrecoverablewhenveryclosetotheground.○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsofwindshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.
+ManeuverDescription● Go-AroundDecisionPoint-Ago-aroundcanbeinitiatedatanypointwhenthesafetyofthelandingisindoubtandtheairplanecanstillregainsufficientflyingspeed. Whenanyunsafeconditionoccurs,decidepromptlyandapplyfullpower.● PitchandTrim-Establishapropergo-aroundpitchattitude(similartotakeoffpitchattitude)andapplynose-downtrimasnecessary.● Airspeed-EstablishaclimbatVy,orVxifobstacleclearanceisnecessary.● Checklists-Pilotsmustperformaclimbchecklistaftertheairplaneissafelyclimbingawayfromtherunway.● Coordination-Themaneuvershouldbeflownincoordinatedflightatalltimes. Thismaneuvercreatesariskofapower-onstallorspinentry,sopropercoordinationisessential!● Communicate-Afteritissafetodoso,communicatethego-aroundtoATCorontheCTAF,asnecessary.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensureobstacleavoidance. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthegoaroundmaneuverandhowthevariousfactors,suchasleft-turningtendenciesanddownwashaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotsetsupanormalapproachtoland.○ Pilotmakesatimelydecisiontogoaroundifthesafecompletionofthelandingisindoubt,oriftheevaluatorcommandsagoaround.○ Pilotimmediatelyappliesfullpower.○ PilotpitchesforandmaintainsaclimbatVxorVy(+10/-5knotsPrivatePilot,+/-5knotsCommercial)asappropriate○ Pilotreconfiguresairplaneforclimbandperformstheclimbchecklist.○ Pilotmakesappropriateradiocalls.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

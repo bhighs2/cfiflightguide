@@ -1,0 +1,117 @@
+DOCUMENT_TITLE: binns_task_f_-_eights_on_pylons
+SOURCE_FILE: binns_task_f_-_eights_on_pylons.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)1
+EightsonPylons
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofeightsonpylonsandhowtoperformthemaneuverproperly.
+Purpose
+Eightsonpylonsisthemostcomplexgroundreferencemaneuver. Masteringthemaneuverrefinesprecisionaircraftcontrolbycombiningmoderatelysteepcoordinatedturns,constantairspeedclimbsanddescents,allwhiletrackingoutsidegroundreferences. Italsointroducestheconceptofapivotalaltitude. Itreinforcestheneedtokeepsituationalawarenessandscanningoutsidevisualreferenceswhilemaneuveringatverylowaltitude.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:30minutes- IntroductiontoManeuver■ Flight 2:30minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● PivotalAltitudeChart(seelastpage)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.○ SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)2
+References
+● TheUNDAeroCast-CommercialEightsOnPylons○ YouTube-https://www.youtube.com/watch?v=dx3WOSqGGTY● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter7,Page14-18[EightsonPylonsManeuverDescription]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page39[TurnRadius]● FAA-S-ACS-7B(CommercialPilotACS)-AreaVTaskE● FAA-S-ACS-25(CFIACS)-AreaIXTaskF● PivotalAltitudeChart(Seenextpage)
+GroundLessonOutline
+● EightsonPylons○ PivotalAltitude○ DependsonlyonGroundSpeed-EffectsofWind○ Bankangledependsondistancefromthepylon○ Pivotalaltitudeformula● ‘MaintainingthePylon’○ The‘double’correction■ Pylonmovesahead=airplanetooslow,toohigh->descend,speedup,raisespivotalaltitude■ Pylonmovesbehind=airplanetoofast,toolow->climb,slowdown,lowerspivotalaltitude● ManeuverSetupandChoosingPylons● Safetyconsiderations○ Useofchecklists○ EmergencyLandingArea○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.○ Wingreferencepoint/Pylonsightpicture● ExpandedCompletionStandards
+CommonErrors
+● Attemptingtomaintainthepylonbyuseof therudder● Failuretoadequatelycleartheareaabove,below,andoneithersideoftheairplaneforsafetyhazards,initiallyandthroughoutthemaneuver.● Poor selectionof pylons.● Failuretoselect aproper referencepoint onthewingfor trackingthepylon.● Failuretoestablishaconstant,levelaltitudepriortoenteringthemaneuver.● Failuretomaintainadequatealtitudecontrolduringthemaneuver.● Failuretoproperlyassesswinddirection.● Failuretoproperlyexecuteconstantradiusturns.● Failuretomanipulatetheflightcontrolsinasmoothandcontinuousmanner.● Failuretoapplycoordinatedaileronandrudder pressure, resultinginslipsor skids.● Failuretomaintainorientationasthemaneuverprogresses.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)3
+GroundLessonContent
+● EightsonPylons-Fromabove,eightsonpylonswouldappeartobeflyingasimplefigureeightaroundtwocarefullychosengroundreferences. Themainideathatsetsthismaneuverapartfromnormalturnsaroundapointistheconceptofapivotal altitude. Thatis,foreverygroundspeed,thereissomealtitudeatwhichpointsonthegroundappeartoremainstationarywheninaconstantbankangleturn. Becausewindcausesgroundspeedtovary,themaneuverwillrequirevaryingamountsofclimbinganddescendingtomaintainthecorrectpivotalaltitude.
+● Animportantpropertyofpivotalaltitudeisthatitdependsonlyongroundspeed. Thebankanglerequiredtoholdapyloninafixedpositionatpivotalaltitudedependsonthedistancefromthepylon.
+● Whenanaircraftisatpivotalaltitude,viewingthepylonalongalineparalleltothelateralaxis(alongthewing)resultsinthepylonremainingstationaryrelativetothereferencepointonthewing.● Pivotalaltitude(inknots)canbecomputedwiththeformula○ (GroundSpeedxGroundSpeed)/11.3● ‘Maintaining’ thePylon-Whenanaircraftisaboveorbelowpivotalaltitude,thepylonwillappeartodriftaheadorbehindthewingreferencepoint. Becausepivotalaltitudedependsonlyongroundspeed,thereisadoublecorrectionthatassistsinmaintainingthepylons○ Pylonmovesahead->Aircraftabovepivotalaltitude(tooslow)■ Aircraftshoulddescend,whichincreasesgroundspeed,andraisesthepivotalaltitudetomeettheaircraft. Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)4
+○ Pylonmovesbehind->Aircraftbelowpivotalaltitude(toofast)■ Aircraftshouldclimb,whichdecreasesgroundspeed,andlowersthepivotalaltitudetomeettheaircraft.
+● Maneuver SetupandChoosingPylons-Eightsonpylonsareeasytoperformwithproperplanning:○ Selecttwopylons,approximately¾mileapart,onalineperpendiculartothewind.○ Enterthemaneuverdiagonallydownwind,atthehighestgroundspeed,andthereforehighestpivotal altitude. Determinethepivotalaltitudebeforemaneuverentry. (Consultthepivotalaltitudechart) Plantheapproachtoturnontothefirstpylonapproximately¼miledownwindfromthepylon.○ Astheaircraftturnsaroundthefirstpylon,groundspeedwillgraduallydecayastheaircraftcomesintothewind,requiringtheaircrafttodescendtoholdthepylon.○ Astheaircraftreturnstodownwindandpreparestoexitthepylon,theairspeedagainincreases,requiringtheaircrafttoclimbtoholdthepylon.○ Flywingslevelandclimbbacktothehighest pivotal altitudewhiletransitioningtothesecondpylon. Applywindcorrectiontoensurearrivalatthesecondpylonatthecorrectdistance.● SafetyConsiderations○ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.○ EmergencyLandingArea-Duetotherisksinvolvedwithmaneuveringatlowaltitude,pilotsshouldselectasuitableemergencylandingarea.○ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.
+ManeuverDescription● SelectingaGroundReference-Selecttwoprominentpoints,separatedbyapproximately¾ofamile,whichareeasytoidentifyandareclearofhazardsontheground. Thepointsshouldformanimaginarylinewhichisperpendiculartothewind. Thepointsshouldideallybethingslikeroadintersections,selectedoveranunpopulatedarea. Donotchoosethingslikehousesorotherstructuresaspylonswhichcouldcauseanuisance. Becausethismaneuver isperformedsoclosetotheground(generallybelow1,000ft AGL), makesurethat thechosenpylonsarenear asuitableemergencylandingarea, asglidingdistancewill bealmost zero.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)5
+● EntryPositionandHeading-Aimtobeginthemaneuverbyflyingdiagonallybetweenthepylons(seeabove),toarriveatapositionapproximatelyaquartermileabeamthefirstpylon.● SelectingaWingReferencePoint-Selectapointontheendofthewing,whichliesonalineparalleltothelateralaxisoftheairplane. Donotselectapointonalinethatisatanangletothewing. (Seebelow)
+● EntryAltitude-Ifyouhavegroundspeedinformationavailable,determineyourinitialpivotalaltitudebyreferencingthepivotalaltitudechart. Ifnot,simplyuseyourairspeedandaddtheestimatedwind
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)6
+speed. Youwillenterthemaneuveratthehighestgroundspeed,andthereforethehighestpivotalaltitude.● EntryAirspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVatoaccountforagaininairspeedasyoudescendaroundthepylons.● BankAngle-Thebankangleisdeterminedbythedistancefromthepylon,butmustbeat all timeslessthan40degrees.● Altitude-Climbordescendasnecessarytotrackthepylon. Whenthepylonmovesbehindthewingreferencepoint,theaircraftisbelowpivotalaltitude,andclimbingwillslowthegroundspeedandlowerthepivotalaltitude. Whenthepylonmovesaheadofthewingreferencepoint,theaircraftisabovepivotalaltitude,anddescendingwillincreasethegroundspeedandincreasethepivotalaltitude.
+● BetweenPylons-Whiletransitioningbetweenpylons,flywingslevelandapplyappropriatewindcorrectiontoavoiddriftingdownwindandmaintainthecorrectdistancetothenextpylon.● Coordination-Whiletrackingapylon,thecontinuousclimbinganddescendingwillproduceavariableairspeed,requiringcarefulattentiontopropercoordination. Donot userudder tohelptrackthepylon! Theentiremaneuvershouldbeflownincoordinatedflight.● Recovery-Continuethemaneuverforasmanyloopsasspecified. Recovertostraightandlevelflightafterexitingthelastpylon.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthepylons. Inparticular, thisisaverylowaltitudemaneuver.Keepacareful watchfor obstructionsor other groundhazards.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheeightsonpylonsmaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanapproximatepivotalaltitudeformaneuverentry.○ Pilotselectssuitablepylonsthatwillpermitstraight-and-levelflightbetweenthepylons.○ Pilotentersthemaneuverinthecorrectdirectionandpositionusinganappropriatealtitudeandairspeed.○ Pilotestablishesthecorrectbankanglefortheconditions, not toexceed40°.Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)7
+○ Pilotappliessmoothandcontinuouscorrectionssothattheline-of-sightreferencelineremainsonthepylon.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.○ Pilotmaintainpylonpositionusingappropriatepivotalaltitude,avoidingslipsandskids.
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_f_-_eights_on_pylons.pdf>>>
+========================================
+
+CAX(V-E) / CFI (IX-F)8
+Pivotal AltitudeChart (print andbringalong)
+GroundSpeed PivotalAltitude- (GS*GS)/11.3
+75kts 500ft
+80kts 570ft
+85kts 640ft
+90kts 720ft
+95kts 800ft
+100kts 890ft
+105kts 980ft
+110kts 1070ft
+115kts 1170ft
+120kts 1274ft
+Preparedby:RyanBinns(ryancbinns.com/flying),December2019(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

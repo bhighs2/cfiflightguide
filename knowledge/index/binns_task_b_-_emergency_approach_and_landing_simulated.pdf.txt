@@ -1,0 +1,149 @@
+DOCUMENT_TITLE: binns_task_b_-_emergency_approach_and_landing_simulated
+SOURCE_FILE: binns_task_b_-_emergency_approach_and_landing_simulated.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)1
+EmergencyApproachandLanding(Simulated)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthesimulatedemergencyapproachandlandingmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Althoughnopiloteverhopestoencounteranenginefailure,preparingforoneisacrucialskillallpilotsmustdevelop. Thismaneuverwillintroducepilotstoglidingdescentsandhowtoplanandexecuteanemergencylanding.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeoftheemergencyapproachandlandingmaneuverandhowwindandotherfactorsaffecttheperformanceofthemaneuver.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Afterasimulatedenginefailureisdeclared,immediatelyestablishesbestglideairspeed+/-10kts.● Selectsasuitablelandingareaandbeginsanapproach,configurestheairplane,performsanemergencychecklist,andsimulatestheappropriateradiocalls.● Usesacombinationofapproachgeometry,slips,andflapstomanagetheapproachpath,avoidingskiddingturnsatalltimes.● Managesthedescentandaimsforapointsoastomakeasafe,controlledlanding(ifperformedatanairport),ordiscontinuestheapproachat500ftAGL,atthediscretionoftheinstructor.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)2
+References
+● ERAUSpecialVFR-“EmergencyApproachandLanding-Lesson1”○ YouTube-https://www.youtube.com/watch?v=HLx6MZmOBAE● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter9,Page12-13[IntentionalSlips],Chapter9,Page24-27[PowerOffAccuracyApproaches],Chapter9,Page30-37[FaultyApproachesandLandings],Chapter18,Page2-5[BasicSafetyConcepts],Chapter18,Page5-7[TerrainTypes],Chapter18,Page7-8[EngineFailureAfterTakeoff]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page5[Lift/DragRatio],Chapter5,Page7[InducedDrag],Chapter5,Page11-12[GroundEffect]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIXTaskB● FAA-S-ACS-7B(CommercialPilotACS)-AreaIXTaskB● FAA-S-ACS-25(CFIACS)-AreaXIITaskB
+GroundLessonOutline
+● EngineFailureDuringFlight○ TheA-B-C’s● BestGlideSpeed○ L/Dmax○ MinimumSinkSpeed● SelectingaLandingArea○ Distance,WindDirection,TerrainType,Obstacles● EmergencyChecklists○ Attempttorestoreengine,declareemergency,prepareforoff-airportlanding● EngineFailureAfterTakeoff○ Don’tturnbackbelow800ftAGL!● DeterminetheCause○ Manyenginefailuresarecarbice,oreasilysolvedfuelsupplyissues● PlanningtheApproach○ SpiralDowntoDownwind,SetupforPower-Off180○ KeyPositions,EstimatingGlidePath,ToolsforManagingGlidePath■ Approachgeometry,Airspeed,Configuration,ForwardSlips● BestGlidevs.Headwinds● Safetyconsiderations○ TouchdownatLowestPossibleAirspeed○ EmergencyChecklist-divideattentionwiththeapproach○ Maintainsituationalawareness,whenpracticingbepreparedtoGoAround!● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards● FurtherReading-BestGlidevsWind(Expanded)
+CommonErrors
+● Improper airspeedcontrol.● Poor judgment intheselectionof anemergencylandingarea.● Failuretoestimatetheapproximatewindspeedanddirection.● Failuretoflythemost suitablepatternfor existingsituation.● Failuretoaccomplishtheemergencychecklist.● Undershootingor overshootingselectedemergencylandingarea.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)3
+GroundLessonContent
+● EngineFailureDuringFlight-Onethingeverypilotneverhopestoencounterisanenginefailureduringflight. Nonetheless,trainingforthepossibilityisimportant. Safepilotshavetheinitialstepsofanenginefailurememorized,sothattheycanspringintoactionwithoutwastingprecioustime.○ TheA-B-C’s-OnewaypilotsremembertheenginefailurestepsisusingtheA-B-Cmnemonic:■ Step1. EstablishBest GlideAirspeed■ Step2. Select theBest Field(landingarea)■ Step3. PerformtheEmergencyChecklist● Formanycarburetedairplanes,thiscanalsorefertoCarbHeat,whichshouldbeappliedpromptlyasafirsttroubleshootingstep!
+● Best GlideSpeed-Whenglidingtoland,themostimportantairspeedtorememberisthebest glidespeed. Bestglidespeedistheairspeedthatwill,intheabsenceofwind,resultintheairplanetravelingthefurthest distance. Generallyapower-offapproachshouldbeflownatapproximatelybestglidespeed,andintheclean(lowestdrag)configuration,untilasafelandingisassured. Itisbesttotrimtobestglidespeedimmediatelyatthestartofthemaneuver.○ Thebestglidespeedistheairspeedatwhichtheratiooflifttodragisatmaximum(sometimescalledL/Dmax),andisoftenpublishedonlyforthecleanconfiguration.
+● MinimumSinkSpeed-Thereisanotherspeedpertinenttoglidingflight,theMinimumSinkSpeed. ThisoccursattheMinimumPowerRequiredspeed,whichistypicallyabitslowerthanBestGlide. Thisspeedwillkeeptheaircraftaloftforthelongestamountoftime.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)4
+● SelectingaLandingArea-Intheidealcase,theairplaneiswithinglidingrangeofanairportorrunway. However,thisisunlikelytobethecaseinmanysituations. Whenchoosingalandingarea,pilotsshouldlookfor large, openareas, if available. Thereareseveralotherconsiderationswhenchoosingalandingarea:○ Distance-Pilotsmustlearntojudgehowfartheycanglide,butitisgenerallysafesttoselectanemergencylandingareawithinapproximately1mileoftheairplanetoensurethatsufficienttimeandaltitudeareavailabletoplanasafeapproachandlanding.○ WindDirection-Landingatthelowestairspeedisbest,andsopilotsshouldattempttodeterminethelocalwinddirection. Fieldswhicharealignedwiththewindareideal.○ TerrainType-Large,openfieldsareideal. Ifthefieldsareplowed,pilotsshouldattempttolandwiththefurrows,evenifthatisnotdirectlyintothewind.
+○ Obstacles-Notallopenareasaresuitable,ormaybeusablebutonlywithextremecaution.Fieldsmaybesurroundedbyhighpowerlines,orfilledwithdebrisorotherobstacles. Roadsatfirstseemlikeidealareas,howeverthepresenceoftrafficmakesthemdangerous! Pilotsshouldnever intentionallyendanger peopleonthegroundduringemergencies!
+● TheEmergencyChecklist-Iftheenginefailurehappensatsufficientaltitude, whiletheairplaneisglidingtowardstheemergencylandingarea,pilotsshouldperformtheemergencychecklist.Generally,theemergencychecklisthasitemsfromafewcategories:○ Diagnoseor FixtheEngineFailure- Attempt torestorefuel flow(switchtanks,switchonfuelpumps,enrichenmixture,etc),orincreaseairflowintotheengine(carburetorheat),andfinally,switchingmagnetosorattemptingtorestartmanually.○ DeclareanEmergency-Emergencychecklistswillremindpilotsthat theyshoulddeclareanemergency(“Mayday,Mayday”)toAirTrafficControl(ifincommunications),oronGuard(theUniversalEmergencyFrequency), 121.5MHzandadviseothersofthesituation.○ Preparefor EmergencyLanding-Generally,ifnorestartcanbeaccomplished,thechecklistwillwalkthepilotthroughmakingtheairplanesaferforaroughlanding. Mostchecklistsadvisepilotstocutofffuelsupplytotheenginetoreducetheriskoffire,secureseatbelts,turnofftheelectricalsystem,andsomeairplanechecklistsadvisepilotstounlatchthedoorstomakeexiteasieriftheairplanestructureisdamaged.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)5
+● EngineFailureAfter Takeoff-Whenanenginefailureoccursshortlyaftertakeoff(whentheairplaneisbelow800-1,000ftAGL),thereisgenerallynotimetoaccomplishanemergencychecklist. Pilotsinthissituationshouldfocusdirectlyonexecutingasafelandingonanysuitablespot directlyaheadof theairplane. Donot attempt toturnbacktotheairport!
+● DeterminetheCause-Iftimeandaltitudeallows,pilotsshouldattempttodeterminethereasonfortheenginefailure. Themost commoncausesof enginefailureinflight arecarbiceandfuel flowissues. Simplyswitchingfuel tanksor applyingcarburetor heat mayrestoreenginepower andeliminatetheneedfor anemergencyoff-airport landing! Performingtheemergencychecklistshouldtakethepilotthroughallthenormaltroubleshootingstepsthatcouldsuccessfullyrestoretheengine,ifitispossible.
+● PlanningtheApproach-Ifsufficientaltitudeallows, it isbest toplantoenter intoa‘normal’downwind, if possible. Pilotshaveconsiderablymoreexperiencewithlandingfromadownwindposition,andexecutingafinalapproachfromadownwindallowsforeasierestimationoftheglidepath,andprovidesopportunitiestocorrectforanapproachthatwouldbetooshort.○ Spiral DowntoaDownwind- Thegoal for anypower-off approachshouldbetoarriveat apoint onthedownwind, abeamthedesiredtouchdownpoint, fromwhicha“Power-Off180”canbeexecuted. Flydirectlytothedownwindpointandthenexecuteaspiral,glidingdescenttoarriveatthepointatapproximately1,000ftAGL. Theamountofaltitudelostperspiralturncanbeadjustedbybankingmore(lessaltitudeperturn),orbankingless(morealtitudeperturn).
+○ What isaPower-Off 180?ThePower-Off 180maneuveror Power-Off Approachissimplyalandingapproachexecutedfromthedownwind-abeampositionwithoutanyenginepower.Unlikeanormallanding,thereisnopoweravailabletomanagetheglidepath,andsotheapproachtolandissomewhatdifferentthananormallanding:■ It will besteeper. Anormal3degreeglidepathisnotpossibleinmostaircraft.■ It will betighter. Itisusuallynecessarytoflyacloser,‘tighter’,baselegthanusual.■ It mayrequiremaneuvering. S-turnsorslipsmayberequiredtolosealtitude.○ KeyPositions-ThePower-OffApproachisbegunfromthedownwindleg,atapointabeamthetouchdownpoint. Thispointiscalledthedownwindkeyposition. Itisthepositionfromwhichthepilotwillinitiallyestimatethedistancetotherunway,andplantheapproachpath. Atthe
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)6
+basekeyposition,thepilotisataclose-inbaselegposition. Atthekeyposition,thepilotagainestimatesthedistancetothetouchdownpoint,andmodifiestheapproachpathasnecessary. Ideally,theairplanewasinglidingdistancetoarunway,sotheapproachcanbeplannedtoarunway,however if norunwayisavailable, pilotsshouldnonethelessplantheapproachasif therewasarunwayinthechosenlandingarea.
+● EstimatingGlidePath-Inordertoperformthismaneuversuccessfully,pilotsmustdeveloptheirskillsinvisuallyestimatingtheairplane’sglidepath. Thisbeginswithfindinganaimingpointwhichisjustbeforethedesiredtouchdownpoint,toaccountfortheroundoutandflare. Wheninastabledescent,iftheaimpointismovingaway,thelandingwillbeshort. Whentheaimpointismovingcloser,thelandingwillbetoolong. Itiscrucialtopaycloseattentiontothemovementoftheaimingpointandmaketheappropriatecorrections. Evenwhennorunwayisavailable, designateapoint inthelandingareaasthetouchdownpoint, andchooseanaimingpoint beforeit.
+● Toolsfor ManagingGlidePath-Becausethereisnopoweravailable,pilotshavefewertoolstocorrecttheirglidepaththaninanormalpoweredapproach,however,theydohaveafewimportanttools:○ Approachgeometry-Flyingalongerorshorterpathtothetouchdownpointcanvarytheamountofaltitudedissipatedintheglide. Itisusuallypossibleto‘cutoffthecorners’ofthe
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)7
+normalpatternturnsiftheglideappearstooshort,oriftheglideappearstoolong,toflypasttheapproachpathandturnbacktowardsit,orperformS-turns.
+○ Airspeed-Flyingatanairspeedfasterthan,orslowerthan,bestglidespeedwillresultinashorterglide.
+○ Aircraft configuration-Flapscanbeusedtoslowtheairplane,andshortentheglide,ifitappearstheglidewillbetoolong.○ Forwardslips-Forwardslipsareanothertoolwhichincreasesdragandcandramaticallyshortenaglide.
+● GlideSpeedvs. Headwinds-Animportantconsiderationforthismaneuveristhewindspeed. Aswithanylanding,thepower-offapproachshouldbemadesuchthatlandingisintothewind,howeveritisimportanttounderstandthat aheadwindcausesglideperformancetodecreaseandbest glide
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)8
+speedtoincrease! (SeetheFurther Readingsectionbelow) Therefore,insituationswherethereisastrongwind,thebaselegshouldbeflownclosertothetouchdownpoint.
+● SafetyConsiderations○ Touchdownat Lowest PossibleAirspeed-Whenarunwaywasnotwithinglidingdistanceandtheairplanewilllandinafieldorotheropenarea, it iscrucial thatthelandingbemadeat thelowest possibleairspeed.Theamountofenergydissipatedvariesexponentiallybasedonthespeed.○ EmergencyChecklist Usage- If timeallows, thepilotshouldruntheenginefailureduringflightemergencychecklist. Afterlandingandrollingouttoasafepoint,theairplaneshouldbeshutdowninaccordancewiththenormalchecklist,ifpossible,tominimizetheriskoffire. Pilotsmust divideattentionbetweenperformingthechecklist andmanagingtheapproach.○ Whenpracticingemergencylandings,itiscrucialtonotbecomesofocusedonthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriateradiocalls,andwhenperformingthelandingsatairports,ensurethatlandingclearanceisobtainedbeforelanding. Whenperformingthemaneuver awayfromglidingdistanceof anairport,themaneuver shouldbediscontinuedat 500ft AGL.○ Maneuveringatlowairspeed,andperformingforwardslipsorS-turnscreatesariskofastallingsituation. Ifthestallwarningsoundsbeforethelandingflare,goaround! Alwaysbepreparedtogoaround!
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)9
+ManeuverDescription● Maneuver Start-Usuallytheinstructororexaminerwillreducepowertoidleanddeclarethatanenginefailureisbeingsimulated. Alwaysbepreparedforanenginefailureemergency!● EstablishBest GlideAirspeed-Immediatelypitchforbestglideairspeeduntilalandingatthedesiredareaisassured. Thefinalstagesoftheapproachcanbeflownslightlyfasterorslower,asnecessary,tomaketheglideworkout. Takecaretoallowsufficient marginabovethestall, andif thestallindicationisheardat anypoint beforethefinal landingflare, discontinuethemaneuver andgoaround!● Select aSuitableLandingArea-Findanopenfieldorotherarea,freefromobstacles,thatwillallowlandingintothewind,orwithamanageablecrosswind.● SelectingaTouchdownPoint-Selectapointinthelandingareathatiseasytoidentifyfromthedownwindleg. Untilproficiencyisdeveloped,selectapointthatisnotdirectlyatthestartofthelandingarea,incasetheglidecomesupshort.● EmergencyChecklist-Ifaltitudeallows, generallyabove1,500ft AGL,pilotsmustperformtheemergencychecklist. Iflandingonanactualrunway,anafter-landingchecklistshouldbeperformedaftertaxiingsafelyclearoftherunway,forfull-stoplandings.● Bank-Sincethismaneuverinvolvesmaneuveringinglidingflightatlowaltitude,thebankangleshouldbelessthan30degrees.● ApproachPath-Anyapproachgeometrymaybeusedtomaketheglideworkoutasnecessary. Thismayrequireturningforthelandingsiteearly,orpotentiallyflyingpastfinalandturningbacktowardsit.S-turnsandforwardslipsonfinalarealsoacceptable.● Coordination-Exceptforduringforwardslips,themaneuvershouldbeflownincoordinatedflight.Attentionshouldbegiventoproperrudderinputduringturns.● Slips-Forwardslipsmaybeusedaslongascareistakentoensurethenoseremainsbelowthehorizontomaintainamarginabovethestall. Donot skid.● Touchdown-Chooseanaimingpointsuchthattheairplanewilllandat, but not before,theselectedtouchdownpoint. Thelandingshouldbeataproperpitchangle(not onthenosewheel-- donot forceit!),safe,andundercontrol. Touchdownat thelowest possibleairspeed. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+● After Touchdown-Applyaerodynamicandwheelbrakingasnecessary.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)10
+● BePreparedtoGoAround! Theglidemaynotworkoutandago-aroundisverypossible. Bepreparedtoexecuteago-aroundifneeded.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropermanagementoftheglidepath. Monitoringfor obstaclesor other trafficisespeciallycritical whenperformingthismaneuver at lowaltitudeor near uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheemergencyapproachandlandingmaneuverandhowwindandotherfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Aftertheinstructororexaminerreducesenginepower,thepilot immediatelyestablishesbestglideairspeed+/- 10kts.○ Pilotselectsasuitablelandingareaandbeginsanapproach,configurestheairplane,performsanemergencychecklist,andsimulatestheappropriateradiocalls.○ Pilotusesacombinationofapproachgeometry,slips,andflapstomanagetheapproachpath,avoidingskiddingturnsat all times.○ Pilotmanagesthedescentandaimsforapointsoastomakeasafe,controlledlanding(ifperformedatanairport),ordiscontinuestheapproachat500ftAGL,atthediscretionoftheinstructor.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+FurtherReading
+BestGlidevsWind(expanded)● Thereasonthatglideperformancedependsonwindisthatanairplane’sbestglidespeediscalculatedsuchthattheairplanetravelsthefurthestdistanceintotherelativewindforagivenamountofaltitudelost. However,whenanairplaneglidesintothewind,someofitsforwardmotionalongthegroundisineffect‘lost’duetotheheadwind. Thisresultsinasituationwhere,inastrongheadwind,theairspeedwhichresultsinthelongestglidedistanceacrossthegroundishigherthantheairspeedthatresultsinthemostglidedistanceintothewind.○ Example:Imagineascenariowithanairplanewithabestglidespeedof 50ktsanda8:1glideratio. Forevery1,000feetofaltitudelost,theairplanewilltravel8,000feetintotherelativewindwhenflyingatbestglidespeed. At50kts,theairplanewilltravel~5,063feetperminute(50nm/hrx6,076ft/nm/60min/hr) throughtherelativewind. Theairplanebeginsitsglideat1,000feet.■ NoWind-Theairplanewouldreachthegroundin~1minute,35seconds,andcover8,000feet throughtherelativewind,and8,000feetovertheground.■ 25kt Headwind-Theairplanewouldreachthegroundat thesametime,1minute,35seconds,traveling8,000feetthroughtherelativewind,but only4,000feet over theground.(25ktgroundspeedduringtheglide)
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_b_-_emergency_approach_and_landing_simulated.pdf>>>
+========================================
+
+PPL(IX-B) / CAX(IX-B) / CFI (XII-B)11
+■ 50kt Headwind-Theairplanewouldreachthegroundagainat thesametime,1minute,35seconds,traveling8,000feetthroughtherelativewind,buttravel 0feet overtheground.(0ktgroundspeedduringtheglide)○ Considerfurthernowthatataspeedof 60kts,thesameairplanehasaslightlyworse7.5:1glideratio. Forevery1,000feetofaltitudelost,theairplanewilltravel7,500feetintotherelativewindwhenflyingatthisspeed. At60kts,theairplanewilltravel~6,076feetperminutethroughtherelativewind. Theairplanebeginsitsglideagainat1,000feet.■ NoWind-Theairplanewouldreachthegroundin~1minute,14seconds,andcover7,500feetthroughtheair,and7,500feetovertheground,whichis500feetlessglideperformance.■ 25ktsHeadwind-Theairplaneagainglidesin~1minute,14seconds,coveringthesame7,500feetthroughtheair,butnowcovers4,666feet over theground. (35ktgroundspeedintheglide) Thisisanimprovement of over 600feet intotal glideover theground!■ 50ktsHeadwind-Theairplaneagainglidesin~1minute,14seconds,coveringthesame7,500feetthroughtheair,butnowcovers1,333feet over theground. (10ktgroundspeedintheglide) Thisisanimprovement of over 1,300feet intotal glideover theground!○ Noticethat,foragivenspeedandglideratio,theamountoftimethattheairplaneremainsaloftremainsthesame. Theairplane‘feels’onlytherelativewind.○ Alsonoticethat,foragivenspeedandglideratio,theamountofdistanceintotherelativewindtheairplanetravelsremainsthesame,regardlessofwind,howeverthedistancetraveledoverthegroundvariesgreatly.● Thiscanbeplottedusinga‘polarcurve’
+● See:https://www.wikiwand.com/en/Polar_curve_(aerodynamics)
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

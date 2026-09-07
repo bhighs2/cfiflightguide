@@ -1,0 +1,157 @@
+DOCUMENT_TITLE: binns_task_b_-_constant_airspeed_climbs_instrument
+SOURCE_FILE: binns_task_b_-_constant_airspeed_climbs_instrument.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)1
+ConstantAirspeedClimbs(Instrument)
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheconstantairspeedclimbbasicinstrumentmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Althoughnon-instrumentratedpilotsshouldneverenterinstrumentconditions,weatherchangesrapidlyandmistakeshappen. Thismaneuverteachesthebasicinstrumentflyingskillsnecessarytosurviveaninadvertentencounterwithbelow-VFRconditions,andintroducespilotstotheinstrumentscanandthestepsinvolvedinestablishingaclimboninstruments.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight1:20minutes- IntroductiontoManeuver■ Flight2:10minutes- ImproveProficiency(Dual)● Pre-Checkride■ Flight3:10minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● Whiteboard/Markers(optional)● Foggles/Hood
+StudentActions InstructorActions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeoftheconstantairspeedclimbinstrumentmaneuverandhowthevariousinstrumentsareusedtomaintaincontrolduringthemaneuver.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Establishesaconstantairspeedclimbatanappropriateclimbairspeedsolelybyreferencetoinstruments.● Levelsoffatanaltitude±200feet,heading±20°,andairspeed±10knots.○ CFI Applicantsonly:Levelsoffatanaltitude±100feet,heading±10°● Dividesattentionbetweenaccurate,coordinatedairplanecontrolandinstrumentscanandcross-check.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)2
+References
+● alexaviation-“InstrumentFlyingIntroduction”○ YouTube-https://www.youtube.com/watch?v=aXjCk-ZBF1c● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page5-6[IntegratedFlightInstruction],Chapter3,Page6-9[StraightandLevelFlight]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter8,Page3-4[Altimeter],Chapter8,Page8-9[AirspeedIndicator],Chapter8,Page17-18[TurnCoordinator],Chapter8,Page18-19[AttitudeIndicator]● FAA-H-8083-15B(InstrumentFlyingHandbook)-Chapter3,Page2-5[SensorySystemsforOrientation],Chapter3,Page5-7[IllusionsLeadingtoSpatialDisorientation],Chapter5,Page19-21[GyroscopicInstruments],Chapter6,Page4-8[AttitudeInstrumentFlying/PrimaryandSupporting],Chapter6,Page10-13[InstrumentCross-Check/Interpretation],Chapter7,Page14-17[StraightClimbsandDescents]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVIIITaskB● FAA-S-ACS-25(CFIACS)-AreaXITaskB
+GroundLessonOutline
+● IntroductiontoBasicAttitudeInstrumentFlying○ SituationstoAvoid● YourSensesCannotBeTrusted○ TheVestibularSystem,RelyontheFlightInstruments● TheFlightInstruments-IncludingLimitationsandPotentialErrors○ PitchInstruments-AttitudeIndicator,Altimeter,VerticalSpeedIndicator,AirspeedIndicator○ BankInstruments-AttitudeIndicator,DirectionalGyro,TurnCoordinator○ PowerInstruments-AirspeedIndicator,Tachometer● TheInstrumentScan○ PrimaryandSupportingInstruments,ScanTechniques,Cross-Check○ ErrorsofFixationofOmission● Pitch+Power=Performance○ ImportanceofTrim● PhasesofanInstrumentClimb○ EstablishClimb○ StableClimb○ BeginLevel-Off○ Re-EstablishCruiseFlight● ManeuverDescription-step-by-step○ Altitude,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● “Fixation,”“omission,”and“emphasis”errorsduringinstrumentcross-check.● Improperinstrumentinterpretation.● Impropercontrolapplications.● Failuretoestablishproperpitch,bank,orpoweradjustmentsduringheadingandairspeedcorrections.● Improperentryorlevel-offprocedure.● Faultytrimprocedure.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)3
+GroundLessonContent
+● IntroductiontoBasicAttitudeInstrumentFlying-AlthoughaPrivatePilotcertificatedoesnotallownewpilotstoflyininstrumentconditions,situationsmightoccurwhenpilotsunexpectedlyfindthemselvesintheseconditions:aninadvertentencounterwithanunseenormisjudgedcloud,deterioratingweatherconditions,etc. Intheseconditions,pilotsneedaminimalamountoftrainingtogivethemthetoolstoescapethesesituations. TheprimarygoalofBasicAttitudeInstrumentFlyingatthePrivatePilotlevelistoallowthepilottomakea180degreeturnandreturnbacktovisualconditions.○ SituationstoAvoid-Althoughitmayseemobvious,thenumberonewaytoavoidadangeroussituationasanon-instrumentratedPrivatePilotistoavoidcontinuingintosituationswheretheweatherisunknown,orrapidlychanging. Somesituationsthatshouldbeavoided:■ NightVFRinthepresenceoflowclouds■ ContinuedVFRflightinareasoflowcloudceilingordeterioratingconditions
+■ EarlymorningorearlyeveningVFRflightwhenthetemperatureanddewpointareveryclosetogether(creatingahighriskoffog)■ VFRflightaboveasolidcloudlayer(Howtogetdown?)○ MaintainControl-Thefirstskillpilotsmustdevelopinordertosafelyexitinstrumentconditionsistheabilitytoflytheairplanestraight-and-level. Althoughpilotsmayhaveverylittletroublewiththisinvisualconditions,thisisanextremelychallengingskilltomastersolelybyreferencetotheflightinstruments.● YourSensesCannotBeTrusted-Themostchallengingaspectoftransitioningtoflyingoninstrumentsisthatpilotsareaccustomedtorecognizingthesensationstheirbodyisexperiencingduringflight. Somethingfeelslikeaturn,or feelslikeaclimb. However,pilotsmustrealizethathumanperceptionoforientationandmotionisextremelylimitedwhenoutsidevisualreferencesarenotpresent! Thehumanbodysensesmotionusingsomethingcalledthevestibular system.Thevestibularsystemprimarilysensesaccelerationsinone
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)4
+directionoranother. Itcangenerallysenserotationormovement,andwiththeaidoftheothersenses(primarilyvision),thebrainmaintainsaconceptofthebody’sorientationandmotion. However,likeaheadingindicatorwhichdriftsovertime, without continual reinforcement fromoutsidevisualreferences,thebody’ssenseof“whichwayisup”or“whichwayamIgoing?”graduallydriftsovertime.
+○ RelyontheFlightInstruments-Theonlysolutiontomaintainingcontrolininstrumentconditionsistorelyontheflight instruments. Theflightinstrumentsarenotsubjecttothesameerrorsasthevestibularsystemandprovideamuchmorereliable,accuraterepresentationoftheaircraftattitude.
+● TheFlightInstruments-Mostairplaneswithconventionalinstruments(ofteninformallycalledsteamgauges)areequippedwithastandard“6pack”offlightinstruments. Theseare,fromlefttoright,toptobottom:theairspeedindicator,theattitudeindicator,thealtimeter,theturncoordinator,thedirectionalgyro,andthevertical speedindicator. Thereisalso,elsewhereontheinstrumentpanel,atachometer,whichgivesenginepowerindications. Theseinstrumentsgivethepilotinformationabout pitch,bank,andpower.
+○ PitchInstruments-Theinstrumentswhichdisplaypitchinformationaretheattitudeindicator,thealtimeter,theairspeedindicator,andtheverticalspeedindicator.■ AttitudeIndicator-Theattitudeindicatorisaninstrumentwhichusesagyroscopeandusesthepropertyofgyroscalledrigidityinspace. Itistheonlyinstrumentwhichprovidesadirect indicationof aircraft attitude. Itisoftencalledanartificial horizonbecauseitactsverysimilarlytothenaturalhorizon. Whenflyingoninstruments,itisgenerallythemostimportantinstrumentformaintainingstraightandlevelflight. Itusuallyhasmarkingsforevery5degreesofpitch. Moststandardinstrumentmaneuverswilltakeplacewithin+/-10degreesofpitch. Theattitudeindicatorisaself-correctinginstrument,andasthegyroscopeprecesses(isaffectedbyfriction),itmakessmallcorrectionstoremainupright.● LimitationsandPotentialErrors:Theattitudeindicatorisoftendrivenbyavacuumpumpintraditional“6pack”layouts. Vacuumpumpfailurecanproduce
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)5
+aslowdriftingfailuremode,wheretheattitudereadsincorrectly. Propercross-checkisvital!
+■ Altimeter-Thealtimeterprovidespitchinformationbecauseitdisplaysthecurrentaltitude. Anaircraftwhichisclimbinghashigherpitch,resultinginanincreasingaltimeterreading,andanaircraftwhichisdescendinghasalowerpitch.● LimitationsandPotentialErrors:Altimetersaresensitivebarometersandmeasurepressure. Coldweather‘compresses’thesepressurelevels,causingincorrectlyhighreadings!
+■ AirspeedIndicator-Theairspeedindicatorprovidespitchinformationbecausewhenpitchisincreasing,theairspeedtendstodecrease,andvice-versa. Additionally,iftheairplaneisflyingataknownpowersetting,aslowerthannormalairspeedlikelyindicatesaclimb,andsoon.● LimitationsandPotentialErrors:Airspeedindicatorsrelyonvalidpitottubeinput. Pitottubeobstructions(bugs,icing)willcauseittoreadincorrectly. Additionally,thedesignoftheaircraftcausesa(small)inherenterror. (SeePOHCAStoIAScorrectiontables.)
+■ VerticalSpeedIndicator-Theverticalspeedindicatorshowspitchinformationbecauseitdirectlyindicatestherateofclimbordescent. (Indicatedinhundredsoffeetperminute) Aclimbingairplanehasahigherpitch,andadescendingairplanehasalowerpitch.● LimitationsandPotentialErrors:TheVSIisatrendinstrument,meaningthatitwilllagslightlybehindwhatisreallyhappening.
+○ BankInstruments-Theinstrumentswhichdisplaybankinformationaretheattitudeindicator,thedirectionalgyro,andtheturncoordinator.■ AttitudeIndicator-Becausetheattitudeindicatorshowstheaircraft’sattitudedirectly,theattitudeindicatorisalsoabankinstrument. Whenflyingoninstruments,itisgenerallythemostimportantinstrumentformaintainingstraightandlevelflight. Itusuallyhasmarkingsforevery10degreesofbank. Moststandardinstrumentmaneuverswilltakeplacewithin+/-15degreesofbank. Maintainingwingslevelisoftenthemostimportantandchallengingtaskwhenflyingoninstruments.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)6
+■ DirectionalGyro-Thedirectionalgyro(or DG)isanothergyro-basedinstrumentwhichoperatesontheprincipleofrigidityinspace.Thedirectionalgyroissettotrackthemagneticcompass,anddisplaysthecurrentairplaneheading.Unliketheattitudeindicator,thedirectionalgyroisnotaself-correctinginstrument,andmustbeperiodicallyresetbythepilottomatchittothemagneticcompass. Thedirectionalgyroprovidesabankindicationbecauseanairplanewhichisbankingisalsochangingheading. (TheDGwillbeturning)● LimitationsandPotentialErrors:TheDirectionalGyroisalsotraditionallyavacuum-driveninstrument,andwillalsoslowlydrift(duetogyroscopicprecession)duringflight. Itneedstobecorrectedtothemagneticcompassperiodicallyduringflight. Additionally,avacuumfailurewillcausethedrifttoaccelerateastheinstrumentfailstotally.
+■ TurnCoordinator-Theturncoordinatorisyetanothergyroscopicinstrumentwhichalsodependsonrigidityinspaceandapropertycalledprecession. Whentheairplaneturns,thegyroscopeisturnedwithit,causingitto‘precess’,meaningitappliesaforceinadifferentwhichcanbemeasured. Theturncoordinatorprovidesabankindicationbecauseitshowstherateofturn. Anairplanewhichisturningisalsobanked. Theangledmarksontheindicatorrepresentarateofturnof3degreespersecond. Whenturningatthisrate,theairplanewillmakeafull360degreeturnin2minutes. Thisiscalledastandardrateturn,andisusedforallturnsininstrumentconditions.● LimitationsandPotentialErrors:Theturncoordinator(asopposedtoa‘needle’rateofturnindicator)doesshowsomebankinformation,butonlytemporarily. Becausetheinternalgyroistiltedinternally,duringaturnitinitiallyshowsbankinformation,butastheturnstabilizes,itshowsrateof turnonly.Typicallytheseareelectricallypowered,whichmeansthattheyfailwhenpowerfails.
+○ PowerInstruments-Theinstrumentswhichdisplaypowerinformationarethetachometerandtheairspeedindicator.■ AirspeedIndicator-Theairspeedindicatorgivesanindicationofpowerbecause,whentheairplaneisflyingstraightandlevel,orinalightly-bankedturn,theairspeedisprimarilyrelatedtotheenginepowersetting.■ Tachometer-Thetachometergivesadirectreadingofthepowerbeingproducedbytheairplaneengine. Pilotsshouldbefamiliarwiththeirairplaneandthecommonly-usedpowersettingsforlevelflight,climbs,descents,andturns.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)7
+● TheInstrumentScan-Whenattemptingtomaintainaircraftcontrolusinginstruments,pilotscannotjusthaphazardlyglancefromoneinstrumenttoanother. Inordertomaintaincontroloftheairplane,thepitch,bank,andpowerinstrumentsneedtobescannedinaparticularpatterninordertoensurethatnosingleinstrumentgetsignored. Differentmaneuversalsorequiremoreorlessemphasisoncertaininstruments. Thisscanningpatterniscalledtheinstrument scan,orinstrument crosscheck.○ PrimaryandSecondaryInstruments-Dependingonthemaneuver,certaininstrumentsprovidemorepertinentinformation. Ingeneral,theprimaryinstrumentsshowthevaluethatthepilotistryingtoholdsteady,whilethesecondary(or supporting)instrumentsshowtheprogressofthemaneuver.○ ScanTechniques-Oneofthemostwidelyusedinstrumentscanningpatternsistheradialscan,whichconcentratesontheattitudeindicator. Theattitudeindicatoristhemostimportantinstrumentformostmaneuversbecauseitprovidesadirectindicationoftheairplane’sattitude.Theradialscanbeginsattheattitudeindicator,andmovestoaprimaryinstrument,thenbacktotheattitudeindicator,andrepeats,thenmovesontothesecondaryinstruments,andbacktotheattitudeindicator,etc. Theprimaryinstrumentsgetscannedmoreoften,andtheattitudeindicatorisscannedinbetweeneveryotherinstrument. Forexample,forstraightandlevelflight,theprimarypitch(altimeter)andprimarybank(directionalgyro)getscannedmoreoften.(Denotedbyred)
+○ CrossCheck-Anothernameforaninstrumentscanisthecrosscheck. Itisimportantthatpilotsevaluatetheindicationstheyarereceivingfromtheflightinstrumentstoensurethattheyagreewithwhatisexpected! Forexample,iftheattitudeindicatorindicatesaclimb,buttheaircraftisnotclimbing,thepowersettingmaybeincorrect,etc.○ ErrorsofFixationorOmission-Averycommonerrormadebypilotswhenstartingtoflyoninstrumentsisfixationonaparticularinstrument(usuallytheattitudeindicator),ortheomissionofaninstrumentfromtheirinstrumentscan. Itiscrucialthatallflightinstrumentsbeincludedinthescan.■ For example:Apilotwhofixatesontheattitudeindicatorwhentryingtomaintainstraightandlevelflightmaynotnoticelargedeviationsofheadingoraltitude. Apilotwhoneverscanstheairspeedindicatormaybesuccessfullymaintainingstraightandlevelflight,butanincorrectpowersettingmayresultintheairspeeddecayingdangerously.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)8
+● Pitch+Power=Performance-Thereisasayingininstrumentflyingthat“pitch+power=performance”. Ingeneral,agivenpitchandpowersettingwillproduceagivenairspeedandclimbordescentrate. Itisimportantthatpilotsgettoknowtheirparticularairplane. If2,400RPMisthenormalcruiseflightinanairplane,buttheairplaneisclimbing,thatisanimportantcluethattheairplanemaybepitchedtoosteeply,ortrimmedincorrectly.
+○ ImportanceofTrim-Propertrimiscrucialforsuccessfulflightoninstruments. Theairplaneshouldalwaysbetrimmedsothatitcanbeflownhands-freeornearlyhands-free,whichwillfreethepilottomomentarilyconcentrateonothertasks,suchasexecutinga180degreeturntoexitinstrumentconditions,communicatingtoATC,ornavigating. Instrumentflightmaneuversaremoregentlethannormalvisualmaneuverstopreventpilotdisorientation,sopropertrimallowspilotstouselighter,moreprecisecontrolpressures.
+● PhasesofaClimbonInstruments-Thereare4distinctstagesofperformingaclimbusinginstrumentreferences:○ EstablishingaClimb-Increasepowertoclimbpower,establishaclimbingpitch.■ PrimaryInstruments● Pitch-AttitudeIndicator- Establishaclimbingattitudeandholdit.● Bank-DirectionalGyro- Headingshouldremainsteady.● Power-Tachometer- Power shouldbeset for climb.■ SupportingInstruments● Pitch-VerticalSpeed,AirspeedIndicator- Vertical speedshouldbegintoincrease, airspeedshoulddecrease.● Bank-AttitudeIndicator,TurnCoordinator- Shouldremainsteady.● Power-n/a
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)9
+○ StableClimb-Holdconstantairspeedduringtheclimb.■ PrimaryInstruments● Pitch-AirspeedIndicator- Airspeedshouldremainsteady. Anycorrectionsshouldbemadewithpitch.● Bank-DirectionalGyro- Shouldremainsteady.● Power-Tachometer- Shouldremainsteady.■ SupportingInstruments● Pitch-AttitudeIndicator,Altimeter,VerticalSpeed- Shouldindicateaclimbingattitude, andincreasingaltitude.● Bank-AttitudeIndicator,DirectionalGyro- Shouldremainsteady.● Power-n/a
+○ BeginLevel-Off-Begintoreducepitch100-150’beforethetargetaltitudetoleveloffandacceleratetocruisespeed.■ PrimaryInstruments
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)10
+● Pitch-VerticalSpeed- Pitchtoreducevertical speedtozero(level).● Bank-DirectionalGyro- Shouldremainsteady.● Power-AirspeedIndicator- Airspeedshouldincreasetowardscruisespeed.■ SupportingInstruments● Pitch-AttitudeIndicator- Shouldindicatealevel flight attitude.● Bank-AttitudeIndicator,DirectionalGyro- Shouldremainsteady.● Power-n/a
+○ Re-EstablishCruiseFlight-Establishstraightandlevelpitchandairspeed,reducepowertocruisepower.■ PrimaryInstruments● Pitch-Altimeter- Shouldremainsteady.● Bank-DirectionalGyro- Shouldremainsteady.● Power-AirspeedIndicator- Shouldindicateacruisepower setting.■ SupportingInstruments● Pitch-AttitudeIndicator,VerticalSpeedIndicator- Shouldindicatelevel flight.● Bank-AttitudeIndicator,DirectionalGyro- Shouldremainsteady.● Power-Tachometer- Shouldindicateacruisepower setting.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)11
+ManeuverDescription● Preparation-Instructororexaminerwilltakecontroloftheplanewhilethepilotputsonthefogglesorhood.● Scan-Begintheinstrumentscan/crosscheckandmaintaincontrolledflightbycontinuouslyreferencingtheflightinstruments.● EstablishClimb-Establishaclimbatanappropriateclimbairspeedandpowersetting.● Airspeed-Maintainaconstantclimbairspeed+/-10knots.● Altitude-Leveloffatanaltitudespecifiedbytheinstructororexaminer,+/-200feet,bymanagingthepitch,power,andtrim.● Heading-Maintaintheentryheading,oranyheadingspecifiedbytheinstructororexaminer,+/-20degrees,bymanagingthebank.● Recovery-Level-offandre-establishcruiseflightatthealtitudespecified.● StallAwarenessandCoordination-Thestallindicatorshouldneverbeheardduringinstrumentflyingmaneuvers. Additionally,propercoordinationisessential. Astallwhenininstrumentconditions,particularlyanuncoordinatedstall,isunlikelytoberecoverable.● Neverattemptthismaneuversolo!-Theinstructororexaminerwillactaswhatiscalledasafetypilot,andwillberesponsibleforallvisualtrafficscanning,collisionavoidance,etc.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheconstantairspeedclimbsinstrumentmaneuverandhowthevariousinstrumentsareusedtomaintaincontrolduringthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotestablishesaconstantairspeedclimbatanappropriateclimbairspeedsolelybyreferencetoinstruments.○ Pilotlevelsoffatanaltitude±200feet,heading±20°,andairspeed±10knots.■ CFI Applicantsonly:Levelsoffatanaltitude±100feet,heading±10°
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_b_-_constant_airspeed_climbs_instrument.pdf>>>
+========================================
+
+PPL(VIII-B)/CAX/CFI(XI-B)12
+○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandinstrumentscanandcross-check.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

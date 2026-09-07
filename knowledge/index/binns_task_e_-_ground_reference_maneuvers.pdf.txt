@@ -1,0 +1,156 @@
+DOCUMENT_TITLE: binns_task_e_-_ground_reference_maneuvers
+SOURCE_FILE: binns_task_e_-_ground_reference_maneuvers.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)1
+GroundReferenceManeuvers
+Objective
+ToensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthethreerequiredPrivatePilotgroundreferencemaneuversandhowtoperformthemaneuversproperly.
+Purpose
+Therectangularcoursemaneuversimulatesthepatternthatwewillflywhenlandingatanairport. Itintroducestheconceptoftheairporttrafficpattern,trafficpatternentry,anddemonstratestheeffectofwindontheairplane’sgroundtrack,aswellascorrectionsnecessarytocounteractthewind. TheS-TurnsandTurnsAroundaPointmaneuversaremoreadvancedgroundreferencemaneuvers,demonstratinghowwindgreatlyaffectsturnradius,andrequiringthepilottovarybankangletomaintainadesiredgroundtrackastherelativewinddirectionchanges. Theyalsobuildskillsrelatedtoaircraftcoordinationthroughawiderangeofbankangles.
+Schedule Equipment
+● GroundLesson:30minutes● Initial■ Flight 1:60minutes- IntroductiontoManeuvers■ Flight 2:60minutes- ImproveProficiency(Dual)● Solo■ Flight 3:40minutes- ImproveProficiency● Pre-Checkride■ Flight 4:30minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● n/a
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideos.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuversandhowtoexecutethemproperly.● Flight:StudentcanperformthemaneuverstotheapplicableACSstandards.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)2
+References
+● ERAUSpecialVFR-“TrafficPatterns”○ YouTube-https://www.youtube.com/watch?v=w_Bbs4K7L5U● ERAUSpecialVFR-“STurns”○ YouTube-https://www.youtube.com/watch?v=JEVKxX3CVK4● ERAUSpecialVFR-“TurnsAroundaPoint”○ YouTube-https://www.youtube.com/watch?v=YzNSBTxH_Cs● AIM-2024-03-21(AeronauticalInformationManual)-Page187-189[TrafficPatterns,Entry]● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter7,Page5-7[RectangularCourseManeuverDescription],Chapter7,Page8-10[S-TurnsManeuverDescription],Chapter7,Page7-8[TurnsAroundAPointManeuverDescription]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVTaskB● FAA-S-ACS-25(CFIACS)-AreaIXTaskE
+GroundLessonOutline
+● GroundReferenceManeuvers○ Selectingthegroundreferences○ Coordination○ Safetyconsiderations■ Useofchecklists■ EmergencyLandingArea■ Visualtrafficscanning● TheRectangularCourse○ Headingvs.Course○ WindCorrectionAngle○ AirportTrafficPatterns■ Upwind,Crosswind,Downwind,Base,Final○ ManeuverDescriptions-step-by-stepandExpandedCompletionStandards● S-Turns○ TwoLoops-DownwindandUpwind,GroundspeedandBankAnglevs.Rate/RadiusofTurn○ ManeuverDescriptions-step-by-stepandExpandedCompletionStandards● TurnsAroundAPoint○ TwoHalves-UpwindandDownwind,GroundspeedandBankAnglevs.Rate/RadiusofTurn○ ManeuverDescriptions-step-by-stepandExpandedCompletionStandards
+CommonErrors
+● Failuretoadequatelycleartheareaabove,below,andoneithersideoftheairplaneforsafetyhazards,initiallyandthroughoutthemaneuver.● Selectionofagroundreferencewherethereisnosuitableemergencylandingareawithinglidingdistance.● Failuretoproperlyassesswinddirection.● Failuretoestablishaconstant,levelaltitudepriortoenteringthemaneuver.● Failuretomaintainaltitudeor airspeedduringthemaneuver.● Failuretomanipulatetheflightcontrolsinasmoothandcontinuousmanner.● Failuretoproperlydivideattentionbetweencontrollingtheairplaneandmaintainingproper orientationwiththegroundreferences.● Failuretoexecuteturnswithaccuratetiming.● Uncoordinateduseof flight controls.● Improper correctionfor winddrift.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)3
+GroundLessonContent
+● GroundReferenceManeuvers-Thesemaneuversaregroundreferencemaneuvers,meaningtheyareperformedbyreferencetoprominentfeaturesontheground.○ SelectingaGroundReference-Itiscrucialtoselecteasytoidentifygroundfeatureswhichareinanunpopulatedareaandclearofhazardsontheground. Donotchoosethingslikehousesorotheroccupiedstructuresasreferences,asthiscouldcauseanuisance. Becausethesemaneuversareperformedsoclosetotheground(below1,000ft AGL), makesurethat thechosengroundreferencesarenear asuitableemergencylandingarea, asglidingdistancewillbealmost zero.○ Coordination-Becausethesemaneuversareflownclosetothegroundandinvolveturning,itisimportanttopaycloseattentiontoflyingwithpropercoordination. Astheairplanerollsintoandoutofturns,theruddermustbeusedtokeep‘theball’inthecenter. Thisavoidsslipsandskids,whichcreatetheriskofastallorspin. Theturncoordinateisshownbelow:
+○ SafetyConsiderations■ Checklists-Pilotsshouldcompleteapre-maneuverchecklistbeforebeginningthemaneuver.■ EmergencyLandingArea-Duetotherisksinvolvedwithmaneuveringatlowaltitude,pilotsshouldselectasuitableemergencylandingarea.■ Visual TrafficScanning-Pilotsmustremembertokeepuptheirtrafficscanthroughoutthemaneuver.
+RectangularCourse● TheRectangular Course-Therectangularcoursegroundreferencemaneuverisabasicbuildingblockofapilot’sskillset. Itisnothingmorethanitsounds:flyingarectangularcourseovertheground.Thechallengeofthismaneuver,however,isthatairplanesflywithintheair,whichisnearlyalwaysmoving. Simplypointingatagroundlandmarkandflying‘towards’itwillresultintheairplaneflyingalonger,curvedpath. Asanairplanefliesthroughtheair,inordertotrackastraightline,calledacourse
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)4
+line,theymustflyatananglerelativetothelinewhichcounteractstheeffectsofthewind. Thisiscalledawindcorrectionangle,orWCA.
+● Everytimeanairplanelands,youcanseethisatwork…theaircraftbelowmustflyatanangleinordertoflydirectlydowntherunway:
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)5
+● Airport TrafficPatterns-Therectangularcoursemaneuverisrelatedtotakeoffandlanding. Itaimstosimulatetheshapeofsomethingcalledanairport trafficpattern. Anairporttrafficpatternissimplyarectangle,withoneofthelongsegmentsalignedwiththerunway. Imagineanairplanethatwouldtakeofffromarunway,and‘circleback’tolandagainonthesamerunway. Doingsowouldbecalled‘flyingapattern’. Atrafficpatternisusedtoorganizetheflowoftraffictakingoffandlandingonthesamerunway,andhas5‘legs’:○ Upwind/Departure-Astheairplanetakesoff,thefirstportionoftheflight,inthesamedirectionastherunway,iscalledthe‘upwind’or‘departure’leg. Itiscalledthisbecausenormallyairplaneschoosetotakeoffonarunwaywhichfacesintothewind.○ Crosswind-Astheairplaneclimbs,usuallyonceithasreached700ftabovetheground,itturnsleft. Thisiscalled‘crosswind’,asthelegisacrossthewind.○ Downwind-Astheairplanecontinuesinthepattern,itturnsleftagain,nowfacingoppositeofhowitbegan. Thisisusuallywiththewind,meaningthewindisblowingfrombehind,andthisiscalled‘downwind’.○ Base-Astheairplanepreparestoland,itbeginstodescendandturnsleftagain,onceitisfarenoughfromthelandingrunway. Thisiscalledthe‘base’leg,becausethislegisthebasisfor,anddetermineshowthenext,finalapproachleg,willbestarted.○ Final-Theairplaneturnsleftoncemoretoalignwiththerunway. Thisisessentiallythesameasthe‘Upwind’leg,buttheairplaneislandinginsteadoftakingoff.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)6
+● Becausetherectangularcoursemaneuverisflownwithoutdescending, theUpwindandFinal legscanbeconsideredthesame. Themaneuverisgenerallyflownasasimplifiedformofpracticeforflyingactualtrafficpatternsfortakeoffandlandingatanairport.● Asasimulationforanairporttrafficpattern,thismaneuvershouldbeflowninaconfigurationsimilartohowonewouldnormallyflythe‘downwind’legofapattern:inacleanconfiguration,andatamoderateairspeed,usuallylessthancruise.● FlybyReferencetotheGround! -Themaneuverisagroundreferencemaneuver,meaningitisperformedbyreferencetoaprominentfeatureontheground. Inthecaseofthismaneuver,thiscanbeanylarge,rectangulararea,inasuitablelocation,awayfrompopulatedareasandwithinglidingdistanceofanemergencylandingsite.● Themaneuverisflownwiththeairplaneremaining½to¾milesoutsideoftherectangulararea. Theturnsshouldbetimedsothattheycanbecompletedwithoutflyingbeyondthedesiredrectanglecourse.
+● WindCorrection-Themainchallengeofthismaneuverisdeterminingthewindcorrectionangle. Thistakessomepractice,butthemaintaskisdeterminingthedirectionofthewinditself(lookforsmoke,flags,etc),andthenvisuallyestimatinghowdifferentwindcorrectionanglesaffectthegroundtrackoftheairplanebytrialanderror.
+RectangularCourseManeuverDescription● Select aRectangular GroundReference-Selectaprominentrectangulararea,whichisideallyatleast½milewideand1milelong,andiseasytoidentify. Itshouldbeinanunpopulatedareawithgoodemergencylandingoptionsandclearofhazardsontheground. Rectangularfieldswhichare
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)7
+easytodistinguish,orboundedbyroadsonallsidesareideal. Thegoalistoreplicateanairporttrafficpattern,andsotherectangularcourseshouldbelargeenoughtorealisticallysimulatethis.
+● EntryPositionandHeading-First,thewinddirectionshouldbeidentified. Lookforsmoke,flags,orothersignsofsurfacewinddirection. Ifnoneareavailable,theATISorMETARofalocalairportcanbeusedtoestimate. Plantoenterthedownwindlegata45degreeangle,andwhen½to¾ofamilefromthefieldboundarymarkingthedownwind,turntojointheleg.● Altitude-Thismaneuvershouldbeperformedat 600to1,000ft AGL.● Bank-Sincethismaneuversimulatesanairporttrafficpatternandinvolvesmaneuveringatlowaltitude,thebankangleshouldbelessthan30degrees.● Course-Applywind-driftcorrectionandtracktherectangulararea, remaining½to¾of amileoutsidethefieldboundary.● Airspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVa. Ideally,performthisatanormaltrafficpatternairspeed.● Coordination-Theentiremaneuvershouldbeflownincoordinatedflight. Attentionshouldbegiventoproperrudderinputduringturns.● Recovery-Recovertostraightandlevelflightaftermakingonefullcircuitoftherectangulararea,unlessspecifiedbytheinstructor.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthegroundreferences. Inparticular, thisisaverylowaltitudemaneuver. Keepacareful watchfor obstructionsor other groundhazards.
+RectangularCourseExpandedCompletionStandards● ThepilotcanexplainthepurposeoftheRectangularCoursegroundreferencemaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanappropriatealtitudeformaneuverentry, between600and1,000feet AGL.○ Pilotselectsasuitablegroundreferencearea,withlandmarksapproximatingarectangulararea.○ Pilotentersthemaneuverona45degreesegmenttothedownwindleg.○ Pilotappliesproperwindcorrectiontomaintainstraightlegsandfliesarectangularpatternaroundthegroundreferences.○ Pilotmaintainsaltitude+/-100feet,maintainsairspeed+/-10knots○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+S-Turns● S-TurnsAcrossaRoad-TheS-TurnsAcrossaRoadmaneuverisamoreadvancedgroundreferencemaneuverthatmainlydemonstratesthatcorrectingforwindinturnsrequiresadjustingthebankangle. Theobjectofthemaneuveristoflytwosemicirclesor‘loops’ofconstantradius,crossingareferenceline(road,canal,etc.)withthewingslevelexactlyattheendofeachloop,andthenperformingaloopintheoppositedirection.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)8
+● Wind, Bank, andRateof Turn-Duringstraight-and-levelflight,anairplanecancorrectforthewindbyflyingatawindcorrectionangle,howeverduringturningflight,thistacticdoesn’twork. Instead,therateof turn,andthereforethebankangle,isusedtokeeptheairplaneflyingonthedesiredgroundtrack.● Astheairplanefliesintothewind,or upwind,itfliesslowerovertheground,andthereforeneedslessrateofturn. Astheairplaneflieswiththewind,or downwind,itneedsmorerateofturn. Anairplanewhichdoesnotcorrectforthewindduringturnswillinsteadflyanirregularlycurvedpath:
+● FlybyReferencetotheGround!-Themaneuverisagroundreferencemaneuver,meaningitisperformedbyreferencetoaprominentlineontheground. Forthismaneuver,anyprominentlineonthegroundcanbechosen,aslongasitisinarelativelyunpopulatedarea. Becausethemaneuverwillbeflownclosetotheground,itshouldbechosenwithinglidingdistanceofanemergencylandingsite.● Beforethemaneuvercanbestarted,thewinddirectionneedstobedetermined. Lookforsmoke,flags,orotherindicationsofwindontheground. Themaneuverisstartedonthedownwindportion,meaningtheairplaneisflyingwiththewind.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)9
+● Theairplaneshouldbeginfarenoughawayfromthelinesothatitcanbeflyingstraightandlevel,directlydownwind,andcrossperpendiculartotheline.● TwoLoops-Themaneuvercanbebrokenintotwoloops:○ Downwindloop-Startaturninthedesireddirection. Initiallyasteepbankangleisrequired,withthebankanglegraduallyreducingastheairplaneapproachesthe180degreepoint,headingbackupwindtocrossthereferencelineagain.○ Upwindloop-Startaturnintheoppositedirection. Initiallyaveryshallowbankangleisrequired,withthebankanglegraduallyincreasingastheairplanereturnstothedownwindportion,completingtheloopandcrossingthereferencelineagain.● Symmetry-Theprogressoftheturnshouldbemonitoredvisually,continuouslyglancingbetweenthereferencelinetojudgethesymmetryoftheloopsandtheflightinstruments. Thegoalistomaintainthesymmetricloopsbycontinuallychangingthebankangle,andtomaintainthesamealtitudeandairspeedasatthebeginningofthemaneuver. Theairplaneshouldcrossthereferencelineperpendiculareachtime.● Anynormalcruiseairspeedbelowmaneuveringspeed(Va)canbechosen,andthemaneuverisnormallyflowninthecleanconfiguration.
+S-TurnsManeuverDescription● SelectingaGroundReference-Selectaprominentlinefeatureontheground,whichiseasytoidentify. Itshouldbeinanunpopulatedareaandclearofhazardsonthegroundandwithgoodemergencylandingoptions. Along,straightroadisusuallyagoodchoice.● EntryPositionandHeading-First,thewinddirectionshouldbeidentified. Lookforsmoke,flags,orothersignsofsurfacewinddirection. Ifnoneareavailable,theATISorMETARofalocalairportcanbeusedtoestimate. Plantoenterthedownwindportionofthemaneuver,perpendiculartothereferenceline.● Altitude-Thismaneuvershouldbeperformedat 600to1,000ft AGL.● Bank-Sincethismaneuverinvolvesmaneuveringatlowaltitude,thebankangleshouldbelessthan45degrees. Itwillbenecessarytobankmorewhenheadingdownwind,andlesswhenheadingupwind. Maintainaconstantradiussemicircleandcrossperpendiculartothereferencelineagainupwind. Repeatintheoppositedirection.● Airspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVa.● Coordination-Theentiremaneuvershouldbeflownincoordinatedflight. Thevaryingbankanglewillrequiremoreorlessrudderthroughoutthemaneuver. Attentionshouldbegiventoproperrudderinputduringturns.● Recovery-Aftermakingthenumberofturnsrequested,recovertostraightandlevelflight.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthegroundreferences. Inparticular, thisisaverylowaltitudemaneuver. Keepacareful watchfor obstructionsor other groundhazards.
+S-TurnsExpandedCompletionStandards● ThepilotcanexplainthepurposeoftheS-TurnsacrossaRoadgroundreferencemaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)10
+● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanappropriatealtitudeformaneuverentry, between600and1,000feet AGL.○ Pilotselectsasuitablegroundreferenceline,freefromanygroundhazards.○ Pilotentersthemaneuverperpendiculartothereferenceline.○ Pilotappliesproperwindcorrectionbycontinuouslyadjustingthebankangletomaintainsymmetricalloopsandreversesturndirectiondirectlyoverthereferenceline.○ Pilotmaintainsaltitude+/-100feet,maintainsairspeed+/-10knots○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+TurnsAroundAPoint● TurnsAroundAPoint-TheTurnsaroundaPointmaneuverisamoreadvancedgroundreferencemaneuverthatmainlydemonstratesthatcorrectingforwindinturnsrequiresadjustingthebankangle.Theobjectofthemaneuveristoflyacircleofconstantradius,essentiallyjusta‘perfectcircle’aroundsomeprominentpointontheground.
+● Wind, Bank, andRateof Turn-Duringstraight-and-levelflight,anairplanecancorrectforthewindbyflyingatawindcorrectionangle,howeverduringturningflight,thistacticdoesn’twork. Instead,therateof turn,andthereforethebankangle,isusedtokeeptheairplaneflyingonthedesiredgroundtrack.● Astheairplanefliesintothewind,or upwind,itfliesslowerovertheground,andthereforeneedslessrateofturn. Astheairplaneflieswiththewind,or downwind,itneedsmorerateofturn. Anairplanewhichdoesnotcorrectforthewindduringturnswillinsteadflyaspiral:
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)11
+● FlybyReferencetotheGround!-Themaneuverisagroundreferencemaneuver,meaningitisperformedbyreferencetoaprominentpointontheground. Forthismaneuver,anyprominentpointonthegroundcanbechosen,aslongasitisinarelativelyunpopulatedarea. Becausethemaneuverwillbeflownclosetotheground,itshouldbechosenwithinglidingdistanceofanemergencylandingsite.● Beforethemaneuvercanbestarted,thewinddirectionneedstobedetermined. Lookforsmoke,flags,orotherindicationsofwindontheground. Themaneuverisstartedonthedownwindportion,meaningtheairplaneisflyingwiththewind.● Theairplaneshouldbeginfarenoughawayfromthepointsothatitcanbeflyingstraightandlevel,directlydownwind,andwillpassapproximately¼mileawayfromthepoint. Thepointwillbetotherightforaright-turningcircle,andtotheleftforaleftturningcircle.● TwoHalves-Themaneuvercanbebrokenintotwohalves:○ Downwindhalf-Initiallyasteepbankangleisrequired,withthebankanglegraduallyreducingastheairplaneapproachesthe180degreepoint,headingbackupwind.○ Upwindhalf-Initiallyaveryshallowbankangleisrequired,withthebankanglegraduallyincreasingastheairplanereturnstothedownwindportion,completingthecircle.● Symmetry-Theprogressoftheturnshouldbemonitoredvisually,continuouslyglancingbetweenthereferencepointandtheflightinstruments. Thegoalistomaintainthe¼miledistancefromthepoint(makingasymmetricalcircle)bycontinuallychangingthebankangle,andtomaintainthesamealtitudeandairspeedasatthebeginningofthemaneuver.● Anynormalcruiseairspeedbelowmaneuveringspeed(Va)canbechosen,andthemaneuverisnormallyflowninthecleanconfiguration.
+TurnsAroundAPointManeuverDescription● SelectingaGroundReference-Selectaprominentpoint,whichiseasytoidentify. Itshouldbeinanunpopulatedareaandclearofhazardsontheground. Aroadintersectionisusuallyagoodchoice. Donotchoosethingslikehousesorotherstructuresasreferences,asthiscouldcauseanuisance.Becausethismaneuver isperformedsoclosetotheground(below1,000ft AGL), makesurethat the
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_e_-_ground_reference_maneuvers.pdf>>>
+========================================
+
+PPL(V-B) / CFI (IX-E)12
+chosengroundreferenceisnear asuitableemergencylandingarea, asglidingdistancewill bealmostzero.● EntryPositionandHeading-First,thewinddirectionshouldbeidentified. Lookforsmoke,flags,orothersignsofsurfacewinddirection. Ifnoneareavailable,theATISorMETARofalocalairportcanbeusedtoestimate. Plantoenterthedownwindportionofthecircle,about¼mileabeamthepoint.● Altitude-Thismaneuvershouldbeperformedat 600to1,000ft AGL.● Bank-Sincethismaneuverinvolvesmaneuveringatlowaltitude,thebankangleshouldbelessthan45degrees. Itwillbenecessarytobankmorewhenheadingdownwind,andlesswhenheadingupwind. Maintainaconstantradiuscircleoverthepoint.● Airspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVa.● Coordination-Theentiremaneuvershouldbeflownincoordinatedflight. Thevaryingbankanglewillrequiremoreorlessrudderthroughoutthemaneuver. Attentionshouldbegiventoproperrudderinputduringturns.● Recovery-Aftercompletingthemaneuver,usuallyatleast2circles,recovertostraightandlevelflight.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropertrackingofthegroundreferences. Inparticular, thisisaverylowaltitudemaneuver. Keepacareful watchfor obstructionsor other groundhazards.
+TurnsAroundAPointExpandedCompletionStandards● ThepilotcanexplainthepurposeoftheTurnsAroundaPointgroundreferencemaneuverandhowthevariousfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,establishesaspeedbelowVa,andselectsanappropriatealtitudeformaneuverentry, between600and1,000feet AGL.○ Pilotselectsasuitablegroundreferencepoint,freefromanygroundhazards.○ Pilotentersthemaneuverapproximately¼milefromthereferencepoint.○ Pilotappliesproperwindcorrectionbycontinuouslyadjustingthebankangletomaintainaconstantradiuscircledirectlyaroundthereferencepoint.○ Pilotfliestwocirclesaroundthepoint.○ Pilotmaintainsaltitude+/-100feet,maintainsairspeed+/-10knots○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder

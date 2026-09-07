@@ -1,0 +1,153 @@
+DOCUMENT_TITLE: binns_task_d_-_straight_descents_and_descending_turns
+SOURCE_FILE: binns_task_d_-_straight_descents_and_descending_turns.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)1
+Straight DescentsandDescendingTurns
+Objective
+Toensuretheapplicantlearnsthepropermethodsforperformingdescentsanddescendingturns,aswellashasanunderstandingofthepurposeoftheflightcontrolsandhowairplanesdescend.
+Purpose
+Eventually,everyflightendswithalanding. Togetdowntotheground,theairplanemustdescend. Descentsintroducepilotstotheconceptthatallowinggravitytokeeptheforwardspeedupcanallowairplanestoglidedownwithoutenginepower,orwithreducedenginepower. Descentsalsointroducepilotstobasicenginemanagementconcepts.
+Schedule Equipment
+● GroundLesson:10minutes● Flight Lessons■ Flight:20minutes- IntroductiontoManeuver■ Flight:10minutes(perlesson)- ImproveProficiency(Dual)● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainhowairplanesdescendandtheprocedureforinitiatingadescent.● Flight:Studentcanperformthemaneuvertothefollowingstandards:● Maintainsvisualscanoutsidethecockpitwhileoccasionallyreferencingtheflightinstruments.● Trimstheairplaneappropriately,maintainscoordinatedflight.● Initiatesadescentandestablishesanormaldescentpitchattitudeandtrimsforanappropriatedescentairspeed.● Asdirectedbytheinstructor,turnstoaspecifiedheadingduringthedescent.● Holdsheading+/-10degrees,maintainsairspeed+/-10knots,levelsoffattargetaltitude+/-100feet.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)2
+References
+● AviationTrainingNetwork-“ATPLTraining/PrinciplesofFlight#54FlightMechanics-Descent”○ YouTube-https://www.youtube.com/watch?v=YE8jPbkFktQ(First2:00only)● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page1-3[TheFourFundamentals/EffectandUseofFlightControls],Chapter3,Page5-6[IntegratedFlightInstruction],Chapter3,Page10[TrimControl],Chapter3,Page20-21[DescentsandDescendingTurns]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page1-8[ForcesActingonanAircraft/Thrust/Lift/Drag/Weight],Chapter5,Page12-13[AxesofanAircraft],Chapter5,Page22-23[ForcesinTurns],Chapter5,Page24-25[ForcesinDescents],Chapter6,Page2-8[FlightControls/Ailerons/Elevator/Rudder],Chapter6,Page10-12[TrimSystems],Chapter8,Page3-4[Altimeter],Chapter8,Page8-9[AirspeedIndicator],Chapter8,Page17-18[TurnCoordinator],Chapter8,Page18-19[AttitudeIndicator]● FAA-S-ACS-25(CFIACS)-AreaVIIITaskD
+GroundLessonOutline
+● IntroductiontotheFourFundamentals○ Straight-and-level,Turns,Climbs,andDescents○ Mostairplanesareinherentlystable○ Yaw/Pitch/Roll○ Airplanesturnbybanking● ThePrimaryFlightControls○ Ailerons,Elevator,Rudder● TheElevatorTrim○ Relievingelevatorpressure,Trimwheel,trimtabs● ProperYokeGripandOvercontrolling○ One-handedgrip,Controlmovementsvscontrolpressures● OutsideandInsideReferences-Integratedflightinstruction○ Sightpicture,AttitudeIndicator,HeadingIndicator/Compass/Altimeter/VSI○ Coordinatedflight/turncoordinator● TheFourForces○ Weight,Lift,Thrust,Drag● RelationshipofThrusttoMaintainingAltitude○ Airplanesdon’tclimbordescendwithelevatoralone○ Tachometer,listeningtotheengine● HowAirplanesDescend○ Powerrequiredgreaterthanpowersetting○ Forcesindescents○ DescentsandAirspeed○ EffectsofDownwash● PerformingDescentsandDescendingTurns● EngineConsiderations○ CarbHeat,ClearingtheEngine
+CommonErrors
+● Failuretocross-checkandcorrectlyinterpret outsideandinstrument references.● Applicationof control movementsrather thanpressures.● Uncoordinateduseofflightcontrols.● Faultytrimprocedure.● Failuretoclear engineandtousecarburetor heat, asappropriate.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)3
+GroundLessonContent
+● IntroductiontotheFour Fundamentals-Thefour fundamentalsofflightarestraight-and-levelflight, turns, climbs, anddescents. Everyflighttrainingcurriculumbeginswithmasteringthefundamentals.○ Mostairplanesareinherentlystable. Thegoodnewsforaspiringpilotsisthat,forthemostpart,anairplanecanbe‘flown’withouttouchingthecontrolsatall. Ofcourse,iftheairplaneistogowherethepilotwantsittogo,thepilotwillneedtocontinuouslymonitortheairplaneandmakecorrectionsusingtheflight controls.○ Unlikecars,whichturnonlyleftorrightintwodimensions,airplanescanmoveinthreedimensions,androtatearound3separateaxes. Theorientationoftheairplaneiscalledtheattitude. The3axesofflightare:■ Yaw- Yawisthefamiliar‘turning’leftandright. Rotatingaroundthevertical axis.■ Pitch- Pitchistheupanddownaxis. Theairplaneisrotatingaroundthelateral axis,andthenosewillbepointing‘uphill’or‘downhill’.■ Roll- Rollissomewhatuniquetoairplanes. Roll isalsooftencalledbank. Theairplaneisrotatingaroundthelongitudinalaxis. Thereisnorealsimilaritytocarsinthisdimension,butitcanbethoughtofastheairplaneleaningleftorright.
+○ Airplanesclimbanddescendinpartbyincreasingordecreasingpitch,however,somewhatunexpectedly, airplanesdonot turnbysimplychangingyaw. Airplanesturnbybankingtowardsthedirectionof theturn,whichdirectsthewingsliftforcetotheside. Theverticaltailsurfacekeepstheairplanealignedwiththedirectionoftravel,causingtheairplanetoyaw. Thisissimilartohowthefinsorfeathersonadartorarrowkeepitflyinginthedirectionitisthrown.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)4
+● ThePrimaryFlight Controls○ Airplanesarecommonlydesignedwith3primaryflightcontrols:■ Ailerons-AileronsmovetheairplanearounditsRollaxis. Theangleof roll iscalledthebankangleandpilotsusetheairplanetobankinthedirectiontheywishtoturn. Mostairplanescontroltheaileronswithayoke,whichissimilartoasteeringwheel. Turningthewheelleftorrightcausestheairplanetobankleftorright.
+■ Elevator-TheElevatormovestheairplanearounditsPitchaxis. Pilotscaninitiateaclimbordescentbypullingbackorpushingforwardontheyoke,respectively.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)5
+■ Rudder-TheRuddermovestheairplanearounditsYawaxis. Therudderisaverymysteriouscontrolformostnewpilots,becauseit isnot usedtoturntheairplane,asonemightexpect. Thesolepurposeoftherudderistoaidtheairplaneinmaintainingaproper(calledcoordinated)flightpathduringturnsmadewiththeailerons(bank).
+● TheElevator Trim-Inordertoholdthenosetheproperdistancefromthehorizonandmaintainaltitude, newpilotsoftendiscover that it mayrequirecontinuousforwardsor backwardselevatorpressureonthecontrol yoke. Thisisnotonlyuncomfortable,italsorequirespilotstodevotemoreattentiontomaintainingstraightandlevelflightandpreventsthemfrommultitaskingeffectively. Thereisanother, secondaryflightcontrol,calledpitchtrimor elevator trim. Thesetermsareinterchangeable,andrefertoacontrolwheel (thetrimwheel) whichcanbeusedtorelievethesecontrol pressures.○ Thetrimmechanismisdifferentondifferentairplanes,butitusuallyconsistsofasmalltab,calledthetrimtabontheelevatorcontrolsurfaceitself. Thetrimtabservicesto‘rebalance’theneutralpositionoftheelevatorcontrolandhelpmaintainlowcontrolpressures.○ Thetrimtabismovedwiththetrimwheel,whichwhenrolledforwardmovesthetrimnosedown,andwhenrolledrearwards,movesthetrimnoseup.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)6
+● Proper YokeGripandOvercontrolling-Propercontroloftheairplanerequiresthatpilotsavoidovercontrolling. Unlikedrivingacar,whichrequireslargemovementsofthewheel,flyinganairplanerarelyrequireslargemovements,oralotofforceonthecontrols.○ Pilotswhogriptheyoketightlywithbothhandsoftenstrugglewithmaintainingstraightandlevelflightormakingsmoothturnsorothermaneuvers. Pilotscopingwithturbulentorbumpyconditionsoftenmakethebumpinessworsebyholdingtheyoketoofirmly.○ Inmostsituations,pilotsshouldattempttorelax,astheairplanecanbeflownmostlywithcontrol pressures, rather thancontrol movements. Aone-handed,lightgripontheyokealsofreesthepilotsotherhandformanipulatingthethrottle,oradjustingtheradios,etc.
+● OutsideandInsideReferences-Pilotsusebothoutside(lookingoutthewindow)andinside(lookingattheflight instruments)tomaintainaircraftattitude. It isimportant for pilotstousebothof thesereferenceswhenflyinganairplane,topreventopticalillusionsorpooroutsidevisibilityfromdisorientingthepilot. Comparingmultipleindependentsourcesofinformationaboutaircraftattitudeiscalledcross-checking. Theintegratedflight instructionmethodrecommendedbytheFAAemphasizespilotsutilizingbothoutsideandinsidereferencesfromtheverybeginningoftheirflyingcareertodevelopproperhabitsofcross-checkingthesereferences.○ DescendingSight Picture-Pilotscanvisuallyjudgetheirpitchandbankbyusingsomethingcalledasight picture. Asightpictureisjustafamiliarappearanceofthehorizonrelativetotheairplane’sinstrument panel(dashboard),andisusedtojudgetheattitude.○ Whendescendingstraight ahead, thesight pictureremainssimilar tostraight andlevelflight, except that thenosewill befurther belowthenatural horizon.○ Whenmakingadescendingturnatagivenspeed,thebankangleshouldbejudgedbasedontheangletheinstrumentpanelmakeswiththehorizon.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)7
+○ Judgingpitchduringturnscanbemoredifficult, asthenoseappearstoriseor descendwhenrollingduetothefact that pilotsdon’t sit inthecenter of theairplane. Pitchattitudecanbemoreaccuratelyjudgedbytheplaceontheinstrumentpanelthatintersectsthehorizon.○ Noticethatduringturns, thepoint onthehorizonthat intersectstheinstrument panelchangesdependingonwhether theairplaneisclimbing, flyinglevel, or descending.
+○ Theinsidereferenceforpitchandbankisaninstrumentcalledtheattitudeindicator,whichisalsosometimescalledanartificial horizon.
+○○ Theattitudeindicatorisusedtobackuptheout-the-windowsightpictureforallphasesofflight:straight-and-level,climbs,turns,anddescents.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)8
+○ Pilotsalsojudgetheirheadingbyusinganinstrumentcalledadirectional gyro,whichindicatesthecompassdirection(North,South,East,West,etc)thenoseoftheairplaneispointing.
+○ Duringclimbsanddescents,thepilotisattemptingtogainorlosealtitude. Therefore,theperformanceoftheclimbordescentmustalsobemonitoredbyglancingatthealtimeter,andthevertical speedindicator,whichshowstherateofclimb.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)9
+○ CoordinatedFlight-Recallfromthelessononturnsthatwhenperformingclimbingordescendingturns,thepilotwillneedtocorrectforthetendencyoftheairplanetoenterasidesliporskiddingconditionbyusingtherudderpedalstomanagetheamountofsidesliporskiddingasthepilotrollstheairplaneormaintainsaturn. Flyingwithnoskidorsideslipiscalledcoordinatedflight. Theinstrumentwhichgivesthepilotdirectinformationaboutthisiscalledtheturncoordinator,however pilotscanalsolearntosensewhentheyarebeingpushedawayfromtheturnor towardstheturn.
+● TheFour Forces-Airplanesinstraightandlevelflightaresubjectto4basicforces:○ Weight- Weightisthedownwardforceprovidedbygravity. Asanairplanesitsstationaryontheground,theonlyforceactingonitisgravity.○ Lift- Liftistheupwardforceprovidedbythewing. Asairflowsoverandaroundthewing,itisredirecteddownward,providinganupwardforcewhichduringflightbalancesthedownwardforceofgravity.○ Thrust- Thrustistheforwardforceprovidedbytheengine. Airplanesmustmoveforwardtogeneratelift,andthismovementisprovidedbyenginethrust.○ Drag- Dragistherearwardforceofairresistance,whichopposesthrust. Mostpilotsarealreadyfamiliarwithairresistance…holdingahandoutofthewindowofamovingcarisasimpledemonstrationofdrag.
+● Relationshipof Thrust toMaintainingAltitude-Mostnon-pilotsgenerallyunderstandthat“theenginemakestheairplanego”. Althoughpilotscanusetheelevatorcontroltoclimb,descend,orflylevel,withoutadjustingtheenginethrust,theairplanemayhaveinsufficientpowertoclimbordescendinresponsetopilotinputs.○ Whenanairplaneisflyingatgivenspeed(calledairspeed),allofthefourforcesareinequilibrium,whichmeansthat thethrust preciselyequalsthedrag. Therefore,abasictaskthatpilotsmustaccomplishtomaintainaconstantaltitudeismanagingtheenginethrust.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)10
+○ Somewhatlikeacarcoastinguphillordownhill, if theairplaneisbeingheldat agivenaltitudewiththecontrol yoke, insufficient power will causetheairplanetoslowdown,andexcesspower will causetheairplanetospeedup.○ Pilotscanmanageanairplane’sthrustbyusinganotherinstrument,calledthetachometer.Similartoacar,itindicateshowmanyrevolutionsperminute(RPM)thepropellerisspinning.Highervaluesequalmorepower. Itisalsousefulforpilotstousetheirearstojudgethepowersetting. Withexperience, pilotscandeveloptheabilitytojudgewhether thepower settingistoohighor lowfromtheenginenoisealone.
+● HowAirplanesDescend-Aircraftdonotnecessarilyneedtohaveanengine. Glidersarequitepopularandworkperfectlywellwithoutanengine,demonstratingthatairplanescanflyforextendedperiodsoftimewithoutanyenginepoweratall. However,withoutanengine,itisverydifficultorimpossibletoclimb. Whilegliderscanmanagethisbyusingtheenergyofrisingair, conventionalpoweredairplanesareconsiderablylessefficient andcanonlysustainlevel flight or climbbyusingenginepower. Whenoperatingwithoutthrust,orwithlessthrust,aconventionalpoweredairplanebehavessomewhatlikeaglider.○ Recallfromthelessononclimbsthatairplanescanonlysustainaclimbwhenthepoweravailableisgreaterthanthepowerrequiredtomaintainlevelflight. Ifthereismorepoweravailable(ifthethrottlecanbeincreased),theairplanecanclimb. Likewise, if thepowerrequiredisgreater thanthecurrent power setting, theairplanewill descend.○ ForcesinDescents-Duringunacceleratedflight,suchasduringstraightandlevelflight,thefourforcesactingonanairplaneareinequilibrium. (Iftheforceswerenotequal,theairplanewouldexperienceanaccelerationinsomedirection--up,down,forward,back)○ Whenanairplaneinitiatesadescent, it pitchesdown,anddirectsitslift inaslightlyforwarddirection,providinglessvertical lift. Becausegravityalwaysactsdirectlydownward,thisinitiallycausesanacceleration(downwards),andtheairplanebeginstodescend. Oncetheairplanestabilizesinthedescent,itisnowmovingdownwards(descending),butitisnolonger acceleratingdownwards(ithasastableverticalrateofdescent). Ithasagainreturnedtotheforcesbeinginequilibrium,withtheweight of theairplaneactingslightlyforwardalongitsflight path, replacingtheloweredenginethrust.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)11
+○ DescentsandAirspeed-Becauseairplanesclimbordescendduetoexcessorinsufficientpower,itisimportanttorealizethattheamountofexcesspoweranairplanehasisalsodependentontheairspeed. Apowersettingwhichproduceslevelflightatalowerspeedmaycreateadescentatahigherspeed,duetothehigherpowerrequired. However, whendescending, it isalsoimportant tokeeptheairspeedfromrisingtoomuch. Likeacarcoastingdownhill, thespeedwill tendtoincreaseinsteepdescents. Inanairplane,itisbesttodescendinthegreenarcontheairspeedindicator,whichcorrespondstotheairspeedswhicharesafetoflyinturbulentair.
+○ Effectsof Downwash-Onethingnewpilotswillnoticequitequicklyisthat whenlargereductionsinpower aremade, thenoseof theairplanewill tendtolower itselfautomatically. Althoughthisispartlybecausethepowerreductionwillcauseadescent,itisalsopartlybecausetheengine’sthrustcontributestothedownwashovertherearhorizontalstabilizer. Whenthethrustisreduced,thereislessdownwardforceonthestabilizer,whichallowsthenosetofall. Pilotsshouldanticipatethisandcompensatewithelevatortrim.
+● PerformingDescentsandDescendingTurns-Descendingturnsarequitesimplyacombinationofthebasicsofdescents,andlevelturns. Althoughdescentsrequirelesspowerthanlevelflight,recallthatturnsrequireslightlymorepower. Tobegin:○ Step1-Pilotreducestheenginepowerandallowsthenosetofallintoapropernose-lowdescentattitude.○ Step2-Pilottrimsnose-uptoaccountforthetendencyofthenosetofallandtomaintainthedesiredairspeed.○ Step3(For aDescendingTurn)-Pilotrollstheairplanetothedesiredbankangleandbeginsturning,whileaddingslightlymorebackpressuretoaccountforthelossoftheverticalcomponentoflift.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_d_-_straight_descents_and_descending_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-D)12
+● EngineConsiderations-Whendescending,theengineisproducinglesspower. Airplaneenginesaregenerallydesignedtoruncontinuouslyathighpowersettings. Whenrunningatlowerpowersettings,pilotsmustfollowprecautionsestablishedbytheairplanemanufacturers:○ Manyairplanesspecifythatcarburetorheatshouldbeappliedwhenrunatlowpowersettingstopreventtheformationoficeinthecarburetor.○ Forprolongeddescents,itisagoodideato‘clear’theengine,bymomentarilyincreasingpowerandthenreducingit,toensurethattheengineisstilloperatingnormally.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

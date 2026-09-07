@@ -1,0 +1,102 @@
+DOCUMENT_TITLE: binns_task_e_-_accelerated_stalls
+SOURCE_FILE: binns_task_e_-_accelerated_stalls.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)1
+AcceleratedStalls
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheacceleratedstallmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Theacceleratedstallmaneuverdemonstratestopilotsthatanairplanecanstallatanyattitudeorairspeedaslongasthewingexceedsthecriticalangleofattack. Pilotswilllearntheproperrecoverytechniquesandimprovetheirawarenessoftheriskofenteringaspinfrommaneuveringflight.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:20minutes- Demonstrationof Maneuver● Commercial/CFIOnly■ Flight:30minutes- PracticeManeuver (Dual)■ Flight:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainthecriticalangleofattack,situationsleadingtoanacceleratedstall,thedangersofuncoordinatedstalls,improperstallrecovery,andthefactorsthataffectstallspeed.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Beginsatanaltitudenolessthan3000ftAGL,inaconfigurationasspecifiedbytheinstructor,atanairspeednottoexceedVA
+.● Establishesalevel,coordinated,45°bankedturnatanairspeedbelowVa.● Continuallyincreasespitchsmoothlyandfirmlytocauseanimpendingstall.● Acknowledgesfirstindicationofthestall,andpromptlyrecoversandclimbsatVxorVytoreturntotheoriginalaltitudeandheading.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)2
+References
+● MZeroAFlightTraining-“AcceleratedStalls”○ YouTube-https://www.youtube.com/watch?v=Upq_XADQC5E● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery],Chapter5,Page19-20[AcceleratedStalls]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page25-26[Stalls],Chapter5,Page34-35[LoadFactorsandStallingSpeeds],Chapter5,Page37-38[VgDiagram]● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskD● FAA-S-ACS-25(CFIACS)-AreaXTaskE
+GroundLessonOutline
+● AcceleratedStalls○ Thewingcanstallatanyairspeed○ RecoveryfromastalledconditionrequiresreducingAoA!● Bankangleandloadfactor● Effectonstallspeed○ Maneuveringspeed● Situationsleadingtoanacceleratedstall○ Recoveryfromanormalstall,recoveryfromaspin● Warningsigns○ Buffet,stallwarning● AcceleratedStallRecovery○ ReduceAoAfirst! Levelwingsafterstallisbroken.○ Riskofskiddingturns,spinentry● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Failuretoestablishproperconfigurationpriortoentry.● Improper or inadequatedemonstrationof therecognitionof andrecoveryfromanacceleratedmaneuver stall.● Failuretopresentsimulatedstudentinstructionthatadequatelyemphasizesthehazardsofpoorproceduresinrecoveringfromanacceleratedstall.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)3
+GroundLessonContent
+● AcceleratedStalls-Pilotsalreadyunderstandthatanaerodynamicstalliswhathappenswhenawing‘stopsflying’. AcceleratedStallsservetoillustratetheconceptsthataggressivemaneuversandsteeplybankedturnsincreaseloadfactor,andawingcanstall at anyairspeed.○ Astheangleofattackincreases,wingsproduceincreasingamountsoflift. Asthewingmovesatalowangleofattack,theairmovingoveritsupwardsurfacemovesasasmoothflow,whichisattached(tendstofollowthecontoursofthewing). Airflowatlowanglesofattackgeneratesrelativelylittledrag. Astheangleofattackincreases,theflowbecomesmoreturbulent,andatsomepoint,theairflowingoverthewing’suppersurfacecannotremainattached,andbecomesveryturbulent. Atthispoint,theliftproducedbythewingdropsdramatically,withacorrespondingdramaticincreaseindrag. Theangleatwhichtheliftisatmaximum,beforedecreasingrapidly,iscalledthecritical angleof attack. Onceawingexceedsthecriticalangleofattack,itissaidtobestalled. (It‘stopsflying’) Animportant propertyof wingsisthat theyalwaysstall at thesamecritical angleof attack, regardlessof airspeed!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)4
+○ Belowisanairfoilinthenormal(lowangleofattack),highlift(highangleofattack),andstalledcondition,alongwiththecorrespondingangleofattackvsliftgraph:
+● RecoveryfromaStalledCondition-Awingwhichisstalledisnowproducingverylittleliftrelativetothedragitisproducing. Ithas‘stoppedflying’. Theonlywaytorecover fromthestall andtoget thewingflyingagainistoreducetheangleof attack!
+● BankAngleandLoadFactor-Asanairplaneturns,itsweightremainsthesame,andthereforetheupwardcomponentofliftmustremainequaltoitsweight. Duringaturn,someoftheliftmustbedirectedtowardsthecenteroftheturn,reducingtheupwardcomponentoflift. Ifnopilotcorrectionswereapplied,theairplanewouldnotproduceanymorethanthenormal1goflift,andtheairplanewouldbegintodescend. Inordertocorrectforthelossofverticallift,andmaintainalevelaltitude,thewingmustproducemorelift,whichrequiresincreasedbackelevator pressure. Thisincreasedbackelevatorpressurewillcausethewingtoflyatahigher angleof attack,producingtheincreasedliftthatisrequired. ThiscanbefeltbythepilotasahigherthannormalG-force.○ Inordertomaintain1gofverticallift,whilealsoturning,thewingmustproducemorethan1goftotallift. Theamountoftotalliftiscalledtheloadfactor.
+○ Asthebankangleincreases,theloadfactorrequiredtomaintainlevelflightincreasesslowlyatfirst,butincreasesrapidly,especiallyatbankanglesbeyond45degrees. Theloadfactorcreatedbyalevel, coordinatedturndependsonlyonthebankangle. Notethat airspeeddoesnot affect theloadfactor of aturn.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)5
+● Effect onStall Speed-Astheloadfactorincreasesinaturn,itisimportanttorecognizethat thestallspeedalsoincreases. Wecanseethisrelationshipdepictedinaso-calledVgdiagram,shownbelow.TheStallSpeedwenormallyseeforouraircraft,VsorVs0
+,appliesonlyto‘unaccelerated’flight--thatis,flightat1gloadfactor. ObservefromtheVgdiagramthatastheloadfactorincreases,thestallspeedalsoincreases. Notethat thewingcanstall at anyairspeed!○ Eventually,thewingreachesapointcalledthelimit loadfactor,whichforanormalcategoryairplaneis+3.8G. ThestallspeedatthispointiscalledVa,or maneuveringspeed. Belowthisspeed,thewingwillexceedthecriticalAoAandstallbeforetheaircraftsuffersstructuraldamage,howeverabovethisspeed,structuraldamagemayresult. It iscritical toalwaysperformhighperformancemaneuversbelowmaneuveringspeed!
+● SituationsLeadingtoAcceleratedStalls-Otherthanintentionallyperformingtheacceleratedstallmaneuver,thereareacouplesituationswhichmakeencounteringanacceleratedstallmorelikely:● Recoveryfromanormal stall-Iftheairplaneisallowedtodescendtoorapidly(delayedstallrecovery)duringastall,whenthewingbeginsflyingagain,theairplanemaybepitchedsteeplydownwards. Attemptingtoraisethenosetothehorizonaggressivelycanleadtoincreasedloadfactorsandasecondaryacceleratedstall. (Whichisusuallyworsethantheoriginalstall)● Recoveryfromaspin-Afteranti-spininputsareappliedandtheairplanetransitionstoasteepspiralingdescent,theairplanewillalsobepitchedsteeplydownwardsathighspeed. Overlyaggressivediverecoveryprocedures(raisingthenose)canalsoresultinanacceleratedstall.
+● WarningSigns-Stallsdonotoccurwithoutwarning. Theairplanewillbehavequitedifferentlyasangleofattackincreasesandthestallapproaches:● Buffet-Thestall buffetistheroughnessorbumpinessthatprecedesanaerodynamicstall,causedbytheincreasinglyturbulentairflowoverthewing. Thisisespeciallytrueofacceleratedstalls.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)6
+● Stall WarningHorn-Mostplaneshaveanaudiblestallwarninghornthatactivatesafewknotsbeforethestall. Stallwarningdevicesareoneoftheonlytrueangleofattacksensingdevicesavailabletopilots,andtheywill functionwhentheairplanenearsthecritical angleofattack, regardlessof airspeed!
+● AcceleratedStall Recovery-Theprimaryconsiderationinrecoveryfromanacceleratedstallisthesameasanystall-- reducetheangleof attack! (Reducebackelevatorpressure)○ Aftertheangleofattackisreduced,thebankshouldbecorrected.○ Acceleratedstallstendtobemoreaggressivethananormalstallifallowedtofullydevelop,andthereisahigherthannormalriskofenteringaspin. Therefore, it iscritical that if awingdrops, onlyrudder isusedtoraisethewing! Ifasteepturnleadstotheacceleratedstall,ifitisaskiddingturn,itisverylikelythattheinsidewingdropsaway,increasingthealready-steepbankandleadingtoanincipientspin. Thisisaverydangeroussituationandmustbeavoided!
+● SafetyConsiderations○ Aswithanymaneuver,theuseof checklistsisimportant. Beforebeginningthemaneuver,performapre-maneuverchecklist,includingperformingclearingturnsandidentifyingpossibleemergencylandingsites.○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriatepracticearearadiocalls,andremember tocontinuouslyscanfor traffic!
+ManeuverDescription● EntryAltitude-Stallsshouldalwaysbeperformedatasafealtitude,incaseofadelayedorinadequaterecovery,orotherproblems. Themaneuvershouldbeperformedsuchthataccountingforaltitudelossduringthestall,thefinalaltitudeisnolowerthan3,000feetAGL. Additionally,anacceleratedstallcreatesalargeriskofaninadvertentspin. Thereforeitisbesttobeginthemaneuverat least 3,500feet AGL.● EntryAirspeed-Themaneuvershouldbestartedatanormalcruiseairspeed,atorbelowVa.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver.● Configuration-Theairplaneshouldbeconfiguredforcruiseflight.● EntryPower andBank-Banktheairplaneapproximately45degreesandsetpowerforacoordinated,levelsteepturn. Itisusuallybesttosetthepower lowerthanforanormalsteepturn,toallowtheairspeedtodecayslightlyandavoidexcessivecontrolforcestoinducethestall.● Stall-Whilemaintainingacoordinatedturn,smoothlybutfirmlyincreaseelevatorbackpressuretoinduceanimminentstall. Acknowledge(call out) thefirst indicationsof anapproachingstall(especiallythebuffetorstallwarninghorn).● Recovery-Promptlyreducebackelevator pressure, andlevel thewings. If theairplaneisuncoordinatedandthewingstalls, onewingmaydropveryaggressively. Donot useailerontoraisethedroppedwing, asthiswill deepenthestall, useoppositerudder! Oncetheairplanehasregainedflyingairspeed,establishaclimbatVxorVytogetbacktothepre-maneuveraltitude.● Coordination-Duetothestrongleft-turningtendenciespresentathighpowersettingsduringacceleratedstalls, proper coordinationisessential. Specialattentionshouldbegiventoproper
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_e_-_accelerated_stalls.pdf>>>
+========================================
+
+PPL/ CAX(IV-D) / CFI (X-E)7
+rudderinputduringturns. Remainingcoordinatedthroughoutthemaneuverwillreducetheprobabilityofadramaticwingdrop.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtoholdheading.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheacceleratedstallmaneuverandunderstandsthecriticalangleofattack,factorsthataffectstallspeed,thesituationsthatleadtoanacceleratedstall,theriskofanuncoordinatedstall,andotherfactorsthataffectthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuver/before-landingchecklist,andselectsanaltitudewhichallowsthemaneuvertobecompletednot lessthan3,000ft AGL.○ Pilotconfigurestheairplaneandestablisheslevelflightatanairspeedat or belowVa.○ Pilotentersacoordinated,level,45degreebankedturn,andcontinuesincreasingbackelevatorpressureuntilanimminentstallisinduced.○ Pilotacknowledges(callsout)firstindicationofthestall.○ Pilotrecoverspromptlyfromthestallbyreducingpitch,andlevelingwings.○ ClimbatVxorVy,asappropriate,andreturntotheoriginalaltitudeandheading.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

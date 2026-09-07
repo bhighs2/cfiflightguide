@@ -1,0 +1,162 @@
+DOCUMENT_TITLE: binns_task_b_-_normal_approach_and_landing
+SOURCE_FILE: binns_task_b_-_normal_approach_and_landing.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)1
+Normal ApproachandLanding
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthenormalapproachandlandingmaneuverandhowtomakesafe,controlledlandingsinavarietyofwindconditions.
+Purpose
+Whatgoesupofcoursemustcomedown,andbeingabletolandisacriticalskillforpilotstodevelop. Learningproperlandingtechniqueswillputtogetherseveralskillsthatpilotshavealreadydeveloped,suchasslowflight,groundreferencemaneuvers,andstalls.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight:40minutes- IntroductiontoLandings■ Flight:20minutes(perlesson)- Practice● Solo■ Flight:20minutes(persoloflight)- ImproveProficiency● Pre-Checkride■ Flight:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplanePOHandChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplaincrabbing,sideslip,crosswindtechnique,astabilizedapproach,theroleofflaps,andhowtoflybehindthepowercurve.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Performsastabilizedapproachatpublishedapproachairspeed(or1.3Vso)+10/-5knots.● Touchesdownsafelyatadesignatedtouchdownpoint-0/+400feet(-0/+200feet for Commercial).● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)2
+References
+● ERAUSpecialVFR-“Normal&CrosswindApproach&Landing-Lesson1”○ YouTube-https://www.youtube.com/watch?v=DxbcyBjFiSg● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter9,Page2-10[NormalApproachandLanding],Chapter9,Page15-20[CrosswindApproachandLanding],Chapter9,Page30-37[FaultyApproachesandLandings]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page9-10[AvoidingWakeTurbulence],Chapter11,Page19-28[PerformanceCharts]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIVTaskB● FAA-S-ACS-7B(CommercialPilotACS)-AreaIVTaskB● FAA-S-ACS-25(CFIACS)-AreaVIITaskB
+GroundLessonOutline
+● Landingbringstogetherthefundamentalskills● Airplanesflywiththeair● Alllandingsbeginwiththeapproach● Airspeedcontrolandtrim○ Behindthepowercurve○ Energymanagement● Theroleofflaps● Importanceofastabilizedapproach● Theroundoutandlandingflare● Estimatingglidepath○ Aimpointvstouchdownpoint,VGSIs/VASI/PAPI● CrabbingIsn’tEnough● Sideslips/CrosswindTechnique● Importanceofholdingcrosswindcorrections● Go-Arounds● Landingperformance○ Densityaltitude● Waketurbulence/Windshear● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning,Runwayincursionavoidance○ Windshear,Tailwinds,WakeTurbulence,Runwaysurfaceconditions○ Propercoordination,stallrisk,Bepreparedtogoaround● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Improperuseoflandingperformancedataandlimitations.● Failuretoestablishapproachandlandingconfigurationatappropriatetimeorinpropersequence.● Failuretoestablishandmaintainastabilizedapproach.● Inappropriateremovalofhandfromthrottle.● Improperprocedureduringroundoutandtouchdown.● Poordirectionalcontrolaftertouchdown.● Improperuseofbrakes(ASEL).● Failuretoensurereceiptandacknowledgementoflandingclearance.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)3
+● Failuretoreviewairportdiagramforrunwayexitsituationalawarenesstoavoidarunwayincursionafterlanding.
+GroundLessonContent
+● LandingBringsTogether TheFundamental Skills-Landingsareperhapsthesinglemostwell-knownmaneuvertobothpilotsandnon-pilotsalike. Everyflightendswithalanding,butaproperlyexecutedlandingcombinesmanyotherfundamentalflyingskillsandinvolvesmanymoreelementsthanitfirstappears. Pilotsmustcontendwiththewind,changingaircraftconfigurations,flyingatlowspeedneartheground,aswellasrequiringknowledgeofairplaneperformance,airtrafficcontrolprocedures,andmanyotheritems.● AirplanesFlyWithTheAir-Itmayseemsillytostatesomethingsoobvious,butitiscrucialtounderstand. Airisalwaysmoving,andairplanesaremovingwithinit. Whenastudentpilotwatchesotherairplanesland,itishardnottonoticethattheirnosesarealmostneveralignedwiththerunway.Theyseemcrooked.
+○ Althoughairplanesgenerallyflystraightcoursesthroughtheair,whenthemovementoftheairisadded,thesecoursesaredifferentacrosstheground. Thegroundtrackof anairplaneisthecombinationof it’sairspeed(speedthroughtheair), heading(thedirectionit ispointing), andthewindspeed.
+○ Almost all landingsarecrosswindlandings. Thereisusuallyatleastsomecomponentofwindwhichisside-to-siderelativetotherunway. However,becauseairplanesflywiththeair,
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)4
+theyusuallywanttotakeoffandlandintothewind,asmuchaspossible,toavoidside-to-sidewindsortailwinds.○ Inordertolandonrunways,whicharenevermoving,inwinds,whicharealwaysmoving,airplanesneedtoapplyacorrectiontoflyaparticularcourseacrossthegroundandalignwiththem. Thisisusuallyaccomplishedbycrabbingtheairplane. Thatistosay,flyingtheairplanetowardsthewinddirection,suchthattheairplane’sgroundtrackfollowstherunway.
+● All LandingsBeginWithTheApproach-Whenpreparingtoland,theairplanemustdescend,alignedwiththerunway. Thisisnothingmorethanaconstant-airspeeddescent. Usuallyapproachesareflownataspeedpublishedfortheparticularmodelofaircraft,calledtheapproachspeed.● AirspeedControl andTrim-Whenapproachingtoland,itisimportanttobeawareoftheproperapproachairspeed. ThiswilloftenbespecifiedbythePOH,butotherwiseairspeedonfinalapproachshouldbenohigherthan1.3xVso(stallspeedinthelandingconfiguration),andinlandingconfiguration(usuallyfullflaps). It isimportant tousetheelevator trimtoholdapproachspeedthroughout themaneuver!○ BehindthePower Curve-Whenflyingatapproachairspeeds,itisimportanttorememberthattheairplanewillbebehindthepower curve. Thepowercurverepresentstheamountofpowerrequiredtomaintainagivenairspeedwithoutaccelerating. Thisisataminimumwhentheamountoftotaldragisataminimum.■ Airspeedsbelowtheminimumdragspeed(thebestglidespeed)aresometimescalledtheregionof reversecommand. Thisisbecauseanyincreaseinpitch,andthereforeangleofattack,willresultinmoretotaldrag,whichwill increasetherateofdescent.■ Whenbehindthepowercurve,inordertocontroldescentrateandglidepath,thefirstactionmustbetoincreaseordecreasethethrottle! Addor removepower tocontrolthedescent, andpitchtomaintainairspeed.■ Itisusefultothinkaboutapproachesintermsof EnergyManagement,wherethereisafundamentaldifferencebetweenaHighEnergyandLowEnergyapproach,asthesemustbemanagedverydifferently.● SeethelessononArea10(X) - TaskB- Demonstrationof Flight Characteristicsat VariousConfigurationsandAirspeedsformoredetailsonenergymanagement.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)5
+● TheRoleof Flaps-Itisnormallydesirabletodescendabitmoresteeplythannormaltoavoidobstaclesonfinalapproach. Flapsareonetoolforaccomplishingthis. Flapsaddadditionallift,buttheyalsoaddadditional drag. Thiswillresultintheairplaneflyingasteeper descent anglethanitotherwisewouldforthesameapproachairspeed. Thishastheadditionalbenefitofallowingforbettervisibilityoverthenosewhenatverylowairspeeds,likeduringlanding.
+● Importanceof aStabilizedApproach-Aswithalllandings,thequalityofthelandingbeginswiththequalityoftheapproach. Itiscriticallyimportanttomaintainastabilizedapproach.○ Unstableapproachesarealeadingcauseof accidentsandincidentsduringlanding!○ Astableapproachshouldinvolvesmooth,gentlepatternturns,whilemaintainingtheproperapproachairspeedandavoidingdramaticforwardslipsorothermaneuverstheentiretime. Itisimportantthattheairplanebefullyconfiguredtolandandflyingatapproachspeed,andatastablerateofdescent,atleast½milebeforereachingtherunwaythreshold. Generally,theapproachshouldbestabilizedbeforereaching400ftAGL. Astabledescentisoftencalledaglidepath,toindicatethatit’susuallysimilartoaglidingdescent.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)6
+○ Eventhoughobstaclesonfinalapproach,suchasterrainortrees,mayrequireasteeperdescent,itisstillpreferabletoflyastabilizedapproachthatwillclearobstacles,ratherthansteppingdownorotherwiseflyinganunstableapproach. Final approachshouldbeflowninastabledescent, properlyalignedwiththerunwayor landingarea!
+● TheRoundout andLandingFlare-Astheairplanenearstherunway,atsomepointthepilotwillneedtolevelofftoslowthedescentrateandflyclosetotherunway. Thisiscalledtheroundout. Atthispoint,theenginepowerisreducedandtheairplanewillbegintodescendgently. Thepilotusesbackelevatorpressuretoraisethenoseandincreasetheangleofattackandslowthedescent. Thisiscalledthelandingflare.○ Theideallandinghappenswiththeairplanealignedwiththerunway,thenoseslightlyhigh,andtheairspeedjustabovethestallspeed. Landingwithlowerspeedsincreasessafetybydecreasingkineticenergythatmustbedissipated,andreduceswearonbrakes.○ Astheairplaneapproachestherunwayonfinal,thepilotshouldidentifyapointbeforethedesiredtouchdownpointanduseitasanaimingpoint. Astheairplanereachestheaimingpoint,anormalroundoutandflarecanbeconducted,suchthattheairplanetouchesdownatthetouchdownpoint. Aimingat thetouchdownpoint wouldresult inlandinglong,becauseitdoesnotaccountforthelandingroundoutandflare.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)7
+● EstimatingGlidePath-Inordertomasterlandings,beingabletoconsistentlylandonthedesiredspotisimportant,sopilotsmustdeveloptheirskillsinvisuallyestimatingtheairplane’sglidepath. Thisbeginswithfindinganaimingpointwhichisjustbeforethedesiredtouchdownpoint,toaccountfortheroundoutandflare. Wheninastabledescent,iftheaimpointismovingaway,thelandingwillbeshort.Whentheaimpointismovingcloser,thelandingwillbetoolong. Itiscrucialtopaycloseattentiontothemovementoftheaimingpointandmaketheappropriatecorrections.
+● SomerunwaysareequippedwithVisualGlideslopeIndicators(VGSIs),andwhenavailabletheyareagreattoolforjudgingtheglidepath
+● Pilotsshouldconductalllandingstohitadesignatedspot,whetherornottheyareperformingahigh-performancelanding. Duringtheroundoutandflare,thepilotshouldholdjustenoughbackpressuretokeeptheairplanefromtouchingdownuntilthedesiredtouchdownpointisreached.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)8
+● CrabbingIsn’t Enough-Althoughairplanescancrabintothewindtoalignwiththerunway,eventuallytheyneedtopointinthesamedirectionastherunwayaswell. Airplanelandinggeararejustwheels,andjustlikeacaroranyothervehicle,theyneedtopointinthedirectionoftravel. Soasanairplanepreparestotouchdown, itswheelsneedtoalignwiththerunway.● Sideslips-Itispossibletoflyanairplanesuchthatit’snosepointsinonedirection,butitfliesthroughtheairinaslightlydifferentdirection. Thislookslikeaslightsidewaysmotion(relativetotheair),andiscalledasideslip.○ Inordertotouchdownsafely,airplanesmustenterasideslipwherethesideslipismovingtowardsthewind. Thesidewaysmotionwillbe‘canceled’bythewind,anditwillresultintheairplaneflyingstraightdowntherunway.○ Sideslipshappenwhenanairplaneisbanked,buttherateof turnisinsufficientforthebankangle. Consideranormalbankedturn,withtheballcentered. Theairplanewillhavearateofturnwhichisrelatedtothebankangle--morebank, morerateof turn. Normalturnsrequireruddertomaintaintheballinthecenter.○ If, insteadof applyingrudder inthedirectionof thebank, thepilot doesnot usetherudder at all or appliesrudder oppositethebank, theairplanewill enter asideslip.○ Wheninasideslip,theairplanegenerallywantstoreturntonormalflight,andpilotswillhavetoholdoppositeaileronandruddercontrolstoremaininthesideslip. Thisiscalledacross-controlledcondition.
+● CrosswindTechnique-Pilotscanusetheirknowledgeofsideslipstolandincrosswinds:○ Thepilotestimatesthegroundtrackandcrabsintothewindifnecessarytostayalignedwiththerunway.○ Oncetheairplanenearstherunway,thepilottransitionsintoasideslipby‘crossingthecontrols’,withtheaileronintothedirectionof thewind,whichalignstheairplanewiththerunwayandkeepstheairplaneonastraightgroundtracktotherunway. Thisiscalledcrosswindcorrection.○ Becauseofthesideslip(andbankintothewind), themainlandinggear tothesideof thewind(theupwindwheel) will belower thantheother mainlandinggear (thedownwindwheel).○ Thepilotretainsthesideslipthroughtheroundoutandlandingflare,andtouchesdownfirstontheupwindwheel,thenthedownwindwheel,thenthenosegear,withnoside-to-sidemotion.○ Itisimportanttorealizethat duringasideslip, theairplaneisbeingflownintentionallyuncoordinated. Theballwillnotbeinthecenter.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)9
+● Importanceof HoldingCrosswindCorrections-Iftheairplanehasanyside-to-sidemotionwhenittouchesdown,itwilltendtoskidandskipalongtherunway,andcanleadtoalossof control. Thisisbecausetheairplane’scenterofgravitywilltendtokeepmovinginthesamedirectionuntilcorrectionisappliedoruntilfrictionhasstoppedthemotion. Landinggear arenot designedtostopsidewaysmotion!○ Eveninlandingswherethepilothasappliedcrosswindcorrections,side-to-sidemotioncandevelopduringtheroundoutandflare,astheairplaneslows. Astheairplaneslows, morecrosswindcorrectionwill berequiredtoachievethesameresult.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)10
+● Go-Arounds-Ifiteverlookslikethelandingmaybeunsafe,orwon’tbesuccessful,thesafestcourseofactionisusuallytogoaround. Thismeanstoapplyfullpower,andclimbawayfromtherunwayandreturnforanotherattemptatlanding. It iscritical that pilotsarealwaysprimedfor thepossibilityofago-around!● LandingPerformance-Determiningexactlyhowmuchdistancewillberequiredforthelandingiscrucialtoensurethechosenrunwaywillbelongenoughtomakethelandingsafely. Anairplane’slandingperformanceishighlydependentonseveralchangingfactors,suchasweight, wind, anddensityaltitude. Aircraftperformanceatheavierweightsorhigheraltitudesisgreatlyreduced.○ Densityaltitude,whichisacorrectionforatmosphericconditions,isthealtitudethatanairplane‘feels’.○ Athigheraltitudesoronhotdays,thedensityoftheairwillbelessandthereforetheairplanewillneedtomovemoreairtostayaloft. Becausetheairspeedindicatorisalsoaffectedbydensityaltitude,itwillshowthesamevalues,howeverthetrueairspeedwillbehigher.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)11
+○ Thedifferencebetweenfieldaltitudeandthedensityaltitudecanbesignificant!■ SeetherelatedlessononDensityAltitude.● ThePOHforeveryaircraftwillcontainperformancechartsthatdetailhowmanyfeetoflandingdistanceisrequiredforvariousweights,winds,andweatherconditions. Italsoprescribesanairplaneconfigurationthatshouldbeused.● WakeTurbulence-Smallairplanesareparticularlyvulnerableduringtakeoffandlandingbecausetheysharethesamerunwaysasmuchlarger,heavieraircraft. Theseaircraftcanleavedangerousvorticesbehindthem,calledwaketurbulence. Thesevorticesbeginatthewingtipsoftheheavieraircraft,tendtomovewiththewind,andgraduallymoveapartanddescend. Thereforeit iscritical that whendepartingbehindlarger, heavier aircraft, sufficient time(usually1-2minutes) isallowedtopassinorder toallowthewaketurbulencetodissipate.○ Whenlanding,waketurbulenceofprecedingairplanescanbeavoidedbyremainingabovetheapproachpathoftheheavierairplane.● WindShear-Smallaircraftarealsoparticularlyvulnerabletoshiftingwinddirections,calledwindshear. Becausetheyaregenerallyunderpoweredandcannotclimbrapidlytosafety,ifanairplaneisflyingintoa10knotheadwindthatsuddenlydissipatesorchangesdirection,itmayendupinasituationwhereitdescendsrapidlyandunexpectedly,andtheangleofattackmayincreasetothatofastall.○ Whenlanding,largefluctuations(morethan5knots)ontheairspeedindicatorareawarningsignofpossiblewindshear. If youseelargefluctuationsintheairspeedindicator, goaround!● SafetyConsiderations○ Aswithanylanding,theuseof checklistsisimportant. Beforebeginningthemaneuver,thebeforelandingchecklistmustbecompleted. Afterlandingandrollingouttoasafepointclearoftherunway,theafterlandingchecklistshouldbecompleted.○ All landingsrequirecautionfor powerlines, tall trees, or other obstaclesonfinalapproachwhichmaybenear therunwayenvironment.○ Itiscrucialtonotbecomesofocusedonthelandingthatanunsafesituationiscreated.Maintainsituationalawareness,makeappropriateradiocalls,andensurethatlandingclearanceisobtainedbeforelanding. Vigilancemust bemaintainedafter landingtoavoidtaxiingontoanyintersectingrunwaysbeyondother holdshort lines. Ifthereisacontroltower,donotforgettocontactgroundcontrolfortaxiclearanceafterlanding,andatuncontrolledfields,clearlycommunicateyourtaxiintentionsontheradio. Rememberthatuncontrolledfieldsoftenhaveno-radio(NORDO)patterntraffic,soalwaysvisuallyverifytherunwayandfinalapproachpathisclear!○ Maneuveringinthepatternatlowairspeedcreatesariskofastallingsituation. If thestallwarningsoundsbeforethelandingflare, goaround!○ Exceptinthesideslipimmediatelybeforelanding,approachestolandshouldbeflowncoordinatedtoreducetheriskofastallingsituation.○ Whenexecutinganylanding,thereshouldbeapointidentified(nofurther thanthefirst 1/3oftherunway)beyondwhichiftheairplanehasnottoucheddownyouwillgoaround. Ifanyunsafesituationdevelops,suchasexcessiveballooningorbeingblownoffrunwaycenterline,goaround! Alwaysbepreparedtogoaround!○ Windshear, Tailwinds, WakeTurbulence-Duringtakeoffsandlandings,weareoperatingnearthegroundatlowspeed. Pilotsshouldexercisecautionifthereareindicationsof
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)12
+windshear,payattentiontosituationswherewaketurbulencewillbeafactor. Additionally,takingofforlandingwithatailwindcreatesamuchhighergroundspeed,lengtheningthegroundroll,andincreasingthedanger.○ RunwaySurfaceConditions-Iftherunwayiswetoricy,itcanbequiteslippery,particularlyinthetouchdownzonewheremanyprecedingaircrafthavedepositedrubber. Exercisecautioninthesesituations!
+ManeuverDescription● SelectingaSuitableRunway-Selectarunwaythatwillallowlandingintothewind,orwithamanageablecrosswind.● SelectingaTouchdownPoint-Selectaprominentfeatureontherunwaythatiseasytoidentifyfromthedownwindleg,andexplicitlystateit. Featureslike1,000footmarkers,touchdownzonemarkers,orrunwaynumbersaregoodchoices. Untilproficiencyisdeveloped,selectafeaturethatisnotdirectlyatthestartoftherunway,incaseoflandingshort.● EntryPositionandAltitude-Themaneuvershouldbeenteredonanormaldownwindleg,abeamthetouchdownpoint,atnormalpatternaltitude.● EntryAirspeed-Beginthismaneuveratanormaltrafficpatternairspeed,usuallyaround90knots.● Checklists-Pilotsmustperformabefore-landingchecklistbeforebeginningthemaneuver,andanafter-landingchecklistaftertaxiingsafelyclearoftherunway,forfull-stoplandings.● Airspeed-AirspeedshouldbekeptattheapproachairspeeddesignatedbythePOH,orslightlyhigher(addhalfthegustfactor)toaccountforgustingwindconditions. Bevigilant about maintainingairspeed,andif thestall indicationisheardat anypoint beforethefinal landingflare, discontinuethemaneuverandgoaround!● Bank-Sincethismaneuvertakesplaceinanairporttrafficpatternandinvolvesmaneuveringatlowspeedandatlowaltitude,thebankangleshouldbelessthan30degrees.● ApproachPath-Flyanormal,well-definedbaselegandfinalapproachsegment. Avoidcuttingthecornersoroverflyingthefinalapproachcourse.● Coordination-Themaneuvershouldbeflownincoordinatedflight. Attentionshouldbegiventoproperrudderinputduringturns.● Touchdown-Chooseanaimingpointsuchthattheairplanewilllandat, but not before,theselectedtouchdownpoint. Thelandingshouldbeatapropernose-highpitchangle(not onthenosewheel-- donot forceit!),safe,andundercontrol. Positiveaircraftcontrolmustbemaintainedatalltimes! Applyandholdproper crosswindcorrectionstoavoidsidewardsdrifting.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:binns_task_b_-_normal_approach_and_landing.pdf>>>
+========================================
+
+PPL(IV-B) / CAX(IV-B) / CFI (VII-B)13
+● After Touchdown-Applyaerodynamicandwheelbrakingifmakingafullstoplanding,orifmakingatouch-and-go,reconfiguretheairplanefortakeoffandapplyfullpowerpromptly.● BePreparedtoGoAround! Theapproachmaynotworkoutandago-aroundisverypossible. Bepreparedtoexecuteago-aroundifneeded.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandensurepropermanagementoftheapproachpath. Monitoringfor other trafficisespeciallycritical whenperformingthismaneuver at uncontrolledairfields.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthenormallandingmaneuverandhowwindandotherfactorsaffecttheperformanceofthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotselectsarunwaysuitablefortheweatherconditions,establishestheairplaneonadownwindlegatpatternaltitude,performsapre-landingchecklist,establishesaspeedbelowVa,makestheappropriateradiocalls,anddesignatesatouchdownpoint.○ Atthenormalabeampointonthedownwind,thepilotclosesthethrottle,appliescarbheatasnecessary,andestablishesadescentatthenormalapproachairspeed(or1.3Vso)+10/-5knots.○ Pilotmanagesthedescentandaimsforapointsoastomakeasafe,controlledlandingat orwithin400feet beyond(within200feetforCommercial) thedesignatedtouchdownpoint.(Thepilotmaynottouchdownbeforethedesignatedpoint)○ Pilotapplieswheelandaerodynamicbrakingtechniques.○ Pilotdividesattentionbetweenaccurate, coordinatedairplanecontrolandoutsidevisualreferences.○ Pilotperformsatimelygo-aroundifthesafecompletionofthemaneuver withinstandardsisindoubt.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

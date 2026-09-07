@@ -1,0 +1,193 @@
+DOCUMENT_TITLE: binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds
+SOURCE_FILE: binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)1
+Demonstrationof Flight Characteristicsat VariousConfigurationsandAirspeeds
+Objective
+ToensuretheflightinstructorapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofAircraftEnergyManagementandhowtodemonstrateaircraftbehaviorinavarietyofconfigurationsandenergystates.
+Purpose
+Duringflighttraining,studentsareindirectlyexposedtotheconceptofenergymanagement. ThislessonwillshineaspotlightonAircraftEnergyManagement,introducethePowerRequiredcurve,anddemonstrateaircraftenergystateswhichare“irreversible”. Thislessonalsointroducespilotstotheconceptofthetwokindsof“faultyapproaches”.
+Schedule Equipment
+● GroundLesson:25minutes● Initial■ Flight 1:40minutes-DemonstrateManeuver● CFIApplicantsOnly■ Flight 2:30minutes-ImproveProficiency(Dual)■ Flight 3:20minutes-DemonstrateProficiency● Debrief:10minutes(perflight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthedemonstrationandhowtoexecuteitproperly.● Canexplaintheconceptofenergymanagement,thepowerrequiredcurve,and‘regionofreversecommand’.● Flight:StudentcanperformthedemonstrationmaneuvertotheapplicableACSstandards.● Clean:BeginsatVA
+,slowstoVG
+,thentomin.controllableairspeed. Acknowledgesimpendingstall,recoverstolevelflightbyreducingpitchonly,thentocruisespeed.● LandingConfig:BeginsatVA
+,slows,configuresforlanding,andholdsVG
+,thentomin.controllableairspeed.Acknowledgesimpendingstall,recoverstolevelflightbyreducingpitchonly,thentocruisespeed.● Holdsaltitude±100feet(atorabove1500ftAGL),airspeed+5/-0knots,bank±5°,headings±10°.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)2
+References
+● FriendlySkiesFilm-“EnergyManagement:Speedvs.Altitudeandeverywhereinbetween”○ YouTube-https://www.youtube.com/watch?v=5WwGjR7AKf0● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter4[EnergyManagement],Chapter5,Page8-9[CoordinatedFlight/AngleofAttack],Chapter5,Page9-12[SlowFlight],Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page2-5[Thrust,Lift,andAngleofAttack],Chapter5,Page5[Lift/DragRatio],Chapter5,Page7[InducedDrag],Chapter5,Page22-23[ForcesinTurns],Chapter5,Page25-26[Stalls],Chapter5,Page30-33[LeftTurningTendencies],Chapter5,Page34-35[LoadFactorsandStallingSpeeds],Chapter5,Page37-38[VgDiagram]● FAA-S-ACS-25(CFIACS)-AreaXITaskB
+GroundLessonOutline
+● IntroductiontoAircraftEnergyManagement○ MovingBetweenEnergyStates○ Dangersofmaneuveringatcriticallylowenergystates● BehindthePowerCurve○ ThePowerRequiredCurvevsPowerAvailableCurve○ MinimumPowerRequiredisabitslowerthanMinimumDragSpeed(BestGlide)○ SpeedInstability/IrreversibleEnergyDepletion○ FaultyApproaches,RecoveringfromUnstableEnergyStates● FlyingatMinimumControllableAirspeed○ LeftTurningTendencies■ TorqueReaction,SpiralingSlipstream,P-Factor○ BankAngleandLoadFactor○ Factorsthataffectstallspeed■ Loadfactor,CG,Weight,Coordination○ AirspeedControl,Trim,andCoordination○ AirplaneConfigurations■ Clean,Dirty(Landing),AirspeedLimitations● Safetyconsiderations○ FlyingwithaStallWarning,Useofchecklists,Visualtrafficscanning,Environmentalfactors● ManeuverDescription-step-by-step○ Entryconfiguration,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Failuretoestablishspecifiedconfiguration.● Improper entrytechnique(i.e. not beginningat Va).● Failuretoestablishandmaintainbest glidespeedbeforecontinuingtominimumcontrollableairspeed.● Excessivevariationsof altitudeandheadingwhenaconstant altitudeandheadingarespecified.● Improper recoverytechnique(i.e. recoveringwithpower insteadof pitch)● Uncoordinateduseofflightcontrols.● Improper correctionfor torqueeffect.● Impropertrimtechnique.● Unintentionalstallsandunacknowledgedstallindications.● Lackoffamiliaritywithorexceedingairplaneairspeedlimitationsforvariousconfigurations.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)3
+GroundLessonContent
+● IntroductiontoAircraft EnergyManagement-Althoughstudentsareindirectlyexposedtoenergymanagementduringtheirflighttraining,itisoftennotexplicitlyacknowledged. However,aproperexplanationoftheconceptof‘energy’,specificallythecombinationofkinetic(airspeed)andpotential(altitude)energy,canhelpthestudentunderstandthesometimesunintuitivebehavioroftheaircraftinsomesituations. Itisimportantforflightinstructorstoexplainthesefundamentalstotheirstudentstodemystifythisbehavior.○ Aircraftarecontinuouslyinastateofdelicatebalance,wheretheengineisprovidingenergyintheformofthrust,andtheatmosphereisstealingawaythatenergyintheformofdrag.○ Whenthrustanddragareoutofbalance,energyiseitherstored(intheformoranincreaseinaltitudeorairspeed)orreleased(byadecreaseofaltitudeorairspeed).
+● Additionally,storedenergy(altitudeorairspeed)canbeexchangedforeachotherbyuseoftheelevator,e.g.bypullingbackontheelevator,airspeedcanbeexchangedforaltitude,etc.● Wecanthinkofthisasasystemwhereenergyiscontinuouslycominginandgoingout,andthethrust(viathethrottle),drag,andelevatorpositiondeterminewhetherthisenergyisstored,released,orexchanged.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)4
+○ MovingBetweenEnergyStates-Wecanplotalloftheenergystatesthatareequivalentbyplacingcontoursonanaltitudevs.airspeedgraph. Thatistosay:anytwoenergystatesconnectedbyacontourlineareequivalent,andcanbeexchangedforoneanotherwithnonetenergyaddedorremoved.■ E.g.inthebelowexample,Arepresents100ktsat6000ft. Achangeinaircraftpitchcanexchangesomeofthisaltitudeforairspeed,placingitatB,2000feetlowerbutatmorethantwicetheairspeed. Thiswouldrepresenttheaircraft‘diving’.
+● BehindthePower Curve-Whenflyingatlowairspeeds,theairplaneissaidtobebehindthepowercurve. Thepowercurverepresentstheamountofpowerrequiredtomaintainagivenairspeedwithoutaccelerating. Thisisataminimumwhenflyingslightlyslowerthanwhentheamountoftotaldragisataminimum.
+○ MinimumPower RequiredSpeed-Airspeedsbelowtheminimumpowerrequiredspeedaresometimescalledtheregionofreversecommand. Thisisbecauseanyincreaseinpitch,andthereforeangleofattack,willresultinahigherpowerrequirement,whichwillincreasetherateofdescent.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)5
+■ Why?Horsepower=ForcexDistance/Time. Thisisslightlycounterintuitive,buttheimportantthingtorealizeisthatitmeasurestherateofworkperformedovertime,andhasatimeanddistancecomponent. Inshort,flyingattheminimumdragspeedrequiresthelowestamountofthrust,butrequiresslightlymorehorsepower.● Ifwewanttostayairborneaslongaspossible,wemustminimizetheenergyconsumptionperunitoftime.Inthiscase,thespeedtoflyatisthespeedwhichhastheminimumpowerrequired.● Iftheobjectistoflyasfaraspossible,wemustminimizetheenergyconsumptionperunitofdistancetraveled.Sinceenergyconsumedequalsforce(thrust)timesdistance,theminimumenergyperunitofdistanceisfoundwhenthethrustandthusdragislowest.■ RefertothebelowgraphwhichplotsthePowerRequiredcurveversustheTotalDragCurve. Asthespeedisreducedbelowtheminimumdragspeed,thepowerrequiredcontinuestodecreaseslightly,beforerisingrapidly. Attheselowerspeeds,inordertomaintainaltitude,theairplane’senginemustproducemorehorsepower. Thismeansthat for anyairspeedbelowminimumpower requiredspeed, flyingat slowerairspeedsactuallyrequiresmorepower. Thiscreatesanunstablesituationandisreferredtoasspeedinstability.
+https://aviation.stackexchange.com/questions/98084/why-does-an-aircraft-require-less-power-when-it-is-flying-slower-than-the-most-e
+○ MinimumPower Requiredisabit slower thanMinimumDragSpeed(Best Glide)-ItisimportanttorealizethattheMinimumPowerRequiredspeedisslightlylessthanwhenTotalDragisataminimum. Thisminimumdragpointiseasytodetermine,asitisthesameastheBestGlidespeed,howevermanufacturerstypicallydonotpublishMinimumPowerRequired,
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)6
+alsocalledMinimumSink. (AlthoughBestGlideistypicallypublishedforMaxGrossweight,andmustbeadjusteddownwardslightlyforlighterweights)■ Therefore,forthepurposesofthismaneuver,wewilluseBestGlidespeedasacloseapproximationofMinimumPowerRequired○ SpeedInstability/ IrreversibleEnergyDepletion-Recallthatfarbehindthepowercurve,anaircraftwillsufferfromspeedinstability. Thisismostnoticeablewhentheaircraftisflyingatairspeedsveryclosetothestall. Noticethattheleft(slow)sideofthetotaldragcurveincreasesrapidlyasairspeeddecreases. Thismeansthat thepower requiredcanquicklyexceedthepower available! Whenthissituationoccurs,theaircraftwillcontinuouslyloseenergy,andifthepilotattemptstomaintainaltitude(potential)energy,theenergylosswillbeprimaryfromkineticenergy:airspeed. Inshort,theairspeedwilldecayirreversiblyandtheaircraftwilleventuallystallifactionisnottakentocorrectthelowenergysituation! Whenthepowerrequiredismorethanthepower available, theonlyremainingsolutionistotradealtitudefor airspeed.
+○ FaultyApproaches-Theseconceptsaremostrelevanttostudentpilotsastheypertaintoapproachestoland. Specifically,inthesesituations,aircraftareflyingatslowairspeeds,usuallybehindthepowercurve,intheregionofreversecommand. Smallerrorsinglidepathandairspeedmanagementcanresultinfaultyapproaches,andimproperrecognitionandcorrectionofthesesituationscanhaveseriousconsequences!■ EnergyState-FaultyApproachesfallintoeitherLowEnergy,orHighEnergycategories. Itiscrucialthatpilotsunderstandenergymanagement,becausetheseerrorsrequirepilotstotakestepstomovetheaircraftupordowntheenergycontours,notjustalongthem!
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)7
+■ Dangersof LowEnergyApproaches-ThemostdangerouscategoryofFaultyApproaches,LowEnergy,isdangerouspreciselybecauseofthespeedinstabilitydescribedpreviously,andcanrapidlycausetheairspeedtodecaytostallingspeed,ortheglidepathtosinkunacceptablylo
+● RecoveringfromUnstableEnergyStates-Considerascenario(inred)wheretheairspeedhasbeenallowedtodecaysuchthatthePowerRequiredisgreaterthanthePowerAvailable.(AllenergystatesoutsidetheboldlinerepresentPowerRequired>PowerAvailable) Inordertorecoverfromthisstate,enginepowercannotbeincreasedanyfurther,however,ifaltitudeisavailable,pitchcanbereducedtotradealtitudeforairspeed(inyellow). Thisincreaseinairspeeddoesnotrequireanyadditionalenergy(itmovesalonganenergycontour),howeveritmovestheaircraftintoastatewherelesspowerisrequiredand/ormorepowerisavailable.Thismorefavorableenergysituationmeansthattheaircraftcanclimbagain! (ingreen)
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)8
+○ Inshort, whendealingwithverylowairspeedsituations, it will oftenbenecessarytotradealtitudefor airspeed,howeverbymovingtoamorefavorableenergysituation,theaircraftmaystillbeabletoclimb,orclimbmorerapidly! (UntiltheAbsoluteCeiling,whenVxandVyconvergeandthePowerRequiredisequaltoPowerAvailable)
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)9
+● Flyingat MinimumControllableAirspeed○ Left-TurningTendencies-Becauseslowflightrequiresarelativelyhighpowersetting,andisflownatahighangleofattack,airplanesduringslowflightaresubjecttomorepronouncedleft-turningtendencies.
+○ TorqueReaction-Astheengineturnsthepropellertomovetheair,Newton’slawsofmotionrequireanequalandoppositereaction.Inparticular,asthepropellerturnsclockwise(fromthepilot’spointofview), theairplanewantstorotate(bank) oppositethepropellerrotation, totheleft. Inordertocounteractthis,airplanesaregenerallydesignedsothattheleftwingmakesslightlymoreliftthantherightwing(whichalsoproducesslightlymoredrag),butthesedesignfeaturesaretunedforcruisingflight. Athigherpowersettings,thiswillproduceanoticeableleft-turningtendency.
+○ SpiralingSlipstream-Astheairflowmovesthroughthepropellerandaroundthefuselage,wings,andcontrolsurfaces,itisspinning. Thespinningpropellerimpartsaconsiderablespiralingmotiontotheslipstream,andbecausethevertical tail surfaceextendsonlyabove,andnot below, thespiralingslipstreampushesthetail slightlyright, leadingtoleftyaw.
+○ P-Factor-Astheairplanebitesintotheoncomingair,itisimportanttorealizethatitisjustarotatingwing,andithasanangleofattackjustasanyotherwing. However,becausetheengineismountedinafixedorientationrelativetotheairplane,whentheairplaneitselfisflyingatahighangleofattack,theangleofattackofthedescendingbladeisconsiderablydifferent(higher)thantheascendingblade. Thisproducesmorethrust ontheright sideof thepropeller disc, andpushesthenosetotheleft.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)10
+○ Specifically,ahighpowersettingproducesahightorquereactionandalargerspiralingslipstreameffect,andthehighangleofattackmakesP-factorverypronounced, especiallyinaturntotheright. Rudderpressuretomaintaincoordinatedflightmaybesignificant.
+○ BankAngleandLoadFactor-Asanairplaneturns,itsweightremainsthesame,andthereforetheupwardcomponentofliftmustremainequaltoitsweight. Duringaturn,someoftheliftmustbedirectedtowardsthecenteroftheturn,reducingtheupwardcomponentoflift. Ifnopilotcorrectionswereapplied,theairplanewouldnotproduceanymorethanthenormal1goflift,andtheairplanewouldbegintodescend. Inordertocorrectforthelossofverticallift,andmaintainalevelaltitude,thewingmustproducemorelift,whichrequiresincreasedbackelevatorpressure. Thisincreasedbackelevatorpressurewillcausethewingtoflyatahigherangleof attack,producingtheincreasedliftthatisrequired. ThiscanbefeltbythepilotasahigherthannormalG-force.■ Inordertomaintain1gofverticallift,whilealsoturning,thewingmustproducemorethan1goftotallift. Theamountoftotalliftiscalledtheloadfactor.
+■ Asthebankangleincreases,theloadfactorrequiredtomaintainlevelflightincreasesslowlyatfirst,butincreasesrapidly,especiallyatbankanglesbeyond45degrees. Theloadfactorcreatedbyalevel,coordinatedturndependsonlyonthebankangle. Notethat airspeeddoesnot affect theloadfactor of aturn.● Whileflyingatahigherangleofattacknecessarytomeetthedemandsofahigherloadfactor,thewingwillproducemoreinduceddrag. Thiswillresultintheairspeeddecreasingunlesspowerisaddedtocompensatefortheincreaseddrag.
+● Factorsthat affect Stall Speed● LoadFactor-Astheloadfactorincreasesinaturn,itisimportanttorecognizethat thestallspeedalsoincreases. Wecanseethisrelationshipdepictedinaso-calledVgdiagram,shownbelow. TheStallSpeedwenormallyseeforouraircraft,VsorVs0
+,appliesonlyto‘unaccelerated’flight--thatis,flightat1gloadfactor. ObservefromtheVgdiagramthatastheloadfactorincreases,thestallspeedalsoincreases.● Slowflight,whichisusuallyflownjustabove1gstallspeed,requiresthat bankanglesbekeptverylowtominimizetheincreaseinloadfactor.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)11
+■ Center of Gravity-Whenconventionallydesignedairplanesfly,thecenterofgravityisalwaysinfrontofthecenteroflift. Youcanthinkofthecenterofliftasasortofpivotpointinaseesaw. Becausethehorizontalstabilizerisfarbehindthecenteroflift,itproducesdownwardforce(essentiallylift,butdownward)tokeepthenoseoftheairplanelevel. Thisdownwardforceopposestheupwardforceofthemainwing,requiringittoproduceslightlymorelifttocompensate. Also,becauseanyairfoilthatproducesliftalsoproducesdrag,theamountofdragcausedbythehorizontalstabilizerdependsontheforceitmustproduce.● Whenthecenterofgravityisfurtherforward,thehorizontalstabilizermustproducemoredownwardforce,andthereforeitcreatesmoredragandcausesthemainwingtoflyatahigherangleofattackforthesameairspeed. Weknowthatawingwillalwaysstallatthesameangleofattack,sowealsoknowthat asthecenter of gravitymovesfurther forward, theairplanewill stall at ahigher airspeed.
+■ Weight-Likewise,whenflyingathigherweights,thetotalloadonthewingishigher,againresultinginahigherangleofattackforthesameairspeed. Heavier aircraft stallat ahigher airspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)12
+■ Coordination-Airplanesflyinginanuncoordinatedfashiongenerateaconsiderableamountofincreaseddrag,andthefuselagemayblanketonewingortheother,increasingthestallspeed. Thiscanactuallycausetheleft andright wingtostall atadifferent airspeed! Thisisaverydangeroussituationandmust beavoided.
+○ AirspeedControl, Trim, andCoordination-Whenperformingslowflight,itisimportanttomaintainastableairspeed. Generallyslowflightisperformedjustabovestallspeed,whichdependsontheconfigurationoftheairplane(cleanorlandingconfiguration). It isimportant tousetheelevator trimtoholdthedesiredairspeedthroughout themaneuver!■ Becauseoftheproximitytothestall, it iscrucial that slowflight beperformedincoordinatedflight. Paycloseattentiontotheballandthesensationsbeingexperiencedtoensurethattheairplanestaysincoordinatedflight.
+● AirplaneConfiguration-BecauseconditionssimilartoSlowFlightareoftenencounteredduringtakeoffs,landings,andgo-arounds,theslowflightmaneuverisperformedinavarietyofconfigurations:○ Clean-Simulatesslowflightaftertakeoff,typicallyaroundVx.○ Dirty(Full Flapsor LandingFlaps)-Simulatesslowflightbeforelanding,orduringgo-arounds.■ Flapsaddliftaswellasdrag,andresultinlowerpitchangles. Itisoftenmorecomfortabletoflyslowflightwithlandingflaps.■ It isimportant torealizethat flapschangetheshapeof thewingandthereforeaffect theairspeedsandangleof attackat whichthewingstalls! AirspeedswhichworkintheCleanconfigurationwillnotmatch○ AirspeedLimitations-ThisdemonstrationrequirestheaircrafttobeflownbetweenManeuveringSpeed(Va
+)andMinimumControllableAirspeed(~Vs
+/Vs0
+),andtheaircraftmustbeconfiguredasspecifiedbytheevaluator. Therefore, airspeedlimitsonflaps(Vfe
+) andlandinggear (Vle
+, Vlo
+, if applicable) must berespectedat all timesthroughout themaneuver!
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)13
+● SafetyConsiderations○ Flyingwithastall warning-Anywarningthatgoesunheededandunacknowledgedwillquicklybecomepartofthe‘backgroundnoise’andbeignored. Therefore,wewantourstudentstoalwaysreactpromptlytoacknowledgestallindications.○ Aswithanymaneuver,theuseof checklistsisimportant. Beforebeginningthemaneuver,performapre-maneuverchecklist,includingperformingclearingturnsandidentifyingpossibleemergencylandingsites.○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriatepracticearearadiocalls,andremember tocontinuouslyscanfor traffic!○ Environmental Factors-Whenoperatingatveryslowairspeedsnearthestall,keepinmindthatsmallwindgustsorturbulencecancauseabruptstalls. Avoidperformingthisdemonstrationinroughorgustyconditions.
+ManeuverDescription● EntryAltitude-Flightnearstallingspeedsshouldalwaysbeperformedatasafealtitude,incaseofaninadvertentstallorotherproblems. Themaneuvershouldbeperformedsuchthattheaircraftisalwaysatleast1,500feetAGLormore. Therecoveryprocedurewill necessitateasmall lossof altitude,sochoosingastartingaltitudeof at least 2,000feet AGLisrecommended.● EntryAirspeed-Themaneuvershouldbestartedat Va
+(maneuveringspeed).● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver.● EntryPower-Initially,reducethepowertoallowtheaircrafttodecelerate.● Configuration-Ifthelandingconfigurationisspecifiedbytheevaluator,astheaircraftslowsbelowtheapplicableairspeedlimits,extendtheflapsand/orlandinggearasappropriate. Donot exceedanyairspeedlimitations!● ContinueSpeedReduction-Airspeedshouldbeallowedtoslowfromentryairspeeddowntoapproximateminimumpower requiredspeed(i.e. Best Glide)inthecurrentconfiguration.● AcknowledgeMinimumPower Required-Maintaincoordinatedstraight-and-levelflightatBestGlidespeedandcallthestudent’sattentiontothecurrentpowersetting.● ContinueSpeedReduction-Slowtheairplanefurtherwithpitchandpoweradjustmentstominimumcontrollableairspeed,i.e.anairspeedatwhichanyfurtherincreaseinangleofattackcausesanimmediateaerodynamicstall.● MaintainingMinimumControllableAirspeed-Onceminimumcontrollableairspeedisreached,addagenerousamountofpowerbacktomaintainairspeedandaltitude. Donotallowtheairspeedtodecayanyfurther,anddonotallowtheairspeedtoincrease.● AcknowledgeMinimumControllableAirspeedandPower Required-Acknowledgethestallwarningsverbally,andcallthestudent’sattentiontothenewpowersetting,whichishigherthantheprevious(bestglide)powersetting.● BeginRecovery-Recovertonormalcruiseflightbyreducingpitchonly, without adjustingthepower setting,allowingtheairspeedtoincreaseandtemporarilydescendingbelowtheentryaltitude.● AcknowledgeAltitudeLossandAirspeedGain-Callthestudent’sattentiontothefactthattheairspeedhasnowincreased,notethealtitudeloss,andthattheaircraftisnowmaintainingstraight-and-levelflightatthesamepowersettingatahigherairspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:binns_task_b_-_demonstration_of_flight_characteristics_at_various_configurations_and_airspeeds.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-B)14
+● ContinueRecovery-Climbbacktotheentryaltitudeandresumenormalcruiseflight. Ifperformedinthedirtyorlandingconfiguration,progressivelyretractflaps,landinggear,etc.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtoholdheading.
+ExpandedCompletionStandards● Theflightinstructorapplicantcanexplainthepurposeofthedemonstrationmaneuverandcanexplaintheconceptofenergymanagement,thepowerrequiredcurve,and‘regionofreversecommand’.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,andselectsanaltitudenotlessthan2,000ftAGL.○ Pilotestablishescruiseflightatmaneuveringspeed(Va
+).○ PilotreducespowertoestablishlevelflightatBestGlide(Vg
+)speed,andconfigurestheairplaneasspecifiedbytheevaluator,withoutexceedinganyairspeedlimits.○ Pilotcallsattentiontothepowersetting.○ Pilotfurtherreducesairspeedtominimumcontrollableairspeed.○ Pilotcallsattentiontothestallindicationsandthenewhigherpowersetting.○ Pilotreducespitchtoincreaseairspeedandallowstheaircrafttostabilizeataloweraltitudeandhigherairspeed.○ Pilotcallsattentiontothenewhigherairspeedforthesamepowersetting.○ Pilotcompletestherecoverytonormalcruiseflightattheentryaltitude.○ Pilotcanholdaltitude±100feet(alwaysatorabove1500ftAGL),airspeed+5/-0knots,bank±5°,headings±10°throughoutthemaneuver.
+Preparedby:RyanBinns(ryancbinns.com/flying),April2024Editableversionsavailableatbinnsflightservices.com/cfibinder

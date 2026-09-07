@@ -1,0 +1,108 @@
+DOCUMENT_TITLE: binns_task_h_-_navigation_systems_and_radar_services
+SOURCE_FILE: binns_task_h_-_navigation_systems_and_radar_services.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)1
+NavigationSystemsandRadar Services
+Objective
+ToensuretheapplicantlearnsaboutATCRadarServicesandthetypesofnavigationsystemsfoundingeneralaviationairplanes,aswellastheirusage.
+Purpose
+WiththebroadavailabilityofGPS,gettinglostisfortunatelynolongeracommonoccurrenceforpilots,howeverpilotscannotrelyonGPSinmanycases. ThislessonintroducespilotstoATCRadarServicesandtheiruse,aswellasthetypesofradioaidstonavigationavailabletoVFRpilotswhichcanbeusedtosupplementbasicpilotage,deadreckoning,andGPSusage.
+Schedule Equipment
+● GroundLesson:30minutes● Student Q&A:10minutes
+● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Listentolinkedpodcastepisode.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● VORs-ConceptofOperation,TypeofAntennaUsed,andtheiruse,including:○ TuningandStationIdentification,CDIandTO/FROMflagindications● DME-ConceptofOperation,TypeofAntennaUsed,anditsuse,including:○ Tuning,SlantRange● GPS-ConceptofOperation,TypeofAntennaUsed,anditsuse,including:○ Numberofsatellitesrequired,thepurposeofRAIMandWAAS,CDIindicationsandsensitivity
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)2
+References
+● CaptainJoe-“WHATisaVOR?ExplainedbyCAPTAINJOE”○ YouTube-https://www.youtube.com/watch?v=wuLTppemEgA● OpposingBases:AirTrafficTalkPodcast-EpisodeOB006:VFRFlightsMatter○ http://opposingbases.libsyn.com/ob006-vfr-flights-matter● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter16,Page22-34[Ground-BasedNavigation]● AIM-2024-03-21(AeronauticalInformationManual)-Chapter1[AirNavigation]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVITaskB● FAA-S-ACS-7B(CommercialPilotACS)-AreaVITaskB● FAA-S-ACS-25(CFIACS)-AreaIITaskH
+GroundLessonOutline
+● VHFOmnidirectionalRange(VOR)○ ConceptofOperation-360‘radials’extendingfromthestation,pilotstrackthesecourses■ ServiceVolumes○ Antenna-Usuallytwo‘whiskers’ontheverticaltail○ Usage-Tuning,StationIdentification,CDI,TO/FROMIndication● DistanceMeasuringEquipment(DME)○ ConceptofOperation-Interrogationandresponse,timedaccordingtothespeedoflight○ Antenna-Small‘fin’antennaonthebellyofanairplane○ Usage-Tuning,DistanceDisplay,SlantRange● GlobalPositioningSystem(GPS)○ ConceptofOperation-Time-of-Flightcalculationsbasedonanorbitingnetworkofsatellites■ Reliesonsatellitesbeinginview(overthevisiblehorizon)■ 4Satellites=3DPosition,5Satellites=RAIM,6Satellites=FaultDetectionandExclusion■ WAAS-3‘correction’signalsatellitesingeostationaryorbit○ Antenna-Round‘puck’-likediscontopofairplane○ Usage-Waypoints,CDI,CDISensitivity,RAIMPrediction/WAAS● ATCRadarServices○ FlightFollowing■ HowtoRequest■ PilotResponsibilities○ LimitationsofATCRadar-Headingvs.Track,Can’tSeeClouds,Weather● Transponders-ModeA/C/S,Ident○ ADS-BOutRequirements
+CommonErrors
+● MisunderstandingtheVORTO/FROMindication.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)3
+GroundLessonContent
+● VHFOmnidirectional Range(VOR)○ Concept of Operation-AVHFradiostationbroadcastingtwosignalson108.00to117.95MHz,creating360‘radials’extendingfromthestation. Radialsaredeterminedbycomparingthephaseofarotatingsignal(30timespersecond)toafixedreferencesignal. Pilotscandeterminewhich‘radial’theyareon,andtrackthesecoursestoandfromVORstations.
+■ ServiceVolumes-VORs,asVHFradiosignals,relyonline-of-sighttransmission.DifferentVORshavedifferent servicevolumes,whichdefinetheareaswheretheVORsignalisusablefornavigation. Ingeneral, below1,000feet AGL, VORsignalsareunreliable.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)4
+○ Antenna-Usuallytwo‘whiskers’ontheverticaltail. AlsosharedwiththeILS(Localizer)receiver,ifequipped.
+○ Usage-■ StationIdentification-BeforeusingaVOR,pilotsmusttuneitintotheVORreceiver,whichisoftenthesameasthenormalVHFComradio. Aftertuningit,VORstationsmustbeidentifiedbylisteningtothemorsecodeidentifierbroadcastbythestations.(SeethemorsecodedepictedontheVFRsectionalcharts)
+■ CDI, TO/FROMIndication-Wheneveranairplaneisonaradial,theCourseDeviationIndicator(CDI)willdisplayaFROMindication. Forexample,anairplaneisduenorthofastation,theCDIwillindicateaFROMflagonthe360degreeradial. PilotsoftenwanttoflytoaVORstation. Inthesecases,theytunethereciprocal(180degreesoffset)radialfromtheonetheyarecurrentlyon. Forexample,anairplanetothenorthofastationwantingtoflytothestationandflysouth(180degrees),shouldsetthe180degreeradialusingtheOmni-BearingSelector(OBS)knob,andlookforaTOflag.● Whenthepilotisoncourse,theCDIneedlewillbecentered.● HeadingTowardstheStation(TOFlag)/HeadingAwayFromtheStation(FROMFlag)-Whenthepilotshouldflylefttointerceptthecourse,theCDIneedlewilldeflectleft. Theneedlewilldeflectrightforrightcorrections.● HeadingTowardstheStation(FROMFlag)/HeadingAwayFromtheStation(TOFlag)- TheCDI needleindicationwill bereversed!
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)5
+● DistanceMeasuringEquipment (DME)○ Concept of Operation-DMEradiosoperateontheprinciplethatthespeedoflightisafixednumber. DMEradiossendaninterrogationpulseandwaitforareplypulse,andthetimingofthesesignalscanbecomparedusingthespeedoflighttoestimatedistance.
+○ Antenna-DMEantennasaregenerallyasmall‘fin’antennaonthebellyofanairplane.
+○ Usage-PilotsonlygenerallyneedtospecificallytuneaDMEifitisaseparateradiothantheVORreceiver. DMEoperatesonadifferentfrequencyrangethanVOR,butpilotstunetheVORstationfrequencyintotheDMEreceiverandtheproperDMEfrequencyiscalculatedbythereceiver.■ TheDMEradioproducesonlyadistancedisplay,whichisthenumberofnauticalmilestothestation. Notethatthisdistanceisslant range,whichisthedirectline-of-sightdistancetothestation. At highaltitudes, thiscanbequitedifferent thanthedistancealongtheground!● Global PositioningSystem(GPS)○ Concept of Operation-Time-of-Flightcalculationsbasedonanorbitingnetworkofsatellites■ Reliesonsatellitesbeinginview(overthevisiblehorizon)■ 4Satellites=3DPosition,5Satellites=RAIM,6Satellites=FaultDetectionandExclusion■ WAAS-3‘correction’signalsatellitesingeostationaryorbit
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)6
+○ Antenna-Round‘puck’-likediscontopofairplane.
+○ Usage-■ Waypoints-GPSreceiversgenerallyrelyonpilotstocreateflightplans,whicharesequencesofnamed,pre-programmedlocations. Thecoursecreatedbetweeneachwaypointisdepictedonascreen,usuallyasamagentaline.■ CDI-GPSreceiversdisplaytheairplanepositiononamovingmap,butmostalsosupporttheCDIneedle,similartoaVORreceiver. TheCDIindicatesthedirectionpilotsshouldflytoreturntothecourseline,whichisusuallythenextwaypointintheGPS.■ CDI Sensitivity-UnlikeVORCDIs,wheretheamountofneedledeflectionvarieswiththedistancefromthestation,GPSCDIsvaryafixedamount,dependingonthedistancefromthecourseline. (Calledthecross-trackdistance) Thesensitivity(amountofcross-trackdistanceper‘dot’ofCDIdeflection)dependsonthephaseofflight,withEnroute(Cruise)beingtheleastsensitive.■ RAIMPrediction/WAAS-InordertoensurethereliabilityoftheGPSsignal,therearemultipletoolsbuiltintomodernGPSreceiverstoensurethatsatellitecoverageissufficient. IftheGPSisnotequippedfortheWide-AreaAugmentationSystem(WAAS),thereisatoolcalledtheRAIMPredictionTool,whichcancomputewhetheratleast5satelliteswillremainvisibleduringtheentireflight. IftheGPSisequippedwithWAAS,thisisgenerallynotnecessary.● ATCRadar Services○ Flight Following-CommonlyusedbyVFRpilots,officiallycalledRadar Services,flight
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)7
+followingisavailabletopilotsfrommostATCradarfacilities. Pilotsgenerallyrequestflightfollowing,andinformATCoftheirtypeofaircraft,routeofflight,intendedaltitudeandotherimportantinformation,etc. ATCthenprovidestrafficadvisories,occasionallyweatheradvisories,andhelpstocoordinatewithupcomingATCfacilities.■ HowtoRequest-Requestingflightfollowingissimple:● Example:“OrlandoApproach,CessnaN12345,5milessouthofLeesburg,VFRtoOrlandoExecutiveat3,000feet,requestingFlightFollowing”● ExampleReply:“CessnaN12345,OrlandoApproach,Squawk1234,MaintainVFRat3,000feetoncourse”■ Pilot Responsibilities-Whenreceivingflightfollowing,pilotsareexpectedtoinformATCofanyaltitude,speed,orlargeheadingchanges. Additionally, pilotsmustmaintainVFRcloudclearancesandinformATCif aclimb, descent, or turnisrequiredtomaintainVFR!
+○ Limitationsof ATCRadar-ATCradarisgenerallydesignedtodepictairplanes,andhasverylimitedweatherdisplaycapabilities.■ HeadingvsTrack-ATCradarseesonlyanairplanesgroundtrack,notit’sheading!HoweverATCwillissueheadings. Evenifapilotisabletodeterminetheiractualgroundtrack(i.e.usingaGPS),pilotsshouldflytheheadingsgivenbyATC,andnotattempttomatchthegroundtrack!■ CloudsareInvisible-ATCdoesnotknowwherethecloudsare! IfapilotseesthattheycannotmaintainVFRcloudclearances,theymustinformATC!■ Weather Capabilities-ATCradaronlydisplaysprecipitation(rain,snow,etc),whichdoesnotaccountforalltypesofhazardousweather. WhileATCadvisoriesonweather canbehelpful, theyshouldnot bereliedupon!● Transponders-ATCRadarseesaircraftby‘interrogating’,thatis,sendingarequestandreceivingareply,fromtranspondersonaircraft. Transponderssendbackwiththem,amongotherdata,asquawkcode,whichisanoctalidentifierbetween0000and7777. Transponderscanoperateinseveralmodes,butthemostcommonare:○ ModeA-Squawkcodeonly.○ ModeC-Squawkcodeandaltitudereporting.○ ModeS-Squawkcode,altitudereporting,andahexadecimalcodewhichrepresentstheaircraftregistrationnumber. E.g.N12345=A061D9○ Transpondersarealsocapableofsendingan“Ident”,whichistriggeredbythepilotattherequestofATC. WhenpilotstriggertheIdentfunction,thetargetwillchangeslightlyontheATCradardisplay,toaidintargetidentification.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_h_-_navigation_systems_and_radar_services.pdf>>>
+========================================
+
+PPL(VI-B) / CAX(VI-B) / CFI (II-H)8
+● ADS-BRequiredAirspace
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

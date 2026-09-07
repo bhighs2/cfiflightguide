@@ -1,0 +1,155 @@
+DOCUMENT_TITLE: binns_task_c_-_straight_climbs_and_climbing_turns
+SOURCE_FILE: binns_task_c_-_straight_climbs_and_climbing_turns.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)1
+Straight ClimbsandClimbingTurns
+Objective
+Toensuretheapplicantlearnsthepropermethodsforperformingclimbsandclimbingturns,aswellashasanunderstandingofthepurposeoftheflightcontrolsandhowairplanesclimb.
+Purpose
+Airplanesneedtoclimbtofly,andclimbsintroducepilotstosomeofthemoreimportantconceptsthatwillbeusedinlatermaneuvers,suchastheconceptofclimbspeeds,theleft-turningtendencies,andclimbingturnsdeveloppilotskillswithmultitaskingandmonitoringmultiplethingssimultaneously.
+Schedule Equipment
+● GroundLesson:15minutes● Flight Lessons■ Flight:20minutes- IntroductiontoManeuver■ Flight:10minutes(perlesson)- ImproveProficiency(Dual)● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainhowairplanesclimbandtheprocedureforinitiatingaclimb.● Flight:Studentcanperformaclimbtothefollowingstandards:● Maintainsvisualscanoutsidethecockpitwhileoccasionallyreferencingtheflightinstruments.● Trimstheairplaneappropriately,maintainscoordinatedflight.● Initiatesaclimbandestablishesanormalclimbpitchattitudeandtrimsforanappropriateclimbairspeed.● Asdirectedbytheinstructor,turnstoaspecifiedheadingduringtheclimb.● Holdstargetheading+/-10degrees,maintainsairspeed+/-10knots,levelsoffattargetaltitude+/-100feet.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)2
+References
+● DisciplesofFlight-“DisciplesofFlightPresentsAerodynamics-ClimbingandtheFourForces”○ YouTube-https://www.youtube.com/watch?v=xlGc8HKDTFQ● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page1-3[TheFourFundamentals/EffectandUseofFlightControls],Chapter3,Page5-6[IntegratedFlightInstruction],Chapter3,Page10[TrimControl],Chapter3,Page17-20[ClimbsandClimbingTurns]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page1-8[ForcesActingonanAircraft/Thrust/Lift/Drag/Weight],Chapter5,Page12-13[AxesofanAircraft],Chapter5,Page22-23[ForcesinTurns],Chapter5,Page23-24[ForcesinClimbs],Chapter6,Page2-8[FlightControls/Ailerons/Elevator/Rudder],Chapter6,Page10-12[TrimSystems],Chapter8,Page3-4[Altimeter],Chapter8,Page8-9[AirspeedIndicator],Chapter8,Page17-18[TurnCoordinator],Chapter8,Page18-19[AttitudeIndicator]● FAA-S-ACS-25(CFIACS)-AreaVIIITaskC
+GroundLessonOutline
+● IntroductiontotheFourFundamentals○ Straight-and-level,Turns,Climbs,andDescents○ Mostairplanesareinherentlystable○ Yaw/Pitch/Roll○ Airplanesturnbybanking● ThePrimaryFlightControls○ Ailerons,Elevator,Rudder● TheElevatorTrim○ Relievingelevatorpressure,Trimwheel,trimtabs● ProperYokeGripandOvercontrolling○ One-handedgrip,Controlmovementsvscontrolpressures● OutsideandInsideReferences-Integratedflightinstruction○ Sightpicture,AttitudeIndicator,HeadingIndicator/Compass/Altimeter/VSI○ Coordinatedflight/turncoordinator● TheFourForces○ Weight,Lift,Thrust,Drag● RelationshipofThrusttoMaintainingAltitude○ Airplanesdon’tclimbordescendwithelevatoralone○ Tachometer,listeningtotheengine● HowAirplanesClimb○ Climbsrequirepower○ Forcesinclimbs○ Climbspeeds● Left-TurningTendencies○ Torquereaction,Spiralingslipstream,P-Factor● PerformingClimbsandClimbingTurns
+CommonErrors
+● Failuretocross-checkandcorrectlyinterpret outsideandinstrument references.● Applicationofcontrolmovementsratherthanpressures.● Improper correctionfor torqueeffect.● Faultytrimprocedure.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)3
+GroundLessonContent
+● IntroductiontotheFour Fundamentals-Thefour fundamentalsofflightarestraight-and-levelflight, turns, climbs, anddescents. Everyflighttrainingcurriculumbeginswithmasteringthefundamentals.○ Mostairplanesareinherentlystable. Thegoodnewsforaspiringpilotsisthat,forthemostpart,anairplanecanbe‘flown’withouttouchingthecontrolsatall. Ofcourse,iftheairplaneistogowherethepilotwantsittogo,thepilotwillneedtocontinuouslymonitortheairplaneandmakecorrectionsusingtheflight controls.○ Unlikecars,whichturnonlyleftorrightintwodimensions,airplanescanmoveinthreedimensions,androtatearound3separateaxes. Theorientationoftheairplaneiscalledtheattitude. The3axesofflightare:■ Yaw- Yawisthefamiliar‘turning’leftandright. Rotatingaroundthevertical axis.■ Pitch- Pitchistheupanddownaxis. Theairplaneisrotatingaroundthelateral axis,andthenosewillbepointing‘uphill’or‘downhill’.■ Roll- Rollissomewhatuniquetoairplanes. Roll isalsooftencalledbank. Theairplaneisrotatingaroundthelongitudinalaxis. Thereisnorealsimilaritytocarsinthisdimension,butitcanbethoughtofastheairplaneleaningleftorright.
+○ Airplanesclimbanddescendinpartbyincreasingordecreasingpitch,however,somewhatunexpectedly, airplanesdonot turnbysimplychangingyaw. Airplanesturnbybankingtowardsthedirectionof theturn,whichdirectsthewingsliftforcetotheside. Theverticaltailsurfacekeepstheairplanealignedwiththedirectionoftravel,causingtheairplanetoyaw. Thisissimilartohowthefinsorfeathersonadartorarrowkeepitflyinginthedirectionitisthrown.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)4
+● ThePrimaryFlight Controls○ Airplanesarecommonlydesignedwith3primaryflightcontrols:■ Ailerons-AileronsmovetheairplanearounditsRollaxis. Theangleof roll iscalledthebankangleandpilotsusetheairplanetobankinthedirectiontheywishtoturn. Mostairplanescontroltheaileronswithayoke,whichissimilartoasteeringwheel. Turningthewheelleftorrightcausestheairplanetobankleftorright.
+■ Elevator-TheElevatormovestheairplanearounditsPitchaxis. Pilotscaninitiateaclimbordescentbypullingbackorpushingforwardontheyoke,respectively.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)5
+■ Rudder-TheRuddermovestheairplanearounditsYawaxis. Therudderisaverymysteriouscontrolformostnewpilots,becauseit isnot usedtoturntheairplane,asonemightexpect. Thesolepurposeoftherudderistoaidtheairplaneinmaintainingaproper(calledcoordinated)flightpathduringturnsmadewiththeailerons(bank).
+● TheElevator Trim-Inordertoholdthenosetheproperdistancefromthehorizonandmaintainaltitude, newpilotsoftendiscover that it mayrequirecontinuousforwardsor backwardselevatorpressureonthecontrol yoke. Thisisnotonlyuncomfortable,italsorequirespilotstodevotemoreattentiontomaintainingstraightandlevelflightandpreventsthemfrommultitaskingeffectively. Thereisanother, secondaryflightcontrol,calledpitchtrimor elevator trim. Thesetermsareinterchangeable,andrefertoacontrolwheel (thetrimwheel) whichcanbeusedtorelievethesecontrol pressures.○ Thetrimmechanismisdifferentondifferentairplanes,butitusuallyconsistsofasmalltab,calledthetrimtabontheelevatorcontrolsurfaceitself. Thetrimtabservicesto‘rebalance’theneutralpositionoftheelevatorcontrolandhelpmaintainlowcontrolpressures.○ Thetrimtabismovedwiththetrimwheel,whichwhenrolledforwardmovesthetrimnosedown,andwhenrolledrearwards,movesthetrimnoseup.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)6
+● Proper YokeGripandOvercontrolling-Propercontroloftheairplanerequiresthatpilotsavoidovercontrolling. Unlikedrivingacar,whichrequireslargemovementsofthewheel,flyinganairplanerarelyrequireslargemovements,oralotofforceonthecontrols.○ Pilotswhogriptheyoketightlywithbothhandsoftenstrugglewithmaintainingstraightandlevelflightormakingsmoothturnsorothermaneuvers. Pilotscopingwithturbulentorbumpyconditionsoftenmakethebumpinessworsebyholdingtheyoketoofirmly.○ Inmostsituations,pilotsshouldattempttorelax,astheairplanecanbeflownmostlywithcontrol pressures, rather thancontrol movements. Aone-handed,lightgripontheyokealsofreesthepilotsotherhandformanipulatingthethrottle,oradjustingtheradios,etc.
+● OutsideandInsideReferences-Pilotsusebothoutside(lookingoutthewindow)andinside(lookingattheflight instruments)tomaintainaircraftattitude. It isimportant for pilotstousebothof thesereferenceswhenflyinganairplane,topreventopticalillusionsorpooroutsidevisibilityfromdisorientingthepilot. Comparingmultipleindependentsourcesofinformationaboutaircraftattitudeiscalledcross-checking. Theintegratedflight instructionmethodrecommendedbytheFAAemphasizespilotsutilizingbothoutsideandinsidereferencesfromtheverybeginningoftheirflyingcareertodevelopproperhabitsofcross-checkingthesereferences.○ ClimbingSight Picture-Pilotscanvisuallyjudgetheirpitchandbankbyusingsomethingcalledasight picture. Asightpictureisjustafamiliarappearanceofthehorizonrelativetotheairplane’sinstrument panel(dashboard),andisusedtojudgetheattitude.○ Whenclimbingstraight ahead, thesight pictureremainssimilar tostraight andlevelflight, except that thenosewill becloser to, or evenabovethenatural horizon.○ Whenmakingaclimbingturnatagivenspeed,thebankangleshouldbejudgedbasedontheangletheinstrumentpanelmakeswiththehorizon.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)7
+○ Judgingpitchduringturnscanbemoredifficult, asthenoseappearstoriseor descendwhenrollingduetothefact that pilotsdon’t sit inthecenter of theairplane. Pitchattitudecanbemoreaccuratelyjudgedbytheplaceontheinstrumentpanelthatintersectsthehorizon.○ Noticethatduringturns, thepoint onthehorizonthat intersectstheinstrument panelchangesdependingonwhether theairplaneisclimbing, flyinglevel, or descending.
+○ Theinsidereferenceforpitchandbankisaninstrumentcalledtheattitudeindicator,whichisalsosometimescalledanartificial horizon.
+○○ Theattitudeindicatorisusedtobackuptheout-the-windowsightpictureforallphasesofflight:straight-and-level,climbs,turns,anddescents.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)8
+○ Pilotsalsojudgetheirheadingbyusinganinstrumentcalledadirectional gyro,whichindicatesthecompassdirection(North,South,East,West,etc)thenoseoftheairplaneispointing.
+○ Duringclimbsanddescents,thepilotisattemptingtogainorlosealtitude. Therefore,theperformanceoftheclimbordescentmustalsobemonitoredbyglancingatthealtimeter,andthevertical speedindicator,whichshowstherateofclimb.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)9
+○ CoordinatedFlight-Recallfromthelessononturnsthatwhenperformingclimbingordescendingturns,thepilotwillneedtocorrectforthetendencyoftheairplanetoenterasidesliporskiddingconditionbyusingtherudderpedalstomanagetheamountofsidesliporskiddingasthepilotrollstheairplaneormaintainsaturn. Flyingwithnoskidorsideslipiscalledcoordinatedflight. Theinstrumentwhichgivesthepilotdirectinformationaboutthisiscalledtheturncoordinator,however pilotscanalsolearntosensewhentheyarebeingpushedawayfromtheturnor towardstheturn.
+● TheFour Forces-Airplanesinstraightandlevelflightaresubjectto4basicforces:○ Weight- Weightisthedownwardforceprovidedbygravity. Asanairplanesitsstationaryontheground,theonlyforceactingonitisgravity.○ Lift- Liftistheupwardforceprovidedbythewing. Asairflowsoverandaroundthewing,itisredirecteddownward,providinganupwardforcewhichduringflightbalancesthedownwardforceofgravity.○ Thrust- Thrustistheforwardforceprovidedbytheengine. Airplanesmustmoveforwardtogeneratelift,andthismovementisprovidedbyenginethrust.○ Drag- Dragistherearwardforceofairresistance,whichopposesthrust. Mostpilotsarealreadyfamiliarwithairresistance…holdingahandoutofthewindowofamovingcarisasimpledemonstrationofdrag.
+● Relationshipof Thrust toMaintainingAltitude-Mostnon-pilotsgenerallyunderstandthat“theenginemakestheairplanego”. Althoughpilotscanusetheelevatorcontroltoclimb,descend,orflylevel,withoutadjustingtheenginethrust,theairplanemayhaveinsufficientpowertoclimbordescendinresponsetopilotinputs.○ Whenanairplaneisflyingatgivenspeed(calledairspeed),allofthefourforcesareinequilibrium,whichmeansthat thethrust preciselyequalsthedrag. Therefore,abasictaskthatpilotsmustaccomplishtomaintainaconstantaltitudeismanagingtheenginethrust.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)10
+○ Somewhatlikeacarcoastinguphillordownhill, if theairplaneisbeingheldat agivenaltitudewiththecontrol yoke, insufficient power will causetheairplanetoslowdown,andexcesspower will causetheairplanetospeedup.○ Pilotscanmanageanairplane’sthrustbyusinganotherinstrument,calledthetachometer.Similartoacar,itindicateshowmanyrevolutionsperminute(RPM)thepropellerisspinning.Highervaluesequalmorepower. Itisalsousefulforpilotstousetheirearstojudgethepowersetting. Withexperience, pilotscandeveloptheabilitytojudgewhether thepower settingistoohighor lowfromtheenginenoisealone.
+● HowAirplanesClimb-Aircraftdonotnecessarilyneedtohaveanengine. Glidersarequitepopularandworkperfectlywellwithoutanengine,demonstratingthatairplanescanflyforextendedperiodsoftimewithoutanyenginepoweratall. However,withoutanengine,itisverydifficultorimpossibletoclimb. Whilegliderscanmanagethisbyusingtheenergyofrisingair, conventional poweredairplanesareconsiderablylessefficient andcanonlysustainaclimbbyusingenginepower.○ ClimbsRequirePower-Itisacommonmisconceptionthatsimply‘pullingback’ontheflightcontrolsisallthatisneededforanairplanetoclimb. Whilethatwillproduceabriefclimb,climbsalmost alwaysrequireanincreaseinenginepower ascomparedtolevel flight.○ Putanotherway,airplanescanonlysustainaclimbwhenthepoweravailableisgreaterthanthepowerrequiredtomaintainlevelflight. Ifthereismorepoweravailable(ifthethrottlecanbeincreased),theairplanecanclimb.○ ForcesinClimbs-Duringunacceleratedflight,suchasduringstraightandlevelflight,thefourforcesactingonanairplaneareinequilibrium. (Iftheforceswerenotequal,theairplanewouldexperienceanaccelerationinsomedirection--up,down,forward,back)○ Whenanairplaneinitiatesaclimb, it pitchesup, anddirectsitsthrust inaslightlyupwarddirection. Thisinitiallycausesanacceleration(upwards),andtheairplanebeginstoascend.Oncetheairplanestabilizesintheclimb,itisnowmovingupwards(climbing),butitisnolongeracceleratingupwards(ithasastableverticalrateofclimb). Ithasagainreturnedtotheforcesbeinginequilibrium.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)11
+○ ClimbSpeeds-Becauseairplanesclimbduetoexcesspower,itisimportanttorealizethattheamountofexcesspoweranairplanehasisalsodependentontheairspeed. Airplanemanufacturerscalculatethespeedsthatproducethebestratesofclimb,andsotypicallypilotsaimtomaintainaparticularairspeedinaclimb. Generally, thesteeper theclimb, thelowertheairspeed. However, thereisaspeedbelowwhichtheclimbrateactuallyslows. (SeethelessononSlowFlight)
+● Left-TurningTendencies-Becauseclimbingrequiresarelativelyhighpowersetting,andisflownatahighangleofattack,airplanesduringclimbsaresubjecttowhatarecalledtheleft-turningtendencies.
+○ TorqueReaction-Astheengineturnsthepropellertomovetheair,Newton’slawsofmotionrequireanequalandoppositereaction.Inparticular,asthepropellerturnsclockwise(fromthepilot’spointofview), theairplanewantstorotate(bank) oppositethepropellerrotation, totheleft. Inordertocounteractthis,airplanesaregenerallydesignedsothattheleftwingmakesslightlymoreliftthantherightwing(whichalsoproducesslightlymoredrag),butthesedesignfeaturesaretunedforcruisingflight. Athigherpowersettings,thiswillproduceanoticeableleft-turningtendency.
+○ SpiralingSlipstream-Astheairflowmovesthroughthepropellerandaroundthefuselage,wings,andcontrolsurfaces,itisspinning. Thespinningpropellerimpartsaconsiderablespiralingmotiontotheslipstream,andbecausethevertical tail surfaceextendsonlyabove,andnot below, thespiralingslipstreampushesthetail slightlyright, leadingtoleftyaw.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_c_-_straight_climbs_and_climbing_turns.pdf>>>
+========================================
+
+PPL/ CFI (VIII-C)12
+○ P-Factor-Astheairplanebitesintotheoncomingair,itisimportanttorealizethatitisjustarotatingwing,andithasanangleofattackjustasanyotherwing. However,becausetheengineismountedinafixedorientationrelativetotheairplane,whentheairplaneitselfisflyingatahighangleofattack,theangleofattackofthedescendingbladeisconsiderablydifferent(higher)thantheascendingblade. Thisproducesmorethrust ontheright sideof thepropeller disc, andpushesthenosetotheleft.
+● PerformingClimbsandClimbingTurns-Climbingturnsarequitesimplyacombinationofthebasicsofclimbs,andlevelturns. Becausebothclimbsandturnsrequiremorepowerthanlevelflight,climbingturnsrequiremorepowerthansimpleclimbs,orsimpleturns. Tobegin:○ Step1-Pilotestablishestheairplaneinaclimbingpitchattitude,withthenoseoverthehorizon.○ Step2-Pilotaddsadditionalpowertoallowtheairplanetobegintoclimb, makingsuretocorrect for theleft-turningtendencies.○ Step3-Pilottrimstheairplanetoholdanappropriateclimbingairspeed.○ Step4(For aClimbingTurn)-Pilotrollstheairplanetothedesiredbankangleandbeginsturning,whileaddingslightlymorebackpressuretoaccountforthelossoftheverticalcomponentoflift.
+Preparedby:RyanBinns(ryancbinns.com/flying),February2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

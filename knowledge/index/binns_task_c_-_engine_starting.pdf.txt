@@ -1,0 +1,40 @@
+DOCUMENT_TITLE: binns_task_c_-_engine_starting
+SOURCE_FILE: binns_task_c_-_engine_starting.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_engine_starting.pdf>>>
+========================================
+
+PPL(II-C) / CAX(II-C) / CFI (V-C)1
+EngineStarting
+Objective
+Toensuretheapplicantlearnstheelementsofandcanexhibitaclearunderstandingoftheenginestartprocedureandhowtoperformtheprocedureproperly.
+Purpose
+Startinganairplaneengineiseasy,butitismorecomplicatedthanstartingacar. Spinningpropellersandhard-startingcarburetedenginesprovideuniquechallenges. Thislessonintroducesaspiringpilotstotheenginestartprocedure,factorsthatcomplicatestarting,andemergencyproceduresincaseofanenginefire.
+Schedule Equipment
+● GroundLesson:5minutes- IntheAirplane● Initial■ BeforeFlight:5minutes- IntroductionandDemonstration● EveryFlight■ BeforeFlight:5minutes- Student Performs
+● AirplaneChecklist
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratetheprocedureintheairplane.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeoftheprocedureandhowtoexecuteitproperly.● Flight:Studentcanexplainandperformtheprocedureincludingthefollowing:● Ensuresthattheareaaroundtheairplaneandpropellerisclear.● Primestheenginebeforestart,asneeded.● Performstheenginestartchecklist,andstartstheengine.● Manipulatestheenginecontrolstoaidasuccessfulstart.● Afterstart,verifiescorrectengineindications.● Whattodoincaseofanenginefireduringstart.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_engine_starting.pdf>>>
+========================================
+
+PPL(II-C) / CAX(II-C) / CFI (V-C)2
+References
+● RyanBinns-“Cessna172PEngineStartChecklist”○ YouTube-https://www.youtube.com/watch?v=UyYyTQqJvGc● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter2,Page16[EngineStarting],Chapter2,Page16-17[HandPropping]● AirplanePOH-Section4[NormalProcedures],Section3[EmergencyProcedures/FireDuringStart]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIITaskC● FAA-S-ACS-7B(CommercialPilotACS)-AreaIITaskC● FAA-S-ACS-25(CFIACS)-AreaVTaskC
+GroundLessonOutline
+● BeforeStartingSafetyPrecautions○ FinalWalk-Around■ EnsureTowBar,ChocksRemoved,etc.○ Anti-CollisionBeacon-TurnON○ SetBrakes○ “Clear”call○ VisuallyClearPropArea● EngineStartChecklist○ ImportanceofChecklistUsage○ “ReadandDo”ChecklistUsage■ Touchcontrolstoconfirm○ BasicStartProcedure■ MixtureRich,Throttle¼”,Prime(asnecessary),MasterOn,MagstoStart■ UseofThrottleandMixtureControlsduringCranking■ DangersofOverpriming-UpdraftCarburetor,EngineFire○ EnsureProperEngineIndications● StartingDifficulties○ EffectofAtmosphericConditions-Hot/ColdStart○ Overpriming○ DeadBattery/StartingwithExternalPower○ StarterDutyCycle-Crankformax10seconds,wait30secondsbetween○ NoStart-MagsOff,MasterOff,MixtureCutoff○ EngineFire-MixtureCutoff,ThrottleFull,ContinueCranking!■ Ifnotextinguished,evacuate● HandPropping-Extremelydangerousandverydifficultwithmanycommontrainers○ Donotattemptifyouarenotfamiliar!
+CommonErrors
+● Failuretoproperlyusetheappropriatechecklist.● Failuretousesafetyprecautionsrelatedtostarting.● Improper adjustment of enginecontrolsduringstart.● Failuretoassureproperclearanceofthepropeller.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

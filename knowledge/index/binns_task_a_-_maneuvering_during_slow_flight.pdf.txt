@@ -1,0 +1,134 @@
+DOCUMENT_TITLE: binns_task_a_-_maneuvering_during_slow_flight
+SOURCE_FILE: binns_task_a_-_maneuvering_during_slow_flight.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)1
+SlowFlight
+Objective
+ToensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheSlowFlightmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+SlowFlightinvolvesmaneuveringatlowairspeeds,asduringtakeoff,landing,andgo-arounds. Itintroducespilotstothestrangeaircraftbehavior‘onthebacksideofthepowercurve’,anddevelopsskillsatmaneuveringtheairplanesafelyattheedgeoftheflightenvelope.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainthe‘regionofreversecommand’,left-turningtendencies,factorsthataffectstallspeed.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Establisheslevel,coordinatedflightinthespecifiedconfigurationjustabovethestallwarning.● PrivatePilot:Holdsaltitude±100feet,airspeed+10/-0knots,bank±10°,headings±10°.● Commercial/CFI:Holdsaltitude±50feet,airspeed+5/-0knots,bank±5°,headings±10°.● Recoverstonormalcruiseflight.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)2
+References
+● MZeroAFlightTraining-“ACSSlowFlight”○ YouTube-https://www.youtube.com/watch?v=t8wEhhWQlSg● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page10[TrimControl],Chapter3,Page11-17[LevelTurns],Chapter5,Page8-9[CoordinatedFlight/AngleofAttack],Chapter5,Page9-12[SlowFlight],Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page2-5[Thrust,Lift,andAngleofAttack],Chapter5,Page5[Lift/DragRatio],Chapter5,Page7[InducedDrag],Chapter5,Page22-23[ForcesinTurns],Chapter5,Page25-26[Stalls],Chapter5,Page30-33[LeftTurningTendencies],Chapter5,Page34-35[LoadFactorsandStallingSpeeds],Chapter5,Page37-38[VgDiagram]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVIITaskA● FAA-S-ACS-7B(CommercialPilotACS)-AreaVIITaskA● FAA-S-ACS-25(CFIACS)-AreaXTaskA
+GroundLessonOutline
+● Whatis‘SlowFlight’?○ MushyControls,ReverseCommand,HighPowerSetting,Instability● BehindthePowerCurve○ MinimumDragSpeed(BestGlide)/SpeedInstability○ Climbsrequireexcesspower● LeftTurningTendencies○ TorqueReaction○ SpiralingSlipstream○ P-Factor● BankAngleandLoadFactor● Factorsthataffectstallspeed○ Loadfactor,CG,Weight,Coordination● AirspeedControl,Trim,andCoordination● AirplaneConfigurations○ Clean,Dirty(Landing)● Safetyconsiderations○ Flyingwithastallwarning○ Useofchecklists○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Failuretoestablishspecifiedconfiguration.● Improper entrytechnique.● Failuretoestablishandmaintainthespecifiedairspeed.● Excessivevariationsof altitudeandheadingwhenaconstant altitudeandheadingarespecified.● Uncoordinateduseofflightcontrols.● Improper correctionfor torqueeffect.● Impropertrimtechnique.● Unintentionalstalls.● Inappropriateremovalofhandfromthrottles.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)3
+GroundLessonContent
+● What is‘SlowFlight’?-Asidefromtheplainmeaning, slowflightrefersspecificallytoflightwhichoccursbelowthe‘normal’operatingspeedsofanairplane. Thesespeedsareoftenencounteredduringtakeoff, landing, or ago-around,forexample. Airplanestendtoperformandhandlequitedifferently,andinmanycasescounter-intuitivelyduringslowflight:○ MushyControls-Particularlynoticeableisthatitrequiresalotofaileroninputtorolltheairplane. Changingpitchalsorequireslargemovementsoftheelevator. Thereisaconsiderable‘sloppiness’or‘mushiness’tothecontrols. Thecontrolyokebehavesalmostasifthereisalarge‘deadzone’inthemiddlewheresmallmovementsmakeverylittledifference.○ ReverseCommand-Theairplanewillbehavesomewhatparadoxically--pullingbackontheelevatorwillactuallyresultintheairplaneverybrieflyclimbingbeforedescendingsteadily.Pullingfurtherbackwillmaketheairplanedescendevenmoresteeply.○ HighPower Setting-Comparedtoslightlyhigherairspeeds,theairplanerequiresconsiderablymoreenginepowertomaintainaltitude.○ Instability-Theairplanewillfeellessstable. Itwillrequirecontinuouspitchandpowercorrectiontomaintainaltitudeandairspeed. Itwillrequirecontinuousmanagementofthebankangleandrudderinputtokeeptheairplanelevelandtheballcentered. Whenperformedveryslowly,theairplanemayevenfeel‘bumpy’,whichisanearlywarningofanaerodynamicstall..● BehindthePower Curve-Whenflyingatlowairspeeds,theairplaneissaidtobebehindthepowercurve. Thepowercurverepresentstheamountofpowerrequiredtomaintainagivenairspeedwithoutaccelerating. Thisisataminimumwhentheamountoftotaldragisataminimum.○ MinimumDragSpeed-Airspeedsbelowtheminimumdragspeed(alsoknownasthebestglidespeed)aresometimescalledtheregionof reversecommand. Thisisbecauseanyincreaseinpitch,andthereforeangleofattack,willresultinmoretotaldrag,whichwill increasetherateofdescent.■ Why?Refertothetotaldragcurve. Asthespeedisreducedbelowtheminimumdragspeed,inordertomaintainaltitude,theairplanemustflyatahigherangleofattack,resultinginincreasedinduceddrag,whichistheinherentdragproducedbythegenerationoflift. Thismeansthat for anyairspeedbelowminimumdragspeed,flyingat slower airspeedsactuallyrequiresmorepower toovercometheincreaseddrag. Thiscreatesanunstablesituationandisreferredtoasspeedinstability.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)4
+○ ClimbsRequireExcessPower-Becauseofthis‘inversion’ofspeedvspowerrequired,theairplanecannotsimplybepitcheduptoincreasealtitude. Recallthatairplanesclimbbecauseof excesspower. Whenbehindthepowercurve,inordertocontrolaltitude,thefirstactionmustbetoincreaseordecreasethethrottle! Addor removepower tomaintainaltitude, andpitchtomaintainairspeed.
+● Left-TurningTendencies-Becauseslowflightrequiresarelativelyhighpowersetting,andisflownatahighangleofattack,airplanesduringslowflightaresubjecttomorepronouncedleft-turningtendencies.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)5
+○ TorqueReaction-Astheengineturnsthepropellertomovetheair,Newton’slawsofmotionrequireanequalandoppositereaction.Inparticular,asthepropellerturnsclockwise(fromthepilot’spointofview), theairplanewantstorotate(bank) oppositethepropellerrotation, totheleft. Inordertocounteractthis,airplanesaregenerallydesignedsothattheleftwingmakesslightlymoreliftthantherightwing(whichalsoproducesslightlymoredrag),butthesedesignfeaturesaretunedforcruisingflight. Athigherpowersettings,thiswillproduceanoticeableleft-turningtendency.
+○ SpiralingSlipstream-Astheairflowmovesthroughthepropellerandaroundthefuselage,wings,andcontrolsurfaces,itisspinning. Thespinningpropellerimpartsaconsiderablespiralingmotiontotheslipstream,andbecausethevertical tail surfaceextendsonlyabove,andnot below, thespiralingslipstreampushesthetail slightlyright, leadingtoleftyaw.
+○ P-Factor-Astheairplanebitesintotheoncomingair,itisimportanttorealizethatitisjustarotatingwing,andithasanangleofattackjustasanyotherwing. However,becausetheengineismountedinafixedorientationrelativetotheairplane,whentheairplaneitselfisflyingatahighangleofattack,theangleofattackofthedescendingbladeisconsiderablydifferent(higher)thantheascendingblade. Thisproducesmorethrust ontheright sideof thepropeller disc, andpushesthenosetotheleft.
+○ Specifically,ahighpowersettingproducesahightorquereactionandalargerspiralingslipstreameffect,andthehighangleofattackmakesP-factorverypronounced, especiallyinaturntotheright. Rudderpressuretomaintaincoordinatedflightmaybesignificant.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)6
+● BankAngleandLoadFactor-Asanairplaneturns,itsweightremainsthesame,andthereforetheupwardcomponentofliftmustremainequaltoitsweight. Duringaturn,someoftheliftmustbedirectedtowardsthecenteroftheturn,reducingtheupwardcomponentoflift. Ifnopilotcorrectionswereapplied,theairplanewouldnotproduceanymorethanthenormal1goflift,andtheairplanewouldbegintodescend. Inordertocorrectforthelossofverticallift,andmaintainalevelaltitude,thewingmustproducemorelift,whichrequiresincreasedbackelevator pressure. Thisincreasedbackelevatorpressurewillcausethewingtoflyatahigher angleof attack,producingtheincreasedliftthatisrequired. ThiscanbefeltbythepilotasahigherthannormalG-force.○ Inordertomaintain1gofverticallift,whilealsoturning,thewingmustproducemorethan1goftotallift. Theamountoftotalliftiscalledtheloadfactor.
+○ Asthebankangleincreases,theloadfactorrequiredtomaintainlevelflightincreasesslowlyatfirst,butincreasesrapidly,especiallyatbankanglesbeyond45degrees. Theloadfactorcreatedbyalevel, coordinatedturndependsonlyonthebankangle. Notethat airspeeddoesnot affect theloadfactor of aturn.● Whileflyingatahigherangleofattacknecessarytomeetthedemandsofahigherloadfactor,thewingwillproducemoreinduceddrag. Thiswillresultintheairspeeddecreasingunlesspowerisaddedtocompensatefortheincreaseddrag.
+● Factorsthat affect Stall Speed● LoadFactor-Astheloadfactorincreasesinaturn,itisimportanttorecognizethat thestallspeedalsoincreases. Wecanseethisrelationshipdepictedinaso-calledVgdiagram,shownbelow. TheStallSpeedwenormallyseeforouraircraft,VsorVs0
+,appliesonlyto‘unaccelerated’flight--thatis,flightat1gloadfactor. ObservefromtheVgdiagramthatastheloadfactorincreases,thestallspeedalsoincreases.● Slowflight,whichisusuallyflownjustabove1gstallspeed,requiresthat bankanglesbekeptverylowtominimizetheincreaseinloadfactor.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)7
+○ Center of Gravity-Whenconventionallydesignedairplanesfly,thecenterofgravityisalwaysinfront ofthecenteroflift. Youcanthinkofthecenterofliftasasortofpivotpointinaseesaw.Becausethehorizontalstabilizerisfarbehindthecenteroflift,itproducesdownwardforce(essentiallylift,butdownward)tokeepthenoseoftheairplanelevel. Thisdownwardforceopposestheupwardforceofthemainwing,requiringittoproduceslightlymorelifttocompensate. Also,becauseanyairfoilthatproducesliftalsoproducesdrag,theamountofdragcausedbythehorizontalstabilizerdependsontheforceitmustproduce.■ Whenthecenterofgravityisfurtherforward,thehorizontalstabilizermustproducemoredownwardforce,andthereforeitcreatesmoredragandcausesthemainwingtoflyatahigherangleofattackforthesameairspeed. Weknowthatawingwillalwaysstallatthesameangleofattack,sowealsoknowthat asthecenter of gravitymovesfurtherforward, theairplanewill stall at ahigher airspeed.
+○ Weight-Likewise,whenflyingathigherweights,thetotalloadonthewingishigher,againresultinginahigherangleofattackforthesameairspeed. Heavier aircraft stall at ahigherairspeed.○ Coordination-Airplanesflyinginanuncoordinatedfashiongenerateaconsiderableamountofincreaseddrag,andthefuselagemayblanketonewingortheother,increasingthestallspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)8
+Thiscanactuallycausetheleft andright wingtostall at adifferent airspeed! Thisisaverydangeroussituationandmust beavoided.
+● AirspeedControl, Trim, andCoordination-Whenperformingslowflight,itisimportanttomaintainastableairspeed. Generallyslowflightisperformedjustabovestallspeed,whichdependsontheconfigurationoftheairplane(cleanorlandingconfiguration). It isimportant tousetheelevator trimtoholdairspeedthroughout themaneuver!○ Becauseoftheproximitytothestall, it iscrucial that slowflight beperformedincoordinatedflight. Paycloseattentiontotheballandthesensationsbeingexperiencedtoensurethattheairplanestaysincoordinatedflight.
+● AirplaneConfiguration-BecauseconditionssimilartoSlowFlightareoftenencounteredduringtakeoffs,landings,andgo-arounds,theslowflightmaneuverisperformedinavarietyofconfigurations:○ Clean-Simulatesslowflightaftertakeoff,typicallyaroundVx.○ Dirty(Full Flapsor LandingFlaps)-Simulatesslowflightbeforelanding,orduringgo-arounds.■ Flapsaddliftaswellasdrag,andresultinlowerpitchangles. Itisoftenmorecomfortabletoflyslowflightwithlandingflaps.■ It isimportant torealizethat flapschangetheshapeof thewingandthereforeaffect theairspeedsandangleof attackat whichthewingstalls! AirspeedswhichworkintheCleanconfigurationwillnotmatch.
+● SafetyConsiderations○ Flyingwithastall warning-Anywarningthatgoesunheededandunacknowledgedwillquicklybecomepartofthe‘backgroundnoise’andbeignored. Therefore,wewantourstudentstoalwaysreactpromptlytoacknowledgestallindications.○ Aswithanymaneuver,theuseof checklistsisimportant. Beforebeginningthemaneuver,performapre-maneuverchecklist,includingperformingclearingturnsandidentifyingpossibleemergencylandingsites.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)9
+○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriatepracticearearadiocalls,andremember tocontinuouslyscanfor traffic!
+ManeuverDescription● EntryAltitude-Slowflightshouldalwaysbeperformedatasafealtitude,incaseofaninadvertentstallorotherproblems. Themaneuvershouldbeperformedsoastoalwaysremainat least 1,500feetAGLor more.● EntryAirspeed-ThemaneuvermustbestartedatlessthanVa(maneuveringspeed). Chooseanormallevelcruiseflightairspeedandpowersetting,atleast5-10knotsbelowVa.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver.● EntryPower-Initially,reducethepowertoidle.● AirspeedandAltitude-Airspeedshouldbeallowedtoslowfromentryairspeeddowntoanairspeedjust abovethestall warningspeedinthecurrentconfiguration. Maintainaltitudebyusingbackelevatorpressureandincreasingpitch.● MaintainingSlowFlight-Oncetheappropriateairspeedisreached,addagenerousamountofpowerbacktomaintainairspeedandaltitude. Donotallowtheairspeedtodecayanyfurther,anddonotallowtheairspeedtoincrease.○ Airplaneisclimbingor descending-Removeoraddpower,asnecessary,tomaintainaltitude.○ Airplaneistooslowor toofast-Pitchdownorpitchup,asnecessary,tomaintainairspeed.○ Takecaretoallowsufficient marginabovethestall, andif thestall indicationisheard, reducethepitchandaddpower!● Bank-Sincethismaneuvertakesplaceatverylowairspeeds,closetoastall,whenmakingturns,thebankangleshouldbelessthan20degreestokeepalowloadfactor. Verysmall banksproduceverylargeratesof turninslowflight!● Coordination-Duetothestrongleft-turningtendenciesinslowflight,andtheriskofastall, propercoordinationisessential. Attentionshouldbegiventoproperrudderinputduringturns. Itmaybenecessarytoapplyoppositeaileronduringturnstopreventoverbanking.● Recovery-Recovertonormalcruiseflightbyapplyingfullpowerandreducingthepitch,allowingtheairspeedtoincrease. Ifperformedinthedirtyorlandingconfiguration,progressivelyretractflaps,landinggear,etc.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtoholdheading.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeoftheslowflightmaneuverandhowthe‘regionofreversecommand’,left-turningtendencies,factorsthataffectstallspeed,andotherfactorsthataffectthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuverchecklist,andselectsanaltitudenotlessthan1,500ftAGL.○ Pilotconfigurestheairplaneasspecifiedbytheevaluator.○ Pilotestablishesproperlycoordinated,levelflightatanairspeedjustabovestallwarningspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_a_-_maneuvering_during_slow_flight.pdf>>>
+========================================
+
+PPL(VII-A) / CAX(VII-A) / CFI (X-A)10
+○ Pilotperformsturns,climbs,anddescentsasspecifiedbytheevaluator.○ PrivatePilot:Holdsaltitude±100feet,airspeed+10/-0knots,bank±10°,headings±10°.○ Commercial/CFI:Holdsaltitude±50feet,airspeed+5/-0knots,bank±5°,headings±10°.○ Recoverstolevelcruiseflightwhenspecifiedbytheevaluator.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

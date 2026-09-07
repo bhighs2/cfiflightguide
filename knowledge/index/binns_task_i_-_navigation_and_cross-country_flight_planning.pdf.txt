@@ -1,0 +1,162 @@
+DOCUMENT_TITLE: binns_task_i_-_navigation_and_cross-country_flight_planning
+SOURCE_FILE: binns_task_i_-_navigation_and_cross-country_flight_planning.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)1
+NavigationandFlightPlanning
+Objective
+ToensuretheapplicantlearnstheelementsofnavigationandflightplanningandcanplanaVFRcrosscountryproperly.
+Purpose
+Theentirepointoflearningtoflyisgoingsomewhere!Airplanesaregreatwaystogotofarawayplacesquickly.However,unlikedrivingacar,navigatinginanairplaneisconsiderablymorecomplex. Thislessonintroducespilotstothetermsandconceptsusedinairnavigation,aswellasthebasicsofplanningVFRcrosscountries,usingpilotage,deadreckoning,radionavigation,andmore.
+Schedule Equipment
+● GroundLesson:60minutes● StudentQ&A:20minutes
+● AirplanePOH● VFRSectionalCharts/Plotter/E6B● ElectronicFlightBag(EFB)Software● NavLog/ScratchPaper● Whiteboard/Markers(optional)
+StudentActions InstructorActions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● Heading,Course,Track,Truevs.MagneticHeadings● MagneticVariation,CompassDeviation,WindCorrectionAngle● HowtouseanEFBtoPlanaVFRXCCourse-or-HowtouseaPlotterandE6B● HowtoselectsuitableVFRNavigationCheckpoints,VFRCruisingAltitudes,andFuelStops● Pilotage,DeadReckoning,andNavigationLogs● Howtocomputefuel,performance,andendurancefigures● Howtoquicklycomputediversionsusing“ruleofthumb”calculations,andlostprocedures● Howtoobtainaweatherbriefing,howtofileanduseaVFRflightplan,andmakeago/no-godecision
+References
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)2
+● FLY8MA.comFlightTraining-“Ep.114:X/CNavigationLog|VFRCrossCountryNavLogCalculations”○ YouTube-https://www.youtube.com/watch?v=94vSzPU7TDw● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter16,Page2-8[AeronauticalCharts/LatitudeLongitude],Chapter16,Page8-10[EffectofWind],Chapter16,Page11-12[BasicCalculations],Chapter16,Page12-17[Pilotage/DeadReckoning],Chapter16,Page17-22[FlightPlanning/ChartingtheCourse/VFRFlightPlans],Chapter16,Page34-35[LostProcedures/FlightDiversion]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVITaskA,AreaVITaskC,AreaVITaskD● FAA-S-ACS-7B(CommercialPilotACS)-AreaVITaskA,AreaVITaskC,AreaVITaskD● FAA-S-ACS-25(CFIACS)-AreaIITaskI
+GroundLessonOutline
+● NavigationTerms○ Heading,Course,GroundTrack,TrueAirspeed,GroundSpeed,etc.○ MagneticVariation,CompassDeviation,WindCorrectionAngles● AeronauticalCharts○ Latitude/LongitudeLines,IsogonicLines,Scale○ SpotElevations,ContourLines,MaximumElevationFigures,Obstructions○ Airports,DepictionsofLandmarks/GroundFeatures,DepictionsofAirspace○ Importanceofusingtheproperandcurrentaeronauticalcharts● PlottingaCourse(PenandPaper)○ UsingaPlotterandE6B,WindsAloft/WeatherData○ TrueCourse+/-WCA->TrueHeading+/-Variation->MagneticHeading+/-Deviation->Compass○ PerformanceCharts-Endurance,Performance,FuelConsumptionCalculationsandFuelStops■ SelectinganAltitude,VFRCruisingAltitudes-§91.159■ PowervsFuelConsumption,VFRFuelRequirements-§91.151○ SelectingLandmarksandAlternates,PlanningforEmergencies● PlanninganXCUsinganElectronicFlightBag(ForeFlight)● FundamentalsofPilotageandDeadReckoning○ Landmarks-Lakes,Airports,DistinctiveRoads,etc.○ CheckpointsandNavLogs-ImportanceofaNavLog■ EstimationofTime(behindscheduleoraheadofschedule)● FundamentalsofRadioNavigation○ VORs,DME,andGPS● DiversiontoanAlternate○ “RuleofThumb”/RoughCalculations->Time,Distance,Fuel● LostProcedures-VORTriangulation,UseofGPS,Climb,Confess,etc.● InflightInterceptionProcedures-SeeSupplement● Go/No-GoDecisions○ WeatherBriefing,ADM(PAVE/GoodJudgement)○ NOTAMs-Callaweatherbriefer!● VFRFlightPlans○ Purpose,HowtoFile
+CommonErrors
+● MisunderstandingtherelationshipbetweenTrueandMagneticCourseandHeading● InabilitytouseaplotterorE6BtocreateaVFRNavLog-or-InabilitytouseanEFBtoeffectivelyplananXC● Selectionofinappropriateorinadequatevisualcheckpoints● Failuretoidentifylocationusingpilotage
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)3
+GroundLessonSupplement
+● HeadingvsTrack-Airplanesflywithintheair,whichisnearlyalwaysmoving. Simplypointingatagroundlandmarkandflying‘towards’itwillresultintheairplaneflyingalonger,curvedpath. Asanairplanefliesthroughtheair,inordertotrackastraightline,calledacourseline,theymustflyatananglerelativetothelinewhichcounteractstheeffectsofthewind. Thisiscalledawindcorrectionangle,orWCA.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)4
+● LatitudeandLongitude-Courselinesaremeasuredrelativetolinesoflongitude.
+● MagneticVariation-MagneticNorthisnotcoincidentwithTrueNorth,creatingmagneticvariation.Isogoniclinesarelinesofequalmagneticvariation.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)5
+● CompassDeviation-Causedbylargemagneticdisturbancespresentintheairplanecockpit,dependontheheading. Correctedbyusingacompassdeviationcard(affixedtothecompass)
+● WindCorrectionAngle-Correctsforwinddrift.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)6
+● CruisePerformance
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)7
+● ChartsandPlottingaCourse
+● E6BandPlotter
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)8
+● VFRCheckpoints
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)9
+● FlightPlanningusinganEFB(ForeFlight)○ Layingoutthecourseandcreatingwaypoints
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)10
+● SetupPerformanceProfileandSelectaCruisingAltitude○ PerformanceProfile-NumbersmustbederivedfromPOH. Usuallyinvolvesconverting“Time,Fuel,andDistancetoClimb”valuestoGallonsperHourunits.○ CruisingAltitudeSelection-ForeFlightwillconsiderwindsaloftandaircraftperformancetodeterminetheheadwind/tailwind,time,andfuelrequiredforeachaltitude.■ MakesureyousetyourEstimatedTimeofDeparture(ETD)accurately!■ Ensureyouconsidercloudheightforecasts!
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)11
+● InvestigateAirspacealongyourroute-Longpressonairspacetodisplayimportantdetailsabouttheairspace,analogoustolookingintheVFRChartmarginsorlegend.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)12
+● ReviewtheCalculatedNavLoginForeFlight○ AnabbreviatedNavLogisavailableonthemainUI■ HeadingsdisplayedareMagnetic,andalreadyaccountforcalculatedwindsaloft!○ ThereisalsoamoredetailedtraditionalNavLogavailableintheFlightstab.■ Touchthe‘SendTo’iconandthenselect‘Flights’■ YoucanalsofileaVFRFlightPlanusingthegeneratedinformation!○ AlwaysRemember,GarbageIn=GarbageOut!■ Youmustsupplyaccurateperformancedata,ETD,etc!○ ReviewtheForeFlightsupportarticle-https://support.foreflight.com/hc/en-us/articles/360012904193-What-do-the-items-in-the-Flights-page-NavLog-mean
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)13
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:binns_task_i_-_navigation_and_cross-country_flight_planning.pdf>>>
+========================================
+
+PPL(VI-A/C/D)/CAX(VI-A/C/D)/CFI(II-I)14
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

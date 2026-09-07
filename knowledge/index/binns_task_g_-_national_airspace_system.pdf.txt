@@ -1,0 +1,129 @@
+DOCUMENT_TITLE: binns_task_g_-_national_airspace_system
+SOURCE_FILE: binns_task_g_-_national_airspace_system.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)1
+National AirspaceSystem
+Objective
+ToensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingoftheNationalAirspaceSystemandhowVFRpilotsoperatewithinit.
+Purpose
+Everyflightapilotmakesoccurswithinsomeclassofairspace,whetherornottheyareawareofit. Therulesthatmustbefollowedforeachclassofairspacevarywidely,anditiscrucialthatpilotsunderstandtheNationalAirspaceSystemandhowtheyfitwithinit. Thislessonintroducespilotstothevariousclassesofairspacetheywillencounterregularlysothattheycanoperatesafelyandefficientlyinthesystem.
+Schedule Equipment
+● GroundLesson:45minutes● Student Q&A:10minutes
+● VFRSectionalChart● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● StudentcanidentifyvariousairspacefeaturesontheirlocalVFRsectionalchart.● Studentcanexplainthefollowingconcepts:● Thevariousclassesofairspace● ThebasicVFRweatherminimumsforeachclassofairspace.● SpecialVFRweatherminimumsandrequirements.● Theequipmentandcommunicationsrequirementsforeachclassofairspace.● ThetypesofSpecialUseAirspaceandtherulesforeach.● ThetypesofTemporaryFlightRestrictionsandhowtofindinformationaboutthem.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)2
+References
+● ERAUSpecialVFR-“Airspace-Lesson1”○ YouTube-https://www.youtube.com/watch?v=c6ZieuNvjHw● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter15[Airspace]● FAA-S-ACS-6C(PrivatePilotACS)-AreaITaskE● FAA-S-ACS-7B(CommercialPilotACS)-AreaITaskE● FAA-S-ACS-25(CFIACS)-AreaIITaskG
+GroundLessonOutline
+● Airspace○ LateralExtents,Floor,Ceiling■ AGLvsMSL○ PilotCertification,Communications,Clearance,Speed,andEquipmentRequirements○ VisibilityandCloudClearanceRequirements● Regulatoryvs.Non-RegulatoryAirspace○ Regulatory-A,B,C,D,E,G,Restricted/Prohibited○ Non-Regulatory-MilitaryOperationsAreas(MOA),WarningAreas,AlertAreas,ControlledFiringAreas● ControlledAirspace-A,B,C,D,E● UncontrolledAirspace-G● AirspaceClasses-PropertiesandRequirements○ ClassA-§ 91.135-IFRandInstrumentRatedOnly○ ClassB-§ 91.131-ExplicitClearanceRequired,PrivateCertificateorEndorsement,ModeCXPDR○ ClassC-§ 91.130-Two-WayCommunications,ModeCXPDR○ ClassD-§ 91.129-Two-WayCommunications○ ClassE-§ 91.127-NoCommunicationsRequired○ ClassG-§ 91.126-Uncontrolled● ADS-BRequiredAirspace● BasicVFRWeatherMinimums-§ 91.155● SpecialVFR(SVFR)Requirements● Specialuseairspace(SUA)○ RestrictedandProhibitedAreas-§ 91.133○ MOAs○ Alert/WarningAreas/ControlledFiringAreas● TemporaryFlightRestrictions(TFR)-Getabriefing!(1-800-WX-BRIEF)○ Disaster/HazardAreas-§ 91.137,§ 91.138(Hawaii)○ PresidentialTFR-§ 91.141○ SpaceFlightOperations-§ 91.143○ SportingEvents/Airshows-§ 91.145● DepictiononSectionalCharts● CurrencyofPublications-TPPs-28days/Everythingelse-56days
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)3
+GroundLessonContent
+● Airspace-Airspaceissimplyalogicalwayofdividinguptheskyaroundairports,commonairtrafficroutes,andotherfacilitiestoprotectandorganizethetrafficflow. TheNational AirspaceSystemisasystemofairspacethatprovidespilotsandairplaneswithanorderlymeanstomovefromairporttoairport,whileavoidingconflicts,delays,orcollisionrisks.○ Lateral Extents, Floor, Ceiling-Totalkaboutairspace,itmustbedescribedintermsofitslateralextents(itsshapeasseenfromabove),itsfloor(thealtitudeatwhichitbegins),anditsceiling(thealtitudeatwhichitends).■ AGLvsMSL-ThefloorsandceilingsofvariousairspacesaredescribedineitherMSL(feetaboveMeanSeaLevel)orAGL(feetAboveGroundLevel)dependingonthetypeofairspace.
+○ Pilot Certification, Communications, Clearance, Speed, andEquipment Requirements-Differentclassesofairspaceimposedifferentrequirementsonpilots,aircraft,andflightplans.○ VisibilityandCloudClearanceRequirements-MosttypesofairspacealsoimposedifferentVFRweatherminimums,inordertomoreefficientlyseparateIFRfromVFRtraffic.● Regulatoryvs. Non-RegulatoryAirspace-AirspaceisdividedintoRegulatoryandNon-Regulatoryairspace. Regulatoryairspace,whichistosay,airspacethatisdefinedintheFARsandthatprovidesspecificregulatoryrequirementsforentryisthemostcommontypeofairspace.○ Regulatory-ClassA,B,C,D,E,G,Restricted/Prohibited○ Non-Regulatory-Non-Regulatoryairspaceincludesprimarilythatwhichisadvisoryinnature,orcreatedprimarilytokeepaircraftawayfromhazardousactivities.■ MilitaryOperationsAreas(MOA)-Areasofmilitaryflighttraining.■ WarningAreas-Areasofmilitarytraining,orotherdangerousactivities.■ Alert Areas-Areasofdangerousactivities,commonlyhigh-densityflighttrainingactivity.■ ControlledFiringAreas-Usuallyestablishednearfiringranges,whereitwouldbedangerousforpassingaircraft.● ControlledAirspace-A,B,C,D,E● UncontrolledAirspace-G● AirspaceClasses- PropertiesandRequirements○ ClassA- § 91.135-IFRandInstrumentRatedOnly○ ClassB- § 91.131-ExplicitClearanceRequired,PrivateCertificateorEndorsement,ModeC
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)4
+XPDR○ ClassC- § 91.130-Two-WayCommunications,ModeCXPDR○ ClassD- § 91.129-Two-WayCommunications○ ClassE- § 91.127-NoCommunicationsRequired○ ClassG- § 91.126-Uncontrolled
+● ADS-BRequiredAirspace- §91.225(d)
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)5
+● BasicVFRWeather Minimums- § 91.155
+● Special VFR(SVFR) Weather Minimums- §91.157○ 1StatuteMileVisibility, Clear of Clouds○ RequiresanATCClearance○ Availableonlyincontrolledairspace(tothesurface) designatedfor anairport■ I.e.TheinnerringofaClassCorClassB,oraClassD/Esurfacearea.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)6
+● ClassEvsGVFRMinimumsMemoryAid
+● Special useairspace(SUA)○ RestrictedandProhibitedAreas- § 91.133■ Restrictedairspaceissometimesclosedtopilots,andmaybescheduledorthetimesspecifiedbyNOTAM. PilotsmustcontactATCorthecontrollingagencytodeterminethestatus.■ Prohibitedairspaceisalwaysclosedtopilots.○ MOAs-Entryisallowedwithoutpermission,butshouldbeavoidediftheMOAisactive. Pilotsshouldcontactthecontrollingagencytodeterminethestatus. Exerciseextremecaution.○ Alert/WarningAreas/ControlledFiringAreas-Entryisallowedwithoutpermissionbutshouldbeavoidedifthestatusisunknown. Exerciseextremecaution.● TemporaryFlight Restrictions(TFR) - Get abriefing! (1-800-WX-BRIEF)○ Disaster/HazardAreas- § 91.137, § 91.138(Hawaii)○ Presidential TFR- § 91.141○ SpaceFlight Operations- § 91.143○ SportingEvents/ Airshows- § 91.145● DepictiononSectional Charts-Floors/ceilingsdepictedaredepictedinvariousways.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)7
+○ ClassA-NotDepicted!○ ClassB-Unusuallyshaped,usuallyhasmany‘layers’. Shapedlikeanupsidedownweddingcake. FloorsandceilingsinhundredsoffeetMSL.
+○ ClassC-Usuallymostlycircular,and2-layered. Normallyacentral5NMringfromthesurface,anda10NMringstartingat1200feetAGL. FloorsandceilingsinhundredsoffeetMSL.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)8
+○ ClassD-Normally4NMradius,2500feetAGLceiling. CeilinggiveninhundredsoffeetMSL.
+○ ClassE-Onlydepictedwhenitdeviatesfromthenormal1,200ftAGLrules. MagentashadingindicatesClassEfrom700ftAGL. DashedmagentaindicatesClassEfromthesurface.Normallyextendsupto,butnotincluding18,000feetMSL. Whenblueshadingisdepicted(onlyinthewesternUS),ClassEbeginsat14,500feetMSL,butnotlowerthan1,200feetAGL.
+○ ClassG-NotDepicted! Normallysurfaceto1,200feetAGL,exceptwhereClassEairspaceisdepictedlower.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)9
+○ MOA-Magentahatchedborder. Usuallynamed. Altitudesandcontrollingagenciesarespecifiedinthesectionalchartlegendarea.
+○ Restricted/ProhibitedAreas-Bluehatchedborder. NamedRorP-####. Altitudesandcontrollingagenciesarespecifiedinthesectionalchartlegendarea.
+○ Alert Areas-Magentahatchedborder. NamedA-###. Usuallycautionnoteprovided.
+○ TFRs-Notdepictedonsectionalchartsduetotemporarynature,butoftenvisibleonEFBs!
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_g_-_national_airspace_system.pdf>>>
+========================================
+
+PPL(I-E) / CAX(I-E) / CFI (II-G)10
+● Currencyof Publications-Aeronauticalchartsandpublicationsareupdatedonthefollowingfrequencies:○ TerminalProceduresPublications(TPPs)-28days○ AllVFRCharts-56days○ ChartSupplements-56days
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

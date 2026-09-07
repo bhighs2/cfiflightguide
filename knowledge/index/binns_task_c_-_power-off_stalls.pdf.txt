@@ -1,0 +1,135 @@
+DOCUMENT_TITLE: binns_task_c_-_power-off_stalls
+SOURCE_FILE: binns_task_c_-_power-off_stalls.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)1
+Power-Off Stalls
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofthepower-offstallmaneuverandhowtoperformthemaneuverproperly.
+Purpose
+Stallsarewhathappenswhenawing‘stopsflying’. Thepower-offstallmaneuverintroducespilotstotheconceptsofthestallandhowitmightbeencounteredwhileonapproachtolanding. Pilotswilldevelopproficiencyinproperstallawarenessandrecoverytechniques.
+Schedule Equipment
+● GroundLesson:15minutes● Initial■ Flight 1:40minutes- IntroductiontoManeuver■ Flight 2:50minutes- ImproveProficiency(Dual)● Solo■ Flight 3:30minutes- ImproveProficiency● Pre-Checkride■ Flight 4:20minutes- DemonstrateProficiency● Debrief:10minutes(per flight)
+● AirplaneChecklist● Whiteboard/Markers(optional)● ModelAirplane(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratethemaneuverinflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanexplainthepurposeofthemaneuverandhowtoexecuteitproperly.● Canexplainthecriticalangleofattack,andthefactorsthataffectstallspeed.● Flight:StudentcanperformthemaneuvertotheapplicableACSstandards.● Establishesacoordinateddescentordescendingturninthespecifiedconfigurationatapproachairspeed.● Reducespowertoidle,pitchestoholdaltitudeandcauseastall. Maintainsaspecifiedheading±10°ifinstraightflight;maintainaspecifiedangleofbanknottoexceed20°,±10°ifinturningflight,whileinducingthestall. (CFI Applicants: ±5° bankif inturningflight)● PrivatePilot:Acknowledgesfirstindicationofthestall,andcontinuestoafullstall.● Commercial/CFI:Acknowledgesfirstindicationofthestall,and(optionally)continuestoafullstall.● PromptlyrecoversandclimbsatVxorVytoreturntotheoriginalaltitudeandheading.● SeeexpandedCompletionStandardsbelow.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)2
+References
+● ERAUSpecialVFR-“PowerOffStalls”○ YouTube-https://www.youtube.com/watch?v=2IdWyxnadSg● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter3,Page10[TrimControl],Chapter3,Page11-17[LevelTurns],Chapter5,Page8-9[CoordinatedFlight/AngleofAttack],Chapter5,Page12-16[Stalls/StallRecognition/StallRecovery],Chapter5,Page17-18[FullStalls,Power-Off]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter5,Page2-5[Thrust,Lift,andAngleofAttack],Chapter5,Page25-26[Stalls],Chapter5,Page34-35[LoadFactorsandStallingSpeeds]● FAA-S-ACS-6C(PrivatePilotACS)-AreaVIITaskB● FAA-S-ACS-7B(CommercialPilotACS)-AreaVIITaskB● FAA-S-ACS-25(CFIACS)-AreaXTaskC
+GroundLessonOutline
+● Stalls○ Angleofattack,relativewind,chordline,Lift/Drag○ InducedDrag,ParasiteDrag○ CriticalAngleofAttack● RecoveryfromaStalledCondition○ CGandNaturalRecoveryTendency○ DangersofanAftCG○ SecondaryStall● StallSpeed○ Vs,Vs0● BankAngleandLoadFactor● Factorsthataffectstallspeed○ Loadfactor,CG,Weight,Coordination● Poweranddownwash● TheApproachtoLandingStall○ BasetoFinalturn,riskofskiddingturnandspin● WarningSigns● Safetyconsiderations○ Useofchecklists○ Visualtrafficscanning● ManeuverDescription-step-by-step○ Entryposition,airspeed,etc.● ExpandedCompletionStandards
+CommonErrors
+● Failuretoestablishthespecifiedconfigurationpriortoentry.● Improperpitch,heading,yaw,andbankcontrolduringstraight-aheadstalls.● Improperpitch,yaw,andbankcontrolduringturningstalls.● Roughand/or uncoordinateduseof flight controls.● Failuretorecognizethefirst indicationsof astall.● Failuretoachieveastall.● Impropertorquecorrection.● Poor stall recognitionanddelayedrecovery.● Excessivealtitudelossor excessiveairspeedduringrecovery.● Secondarystall duringrecovery.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)3
+GroundLessonContent
+● Stalls-Anaerodynamicstalliswhathappenswhenawing‘stopsflying’. Wings(alsoknownasairfoils)aredesignedtoredirectairdownwards(resultinginanupwardsforce,calledlift)bysmoothlyandefficientlyactingontheairbothbelowandabovethem. Asphysicalobjectsmovingthroughtheair,thereisalsoinherentlyairresistance(arearwardsforcecalleddrag)opposingthem.○ Theamountofliftawingproducesiscontrolledbyitsdesign(whichisfixed),andisalsoproportionaltoitsangleof attack(whichisvariable). Theangleof attackistheanglebetweenthewing’schordlineandtherelativewind.
+○ Itisimportanttorealizethattherelativewindisnotalwayshorizontal. Therelativewindiscreatedbythemotionof theairplaneitself throughtheair, andcanbefromanydirection.Anairplanedivingatthegroundmayhavearelativewindthatisnearlyvertical,andanairplaneflyinglevelwillhavearelativewindthatishorizontal.○ Airfoilsproducetwotypesofdrag:■ InducedDrag-Induceddragisdragthatisproducedbecauseliftisproduced. Theforceanairfoilproducesisperpendiculartoitschordline,andairfoilsonlyproduceliftwhenflyingatanangletotherelativewind. Thismeansthatsomeofthatforceactsupward(lift),andsomeactsrearward(drag). Morelift alwaysmeansmoreinduceddrag.■ ParasiteDrag-Parasitedragisjustthedragthatiscreatedbymovinganysolidobjectthroughtheair,andisnotassociatedwiththeproductionoflift. Parasitedragincreasesasthesquareof theairspeed.○ Astheangleofattackincreases,wingsproduceincreasingamountsoflift. Asthewingmovesatalowangleofattack,theairmovingoveritsupwardsurfacemovesasasmoothflow,whichisattached(tendstofollowthecontoursofthewing). Airflowatlowanglesofattackgeneratesrelativelylittledrag. Astheangleofattackincreases,theflowbecomesmoreturbulent,andatsomepoint,theairflowingoverthewing’suppersurfacecannotremainattached,andbecomesveryturbulent. Atthispoint,theliftproducedbythewingdropsdramatically,withacorrespondingdramaticincreaseindrag. Theangleatwhichtheliftisatmaximum,beforedecreasingrapidly,iscalledthecritical angleof attack. Onceawingexceedsthecriticalangleofattack,itissaidtobestalled. (It‘stopsflying’) Animportant propertyof wingsisthat theyalwaysstall at thesamecritical angleof attack, regardlessof airspeed!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)4
+○ Belowisanairfoilinthenormal(lowangleofattack),highlift(highangleofattack),andstalledcondition,alongwiththecorrespondingangleofattackvsliftgraph:
+○ Althoughagivenwingalwaysstallsatthesameangleofattack,mostairplaneshavewingsthatcanactuallychangetheirdesigntosomeextent. Theadditionof flapschangestheaerodynamicsofawingbylengtheningthechordlineandchangingtheoverallcurvatureofthewing(calledcamber). Inmostcases,flapsaddmorelift,butsignificantlymoredrag. Becauseoftheincreasedcamber,flapsallowairplanestoproducemoreliftforagivenangleofattack.However, flapsgenerallydecreasethecritical angleof attackat whichthewingstalls.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)5
+● RecoveryfromaStalledCondition-Awingwhichisstalledisnowproducingverylittleliftrelativetothedragitisproducing. Ithas‘stoppedflying’. Theonlywaytorecover fromthestall andtogetthewingflyingagainistoreducetheangleof attack!○ Airplanesaredesignedsothattheyhaveanaturaltendencytorecoverfromastall. Theyaredesignedsothatduringflight,theyrotatearoundapointcalledtheCenter of Lift. TheCenter ofGravityisthe‘balancepoint’. (Imaginebalancinganobjectonafingertip) Awell-designedairplane’sCenter of Gravityisalwaysforwardof theCenter of Lift.
+○ Thisdesigncausesanaturaltendencyfortheairplanetonosedown,reducingtheangleofattack. Tocounteractthis,thehorizontalstabilizerandelevatorsurfacesofanairplanearedesignedtoproduceadownwardforce,which‘holdsup’theheaviernoseareabypivotingtheairplanearoundtheCenterofLift. Whenanairplanestalls, if theelevator pressureisrelaxed, theCenter of Gravitywill fall naturally.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)6
+○ WhenanairplaneCenterofGravityistooclosetotheCenterofLift,orevenbehindit,averydangeroussituationexistswherethereisnonaturaltendencytorecoverfromastall. Infact, iftheCenter of Gravityistoofar rearward(aft), astall maybeunrecoverable!○ Forpilotsofmostairplanesthisisverysimple: if thewingstalls, releasebackelevatorpressure. Somewingsandairplanedesignsrequiremoredeliberatepilotactiontorecoveryquicklyfromastall,suchasmovingtheelevatorforward,but most airplaneswill recoversimplybyreleasingthecontrol pressures.○ SecondaryStalls-Ifthereleaseofcontrolpressureisinsufficient,ortoobrief,itispossibletoenterasecondarystall,wherethewingdoesnotcompletelyrecoverfromthestallandentersasecond,deeperstall. It isimportant toreduceangleof attackenoughtofullyrecover fromthestall beforeincreasingangleof attackagain!● Stall Speed-Althoughtheangleofattackistheonlytruemeasureofwhenawingwillstall,mostaircraftdonothaveawaytodisplayangleofattackdirectly. Becausemostflightisconductedinapproximatelythesameconditions, airspeedisagoodapproximationofangleofattackinmanyconditions,withsomeimportantlimits.○ AirplanePOHsliststallspeedsthatarevalidonlyfor‘unaccelerated’(generallystraight, notturning),coordinatedflightatagivenweightandcenterofgravity.○ Recallthatflapscanchangethecriticalangleofattack,soairplanePOHsalsoliststallspeedsfordifferentconfigurations,usuallyatleast:■ Vs-Stallspeedintheclean(noflaps)configuration.■ Vs0
+-Stallspeedinthelanding(usuallywithflaps)configuration.● BankAngleandLoadFactor-Asanairplaneturns,itsweightremainsthesame,andthereforetheupwardcomponentofliftmustremainequaltoitsweight. Duringaturn,someoftheliftmustbedirectedtowardsthecenteroftheturn,reducingtheupwardcomponentoflift. Ifnopilotcorrectionswereapplied,theairplanewouldnotproduceanymorethanthenormal1goflift,andtheairplanewouldbegintodescend. Inordertocorrectforthelossofverticallift,andmaintainalevelaltitude,thewingmustproducemorelift,whichrequiresincreasedbackelevator pressure. Thisincreasedbackelevatorpressurewillcausethewingtoflyatahigher angleof attack,producingtheincreasedliftthatisrequired. ThiscanbefeltbythepilotasahigherthannormalG-force.○ Inordertomaintain1gofverticallift,whilealsoturning,thewingmustproducemorethan1goftotallift. Theamountoftotalliftiscalledtheloadfactor.
+○ Asthebankangleincreases,theloadfactorrequiredtomaintainlevelflightincreasesslowlyatfirst,butincreasesrapidly,especiallyatbankanglesbeyond45degrees. Theloadfactor
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)7
+createdbyalevel, coordinatedturndependsonlyonthebankangle. Notethat airspeeddoesnot affect theloadfactor of aturn.● Whileflyingatahigherangleofattacknecessarytomeetthedemandsofahigherloadfactor,thewingwillproducemoreinduceddrag. Thiswillresultintheairspeeddecreasingunlesspowerisaddedtocompensatefortheincreaseddrag.
+● Factorsthat affect Stall Speed● LoadFactor-Astheloadfactorincreasesinaturn,itisimportanttorecognizethat thestallspeedalsoincreases. Wecanseethisrelationshipdepictedinaso-calledVgdiagram,shownbelow. TheStallSpeedwenormallyseeforouraircraft,VsorVs0
+,appliesonlyto‘unaccelerated’flight--thatis,flightat1gloadfactor. ObservefromtheVgdiagramthatastheloadfactorincreases,thestallspeedalsoincreases. Notethat thewingcanstall at anyairspeed! Iftheloadfactorishighenough,thewingwilleitherstall,orsufferstructuralfailure.● Flyingatlowairspeedsrequiresthat bankanglesbekept verylowtominimizetheincreaseinloadfactor.
+○ Center of Gravity-Whenconventionallydesignedairplanesfly,thecenterofgravityisalwaysinfront ofthecenteroflift. Youcanthinkofthecenterofliftasasortofpivotpointinaseesaw.Becausethehorizontalstabilizerisfarbehindthecenteroflift,itproducesdownwardforce(essentiallylift,butdownward)tokeepthenoseoftheairplanelevel. Thisdownwardforceopposestheupwardforceofthemainwing,requiringittoproduceslightlymorelifttocompensate. Also,becauseanyairfoilthatproducesliftalsoproducesdrag,theamountofdragcausedbythehorizontalstabilizerdependsontheforceitmustproduce.■ Whenthecenterofgravityisfurtherforward,thehorizontalstabilizermustproducemoredownwardforce,andthereforeitcreatesmoredragandcausesthemainwingtoflyatahigherangleofattackforthesameairspeed. Weknowthatawingwillalwaysstallatthesameangleofattack,sowealsoknowthat asthecenter of gravitymovesfurtherforward, theairplanewill stall at ahigher airspeed.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)8
+○ Weight-Likewise,whenflyingathigherweights,thetotalloadonthewingishigher,againresultinginahigherangleofattackforthesameairspeed. Heavier aircraft stall at ahigherairspeed.○ Coordination-Airplanesflyinginanuncoordinatedfashiongenerateaconsiderableamountofincreaseddrag,andthefuselagemayblanketonewingortheother,increasingthestallspeed.Thiscanactuallycausetheleft andright wingtostall at adifferent airspeed! Thisisaverydangeroussituationandmust beavoided.
+● Power andDownwash-Recallthattherearhorizontalstabilizerandelevatorsurfacesact downwardtocounterbalancetheheavynosesection. Itisimportanttorealizethattheairflowingaroundtheairplaneisdisturbedbythewingandthepropeller. Infact,thewing‘bends’theairflowoverthetopsuchthatthehorizontalstabilizerusuallyfliesatahigherangleofattackthanitwouldseemfromsimplyobservingitsanglerelativetotheairplaneitself.○ Thrustfromthepropelleralsocontributestothiseffect,andwhentheairplaneisflyingathighpowersettings,theamountofdownwashexperiencedbythehorizontalstabilizerisincreased,improvingitseffectiveness,andthereisanaturaltendencytomoveit down(resultinginpitchingtheairplaneup).○ Similarly, whenflyingat lowpower settings, thedownwashisreduced, andthereisadownwardpitchingtendency, alongwithreducedelevator effectiveness. Therefore,ifanairplaneistrimmedtoaspecificairspeedinalowpowersituation,itwillrequiremorenoseuptrimthanwouldberequiredinahighpowersituation.
+● TheApproachtoLandingStall-Thepower-offstallisoftencalledtheapproachtolandingstall,becausethemaneuveraimstomimictheflightconditionspresentduringapproachandlanding.Perhapsapilotdoesnotmonitortheairspeedandallowsittogettoolow,orperhapsthepilotinappropriatelycorrectsglidepathbypitchingupatlowairspeed,orbankstoosteeplyatlowairspeed.○ TheBase-to-Final TurningStall-Themostnotoriousstallofalltimeisanextremelydangerousone. Asapilotturnsfrombaselegtofinalapproach,theyrealizetheairplanewillovershoottherunway,andbankstoosteeply,oruses‘bottom’ruddertocreateaskiddingturn. Inanycase,theairplanestalls,andveryprobablyentersanaggravatedstalledconditioncalledaspin.Spinsmaybeunrecoverableat lowaltitude, but theyrequireastall tooccur, sostallingtheairplaneat lowaltitudemust bepreventedat all costs!
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)9
+● WarningSigns-Stallsdonotoccurwithoutwarning. Theairplanewillbehavequitedifferentlyasairspeedisreducedandthestallapproaches:○ Lossof Control Effectiveness-Maintainingpitchorbankwillrequirelargecontrolmovements.○ Buffet-Thestall buffetistheroughnessorbumpinessthatprecedesanaerodynamicstall,causedbytheincreasinglyturbulentairflowoverthewing.○ Stall WarningHorn-Mostplaneshaveanaudiblestallwarninghornthatactivatesafewknotsbeforethestall.
+● SafetyConsiderations○ Aswithanymaneuver,theuseof checklistsisimportant. Beforebeginningthemaneuver,performapre-maneuverchecklist,includingperformingclearingturnsandidentifyingpossibleemergencylandingsites.○ Itiscrucialtonotbecomesofocusedonperformingthemaneuverthatanunsafesituationiscreated. Maintainsituationalawareness,makeappropriatepracticearearadiocalls,andremember tocontinuouslyscanfor traffic!
+ManeuverDescription
+● EntryAltitude-Stallsshouldalwaysbeperformedatasafealtitude,incaseofadelayedorinadequaterecovery,orotherproblems. Themaneuvershouldbeperformedsuchthataccountingforaltitudelossduringthestall,thefinalaltitudeisnolowerthan1,500feetAGL. Thereforeitisbesttobeginthemaneuver at least 2,000feet AGL.● EntryAirspeed-Themaneuvershouldbestartedatanormalapproachairspeed.● Checklists-Pilotsmustperformapre-maneuverchecklistbeforebeginningthemaneuver. Becausethismaneuverismeanttosimulateanapproachtolanding,itisagoodideatoalsoperformapre-landingchecklist.● Configuration-Configuretheairplaneforlanding(generallyaddflapsandlowerlandinggear).● EntryPower-Initially,reducethepowertobeginanormaldescentforlandingattheapproachairspeed.● Bank-Ifrequested,beginaturninthespecifieddirection. Thebankangleshouldbelessthan20degreestokeepalowloadfactor.● Descent-Aftertheairplaneisestablishedinastabledescent,pitchtheairplaneuptopreventanyfurtherdescentandinduceastall.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:binns_task_c_-_power-off_stalls.pdf>>>
+========================================
+
+PPL(VII-B) / CAX(VII-B) / CFI (X-C)10
+● Stall-Acknowledge(callout)thefirstindicationsofanapproachingstall(especiallythebuffetorstallwarninghorn). Maintainbackelevatorpressureandallowtheairplanetostall. (For Commercial Pilotstudents, recover at first indicationof thestall, if requested)● Recovery-Promptlyreducebackelevator pressure, level thewings, andapplyfull power. Oncetheairplanehasregainedflyingairspeed,establishaclimbatVxorVytogetbacktothepre-maneuveraltitude. Ifperformedinthedirtyorlandingconfiguration,progressivelyretractflaps,landinggear,etc.● Coordination-Duetothestrongleft-turningtendenciespresentathighpowersettingsduringstallrecovery, proper coordinationisessential. Attentionshouldbegiventoproperrudderinputduringturns.● Thisisavisual maneuver! Eyesshouldremainoutsidethecockpitasmuchaspossibletoscanfortrafficandtoholdheading.
+ExpandedCompletionStandards● Thepilotcanexplainthepurposeofthepower-offstallmaneuverandunderstandsthecriticalangleofattack,factorsthataffectstallspeed,andotherfactorsthataffectthemaneuver.● Thepilotcanperformthemaneuvertothefollowingstandards:○ Pilotclearsthearea,performsapre-maneuver/before-landingchecklist,andselectsanaltitudenotlessthan2,000ftAGL.○ Pilotconfigurestheairplaneasspecifiedbytheevaluator.○ Pilotestablishesaproperlycoordinateddescent(orturningdescent)atanormalapproachairspeed.○ Onceastabledescentisestablished,pilotappliesbackelevatorpressuretoholdaltitudeandcauseastall. Maintainsaspecifiedheading±10°ifinstraightflight;maintainaspecifiedangleofbanknottoexceed20°,±10°ifinturningflight,whileinducingthestall.■ CFIApplicants:±5°bankifinturningflight○ Pilotacknowledges(callsout)firstindicationofthestall.■ PrivatePilots:Allowtheairplanetostall.■ Commercial Pilots/CFI:Recoversatfirstindication,ifrequested,otherwise,allowtheairplanetostall.○ Recoverspromptlyfromthestallbyreducingpitch,levelingwings,andapplyingfullpower.○ ClimbatVxorVy,asappropriate,andreturntotheoriginalaltitudeandheading.
+Preparedby:RyanBinns(ryancbinns.com/flying),January2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

@@ -1,0 +1,83 @@
+DOCUMENT_TITLE: binns_task_a_-_communications_light_signals_and_runway_lighting_systems
+SOURCE_FILE: binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf>>>
+========================================
+
+PPL(III-A)/CAX(III-A)/CFI(VI-A)1
+Communications,LightSignals,andRunwayLightingSystems
+Objective
+Toensuretheapplicantlearnsandcanexhibitaclearunderstandingofaviationradiocommunications,phraseology,basicATCprocedures,andATClightgunsignals.
+Purpose
+Whetheroperatingatabusytoweredairport,oraquietnon-toweredairport,radiocommunicationsareanessentialpartofeveryflight. ThislessonintroducespilotstothebasicsofATCandotherradiocommunicationssothattheycanoperatesafelyandeffectivelyinallkindsofairspace.
+Schedule Equipment
+● GroundLesson:20minutes● StudentQ&A:10minutes
+● AirportDiagrams● VFRSectionalChart● ChartSupplement● Whiteboard/Markers(optional)
+StudentActions InstructorActions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Answerstudentquestions.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● VarioustypesofATCfrequenciesandtheirpurpose● Varioustypesofself-announcingfrequenciesandtheirpurpose● ProperATCPhraseology,thePhoneticAlphabet,RequiredReadbacks● Properself-announcingproceduresandphraseology.● Howtodeterminethecorrectfrequencies.● LostProcedures● LostCommsProcedures,ATCLightGunSignals● RunwayStatusLights● Beforeeachflight,studentperformsthefollowing:● Selectsandactivatesappropriatefrequencies● CommunicatesontheradiousingproperphraseologyandcomplieswithATCinstructions
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf>>>
+========================================
+
+PPL(III-A)/CAX(III-A)/CFI(VI-A)2
+References
+● AirplaneAcademy-“15ActionableTipsforConfidencewithATC(withPracticalExamples)”○ YouTube-https://www.youtube.com/watch?v=ExnLJ-bWekI● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter2,Page18-21[Taxiing],Chapter8[AirportTrafficPatterns]● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter14[AirportOperations]● AIM-2024-03-21(AeronauticalInformationManual)-Chapter2,Section1-6[RunwayStatusLights],Chapter2,Section3[AirportMarkingAidsandSigns],Chapter4,Section2[RadioCommunicationsPhraseologyandTechniques],Chapter4,Section3[AirportOperations],Chapter5,Section2-4[TaxiClearance],Chapter5,Section5-2[ATCClearance/Readbacks]● Pilot/ControllerGlossary● FAAAC90-48E(Pilot’sRoleinCollisionAvoidance),FAAAC90-66C(Non-ToweredAirportFlightOperations)● FAA-S-ACS-6C(PrivatePilotACS)-AreaIIITaskA● FAA-S-ACS-7B(CommercialPilotACS)-AreaIIITaskA● FAA-S-ACS-25(CFIACS)-AreaVITaskA
+GroundLessonOutline
+● BasicsofATCRadioCommunication○ ATISBroadcast,Ground,Tower,Approach/Departure,Center,Guard(121.5),FSS○ Listenbeforetransmitting! Think,thenspeak.○ “Two-WayRadioCommunications”○ TransponderUsage○ MandatoryCompliance-ButPIChasultimateauthorityoversafetyofflight! Say“Unable”ifnecessary!● PhraseologyforATCCommunications○ PhoneticAlphabet,RunwayNumbers-e.g.25=“TwoFive”,ProperuseofCallsigns○ [ATCFacilityName],[Callsign],[Position],[Request]■ Ex:“OrlandoTower,CessnaN12345,HoldingShortofRunway7,ReadyforDeparture”○ ATISLetterUsage-OnInitialcalltoground(fordeparture),orapproach/tower(forarrival)○ RequiredReadbacks-TaxiClearances,HoldShortInstructions,Takeoff/LandingClearances● BasicsofCTAF/PracticeAreaRadioCommunications-Self-announcingprocedures,UNICOM,ASOS● PhraseologyforCTAF/PracticeAreaCommunications○ [FrequencyName],[Callsign],[Position],[Intentions],[FrequencyNameAgain]■ Ex:“ApopkaTraffic,CessnaN12345,5mileswestat1,500feet,enteringaleftdownwindforRunway33,ApopkaTraffic”■ Ex:“LakeApopkaTraffic,CessnaN12345,2,500feet,NorthShoreofLakeApopka,SteepTurns,LakeApopkaTraffic”● DeterminingtheCorrectFrequency-OntheGround,IntheAir● LostProcedures-121.5(Guard),Don’thesitatetodeclareanEmergency,RadarAssistance● LostCommsProcedures-Issuesthatcancauselostcomms,ATCLightGunSignals● RunwayStatusLights
+CommonErrors
+● Useofimproperfrequencies.● Improperprocedureandphraseologywhenusingradiocommunications○ Forexample:Neglectingtostatetheaircraftcallsign/nnumberatnon-toweredairports,failuretostateposition,runwayoftakeoff,andtheairportofoperation.● Failuretoacknowledge,orproperlycomplywith,ATCclearancesandinstructions.● Failuretounderstand,ortoproperlycomplywith,ATClightsignals.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf>>>
+========================================
+
+PPL(III-A)/CAX(III-A)/CFI(VI-A)3
+GroundLessonContent
+● BasicsofATCRadioCommunication○ CommonFrequencies■ ATISBroadcast-Onlyavailableatsometoweredairports,broadcastsarecordedloopcontainingtheweatherandotherimportantinformation,codedwithaletter(e.g.N=“November”)■ Ground-Providestaxiclearances.■ Tower-Providestakeoffandlandingclearances.■ Approach/Departure-Insomebusierareas,provideradarservicestoarrivinganddepartingaircraftthatareatlowaltitudenearamajorairportbutnotintheimmediatevicinity.■ Center-Provideradarservicestoaircraftincruiseflight.■ Guard(121.5)-Universalemergencyfrequency,monitoredbymostATCfacilitiesatalltimes.■ FSS-FlightServiceStationsarenotATCbutcanprovidein-flightservicestopilots.(Weather,filingandclosingflightplans,etc)○ Listenbeforetransmitting! Think,thenspeak.○ “Two-WayRadioCommunications”-Someairspaces(e.g.ClassC,ClassD)requirepilotstosimplyestablish“Two-WayRadioCommunications”beforeentering.■ IfATCreadsbackthecallsign,two-waycommunicationshavebeenestablished.■ IfATCdoesnotreadbackthecallsign(e.g.“aircraftcalling,standby”),two-waycommunicationshavenotbeenestablished.○ TransponderUsage-Thetransponderprovidesdataaboutyourairplane(altitude,GPSposition[ADS-B],etc.)toATCradar,alongwitha4digitcode.(0000-7777)■ VFRAirplanesalluse1200whennotassignedanothercode.■ ATCcanassignacodebeforetakeofforduringflight.■ Aircraftshouldkeepthetransponderinaltitude-reportingmode(ALT)atalltimes!○ MandatoryCompliance-CompliancewithATCinstructionsismandatory!■ Notabsolute!-PIChasultimateauthorityoversafetyofflight! Say“Unable”ifnecessary!● PhraseologyforATCCommunications○ PhoneticAlphabet-Whensayingcallsignsorotheralphanumericidentifiers,pilotsmustusethephoneticalphabet.
+○ RunwayNumbers-e.g.25=“TwoFive”-Spokenonenumberatatime.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf>>>
+========================================
+
+PPL(III-A)/CAX(III-A)/CFI(VI-A)4
+○ ProperuseofCallsigns-Alwaysusethefullaircraftcallsignoninitialcall,howeverATCmaychoosetoabbreviateyourcallsign(e.g.“CessnaN12345”->“Cessna345”)■ OnlyuseyourabbreviatedcallsignafterATCshortensitfirst○ Format:■ [ATCFacilityName],[Callsign],[Position],[Request]■ Example:“OrlandoTower,CessnaN12345,HoldingShortofRunway7,ReadyforDeparture”○ ATISLetterUsage-OnInitialcalltoground(fordeparture),orapproach/tower(forarrival)○ RequiredReadbacks-Forsafetyreasons,certaincommunicationsrequirepilotreadbacks. Allreadbacksmustalwaysincludetheaircraftcallsign.■ TaxiClearances-Mustincludeataminimumanyrunwaycrossingsandholdshortinstructions.■ HoldShortInstructions■ Takeoff/LandingClearances-Mustincludetherunwaynumber.● BasicsofCTAF/PracticeAreaRadioCommunications-“CommonTrafficAdvisoryFrequency”○ Self-announcingprocedures-Aircraftself-announcepositionandattention“intheblind”(noexpectationofresponse)■ Pilotscanworktogetherwitheachotheronthefrequencytoavoidconflicts○ UNICOM-“UniversalIntegratedCommunity”-Singlefrequencyusedforcommunicatingbyallpersonnelonanon-toweredairport,oftenthesamefrequencyastheCTAFfrequency.○ ASOSBroadcast-Anautomated,recordedweatherbroadcastavailableatsomeairports,particularlynon-toweredairports● PhraseologyforCTAF/PracticeAreaCommunications○ Format:■ [FrequencyName],[Callsign],[Position],[Intentions],[FrequencyNameAgain]■ Example:“ApopkaTraffic,CessnaN12345,5mileswestat1,500feet,enteringaleftdownwindforRunway33,ApopkaTraffic”■ Example:“LakeApopkaTraffic,CessnaN12345,2,500feet,NorthShoreofLakeApopka,SteepTurns,LakeApopkaTraffic”● DeterminingtheCorrectFrequency○ OntheGround-UsetheChartSupplementorconsulttheAirportDiagramorVFRSectionals.
+○ IntheAir-ImportantfrequenciesareprintedonVFRSectionalmaps.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf>>>
+========================================
+
+PPL(III-A)/CAX(III-A)/CFI(VI-A)5
+● LostProcedures-ThereisalwaysanATCfacilitysomewherewithinrangelisteningon121.5(Guard)○ Call“intheblind”onGuard■ Example:“AnyATCfacility,CessnaN12345onGuard,lostandinneedofassistance!”○ IfyourequireATCassistance,donothesitatetodeclareanemergency○ ATCmayalsoprovideradar assistance,thatistosay,theymaygiveyouasquawkcodeandhelpyouidentifyyourpositionviaATCradar.● LostCommsProcedures-Communicationscanbelostforavarietyofreasons,includingelectricalsystemfailure,incorrectradio/intercomsettings,orsimplydialinginthewrongfrequency.○ ATCLightGunSignals-Ifalandingatatoweredairportmustbemadewithoutradiocommunications,carefullyapproachtheairporttrafficpatternandlookforlightgunsignalsfromthetower.○ Seealso:■ FLY8MA.comFlightTraining-“RealLightGunSignals|ATCTower”■ YouTube-https://www.youtube.com/watch?v=nxoakUa8UqQ
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_a_-_communications_light_signals_and_runway_lighting_systems.pdf>>>
+========================================
+
+PPL(III-A)/CAX(III-A)/CFI(VI-A)6
+● RunwayStatusLights-RunwayStatusLightsareafullyautomatedsystemthatprovidesrunwaystatusinformationtopilotsandsurfacevehicleoperatorstoclearlyindicatewhenitisunsafetoenter,cross,takeofffrom,orlandonarunway.TheRWSLsystemprocessesinformationfromsurveillancesystemsandactivatesRunwayEntranceLights(REL)andTakeoffHoldLights(THL),inaccordancewiththepositionandvelocityofthedetectedsurfacetrafficandapproachtraffic. ThisprovidesanadditionallayerofsafetythatdoesnotdependonhumanAirTrafficControllerstopreventrunwayincursions.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

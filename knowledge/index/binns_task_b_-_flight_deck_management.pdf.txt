@@ -1,0 +1,40 @@
+DOCUMENT_TITLE: binns_task_b_-_flight_deck_management
+SOURCE_FILE: binns_task_b_-_flight_deck_management.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_b_-_flight_deck_management.pdf>>>
+========================================
+
+PPL(II-B) / CAX(II-B) / CFI (V-B)1
+Flight DeckManagement
+Objective
+Toensuretheapplicantlearnsthepurposeofandcanexhibitaclearunderstandingofflightdeckmanagement,passengerbriefings,andthebasicsofsingle-pilotresourcemanagement(SRM).
+Purpose
+TheFAArequirespilotstobriefallpassengersoncertainitemsbeforeeveryflight,buttherearemanymorethingspilotsshoulddobeforeeachflighttopromotesafetyandreduceworkload. Thislessonintroducespilotstothebasicsofflightdeckmanagement,passengerbriefings,andsingle-pilotresourcemanagement(SRM).
+Schedule Equipment
+● GroundLesson:5minutes- Intheairplane● Initial■ BeforeFlight:5minutes- IntroductionandDemonstration● EveryFlight■ BeforeFlight:5minutes- Student Performs
+● AirplaneChecklist● Tablet/EFBSoftware(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● Demonstratetheproceduresbeforeflight.● Debriefaftereachflight.
+CompletionStandards
+● Ground:Studentcanthepurposeofflightdeckmanagement,passengerbriefings,andSRM.● Flight:Studentcanpreparethecockpitandpassengersforflightby:● Givingapassengerbriefingthatincludeshowtooperatethesafetybelts,doors,windows,andemergencyprocedures.● Organizingtheitemsthatthepilotwillneedduringtheflightwithineasyreachbeforeenginestart.● ExhibitSRMbyutilizingallavailableresourcesandautomationtoreduceworkload,includingchecklists.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_b_-_flight_deck_management.pdf>>>
+========================================
+
+PPL(II-B) / CAX(II-B) / CFI (V-B)2
+References
+● FLY8MA.comFlightTraining-“Ep.123:PassengerSafetyBriefing”○ YouTube-https://www.youtube.com/watch?v=-b69-1qn6p4● FAA-H-8083-3C(AirplaneFlyingHandbook)-Chapter2,Page12-14[RiskandResourceManagement]● FAA-S-ACS-6C(PrivatePilotACS)-AreaIITaskB● FAA-S-ACS-7B(CommercialPilotACS)-AreaIITaskB● FAA-S-ACS-25(CFIACS)-AreaVTaskB
+GroundLessonOutline
+● ProperArrangingandSecuringofCockpitandCabin○ EnsureEssentialMaterialsareReachable○ NoLooseItemsonGlareshield,Floor,etc.○ SecureCargo○ EnsureControlsCanMoveFreely● UseofSafetyBelts-Includingshoulderharness○ RequiredforPassengersduringTakeoff,Landing,andGroundMovement-§91.107○ RequiredforCrew,includingshoulderharnessduringtakeoff/landing-§91.105● PassengerSafetyBriefing○ HowtoSecureDoors,Windows○ HowtoOperateSafetyBeltsandShoulderHarnesses○ AcceptablePassengerConductduringtheFlight-Distractions/CriticalPhasesofFlight○ Remainingclearofflightcontrolsincludingrudderpedals○ Propellerbladeavoidance○ UseofPortableElectronicDevices○ WhattodoincaseofEmergency● FlyingwithOtherPilots○ BriefwhoisPilotinCommand● Single-PilotResourceManagement○ Importanceofproperchecklistusage○ Importanceofcurrentandappropriatenavigationdata(DownloadEFBupdates,etc)○ Useallavailableresources-ATC,WeatherBriefers,etc. Evenaskpassengerstohelpscanfortraffic.○ Properuseofautomation-autopilot,etc.
+CommonErrors
+● Failuretoplaceandsecureessentialmaterialsandequipmentforeasyaccessduringflight.● Failuretoproperlyadjust cockpit items, suchassafetybelts, shoulder harnesses, rudder pedals, andseats.● Failuretoprovideproperadjustmentofequipmentandcontrols.● Failuretoprovideoccupant briefingonemergencyproceduresanduseof safetybelts.● Failuretoutilizeallresourcesrequiredtooperateaflightsafely.● FailuretouseproperSRMorADM.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder

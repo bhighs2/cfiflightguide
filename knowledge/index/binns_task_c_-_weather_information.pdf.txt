@@ -1,0 +1,114 @@
+DOCUMENT_TITLE: binns_task_c_-_weather_information
+SOURCE_FILE: binns_task_c_-_weather_information.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)1
+Weather Information
+Objective
+Toensuretheapplicantlearnsthevarioussourcesofaviationweatherandthefactorsthatcontributetoweathergo/no-godecisionmaking.
+Purpose
+Weathercanbeoneofthemosthazardousaspectsofflying,especiallyforVFR-onlypilots. Thislessonintroducespilotstothevarioussourcesofaviationweatherobservations,forecasts,andcharts. Itwillillustratetheimportanceofobtainingathoroughweatherbriefingbeforeeveryflight,andevaluatingtheweathersituationintermsoftheirownproficiencyandairplanecapabilities.
+Schedule Equipment
+● GroundLesson:30minutes● Student Q&A:10minutes
+● SampleAviationWeatherProducts● Tablet/EFBSoftware(optional)● Whiteboard/Markers(optional)
+Student Actions Instructor Actions
+● Askanyquestions,receivestudymaterialforthenextlesson.● Watchlinkedvideo.● Reviewlistedreferences.
+● Deliverthegroundlesson(below).● RequestaStandardWeatherBriefingfromFSS.● Answerstudentquestions.● Poseaweatherandflightplanningscenariotothestudent.
+CompletionStandards
+● Studentcanexplainthefollowingconcepts:● Thetypesofweatherbriefingsavailabletopilotsandhowtoobtainone.● METARs,TAFs,WindsAloft,andhowtodecodethem.● Thetypesofweatherchartsavailabletopilots.● Thesourcesofin-flightweatherinformationavailabletopilots.● Commonaviationweatherhazards,includingwindshear,thunderstorms,andicing.● Personalweatherminimums,andfactorsinfluencingweather-relatedgo/no-godecisions.● Foracross-countryflightscenarioprovidedbytheinstructor,studentdemonstrates:● Useallavailableweatherresourcestoobtainanadequateweatherbriefing.● Analyzetheimplicationsofatleastthreeoftheweatherhazardsorconceptslistedinthislessoninconditionsspecifiedbytheinstructor.● Correlatesweatherinformationtomakeago/no-godecisionforthescenarioflight.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)2
+References
+● FLY8MA.comFlightTraining-“GS:HowtoDecodeMETARsandTAFs|Part1|TheSimpleStuff”○ YouTube-https://www.youtube.com/watch?v=bqXlMwp-yQY● FAA-H-8083-25C(Pilot’sHandbookofAeronauticalKnowledge)-Chapter13,Page2-4[Observations],Chapter13,Page4-5[ServiceOutlets],Chapter13,Page5[WeatherBriefings],Chapter13,Page5-8[AviationWeatherReports],Chapter13,Page9-13[AviationForecasts],Chapter13,Page13-16[WeatherCharts],Chapter13,Page16-18[ATCRadarWeatherDisplays],Chapter13,Page18-23[EFD/MFD/DatalinkWeather]● FAA-H-8083-28(AviationWeatherHandbook)● FAA-S-ACS-6C(PrivatePilotACS)-AreaITaskC● FAA-S-ACS-7B(CommercialPilotACS)-AreaITaskC● FAA-S-ACS-25(CFIACS)-AreaIIITaskC
+GroundLessonOutline
+● ImportanceofWeatherBriefings○ HowtoGet/Sources-FSS/NationalWeatherService○ StandardBriefing-Adverseconditions,VFRnotrec’d,Currentconditions.,forecasts,NOTAMs,etc.○ AbbreviatedBriefing-Changestopreviousbriefing○ OutlookBriefing-Morethan6hoursfromdeparture,forecastedconditions● AviationWeatherProducts○ Observations■ METAR(Hourlyoras-neededbySPECI),PIREPs■ NEXRAD■ WeatherDepiction/Ceiling-VisibilityCharts-DerivedfromMETARs,every3hours,IFR/VFR/MVFR■ SurfaceAnalysis/METARPlotCharts-Every3hours,fronts/systems,temps/dewpoints,winddir/speed,skycover○ Forecasts■ TAF(24/30hours,every6hours),GFATool,Winds/TemperaturesAloft(Twicedaily)■ ConvectiveOutlook(AC)■ AIRMET-Every6Hours,Sierra(IFR/MtnObscuration),Tango(Turbulence/Winds/LLWS),Zulu(IcingandFreezingLevels)■ SIGMET-Unscheduled,Valid4Hours,IssuedunderAlphabeticID,Non-Convective■ ConvectiveSIGMETs-Unscheduled,Valid2hours,SequentiallyNumbered,DangerousConv.■ SignificantWeatherProgCharts-12/24houror36/48hour. ShowslargeforecastedareasofIFR,turbulence,etc.● In-FlightWeatherSources○ ATC-WeatherAvoidanceAssistance■ AIRMET/SIGMET/CenterWeatherAdvisories■ ATCRadarLimitations-Light/Moderate/Heavy/Extreme○ FSS-CommunicatedirectlyorbyVORs○ DatalinkWeather-Limitations(TimeDelay,Doesn’tShowDevelopingStorms),FlightDeckDisplays● AviationConceptsandWeatherHazards○ AtmosphericStability,FrontalSystems,WindShear,Thunderstorms/Microbursts,Turbulence○ LowCloudCeilings,LowVisibility(Mist,Smoke,Haze,Ash,Fog)○ Precipitation,Frost,Icing○ Temperatureandheatexchange,DensityAltitude● Scenario-BasedTraining-DiscussAviationWeatherHazardsforaScenario○ UseofReal-timeWeatherReports,Forecast,andCharts○ FactorsinmakingGo/No-GoDecisions○ PersonalWeatherMinimums
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)3
+GroundLessonContent
+● Importanceof Weather Briefings○ HowtoGet-FSS(1-800-WX-BRIEF)○ StandardBriefing-Adverseconditions,whenVFRnotrecommended,currentconditions,forecasts,NOTAMs,etc.○ AbbreviatedBriefing-Changestopreviousbriefing○ OutlookBriefing-Morethan6hoursfromdeparture,forecastedconditions● AviationWeather Products-PrimarilyprovidedbytheNationalWeatherService○ Observations-Winddirectionsarereferencedtotruenorth.■ METAR-Textual(coded)observation. Issuedhourlyoras-neededbySPECI. ContainsWindDirection,Speed,Temperature,DewPoint,Altimetersetting,CloudCover,Precipitation/Obscuration,etc.● METARKGGG161753ZAUTO14021G26KT3/4SM+TSRABRBKN008OVC012CB18/17A2970RMKPRESFR
+■ PIREPs-Pilotreports. Submittedbypilotsdescribinginflightconditionsatacertainlocation. Winds,temperatures,cloudlayers,turbulence,etc.● UA/OVGGG090025/TM1450/FL060/TPC182/SK080OVC/WXFV04SMRA/TA05/WV270030KT/TBLGT/RMHVYRAIN
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)4
+■ NEXRAD-Compositeimageofradar(precipitation)fromaroundthecountry.■ Weather Depiction/CeilingVisibilityCharts-DerivedfromMETARs,every3hours,depictsareasofIFR/VFR/MVFRweather.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)5
+■ SurfaceAnalysis/METARPlot Charts-Every3hours,fronts/systems,temps/dewpoints,winddir/speed,skycover
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)6
+○ Forecasts■ TAF-TerminalAerodromeForecast,atextualforecast,similarinformattoaMETAR.Coversanarea5statutemilesaroundthefield. Validfor24/30hours,issuedevery6hours.
+■ GFATool-TextualAreaForecastsarenolongeravailable,butthereisaGraphicaltool:
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)7
+■ Winds/TemperaturesAloft-Issuedtwicedaily,givewindsandtempsaloftatvariousaltitudes.● Add50toBearing=Wind>99knots,Lessthan199knots,>200knots=99● Calm(<5knots)=9900
+■ AIRMET-Issuedevery6Hours. ThreeTypes:● AIRMETSierra-AreasofIFRWeather/MountainObscuration● AIRMETTango-Turbulence/Winds/Low-LevelWindShear● AIRMETZulu-IcingandFreezingLevels
+■ SIGMET-Unscheduled,Valid4Hours,IssuedunderAlphabeticID,Non-Convective■ ConvectiveSIGMETs-Unscheduled,Valid2hours,SequentiallyNumbered,DangerousConv.■ Significant Weather ProgCharts-12/24houror36/48hour. ShowslargeforecastedareasofIFR,turbulence,etc.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)8
+● In-Flight Weather Sources○ ATCWeather AvoidanceAssistance-ATCcanoffervectorsaroundweather,orrelaycertainweatherinformation,suchas:■ AIRMET/SIGMETs■ Center Weather Advisories-OftenbroadcastoverATCCenterfrequencies■ ATCRadar Limitations-ATCRadarisnotdesignedforweathersurveillance,andislimitedinitscapability. It cannot beusedfor tactical weather avoidance.● ATCRadarcangenerallyonlyindicateareasofLight,Moderate,Heavy,orExtremeprecipitation.○ FSS-CommunicatedirectlyorbyVORs○ ATIS/AWOS-Recordedweatherobservations,eitherhuman(ATC/ATIS)created,orautomaticallygenerated(AWOS). Winddirectionsaregivenrelativetomagneticnorth.○ DatalinkWeather-ADS-B(FIS-B)dataorXMWX(Satellite)datacanprovidedisplaysinthecockpitofMETARs,TAFs,orevenNEXRADmosaicimagery.■ Limitations-Majorlimitationisthatit canbedelayedbyseveral minutes,andthiscancreatedangerousconditionsinrapidlychangingweatherconditions. (e.g.Thunderstorms)■ Flight DeckDisplaysof Weather-ManyaircraftnowhaveanopportunityforpilotstoconnecttheirEFBstodisplayweatherdataontheirpersonaldevice. Also,manycommonavionicspackageswilldisplayNEXRADweather,METARs,andotherdata.
+AGarminG3XTouchdisplayingNEXRADdatain-flight.
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:binns_task_c_-_weather_information.pdf>>>
+========================================
+
+PPL(I-C) / CAX(I-C) / CFI (III-C)9
+● AviationConceptsandWeather Hazards-Atafundamentallevel,weatheriscreatedbytheunequaldistributionofheatonEarth’ssurface. Belowaresomeimportantconceptsandhazardspilotsshouldbeawareof:○ Atmospheric(In)Stability-Aircolumnsthatcoolrapidlywithincreasingaltitudearecalledunstable,becauseairparcelsthataredisplacedverticallybecomepositivelybuoyant. Forthisreason,unstableairisassociatedwithverticalairmovement(convection)andisverylikelytoproduceturbulenceorthunderstorms.○ Frontal Systems-Oftenproducedangerouswindshearandturbulence.○ WindShear-Largechangeinwinddirectionoverasmallrangeofaltitudes. Canbeextremelydangerousandcreateturbulence.○ Thunderstorms/Microbursts-Extremelydangerous, strongupdraftsanddowndraftscreateextremeturbulenceandcandamage/crashaircraft!○ Turbulence-Cancausediscomfortforpilotsandpassengersorevendamageaircraft,makingthemdifficulttocontrol.○ Precipitation-Whenaircoolstoitsdewpoint,andcondensationnucleiarepresent,moisturefallsoutoftheairasprecipitation. AllformsofprecipitationarehazardstoVFRpilots,astheyimpedevisibility.○ LowCloudCeilings-AreasofIFRweatheraredangeroustoVFR-onlypilotssincetheymaybeunabletodescend.○ LowVisibility(Mist, Smoke, Haze, Ash, Fog)-VFRpilotsshouldavoidflyingwhenFogandMistarepossible(temperatureanddewpointspreadissmall). SmokeandAshcanbedangeroustoairplanes!○ Frost/Icing-FrostandIcingdegradestheaerodynamicpropertiesofawingandcausesthemtostallatanunpredictableangleofattack. Frost isespeciallyinsidiousasit seemsminorbut cancausedisastrousresults!○ HighTemperature/DensityAltitude-Highdensityaltitudereducesairplaneperformance.● Scenario-BasedTraining-DiscussAviationWeatherHazardsforaScenario. Instructorsshouldprovidereal-worldscenario-basedtrainingonweatherdecisions,emphasizinggo/no-godecisionmakingskills.○ Useof Real-timeWeather Reports, Forecast, andCharts-Thebestscenariosinvolverealweatherreportsandarealcross-countryplan.○ FactorsinmakingGo/No-GoDecisions-Pilotsmustconsidertheirownskillandproficiency(VFRonly,orIFRcapable),plusthepresenceofaviationweatherhazards.○ Personal Weather Minimums-Everypilotshoulddeveloppersonalweatherminimumstailoredtotheirownskilllevel,suchas:■ “Iwillnotflywithawindspeedgreaterthan20knots.”■ “Iwillnotflywhenthecrosswindcomponentisgreaterthan10knots.”■ “Iwillnotflywithin20milesofthunderstormactivity.”■ “Iwillnotdepartwithadensityaltitudeofover5,000ft.”■ “Iwillnotflywhenthecloudceilingsarelowerthan3,000ft.”
+Preparedby:RyanBinns(ryancbinns.com/flying),March2020(UpdatedApril2024)Editableversionsavailableatbinnsflightservices.com/cfibinder
