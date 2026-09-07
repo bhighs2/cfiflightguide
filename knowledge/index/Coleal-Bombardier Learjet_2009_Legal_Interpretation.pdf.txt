@@ -1,0 +1,143 @@
+DOCUMENT_TITLE: Coleal-Bombardier Learjet_2009_Legal_Interpretation
+SOURCE_FILE: Coleal-Bombardier Learjet_2009_Legal_Interpretation.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Coleal-Bombardier Learjet_2009_Legal_Interpretation.pdf>>>
+========================================
+
+U.S. Deportmen t 
+of Transportation 
+Federal Aviation 
+Administration 
+::ER 2 6 2009 
+B
+1
+om'bardier Learjet 
+David M. Coleal 
+Office of the Chief Counsel 
+Vice President and General Manager 
+P.O. Box 7707 
+Wichita, Kansas 67277-7707 
+800 Independ ence Ave., SW. 
+Washington , DC 20591 
+Re: Request for Interpretation of Applicable Rules in 14 C.F.R. partS 43, 
+91, and 135 Pertaining to Whether a Pilot of a Transport Category 
+Aircraft May Check Tire Pressure During a Normal Preflight Inspection 
+. Dear Mr. Coleal: 
+By letter dated January 8, 2009, you requested a legal interpretation that would answer 
+the question whether a pilot could legally check tire pressure on a transport category 
+aircraft that was being operated under 14 C.F.R. parts 91 or 135. You noted that this 
+issue had been discussed at three meetings between representatives of Bombardier 
+Learjet and officials from various offices of the FAA, including the Flight Standards 
+Service (AFS). Your request was supplemented by a letter dated January 30, 2009, from 
+David M. Hernandez, attorney for Bombardier Learjet. Mr. Hernandez's letter provided 
+additional information and legal analysis. For the reasons discussed below, it is our 
+opinion that checking tire pressure on the transport category Learjet Model 60, the 
+aircraft addressed in the correspondence, is preventive maintenance. 
+While your question was framed in the context of transport category aircraft, your 
+inquiry, including as supplemented by Mr. Hernandez, is specific to the Learjet Model 60 
+aircraft. You referenced an FAA Continued Operational Safety (COS) initiative in 
+which, in November 2008, the FAA 's Wichita ACO (Aircraft Certification Office) 
+requested an AFM (Airplane Flight Manual) limitation for the Learjet Model 60 that 
+would require daily tire pressure checks . The issue, as you alluded to in your letter, is 
+whether checking tire pressure on the Learjet Model 60 is considered to be a maintenance 
+or preventive maintenance function, versus a simple preflight inspection task. Your 
+correspondence correctly observed that, under 14 C.F.R. § 43.3(g), for aircraft not 
+operated under part 121, 129, or 135 (e.g., part 91 ), a pilot may perform preventive 
+maintenance on an aircraft operated by that pilot.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:Coleal-Bombardier Learjet_2009_Legal_Interpretation.pdf>>>
+========================================
+
+As you know, tinder the Federal Aviation Regulations, maintenance is defined to mean: 
+"inspection, overhaul, repair, preservation, and the replacement of parts, but excludes 
+preventive maintenance." 14 C.F.R. §I.I. And, preventive maintenance is defined to 
+mean "simp le or minor preservat ion operations and the replacement of small standard 
+parts not involving complex assembly operations." Id. Preventive maintenance, in 
+general, includes tasks that are less complex than those deemed to be maintenance , and 
+requires less sophistication in terms of the knowledge, skill, and tools required. 
+Many preventive maintenance tasks are listed in 14 C.F.R. part 43, appendix A, 
+paragraph (c). The paragraph sets forth in 32 numbered subparagraphs items the FAA 
+has determined to be preventive maintenance. Even though the introductory text of 
+subparagraph ( c) states that "[p ]reventive maintenance is limited to the following work 
+2 
+.... "(emphasis added), in view of the broader definition of preventive maintenance in 
+section 1. 1, we believe that such limitation 'is not controlling. Similarly, for the same 
+reason, we also believe that the following sentence in Advisory Circular 4 3-l 2A, 
+Preventive Maintenance (which was referenced in Mr. Hernandez's letter), is overly 
+restrictive. That sentence, found in Paragraph 3 (b )( 1 ), states: "If a task or maintenance 
+function does not appear in the list, it is not preventive maintenance ." As with the other 
+paragraphs of Appendix A (i.e., on major repairs and major alterations), the lists are 
+better viewed as examples of the tasks in each category-they cannot be considered all­
+inclusive. There are, no doubt, many "simple or minor preservation operations (tasks]" 
+and many "replacement[s] of small standard parts not involving complex assembly 
+operations" performed daily, especially on small general aviation aircraft, that the agency 
+would consider to be preventive maintenance, though they are not included in the 32 
+listed items. It is our understanding that Flight Standards' Aircraft Maintenance 
+Division is planning to clarify this issue in a future revision to the AC. 
+Mr. Hernandez's letter observes that the first item listed as preventive maintenance in 
+Appendix A, paragraph ( c ), is "Removal, installation, and repair of landing gear tires," 
+and notes that checking tire pressure is not listed as a preventive maintenance item. The 
+implications appear to be two-fold: First, because checking tire pressure is not listed, it 
+must not be preventive maintenance. Second, because checking tire pressure is but a 
+simplistic and small subset of the tasks necessary in removing, installing, and repairing 
+landing gear tires, it does not rise to the level of even preventive maintenance, and should 
+therefore be considered an appropriate pre-flight inspection task. We do not agree. 
+Paragraph 3(b )(1) of AC 43-12A also cautions that "because of differences in aircraft, a 
+function may be preventive maintenance on one aircraft and not on another." The above 
+reference to changing and repairing landing gear tires illustrates this maxim. The FAA 
+may agree that the pilot of a small general aviation airplane may change and repair its 
+landing gear tire, but the agency would not consider the changing and repair of a landing 
+gear tire on a large transport category airplane to be preventive maintenance that a pilot 
+could permissibly do.
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:Coleal-Bombardier Learjet_2009_Legal_Interpretation.pdf>>>
+========================================
+
+3 
+Your letter stated that Bombardier Learjet's engineering and pilot specialists believe 
+ample precedent exists for "qualified pilots to safely perform tasks that require 
+mechanical, physical interaction with the airframe under the umbrella of preflight 
+checks." You followed with a long list of examples of pre-flight actions performed daily 
+by professional pilots, including many actions that require use of a calibrated device. 
+Our response to your request takes no position on the propriety of any of the cited 
+examples as pre-flight tasks. 
+We have discussed this issue with officials in the FAA 's Flight Standards Service 
+Aircraft Maintenance Division (AFS-300) and concur with their determination that 
+checking tire pressure on a Learjet Model 60 aircraft is preventive maintenance and not a 
+simple pre-flight inspection task. We believe their determination is a reasonable one 
+based on the relevant facts and circumstances. These include the high tire air pressure 
+(up to 219 psig), the need for a proper and calibrated gauge, and the possibility of an 
+incorrect reading if the check is not performed properly . Accordingly, a pilot operating 
+that aircraft under the operating rules of l 4 C.F.R. part 91 may, in accordance with the 
+provisions of 14 C.F.R. § 43.3(g), perform daily landing gear tire pressure checks. 
+Under the same regulation, however, a pilot of that aircraft operating under 14 C.F.R. 
+part 135 may not perform that task. 
+As you know, under 14 C.F.R. part 11, an affected party may seek relief from an FAA 
+regulation by filing a petition for an exemption. This is an avenue open to persons 
+operating the Learjet Model 60 airplane under Part 135 who would be adversely affected 
+by the requirement that only a certificated mechanic may check the tire pressure. Each 
+operator seeking such relief should specify in its petition the relief sought and the reasons 
+for the relief. In addition, each petition must state the reasons why a grant of relief 
+would be in the public interest and why granting the exemption would not adversely 
+affect safety, or how the exemption would provide a level of safety at least equal to that 
+provided by the rule from which exemption is sought. As to whether the FAA would 
+entertain a request to grant a "blanket exemption" applicable to all operators upon their 
+completion of"pre-determined criteria," we note that it is not the FAA's policy to do so. 
+This response was prepared by Edmund A verrnan, an Attorney in the Regulations 
+Division of the Office of the Chief Counsel and coordinated with the Aircraft 
+Maintenance Division of the Office of Flight Standards. If you have additional questions 
+regarding this matter, please contact us at your convenience at (202) 267-3073. 
+Sincerely, 
+R;b~i:~ 
+Assistant Chief Counsel for Regulations, AGC-200 
+Cc: David M, Hernandez , Esquire

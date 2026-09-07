@@ -1,0 +1,284 @@
+DOCUMENT_TITLE: metar_decode_key
+SOURCE_FILE: metar_decode_key.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:metar_decode_key.pdf>>>
+========================================
+
+METAR/TAF LIST OF ABBREVIATIONS AND ACRONYMS
+$ maintenance check indicator - light intensity
++ heavy intensity / indicator that visual range data follows; separator between
+temperature and dew point data.
+ACC altocumulus castellanus ACFT
+MSHP aircraft mishap
+ACSL altocumulus standing lenticular cloud AO1 automated station without precipitation discr iminator
+AO2 automated station with precipitation discriminator ALP airport location point
+APCH approach APRNT apparent
+APRX approximately ATCT airport traffic control tower
+AUTO fully automated report B began
+BC patches BKN broken
+BL blowing BR mist
+C center (with reference to runway designation) CA cloud-air lightning
+CB cumulonimbus cloud CBMAM cumulonimbus mammatus cloud
+CC cloud-cloud lightning CCSL cirrocumulus standing lenticular cloud
+cd candela CG cloud-ground lightning
+CHI cloud-height indicator CHINO sky condition at secondary location not available
+CIG ceiling CLR clear
+CONS continuous COR correction to a previously disseminated observation
+DOC Department of Commerce DOD Department of Defense
+DOT Department of Transportation DR low drifting
+DS duststorm DSIPTG dissipating
+DSNT distant DU widespread dust
+DVR dispatch visual range
+DZ drizzle E east, ended, estimated ceiling (SAO)
+FAA Federal Aviation Administration FC funnel cloud
+FEW few clouds FG fog
+FIBI filed but impracticable to transmit FIRST first observation after a break in coverage at manual station
+FMH-1 Federal Meteorological Handbook No.1, Surface Weather
+Observations & Reports (METAR) FMH2 Federal Meteorological Handbook No.2, Surface Synoptic Codes
+METAR ABBREVIATIONS http://www.alaska.faa.gov/fai/afss/metar%20taf/metcont.htm
+1 of 3 12/24/2008 7:48 AM
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:metar_decode_key.pdf>>>
+========================================
+
+FRQ frequent FROPA frontal passage
+FT feet FU smoke
+FZ freezing FZRANO freezing rain sensor not available
+G gust GR hail
+GS small hail and/or snow pellets HLSTO HLSTO hailstone
+HZ haze IC ice crystals, in-cloud lightning
+ICAO International Civil Aviation Organization INCRG increasing
+INTMT intermittent KT KNOTS
+L left (with reference to runway designation) LAST last observation before a break in coverage at a manual station
+LST Local Standard Time LTG lightning
+LWR lower M minus, less than
+max maximum METAR routine weather report provided at fixed intervals
+MI shallow min minimum
+MOV moved/moving/movement MT mountains
+N north N/A not applicable
+NCDC National Climatic Data Center NE northeast
+NOS National Ocean Survey NOSPECI no SPECI reports are taken at the station
+NOTAM Notice to Airmen NW northwest
+NWS National Weather Service OCNL occasional
+OFCM Office of the Federal Coordinator for Meteorology OHD overhead
+OVC overcast OVR over
+P indicates greater than the highest reportable value PCPN precipitation
+PL ice pellets PK WND peak wind
+PNO precipitation amount not available PO dust/sand whirls (dust devils)
+PRES pressure PR partial
+PRESFR pressure falling rapidly PRESRR pressure rising rapidly
+PWINO precipitation identifier sensor not available PY spray
+R right (with reference to runway designation), runway RA rain
+RTD Routine Delayed (late) observation RV reportable value
+RVR Runway Visual Range RVRNO RVR system values not available
+RY runway S snow, south
+SA sand SCSL stratocumulus standing lenticular cloud
+METAR ABBREVIATIONS http://www.alaska.faa.gov/fai/afss/metar%20taf/metcont.htm
+2 of 3 12/24/2008 7:48 AM
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:metar_decode_key.pdf>>>
+========================================
+
+SCT scattered SE southeast
+SFC surface SG snow grains
+SH shower(s) SKC sky clear
+SLP sea-level pressure SLPNO sea-level pressure not available
+SM statute miles SN snow
+SNINCR snow increasing rapidly SP snow pellets
+SPECI an unscheduled report taken when certain criteria have been met SQ squalls
+SS sandstorm STN station
+SW snow shower, southwest TCU towering cumulus
+TS thunderstorm TSNO thunderstorm information not available
+TWR tower UNKN unknown
+UP unknown precipitation UTC Coordinated Universal Time
+V variable VA volcanic ash
+VC in the vicinity VIS visibility
+VISNO visibility at sec ondary location not available VR visual range
+VRB variable VV vertical visibility
+W west WG/SO Working Group for Surface Observations
+WMO World Meteorological Organization WND wind
+WSHFT wind shift Z zulu, i.e., Coordinated Universal Time
+Return To METAR
+ Introduction and menu
+Return to Fairbanks AFSS Home Page
+METAR ABBREVIATIONS http://www.alaska.faa.gov/fai/afss/metar%20taf/metcont.htm
+3 of 3 12/24/2008 7:48 AM
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:metar_decode_key.pdf>>>
+========================================
+
+
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:metar_decode_key.pdf>>>
+========================================
+
+KEY TO DECODE AN ASOS (METAR) OBSERVATION  
+ 
+METAR KABC 121755Z AUTO 21016G24KT 180V240 1SM R11/P6000FT -RA BR BKN015 OVC025 06/04 A2990 
+RMK AO2 PK WND 20032/25 WSHFT 1715 VIS 3/4V1 1/2 VIS 3/4 RWY11 RAB07 CIG 013V017 CIG 017 RWY11 PRESFR 
+SLP125 P0003 60009 T00640036 10066 21012 58033 TSNO $ 
+  
+TYPE OF REPORT 
+ 
+METAR: hourly (scheduled) report; SPECI: special (unscheduled) report. 
+ METAR  
+STATION IDENTIFIER 
+ 
+Four alphabetic characters; ICAO location identifier. 
+ KABC  
+DATE/TIME 
+ 
+All dates and times in UTC using a 24-hour clock; two-digit date and four-digit time; 
+always appended with Z to indicate UTC. 
+ 121755Z  
+REPORT MODIFIER 
+ 
+Fully automated report, no human intervention; removed when observer signed-on. 
+ AUTO  
+WIND DIRECTION AND SPEED 
+ 
+Direction in tens of degrees from true north (first three digits); next two digits: speed in 
+whole knots; as needed Gusts (character) followed by maximum observed speed; always 
+appended with KT to indicate knots; 00000KT for calm; if direction varies by 60° or more 
+a Variable wind direction group is reported. 
+ 21016G24KT 
+180V240  
+VISIBILITY 
+ 
+Prevailing visibility in statute miles and fractions (space between whole miles and 
+fractions); always appended with SM to indicate statute miles; values <1/4 reported as 
+M1/4. 
+ 1SM  
+RUNWAY VISUAL RANGE 
+ 
+10-minute RVR value in hundreds of feet; reported if prevailing visibility is ≤ one mile or 
+RVR ≤ 6000 feet; always appended with FT to indicate feet; value prefixed with M or P to 
+indicate value is lower or higher than the reportable RVR value .  
+ R11/P6000FT  
+WEATHER PHENOMENA 
+ 
+RA: liquid precipitation that does not freeze; SN: frozen precipitation other than hail; UP: 
+precipitation of unknown type; intensity prefixed to precipitation: light (-), moderate (no 
+sign), heavy (+); FG: fog; FZFG: freezing fog (temperature below 0°C); BR: mist; HZ: 
+haze; SQ: squall; maximum of three groups reported; augmented by observer: FC (funnel 
+cloud/tornado/waterspout);  TS (thunderstorm); GR (hail); GS (small hail; <1/4 inch); 
+FZRA (intensity; freezing rain); VA (volcanic ash).  -RA BR 
+ 
+SKY CONDITION 
+ 
+Cloud amount and height: CLR (no clouds detected below 12000 feet); FEW (few); SCT 
+(scattered); BKN (broken); OVC (overcast); followed by 3-digit height in hundreds of 
+feet; or vertical visibility (VV) followed by height for indefinite ceiling.    BKN015 OVC025  
+TEMPERATURE/DEW POINT 
+ 
+Each is reported in whole degrees Celsius using two digits; values are separated by a 
+solidus; sub-zero values are prefixed with an M (minus).  06/04    
+ALTIMETER 
+ 
+Altimeter always prefixed with an A indicating inches of mercury; reported using four 
+digits: tens, units, tenths, and hundredths.  A2990 
+ 
+ REMARKS ON REVERSE SIDE
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:metar_decode_key.pdf>>>
+========================================
+
+REMARKS IDENTIFIER: RMK 
+ RMK 
+ 
+TORNADIC ACTIVITY: Augmented; report should include TORNADO, FUNNEL CLOUD, or WATERSPOUT, time begin/end, location, movement; 
+e.g., TORNADO B25 N MOV E. 
+  
+ 
+TYPE OF AUTOMATED STATION: AO2; automated station with precipitation discriminator. 
+ AO2 
+ 
+PEAK WIND: PK WND dddff(f)/(hh)mm; direction in tens of degrees, speed in whole knots, and time. 
+ PK WND 20032/25 
+ 
+WIND SHIFT: WSHFT (hh)mm 
+ WSHFT 1715 
+ 
+TOWER OR SURFACE VISIBILITY: TWR VIS vvvvv: visibility reported by tower personnel, e.g., TWR VIS 2; SFC VIS vvvvv: visibility reported 
+by ASOS, e.g., SFC VIS 2. 
+ 
+ 
+ 
+VARIABLE PREVAILING VISIBILITY: VIS vnvnvnvnvnVvxvxvxvxvx; reported if prevailing visibility is < 3 miles and variable. 
+ VIS 3/4V1 1/2 
+ 
+VISIBILITY AT SECOND LOCATION: VIS vvvvv [LOC]; reported if different than the reported prevailing visibility in body of report. 
+ VIS 3/4 RWY11 
+ 
+LIGHTNING: [FREQ] LTG [LOC]; when detected the frequency and location is reported, e.g., FRQ LTG NE. 
+  
+ 
+BEGINNING AND ENDING OF PRECIPITATION AND THUNDERSTORMS: w'w'B(hh)mmE(hh)mm; TSB(hh)mmE(hh)mm 
+ RAB07 
+ 
+VIRGA: Augmented; precipitation not reaching the ground, e.g., VIRGA. 
+  
+ 
+VARIABLE CEILING HEIGHT: CIG hnhnhnVhxhxhx; reported if ceiling in body of report is < 3000 feet and variable. 
+ CIG 013V017 
+ 
+CEILING HEIGHT AT SECOND LOCATION: CIG hhh [LOC]; Ceiling height reported if secondary ceilometer site is different than the ceiling height 
+in the body of the report.  CIG 017 RWY11  
+PRESSURE RISING OR FALLING RAPIDLY: PRESRR or PRESFR; pressure rising or falling rapidly at time of observation. 
+ PRESFR 
+ 
+SEA-LEVEL PRESSURE: SLPppp; tens, units, and tenths of SLP in hPa. 
+ SLP125 
+ 
+HOURLY PRECIPITATION AMOUNT: Prrrr; in .01 inches since last METAR; a trace is P0000. 
+ P0003 
+ 
+3- AND 6-HOUR PRECIPITATION AMOUNT: 6RRRR; precipitation amount in .01 inches for past 6 hours reported in 00, 06, 12, and 18 UTC 
+observations and for past 3 hours in 03, 09, 15, and 21 UTC observations; a trace is 60000.   60009  
+24-HOUR PRECIPITATION AMOUNT: 7R24R24R24R24; precipitation amount in .01 inches for past 24 hours reported in 12 UTC observation, 
+e.g., 70015. 
+ 
+ 
+ 
+HOURLY TEMPERATURE AND DEW POINT: TsnTaTaTasnT'aT'aT'a; tenth of  degree Celsius; sn: 1 if temperature below 0°C and 0 if temperature 0°C 
+or  higher.   T00640036  
+6-HOUR MAXIMUM TEMPERATURE: 1snTxTxTx; tenth of degree Celsius; 00, 06, 12, 18 UTC; sn: 1 if temperature below 0°C and 0 if temperature 
+0°C or higher.   10066  
+6-HOUR MINIMUM TEMPERATURE: 2snTnTnTn; tenth of degree Celsius; 00, 06, 12, 18 UTC; sn: 1 if temperature below 0°C and 0 if temperature 
+0°C or higher.   21012  
+24-HOUR MAXIMUM AND MINIMUM TEMPERATURE : 4snTxTxTxsnTnTnTn; tenth of degree Celsius; reported at midnight local standard 
+time; 1 if temperature below 0°C and 0 if temperature 0°C or higher, e.g., 400461006.  
+ 
+ 
+ 
+PRESSURE TENDENCY: 5appp; the character (a) and change in pressure (ppp; tenths of hPa) the past 3 hours. 
+ 58033 
+ 
+SENSOR STATUS INDICATORS: RVRNO: RVR missing; PWINO: precipitation identifier information not available; PNO: precipitation amount not 
+available; FZRANO: freezing rain information not available; TSNO: thunderstorm information not available; VISNO [LOC]: visibility at secondary 
+location not available, e.g., VISNO RWY06; CHINO [LOC]: (cloud-height-indicator) sky condition at secondary location not available, e.g., CHINO 
+RWY06.  TSNO  
+MAINTENANCE CHECK INDICATOR: Maintenance needed on the system. 
+ $ 
+ If an element or phenomena does not occur, is missing, or cannot be observed, the corresponding group and space are omitted (body and/or remarks) from that particular report, except for Sea-Level Pressure (SLPppp).  SLPNO shall be reported in a METAR when the SLP is not available.  
+ 
+U.S. DEPARTMENT OF COMMERCE - NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION - National Weather Service - Observing Systems Branch, 1325 East-West Highway, Silver Spring, Maryland 20910 METAR\TA2\2-8-96
