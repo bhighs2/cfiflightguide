@@ -1,0 +1,117 @@
+DOCUMENT_TITLE: acs_brochure
+SOURCE_FILE: acs_brochure.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:acs_brochure.pdf>>>
+========================================
+
+ACS Benefits 
+The ACS:  
+ Provides clear information 
+on what an applicant must 
+know, consider, and do to 
+qualify for a given airman 
+certificate or rating. 
+ Allows the FAA to ensure 
+that test questions are 
+aligned to the standards and 
+supported by H-series 
+handbooks and other 
+guidance. 
+ Increases standardization. 
+ Enhances safety by ensuring 
+that standards, guidance 
+and testing for airman 
+certification all work 
+together effectively. 
+For More Information 
+ACS Focus Team (9-AVS-ACS-Focus-Team@faa.gov) 
+ 
+Airman Testing (www.faa.gov/training_testing/testing/acs)  
+ 
+Introducing the ACS: 
+ 
+ 
+Airman  
+Certification  
+Standards 
+Federal Aviation  
+Administration 
+Photo by Chris Morris 
+Rev. 170601
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:acs_brochure.pdf>>>
+========================================
+
+An Integrated Approach 
+The Airman Certification Standards 
+(ACS) provides a single-source set of 
+standards for both the knowledge 
+test and the practical test. It also 
+enables the FAA to keep standards 
+aligned with H-series handbooks and 
+knowledge test questions.   
+Built on the Practical Test Standards 
+(PTS), the ACS adds the aeronautical 
+knowledge and risk management 
+elements needed to support each 
+PTS Task. It does not change or 
+lengthen the practical test.  
+The ACS provides a clear, easy-to-use 
+“flight plan” for the material the FAA 
+expects an applicant to know 
+(knowledge), consider (risk 
+management), and do (skill) to qualify 
+for an airman certificate or rating.  
+The ACS replaced the PTS  for Private 
+Pilot Airplane (PAR) and Instrument 
+Rating Airplane (IRA)  June 15, 2016, 
+and for Commercial Pilot Airplane 
+(CAX) on June 12, 2017. 
+ACS Coding 
+The ACS  assigns a unique code to each  
+knowledge, skill, and risk management 
+element. These codes are anchored in the 
+ACS, unlike today’s reference-based  Learning 
+Statement Codes.   
+ 
+ACS codes will provide better  feedback to 
+applicants, instructors, and evaluators.  The 
+ACS codes also enable the FAA to keep  
+standards clearly aligned with H-series 
+handbooks and test questions, and to develop 
+timely and relevant  test questions.  
+Example from Commercial Pilot Airplane ACS 
+CA.I.F.K2f 
+ 
+CA = Commercial Pilot Airplane (applicable ACS) 
+I = Preflight Preparation (Area of Operation) 
+F = Performance & Limitations (Task) 
+K2f = Weight & Balance (Task element) 
+Photo by Chris Morris 
+Background 
+Since September 2011, the FAA has been working 
+with aviation community stakeholders to help 
+improve standards, guidance, and test development 
+practices for airman certification.   
+ 
+Under the auspices of an Aviation Rulemaking 
+Committee (ARC) and  the industry’s Aviation 
+Rulemaking Advisory Committee (ARAC), three 
+industry working groups have developed and refined 
+the ACS framework. These groups have also made 
+recommendations to improve the FAA’s H-series 
+handbooks and bring knowledge test development 
+procedures  in line with accepted best practices. 
+ 
+ACS documents for the ATP, Instructor, and AMT 
+certificates are in development. The FAA and  aviation 
+community members of the ACS Working Group  will 
+jointly establish priorities for expanding the ACS 
+framework to other airman certificates and ratings.

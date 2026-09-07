@@ -1,0 +1,538 @@
+DOCUMENT_TITLE: acs_briefing
+SOURCE_FILE: acs_briefing.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+1
+• Welcome! Last June, the FAA replaced the Practical Test Standards for 
+the Private Pilot Airplane certificate and the Instrument-Airplane rating 
+with the corresponding Airman Certification Standards, or ACS. 
+• Revised versions of the ACS for the Private Pilot Airplane certificate and 
+the Instrument Airplane rating, along with the first version of the ACS for 
+the Commercial Pilot Airplane certificate, are in effect as of June 12, 
+2017.
+• This presentation offers a recap of the ACS for those who haven’t used 
+it yet, and then it introduces and explains some of the key changes.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+2
+• Here are the topics we’ll cover.
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Here’s a quick review.
+• The ACS is an enhanced version of the PTS. The PTS-to-ACS transition 
+started on June 15, 2016. 
+• The ACS adds task-specific knowledge and risk management elements 
+to each PTS Area of Operation/Task. The result is an integrated 
+presentation of specific knowledge, risk management, and skill elements 
+for each Task.
+• In summary, then, the ACS provides a single-source set of standards for 
+both the knowledge exam and the practical test.
+3
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• The integrated format of the ACS has a number of benefits. 
+• It clearly tells applicants, instructors, and evaluators what an 
+airman must KNOW, CONSIDER, and DO to pass the 
+knowledge test and the practical test for an airman certificate or 
+rating.
+• It shows how the required knowledge, risk management, and 
+skill elements for each Area of Operation/Task are connected.
+• It defines expectations and behaviors for risk management and 
+connects them to specific Tasks.
+• It puts the “special emphasis” items from the PTS in the right 
+context. 
+• The ACS approach enhances safety by making tests meaningful and 
+relevant to actual operations and contributes to standardization in 
+teaching and testing these concepts. 
+4
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• One of the strongest tools that the industry team developed for the 
+Airman Certification Standards framework is a coding system. 
+• The ACS assigns a unique code to each element of knowledge, risk 
+management and skill.
+• Let’s take a look at what PA.I.D.K4 means:
+• PA = Private Pilot Airplane (defines applicable ACS)
+• I = Preflight Preparation (defines Area of Operation)
+• D = Cross-Country Flight Planning (defines Task)
+• K4 = Elements of a VFR Flight Plan (defines element)
+5
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• As we mentioned already, the ACS is the single-source set of standards 
+for both the knowledge exam and the practical test. 
+• The ACS coding system provides the “thread” that links standards to 
+guidance and test questions, and keeps them aligned in the future.
+• Later on, ACS codes will replace the Learning Statement Codes now 
+shown on the Airman Knowledge Test Report.
+• Already, though, the industry team has used the ACS coding to help 
+ensure that handbooks are aligned with the standards as defined with 
+the ACS. The FAA is incorporating industry recommendations for a 
+number of these documents. 
+• Also, the FAA has already used the ACS coding system to revise and 
+align all private pilot airplane, commercial pilot airplane, and instrument-
+airplane rating knowledge test questions to the knowledge, skill, and risk 
+management elements in the corresponding ACS.
+.
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Just to review why we made this change:
+• ACS development started in 2011 as a way to fix knowledge testing, 
+which was criticized for being out of step with today’s operating 
+environment. 
+• The FAA asked for help from the aviation training industry experts 
+whose names you will see later in this presentation. 
+• They recommended a systematic approach to the overall airman 
+certification system to achieve the goals you see here:
+• Provide clear standards for aeronautical knowledge
+• Make sure that knowledge reflects things airmen really need to 
+know to operate safely. 
+• List specific, observable behaviors for risk management and 
+aeronautical decision-making. 
+• Consolidate overlapping Tasks in the PTS.
+• Tie “special emphasis” items to knowledge and skill.
+• Connect the standards for knowledge, risk management, and 
+skill to FAA handbooks, to knowledge test questions, and to the 
+practical test. 
+7
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Industry participation is a very important point that we want to 
+emphasize on this slide. 
+• The ACS reflects a great deal of input from industry experts, and from 
+the public. 
+• The FAA has now used three groups of industry experts to develop, 
+refine, and prototype the ACS. 
+• On behalf of industry working groups, the FAA twice established public 
+dockets to receive public feedback on early ACS drafts. 
+• The working groups used those comments to refine the ACS, and also 
+to develop a set of Frequently Asked Questions for the FAA website’s 
+Airman Testing page.
+• With help from FAA and industry teams in Orlando and Seattle, we also 
+conducted prototype testing of the Private Pilot Airplane and Instrument 
+Airplane rating ACS before we introduced them in June 2016.
+8
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Now let’s talk about what’s new.  
+• This release includes the first version of ACS for Commercial Pilot –
+Airplane, which replaces the corresponding PTS.
+• It also includes the first updates to the ACS for the Private Pilot Airplane 
+certificate and the Instrument-Airplane Rating. These updated versions:
+• Incorporate corrections and changes suggested by 
+stakeholders
+• Streamline the presentation by consolidating certain task 
+elements
+• Standardize the phrasing and sequence of certain task 
+elements
+• There are also modifications to Slow Flight and Stalls Area of Operation 
+in Private and Commercial Airplane ACS, which we will explain shortly. 
+• The effective date for all three documents is June 12, 2017. 
+9
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Now let’s talk about slow flight and stalls. 
+• When we introduced the Private Pilot Airplane ACS in June 2016, the 
+FAA revised the slow flight evaluation standard to reflect maneuvering 
+without a stall warning.  
+• In SAFO 16010, the FAA explained this change as one approach to 
+addressing loss of control accidents in general aviation. 
+• SAFO 16010 also emphasized that a pilot is still expected to “know and 
+understand the aerodynamics behind how the airplane performs from 
+the time the stall warning is activated to reaching a full stall.” 
+• SAFO 17009, which replaces SAFO 16010, expands on this discussion.
+10
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Before we look at the specific changes, let’s look at the big picture. 
+• This slide summarizes the FAA’s approach to the overall Slow Flight and 
+Stalls Area of Operation.
+• It provides a conceptual framework for understanding how these 
+elements relate to each other, and to real-world flight operations. 
+• In the continuum of reducing aircraft speed and energy state of the 
+aircraft, slow flight is part of normal flight operations, and includes the 
+speeds a pilot might use in the approach and landing sequence.
+• Flight between the stall warning and the actual stall moves into 
+abnormal flight operations. Part of stall prevention training is to respond 
+to the warning and return to normal flight. The ACS does not test 
+maneuvering flight in this area.
+• An unintentional stall constitutes emergency flight operations. Full stall 
+and recovery training includes slowing/loading to the break in the stall 
+through the full recovery. The testing standard for stall recovery is 
+appropriately separate from the slow flight standard. 
+11
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+12
+• Now for the details. 
+• In response to community concerns, the FAA reviewed the entire Slow 
+Flight and Stalls Area of Operation. 
+• In consultation with the community, the FAA revised some of the slow 
+flight and stall task evaluation standards in the private pilot-airplane and 
+commercial pilot-airplane ACS. 
+• With the primary focus on understanding aerodynamics 
+associated with flying slow in different phases of flight, there is 
+now only one knowledge element for slow flight. 
+• The FAA refined and consolidated the risk management 
+elements. 
+• The FAA modified the phrasing of the skill element to say that 
+the applicant should: Establish and maintain an airspeed at 
+which any further increase in angle of attack, increase in load 
+factor, or reduction in power, would result in a stall warning 
+(e.g., aircraft buffet, stall horn, etc.).
+• This modification is consistent with the guidance published in Advisory 
+Circular 120-111, Upset Prevention and Recovery Training, and the 
+revised Airplane Flying Handbook (AFH), FAA-H-8083-3.
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Here’s a look at changes to the Power-Off Stall Task in the Private Pilot 
+Airplane ACS.
+• This Task encompass the period of time from the stall warning to the 
+stall. 
+• As with the slow flight Task, the FAA has made changes to the Stall 
+Task knowledge, risk management, and skill elements. 
+• To evaluate a pilot’s ability to recognize the airplane cues for an 
+impending stall and a full stall, the FAA has added a requirement for the 
+applicant to acknowledge the initial indication of an impending stall. The 
+applicant could meet this requirement by simply stating “stall warning” or 
+“buffet.” 
+13
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• In the Commercial Pilot Airplane ACS, the FAA maintained the 
+requirement for stall recovery procedures to be executed at the first 
+indication of an impending stall (e.g., buffet, stall horn, etc.).
+• However, we modified the skill element to require the applicant to 
+acknowledge the impending stall cues.
+14
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Let’s also take a look at the treatment of the Accelerated Stalls Task in 
+the Commercial Pilot – Airplane ACS.
+• Accident history shows that accelerated stalls occur, and pilots fail to 
+recover from them. 
+• The FAA added this task to the Commercial Pilot – Airplane PTS in 
+2012 and required it to be performed in single-engine and multiengine 
+airplanes. 
+• In response to safety concerns about performing accelerated stalls in 
+multiengine airplanes on the practical test, the FAA reviewed the 
+learning objectives, accelerated stall aerodynamics in multiengine 
+airplanes, 14 CFR part 23 airplane certification standards, and insight 
+from FAA flight test engineers.
+• We determined that the maneuver can be performed safely in a 
+multiengine airplane, so the FAA retained this task in the Commercial 
+Pilot – Airplane ACS. 
+• The slide shows how the FAA expects the applicant to perform the 
+Accelerated Stall Task on the practical test.
+15
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Now let’s review tips for using the ACS. 
+• As you may have seen with the original ACS documents, the ACS 
+improves the presentation of important information. 
+• Often-overlooked introductory material in the PTS has been 
+relocated to specifically focused appendices.
+• Roles, responsibilities, and expectations are clearly defined.
+• Lengthy notes in individual PTS Tasks have been integrated into 
+the appropriate appendix.
+• In the June 2017 versions, the FAA and industry partners have worked 
+to better align appendix material across the ACS documents.
+16
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Next we will review using the ACS.
+• Just like the PTS, the ACS is divided into Areas of Operations, Tasks, 
+and Elements.
+• The FAA has updated the IACRA tables to match the ACS.
+17
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• In the ACS, a Task within an Area of Operation applies to all classes in 
+the category unless the Task title includes a limitation. 
+• As the example shows, a seaplane applicant would not be tested on 
+Task D. Taxiing. Instead, this applicant would be tested on Task E, 
+Taxiing and Sailing.
+• Otherwise, an evaluator must include each Task in the Plan of Action. It 
+is acceptable to combine Tasks when it makes sense to do so, as long 
+as each required element is evaluated.
+18
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Just to recap, the evaluator’s written Plan of Action must include: 
+• At least one Knowledge Element
+• At least one Risk Management Element
+• All Skill  Elements from required Tasks
+• All subjects missed on the knowledge test
+• The evaluator may use Task Elements from missed knowledge test 
+subjects to meet the minimum requirement for one Knowledge and one 
+Risk management element.
+• As with the PTS, evaluators have the discretion to select additional 
+elements if the knowledge test report or the applicant’s response to 
+questions indicates weakness in a given Task.
+19
+
+
+========================================
+<<<PDF_PAGE:20>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• As this illustration shows, some ACS Tasks include sub-elements, which 
+are coded with a lower-case alphabet letter.
+• If the Task includes sub-elements, the evaluator may select an 
+appropriate sub-element (e.g., weight & balance) to satisfy the 
+requirement for at least one knowledge element.
+20
+
+
+========================================
+<<<PDF_PAGE:21>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• The Plan of Action should combine Tasks and Task Elements to create 
+an efficient, scenario-based test.
+• The ACS should not make either the oral portion or the flight portion of the 
+practical test any longer than it was with the PTS.
+21
+
+
+========================================
+<<<PDF_PAGE:22>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• As mentioned on an earlier slide, one of the strongest tools that the 
+industry team developed for the Airman Certification Standards 
+framework is a coding system. 
+• The ACS assigns a unique code to each element of knowledge, risk 
+management and skill.
+22
+
+
+========================================
+<<<PDF_PAGE:23>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• The FAA is already using the ACS codes to ensure that the standards 
+for knowledge, risk management, and skill are aligned with guidance 
+material and test questions. 
+• That means that all active knowledge test questions for the private pilot 
+airplane, the commercial pilot airplane, and the instrument-airplane 
+rating exams have been aligned with the corresponding ACS.
+• The FAA’s current knowledge test management system does not have 
+the capability to print ACS codes. For now, you will continue to see 
+Learning Statement Codes on the Airman Knowledge Test Report.
+• As we will explain on the next slide, though, you can still use the ACS 
+codes to make retraining and retesting of missed knowledge test items 
+more efficient.
+23
+
+
+========================================
+<<<PDF_PAGE:24>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• As you probably know, there are a lot of Learning Statement Codes. 
+Because they are linked to references, they are difficult to manage and 
+apply in a consistent way. 
+• By contrast, each ACS code is tied to a unique Task Element in the 
+standard itself.
+• Because of this difference, there is no one-to-one correlation between 
+the Learning Statement Codes and the ACS codes. 
+• As you heard on a previous slide, though, all active knowledge test 
+questions for the private pilot airplane, the commercial pilot airplane, 
+and the instrument-airplane rating knowledge tests have been aligned 
+with the corresponding ACS. 
+• As the example on this slide shows, that means that applicants, 
+instructors, and evaluators can look up the Learning Statement Codes 
+listed on the Airman Knowledge Test Report, and use the subject area 
+to do two things:
+• Narrow the scope of material for retraining and retesting
+• Retrain and evaluate that material in the context of the 
+appropriate Areas of Operation and Tasks.
+24
+
+
+========================================
+<<<PDF_PAGE:25>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• So what’s next?
+• The FAA and its industry partners on the ACS Working Group are still 
+developing Airman Certification Standards for the Airline Transport Pilot 
+(airplane) and the Instructor (airplane) certificates.
+• In 2016, we also started work on an ACS for the Aircraft Mechanic 
+Certificate with Airframe and/or Powerplant ratings.
+• As this work progresses, we will be in a position to use the foundational 
+ACS documents as the template for expansion to other certificates and 
+ratings. 
+25
+
+
+========================================
+<<<PDF_PAGE:26>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+Specifically, we expect to begin work in 2018 on the ACS for:
+Rotorcraft
+Powered-Lift
+26
+
+
+========================================
+<<<PDF_PAGE:27>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Also in the “what’s next” department is how the FAA is using the ACS 
+approach to ensure that changes are systematically incorporated not just 
+in test questions, but also in the standards, handbooks and other 
+guidance material, and in public data on the FAA website. 
+• For example, the FAA is using the systematic ACS approach to ensure 
+that future test questions on things like BasicMed and graphical weather 
+forecasts are appropriately supported by standards, guidance, and public 
+data.
+
+
+========================================
+<<<PDF_PAGE:28>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Before we wrap up, it is very important to recognize and thank all those 
+who have worked so hard on the ACS framework.
+• This slide lists the individuals and organizations in the aviation 
+community who have contributed to the development of the ACS since 
+this project started in 2011. 
+• Please join us in thanking these dedicated members of the community 
+for their enormous contributions. 
+28
+
+
+========================================
+<<<PDF_PAGE:29>>>
+<<<SOURCE_FILE:acs_briefing.pdf>>>
+========================================
+
+• Let’s close with a look at some of the resources the ACS team has 
+created to support use of these documents.
+• The FAA website’s Airman Testing web page is the go-to source. It 
+includes:
+• The ACS for Private Pilot Airplane (PAR) certificate, the 
+Commercial Pilot Airplane (CAX) certificate, and Instrument-
+Airplane Rating (IRA)
+• ACS Frequently Asked Questions
+• An ACS Brochure
+• An ACS PowerPoint presentation with notes
+• Sample private, commercial, and instrument knowledge tests
+• A What’s New in Airman Testing document that includes a list of 
+subjects deleted from airman knowledge tests.
+• The FAA established the ACS Focus Team as the one-stop-shop for 
+answering any questions not addressed on the Airman Testing web page. 
+Please contact the ACS Focus Team directly if you need help. There is no 
+need, and no requirement, to go through anyone else! Just send an email 
+to the ACS Focus Team address and you will get a response from us. 
+• We hope you enjoy using the Airman Certification Standards, and we 
+welcome your feedback and suggestions for continued improvement.
+29

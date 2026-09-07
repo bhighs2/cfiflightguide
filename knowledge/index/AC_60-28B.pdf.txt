@@ -1,0 +1,483 @@
+DOCUMENT_TITLE: AC_60-28B
+SOURCE_FILE: AC_60-28B.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+U.S. Department 
+of Transportation 
+Federal Aviation 
+Administration 
+Advisory 
+Circular 
+Subject: FAA English Language Standard 
+for an FAA Certificate Issued Under 
+14 CFR Parts 61, 63, 65, and 107 
+Date: 6/2/17 AC No: 60-28B 
+Initiated by: AFS-800 Change:  
+1 PURPOSE OF THIS AC. This advisory circular (AC) introduces the Federal Aviation 
+Administration (FAA) Aviation English Language Standard (AELS) and provides 
+guidance to applicants, airmen, training organizations, Designated Examiners (DE), and 
+flight and ground instructors on how to determine that an applicant for an FAA certificate 
+or a person holding an FAA certificate meets the FAA AELS. AELS will be evaluated 
+before acceptance of a student pilot application or issuance of a student solo 
+endorsement, recommendation or examination of an applicant for an FAA pilot certificate 
+or additional aircraft rating, and whenever any individual is tested or checked as required 
+by the Administrator under Title 14 of the Code of Federal Regulations (14 CFR). 
+The following AELS eligibility standard definition clarifies the regulatory English 
+language eligibility requirement for FAA certificates issued per 14 CFR parts 61, 63, 65, 
+and 107. 
+1.1 The FAA AELS. The holder of an FAA certificate or applicant for an FAA certificate or 
+rating should be able to communicate in English in a discernible and understandable 
+manner with air traffic control (ATC), pilots, and others involved in preparing an aircraft 
+for flight and operating an aircraft in flight. This communication may or may not involve 
+the use of the radio. An applicant for an FAA certificate issued per part 61, 63, 65, or 107 
+who cannot hear or speak due to a medical deficiency may be eligible for an FAA 
+certificate with specific operational limitations. 
+2 WHAT THIS AC CANCELS. This AC cancels AC 60-28A, English Language Skill 
+Standards Required by 14 CFR Parts 61, 63, and 65, dated December 11, 2013. 
+3 BACKGROUND. In general, Federal aviation regulations state that, to be eligible for an 
+FAA certificate or additional aircraft rating, an applicant must be able to read, speak, 
+write, and understand the English language. This AC supports the regulatory English 
+language eligibility requirements stated in part 61 for pilots and flight and ground 
+instructors; in part 63 for Flight Engineers (FE) and flight navigators; in part 65 for ATC 
+tower operators, aircraft dispatchers, aircraft mechanics, aircraft repairmen, and 
+parachute riggers; and in part 107 for certification of an Unmanned Aircraft System 
+(UAS) Remote Pilot Certificate with a small UAS (sUAS) rating. This AC clarifies the 
+FAA English language standard and provides the procedures to evaluate whether an 
+applicant or certificated individual possesses the regulatory FAA English language 
+eligibility requirements for an FAA certificate, and that all endorsements, authorizations, 
+or records of training and checking entered into an applicant’s or certificated airman’s 
+logbook or training record will be entered in English. Therefore, each 14 CFR part that
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+pertains to certification contains applicable requirements to read, write, speak, and 
+understand the English language. Furthermore, the FAA, as a supporting member of the 
+International Civil Aviation Organization (ICAO), has agreed that, to be consistent with 
+currently established ICAO guidance, the ICAO Operational Level 4 standards for 
+English language proficiency would be applied to all FAA-certificated 
+airmen/individuals. When an eligibility requirement contains this language, the 
+FAA AELS should be applied to no less than the ICAO Operational Level 4. 
+4 DEFINITIONS. 
+4.1 International Civil Aviation Organization (ICAO) English Language Criteria 
+Definitions. These definitions are from the ICAO Language Proficiency Rating Scale at 
+the Operational Level 4. The Proficiency Scale appears in ICAO Doc 9835, Manual on 
+the Implementation of ICAO Language Proficiency Requirements, and the attachment in 
+ICAO Annex 1, Personnel Licensing. The FAA AELS is based on this standard. 
+Note: The FAA AELS is minimum Level 4. Individuals can search on the Internet 
+for aviation English language courses that meet ICAO Annex 1 English language 
+standards. 
+1. Pronunciation. This assumes that English is not the applicant’s native 
+language and that the applicant has a dialect or accent that is intelligible to the 
+aeronautical community. Pronunciation, stress, rhythm, and intonation are 
+influenced by the applicant’s native language, but only sometimes interfere 
+with ease of understanding. 
+2. Structure. Relevant grammatical structures and sentence patterns are 
+determined by language functions appropriate to the task. Basic grammatical 
+structures and sentence patterns are used creatively and are usually 
+well-controlled by the applicant. Errors may occur, particularly in unusual or 
+unexpected circumstances, but rarely interfere with meaning. 
+3. Vocabulary. The applicant’s vocabulary range and accuracy are usually 
+sufficient to communicate effectively on common, concrete, and work-related 
+topics. The applicant can often paraphrase successfully when lacking 
+vocabulary in unusual or unexpected circumstances. 
+4. Fluency. The applicant produces stretches of language at an appropriate 
+tempo. There may be occasional loss of fluency on transition from rehearsed 
+or formulaic speech to spontaneous interaction, but this does not prevent 
+effective communication. The applicant can make limited use of discourse 
+markers or connectors. Fillers are not distracting. 
+5. Comprehension. Comprehension by the applicant is mostly accurate on 
+common, concrete, and work-related topics when the dialect, accent, or 
+variety used is sufficiently intelligible. When the applicant is confronted with 
+a linguistic or situational complication or an unexpected turn of events, 
+comprehension may be slower or require clarification strategies. 
+2
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+6. Interactions. Responses by the applicant are usually immediate, appropriate, 
+and informative. The applicant initiates and maintains exchanges even when 
+dealing with an unexpected turn of events. The applicant deals adequately 
+with apparent misunderstandings by checking, confirming, or clarifying. 
+4.2 AC 60-28 Definition of Terms. 
+1. ICAO Language Proficiency Operational Level 4. The FAA AELS minimum 
+acceptable level to be considered English proficient and/or receive an 
+“English Proficient” certificate endorsement. 
+2. FAA AELS Evaluator. For the purpose of this AC, an evaluator is any 
+individual who is authorized to conduct certification, training, testing, 
+or checking, or to issue an endorsement required by the regulations. 
+5 RESPONSIBILITIES. 
+5.1 Persons and Organizations Responsible for Continuously Monitoring AELS. 
+FAA personnel, DEs, flight and ground instructors, Training Center Evaluators (TCE), 
+check FEs/check pilots, training facilities, and flight schools are responsible for ensuring 
+that those attending/receiving training continuously demonstrate the eligibility 
+requirements for an FAA certificate specific to the FAA AELS. 
+5.2 Hearing and Speech Impairment. An applicant for an FAA certificate issued per 
+part 61, 63, 65, or 107 who cannot hear or speak due to a medical deficiency may be 
+eligible for an FAA certificate with specific operational limitations. 
+5.3 Overview of the Eligibility Requirements for a Certificate Issued in Accordance 
+with Various Parts of 14 CFR. 
+5.3.1 Part 61 Requirements: Certification of Pilots, Flight Instructors, and Ground Instructors. 
+Eligibility requirements contained in part 61 require pilots, flight instructors, and ground 
+instructors to be able to read, write, speak, and understand the English language. 
+5.3.2 Part 63 Requirements: Certification of Flightcrew Members Other Than Pilots. 
+5.3.2.1 FEs. Eligibility requirements contained in § 63.31 require an applicant for a 
+Flight Engineer Certificate to be able to read, speak, and understand the 
+English language, or have an appropriate limitation placed on the certificate. 
+5.3.2.2 Flight Navigators. Eligibility requirements contained in § 63.51 require 
+an applicant for a Flight Navigator Certificate to be able to read, write, speak, 
+and understand the English language. 
+5.3.3 Part 65 Requirements: Certification of Airmen Other Than Flightcrew Members. 
+5.3.3.1 ATC Tower Operators. Eligibility requirements contained in part 65, 
+§ 65.33(c) require an applicant for an Air Traffic Control Tower Operator 
+Certificate to be able to read, write, and understand the English language 
+3
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+and speak it without accent or impediment of speech that would interfere with 
+two-way radio conversation. 
+5.3.3.2 Aircraft Dispatchers. Eligibility requirements contained in § 65.53(b)(2) 
+require an applicant for an Aircraft Dispatcher Certificate to have the ability 
+to read, speak, write, and understand the English language. Any applicant who 
+fails to demonstrate this ability will not be issued an Aircraft Dispatcher 
+Certificate. 
+5.3.3.3 Mechanics and Repairmen. Eligibility requirements contained in 
+§§ 65.71(a)(2) and 65.101(a)(6) require an applicant for a Mechanic or a 
+Repairman Certificate and associated ratings to be able to read, write, speak, 
+and understand the English language. An applicant who does not meet this 
+requirement and who is employed outside of the United States by a 
+U.S. air carrier will have his or her certificate endorsed, “Valid only outside 
+the United States.” 
+5.3.3.4 Light-Sport Aircraft (LSA) Repairmen. Eligibility requirements contained 
+in § 65.107(a) require an applicant for a Repairman Certificate (LSA) to be 
+able to read, speak, write, and understand English. If, for medical reasons, an 
+applicant cannot meet these requirements, the FAA may place limitations on 
+the Repairman Certificate necessary to safely perform the actions authorized 
+by the certificate and rating. 
+5.3.3.5 Parachute Rigger. Eligibility requirements in § 65.113(a)(2) require an 
+applicant for a Parachute Rigger Certificate to be able to read, write, speak, 
+and understand the English language. Where citizens of Puerto Rico or 
+persons employed by a U.S. air carrier outside of the United States are 
+concerned, applicants who do not meet this requirement will be issued a 
+certificate that is valid only in Puerto Rico or only while the person is 
+employed outside of the United States by that air carrier, as the case may be. 
+5.3.4 Part 107 Requirements: Certification of sUAS Remote Pilots. Eligibility requirements in 
+part 107, § 107.61 require an applicant for a Remote Pilot Certificate with an sUAS 
+rating to read, speak, write, and understand the English language. If, for medical reasons, 
+an applicant cannot meet these requirements, the FAA may place limitations on the 
+Remote Pilot Certificate necessary to safely perform the actions authorized by the 
+certificate and rating. 
+6 PROCESS TO ENSURE APPLICANTS FOR AN FAA CERTIFICATE AND 
+HOLDERS OF AN FAA CERTIFICATE DEMONSTRATE THE FAA AELS. 
+During the student pilot application process, a practical test, flight review, instrument 
+proficiency check (IPC), or pilot-in-command (PIC) proficiency check, the individual 
+conducting testing, training, a review, or any required regulatory check should evaluate 
+4
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+if the applicant for an FAA certificate or holder of an FAA certificate demonstrates the 
+FAA AELS. (See Appendix A, FAA English Language Standard Evaluation.) 
+6.1 Part 107. Any applicant for a UAS Remote Pilot Certificate with an sUAS rating who 
+does not already hold an FAA pilot certificate will certify they meet the English language 
+eligibility requirements of part 107 by successfully completing the Airman Knowledge 
+Test. However, if after obtaining the Remote Pilot Certificate with an sUAS rating the 
+individual has any interaction with an FAA AELS evaluator and the evaluator, during the 
+interaction, finds it difficult to understand the individual in English, the evaluator will 
+notify the Flight Standards District Office (FSDO) of jurisdiction of the interaction and 
+concern and, if possible, provide the individual’s name, contact information, or any 
+additional information that could assist the FAA to locate the individual. 
+6.2 Planning an FAA AELS Evaluation. AELS evaluators should develop multiple plans 
+of action to conduct an AELS evaluation. This will ensure that their evaluation does not 
+become predictable. Also, AELS evaluators must access the following ICAO language 
+proficiency website that provides audio of the various ICAO English language levels in 
+order to familiarize themselves with the ICAO English Language Proficiency (ELP) 
+operational levels so they can best accomplish the FAA AELS evaluation: 
+http://cfapp.icao.int/rssta/RSSTA.cfm. 
+6.3 Objectives of the AELS Evaluation. 
+1. Determine that the individual meets the FAA AELS. 
+2. During the evaluation, consider whether the person’s communication is 
+impaired by any of the applicable ICAO items listed in paragraph 4
+. 
+6.4 Airman Certificate, Certification, and Training Under the Regulations’ Required 
+Reviews and Checks. An “English Proficient” endorsement on the Private Pilot, 
+Commercial Pilot, Airline Transport Pilot (ATP) (with powered aircraft ratings), Flight 
+Engineer, and Flight Navigator Certificate indicates the airman was evaluated to have the 
+equivalent of a minimum ICAO Operational Level 4 English language proficiency. 
+All applicants for a certificate will be evaluated for the AELS by an evaluator during the 
+respective event. During training for a certificate, rating, privilege, or authorization, 
+or for any regulatory event, the FAA evaluator should continuously monitor whether the 
+applicant or airman demonstrates the FAA AELS. 
+6.5 Failure of an Applicant or FAA-Certificated Individual to Meet the FAA AELS. 
+Notwithstanding the other certificate eligibility requirements, unless otherwise authorized 
+by the Administrator, no person may exercise the privileges of an FAA certificate issued 
+under part 61, 63, 65, or 107 unless that person meets the AELS as determined by the 
+FAA AELS evaluation. If a person holding an Airman Certificate issued under 
+regulations does not meet the FAA AELS, the evaluator will comply with the 
+recordkeeping procedures in Appendix A. This individual may be subject 
+to reexamination under Title 49 of the United States Code (49 U.S.C.) § 44709. 
+5
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+6.6 FAA Validating AELS. If the evaluator determines that the applicant/airman does not 
+meet the FAA AELS, the evaluator will refer the applicant/airman to the local FSDO to 
+validate the individual’s FAA AELS. (See Appendix A.) 
+7 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA’s website at 
+http://www.faa.gov/regulations_policies/advisory_circulars. 
+8 CONTACT. For additional information, please contact the FAA Flight Standards 
+Service (AFS) General Aviation and Commercial Division (AFS-800) at 202-267-1100. 
+9 AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page 
+of this AC. Note any deficiencies found, clarifications needed, or suggested 
+improvements regarding the contents of this AC on the Feedback Form. 
+ 
+ 
+J
+ohn S. Duncan 
+Director, Flight Standards Service
+6
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+  Appendix A 
+AP
+PENDIX A.  FAA ENGLISH LANGUAGE STANDARD EVALUATION 
+A.
+1 Federal Aviation Administration (FAA) Aviation English Language Standard 
+(AELS). An individual who holds an FAA certificate or an applicant for an FAA 
+certificate or rating, per the eligibility requirement of the respective certificate, should 
+continuously demonstrate the ability to read, write, speak, and understand the English 
+language. The standard is to ensure: 
+The holder of an FAA certificate or applicant for an FAA certificate 
+or rating must be able to communicate in English with air traffic control 
+(ATC), pilots, and others involved in preparing an aircraft for flight and 
+operating an aircraft in flight. This communication may or may not 
+involve the use of the radio. 
+A.2 Compliance with FAA AELS for 14 CFR Parts 61, 63, 65, and 107
+. These parts have 
+specific AELS requirements governing competency in the English language as an 
+eligibility requirement for all certificates identified. 
+A.2.1 Overview. 
+A.2.1.1 It is of major importance that FAA personnel, training facilities, and 
+individuals authorized to conduct evaluations, training, testing, checking, 
+or certification activities all share the responsibility to ensure that all 
+applicants for an FAA certificate or individuals who hold FAA certificates 
+continually demonstrate that they meet the FAA AELS. Otherwise, 
+the individual may be subject to a reexamination in accordance with Title 49 
+of the United States Code (49 U.S.C.) § 44709
+. 
+A.2.1.2 Only an applicant who is unable to meet one of these requirements due to 
+medical deficiency (e.g., hearing impaired) may be permitted to be issued 
+an FAA certificate under part(s) 61, 63, 65, or 107. 
+A.2.1.3 A limitation is given only if the inability to meet the requirements is due to a 
+medical condition/disability. It does not apply to applicants unable to meet the 
+requirements due to lack of fluency, inadequate articulation, and/or lack of 
+comprehension of the English language, or accent to the degree that speech is 
+not clearly understood. Those applicants may not be issued an FAA certificate 
+unless specifically stated under the applicable regulations. 
+A.2.1.4 FAA AELS evaluation process: For the purpose of this guidance, an evaluator 
+is any individual who is authorized to conduct certification, training, testing, 
+checking, or to issue an endorsement required by the regulations. Although 
+the Airman Certification Standard contains an English Language Proficiency 
+(ELP) standard for pilots, this advisory circular (AC) provides an AELS that 
+can be used as a guideline for certificates issued under parts 61, 63, 65, 
+and 107. 
+A-1
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+  Appendix A 
+A.2.2 Evaluation Resources (current editions). Suggested resources include, but are not 
+limited to: 
+1. International Civil Aviation Organization (ICAO) English Language Criteria 
+definitions. 
+2. FAA Order JO 7110.65, Air Traffic Control, which prescribes ATC 
+procedures and phraseology. 
+3. FAA-G-8082-9, Flight Engineer Knowledge Test Guide. 
+4. FAA-H-8083-25, Pilot’s Handbook of Aeronautical Knowledge. 
+5. FAA-H-8083-27, Student Pilot Guide. 
+6. FAA-S-8081-10, Aircraft Dispatcher Practical Test Standards. 
+7. FAA Airman Knowledge Test Guides and Handbooks and Manuals 
+available at: 
+• http://www.faa.gov/training_testing/testing/test_guides/. 
+• http://www.faa.gov/regulations_policies/handbooks_manuals/. 
+A.2.3 Evaluation Assessment Process. Based upon the applicant’s aviation experience, training, 
+and/or FAA certificate held (or the certificate applied for), the evaluator may ask 
+questions specific to the certificate application. For example, have the applicant/airman 
+listen to the evaluator read an ATC clearance or instructions, an Airplane Flight Manual 
+(AFM)/pilot’s operating handbook (POH), or weather report, etc., then ask the applicant 
+to explain the material. If the applicant does not have aviation experience (e.g., an 
+applicant for a Student Pilot Certificate), then choose from the provided evaluation 
+resources and read the introduction sections of the document(s) to the applicant or 
+certificated airman. Then, in addition to listening to the individual’s ability to effectively 
+communicate in English (see subparagraph A.2.4 for complete details): 
+A.2.3.1 Request that the applicant or certificated airman read a portion of the text, 
+ask the applicant to explain what they heard, and request that they write down 
+in their words what they heard and read. 
+A.2.3.2 Per the above, the evaluator can determine if the applicant understands 
+in English what they heard and read and if they can effectively communicate 
+in English in a discernible and understandable manner. This will determine 
+whether or not the applicant can communicate with ATC, pilots, and others 
+involved in preparing an aircraft for flight and operating an aircraft in flight, 
+with or without radio; therefore, the applicant will or will not be deemed to 
+meet the FAA regulatory English language eligibility requirements to be 
+issued or hold an FAA certificate. 
+A.2.3.3 If the applicant or airman is determined by the evaluator not to meet the 
+FAA AELS, only the Flight Standards District Office (FSDO) with 
+jurisdiction and appropriately rated aviation safety inspectors (ASI) or the 
+FAA policy division may override the evaluator’s AELS decision. If the FAA 
+A-2
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+  Appendix A 
+office of jurisdiction determines that the applicant does meet FAA AELS, 
+the office will forward an approved Airman Certificate and/or Rating 
+Application to the Airmen Certification Branch (AFS-760), approving the 
+issuance of the certificate. 
+A.2.4 Processing the Results of an AELS Evaluation. 
+Note: The following example is typical for a student pilot certification. 
+The airman certification process may vary based on the certification being sought 
+or evaluated. 
+A.2.4.1 Student Pilot Application. If someone other than an ASI rejects the 
+application for a Student Pilot Certificate due to AELS, the evaluator will 
+refer the applicant to the FSDO of jurisdiction to validate the AELS rejection. 
+A.2.4.1.1 The evaluator will complete FAA Form 8710-1, Airman Certification and/or 
+Rating Application, in the Integrated Airman Certification and/or Rating 
+Application (IACRA). If using IACRA, the software will mark all appropriate 
+boxes per the answers to the questions and will submit the application to 
+AFS-760. If using the paper form of FAA Form 8710-1, mark the appropriate 
+boxes to indicate either “Accepted Student Pilot Application” or “Rejected 
+Student Pilot Application;” mark in the last section of the form that the 
+applicant either “Meets the FAA Aviation English Language Proficiency” 
+or is “Referred to FSDO for Aviation English Language Proficiency 
+determination;” and then forward the application to the FSDO of jurisdiction 
+for the English language assessment and processing to AFS-760. 
+Note: Only an ASI can mark the box “Does Not Meet FAA Aviation 
+English Language Proficiency.” 
+A.2.4.2 FAA-Certificated Individuals Evaluated Who Do Not Demonstrate the 
+FAA AELS. If an evaluator other than an ASI rejects an application for an 
+FAA certificate or rating, or determines during a 14 CFR required check that 
+the individual does not demonstrate the FAA AELS, the evaluator will refer 
+the applicant to the FAA FSDO of jurisdiction to validate the individual’s 
+FAA AELS and comply with the following procedure, as applicable. 
+1. In the case of a part 61 required flight test/review/check for 
+issuance of an FAA certificate/rating, or to continue to exercise the 
+privileges of the individual’s FAA certificate or rating, the 
+evaluator will not continue the test or endorse the individual’s 
+logbook regarding the review/check conducted. The evaluator will 
+notify the FSDO of jurisdiction and will refer the individual to that 
+FSDO. 
+2. In the case of a regulatory required check for any operating 
+regulation (e.g., 14 CFR parts 121 and 135), the evaluator will 
+A-3
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+6/2/17  AC 60-28B 
+  Appendix A 
+mark the appropriate application/form as not completed and 
+indicate on the application/form, “does not meet the FAA AELS.” 
+The evaluator will refer the individual to the FSDO/certificate 
+management office (CMO) of jurisdiction. 
+A.2.4.3 After an Individual is Referred to FAA for AELS Assessment. 
+1. If the FAA determines that the certificated airman does meet the 
+FAA AELS, the ASI will advise the CMO/evaluator that the 
+individual does meet the FAA AELS. The evaluator will then 
+complete the original flight test, review, or check. 
+2. If the FAA determines that the certificated individual does not 
+meet the FAA AELS, the ASI will advise the CMO, evaluator, 
+and airman that the individual does not meet the FAA AELS. The 
+ASI will refer to FAA Order 8900.1
+, Volume 5, Airman 
+Certification, for detailed guidance. 
+A.2.5 FAA AELS for Foreign Pilots. If an ASI during any surveillance or ramp inspection 
+becomes aware of a foreign pilot who appears to not meet the FAA AELS, the ASI will 
+comply with current guidance for further action. 
+A.2.6 FAA AELS in the National Airspace System (NAS). ASIs, ATC controllers, FAA 
+Designated Examiners (DE), certificated flight instructors (CFI), flight training facilities, 
+and flight schools during training or testing are encouraged to report observed aviation 
+English language barriers to their FAA office of jurisdiction. 
+A-4
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:AC_60-28B.pdf>>>
+========================================
+
+Advisory Circular Feedback Form
+If you find an error in this AC, have recommendations for improving it, or have suggestions 
+for new items/subjects to be added, you may let us know by contacting the General Aviation 
+and Commercial Division (AFS-800) at 9-AFS-800-Correspondence@faa.gov or the Flight 
+Standards Directives Management Officer at 9-AWA-AFS-140-Directives@faa.gov.
+Subject: AC 60-28B, FAA English Language Standard for an FAA Certificate Issued Under 14 CFR 
+Parts 61, 63, 65, and 107
+Date: _____________________ 
+Ple
+ase check all appropriate line items: 
+An error (procedural or typographical) has been noted in paragraph ____________ 
+on page _______. 
+Recommend paragraph _____________ on page __________ be changed as follows: 
+______________________________________________________________________ 
+______________________________________________________________________ 
+In a future change to this AC, please cover the following subject: 
+(Briefly describe what you want added.) 
+______________________________________________________________________
+ 
+______________________________________________________________________ 
+Other comments: 
+______________________________________________________________________ 
+______________________________________________________________________ 
+I would like to discuss the above. Please contact me. 
+Submitted by: Date: ______________________

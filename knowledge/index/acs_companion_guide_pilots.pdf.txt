@@ -1,0 +1,1037 @@
+DOCUMENT_TITLE: acs_companion_guide_pilots
+SOURCE_FILE: acs_companion_guide_pilots.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+Airman Certification Standards 
+Companion Guide for Pilots
+FAA-G-ACS-2
+(with Changes 1 & 2)
+Flight Standards Service
+Washington, DC 20591
+November 2023
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+i
+Foreword
+The Federal Aviation Administration (FAA) developed this Airman Certification Standards Companion Guide FAA-G-ACS-2, 
+for use with the Airman Certification Standards (ACS) for pilot certification. This guide, along with the regulatory material 
+in the ACS, may assist an applicant preparing for the knowledge and practical test(s) that lead to pilot certification. This 
+document is intended only to provide clarity to the public regarding existing requirements under the law or agency policies. 
+The contents of this document do not have the force and effect of law and are not meant to bind the public in any way.
+This guide and the ACS are available for download from www.faa.gov/training_testing/testing/acs.
+Comments regarding this document may be emailed to acsptsinquiries@faa.gov.
+Change 1 (September 19, 2024)
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+ii
+Revision History
+Document # Description Date
+FAA-G-ACS-2 Airman Certification Standards Companion Guide for Pilots November 2023
+FAA-G-ACS-2 Airman Certification Standards Companion Guide for Pilots (Change 1) September 2024
+FAA-G-ACS-2 Airman Certification Standards Companion Guide for Pilots (Changes 1 & 2) December 2024
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+iii
+Record of Changes
+Change 1 (September 19, 2024)
+• Updated the hyperlink in the Foreword to point directly to the ACS webpage on faa.gov (page i).
+• Removed the duplicated paragraph in the “ACS Archived Test Codes” subsection of Section 2 (page 5).
+• Added 14 CFR part 73, Special Use Airspace to the list of References in Section 5 (page 10).
+• Removed AC 00-30C, Clear Air Turbulence Avoidance from the list of References in Section 5 (page 10).
+• Removed SAFO 19001 from the list of References in Section 5 (page 13).
+Change 2 (December 26, 2024)
+• Removed errant code (CA.IV.B.S5) from “Commercial Pilot for Airplane Category ACS Archived Codes” subsection 
+of Section 8 (page 21).
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide (FAA-G-ACS-2)
+iv
+Why the FAA Created this Guide .......................................................................................................................................1
+The Non-Regulatory Material in this Guide .......................................................................................................................1
+Section 1: Knowledge Test Eligibility, Description, and Registration ....................................................................2
+Eligibility ............................................................................................................................................................................2
+Steps for Knowledge Test Registration ..............................................................................................................................2
+Testing Procedures for Applicants Requesting Special Accommodations .........................................................................2
+Acceptable Forms of Identification ....................................................................................................................................2
+Acceptable Forms of Applicant Address Verification .........................................................................................................3
+Airman Knowledge Test Description ..................................................................................................................................3
+Taking the Knowledge Test ................................................................................................................................................3
+Acceptable and Unacceptable Materials ...........................................................................................................................4
+Test Taking Tips .................................................................................................................................................................4
+Section 2: Airman Knowledge Test Report ...........................................................................................................5
+Applicant Name Considerations for the Airman Knowledge Test Report and the Practical Test .......................................5
+Retesting After Failure of AKTR ........................................................................................................................................5
+Knowledge Test Codes During Transition from PTS To ACS ............................................................................................5
+ACS Archived Test Codes .................................................................................................................................................5
+Obtaining a Duplicate AKTR ..............................................................................................................................................6
+Section 3: ACS Risk Management .......................................................................................................................7
+Task C.  Systems and Equipment Malfunctions ................................................................................................................8
+Section 4: Flight Instructor Applicant Considerations ...........................................................................................9
+Flight Instructor ACS Information ......................................................................................................................................9
+Section 5: References ........................................................................................................................................10
+Section 6: Abbreviations and Acronyms .............................................................................................................14
+Section 7: Practical Test Checklist (Applicant) ...................................................................................................19
+Section 8: Knowledge Test Reports and Archived ACS Codes ..........................................................................20
+Private Pilot for Airplane Category ACS Archived Codes ................................................................................................20
+Commercial Pilot for Airplane Category ACS Archived Codes ........................................................................................21
+Instrument Rating – Airplane ACS Archived Codes .........................................................................................................21
+Airline Transport Pilot and Type Rating ACS Archived Codes .........................................................................................21
+Table of Contents
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+1
+ 
+Why the FAA Created this Guide
+The Federal Aviation Administration (FAA) publishes the Airman Certification Standards (ACS) to communicate the 
+aeronautical knowledge, risk management, and flight proficiency standards for various certificates and ratings available 
+to airmen. The ACSs are incorporated by reference into 14 CFR part 61; therefore, the material contained in the ACS is 
+regulatory. This guide, FAA-G-ACS-2, provides additional information to the regulated community to facilitate airman testing. 
+The ACS complies with the safety management system (SMS) framework that the FAA uses to mitigate risks associated 
+with airman certification training and testing. Specifically, the ACS, incorporated by reference (IBR) into the Federal Aviation 
+Regulations, conforms to four functional components of an SMS:
+• Safety Policy—Each ACS specifies the Tasks selected by the FAA from the regulatory Areas of Operation. 
+Evaluators formulate a Plan of Action that determines if an applicant can operate safely within the NAS. The 
+ACS represents the FAA’s commitment to continually improve safety by including risk management elements in 
+addition to knowledge and skill elements;
+• Safety Risk Management that complies with the Administrative Procedures Act (APA) allows the FAA to work with 
+internal and external stakeholders during document formulation. The public at large and stakeholders have an 
+additional chance to provide input during public comment periods;
+• Safety Assurance processes ensure a methodical and reasoned incorporation of changes arising from safety 
+recommendations or new developments in aviation; and
+• Safety Promotion in the form of engagement and discussion between both external stakeholders (e.g., the 
+aviation training industry) and the FAA policy divisions going forward will determine the content of any ACS that 
+publishes in a Notice of Proposed Rulemaking.
+The FAA develops the ACS documents along with associated guidance and updated reference material in collaboration 
+with a diverse group of aviation training experts. The goal is to drive a systematic approach to all components of the 
+airman certification system, including knowledge test question development and conduct of the practical test. The FAA 
+acknowledges and appreciates the many hours that these aviation experts have contributed toward this goal. This level of 
+collaboration, a hallmark of a robust safety culture, strengthens and enhances aviation safety at every level of the airman 
+certification system.
+Note: This document does not apply to the Practical Test Standards.
+The Non-Regulatory Material in this Guide
+This guide provides test preparatory information for an applicant seeking a certificate or rating. This guide also provides a 
+list of references and abbreviations/acronyms used in any ACS and a practical test checklist for use by an applicant. The 
+material in this guide is non-regulatory and may contain terms such as should or may:
+• Should indicates actions that are recommended, but not regulatory.
+• May is used in a permissive sense to state authority or permission to do the act prescribed.
+This document is not legally binding and will not be relied upon by the FAA as a basis for affirmative enforcement action 
+or other administrative penalty. Conformity with the guidance is voluntary only and nonconformity will not affect rights and 
+obligations under existing statutes and regulations.
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+2
+Section 1: Knowledge Test Eligibility, Description, and Registration
+Section 1: Knowledge Test Eligibility, Description, and Registration
+Eligibility
+For detailed airman knowledge test eligibility and applicable prerequisites, applicants should refer to the 14 CFR part 61 
+rules that apply to a specific certificate or rating.
+Steps for Knowledge Test Registration
+Step 1. Obtain an FAA Tracking Number
+The FAA Airman Knowledge Test registration system requires the applicant to have an FAA Tracking Number (FTN).
+Applicants may obtain an FTN through the Integrated Airman Certification and Rating Application (IACRA) website.
+This video describes creating an IACRA account and obtaining an FTN. The specific instructions begin at the 14-minute 
+mark.
+Step 2. Create an Account with PSI
+After obtaining an FTN, applicants should create an account with the FAA’s contracted testing vendor, PSI, a professional 
+testing company which operates hundreds of test centers. Visit PSI’s website for information on authorized airman knowledge 
+test centers and how to register, schedule, and pay for an Airman Knowledge Test:
+Note: The IACRA and PSI systems share data that verifies the applicant’s FTN and name based on the information 
+input into IACRA by the applicant. The PSI system does not allow applicants to make changes to their name. 
+Applicants who need to make a correction to their name should process that correction in the IACRA system. The 
+applicant’s name correction will appear in the PSI system once the applicant logs back into the PSI system and 
+refreshes their account.
+Step 3. Select Test and Testing Center
+After obtaining an FTN and creating an account with PSI, applicants may schedule knowledge tests. The PSI system walks 
+the applicant through the process to select a test center in their area and select one or more specific knowledge tests.
+Step 4. Select an Available Time Slot
+After selecting the test center and test, the applicant may select a date and time slot.
+Step 5. Pay for Test
+After selecting an available time slot, the PSI system prompts the applicant to pay for the test. After completing this step, the 
+applicant receives an automated email confirmation from PSI.
+Applicants are required  to meet any applicable Airman Knowledge Test eligibility requirements before arriving at a test 
+center to take a specific knowledge test.
+Testing Procedures for Applicants Requesting Special Accommodations
+Applicants may request a special accommodation for their airman knowledge test through the PSI test registration and 
+scheduling process. The process allows the applicant to select the specific accommodation(s) needed in accordance with 
+the Americans with Disabilities Act (ADA). The PSI special accommodations team will work with the applicant and the 
+selected testing center to provide appropriate accommodation(s). The PSI special accommodations team may request 
+medical documentation for verification.
+Acceptable Forms of Identification
+14 CFR part 61, section 61.35, requires an applicant for a knowledge test to have proper identification at the time of 
+application. Before beginning an Airman Knowledge Test, test center personnel will ask to see the applicant’s state or
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+3
+Section 1: Knowledge Test Eligibility, Description, and Registration
+federal government-issued photo identification. The identification must contain the applicant’s photograph, signature, and 
+date of birth. If the applicant’s permanent mailing address is a PO Box number, the applicant must provide a current 
+residential address.
+Acceptable Forms of Applicant Address Verification
+The table below provides examples of acceptable identification.
+All Applicants U.S. Citizens & Resident Aliens Non-U.S. Citizens
+Identification information must be:
+ 9 valid
+ 9 current
+Identification must include all of 
+the following information:
+ 9 photo
+ 9 date of birth
+ 9 signature
+ 9 physical, residential 
+address 
+ 9 Identification card issued by 
+any U.S. state, territory, or 
+government entity (e.g., driver 
+permit or license, government 
+identification card, or military 
+identification card)
+or
+ 9 Passport
+or
+ 9 Alien residency card
+ 9 Passport
+and
+ 9 Driver permit or license issued 
+by a U.S. state or territory
+or
+ 9 Identification card issued  by 
+any government entity
+Airman Knowledge Test Description
+The airman knowledge test consists of multiple-choice questions. A single correct response exists for each test question. A 
+correct response to one question does not depend upon, or influence, the correct response to another.
+Taking the Knowledge Test
+Before starting the actual test, the test center provides an applicant with the opportunity to practice navigating the test 
+software. This practice or tutorial session may include sample questions to familiarize the applicant with the look and feel of 
+the software (e.g., selecting an answer, marking a question for later review, monitoring time remaining for the test, and other 
+features of the testing software). PSI also provides sample tests for registered users on their website.
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+4
+Section 1: Knowledge Test Eligibility, Description, and Registration
+Acceptable and Unacceptable Materials
+The applicant may use the following aids, reference materials, and test materials when taking the knowledge test  provided 
+the material does not include actual test questions or answers:
+Acceptable Materials Unacceptable Materials Notes
+Supplement book provided by the 
+proctor
+Written materials that are 
+handwritten, printed, or electronic
+Testing centers may provide 
+calculators and/or deny the use of 
+personal calculators.
+All models of aviation-oriented 
+calculators or small electronic 
+calculators that perform only 
+arithmetic functions
+Electronic calculators 
+incorporating permanent or 
+continuous type memory circuits 
+without erasure capability
+Proctor may prohibit the use of 
+an applicant’s calculator if the 
+proctor is unable to determine the 
+calculator’s erasure capability
+Calculators with simple 
+programmable memories, which 
+allow the addition to, subtraction 
+from, or retrieval of one number 
+from the memory, or simple 
+functions, such as square root and 
+percentages
+Magnetic Cards, magnetic tapes, 
+modules, computer chips, or any 
+other device upon which pre-
+written programs or information 
+related to the test can be stored 
+and retrieved
+Printouts of data should be 
+surrendered at the completion 
+of the test if the calculator 
+incorporates this design feature
+Scales, straightedges, protractors, 
+plotters, navigation computers, 
+blank log sheets, holding pattern 
+entry aids, and electronic or 
+mechanical calculators that are 
+directly related to the test
+Dictionaries
+Before, and upon completion of 
+the test, while in the presence 
+of the proctor, actuate the ON/
+OFF switch or RESET button, 
+and perform any other function 
+that ensures erasure of any data 
+stored in memory circuits
+Manufacturer’s permanently 
+inscribed instructions on the 
+front and back of such aids 
+(e.g., formulas, conversions, 
+regulations, signals, weather 
+data, holding pattern diagrams, 
+frequencies, weight and balance 
+formulas, and air traffic control 
+procedures)
+Any booklet or manual containing 
+instructions related to the use of 
+test aids
+Proctor makes the final 
+determination regarding aids, 
+reference materials, and test 
+materials
+Test Taking Tips
+When taking a knowledge test, applicants should:
+• Read the test instructions carefully;
+• Mark difficult questions for later review in order to use the available time efficiently;
+• Examine graphs and notes that pertain to the question;
+• Request and mark a printed copy of any graph while computing answers, if needed;
+• Understand that since only one answer is complete and correct, the other possible answers are either incomplete 
+or erroneous; 
+• Answer each question in accordance with the current regulations and guidance publications; and
+• Answer all the questions before time allotted for the test expires. 
+• Review 14 CFR part 61, section 61.37 regarding cheating or other unauthorized conduct.
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+5
+Section 2: Airman Knowledge Test Report
+Section 2: Airman Knowledge Test Report
+Upon completion of the knowledge test, the test center issues a printed Airman Knowledge Test Report (AKTR) to the 
+applicant, which documents the applicant’s test score and lists a code for any questions answered incorrectly. The applicant 
+should retain the original AKTR. During the oral portion of a practical test, the evaluator reviews the AKTR, and assesses 
+any noted areas of deficiency.
+Applicant Name Considerations for the Airman Knowledge Test Report and the Practical Test
+The FAA compares the applicant’s name on the AKTR with the name on the practical test application form when examining 
+certificate and rating applications and before issuing a permanent certificate to the applicant. If an incorrect middle initial, 
+spelling variant, or different middle name is on the AKTR or if there is a first name variation of any kind between the AKTR 
+and the formal application for a certificate or rating, the evaluator for the practical test should attach an explanation and a 
+copy of the applicant’s photo identification to the IACRA or paper application. An IACRA application cannot be processed 
+if the applicant’s last name or suffix (e.g., Jr., Sr.) on the AKTR does not match the name recorded on the application form. 
+In this case, the applicant should use a paper application, and the evaluator should include an explanation and copy of the 
+applicant’s photo identification to avoid a correction notice.
+Retesting After Failure of AKTR
+An applicant retesting after the failure of any Airman Knowledge Test may retest with appropriate authorization. The applicant 
+should bring the applicable AKTR indicating failure to the test center, along with an endorsement from an Authorized 
+Instructor who gave the applicant the required additional training in accordance with 14 CFR part 61, section 61.49. The 
+endorsement certifies that the applicant is competent to pass the knowledge test.
+Knowledge Test Codes During Transition from PTS To ACS
+When a PTS is the effective standard for a specific certificate or rating, the applicant receives an Airman Knowledge Test 
+Report with pilot (PLT) codes that correspond to any knowledge test question(s) the applicant answered incorrectly.  For 
+example: PLT044.
+For knowledge tests taken after an ACS becomes the effective standard for a specific certificate or rating, the test center 
+issues an AKTR with ACS codes that correspond to any knowledge test question(s) the applicant answered incorrectly. For 
+example: CA.I.A.K1
+During a period of transition after an ACS replaces a PTS, an applicant could possess a valid AKTR with PLT codes. 
+When this occurs, instructors and evaluators can continue to use PLT codes in conjunction with the appropriate ACS for 
+targeting training and retesting of missed knowledge subject areas by looking up the PLT code(s) in the Learning Statement 
+Reference Guide.
+After noting the subject area(s) for the PLT codes, instructors and evaluators should check or test the applicant’s understanding 
+of that material in the context of the appropriate ACS Area(s) of Operation and Task(s).
+Note: Test codes for the Fundamentals of Instructing knowledge test are the same for all instructor certificates and will 
+issue with ACS codes after the first instructor ACS becomes effective.
+ACS Archived Test Codes
+As a result of updates made to an ACS, an AKTR may contain one or more archived ACS codes. These codes are indicated 
+as archived within the ACS. For example:
+   PA.VIII.E.K1a  Archived.
+Use of archived codes in the ACS avoids code shifting that could create ambiguity when looking up ACS codes listed on 
+an AKTR. An unexpired AKTR may span ACS revisions and ACS codes may archive after an applicant takes a knowledge 
+test. Therefore, an applicant, instructor, or evaluator may need to interpret one or more archived ACS codes on an AKTR. 
+Individuals can refer to the ACS revision in effect on the date of the knowledge test or to Section 8 of this guide for archived 
+ACS codes and the associated element text. For example, the archived ACS code for Private Pilot Airplane element 
+PA.VIII.E.K1a is noted in Section 8 of this guide as: Sensitivity, limitations, and potential errors in unusual attitudes.
+Change 1 (September 19, 2024)
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+6
+Section 2: Airman Knowledge Test Report
+Obtaining a Duplicate AKTR
+If the applicant’s knowledge test was taken on or after January 13, 2020, the applicant can print a duplicate or expired test 
+report (AKTR) by visiting the PSI website.
+If the knowledge test was taken on or before January 10, 2020, the applicant should follow 14 CFR, section 61.29 for 
+replacement of a lost or destroyed AKTR.
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+7
+Section 3: ACS Risk Management
+Section 3: ACS Risk Management
+Risk management involves perception of hazards, the ability to process the probability and severity of outcomes associated 
+with any hazard, and performance of appropriate risk mitigation as needed to preserve the desired margin of safety.
+Previous editions of the ACS often used elements for evaluation of risk management as encompassing a failure to do 
+something. Many of these “failure to act” elements mimicked skill elements and limited an evaluator’s  opportunity to 
+thoroughly examine an applicant’s understanding of risk management.
+For example, see elements R1 and S2 from the Private Pilot — Airplane Airman Certification Standards (FAA-S-ACS-6B 
+with Change 1) in the excerpt below:
+Task C.  Systems and Equipment Malfunctions
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and 
+skills associated with system and equipment malfunctions appropriate to the airplane 
+provided for the practical test and analyzing the situation and take appropriate action 
+for simulated emergencies.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.C.K1 Partial or complete power loss related to the specific powerplant, including: 
+PA.IX.C.K1a a.  Engine roughness or overheat
+PA.IX.C.K1b b.  Carburetor or induction icing
+PA.IX.C.K1c c.  Loss of oil pressure
+PA.IX.C.K1d d.  Fuel starvation
+PA.IX.C.K2 System and equipment malfunctions specific to the airplane, including:
+PA.IX.C.K2a a.  Electrical malfunction
+PA.IX.C.K2b b.  Vacuum/pressure and associated flight instrument malfunctions
+PA.IX.C.K2c c.  Pitot/static system malfunction
+PA.IX.C.K2d d.  Electronic flight deck display malfunction
+PA.IX.C.K2e e.  Landing gear or flap malfunction
+PA.IX.C.K2f f.  Inoperative trim
+PA.IX.C.K3 Smoke/fire/engine compartment fire.
+PA.IX.C.K4 Any other system specific to the airplane (e.g., supplemental oxygen, deicing).
+PA.IX.C.K5 Inadvertent door or window opening.
+Risk 
+Management
+The applicant demonstrates the ability to identify, assess and mitigate risks, encom-
+passing:
+PA.IX.C.R1 Failure to use the proper checklist for a system or equipment malfunction.
+PA.IX.C.R2 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IX.C.S1 Describe appropriate action for simulated emergencies specified by the evaluator, 
+from at least three of the elements or sub-elements listed in K1 through K5 above.
+PA.IX.C.S2 Complete the appropriate checklist.
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+8
+Section 3: ACS Risk Management
+The FAA reworded risk elements that describe a Failure to… (or similar phrases) with language permitting an open-ended 
+examination of risk management by the evaluator. See element R2 in the excerpt below (image for illustration purposes 
+only):
+Task C.  Systems and Equipment Malfunctions
+eferences: R FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-25; POH/AFM
+bjective: O To determine the applicant exhibits satisfactory knowledge, risk management, and skills associated with 
+system and equipment malfunctions appropriate to the airplane provided for the practical test.
+Knowledge: The applicant demonstrates understanding of:
+PA.IX.C.K1 Causes of partial or complete power loss related to the specific type of powerplant(s).
+PA.IX.C.K1a a. [Archived]
+PA.IX.C.K1b b. [Archived]
+PA.IX.C.K1c c. [Archived]
+PA.IX.C.K1d d. [Archived]
+PA.IX.C.K2 System and equipment malfunctions specific to the aircraft, including:
+PA.IX.C.K2a a. Electrical malfunction
+PA.IX.C.K2b b. Vacuum/pressure and associated flight instrument malfunctions
+PA.IX.C.K2c c. Pitot-static system malfunction
+PA.IX.C.K2d d. Electronic flight deck display malfunction
+PA.IX.C.K2e e. Landing gear or flap malfunction
+PA.IX.C.K2f f. Inoperative trim
+PA.IX.C.K3 Causes and remedies for smoke or fire onboard the aircraft.
+PA.IX.C.K4 Any other system specific to the aircraft (e.g., supplemental oxygen, deicing).
+PA.IX.C.K5 Inadvertent door or window opening.
+Risk 
+Management: The applicant is able to identify, assess, and mitigate risk associated with:
+PA.IX.C.R1 Checklist usage for a system or equipment malfunction.
+PA.IX.C.R2 Distractions, task prioritization, loss of situational awareness, or disorientation.
+PA.IX.C.R3 Undesired aircraft state.
+PA.IX.C.R4 Startle response.
+Skills: The applicant exhibits the skill to:
+PA.IX.C.S1 Determine appropriate action for simulated emergencies specified by the evaluator, from at least three 
+of the elements or sub-elements listed in K1 through K5.
+PA.IX.C.S2 Complete the appropriate checklist(s).
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+9
+Section 4: Flight Instructor Applicant Considerations
+Section 4: Flight Instructor Applicant Considerations
+Flight Instructor ACS Information
+Flight Instructor ACS documents include sections that define the acceptable standards for knowledge, risk management, 
+and skills unique to an instructor certificate or rating.
+Knowledge elements often begin with “The applicant demonstrates instructional knowledge by describing and explaining…” 
+Instructional knowledge means the instructor applicant can effectively present the what, how, and why involved with the 
+task elements using techniques described in the fundamentals of instructing (FOI) area of operation in an instructor ACS.
+The Fundamentals of Instructing (FOI), Area of Operation I, Task F: Elements of Effective Teaching  that include Risk 
+Management and Accident Prevention focuses on teaching risk management and on those risks encountered by a flight 
+instructor while providing in-flight instruction.
+Instructor applicants deal with additional risk management on several levels. These include teaching risk management in 
+the classroom and mitigation of risk during flight instruction.
+Note that the FOI sections in each instructor ACS are identical and use the same element codes. This makes it possible to 
+use the same FOI elements for every instructor ACS.
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+10
+Section 5: References
+Section 5: References
+The ACS are based on the following 14 CFR parts, FAA guidance documents, manufacturer’s publications, and other 
+documents.
+Note: Users should reference the current edition of the reference documents listed below. The current edition of all FAA 
+publications can be found at www.faa.gov.
+Reference Title
+14 CFR part 1 Definitions and Abbreviations
+14 CFR part 23 Airworthiness Standards: Normal Category Airplanes
+14 CFR part 25 Airworthiness Standards: Transport Category Airplanes
+14 CFR part 27 Airworthiness Standards: Normal Category Rotorcraft
+14 CFR part 29 Airworthiness Standards: Transport Category Rotorcraft
+14 CFR part 39 Airworthiness Directives
+14 CFR part 43 Maintenance, Preventive Maintenance, Rebuilding, and Alteration
+14 CFR part 61 Certification: Pilots, Flight Instructors, and Ground Instructors
+14 CFR part 63 Certification: Flight Crewmembers other than Pilots
+14 CFR part 65 Certification: Airmen Other Than Flightcrew Members
+14 CFR part 67 Medical Standards and Certification
+14 CFR part 68 Requirements for Operating Certain Small Aircraft Without a Medical Certificate
+14 CFR part 71 Designation of Class A, B, C, D, and E Airspace Areas; Air Traffic Service Routes; and 
+Reporting Points
+14 CFR part 73 Special Use Airspace
+14 CFR part 91 General Operating and Flight Rules
+14 CFR part 93 Special Air Traffic Rules
+14 CFR part 97 Standard Instrument Procedures
+14 CFR part 117 Flight and Duty Limitations and Rest Requirements: Flightcrew Members
+14 CFR part 119 Certification: Air Carriers and Commercial Operators
+14 CFR part 121 Operating Requirements: Domestic, Flag, and Supplemental Operations
+14 CFR part 135 Operating Requirements: Commuter and on Demand Operations and Rules Governing 
+Persons on Board Such Aircraft
+49 CFR part 830 Notification and Reporting of Aircraft Accidents or Incidents and Overdue Aircraft, and 
+Preservation of Aircraft Wreckage, Mail, Cargo, and Records
+AC 00-46 Aviation Safety Reporting Program
+AC 20-117 Hazards Following Ground Deicing and Ground Operations in Conditions Conducive to 
+Aircraft Icing
+AC 29-2 Certification of Transport Category Rotorcraft
+AC 60-22 Aeronautical Decision Making
+Change 1 (September 19, 2024)
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+11
+Section 5: References
+Reference Title
+AC 60-28 FAA English Language Standard for an FAA Certificate Issued Under 14 CFR Parts 61, 
+63, 65, and 107
+AC 61-65 Certification: Pilots and Flight and Ground Instructors
+AC 61-67 Stall and Spin Awareness Training
+AC 61-107 Aircraft Operations at Altitudes Above 25,000 Feet Mean Sea Level or Mach Numbers 
+Greater Than .75
+AC 61-138 Airline Transport Pilot Certification Training Program
+AC 61-140 Autorotation Training
+AC 68-1 BasicMed
+AC 90-48 Pilots' Role in Collision Avoidance
+AC 90-95 Unanticipated Right Yaw in Helicopters
+AC 90-100 U.S Terminal and En Route Area Navigation (RNAV) Operations
+AC 90-105 Approval Guidance for RNP Operations and Barometric Vertical Navigation in the U.S. 
+National Airspace System and in Oceanic and Remote Continental Airspace
+AC 90-107 Guidance for Localizer Performance with Vertical Guidance and Localizer Performance 
+without Vertical Guidance Approach Operations in the U.S. National Airspace System
+AC 90-117 Data Link Communications
+AC 91.21-1 Use of Portable Electronic Devices Aboard Aircraft
+AC 91-32 Safety in and Around Helicopters
+AC 91-55 Reduction of Electrical System Failures Following Aircraft Engine Starting
+AC 91-73 Parts 91 and 135 Single Pilot, Flight School Procedures During Taxi Operations
+AC 91-74 Pilot Guide: Flight in Icing Conditions
+AC 91-78 Use of Class 1 or Class 2 Electronic Flight Bag (EFB)
+AC 91-79 Mitigating the Risks of a Runway Overrun Upon Landing
+AC 91-92 Pilot’s Guide to a Preflight Briefing
+AC 120-27 Aircraft Weight and Balance Control
+AC 120-51 Crew Resource Management Training
+AC 120-57 Surface Movement Guidance and Control System
+AC 120-58 Pilot Guide Large Aircraft Ground Deicing
+AC 120-60 Ground Deicing and Anti-icing Program
+AC 120-66 Aviation Safety Action Program (ASAP)
+AC 120-71 Standard Operating Procedures and Pilot Monitoring Duties for Flight Deck 
+Crewmembers
+AC 120-74 Parts 91, 121, 125, and 135 Flightcrew Procedures During Taxi Operations
+AC 120-76 Authorization for Use of Electronic Flight Bags
+AC 120-82 Flight Operational Quality Assurance (FOQA)
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+12
+Section 5: References
+Reference Title
+AC 120-90 Line Operations Safety Audit (LOSA)
+AC 120-100 Basics of Aviation Fatigue
+AC 120-101 Part 121 Air Carrier Operational Control
+AC 120-108 Continuous Descent Final Approach
+AC 120-109 Stall Prevention and Recovery Training
+AC 120-111 Upset Prevention and Recovery Training
+AC 135-17 Pilot Guide - Small Aircraft Ground Deicing
+AFM Airplane Flight Manual
+AIM Aeronautical Information Manual
+Applicable Manufacturer's Equipment 
+Supplement(s) Manufacturer's Equipment Supplement(s)
+Appropriate Manufacturer's Safety 
+Notices Safety Notices
+Chart Supplements Chart Supplements
+Digital-Visual Charts (d-VC) Digital-Visual Charts (d-VC)
+FAA-H-8083-1 Aircraft Weight and Balance Handbook
+FAA-H-8083-2 Risk Management Handbook
+FAA-H-8083-3 Airplane Flying Handbook
+FAA-H-8083-9 Aviation Instructor's Handbook
+FAA-H-8083-15 Instrument Flying Handbook
+FAA-H-8083-16 Instrument Procedures Handbook
+FAA-H-8083-21 Helicopter Flying Handbook
+FAA-H-8083-23 Seaplane, Skiplane, and Float/Ski Equipped Helicopter Operations Handbook
+FAA-H-8083-25 Pilot's Handbook of Aeronautical Knowledge
+FAA-H-8083-28 Aviation Weather Handbook
+FAA Order 8130.2 Airworthiness Certification of Aircraft
+FAA-P-8740-66 Flying Light Twins Safely
+FSB Report (type specific) Flight Standardization Board Report (if available)
+Helicopter Route Charts Helicopter Route Charts
+IFR Enroute Charts IFR Enroute Low Altitude and IFR Enroute High Altitude Charts
+NOTAMs Notices to Air Missions
+PDC Profile Descent Charts
+POH/AFM Pilot’s Operating Handbook/FAA-Approved Airplane Flight Manual
+POH/Flight Manual Pilot’s Operating Handbook/FAA-Approved Flight Manual
+POH/RFM Pilot's Operating Handbook/FAA-Approved Rotorcraft Flight Manual
+QRH Quick Reference Handbook
+SAFO 16016 Helicopter Stabilized Hover Checks Before Departure
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+13
+Section 5: References
+Reference Title
+SAFO 17010 Incorrect Airport Surface Approaches and Landings
+STARs Standard Terminal Arrival Routes
+TPP Terminal Procedures Publications
+USCG Navigation Rules USCG Navigation Rules, International-Inland
+VFR Navigation Charts Sectional/Terminal Aeronautical Charts
+Change 1 (September 19, 2024)
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+14
+Section 6: Abbreviations and Acronyms
+Section 6: Abbreviations and Acronyms
+Note: Users should reference the current edition of the reference documents listed below. The current edition of all FAA 
+publications can be found at www.faa.gov.
+Acronym Description
+14 CFR Title 14 of the Code of Federal Regulations
+AATD Advanced Aviation Training Device
+AC Advisory Circular
+ACS Airman Certification Standards
+ADM Aeronautical Decision-Making
+ADS-B Automatic Dependent Surveillance Broadcast
+ADS-C Automatic Dependent Surveillance - Contract
+AFCS Automatic Flight Control System
+AFM Airplane Flight Manual
+AGL Above Ground Level
+AIM Aeronautical Information Manual
+AIRMET Airman's Meteorological Information
+AKTR Airman Knowledge Test Report
+AMEL Airplane Multiengine Land
+AMES Airplane Multiengine Sea
+APU Auxiliary Power Unit
+ASEL Airplane Single-Engine Land
+ASES Airplane Single-Engine Sea
+ASI Aviation Safety Inspector
+ATC Air Traffic Control
+ATD Aviation Training Device
+ATP Airline Transport Pilot
+BATD Basic Aviation Training Device
+CDI Course Deviation Indicator
+CDL Configuration Deviation List
+CFIT Controlled Flight Into Terrain
+CFR Code of Federal Regulations
+CG Center of Gravity
+CPDLC Controller–pilot data link communication
+CRM Crew Resource Management
+DA Decision Altitude
+DDA Derived Decision Altitude
+
+
+========================================
+<<<PDF_PAGE:20>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+15
+Section 6: Abbreviations and Acronyms
+Acronym Description
+DH Decision Height
+DME Distance Measuring Equipment
+DP Departure Procedures
+EFB Electronic Flight Bag
+EFC Expect Further Clearance
+EFIS Electronic Flight Instrument System
+ELT Emergency Locator Transmitter
+ETA Estimated Time of Arrival
+ETL Effective Translational Lift
+FAA Federal Aviation Administration
+FAF Final Approach Fix
+FB Wind and Temperature Aloft Forecast
+FFS Full Flight Simulator
+FMS Flight Management System
+FRAT Flight Risk Assessment Tool
+FSB Flight Standardization Board
+FSO Flight Standards Office
+FSTD Flight Simulation Training Device
+FTD Flight Training Device
+G Unit of Force Equal to Earth's Gravity
+GBAS Ground Based Augmentation System
+GFA Graphical Forecast for Aviation
+GNSS Global Navigation Satellite System
+GPS Global Positioning System
+H/V Height/Velocity
+HF High Frequency
+HIGE Hover in Ground Effect
+HUD Head Up Display
+IFR Instrument Flight Rules
+ILS Instrument Landing System
+IMC Instrument Meteorological Conditions
+INFO Information for Operators
+INS Inertial Navigation System
+IOS Instructor Operating Station
+KOEL Kinds of Operations Equipment List
+L/DMAX Lift/Drag Maximum
+
+
+========================================
+<<<PDF_PAGE:21>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+16
+Section 6: Abbreviations and Acronyms
+Acronym Description
+LAHSO Land and Hold Short Operations
+LNAV Lateral Navigation
+LOA Letter of Authorization
+LOC-I Loss of Control in Flight
+LP Localizer Performance
+LTE Loss of Tail Rotor Effectiveness
+LTM Long Term Memory
+MAP Missed Approach Point
+MDA Minimum Descent Altitude
+MEL Minimum Equipment List
+METAR Aviation Routine Weather Reports (Meteorological Aerodrome Report)
+MFD Multi-Function Display
+MMO Maximum Operating Limit Speed as a Mach Number
+NAS National Airspace System
+NOTAM Notice to Air Missions
+Nr Main Rotor Speed
+NSP National Simulator Program
+NTSB National Transportation Safety Board
+ODP Obstacle Departure Procedure
+OEI One Engine Inoperative
+PAVE Risk Management Checklist for Pilot/Aircraft/enVironment/External Factors
+PFD Primary Flight Display
+PIC Pilot-in-Command
+PinS Copter Point in Space
+PIREP Pilot Report
+POA Plan of Action
+POH Pilot's Operating Handbook
+PTS Practical Test Standards
+QPS Qualification Performance Standard
+QRH Quick Reference Handbook
+RAIM Receiver Autonomous Integrity Monitoring
+RCAM Runway Condition Assessment Matrix
+RFM Rotorcraft Flight Manual
+RNAV Area Navigation
+RNP Required Navigation Performance
+RPM Revolutions Per Minute
+
+
+========================================
+<<<PDF_PAGE:22>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+17
+Section 6: Abbreviations and Acronyms
+Acronym Description
+SAE Specialty Aircraft Examiner
+SAFO Safety Alert for Operators
+SATR Special Air Traffic Rules
+SBAS Satellite Based Augmentation System
+SBT Scenario Based Training
+SFAR Special Federal Aviation Regulation
+SFRA Special Flight Rules Area
+SID Standard Instrument Departure
+SIGMET Significant Meteorological Information
+SMS Safety Management System
+SRM Single-Pilot Resource Management
+SRM Safety Risk Management
+STAR Standard Terminal Arrival
+STM Short Term Memory
+SUA Special Use Airspace
+TAF Terminal Area Forecast
+TAWS Terrain Awareness and Warning System
+TCAS Traffic Collision Avoidance System
+TCDS Type Certificate Data Sheet
+TCE Training Center Evaluator
+TEM Threat and Error Management
+TFR Temporary Flight Restrictions
+TPP Terminal Procedures Publication
+TUC Time of Useful Consciousness
+UHF Ultra High Frequency
+UIMC Unintended Instrument Meteorological Conditions
+USCG United States Coast Guard
+UTC Coordinated Universal Time
+V1
+The maximum speed in the takeoff at which the pilot must take the first action (e.g., apply 
+brakes, reduce thrust, deploy speed brakes) to stop the airplane within the accelerate-stop 
+distance. V1 also means the minimum speed in the takeoff, following a failure of the critical 
+engine at VEF, at which the pilot can continue the takeoff and achieve the required height above 
+the takeoff surface within the takeoff distance.
+V2 Takeoff Safety Speed
+VA Maneuvering speed
+VDP Visual Descent Point
+VFR Visual Flight Rules
+
+
+========================================
+<<<PDF_PAGE:23>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+18
+Section 6: Abbreviations and Acronyms
+Acronym Description
+VMC Minimum control speed with the critical engine inoperative
+VHF Very High Frequency
+VMC Visual Meteorological Conditions
+VMCG Minimum control speed on the ground with the critical engine inoperative
+VMO Maximum Operating Limit Speed
+VNE Never exceed speed
+VCOA Visual Climb Over Airport
+VOR Very High Frequency Omnidirectional Range
+VR Rotation speed
+VREF Reference Landing Speed
+VRS Vortex Ring State
+VS Stall Speed
+VSO Stalling Speed or the Minimum Steady Flight Speed in the Landing Configuration
+VSSE Safe, intentional one-engine-inoperative speed. Originally known as safe single-engine speed
+VTOL Vertical Takeoff and Landing
+VX Best angle of climb airspeed
+VXSE Best angle of climb speed with one engine inoperative
+VY Best rate of climb speed
+VYSE Best rate of climb speed with one engine inoperative.
+WAAS Wide Area Augmentation System
+
+
+========================================
+<<<PDF_PAGE:24>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+19
+Section 7: Practical Test Checklist (Applicant)
+Section 7: Practical Test Checklist (Applicant)
+Evaluator’s Name: ____________________________________________________________________
+Location: ___________________________________________________________________________
+Date/Time: __________________________________________________________________________
+Acceptable Aircraft
+  Aircraft Documents:
+  Airworthiness Certificate
+  Registration Certificate
+  Operating Limitations
+  Aircraft Maintenance Records:
+  Logbook Record of Airworthiness Inspections and Airworthiness Directives (AD) Compliance
+  Pilot’s Operating Handbook and FAA-Approved Aircraft Flight Manual
+Personal Equipment
+  View-Limiting Device
+  Current Aeronautical Charts (printed or electronic)
+  Computer and Plotter
+  Flight Plan Form and Flight Logs (printed or electronic)
+  Chart Supplements, Airport Diagrams, and Appropriate Publications (printed or electronic)
+  Current AIM (printed or electronic)
+Personal Records
+  Government-Issued Identification – Photo/Signature Identification (ID)
+  Pilot Certificate
+  Current Medical Certificate or BasicMed Qualification (when applicable)
+  Completed FAA Form 8710-1, Airman Certificate and/or Rating Application, or completed IACRA form, FAA Form 
+8710-11, Airman Certificate and/or Rating Application – Sport Pilot, or FAA Form 8400.3, Airman Certificate and/or 
+Rating Application with Instructor’s Signature, if applicable
+  Airman Knowledge Test Report
+  Airman’s Logbook with Appropriate Instructor Endorsements
+  FAA Form 8060-5, Notice of Disapproval (if applicable)
+  Letter of Discontinuance (if applicable)
+  Approved School Graduation Certificate (if applicable)
+
+
+========================================
+<<<PDF_PAGE:25>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+20
+Section 8: Knowledge Test Reports and Archived ACS Codes
+Section 8: Knowledge Test Reports and Archived ACS Codes
+Private Pilot for Airplane Category ACS Archived Codes
+PA.III.A.R3 Confirmation or expectation bias.
+PA.IV.A.S10 Retract the water rudders, as appropriate, establish and maintain the most efficient planing/liftoff attitude, 
+and correct for porpoising and skipping (ASES, AMES).
+PA.IV.I.S5 Retract the water rudders as appropriate; advance the throttle smoothly to takeoff power.
+PA.IV.K.S7 Retract the water rudders as appropriate; advance the throttle smoothly to takeoff power.
+PA.VIII.E.K1a Sensitivity, limitations, and potential errors in unusual attitudes
+PA.VIII.E.K1b Correlation (pitch instruments/bank instruments)
+PA.VIII.E.K1c Function and operation
+PA.VIII.E.K1d Proper instrument cross-check techniques
+PA.VIII.E.R2 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.E.R6 Failure to unload the wings in recovering from high G situations.
+PA.VIII.F.S3 Maintain altitude ±200 feet, heading ±20°, and airspeed ±10 knots.
+PA.IX.C.K1a Maintain altitude ±200 feet, heading ±20°, and airspeed ±10 knots
+PA.IX.C.K1b Engine roughness or overheat
+PA.IX.C.K1c Loss of oil pressure
+PA.IX.C.K1d Fuel starvation
+PA.XII.A.R2 Confirmation or expectation bias as related to taxi instructions.
+PA.XII.A.S1 Demonstrate runway incursion avoidance procedures.
+PA.XII.B.R2 Confirmation or expectation bias as related to taxi instructions.
+
+
+========================================
+<<<PDF_PAGE:26>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+21
+Section 8: Knowledge Test Reports and Archived ACS Codes
+Commercial Pilot for Airplane Category ACS Archived Codes
+CA.I.F.K2f Weight and balance
+CA.IV.A.S10 Retract the water rudders, as appropriate, establish and maintain the most efficient planing/liftoff attitude, 
+and correct for porpoising and skipping (ASES, AMES).
+CA.IV.I.S5 Retract the water rudders as appropriate; advance the throttle smoothly to takeoff power.
+CA.IV.K.S7 Retract the water rudders as appropriate; advance the throttle smoothly to takeoff power.
+CA.IX.C.K1a Engine roughness or overheat
+CA.IX.C.K1b Carburetor or induction icing
+CA.IX.C.K1c Loss of oil pressure
+CA.IX.C.K1d Fuel starvation
+CA.XI.A.R2 Confirmation or expectation bias as related to taxi instructions.
+CA.XI.A.S1 Utilize runway incursion avoidance procedures.
+CA.XI.B.R2 Confirmation or expectation bias as related to taxi instructions.
+Instrument Rating – Airplane ACS Archived Codes
+IR.IV.B.R2 Failure to recognize an unusual flight attitude and follow the proper recovery procedure.
+IR.VII.C.R2 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons, and wildlife.
+Airline Transport Pilot and Type Rating ACS Archived Codes
+AA.IV.B.R2 Failure to recognize an unusual flight attitude and follow the proper recovery procedure.
+AA.V.A.S2 When accomplished in an FSTD, the entry should be consistent with the expected operational environment 
+for a stall on takeoff or while on approach in a partial flap configuration with no minimum entry altitude 
+defined.
+AA.V.B.S2 When accomplished in an FSTD, the entry should be consistent with the expected operational environment 
+for a stall in cruise flight with no minimum entry altitude defined.
+AA.V.C.S2 When accomplished in an FSTD, the entry should be consistent with the expected operational environment 
+for a stall when fully configured for landing with no minimum entry altitude defined.
+AA.VI.F.R3 Planning for.
+AA.VI.F.R3a a. Missed Approach
+AA.VI.F.R3b b. Land and hold short operations (LAHSO)
+Change 2 (December 26, 2024)
+
+
+========================================
+<<<PDF_PAGE:27>>>
+<<<SOURCE_FILE:acs_companion_guide_pilots.pdf>>>
+========================================
+
+ACS Companion Guide for Pilots (FAA-G-ACS-2)
+22
+Section 8: Knowledge Test Reports and Archived ACS Codes
+AA.VI.H.R3 Planning for.
+AA.VI.H.R3a a. Missed Approach
+AA.VI.H.R3b b. Land and hold short operations (LAHSO)
+AA.VIII.A.R2 Confirmation or expectation bias as related to taxi instructions.
+AA.VIII.B.R2 Confirmation or expectation bias as related to taxi instructions.

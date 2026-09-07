@@ -1,0 +1,47 @@
+DOCUMENT_TITLE: AD_NPRM_Search_Guide_for_DRS
+SOURCE_FILE: AD_NPRM_Search_Guide_for_DRS.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AD_NPRM_Search_Guide_for_DRS.pdf>>>
+========================================
+
+1 
+ 
+AD NPRM Search Guide for DRS 
+Updated 7/7/2022 
+ 
+https://drs.faa.gov/browse 
+1. On the left Browse menu, click "Regulations > Airworthiness Directives (ADs) > AD NPRMs" 
+- OR search "AD NPRMs" in the search box under "Browse" 
+ 
+2. Click on the “AD NPRMs” title in the Browse menu (shown above) to reveal the AD NPRM filter screen 
+ 
+- You can sort the list by clicking the "Sort By" drop down below the Filter section and 
+selecting "Issue Date” (shown below)
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:AD_NPRM_Search_Guide_for_DRS.pdf>>>
+========================================
+
+2 
+ 
+ 
+3. To find all NPRMs applicable to a specific model: 
+- In the “Keyword Search” text box, enter the model name and hit Enter (e.g. 737-200) 
+- Click “Apply” 
+ 
+4. Click on an AD NPRM from the list below the Filter section to open a windowed view of the document 
+5. To submit a formal comment on an AD NPRM, you must navigate to proposed rule on the Federal 
+Register 
+- Click the “Regulatory Text” URL on the left hand side of a document under “Details” to open 
+the document on the Federal Register 
+o If the URL is not an active link, please clear your browser cache and/or refresh the 
+page 
+ 
+- Use the available “Feedback” button there to submit formal comment on the AD NPRM 
+6. For further help, please visit the Help & Training section of DRS here: https://drs.faa.gov/help

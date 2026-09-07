@@ -1,0 +1,1412 @@
+DOCUMENT_TITLE: acs_faq
+SOURCE_FILE: acs_faq.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+1 
+rev 171001  
+What & Why 
+What is the ACS? 
+Why is the FAA making this change? 
+What is the problem the FAA is trying to solve? 
+What’s wrong with the Practical Test Standards (PTS)? 
+Why not just create a Knowledge Test Standard, or KTS? 
+Why not just fix the knowledge test and leave the rest alone? 
+Why have a separate section on risk management? 
+Why is the FAA adding knowledge and risk management elements to the practical test? 
+Why do some of the private pilot airplane ACS Areas of Operation/Tasks look different? 
+Why did the FAA modify the slow flight task? 
+Isn’t the real problem related to deficient stick-and-rudder skills? 
+Why does the FAA have three different exams for most FAA airman certifications? 
+What are the letters and numbers beside each ACS task element? 
+Why not just keep the “PLT” Learning Statement Codes (LSC)?  
+How do I use ACS codes? 
+Why aren’t the ACS codes available right now? 
+Will ACS codes direct me to the right reference? 
+Why didn’t the FAA use a formal rulemaking process for the ACS? 
+Why does the ACS use the term “airman?” 
+Why does the ACS use the term “evaluator? 
+Does the ACS have any connection with FAA/Industry Training Standards (FITS)? 
+When 
+When does the ACS take effect? 
+When do the knowledge tests change to the ACS? 
+When will the FAA update the online sample tests for the knowledge test? 
+When is the FAA going to expand the ACS to other certificates and ratings? 
+When can we expect to see ACS codes printed on the Airman Knowledge Test Report?
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+2 
+rev 171001  
+What is the ACS revision schedule? 
+How 
+How is the ACS better? 
+How does the ACS improve the knowledge test? 
+How does the ACS change the practical test? 
+How does the ACS link standards to guidance and test questions? 
+How does the FAA keep the testing of risk management items from being subjective? 
+Why is the ACS so much bigger than the PTS? 
+How can the FAA say the test won’t be longer when the ACS is so much bigger? 
+How does the ACS affect the conduct of the flight review and the Instrument Proficiency 
+Check? 
+How was the ACS developed? 
+Where did the knowledge elements come from? 
+Where did the risk management elements come from? 
+Where did the skill elements come from? 
+What is industry’s role in the test question development and review process? 
+How much did it cost to develop and implement the ACS? 
+How does the FAA know the ACS will work? 
+Who was involved in the prototype? 
+Where did the ACS prototype take place? 
+How many people were involved? 
+What was the outcome of the prototype? 
+How can I learn more about the ACS? 
+Who 
+Who created the ACS? 
+What are all these acronyms (ARC, ARAC, ATST WG, ACS WG)? 
+How were these people selected? 
+What expertise do they have?
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+3 
+rev 171001  
+Using the ACS  
+I’m an applicant. How do I use the ACS? 
+I’m already in training. How will the change affect me? 
+Will I have to take a new “ACS knowledge test?” 
+Will the ACS make my training harder? 
+Will the ACS make my checkride longer? 
+Will the ACS make my training more expensive? 
+Does the ACS require me to do my flight training as part of an integrated program? 
+How do I interpret the ACS codes? 
+When will I see ACS codes on my Airman Knowledge Test Report? 
+How do I use the ACS to prepare for the knowledge test? 
+How will I use the ACS to prepare for the practical test? 
+Are knowledge and risk management elements a new requirement for applicants to 
+demonstrate during the practical test? 
+I want to complete my ground school ahead of flight training. Does the ACS require me to 
+complete my training as an integrated program? 
+I’m an instructor. How do I use the ACS? 
+How do I use the ACS to teach and train? 
+How will the ACS change the way I teach ground school? 
+How will the ACS change the way I conduct flight training? 
+What resources do I have to teach risk management? 
+What do I do with students who are already training when the ACS takes effect? 
+How do I interpret the ACS codes? 
+When will I see ACS codes on the applicant’s Airman Knowledge Test Report (AKTR)? 
+If I can’t see ACS codes on the AKTR, how do I conduct remedial training? 
+When can we expect to see other certificates and ratings transition to the ACS? 
+What is the difference between the ACS and a training syllabus? 
+Does the ACS continue to require scenario-based training? 
+I’m a DPE. How do I use the ACS?
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+4 
+rev 171001  
+How do I use the ACS to conduct a practical test? 
+How do I test applicants who did some or all of their flight training under the PTS? 
+How do I interpret the ACS codes? 
+When will I see ACS codes on the applicant’s Airman Knowledge Test Report? 
+If I can’t see ACS codes on the Airman Knowledge Test Report (AKTR), how do I conduct 
+appropriate retesting? 
+Does the ACS continue to require “scenario-based testing? 
+What happened to the special emphasis items? 
+What resources do I have to test risk management? 
+Will IACRA support the ACS? 
+Should I use ACS codes on the Notice of Disapproval? 
+Is the FAA going to update DPE guidance to reflect the ACS? 
+I have a part 141 school. How do I use the ACS? 
+Do you have a question not addressed here? Do you have suggestions for improving the ACS? If so, 
+please contact the ACS Focus Team (9-AVS-ACS-Focus-Team@faa.gov). 
+For updates to this information, please subscribe to the FAA website’s Airman Testing page by clicking 
+on the “subscribe” link in the upper right hand corner.
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+5 
+rev 171001  
+What is the ACS? 
+The ACS is an enhanced version of the Practical Test Standards (PTS). It adds task-specific knowledge and 
+risk management elements to each PTS Area of Operation and Task. The result is a comprehensive 
+presentation that integrates the standards for what an applicant needs to know, consider, and do in 
+order to pass both the knowledge test and the practical test for a certificate or rating. [back] 
+Why is the FAA making this change? 
+The ACS started in 2011 as an effort to fix the airman knowledge tests. Too many knowledge test 
+questions were outdated or irrelevant to the knowledge and skill needed to operate in today’s NAS.  
+Working with aviation training industry experts, we concluded that we could not effectively fix the 
+knowledge test without taking a systematic approach to the airman certification system. The ACS:  
+• Offers a comprehensive and integrated presentation of the standards for what an applicant needs to 
+know, consider, and do to pass both the knowledge and practical tests for a certificate or rating.  
+• Connects specific, appropriate knowledge and risk management elements to specific skills. This 
+linkage enhances the relevance of the testing/training process for adult learners by clearly answering 
+the “why do I need to know that?!” question.  
+• Enhances safety by using the risk management section in each ACS Area of Operation to translate 
+special emphasis items and abstract terms like “aeronautical decision-making” into specific 
+behaviors relevant to each task.  
+• Eliminates “bloat” by consolidating duplicative or overlapping tasks in the existing Practical Test 
+Standards (PTS).  
+• Enables the FAA to create and maintain a clear link between the regulations, knowledge/risk 
+management/skill performance standards, guidance, and test materials.  [back] 
+What is the problem the FAA is trying to solve? 
+The knowledge test is an important component of the airman certification process. It is intended to 
+measure an applicant’s understanding of the rules, regulations, and knowledge areas required to earn an 
+FAA airman certificate.  
+Unfortunately, many viewed the knowledge test as deeply flawed because it included too many 
+questions that were considered to be overly broad, overly complex, trivial, outdated, and sometimes 
+irrelevant. Consequently, the knowledge test was often regarded as a rote memorization exercise that 
+had no real value for aviation safety education and training, and little (if any) connection to real world 
+operations in today’s National Airspace System (NAS).  
+The root cause of these problems was the lack of a “knowledge test standard” (KTS) corresponding to the 
+Practical Test Standards, which the FAA developed years ago as a means to define acceptable 
+performance of the “flight proficiency” (skills) that 14 CFR part 61 specifies for each certificate and 
+rating. Rather than develop a separate KTS, the industry group recommended that the FAA address this 
+deficiency by integrating required “aeronautical knowledge” and risk management elements into the 
+existing PTS Areas of Operation/Tasks. This integrated document is called the Airman Certification 
+Standards, or ACS. [back]
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+6 
+rev 171001  
+What’s wrong with the Practical Test Standards (PTS)? 
+The PTS primarily provides metrics to define acceptable performance of the “flight proficiency” skills 
+listed in 14 CFR part 61 for a given certificate or rating. Most people believe that the PTS generally serves 
+its intended purpose but, like all such documents, it has become bloated over the years with an ever-
+expanding list of “special emphasis” items, repetitive or overlapping Areas of Operation/tasks, and 
+poorly-defined additional requirements (e.g., evaluation of the applicant’s risk management and 
+aeronautical decision-making skills). [back] 
+Why not just create a Knowledge Test Standard, or KTS? 
+In September 2011, the FAA convened a group of industry experts to recommend ways to fix the 
+knowledge test. This group – the Airman Testing Standards and Training Aviation Rulemaking Committee 
+(ATST ARC) – quickly determined that there is no way to fix the knowledge test in a meaningful and 
+sustainable way without having a knowledge test standard akin to the Practical Test Standards (PTS).  
+The ARC considered proposing a “Knowledge Test Standards” (KTS) document that would be the 
+knowledge test companion to the skill-focused PTS. The ARC discarded this approach as unworkable, 
+fearing that creation of separate KTS documents could result in divergence between the KTS and the PTS, 
+burden stakeholders with an additional set of documents, and require a greater expenditure of FAA 
+resources to develop, deploy, and maintain a full range of KTS documents. [back] 
+Why not just fix the knowledge test and leave the rest alone? 
+Working with aviation training industry experts, the FAA concluded that we could not effectively fix the 
+knowledge test without taking a systematic approach to the airman certification system: 
+• We needed to develop clear standards for the aeronautical knowledge elements listed in the 
+regulations, and to make sure that knowledge reflects things airmen really need to know for safe 
+operation in the NAS.  
+• We needed to build specific, observable behaviors for risk management and aeronautical 
+decision-making into the standard.  
+• We needed to consolidate overlapping Tasks in the PTS, and do something to connect the many 
+“special emphasis” items listed in the PTS introduction to actual Areas of Operation and Tasks. 
+• We needed to connect the standards for knowledge, risk management, and skill to FAA 
+handbooks, to knowledge test questions, and to the practical test, which is the “final exam” for 
+someone seeking an airman certificate or rating.  [back] 
+Why have a separate section on risk management? 
+The Practical Test Standards (PTS) already require evaluation of the applicant’s risk management 
+abilities, but the existing document does not offer the kind of concrete “how do I do that?” guidance 
+that users need and deserve. The rationale for including a risk management section in the ACS is to 
+enhance safety by translating abstract terms into specific safety behaviors relevant to each task. The ACS 
+is also intended to communicate and demonstrate that risk management is a continuous process that 
+includes identification, assessment, and mitigation of task-specific hazards that create risk. The risk 
+management element identifies the circumstantial issues that aviators must consider in association with 
+a particular task. [back]
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+7 
+rev 171001  
+Why is the FAA adding knowledge and risk management elements to the practical test? 
+These are not new requirements. The PTS has long required the evaluation of knowledge and risk 
+management elements in both the ground and flight portions of the practical test. The ACS provides a 
+better tool because it clearly defines these elements and organizes them in the context of phases of 
+flight. [back] 
+Why do some of the private pilot airplane ACS Areas of Operation/Tasks look different? 
+The majority of the private pilot airplane ACS Areas of Operation and Tasks are not very different from 
+how they appear in the PTS. Some have been renamed, reorganized, or combined with others. Here’s a 
+summary of these changes: 
+• PTS Sections 1 (Single-Engine) and 2 (Multi-Engine) Airplane have been combined into a single 
+ACS document. Tasks are identified with ASEL, ASES, AMEL, AMES so applicants know which 
+tasks apply to the desired rating. A task without these identifiers applies to all applicants. 
+• PTS Special Emphasis Items have been removed and incorporated into the relevant Task(s). 
+• PTS Task Certificates and Documents is now called Pilot Qualification. 
+• PTS Task Aeromedical Factors is now called Human Factors 
+• PTS Task Water and Seaplane Characteristics and Task Seaplane Bases, Maritime Rules and Aids 
+to Marine Navigation have been combined into a single task. 
+• PTS Task Preflight Inspection is now called Preflight Assessment. 
+• PTS Task Runway Incursion Avoidance task has been removed, with relevant task elements 
+incorporated into the Taxiing, Traffic Patterns, Takeoff, and Landing tasks. 
+• PTS Task Airport/Seaplane Base, Runway, and Taxiway Signs, Markings and Lighting task has 
+been removed, with relevant task elements incorporated into the Taxiing task. 
+• PTS Tasks for Normal/Crosswind takeoffs and landings have been renamed “Normal” (Crosswind 
+is dropped from the task name). Crosswind skills are still tested in the same way, as a component 
+of the normal procedure. 
+• PTS Area of Operation Performance Maneuvers now includes two tasks –Steep Turns and Ground 
+Reference Maneuvers (i.e. Ground Reference Maneuvers is no longer a stand-alone Area of 
+Operation). 
+• PTS Tasks Rectangular Course, S-Turns, Turns-Around a Point are combined into a single Task 
+called “Ground Reference Maneuvers.” The testing requirements have not changed; evaluators 
+still select at least one of these tasks for the applicant to demonstrate during the practical test. 
+• PTS Tasks Slow Flight and Stalls tolerance specifications (PA.VII.A.) have been modified to 
+discourage performing the maneuver with the stall horn activated. This change is consistent with 
+the FAA’s new guidance for these maneuvers, which is incorporated into the forthcoming 
+revision of the FAA’s Airplane Flying Handbook. 
+• PTS Tasks Anchoring, Docking and Mooring, and Ramping/Beaching have been combined into a 
+single task called “Seaplane Post-Landing Procedures.”  
+The June 2017 revision of the ACS for the Private Pilot Airplane certificate incorporates stakeholder-
+suggested corrections and improvements, to include streamlined and consolidated task elements in
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+8 
+rev 171001  
+some places, standardized phrasing and sequencing of task elements, and modification to some task 
+elements in the Slow Flight and Stalls Area of Operation. The FAA published the revised document 
+on the Airman Testing web page in May 2017. [back] 
+Why did the FAA modify the slow flight task? 
+The FAA made additional modifications to the Slow Flight and Stalls Area of Operation in the June 2017 
+versions of the ACS for the Private Pilot Airplane and Commercial Pilot Airplane certificates. Also, please 
+read SAFO 17009: Airman Certification Standards: Slow Flight and Stalls. You should also review Chapter 
+4, Maintaining Aircraft Control: Upset and Recovery Prevention in the new version of the FAA Airplane 
+Flying Handbook (FAA-H-8083-3B). [back] 
+Isn’t the real problem related to deficient stick-and-rudder skills? 
+Aviators love to debate, and we can argue endlessly about what really causes accidents. Perhaps we can 
+agree, though, that most accidents have multiple causes. According to the AOPA Air Safety Institute, the 
+three leading general aviation (GA) fatal accident factors are maneuvering flight, continued VFR into 
+IMC, and loss of control on takeoff. These factors all imply some degree of deficiency in the pilot’s 
+knowledge, skill, and risk management abilities. Even the world’s best stick-and-rudder pilot is at risk for 
+loss of control if he or she has an inadvertent flight into IMC because of deficiencies in weather 
+knowledge or risk management ability. Safety is not served by emphasizing just one of these three 
+abilities. On the contrary, each supports the others.  [back] 
+Why does the FAA have three different exams for most FAA airman certifications? 
+The certification testing process is intended to evaluate mastery of the information an applicant must 
+know, consider, and do to be a pilot or a mechanic. There are three components in this process:  
+• The knowledge test best examines an applicant’s knowledge of the certificate or rating he or she 
+will apply for and the pertinent subject areas that directly relate to the privileges and limitations 
+of that certificate or rating.  
+• The ground portion of the practical test enables the evaluator to assess subject areas missed on 
+the knowledge test and further assess the practical application of the subject areas through 
+scenario based questioning.  
+• The flight (skill) portion of the practical test requires the applicant to demonstrate ability to 
+perform the tasks and maneuvers (if appropriate) to the established standards.  
+Together, these components of the certification testing process enable the applicant to demonstrate the 
+ability to know, consider, and do tasks necessary for safe operation in the National Airspace System. 
+[back] 
+What are the letters and numbers beside each ACS task element? 
+The ACS assigns a unique code to each knowledge, risk management, and skill task element. These codes 
+provide the means to correlate the tasks in the ACS with guidance and testing, and to keep them aligned 
+going forward. As soon as the technical capability comes online, the ACS codes will supersede the current 
+system of “PLT” Learning Statement Codes (LSC).
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+9 
+rev 171001  
+The ACS coding system has four elements that are anchored in the ACS (i.e., in the standard itself, not in 
+reference documents like the current LSCs).  
+PA.I.D.K4: 
+PA = Applicable ACS (Private Pilot - Airplane) 
+I = Area of Operation (Preflight Preparation) 
+D = Task (Cross-Country Flight Planning) 
+K4 = Task element (Elements of a VFR Flight Plan) 
+[knowledge (K), risk management (R), skill (S)] [back] 
+Why not just keep the “PLT” Learning Statement Codes (LSC)?  
+Each ACS code is unique to a knowledge, risk management or skill element in the standard. Because LSC 
+(PLT) codes are derived from references, any topic may have a number of different codes. This 
+characteristic does not allow the FAA to use PLT codes as the mechanism to align standards with 
+guidance and test questions. Also, it makes it more difficult for applicants, instructors, and evaluators to 
+use the LSC system for effective, efficient, retraining and retesting. [back] 
+How do I use ACS codes? 
+In the initial ACS implementation phase, applicants, instructors, and evaluators will continue to see PLT 
+codes on the airman knowledge test report. In consultation with the industry ACS Working Group, 
+however, the FAA believes that it is appropriate to proceed with release of the ACSs for the private pilot 
+certificate and the instrument rating (both in the airplane category). These ACSs have been extensively 
+reviewed and prototype-tested. In addition, the FAA has used the ACS coding system to review, revise, 
+and code all active Private Pilot Airplane (PAR), Instrument Airplane Rating (IRA), and Commercial Pilot 
+Airplane (CAX) questions to the respective ACS. Anyone who uses the ACS as a guide to training and test 
+preparation for the PAR or IRA knowledge tests will be well prepared.  
+Because LSC (PLT) codes are linked to a variety of references, whereas each ACS code is unique to a 
+specific ACS Task element, there is no one-to-one correlation between LSC (PLT) and ACS codes and it is 
+not possible to create a meaningful or accurate cross-reference. However, stakeholders can still use the 
+ACS for more efficient retraining and retesting. All active knowledge test questions for the Private Pilot 
+Airplane certificate and the Instrument Airplane rating have been aligned with the applicable ACS. The 
+PLT codes on the airman knowledge test report will enable more efficient retraining, because 
+stakeholders can use them to identify the deficient subject area, perform a word search of that subject 
+area in the ACS, and retrain and retest the deficient subject tin the context of specific ACS Tasks. 
+Instructors and evaluators can thus zero in on a smaller number of ACS Tasks rather than going through 
+multiple references in an attempt to find the specific subject in which the applicant’s knowledge is 
+deficient . 
+When we have the ability to print ACS codes instead of “PLT” Learning Statement Codes, these codes will 
+make it very easy for applicants, instructors, and evaluators to identify the specific elements to be 
+retrained or retested. [back]
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+10 
+rev 171001  
+Why aren’t the ACS codes available right now? 
+The limitations of today’s knowledge test management system do not permit the FAA to print ACS codes 
+in lieu of the Learning Statement, or PLT, codes. The agency is contracting for a test management 
+services system that will include this capability. In the initial ACS implementation phase, however, 
+applicants, instructors, and evaluators will continue to see PLT codes on the airman knowledge test 
+report. [back] 
+Will ACS codes direct me to the right reference? 
+Yes. Every task within the ACS includes FAA references for additional information on the objective and 
+task elements. However, the ACS codes point to specific element in the standard, rather than to a 
+handbook chapter or section. Because they are anchored in the standard – not in handbooks and other 
+reference documents, like today’s “PLT” Learning Statement Codes – ACS codes will guide training and 
+testing from the beginning.  
+Once they can be printed on the Airman Knowledge Test Report, they will provide specific, standards-
+based feedback to applicants, instructors, and evaluators on areas of missed knowledge. For example, 
+when an applicant finishes the knowledge test today, he or she gets a computer test report that shows 
+Learning Statement (PLT) Codes on the bottom of the form. The LSCs are intended to show the areas of 
+knowledge the applicant missed on the test. To decipher the codes, the applicant, the instructor, and 
+eventually the evaluator must go to a separate publication and look up the codes. The codes are 
+numerous, and some are overlapping. Because there has not been a standardized way of linking them to 
+a test question, the assignment of “PLT” codes is unavoidably subjective.  
+In the ACS world, the computer test report will list the unique ACS code for each element missed on the 
+knowledge test. [back] 
+Why didn’t the FAA use a formal rulemaking process for the ACS? 
+Like the Practical Test Standards (PTS), the ACS simply defines the metrics – the standards – for meeting 
+the regulatory requirements that 14 CFR part 61 enumerates for aeronautical knowledge and flight 
+proficiency. The ACS does not change any of the regulatory requirements. [back] 
+Why does the ACS use the term “airman?” 
+The regulations use the term “airman” to encompass the full range of aviation functions that require an 
+FAA certificate or rating. Not all airman certificates and ratings are for pilots or aviators; some apply to 
+aircraft maintenance technicians, dispatchers, and other specialties. This term is used in the regulations 
+to include all aviation functions that require an FAA certificate or rating. [back] 
+Why does the ACS use the term “evaluator? 
+One of the goals of this project is greater consistency. Instead of trying to list every category of person 
+authorized to conduct a practical test or an evaluation for a certificate or rating (e.g., examiner, 
+designee, designated pilot examiner, aviation safety inspector), the ACS uses the term “evaluator” to 
+cover the entire range. [back] 
+Does the ACS have any connection with FAA/Industry Training Standards (FITS)? 
+No. There is no connection between the ACS and the FAA/Industry Training Standards (FITS) program 
+that was used in the mid-2000s to encourage greater use of scenario-based training.  The ACS represents
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+11 
+rev 171001  
+a “clean sheet” approach by the FAA and its industry partners to improve all components of the airman 
+certification system.  [back] 
+When does the ACS take effect? 
+We replaced the Practical Test Standards (PTS) for the Private Pilot Airplane (PAR) certificate and the 
+Instrument-Airplane rating (IRA) in June 2016. New versions of the ACS for PAR and IRA took effect in 
+June 2017, along with the first version of the ACS for the Commercial Pilot Airplane (CAX) certificate. The 
+CAX ACS replaces the corresponding PTS.  
+The ACS for the Remote Pilot Certificate took effect on August 29, 2016. 
+The ACS will eventually replace the PTS for all categories and classes. The next phase is to finish the ATP, 
+and Instructor ACS (all in the airplane category), and the Aircraft Mechanic ACS in 2018. Also in 2018, we 
+expect to begin work on the ACS for helicopters and for powered-lift. We will confer with our industry 
+partners to prioritize additional development work. [back] 
+When do the knowledge tests change to the ACS? 
+The FAA has used the ACS coding system to review, revise, and code all active Private Pilot Airplane 
+(PAR), Instrument Airplane Rating (IRA), and Commercial Pilot Airplane (CAX) questions to the respective 
+ACS. Use of the ACS as a guide to training and test preparation for the PAR, IRA, or CAX knowledge tests 
+will enable applicants and instructors to focus more precisely on topics to be mastered for the knowledge 
+test and understand them in the context of the associated skill task.  
+As of now, the only knowledge tests that have been aligned with the ACS are those for the private pilot 
+airplane certificate, the instrument-airplane rating, and the commercial pilot airplane.  
+As the ACS for other certificates and ratings are developed, the FAA will use the ACS and its coding 
+system to review, revise, and code test questions for those certificates and ratings. 
+For information on changes made at the October test cycle roll, please see “What’s New and Upcoming 
+in Airman Testing” https://www.faa.gov/training_testing/testing/media/whats_new_general.pdf. We 
+also recommend that you subscribe to the FAA website’s Airman Testing page by clicking on the page’s 
+“subscribe” link. 
+https://public.govdelivery.com/accounts/USAFAA/subscriber/new?topic_id=USAFAA_472.  [back] 
+When will the FAA update the online sample tests for the knowledge test? 
+The Private Pilot Airplane (PAR), Instrument Rating Airplane (IRA), and Commercial Pilot Airplane (CAX) 
+sample tests on the AFS-630 web page already include questions that have been reviewed and coded to 
+the Private Pilot Airplane ACS ,Instrument Rating Airplane, and Commercial Pilot Airplane ACS 
+documents, which are also posted on that page. 
+[back] 
+When is the FAA going to expand the ACS to other certificates and ratings? 
+Through the Aviation Rulemaking Advisory Committee (ARAC), the FAA originally asked industry to 
+develop Airman Certification Standards (ACS) for the Private Pilot, Commercial Pilot, Authorized 
+Instructor, and Airline Transport Pilot certificates and the Instrument Rating, all in the airplane category.
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+12 
+rev 171001  
+In December 2015, the FAA added the Aircraft Mechanic Certificate with Airframe and/or Powerplant 
+ratings to the ACS Working Group’s tasks. In the fall of 2017, the FAA further expanded the scope and 
+timelines for this work. 
+The ACS will eventually replace the PTS for all categories and classes. The next phase is to finish the ATP, 
+and Instructor ACS (all in the airplane category), and the Aircraft Mechanic ACS in 2018. Also in 2018, we 
+expect to begin work on the ACS for helicopters and for powered-lift. We will confer with our industry 
+partners to prioritize additional development work. [back] 
+When can we expect to see ACS codes printed on the Airman Knowledge Test Report? 
+The limitations of today’s knowledge test management system do not permit the FAA to print ACS codes 
+in lieu of the Learning Statement, or PLT, codes. The agency is contracting for a test management 
+services system that will include this capability. [back] 
+What is the ACS revision schedule? 
+The ACS for Private Pilot-Airplane certificate and Instrument-Airplane rating replaced the corresponding 
+PTSs in June 2016. The FAA replaced the PTS for the Commercial Pilot Airplane Certificate (CAX) with the 
+corresponding ACS in June 2017. We published this document, along with updated versions of the ACS for 
+PAR and IRA, on the FAA’s Airman Testing web page. Unless other circumstances require earlier 
+amendments, we expect to update the existing ACS documents in June 2018. [back] 
+How is the ACS better? 
+The ACS improves the PTS in several ways. The ACS:  
+• Offers a comprehensive and integrated presentation of the standards for what an applicant 
+needs to know, consider, and do to pass both the knowledge and practical tests for a certificate 
+or rating.  
+• Connects specific, appropriate knowledge and risk management elements to specific skills. This 
+linkage enhances the relevance of the testing/training process for adult learners by clearly 
+answering the “why do I need to know that?!” question.  
+• Enhances safety by using the risk management section in each ACS Area of Operation to 
+translate abstract terms like “aeronautical decision-making” into specific behaviors relevant to 
+each task.  
+• Eliminates “bloat” by consolidating duplicative or overlapping tasks in the existing PTS.  
+• Enables the FAA to create and maintain a clear link between the regulations, knowledge/risk 
+management/skill performance standards, guidance, and test materials. [back] 
+How does the ACS improve the knowledge test? 
+The FAA used the ACS to review/revise existing Private Pilot Airplane, Instrument Rating Airplane, and 
+the Commercial Pilot Airplane knowledge test questions to ensure that they are aligned with the 
+standard the ACS defines for knowledge, skill, and risk management elements. Questions that do not 
+match an ACS-defined task element have been eliminated from all active form tests and from the 
+corresponding knowledge test question banks. The FAA will use the ACS to make similar improvements to 
+other knowledge tests and for developing new knowledge test questions.
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+13 
+rev 171001  
+In addition to the work the FAA has done on the knowledge test, industry members of the ACS Working 
+Group have used the ACS to review FAA handbooks such as the Pilot’s Handbook of Aeronautical 
+Knowledge, the Risk Management Handbook, and the Airplane Flying Handbook and made 
+recommendations to better align this guidance material with the ACS-defined knowledge, risk 
+management, and skill task elements.  [back] 
+How does the ACS change the practical test? 
+The ACS does not change the length or the overall conduct of the practical test. It does give evaluators a 
+better tool for use in developing a plan of action for both the oral and the flight portions of the test. 
+When it becomes possible to print ACS codes on the Airman Knowledge Test Report, the ACS will make it 
+much easier for DPEs to retest missed knowledge test subjects.  
+The long-term expectation is that ACS-enabled improvements to the knowledge test will increase the 
+DPE’s confidence in both the meaning of the applicant’s knowledge test score and the quality of the 
+instructor’s preparation. These improvements promise to make the practical test more efficient than it is 
+today.  [back] 
+How does the ACS link standards to guidance and test questions? 
+The ACS assigns a unique code to each knowledge, risk management, and skill task element. These codes 
+provide the means to correlate the tasks in the ACS with guidance and testing, and to keep them aligned 
+going forward. The ACS coding system has four elements that are anchored in the ACS (i.e., in the 
+standard itself, not in reference documents like the current LSCs).  
+PA.I.D.K4: 
+PA = Applicable ACS (Private Pilot - Airplane) 
+I = Area of Operation (Preflight Preparation) 
+D = Task (Cross-Country Flight Planning) 
+K4 = Task element (Elements of a VFR Flight Plan) 
+[knowledge (K), risk management (R), skill (S)] The FAA used the ACS to review/revise existing Private 
+Pilot Airplane, Instrument Rating Airplane, and the Commercial Pilot Airplane knowledge test questions 
+to ensure that they are aligned with the standard the ACS defines for knowledge, skill, and risk 
+management elements. Questions that do not match an ACS-defined task element have been eliminated 
+from all active form tests and from the corresponding knowledge test question banks. The FAA will use 
+the ACS to make similar improvements to other knowledge tests, and for developing new knowledge test 
+questions.   
+In addition to the work the FAA has done on the knowledge test, industry members of the ACS Working 
+Group have used the ACS to review FAA handbooks such as the Pilot’s Handbook of Aeronautical 
+Knowledge, the Risk Management Handbook, and the Airplane Flying Handbook and made 
+recommendations to better align this guidance material with the ACS-defined knowledge, risk 
+management, and skill task elements.   [back] 
+How does the FAA keep the testing of risk management items from being subjective? 
+Because the level of risk that is acceptable to one pilot may not be the same for another, some have 
+expressed concern that testing of risk management elements will be too subjective.
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+14 
+rev 171001  
+It is true that risk management is unique to each and every individual, but the ACS defines the 
+circumstances, conditions, or risks applicable to each Task, not to the specific operator. Applicants will 
+thus be tested on their awareness and mitigation of the risks associated with the Task at hand, which 
+includes the applicant’s consideration of these elements in the context of the maneuver itself plus the 
+pilot’s experience and ability, the aircraft used, and the operating environment.   
+The PTS already requires evaluation of these items, but it offers little more than a statement of the 
+requirement and, in the case of “Special Emphasis” items, a list of subjects the DPE must evaluate. The 
+ACS provides better guidance to applicants, instructors, and evaluators because it provides specific risk 
+management and ADM procedures and behaviors associated with each Task, and it incorporates Special 
+Emphasis items in the risk management section of the appropriate Area of Operation/Task.  
+This presentation helps instructors make stick and rudder skills more meaningful by teaching them in the 
+context of what the applicant must know and consider while demonstrating flight skills. On the practical 
+test, it allows the evaluator to see and assess an applicant’s judgment and decision making in the 
+context of actual flight operations. The ACS thus discourages use of abstract and potentially subjective 
+methods of testing these important skills.  [back] 
+Why is the ACS so much bigger than the PTS? 
+The ACS is the single source document listing the standards for both the knowledge test and the practical 
+test.   The PTS displays each task on a 4x6 page. The ACS displays each task on an 8.5x11 page. The 
+larger page size is necessary to account for the current PTS (skill) information, as well as the new 
+(knowledge and risk management) information associated with each task.   [back] 
+How can the FAA say the test won’t be longer when the ACS is so much bigger? 
+The ACS is not just for the practical test. Rather, it is a single-source document that defines the 
+requirements for passing both the knowledge test and the practical test for an airman certificate or 
+rating, and it places those requirements in the context of the appropriate phases(s) of flight. The ACS 
+does not add any new or additional burden of knowledge or skill to applicants. Rather, it combines 
+information which has historically been published in four separate documents (PTS, Knowledge Test 
+Guide, Learning Statement Reference Guide, and Knowledge Exam Testing Matrix).  
+Having a single source Airman Certification Standards document is more efficient for applicants, 
+instructors, evaluators, as well as the FAA offices tasked with managing these documents. It also 
+eliminates redundancies and reduces the possibility of conflicting information.  [back] 
+How does the ACS affect the conduct of the Flight Review and the Instrument Proficiency 
+Check? 
+For flight reviews conducted at the private pilot airplane certificate level or for instrument-airplane 
+proficiency checks, instructors will use the applicable ACS for the appropriate tasks and maneuvers. The 
+IRA ACS includes a table in Appendix 5 that identifies the tasks that must be completed for an IPC. [back]
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+15 
+rev 171001  
+How was the ACS developed? 
+Since 2011, the agency has recruited several diverse and highly-qualified groups of aviation industry 
+experts to help. The FAA wanted people with current, real-world experience in all areas of the aviation 
+training community. Industry participants include representatives from: 
+• Advocacy groups (AOPA has chaired the last two groups) 
+• Instructor groups (NAFI, SAFE) 
+• Academia  
+• Test prep providers 
+• Manufacturers 
+• Parts 61, 65, 121, 141, 142 and 147 training providers 
+• Knowledgeable individuals 
+The credit for developing the ACS from concept to reality goes to these organizations and individuals. 
+They have very generously volunteered their time and resources to work with the FAA on this project, 
+and the agency could not have accomplished this kind of work without their help and expertise.  
+The ACS also benefits from the active participation of a diverse FAA team. FAA participants include 
+subject matter experts from the Air Transportation Division (AFS-200), the Aircraft Maintenance Division 
+(AFS-300), the Flight Technologies and Procedures Division (AFS-400), the Regulatory Support Division 
+(AFS-600), and the General Aviation and Commercial Division (AFS-800). [back] 
+Where did the knowledge elements come from? 
+The Knowledge task elements within the ACS reflect the subjects previously defined by the FAA Test 
+Guides (FAA-G-8082 documents), Learning Statement Reference Guide, and covered in the Knowledge 
+Test. [back] 
+Where did the risk management elements come from? 
+The Risk Management task elements come from the Risk Management, Aeronautical Decision-Making, 
+and Special Emphasis items in the PTS Introduction. Incorporating them into a task allows evaluators to 
+see an applicant’s judgment and decision making in the context of actual flight operations. [back] 
+Where did the skill elements come from? 
+The Skill task elements come from the Practical Test Standards. The ACS incorporates some editorial 
+clean-up and consolidation of redundant tasks (such as combining Runway Incursion Avoidance with 
+Taxiing). With one exception (Maneuvering During Slow Flight), the ACS does not change the expectation 
+or values for acceptable performance of PTS skills tasks and maneuvers in the PTS.  The skill 
+demonstration and acceptable tolerances in the ACS are otherwise the same as they’ve always been. 
+[back] 
+What is the industry’s role in the test question development and review process? 
+The ACS Working Group’s role is limited to providing general advice on best practices for framing test 
+questions.
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+16 
+rev 171001  
+To revise existing test questions and develop new questions in accordance with the ACS, the FAA has 
+established an ACS Exam Review Board (AEB) consisting of FAA employees from the General Aviation and 
+Commercial Division (AFS-800), the Air Transportation Division (AFS-200), the Aircraft Maintenance 
+Division (AFS-300), the Flight Technologies and Procedures Division (AFS-400), the Regulatory Support 
+Division (AFS-600), and the Flight Standards Service director’s office (AFS-3A). In keeping with industry 
+best practices, both the operations and airworthiness AEB teams include a stakeholder who brings a 
+combination of aviation education and test development expertise to this process. These non-FAA 
+participants have signed a Non-Disclosure Agreement. [back] 
+How much did it cost to develop and implement the ACS? 
+The lion's share of the work on the ACS -- developing the ACS, refining documents in accordance with 
+public comments, reviewing FAA handbooks, developing and running the prototypes, etc. -- has been 
+accomplished by the industry participants in the original Aviation Rulemaking Committee (ARC) and the 
+two Aviation Rulemaking Advisory Committee (ARAC) working groups at no cost to the government.  
+Pursuant to the requirements of the Federal Advisory Committee Act, ARAC is the umbrella group the 
+FAA uses to obtain advice, recommendations, and other assistance from stakeholder groups. Those who 
+participate in ARAC working groups do so entirely at their own expense. Member organizations generally 
+provide meeting space for face-to-face meetings. In the case of the ACS Working Group, there are four 
+face-to-face meetings each year; the rest of the work is done via subgroup telcons, which are organized 
+by the ACS Working Group chair and subgroup leads.  
+The FAA employees who participate in the ACS do so as part of their normal duties and assignments. 
+Leveraging industry expertise to accomplish the ACS development work, review handbooks, etc. not only 
+improves the product by ensuring that these documents are fully up-to-date, but it also frees FAA 
+resources to focus on test question review and development.  
+The use of industry working groups is not unique to the ACS, nor is it limited to the FAA. There is no way 
+the federal government (not just the FAA) could ever employ enough people to perform every function. 
+Nor is there any way the FAA could keep its employees as current as those who work in industry. That's 
+why the FAA uses not just ARAC working groups, but also Designated Pilot Examiners (DPEs), Aviation 
+Medical Examiners (AMEs), Designated Airworthiness Representatives (DARs), Organizational 
+Designation Authorization (ODAs), and other types of designees.  [back] 
+How does the FAA know the ACS will work? 
+The ACS benefits from extensive industry involvement in developing the ACS, using several rounds of 
+public comment (via the Federal Register) to refine the early drafts, and nearly 18 months of prototype 
+activity in high-volume training areas like Orlando and, for the Instrument Rating, the nation’s “IFR 
+capital” in Seattle. Prototype participants included all types of students and several flight training 
+environments. The goal was to determine that the ACS could be successfully used for teaching, training, 
+and testing in environments ranging from academic flight schools, fixed-base operator flight training, 
+stand-alone flight schools, and independent flight instructors in rental or customer aircraft.  
+Though sample sizes for the prototypes were small, the heterogeneous population of pilot and instructor 
+participants allows for generalization outside of the typical academic flight student.
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+17 
+rev 171001  
+Members of the ACS Working Group with academic research credentials and experience played a 
+significant role in the design and conduct of the prototype activities, which benefited from the support 
+and oversight of FAA Aviation Safety Inspectors (ASIs) in both locations. These industry experts also 
+designed, administered, and analyzed surveys given anonymously to participating applicants, instructors, 
+and evaluators. None of the participants or representatives reported the need to modify their curricula to 
+use the ACS. There were no reports of increased training time, unsatisfactory lessons, or overall training 
+cost. DPE surveys indicated that the ACS did enable a more efficient practical test and, as one 
+participating DPE stated:   
+“Perhaps the single most important improvement is in the targeted preparation. Through the 
+ACS, instructors were able to discern exactly what they should be training with knowledge and 
+risk management as well as with skill. As an instructor and DPE, I saw a marked increase in the 
+quality of student training and confidence in the instructor’s preparation.” [back] 
+The ACS is intended to be a living document, subject to continuous review and improvement. If you have 
+a suggestion for the ACS, please send it to the ACS Focus Team: 9-AVS-ACS-Focus-Team@faa.gov. 
+Who was involved in the prototype? 
+Phase I of the prototype was conducted with an Embry Riddle Aeronautical University (ERAU) summer 
+camp. It lasted for the summer, and involved seven applicants, four instructors, and four evaluators.  
+Phase II involved field testing the Private Pilot Airplane ACS over a six-month period in the Orlando 
+FSDO’s area of responsibility. Twelve flight training providers participated, with eight DPEs based 
+throughout the Orlando Area. A total of 54 airmen completed certification.  
+Phase III, which is prototype-testing the Instrument Airplane Rating ACS over a nine-month period, ended 
+in May 2016. This part of the prototype involved participants in both Orlando and Seattle. Five flight 
+training providers actively participated with a total of 39 applicants.  
+In the case of the Private Pilot Airplane ACS prototype, all applicants had to be “new” student pilots. It 
+did not include anyone with prior flight experience. [back] 
+Where did the ACS prototype take place? 
+With support from the FAA FSDOs, the ACS Working Group conducted nearly 18 months of ACS prototype 
+activity in Orlando, a high-volume training area, and Seattle, the self-proclaimed “IFR capital” of the 
+country. [back] 
+How many people were involved? 
+Phase I (conducted with an Embry Riddle Aeronautical University (ERAU)) involved seven applicants, four 
+instructors, and four evaluators.  
+Phase II (six months of field testing the Private Pilot Airplane ACS in the Orlando FSDO’s area of 
+responsibility) included twelve flight training providers and eight DPEs based throughout the Orlando 
+Area. A total of 54 airmen completed certification.  
+Phase III (nine months of field-testing the Instrument Airplane Rating ACS in Orlando and Seattle) 
+involved five flight training providers and a total of 39 applicants in the pipeline. [back]
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+18 
+rev 171001  
+What was the outcome of the prototype? 
+Members of the ACS Working Group with academic research credentials and experience played a 
+significant role in the design and conduct of the prototype activities, which benefited from the support 
+and oversight of FAA Aviation Safety Inspectors (ASIs) in both locations. These industry experts also 
+designed, administered, and analyzed surveys given anonymously to participating applicants, instructors, 
+and evaluators.  
+Though sample sizes for the prototypes were small, the heterogeneous population of pilot and instructor 
+participants allows for generalization outside of the typical academic flight student.  
+None of the participants or representatives reported the need to modify their curricula to use the ACS. 
+There were no reports of increased training time, unsatisfactory lessons, or overall training cost. DPE 
+surveys indicated that the ACS did enable a more efficient practical test and, as one participating DPE 
+stated:   
+“Perhaps the single most important improvement is in the targeted preparation. Through the 
+ACS, instructors were able to discern exactly what they should be training with knowledge and 
+risk management as well as with skill. As an instructor and DPE, I saw a marked increase in the 
+quality of student training and confidence in the instructor’s preparation.” [back] 
+How can I learn more about the ACS? 
+FAA and industry members of the ACS team have developed a number of resources to support ACS 
+implementation. The FAA website’s Airman Testing page (www.faa.gov/training_testing/testing/) is the 
+“go-to” place for ACS information. In addition to these ACS FAQs, it includes: 
+• ACS for the Private Pilot Airplane certificate, the Instrument Airplane rating, and the Commercial 
+Pilot Airplane certificate 
+• ACS informational brochure  
+• PowerPoint presentation on the ACS 
+• Sample knowledge tests with ACS codes 
+• What’s New in Airman Testing (info on knowledge test changes) 
+An “Understanding the ACS” course (ALC-449) that offers WINGS credit is available in the course catalog 
+on www.FAASafety.gov. 
+The April 20, 2016 AirplaneGeeks podcast includes an interview on the ACS with one of the FAA’s ACS 
+team leaders: http://AirplaneGeeks.com/397. 
+The FAA has published an 8900 Notice that includes the charter for an ACS Focus Team. The ACS Focus 
+Team is charged with quickly responding to questions or issues that arise now or after implementation. 
+The ACS Focus Team email address is:  9-AVS-ACS-Focus-Team@faa.gov.  [back] 
+Who created the ACS? 
+Since 2011, the agency has recruited several diverse and highly-qualified groups of aviation industry 
+experts to help. The FAA wanted people with current, real-world experience in all areas of the aviation 
+training community. Industry participants include representatives from:
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+19 
+rev 171001  
+• Advocacy groups (AOPA has chaired the last two groups) 
+• Instructor groups (NAFI, SAFE) 
+• Academia  
+• Test prep providers 
+• Manufacturers 
+• Parts 61, 65, 121, 141, 142, and 147 training providers 
+• Knowledgeable individuals 
+The credit for developing the ACS from concept to reality goes to these organizations and individuals. 
+They have very generously volunteered their time and resources to work with the FAA on this project, 
+and the agency could not have accomplished this kind of work without their help and expertise.  
+The ACS also benefits the active participation of a diverse FAA team. FAA participants include subject 
+matter experts from the Air Transportation Division (AFS-200), the Aircraft Maintenance Division (AFS-
+300), the Flight Technologies and Procedures Division (AFS-400), the Regulatory Support Division (AFS-
+600), and the General Aviation and Commercial Division (AFS-800). It also includes expertise from the 
+Orlando and Seattle FSDOs. [back] 
+What are all these acronyms (ARC, ARAC, ATST WG, ACS WG)? 
+To ensure transparency and diverse representation and to benefit fully from industry expertise, the FAA 
+used several existing organizational structures. 
+• ATST ARC refers to the Airman Testing Standards and Training Aviation Rulemaking Committee, 
+which the FAA chartered in September 2011 to make recommendations for more effective 
+training and testing. ARCs are the required forum for rulemaking projects, but they are also used 
+as a way for the FAA to benefit from stakeholder expertise in non-regulatory efforts, such as this 
+project. The FAA selected the ARC’s membership and convened it in September 2011. The ARC 
+submitted its report and nine recommendations to the FAA on April 13, 2012. 
+• ARAC is the Aviation Rulemaking Advisory Committee (ARAC), a formal standing committee of 
+aviation associations and industry representatives. The ARAC provides a transparent legal 
+framework for industry stakeholders to provide advice and recommendations to the FAA. The 
+ARAC performs its FAA-assigned tasks through expert-level working groups. To date, the ARAC 
+has established two separate working groups for the Airman Certification Standards project. 
+• The ATST WG is the Airman Testing Standards and Training Working Group. To benefit from 
+industry expertise in implementing the ARC recommendations, in August 2012 the FAA asked 
+ARAC to accept this task. ARAC formed the Airman Testing Standards and Training Working 
+Group (ATST WG, which consisted of aviation education and training professionals from all major 
+segments of this community, to perform the specific tasks requested by the FAA. The ATST WG 
+submitted its report to its parent body, ARAC, in mid-September 2013. ARAC accepted the ATST 
+WG report and submitted it to the FAA on September 30, 2014. 
+• The ACS WG is the Airman Certification System Working Group. In order to continue the work 
+started under the auspices of the ATST WG, in December 2013 the FAA asked ARAC to accept 
+another set of tasks. ARAC established the ACS WG to perform this work. [back]
+
+
+========================================
+<<<PDF_PAGE:20>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+20 
+rev 171001  
+How were these people selected? 
+In accordance with standard procedures, the FAA published notices in the Federal Register to announce 
+the establishment of the ARAC Working Groups and to solicit potential members. The FAA wanted people 
+with current, real-world experience in all areas of the aviation training community. In consultation with 
+industry leaders of the Working Groups, the FAA selected participants to include representatives from: 
+• Advocacy groups (AOPA has chaired the last two groups) 
+• Instructor groups (NAFI, SAFE) 
+• Academia  
+• Test prep providers 
+• Manufacturers 
+• Parts 61, 65, 121, 141, 142 and 147 training providers 
+• Knowledgeable individuals 
+To perform the FAA-assigned task to apply the ACS framework to other certificates and ratings, the ACS 
+Working Group will add members with appropriate expertise.  [back] 
+What expertise do they have? 
+In convening the original Aviation Rulemaking Committee (ARC), and in its subsequent assignments to 
+the Aviation Rulemaking Advisory Committee (ARAC), the FAA stipulated that these groups should 
+include aviation professionals with experience and expertise in airman training and testing, and technical 
+experts having an interest in the assigned task. The FAA sought a wide range of members to ensure that 
+all aspects of airman testing and training, including best practices, would be considered in the 
+development of its recommendations.  
+Membership on the ARC and on each of the two ARAC-established working groups has included flight 
+instructors, designated pilot examiners, the aviation academic community, industry advocacy 
+associations, and training and test preparation providers involved with aviation training and testing in 14 
+CFR Parts 61, 65, 141, 142, 147, and 121 environments. To perform the FAA-assigned task to apply the 
+ACS framework to other certificates and ratings, the ACS Working Group will add members with 
+appropriate expertise.    
+To support the work and to ensure that the FAA has a full understanding of the groups’ work and the 
+rationale for their recommendations, the FAA assigns subject matter experts from a number of its policy 
+divisions to attend these meetings. [back] 
+I’m an applicant. How do I use the ACS? 
+The ACS is the single source document listing the standards for both the knowledge test and the practical 
+test. The ACS provides a clear, easy-to-use “flight plan” for the material the FAA expects you to know 
+(knowledge), consider (risk management), and do (skill) to qualify for your airman certificate or rating. 
+You will also use the ACS to develop an understanding of how knowledge, risk management, and skill 
+elements work together for safe performance of each Task. Be sure to read the ACS Introduction and the 
+appendices carefully to understand how it all works together.  [back]
+
+
+========================================
+<<<PDF_PAGE:21>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+21 
+rev 171001  
+I’m already in training. How will the change affect me? 
+You simply switch from using the PTS to the ACS, which is the single source document listing the 
+standards for both the knowledge test and the practical test. Because the ACS provides a clear, easy-to-
+use “flight plan” for the material the FAA expects you to know (knowledge), consider (risk management), 
+and do (skill) to qualify for your airman certificate or rating, you will be much better prepared for both 
+the knowledge test and the practical test. [back] 
+Will I have to take a new “ACS knowledge test?” 
+No. There is no requirement for retesting if you have already passed the FAA knowledge test.  [back] 
+Will the ACS make my training harder? 
+No. In fact, applicants who have been training properly all along are likely to find the FAA knowledge test 
+easier. Instead of having to “learn” or memorize information that isn’t relevant to knowledge and skills 
+actually needed for operation in today’s National Airspace System (e.g., the now-deleted questions on 
+ADF/NDB) the test consists of questions coded via the appropriate ACS to specific Areas of 
+Operation/Tasks.  
+When the FAA gains the ability to print ACS codes on the Airman Knowledge Test Report, the ACS-coded 
+questions will make it much easier for applicants, instructors, and evaluators to specifically identify and 
+retrain on weak areas.  
+Overall, the ACS-enabled correlation of training and testing will make the process easier because 
+knowledge testing will be meaningful and relevant – not an exercise in memorizing information you will 
+never need in real-world operations.  [back] 
+Will the ACS make my checkride longer? 
+No. In fact, the integrated and efficient ACS presentation of the material to be tested could even shorten 
+the test, especially if the evaluator has more confidence in the quality and meaning of the applicant’s 
+knowledge test score. Once it is possible for the FAA to report ACS codes on the Airman Knowledge Test 
+Report, evaluators will be able to effectively and efficiently re-test any deficient knowledge elements 
+identified on the airman knowledge test report to ensure the applicant has trained to proficiency in all 
+areas. 
+The ACS benefits from nearly 18 months of prototype activity in high-volume training areas like Orlando 
+and, for the Instrument Rating, the nation’s “IFR capital” in Seattle. Prototype participants included all 
+types of students and several flight training environments. The goal was to determine that the ACS could 
+be successfully used for teaching, training, and testing in environments ranging from academic flight 
+schools, fixed-base operator flight training, stand-alone flight schools, and independent flight instructors 
+in rental or customer aircraft.  
+Members of the ACS Working Group with academic research credentials and experience played a 
+significant role in the design and conduct of the prototype activities. In surveys they designed, 
+administered anonymously to prototype participants, and analyzed, feedback was very positive. None of 
+the participants or representatives reported the need to modify their curricula to use the ACS. There were 
+no reports of increased training time, unsatisfactory lessons, or overall training cost. DPE surveys 
+indicated that the ACS did enable a more efficient practical test. [back]
+
+
+========================================
+<<<PDF_PAGE:22>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+22 
+rev 171001  
+Will the ACS make my training more expensive? 
+No. In fact, a more integrated and efficient presentation of the material to be tested should make 
+training more effective and efficient for all stakeholders, and thus less costly. [back] 
+Does the ACS require me to do my flight training as part of an integrated program? 
+No. You may still choose to complete ground school and take the knowledge test before you start flight 
+training. Just as with the PTS, you may structure ground training and flight training together as an 
+integrated program, or separate and sequentially – you can choose what will work best for your time and 
+resources. The ACS simply presents the existing knowledge requirements and better defines risk 
+management elements relative to the existing skill requirements, so you can better understand how 
+knowledge, risk management, and skill elements work together for safe flight operations. [back] 
+How do I interpret the ACS codes? 
+The ACS assigns a unique code to each knowledge, risk management, and skill task element. These codes 
+provide the means to correlate the tasks in the ACS with guidance and testing, and to keep them aligned 
+going forward. As soon as the technical capability comes online, the ACS codes will supersede the current 
+system of “PLT” Learning Statement Codes (LSC).  
+The ACS coding system has four elements that are anchored in the ACS (i.e., in the standard itself, not in 
+reference documents like the current LSCs).  
+PA.I.D.K4: 
+PA = Applicable ACS (Private Pilot - Airplane) 
+I = Area of Operation (Preflight Preparation) 
+D = Task (Cross-Country Flight Planning) 
+K4 = Task element (Elements of a VFR Flight Plan) 
+[knowledge (K), risk management (R), skill (S)] [back] 
+When will I see ACS codes on my Airman Knowledge Test Report? 
+The limitations of today’s knowledge test management system do not permit the FAA to print ACS codes 
+in lieu of the Learning Statement, or PLT, codes. The agency is contracting for a test management 
+services system that will include this capability. In the initial ACS implementation phase, however, 
+applicants, instructors, and evaluators will continue to see PLT codes on the airman knowledge test 
+report. [back] 
+How do I use the ACS to prepare for the knowledge test? 
+The ACS is the single source document listing the standards for both the knowledge test and the practical 
+test. The ACS provides a clear, easy-to-use “flight plan” for the material the FAA expects you to know 
+(knowledge), consider (risk management), and do (skill) to qualify for your airman certificate or rating. 
+You will also use the ACS to develop an understanding of how knowledge, risk management, and skill 
+elements work together for safe performance of each Task and phase of flight (Area of Operation).  
+When you are preparing for the knowledge test, be sure to look at all the elements – knowledge, risk 
+management, and skill. While the knowledge test is primarily focused on elements in the “K” and “R” 
+sections, you will also find questions that ask you to “calculate” or “determine” some value. The FAA
+
+
+========================================
+<<<PDF_PAGE:23>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+23 
+rev 171001  
+assigns a skill (“S”) code to questions of this nature. The References provided within each task steer you 
+to the FAA guidance document where you can learn more about each task element. [back] 
+How will I use the ACS to prepare for the practical test? 
+You will use the skill standards in the ACS just as you use the performance values and metrics in the PTS 
+today. Because the ACS also includes the material the FAA expects you to know (knowledge) and 
+consider (risk management) in the context of each task, it will help you better prepare for the oral 
+portion of the practical test. Be sure to read the ACS Introduction and the appendices carefully to 
+understand how it all works together. [back] 
+Are Knowledge and Risk Management elements a new requirement for applicants to 
+demonstrate during the practical test? 
+No, not at all.  These requirements already existed in the PTS. Applicants are required to take an FAA 
+Knowledge Exam. Instructors are required to retrain any deficiencies shown by the Airman Knowledge 
+Test Report. Evaluators are required to retest Knowledge Exam deficiencies. Risk Management was 
+included via the special emphasis items list in the PTS. The ACS integrates, organizes, and presents these 
+requirements in a way that is more meaningful and relevant to phases of flight and safe operations. 
+[back] 
+I want to complete my ground school ahead of flight training. Does the ACS require me to 
+complete my training as an integrated program? 
+No. You may still choose to complete your ground school and knowledge exam ahead of your flight 
+training. You may conduct ground training and flight training together as an integrated program, or 
+separate and sequentially. It is up to you to choose what will work best for your time and resources. The 
+ACS presents the existing knowledge and risk management requirements in the context of the existing 
+skill requirements to help everyone understand how these elements work together for safe flight 
+operations. [back] 
+I’m an instructor. How do I use the ACS? 
+The ACS provides a clear, easy-to-use “flight plan” for the material the FAA expects your applicant to 
+know (knowledge), consider (risk management), and do (skill) to qualify for your airman certificate or 
+rating. It is the single source document listing the standards for both the knowledge test and the 
+practical test. So the ACS is a tool that will help you ensure that the applicant meets the knowledge, risk 
+management, and skill standards established for each Task. Be sure to read the ACS Introduction and the 
+appendices carefully to understand how it all works together. 
+You will also use the ACS to develop and deepen the applicant’s understanding of how knowledge, risk 
+management, and skill elements work together for safe performance of each Task.  [back] 
+How do I use the ACS to teach and train? 
+You will use the ACS just as you used the PTS, only the ACS provides a great deal more information. The 
+ACS will guide you in teaching and training an applicant not only on everything he or she must know, 
+consider, and do to pass the knowledge test and the practical test, but – more importantly – how to 
+operate safely in the NAS. [back]
+
+
+========================================
+<<<PDF_PAGE:24>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+24 
+rev 171001  
+How will the ACS change the way I teach ground school? 
+If you are using the ACS as a guide to your syllabus and curriculum content, anyone you teach in a 
+ground school course will be very well prepared to pass the knowledge test. If your applicants have taken 
+the FAA knowledge test for the Private Pilot Airplane certificate or the Instrument Airplane rating in the 
+last year, they have actually taken an “ACS knowledge test,” because the FAA has already aligned all 
+active knowledge test questions for these airman qualifications with the corresponding ACS.  
+When you are preparing an applicant for the knowledge test, be sure to cover all the elements – 
+knowledge, risk management, and skill. While the knowledge test is primarily focused on elements in the 
+“K” and “R” sections, there are also questions that ask an applicant to “calculate” or “determine” some 
+value. The FAA assigns a skill (“S”) code to questions of this nature.  [back] 
+How will the ACS change the way I conduct flight training? 
+With one exception (Maneuvering During Slow Flight), the ACS does not change the expectation or 
+values for acceptable performance of PTS skills tasks and maneuvers in the PTS. The ACS thus does not 
+substantially change the way you teach stick-and-rudder skills. It does, however, provide the knowledge 
+and risk management context for the exercise of these skills. Using the ACS will help you make sure your 
+applicant understands how knowledge, risk management, and skill elements work together for safe 
+performance of each Task. Be sure to read the ACS Introduction and the appendices carefully to 
+understand how it all works together.  [back] 
+What resources do I have to teach risk management? 
+In general, the FAA uses the Pilot’s Handbook of Aeronautical Knowledge to support ACS knowledge task 
+elements, the Risk Management Handbook to support risk management task elements, and the Airplane 
+Flying Handbook to support ACS skill task elements. An ongoing revision to the Aviation Instructor’s 
+Handbook will specifically and explicitly address risk management, both in terms of teaching these 
+concepts to applicants and in terms of managing the risks inherent in flight training.  
+Both the FAA and the ACS WG have reviewed ACS task elements to ensure that the FAA has guidance to 
+support them, and the FAA is careful to verify that the agency has an appropriate reference for each 
+knowledge test question that we review or develop. 
+Risk management training and testing is already required, but the ACS improves the current structure by 
+explicitly listing specific procedures and behaviors relevant to risk management for each task. It also 
+improves the PTS by defining the items listed under “special emphasis” in the PTS and integrating them 
+into the context of the appropriate task(s). Feedback from prototype participants suggests that this 
+approach clarifies and simplifies risk management training and testing for all concerned. [back] 
+What do I do with students who are already training when the ACS takes effect? 
+You simply switch from using the PTS to the ACS, which is the single source document listing the 
+standards for both the knowledge test and the practical test. Because the ACS provides a clear, easy-to-
+use “flight plan” for the material the FAA expects your applicant to know (knowledge), consider (risk 
+management), and do (skill) to qualify for an airman certificate or rating, your applicant will be much 
+better prepared for both the knowledge test and the practical test. [back]
+
+
+========================================
+<<<PDF_PAGE:25>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+25 
+rev 171001  
+How do I interpret the ACS codes? 
+The ACS assigns a unique code to each knowledge, risk management, and skill task element. These codes 
+provide the means to correlate the tasks in the ACS with guidance and testing, and to keep them aligned 
+going forward. As soon as the technical capability comes online, the ACS codes will supersede the current 
+system of “PLT” Learning Statement Codes (LSC).  
+The ACS coding system has four elements that are anchored in the ACS (i.e., in the standard itself, not in 
+reference documents like the current LSCs).  
+PA.I.D.K4: 
+PA = Applicable ACS (Private Pilot - Airplane) 
+I = Area of Operation (Preflight Preparation) 
+D = Task (Cross-Country Flight Planning) 
+K4 = Task element (Elements of a VFR Flight Plan) 
+[knowledge (K), risk management (R), skill (S)]  
+ [back] 
+When will I see ACS codes on the applicant’s Airman Knowledge Test Report? 
+The limitations of today’s knowledge test management system do not permit the FAA to print ACS codes 
+in lieu of the Learning Statement, or PLT, codes. The agency is contracting for a test management 
+services system that will include this capability. In the initial ACS implementation phase, applicants, 
+instructors, and evaluators will continue to see PLT codes on the airman knowledge test report. [back] 
+If I can’t see ACS codes on the Airman Knowledge Test Report (AKTR), how do I conduct 
+remedial training? 
+Each ACS code is unique to a knowledge, risk management or skill element in the standard. LSC (PLT) 
+codes are derived from references, so any topic may have a number of different codes. For this reason, 
+there is no one-to-one correlation between LSC (PLT) codes and ACS codes.  
+You can still use the ACS for more efficient retraining and retesting. All active knowledge test questions 
+for the Private Pilot Airplane certificate and the Instrument Airplane rating have been aligned with the 
+applicable ACS. The PLT codes on your applicant’s airman knowledge test report will help you with more 
+efficient retraining, because you can use them to zero in on a smaller number of ACS Tasks rather than 
+going through multiple references in an attempt to find the specific subject in which the applicant is 
+deficient. 
+For example, there are at least six Learning Statement (PLT) codes that refer to airspace:  
+PLT 040 Airspace classes, charts, diagrams 
+PLT 161 Aircraft Systems / Avionics / Transponder / Airspace / Publications / AFD / Transponder 
+Operations 
+PLT 162 Airspace requirements, operations 
+PLT 163 Airspace requirements, visibility / cloud clearance 
+PLT 376 Airspace, special use, TFRs 
+PLT 393 Airspace, regulations / restrictions
+
+
+========================================
+<<<PDF_PAGE:26>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+26 
+rev 171001  
+The PLT codes are tied to references, and the scope for retraining and retesting is very broad. The ACS 
+enables an instructor to narrow the scope and retrain an applicant whose Airman Knowledge Test Report 
+includes one of these codes in the context of specific ACS Tasks. For example, you can: 
+• Ask about airspace in context of planning a XC flight (PA.I.D.K1) 
+• Ask about airspace as part of preflight preparation (PA.I.E.K1) 
+• Ask about airspace as part of preflight assessment (PA.II.A.S2)  
+• Ask about airspace as part of ground reference maneuvers evaluation (PA.V.B.S1) 
+[back] 
+When can we expect to see other certificates and ratings transition to the ACS? 
+Through the Aviation Rulemaking Advisory Committee (ARAC), the FAA originally asked the industry to 
+develop Airman Certification Standards (ACS) for the Private Pilot, Commercial Pilot, Instructor, and 
+Airline Transport Pilot certificates and the Instrument Rating, all in the airplane category. In December 
+2015, the FAA asked ARAC to add the Aircraft Mechanic Certificate with Airframe and/or Powerplant 
+ratings to the ACS Working Group’s charter. 
+The ACS for Private Pilot-Airplane certificate and Instrument-Airplane rating replaced the corresponding 
+PTSs in June 2016. The FAA replaced the PTS for the Commercial Pilot Airplane Certificate (CAX) with the 
+corresponding ACS in June 2017. We published this document, along with updated versions of the ACS for 
+PAR and IRA, on the FAA’s Airman Testing web page . Unless other circumstances require earlier 
+amendments, we expect to update the existing ACS documents in June 2018. [back] 
+What is the difference between the ACS and a training syllabus? 
+The ACS defines what the applicant must know, consider, and do to earn an airman certificate or rating.  
+A training syllabus defines how (where, when and why) these standards are met.  
+Accepted industry practices for any certification process stipulate that it be based on a job/task analysis. 
+The certification process must analyze, define, and publish the domains and tasks that are a part of the 
+certification process. It must further identify the knowledge and skills associated with performance of 
+those tasks. The required knowledge and skills become the basis for development of assessment 
+activities. 
+The ACS documents function as the required job/task analysis, as they define the knowledge and skills 
+needed to perform at the level of the target certificate or rating. In this way, the ACS approach better 
+serves the applicant, the instructor, and the evaluator. Because the process of developing the ACS 
+required a thorough review and update of knowledge and skills for airman certification, it also aligns 
+with certification industry standards requiring periodic review and revision of the job/task analysis. 
+[back] 
+Does the ACS continue to require scenario-based training? 
+There is no intent to drop the use of scenario-based activities in either training or testing. On the 
+contrary, the Introduction (Airman Certification Standards Concept) clearly states that for appropriate 
+items, “the evaluator will assess the applicant’s understanding by providing a scenario that requires the
+
+
+========================================
+<<<PDF_PAGE:27>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+27 
+rev 171001  
+applicant to appropriately apply and/or correlate knowledge, experience, and information to the 
+circumstances of the given scenario.”  
+Both the FAA and the ACS WG also believe that the ACS structure itself supports scenario-based testing 
+and training, because it presents specific elements of knowledge and risk management in the context of 
+each skill task.  
+In addition, members of the ACS project team drafted guidance for both FAA inspectors and external 
+evaluators to provide clarity on the ‘plan of action’ and use of scenarios. See 
+http://www.faa.gov/training_testing/testing/acs/media/acs_tips.pdf for details.  [back] 
+I’m a DPE. How do I use the ACS? 
+The ACS is the single source document listing the standards for both the knowledge test and the practical 
+test. Be sure to read the ACS Introduction and the appendices carefully to understand how it all works 
+together. 
+The ACS provides a clear, easy-to-use “flight plan” for the material the FAA expects your applicant to 
+know (knowledge), consider (risk management), and do (skill) to qualify for an airman certificate or 
+rating. Fundamentally, the ACS is a tool that will help you ensure that the applicant meets the 
+knowledge, risk management, and skill standards established for each Task.  
+Specifically, you should use the ACS to refine your Plan of Action to create better / more focused 
+questions and scenarios for both phases of the practical test. It will help you retest subjects associated 
+with LSC (PLT) codes on the knowledge test report in the context of ACS Areas of Operation/Tasks. In 
+addition, you will use the ACS to assess the applicant’s understanding of how knowledge, risk 
+management, and skill elements work together for safe performance of each Task. [back] 
+How do I use the ACS to conduct a practical test? 
+There is no real difference in how you conduct the flight portion of a practical test under the PTS and how 
+you conduct it under the ACS. With one exception (Slow Flight and Stalls Area of Operation), the ACS 
+does not change the expectation or values for acceptable performance of PTS skills tasks and maneuvers 
+in the PTS. 
+As you start using the ACS, though, it is very important to read the introduction and the appendices.  
+• The introduction contains important information such as general concepts and how to properly 
+use the ACS when building your plan of action. 
+• The appendices consolidate many of the notes and comments that were scattered throughout 
+the PTS. These notes remain critical to the practical test and must be considered. 
+After reviewing the appendices, you will need to ensure your written plan of action contains all required 
+elements. Just as with the PTS, the ACS is divided into Areas of Operations, Tasks, and Elements. In the 
+Private Pilot Airplane ACS and the Commercial Pilot Airplane ACS, there have been changes to some of 
+the Areas of Operation, Tasks, and Elements. The Instrument Airplane rating ACS uses the same Areas of 
+Operations as the PTS.
+
+
+========================================
+<<<PDF_PAGE:28>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+28 
+rev 171001  
+In addition to any elements added based on the applicant’s knowledge test report, the plan of action 
+(POA) must include at least one “K” element, at least one “R” element, and all “S” elements for all 
+applicable Tasks. The evaluator may choose to add additional elements. Also, if the applicant were to 
+provide information for an element that had not been selected for testing but nonetheless appeared to 
+be deficient, the evaluator may test that element as well. 
+In the case of sub-elements such as PA.I.G.K1a (“a” representing the sub-element), the evaluator may 
+select a primary ACS element code or an appropriate sub-element to evaluate. 
+As with the PTS, tasks and elements may be combined when appropriate to create an efficient practical 
+test. The ACS is not intended or expected to lengthen either the ground or the flight portions of the 
+practical test. [back] 
+How do I test applicants who did some or all of their flight training under the PTS? 
+You simply switch from using the PTS to the ACS, which is the single source document listing the 
+standards for both the knowledge test and the practical test. Because the ACS provides a clear, easy-to-
+use “flight plan” for the material the FAA expects your applicant to know (knowledge), consider (risk 
+management), and do (skill) to qualify for an airman certificate or rating, your applicant will be much 
+better prepared for both the knowledge test and the practical test. [back] 
+How do I interpret the ACS codes? 
+The ACS assigns a unique code to each knowledge, risk management, and skill task element. These codes 
+provide the means to correlate the tasks in the ACS with guidance and testing, and to keep them aligned 
+going forward. As soon as the technical capability comes online, the ACS codes will supersede the current 
+system of “PLT” Learning Statement Codes (LSC).  
+The ACS coding system has four elements that are anchored in the ACS (i.e., in the standard itself, not in 
+reference documents like the current LSCs).  
+PA.I.D.K4: 
+PA = Applicable ACS (Private Pilot - Airplane) 
+I = Area of Operation (Preflight Preparation) 
+D = Task (Cross-Country Flight Planning) 
+K4 = Task element (Elements of a VFR Flight Plan) 
+[knowledge (K), risk management (R), skill (S)]  
+ [back] 
+If I can’t see ACS codes on the Airman Knowledge Test Report (AKTR), how do I conduct 
+appropriate retesting? 
+Each ACS code is unique to a knowledge, risk management or skill element in the standard. LSC (PLT) 
+codes are derived from references, so any topic may have a number of different codes. For this reason, 
+there is no one-to-one correlation between LSC (PLT) codes and ACS codes and it is not possible to create 
+a meaningful or accurate cross-reference.   
+We hope that evaluators already seek to obtain airman knowledge test report results in advance of the 
+practical test, and the ACS does not change that expectation. If anything, though, the ACS should
+
+
+========================================
+<<<PDF_PAGE:29>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+29 
+rev 171001  
+ultimately streamline the process. As explained in the DPE training module that AFS-640 sent to all DPEs 
+in May 2016, all active knowledge test questions for the Private Pilot Airplane certificate and the 
+Instrument Airplane rating have been aligned with the applicable ACS. The PLT codes on the airman 
+knowledge test report will enable more efficient retraining, because you can use them to identify the 
+deficient subject area, perform a word search of that subject area in the ACS, and retrain and retest the 
+deficient subject in the context of specific ACS Tasks. You can thus zero in on a smaller number of ACS 
+Tasks rather than going through multiple references in an attempt to find the specific subject in which 
+the applicant’s knowledge is deficient. 
+When you are retesting an applicant on elements missed on the knowledge test, please note that these 
+elements could be in knowledge, risk management, or skill. While the knowledge test is primarily focused 
+on elements in the “K” and “R” sections, there are also questions that ask an applicant to “calculate” or 
+“determine” some value. The FAA assigns a skill (“S”) code to questions of this nature.  [back] 
+Does the ACS continue to require “scenario-based testing? 
+There is no intent to drop the use of scenario-based activities in either training or testing. On the 
+contrary, the Introduction (Airman Certification Standards Concept) clearly states that for appropriate 
+items, “the evaluator will assess the applicant’s understanding by providing a scenario that requires the 
+applicant to appropriately apply and/or correlate knowledge, experience, and information to the 
+circumstances of the given scenario.”  
+Both the FAA and the ACS WG also believe that the ACS structure itself supports scenario-based testing 
+and training, because it presents specific elements of knowledge and risk management in the context of 
+each skill task.  
+In addition, members of the ACS project team drafted guidance for both FAA inspectors and external 
+evaluators to provide clarity on the ‘plan of action’ and use of scenarios. See 
+http://www.faa.gov/training_testing/testing/acs/media/acs_tips.pdf for details. [back] 
+What happened to the special emphasis items? 
+The PTS requires evaluation of these items, but it offers little more than a statement of the requirement 
+and, in the case of “Special Emphasis” items, a list of subjects the DPE must evaluate.  
+The ACS incorporates Special Emphasis items in the risk management section of the appropriate Area of 
+Operation/Task. It also provides specific risk management and ADM procedures and behaviors 
+associated with the Task. On the practical test, it allows the evaluator to see and assess an applicant’s 
+judgment and decision making in the context of actual flight operations. The ACS thus discourages use of 
+abstract and potentially subjective methods of testing these important skills.  [back] 
+What resources do I have to test risk management? 
+In general, the FAA uses the Pilot’s Handbook of Aeronautical Knowledge to support ACS knowledge task 
+elements, the Risk Management Handbook to support risk management task elements, and the Airplane 
+Flying Handbook to support ACS skill task elements. An ongoing revision to the Aviation Instructor’s 
+Handbook will specifically and explicitly address risk management, both in terms of teaching these 
+concepts to applicants and in terms of managing the risks inherent in flight training.
+
+
+========================================
+<<<PDF_PAGE:30>>>
+<<<SOURCE_FILE:acs_faq.pdf>>>
+========================================
+
+Airman Certification Standards (ACS) 
+Frequently Asked Questions for Applicants, Instructors, and Evaluators 
+30 
+rev 171001  
+Both the FAA and the ACS WG have reviewed ACS task elements to ensure that the FAA has guidance to 
+support them, and the FAA is careful to verify that the agency has an appropriate reference for each 
+knowledge test question that we review or develop. 
+Risk management training and testing is already required, but the ACS improves the current structure by 
+explicitly listing specific procedures and behaviors relevant to risk management for each task. It also 
+improves the ACS by defining the items listed under “special emphasis” in the PTS and integrating them 
+into the context of the appropriate task(s). Feedback from prototype participants suggests that this 
+approach clarifies and simplifies risk management training and testing for all concerned. [back] 
+Will IACRA support the ACS? 
+Yes. We worked with AFS-700 to update IACRA. When an applicant’s performance is unsatisfactory, 
+IACRA allows the evaluator to select the failed Areas of Operations from a table. These tables have been 
+updated to align with the ACS.  
+We strongly encourage evaluators to use IACRA’s “remarks” section to record the specific ACS Task 
+element(s) in which the applicant’s performance was unsatisfactory by noting the ACS code.  [back] 
+Should I use ACS codes on the Notice of Disapproval and Letters of Discontinuance? 
+Yes.  [back] 
+Is the FAA going to update DPE guidance to reflect the ACS? 
+AFS-640 has instructed all DPEs to take DPE-specific training on the ACS. That training requires a login ID 
+and password for registration. The link below goes to the self-paced briefing:  https://av-
+info.faa.gov/DsgReg/sections.aspx?SectionID=4386 
+Going forward, AFS-640 is incorporating ACS material into DPE standardization training.  
+In addition, industry members of the ACS project team drafted guidance for both FAA inspectors and 
+external evaluators to provide clarity on the ‘plan of action’ and use of scenarios. See 
+http://www.faa.gov/training_testing/testing/acs/media/acs_tips.pdf for details. [back] 
+I have a part 141 school. How do I use the ACS? 
+You will use the ACS just as you use the PTS today, only the ACS provides a great deal more information. 
+The ACS will guide you in teaching and training an applicant not only on everything he or she must know, 
+consider, and do to pass the knowledge test and the practical test, but – more importantly – how to 
+operate safely in the NAS.  
+The FAA has published the final versions of the ACS for Private Pilot Airplane, Instrument Rating Airplane, 
+and the Commercial Pilot Airplane on the FAA website’s Airman Testing web page.  Flight schools can 
+use these documents to make any updates to their Training Course Outline (TCO) documents. A part 141 
+pilot school should work with its POI on any TCO changes needed to align with the ACS. The POI can 
+contact the ACS Focus Team (9-AVS-ACS-Focus-Team@faa.gov for assistance if needed. [back]

@@ -1,0 +1,53 @@
+DOCUMENT_TITLE: AD_Final_Rule_Search_Guide_for_DRS
+SOURCE_FILE: AD_Final_Rule_Search_Guide_for_DRS.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AD_Final_Rule_Search_Guide_for_DRS.pdf>>>
+========================================
+
+1 
+ 
+AD Final Rule Search Guide for DRS 
+Updated 7/22/2022 
+ 
+Users may subscribe to receive notifications about published AD Rules by navigating to 
+https://service.govdelivery.com/accounts/USFAARGL/subscriber/new and selecting any applicable 
+categories. If you are already subscribed, no action is needed. The DRS transition will not alter these 
+notifications.   
+https://drs.faa.gov/browse 
+1. On the left Browse menu, click "Regulations > Airworthiness Directives (ADs) > AD Rules” 
+- OR search "AD Rules" in the search box under "Browse" 
+ 
+2. Click on the “AD Rules” title (shown above) to reveal the AD Rules Filter screen 
+ 
+- You can sort the list by publish date by clicking the "Sort By" drop down below the Filter 
+section and selecting "Citation Publish Date” (shown below)
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:AD_Final_Rule_Search_Guide_for_DRS.pdf>>>
+========================================
+
+2 
+ 
+ 
+3. To find all AD Rules applicable to a specific model: 
+When searching for all ADs applicable to a specific aircraft/engine/propeller, it is recommended to 
+search using ONLY the Model field. Over time, models can be transferred to different Type Certificate 
+Holders (manufacturers). Adding a manufacturer name to the Make field could limit the returned list of 
+ADs. 
+- Click the "Model" drop down, use search field to type in the applicable model, and check the 
+box or boxes (e.g. 737-700 Series) 
+- Click “Apply” 
+ 
+- You can search Historical ADs by selecting the “Status” drop down and checking the box for 
+“Historical” 
+- You can sort the list by clicking the "Sort By" drop down list and selecting “AD Number", 
+“Effective Date”, or by “Citation Publish Date” 
+- You can download the data from the list as an Excel file by clicking “Save Results List” 
+4. Click on an individual AD Number to view the AD document and details 
+5. For further help, please visit the Help & Training section of DRS here: https://drs.faa.gov/help

@@ -1,0 +1,54 @@
+DOCUMENT_TITLE: EAD_Search_Guide_for_DRS
+SOURCE_FILE: EAD_Search_Guide_for_DRS.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:EAD_Search_Guide_for_DRS.pdf>>>
+========================================
+
+1 
+ 
+Emergency AD (EAD) Search Guide for DRS 
+Updated 7/18/2022 
+ 
+Users may subscribe to receive notifications about published EADs by navigating to 
+https://service.govdelivery.com/accounts/USFAARGL/subscriber/new and selecting any applicable 
+categories. If you are already subscribed, no action is needed. The DRS transition will not alter these 
+notifications.   
+Other notifications and distributions of Emergency ADs will also remain unaffected. 
+https://drs.faa.gov/browse 
+1. On the left Browse menu, click "Regulations > Airworthiness Directives (ADs) > Emergency ADs 
+(EAD)” 
+- OR search "EAD" in the search box under "Browse" 
+ 
+2. Click on the “Emergency ADs” title (shown above) to reveal the Emergency ADs Filter screen 
+ 
+- You can sort the list by clicking the "Sort By" drop down below the Filter section and 
+selecting “Document Issue Date” (shown below)
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:EAD_Search_Guide_for_DRS.pdf>>>
+========================================
+
+2 
+ 
+ 
+3. To find all EADs applicable to a specific model: 
+When searching for all EADs applicable to a specific aircraft/engine/propeller, it is recommended to 
+search using ONLY the Model field. Over time, models can be transferred to different Type Certificate 
+Holders (manufacturers). Adding a manufacturer name to the Make field could limit the returned list of 
+EADs.  
+- Click the "Model" drop down, use search field to type in the applicable model, and check the 
+corresponding box or boxes (e.g. 737-200 Series) 
+- Click “Apply” 
+ 
+- You can sort the list by clicking the "Sort By" drop down below the Filter section and 
+selecting "AD Number” or “Document Issue Date” 
+- You can download the data from the list as an Excel file by clicking “Save Results List” (next 
+to the “Sort By” filter) 
+4. Click on an individual EAD Number to view the EAD document and details   
+5. For further help, please visit the Help & Training section of DRS here: https://drs.faa.gov/help

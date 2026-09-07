@@ -1,0 +1,44 @@
+DOCUMENT_TITLE: acs_knowledge_test_table
+SOURCE_FILE: acs_knowledge_test_table.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:acs_knowledge_test_table.pdf>>>
+========================================
+
+Updated: October 2024 
+ 
+ACS Knowledge Test Table: Correct Allotted Times 
+ 
+Allotted times are incorrect, in the corresponding ACS, for the knowledge tests listed below. Correct allotted 
+times are shown in this table and in the FAA Airman Knowledge Testing Matrix. 
+ 
+ACS Knowledge Test Tables, in all other ACSs, are accurate as published. 
+ 
+Test 
+Code 
+ 
+Test Name 
+Number 
+of 
+Questions 
+ 
+Age 
+CORRECT 
+Allotted Time 
+Allotted Time 
+Eﬀective Date 
+Passing 
+Score 
+ATM Airline Transport Pilot Multiengine Airplane 125 18 3.5 7/31/23 70 
+ATS Airline Transport Pilot Single Engine Airplane (135) 90 21 2.5 7/31/23 70 
+CAX Commercial Pilot Airplane 100 16 2.5 4/24/23 70 
+CRH Commercial Pilot Helicopter 100 16 2.5 1/27/25 70 
+IRA Instrument Rating Airplane 60 15 2.0 7/31/23 70 
+IRH Instrument Rating Helicopter 60 15 2.0 1/27/25 70 
+PAR Private Pilot Airplane 60 15 2.0 4/24/23 70 
+PRH Private Pilot Helicopter 60 15 2.0 1/27/25 70 
+ 
+For additional information, refer to the FAA Airman Knowledge Testing Matrix.

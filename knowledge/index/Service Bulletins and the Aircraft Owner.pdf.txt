@@ -1,0 +1,139 @@
+DOCUMENT_TITLE: Service Bulletins and the Aircraft Owner
+SOURCE_FILE: Service Bulletins and the Aircraft Owner.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Service Bulletins and the Aircraft Owner.pdf>>>
+========================================
+
+www.FAASafety.gov                                     Download All Fact Sheets at bit.ly/GAFactSheets  
+Service Bulletins and the Aircraft Owner 
+Manufacturers issue aircraft Service Bulletins to inform owners and operators about critical and 
+useful information on aircraft safety, maintenance, or product improvement. Compliance with 
+Service Bulletins may or may not be mandatory, but you should never ignore them when it comes 
+to safety.  
+Are Service Bulletins Mandatory? 
+ The short answer is — it depends. If you are 
+operating your aircraft under 14 CFR part 91, a 
+service bulletin is advisory, and compliance is not 
+mandatory unless it is included in an Airworthiness 
+Directive. Keep in mind that even when a service 
+bulletin is not mandatory, you should always pay 
+attention to it as a means to ensure your safety. 
+Let’s unpack this further. 
+Are Service Bulletins the Same as 
+Airworthiness Directives? 
+ No. The FAA issues Airworthiness Directives 
+(ADs) and aircraft manufacturers issue Service 
+Bulletins (SBs). ADs are legally enforceable 
+regulations, in accordance with 14 CFR part 39, to 
+correct an unsafe condition that exists in a 
+product. Compliance with an AD is mandatory for 
+continued airworthiness.  
+ Manufacturers issue aircraft Service Bulletins in 
+response to identified maintenance and 
+manufacturing defect issues to give owners and 
+operators critical and useful information about 
+aircraft safety, maintenance, or product 
+improvement. Compliance may or may not be 
+required depending on the type of operation and 
+whether or not it is included in an AD. 
+If Service Bulletins are not Mandatory, Can I 
+Ignore Them? 
+ No. Manufacturers issue SBs to call attention to 
+improvements you should make to enhance your 
+safety. It is also just good sense to heed the advice of 
+the aircraft manufacturer who is providing important 
+information about your aircraft. 
+Service Bulletins: 
+1) Inform you about the manufacturer’s 
+recommended inspection and maintenance 
+items for your aircraft.  
+2) Help you detect trends and spot weaknesses. 
+3) Advise you about items that may be wearing 
+faster than anticipated or items that you or your 
+mechanic might overlook.   
+ When a SB displays the words “Mandatory,” 
+“Alert,” or “Emergency” in big red letters, it is 
+emphasizing a significant safety concern, and 
+manufacturers may ask the FAA to issue a specific AD 
+AFS-850 20-04 
+Continued on Next Page
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:Service Bulletins and the Aircraft Owner.pdf>>>
+========================================
+
+to address the unsafe 
+condition. These 
+mandatory SBs can 
+also get included in 
+an AD as an 
+additional source of 
+information about 
+the unsafe condition. 
+If a SB is included in 
+an AD, then 
+compliance with that 
+SB is mandatory for 
+continued 
+airworthiness.   
+ However, do not ignore “recommended” or 
+“optional” SBs. Take note and ask your mechanic to 
+check these items during inspection.  
+Service Bulletins call attention to improvements you 
+should make to enhance your safety.  
+Do not ignore them. 
+ Make it a best practice to read, or ask your 
+mechanic to review, any SB that the manufacturer 
+issues for your aircraft. If cost is a concern, discuss 
+this with your mechanic to determine the best course 
+of action. The SB may only be reporting a product 
+improvement that does 
+not affect airworthiness 
+or your safety. 
+Here’s What Can 
+Happen If You Ignore 
+a Service Bulletin 
+ On July 7, 2017, a 
+Cessna T337 with faulty 
+fuel gauges crashed in a wooded area after running 
+out of fuel. Textron Aviation published a mandatory 
+SB that required inspection of the fuel quantity 
+indicating system to verify that each fuel gauge 
+showed the precise fuel amount. It also required an 
+initial inspection within 100 hours of operation and 
+www.FAASafety.gov                                     Download All Fact Sheets at bit.ly/GAFactSheets  
+subsequent recurring inspections every 12 months. 
+Examination of the airplane’s maintenance logbooks 
+revealed no evidence of compliance with the 
+mandatory SB. The aircraft was a total loss. 
+Fortunately, the pilot and passenger survived with 
+minor injuries, but it could have been much worse. 
+They learned an expensive lesson about the 
+importance of SBs.  
+Where Can I Find Service Bulletins For My 
+Aircraft? 
+ SBs are available online, and they are free. Take a 
+look at any engine or airframe manufacturer’s 
+website and you’ll find up to date information on the 
+safety issues identified from accident reports, service 
+difficulty reports, and any other data used for safety 
+analysis and product improvement.  
+ You can also find information, guidance, 
+recommendations, and airworthiness concerns for 
+your aircraft free of charge in the FAA’s Special 
+Airworthiness Information Bulletin (SAIB) database at 
+bit.ly/SAIBdatabase. It is searchable by SAIB number 
+or by aircraft make and model. Subscribe and get the 
+latest ADs and SAIBs delivered straight to your inbox. 
+ 
+ Service Bulletins are a great way to stay informed 
+about product improvements and safety issues that 
+affect your aircraft. Take an active role in 
+maintenance by reviewing inspection results and 
+discussing ADs and SBs with your mechanic.

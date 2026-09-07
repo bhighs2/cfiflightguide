@@ -1,0 +1,32 @@
+DOCUMENT_TITLE: AD_Biweekly_Search_Guide_for_DRS
+SOURCE_FILE: AD_Biweekly_Search_Guide_for_DRS.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AD_Biweekly_Search_Guide_for_DRS.pdf>>>
+========================================
+
+1 
+ 
+AD Biweekly Search Guide for DRS 
+Updated 7/18/2022 
+ 
+https://drs.faa.gov/browse 
+1. On the left Browse menu, click "Regulation Related Documents and Reports > Airworthiness 
+Directives Biweekly (AD Biweekly) " 
+- OR search "AD Biweekly" in the search box under "Browse" 
+ 
+2. Click on the “AD Biweekly” title in the Browse menu (shown above) to reveal the AD Biweekly 
+menu 
+ 
+- Click the two tabs at the top to switch between the “Large Aircraft” and “Small Aircraft” 
+reports (shown above) 
+- Click each year box to show all Biweekly reports produced in that year (shown above) 
+- Click the Sort icon by the “Title” to organize the reports (shown above) 
+3.  Click on the title of a Biweekly report to view the document 
+4. We provide a downloadable PDF of the Biweekly report, an Excel file with the metadata for the 
+report, and a link to the PDF document (shown below) 
+ 
+5. For further help, please visit the Help & Training section of DRS here: https://drs.faa.gov/help
