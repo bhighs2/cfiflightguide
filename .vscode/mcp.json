@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "flight-guide": {
+      "type": "stdio",
+      "command": "${workspaceFolder}\\.venv-mcp\\python.exe",
+      "args": [
+        "${workspaceFolder}\\mcp\\server.py"
+      ],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}
