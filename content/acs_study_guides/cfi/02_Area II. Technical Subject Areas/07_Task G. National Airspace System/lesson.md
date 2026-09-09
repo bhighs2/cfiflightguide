@@ -122,9 +122,9 @@ TFRs are not on the printed sectional because they are temporary. Check NOTAMs b
 
 # Teach
 
-Teach the airspace system as a set of decisions a pilot makes before and during flight: What class of airspace is this? What are the entry, communication, and equipment requirements? What are the VFR weather minimums? Is the airspace active or restricted right now? The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the system once, in the order an instructor would present it.
+Teach the airspace system element by element, in the ACS order: the airspace classes and their requirements, the chart symbols, the special use and other airspace, the currency of publications, and special VFR. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each Knowledge element once, in order.
 
-## AI.II.G.K1 — What Airspace Is
+## AI.II.G.K1 — Airspace Classes and Associated Requirements and Limitations
 
 Airspace is a logical way of dividing the sky around airports, common air-traffic routes, and other facilities to protect and organize the flow of traffic. The **National Airspace System** is the network of airspace, navigation facilities, and airports that lets pilots move from airport to airport while avoiding conflicts, delays, and collision risk.
 
@@ -138,7 +138,7 @@ Floors and ceilings are stated in either **MSL** (feet above mean sea level) or 
 
 Each class of airspace imposes different **pilot-certification, communication, clearance, speed, and equipment requirements**, and most impose different **VFR weather minimums** to separate IFR from VFR traffic efficiently.
 
-## AI.II.G.K1 — Regulatory vs. Non-Regulatory Airspace
+### Regulatory vs. Non-Regulatory Airspace
 
 Airspace is divided into **regulatory** and **non-regulatory** airspace.
 
@@ -147,7 +147,7 @@ Airspace is divided into **regulatory** and **non-regulatory** airspace.
 
 **Controlled airspace** is the generic term for the classifications of airspace and defined dimensions within which ATC service is provided in accordance with the airspace classification — **Class A, B, C, D, and E.** **Uncontrolled airspace** is **Class G** — the portion not designated as A, B, C, D, or E. ATC has no authority or responsibility to control traffic in Class G, but VFR weather minimums still apply.
 
-## AI.II.G.K1 — The Airspace Classes
+### The Airspace Classes
 
 Teach each class with its controlling regulation, its requirements, and how it appears on the chart.
 
@@ -208,7 +208,7 @@ Flight Guide Instructor Principle |
 Teach the classes in the order a pilot meets them on the way up: G at the surface, then E, then D or C at a towered or radar airport, B at the busiest, and A on top. Each step adds a requirement — communication, then a clearance, then an instrument rating.
 ]]
 
-## AI.II.G.S1 — Basic VFR Weather Minimums — § 91.155
+### Basic VFR Weather Minimums — § 91.155
 
 No pilot may operate under basic VFR with flight visibility less than, or at a distance from clouds less than, that prescribed for the corresponding altitude and class of airspace. The minimums get more restrictive as the airspace gets more controlled, to keep VFR aircraft separated from IFR traffic.
 
@@ -227,115 +227,7 @@ Teach the learner to read the table by class and altitude, not to memorize it as
 
 **Instructor application:** give the learner a class of airspace and an altitude and have them state the visibility and cloud-clearance minimum without the chart, then confirm against § 91.155.
 
-## AI.II.G.K5 — Special VFR Requirements — § 91.157
-
-**Special VFR (SVFR)** allows a pilot to operate in controlled airspace with **1 statute mile visibility and clear of clouds**, lower than the basic VFR minimums.
-
-- SVFR requires an **ATC clearance**.
-- It is available only in **controlled airspace to the surface designated for an airport** — the inner ring of a Class B or C, or a Class D or E surface area.
-- At night, the pilot must be instrument-rated and the aircraft IFR-equipped.
-
-Emphasize the distinction: SVFR is a clearance a pilot requests to get into or out of a surface area when the weather is below basic VFR but at least 1 mile and clear of clouds. It is not a casual way around the weather minimums.
-
-[[highlight:
-Flight Guide Instructor Principle |
-Have the learner say the SVFR conditions out loud as a checklist: clearance from ATC, 1 statute mile, clear of clouds, controlled airspace to the surface, and — at night — an instrument rating and IFR equipment. Miss any one and it is not legal.
-]]
-
-## AI.II.G.K3 — Special Use Airspace
-
-**Special use airspace (SUA)** — sometimes called special area of operation — is airspace in which certain activities must be confined or where limitations may be imposed on aircraft that are not part of those activities. SUA is charted with the area name or number, the effective altitude, the time and weather conditions of operation, the controlling agency, and the chart panel location. Teach the six types and the rule for each.
-
-### Prohibited Areas — § 91.133
-
-Airspace of defined dimensions within which flight is **prohibited**, established for security or other reasons associated with the national welfare (for example, Camp David, P-40, and the National Mall). Charted as a **"P" followed by a number**. **Always closed** — no entry.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_Prohibited.png" alt="Prohibited area depiction on a sectional chart" loading="lazy">
-    <figcaption>Prohibited area — blue hatched border, named P-####. Always closed.</figcaption>
-</figure>
-
-### Restricted Areas — § 91.133
-
-Airspace within which flight, while not wholly prohibited, is **subject to restrictions** because of unusual, often invisible hazards — artillery firing, aerial gunnery, guided missiles. Charted as an **"R" followed by a number** (for example, R-4401). Restricted airspace is **sometimes closed** — it may be scheduled or the times specified by NOTAM. The pilot must contact ATC or the controlling agency to determine the status before entry. Penetration without authorization may be extremely hazardous.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_Restricted.png" alt="Restricted area depiction on a sectional chart" loading="lazy">
-    <figcaption>Restricted area — blue hatched border, named R-####. Sometimes closed; confirm status before entry.</figcaption>
-</figure>
-
-### Warning Areas
-
-Similar in nature to restricted areas, but the United States does not have sole jurisdiction over the airspace. A warning area extends from **3 NM outward from the coast** over domestic or international waters and warns nonparticipating pilots of potentially hazardous activity. Designated with a **"W" followed by a number** (for example, W-237).
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_Warning.png" alt="Warning area depiction on a sectional chart" loading="lazy">
-    <figcaption>Warning area — over water from 3 NM offshore; warns of hazardous activity.</figcaption>
-</figure>
-
-### Military Operations Areas (MOAs)
-
-Airspace with defined vertical and lateral limits established to separate military training from IFR traffic. **Entry is allowed without permission**, but the MOA should be avoided when active. The pilot should contact the controlling agency to determine status and exercise extreme caution. MOAs are depicted with a **magenta hatched border**, are usually named rather than numbered (for example, Camden Ridge MOA), and are further defined on the back of the sectional with times, altitudes, and the controlling agency.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_MOA.png" alt="Military operations area depiction on a sectional chart" loading="lazy">
-    <figcaption>MOA — magenta hatched border, usually named. Entry allowed, but avoid when active.</figcaption>
-</figure>
-
-### Alert Areas
-
-Areas that may contain a **high volume of pilot training or an unusual type of aerial activity**, depicted with an **"A" followed by a number** (for example, A-211). Pilots should exercise caution; all activity is conducted in accordance with regulations, and participating and transiting pilots are equally responsible for collision avoidance. Entry is allowed without permission, but avoid when the status is unknown and exercise extreme caution.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_Alert.png" alt="Alert area depiction on a sectional chart" loading="lazy">
-    <figcaption>Alert area — magenta hatched border, named A-###. High training volume; collision avoidance is shared.</figcaption>
-</figure>
-
-### Controlled Firing Areas (CFAs)
-
-Areas containing activities that, if not conducted in a controlled environment, could be hazardous to nonparticipating aircraft. The difference from other SUA is that the **activity must be suspended** when a spotter aircraft, radar, or ground lookout indicates an aircraft might be approaching. CFAs are **not charted**, because they do not cause a nonparticipating aircraft to change its flight path.
-
-## AI.II.G.K3 — Other Airspace Areas
-
-"Other airspace areas" covers the majority of the remaining airspace. Teach each and how the pilot learns its status.
-
-- **Local Airport Advisory (LAA):** an advisory service provided by FSS facilities located on the landing airport, on a discrete ground-to-air frequency or the tower frequency when the tower is closed.
-- **Military Training Routes (MTRs):** routes used by military aircraft for tactical flying, usually below 10,000 feet MSL at speeds above 250 knots. IFR routes (IR) and VFR routes (VR), four numbers when no segment is above 1,500 feet AGL, three numbers when a segment is above 1,500 feet AGL.
-- **Parachute jump aircraft operations:** published in the Chart Supplement; frequently used sites are depicted on the sectional.
-- **Published VFR routes:** VFR flyways, VFR corridors, Class B VFR transition routes, and terminal area VFR routes for transitioning around, under, or through complex airspace; found on VFR terminal area planning charts.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_VFR_Flyway.png" alt="VFR flyway depiction on a sectional chart" loading="lazy">
-    <figcaption>VFR flyway — a published route for transitioning complex airspace.</figcaption>
-</figure>
-
-- **Terminal Radar Service Areas (TRSAs):** areas where participating pilots receive additional radar service for separation between IFR operations and participating VFR aircraft; participation is voluntary.
-- **National Security Areas (NSAs):** airspace of defined dimensions at locations requiring increased security; flight may be temporarily prohibited under 14 CFR part 99 via NOTAM, and pilots are requested to voluntarily avoid these depicted areas.
-- **Air Defense Identification Zones (ADIZ):** land- and water-based zones requiring a Defense VFR (DVFR) flight plan to operate VFR; intercept procedures and 121.5 apply.
-- **Special Flight Rules Areas (SFRA) and special air traffic rules (SATR):** airspace with its own operating rules under 14 CFR part 93 — for example, the Washington, DC SFRA/FRZ, which requires special awareness training under 14 CFR § 91.161 to operate VFR within 60 NM of the Washington, DC VOR/DME.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_SFRA.png" alt="Special flight rules area depiction on a sectional chart" loading="lazy">
-    <figcaption>SFRA — airspace with its own part 93 operating rules and special training requirements.</figcaption>
-</figure>
-
-- **Wildlife, wilderness, and national park areas and NOAA marine areas:** pilots are requested to operate above 2,000 feet AGL.
-- **Tethered balloons:** observation and weather balloons on cables that can extend up to 60,000 feet.
-
-## AI.II.G.K3 — Temporary Flight Restrictions
-
-A **TFR** is designated by a **Flight Data Center (FDC) NOTAM** that begins with "FLIGHT RESTRICTIONS," followed by the location, effective period, area in statute miles, altitudes affected, the coordinating facility, and the reason. It is the pilot's responsibility to check NOTAMs before flight — TFRs are temporary and are **not on the printed sectional**, though they are often shown on an EFB. Check before every flight at www.tfr.faa.gov or through a briefing (1-800-WX-BRIEF).
-
-The purposes for a TFR, and their controlling regulations:
-
-- **Disaster/hazard areas — § 91.137, and § 91.138 for declared national disasters in Hawaii:** protect persons and property and provide a safe environment for disaster-relief aircraft.
-- **Presidential TFR — § 91.141:** protect the President, Vice President, and other public figures.
-- **Space flight operations — § 91.143:** provide a safe environment for space-agency operations.
-- **Sporting events and airshows — § 91.145:** prevent unsafe congestion of sightseeing aircraft above a major event.
-
-TFR incursions have resulted in security investigations and certificate suspensions. Teach the learner to brief the TFR status, not just the route.
-
-## AI.II.G.K2 — Reading the Chart Symbols
+## AI.II.G.K2 — Chart Symbols
 
 Airspace floors and ceilings are depicted on the sectional in various ways. Have the learner read each from the chart itself.
 
@@ -389,7 +281,98 @@ Airspace floors and ceilings are depicted on the sectional in various ways. Have
 - **Alert area:** magenta hatched border, named A-###, usually with a caution note.
 - **TFRs:** not depicted on the sectional because they are temporary, but often visible on an EFB.
 
-**Instructor application — AI.II.G.S2 and S3:** have the learner point to each airspace on the local sectional, identify the class or SUA type, and state the communication, equipment, weather, and entry requirements and how to determine whether it is active. Then have them do the same for a TFR using a current NOTAM.
+## AI.II.G.K3 — Special Use Airspace (SUA), SFRA, TFR, and Other Airspace Areas
+
+**Special use airspace (SUA)** — sometimes called special area of operation — is airspace in which certain activities must be confined or where limitations may be imposed on aircraft that are not part of those activities. SUA is charted with the area name or number, the effective altitude, the time and weather conditions of operation, the controlling agency, and the chart panel location. Teach the six types and the rule for each.
+
+### Prohibited Areas — § 91.133
+
+Airspace of defined dimensions within which flight is **prohibited**, established for security or other reasons associated with the national welfare (for example, Camp David, P-40, and the National Mall). Charted as a **"P" followed by a number**. **Always closed** — no entry.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_Prohibited.png" alt="Prohibited area depiction on a sectional chart" loading="lazy">
+    <figcaption>Prohibited area — blue hatched border, named P-####. Always closed.</figcaption>
+</figure>
+
+### Restricted Areas — § 91.133
+
+Airspace within which flight, while not wholly prohibited, is **subject to restrictions** because of unusual, often invisible hazards — artillery firing, aerial gunnery, guided missiles. Charted as an **"R" followed by a number** (for example, R-4401). Restricted airspace is **sometimes closed** — it may be scheduled or the times specified by NOTAM. The pilot must contact ATC or the controlling agency to determine the status before entry. Penetration without authorization may be extremely hazardous.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_Restricted.png" alt="Restricted area depiction on a sectional chart" loading="lazy">
+    <figcaption>Restricted area — blue hatched border, named R-####. Sometimes closed; confirm status before entry.</figcaption>
+</figure>
+
+### Warning Areas
+
+Similar in nature to restricted areas, but the United States does not have sole jurisdiction over the airspace. A warning area extends from **3 NM outward from the coast** over domestic or international waters and warns nonparticipating pilots of potentially hazardous activity. Designated with a **"W" followed by a number** (for example, W-237).
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_Warning.png" alt="Warning area depiction on a sectional chart" loading="lazy">
+    <figcaption>Warning area — over water from 3 NM offshore; warns of hazardous activity.</figcaption>
+</figure>
+
+### Military Operations Areas (MOAs)
+
+Airspace with defined vertical and lateral limits established to separate military training from IFR traffic. **Entry is allowed without permission**, but the MOA should be avoided when active. The pilot should contact the controlling agency to determine status and exercise extreme caution. MOAs are depicted with a **magenta hatched border**, are usually named rather than numbered (for example, Camden Ridge MOA), and are further defined on the back of the sectional with times, altitudes, and the controlling agency.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_MOA.png" alt="Military operations area depiction on a sectional chart" loading="lazy">
+    <figcaption>MOA — magenta hatched border, usually named. Entry allowed, but avoid when active.</figcaption>
+</figure>
+
+### Alert Areas
+
+Areas that may contain a **high volume of pilot training or an unusual type of aerial activity**, depicted with an **"A" followed by a number** (for example, A-211). Pilots should exercise caution; all activity is conducted in accordance with regulations, and participating and transiting pilots are equally responsible for collision avoidance. Entry is allowed without permission, but avoid when the status is unknown and exercise extreme caution.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_Alert.png" alt="Alert area depiction on a sectional chart" loading="lazy">
+    <figcaption>Alert area — magenta hatched border, named A-###. High training volume; collision avoidance is shared.</figcaption>
+</figure>
+
+### Controlled Firing Areas (CFAs)
+
+Areas containing activities that, if not conducted in a controlled environment, could be hazardous to nonparticipating aircraft. The difference from other SUA is that the **activity must be suspended** when a spotter aircraft, radar, or ground lookout indicates an aircraft might be approaching. CFAs are **not charted**, because they do not cause a nonparticipating aircraft to change its flight path.
+
+### Other Airspace Areas
+
+"Other airspace areas" covers the majority of the remaining airspace. Teach each and how the pilot learns its status.
+
+- **Local Airport Advisory (LAA):** an advisory service provided by FSS facilities located on the landing airport, on a discrete ground-to-air frequency or the tower frequency when the tower is closed.
+- **Military Training Routes (MTRs):** routes used by military aircraft for tactical flying, usually below 10,000 feet MSL at speeds above 250 knots. IFR routes (IR) and VFR routes (VR), four numbers when no segment is above 1,500 feet AGL, three numbers when a segment is above 1,500 feet AGL.
+- **Parachute jump aircraft operations:** published in the Chart Supplement; frequently used sites are depicted on the sectional.
+- **Published VFR routes:** VFR flyways, VFR corridors, Class B VFR transition routes, and terminal area VFR routes for transitioning around, under, or through complex airspace; found on VFR terminal area planning charts.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_VFR_Flyway.png" alt="VFR flyway depiction on a sectional chart" loading="lazy">
+    <figcaption>VFR flyway — a published route for transitioning complex airspace.</figcaption>
+</figure>
+
+- **Terminal Radar Service Areas (TRSAs):** areas where participating pilots receive additional radar service for separation between IFR operations and participating VFR aircraft; participation is voluntary.
+- **National Security Areas (NSAs):** airspace of defined dimensions at locations requiring increased security; flight may be temporarily prohibited under 14 CFR part 99 via NOTAM, and pilots are requested to voluntarily avoid these depicted areas.
+- **Air Defense Identification Zones (ADIZ):** land- and water-based zones requiring a Defense VFR (DVFR) flight plan to operate VFR; intercept procedures and 121.5 apply.
+- **Special Flight Rules Areas (SFRA) and special air traffic rules (SATR):** airspace with its own operating rules under 14 CFR part 93 — for example, the Washington, DC SFRA/FRZ, which requires special awareness training under 14 CFR § 91.161 to operate VFR within 60 NM of the Washington, DC VOR/DME.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_SFRA.png" alt="Special flight rules area depiction on a sectional chart" loading="lazy">
+    <figcaption>SFRA — airspace with its own part 93 operating rules and special training requirements.</figcaption>
+</figure>
+
+- **Wildlife, wilderness, and national park areas and NOAA marine areas:** pilots are requested to operate above 2,000 feet AGL.
+- **Tethered balloons:** observation and weather balloons on cables that can extend up to 60,000 feet.
+
+### Temporary Flight Restrictions
+
+A **TFR** is designated by a **Flight Data Center (FDC) NOTAM** that begins with "FLIGHT RESTRICTIONS," followed by the location, effective period, area in statute miles, altitudes affected, the coordinating facility, and the reason. It is the pilot's responsibility to check NOTAMs before flight — TFRs are temporary and are **not on the printed sectional**, though they are often shown on an EFB. Check before every flight at www.tfr.faa.gov or through a briefing (1-800-WX-BRIEF).
+
+The purposes for a TFR, and their controlling regulations:
+
+- **Disaster/hazard areas — § 91.137, and § 91.138 for declared national disasters in Hawaii:** protect persons and property and provide a safe environment for disaster-relief aircraft.
+- **Presidential TFR — § 91.141:** protect the President, Vice President, and other public figures.
+- **Space flight operations — § 91.143:** provide a safe environment for space-agency operations.
+- **Sporting events and airshows — § 91.145:** prevent unsafe congestion of sightseeing aircraft above a major event.
+
+TFR incursions have resulted in security investigations and certificate suspensions. Teach the learner to brief the TFR status, not just the route.
 
 ## AI.II.G.K4 — Currency of Publications
 
@@ -401,7 +384,24 @@ Aeronautical charts and publications are updated on fixed cycles, and flying wit
 
 Always verify the chart and Chart Supplement are current before flight, and check NOTAMs for the changes — especially TFRs — that fall between publication cycles.
 
-## AI.II.G.R1 — Risk Management: The Classes and Types of Airspace
+## AI.II.G.K5 — Special VFR (SVFR) Requirements — § 91.157
+
+**Special VFR (SVFR)** allows a pilot to operate in controlled airspace with **1 statute mile visibility and clear of clouds**, lower than the basic VFR minimums.
+
+- SVFR requires an **ATC clearance**.
+- It is available only in **controlled airspace to the surface designated for an airport** — the inner ring of a Class B or C, or a Class D or E surface area.
+- At night, the pilot must be instrument-rated and the aircraft IFR-equipped.
+
+Emphasize the distinction: SVFR is a clearance a pilot requests to get into or out of a surface area when the weather is below basic VFR but at least 1 mile and clear of clouds. It is not a casual way around the weather minimums.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Have the learner say the SVFR conditions out loud as a checklist: clearance from ATC, 1 statute mile, clear of clouds, controlled airspace to the surface, and — at night — an instrument rating and IFR equipment. Miss any one and it is not legal.
+]]
+
+## Risk Management
+
+### AI.II.G.R1 — Various Classes and Types of Airspace
 
 The airspace risk is entering airspace the pilot is not equipped, certificated, or cleared to enter — or flying into active SUA or a TFR. Teach the risk as a recognize–assess–mitigate–verify sequence.
 
@@ -428,6 +428,14 @@ The airspace risk is entering airspace the pilot is not equipped, certificated, 
 - **Treating a MOA or restricted area as always open:** contact the controlling agency for the status before entry; a MOA is allowed but best avoided when active, and a restricted area is hazardous when active.
 - **Skipping the NOTAM/TFR check:** TFRs are temporary and not on the printed sectional — get a briefing before every flight.
 - **Flying on an expired chart:** confirm the 28/56-day currency before relying on the depiction.
+
+## Skills — Teaching the Task
+
+The ACS skill elements require the applicant to **identify airspace, operate within its requirements, and meet the VFR weather minimums**:
+
+- **AI.II.G.S1 — VFR weather minimums and airspace:** have the learner state the visibility and cloud-clearance minimums for a given class and altitude, then confirm against § 91.155.
+- **AI.II.G.S2 — Identify airspace and operate per its requirements:** have the learner point to each airspace on the local sectional, identify the class or SUA type, and state the communication and equipment requirements for operating in it.
+- **AI.II.G.S3 — SUA, TFR, SATR, and SFRA:** have the learner identify the requirements for operating in SUA or within a TFR and, where applicable, comply with special air traffic rules and SFRA operations — including determining status from a current NOTAM.
 
 # Review
 

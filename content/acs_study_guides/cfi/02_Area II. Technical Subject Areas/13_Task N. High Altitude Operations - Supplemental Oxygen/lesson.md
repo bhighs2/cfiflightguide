@@ -106,40 +106,9 @@ The first sign of hypoxia can be a carefree, euphoric feeling — the pilot feel
 
 # Teach
 
-Teach high-altitude operations as a physiology-first subject: the air at altitude cannot feed the brain, the symptoms deceive the pilot, and the regulations and the oxygen equipment are the defense. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would present it.
+Teach high-altitude operations as a physiology-first subject: the air at altitude cannot feed the brain, the symptoms deceive the pilot, and the regulations and the oxygen equipment are the defense. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 
-## AI.II.N.K2 — The Physiological Hazards: Hypoxia and Hyperventilation
-
-**Hypoxia** is "not enough oxygen." The greatest concern in flight is lack of oxygen to the **brain**, which is particularly vulnerable — any reduction in mental function can cause life-threatening errors. Hypoxia results from an insufficient supply of oxygen, inadequate transport of oxygen, or the inability of the tissues to use it. There are **four types**, by cause:
-
-- **Hypoxic hypoxia** — insufficient oxygen available to the body as a whole. The pilot's case: although the **percentage** of oxygen stays constant, its **partial pressure** falls as atmospheric pressure falls with altitude, so fewer molecules pass into the blood. This is the altitude hypoxia.
-- **Hypemic hypoxia** — the blood cannot carry enough oxygen. Caused by reduced blood volume, anemia, blood donation, or — most commonly — **carbon monoxide poisoning**, where CO binds the hemoglobin so oxygen cannot.
-- **Stagnant hypoxia** — oxygen-rich blood is not moving to the tissues. Caused by shock, a failing heart, a constricted artery, **excessive G forces**, or cold reducing circulation.
-- **Histotoxic hypoxia** — the cells cannot use the oxygen delivered. Caused by **alcohol and drugs**. One ounce of alcohol can equate to roughly **2,000 feet of added physiological altitude**.
-
-### Symptoms of hypoxia (K2b)
-
-Hypoxia is insidious because the **first symptom can be euphoria** — a carefree, false sense of security while judgment fails. Symptoms vary by individual but include **cyanosis (blue fingernails and lips), headache, decreased response to stimuli and increased reaction time, impaired judgment, visual impairment, drowsiness, lightheaded/dizzy sensation, tingling in fingers and toes, and numbness**. As it worsens, the **field of vision narrows** and instruments become hard to read. Because the pilot can be deceived into believing all is normal, recognition is best learned through an **altitude-chamber** physiological training course (offered by the FAA at CAMI and at military facilities).
-
-### Hyperventilation
-
-**Hyperventilation** is an excessive rate and depth of breathing that abnormally lowers blood carbon dioxide. It often occurs in stress or at altitude and produces symptoms **similar to hypoxia** — visual impairment, lightheadedness, tingling, hot/cold sensations, muscle spasms, and possible unconsciousness. **Diagnose correctly:** if on supplemental oxygen, first check the equipment and flow rate to rule out hypoxia. The treatment is to **restore CO₂ by slowing the breathing** — breathing normally is both prevention and cure.
-
-### Time of useful consciousness (K2c)
-
-**Time of useful consciousness (TUC)** is the maximum time a pilot has to make and carry out rational, life-saving decisions at a given altitude **without supplemental oxygen**. It shrinks rapidly with altitude: roughly **30 minutes or more at 20,000 feet**, **3–5 minutes at 25,000**, **1–2 minutes at 30,000**, **30–60 seconds at 35,000**, **15–20 seconds at 40,000**, and only **9–15 seconds at 45,000 feet**.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Time_Useful_Consciousness.png" alt="Time of useful consciousness by altitude" loading="lazy">
-    <figcaption>Time of useful consciousness — the time to act collapses with altitude. At 40,000 feet you may have 15 seconds to don the mask.</figcaption>
-</figure>
-
-[[highlight:
-Flight Guide Instructor Principle |
-TUC is why the mask goes on first. At high altitude there may be seconds of useful consciousness, not minutes — don oxygen before troubleshooting, and never count on recognizing hypoxia in time to react.
-]]
-
-## AI.II.N.K1 — Regulatory Requirements: § 91.211
+## AI.II.N.K1 — Regulatory Requirements for Supplemental Oxygen — § 91.211
 
 The regulation drives the minimum oxygen requirement by **cabin pressure altitude**:
 
@@ -156,9 +125,42 @@ For **pressurized-cabin aircraft**: above **FL250**, a **10-minute supply** of s
 Above 12,500 feet the crew uses oxygen after 30 minutes; above 14,000 the crew uses it the whole time; above 15,000 every occupant is provided oxygen. Cabin pressure altitude, not indicated.
 ]]
 
-## AI.II.N.K3 — Oxygen Systems, Masks, and Precautions
+## AI.II.N.K2 — Physiological Factors
 
-### System types (K3a)
+### AI.II.N.K2a — Impairment
+
+**Hypoxia** is "not enough oxygen." The greatest concern in flight is lack of oxygen to the **brain**, which is particularly vulnerable — any reduction in mental function can cause life-threatening errors. Hypoxia results from an insufficient supply of oxygen, inadequate transport of oxygen, or the inability of the tissues to use it. There are **four types**, by cause:
+
+- **Hypoxic hypoxia** — insufficient oxygen available to the body as a whole. The pilot's case: although the **percentage** of oxygen stays constant, its **partial pressure** falls as atmospheric pressure falls with altitude, so fewer molecules pass into the blood. This is the altitude hypoxia.
+- **Hypemic hypoxia** — the blood cannot carry enough oxygen. Caused by reduced blood volume, anemia, blood donation, or — most commonly — **carbon monoxide poisoning**, where CO binds the hemoglobin so oxygen cannot.
+- **Stagnant hypoxia** — oxygen-rich blood is not moving to the tissues. Caused by shock, a failing heart, a constricted artery, **excessive G forces**, or cold reducing circulation.
+- **Histotoxic hypoxia** — the cells cannot use the oxygen delivered. Caused by **alcohol and drugs**. One ounce of alcohol can equate to roughly **2,000 feet of added physiological altitude**.
+
+### AI.II.N.K2b — Symptoms of Hypoxia
+
+Hypoxia is insidious because the **first symptom can be euphoria** — a carefree, false sense of security while judgment fails. Symptoms vary by individual but include **cyanosis (blue fingernails and lips), headache, decreased response to stimuli and increased reaction time, impaired judgment, visual impairment, drowsiness, lightheaded/dizzy sensation, tingling in fingers and toes, and numbness**. As it worsens, the **field of vision narrows** and instruments become hard to read. Because the pilot can be deceived into believing all is normal, recognition is best learned through an **altitude-chamber** physiological training course (offered by the FAA at CAMI and at military facilities).
+
+### Hyperventilation
+
+**Hyperventilation** is an excessive rate and depth of breathing that abnormally lowers blood carbon dioxide. It often occurs in stress or at altitude and produces symptoms **similar to hypoxia** — visual impairment, lightheadedness, tingling, hot/cold sensations, muscle spasms, and possible unconsciousness. **Diagnose correctly:** if on supplemental oxygen, first check the equipment and flow rate to rule out hypoxia. The treatment is to **restore CO₂ by slowing the breathing** — breathing normally is both prevention and cure.
+
+### AI.II.N.K2c — Time of Useful Consciousness (TUC)
+
+**Time of useful consciousness (TUC)** is the maximum time a pilot has to make and carry out rational, life-saving decisions at a given altitude **without supplemental oxygen**. It shrinks rapidly with altitude: roughly **30 minutes or more at 20,000 feet**, **3–5 minutes at 25,000**, **1–2 minutes at 30,000**, **30–60 seconds at 35,000**, **15–20 seconds at 40,000**, and only **9–15 seconds at 45,000 feet**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Time_Useful_Consciousness.png" alt="Time of useful consciousness by altitude" loading="lazy">
+    <figcaption>Time of useful consciousness — the time to act collapses with altitude. At 40,000 feet you may have 15 seconds to don the mask.</figcaption>
+</figure>
+
+[[highlight:
+Flight Guide Instructor Principle |
+TUC is why the mask goes on first. At high altitude there may be seconds of useful consciousness, not minutes — don oxygen before troubleshooting, and never count on recognizing hypoxia in time to react.
+]]
+
+## AI.II.N.K3 — Operational Factors
+
+### AI.II.N.K3a — System Types: Continuous Flow, Demand, and Pressure-Demand
 
 - **Continuous-flow** — usually for **passengers**; a reservoir bag collects oxygen during exhalation for a higher flow on inhalation, with ambient air added once the bag is depleted.
 - **Diluter-demand** — supplies oxygen **only when the user inhales**; an automix lever mixes cabin air and oxygen or supplies 100 percent depending on altitude. The demand mask seals the face and is usable up to **40,000 feet**.
@@ -167,24 +169,35 @@ Above 12,500 feet the crew uses oxygen after 30 minutes; above 14,000 the crew u
 
 **Mask vs. cannula:** a **cannula** (plastic tubing under the nose) is more comfortable but less reliable at altitude — current regulations require aircraft certified for operations **above 18,000 feet to have oxygen masks, not cannulas**. Most regulators approved to 40,000 feet supply **0 percent cylinder oxygen / 100 percent cabin air at 8,000 feet**, shifting to **100 percent oxygen by about 34,000 feet**.
 
-### Aviator's breathing oxygen (K3b)
+### AI.II.N.K3b — Aviator's Breathing Oxygen
 
 Use only **aviator's breathing oxygen** meeting SAE AS8010 — it is **pure and free of moisture**, which matters because moisture in lesser oxygen can **freeze** at altitude and block the system. Do not substitute medical or industrial oxygen.
 
-### Precautions and servicing (K3c)
+### AI.II.N.K3c — Precautions and Servicing
 
 **Fire danger:** materials nearly fireproof in ordinary air can **combust in oxygen**, and **oils and greases can ignite** on contact — never use them on oxygen valves and fittings, and **no smoking** around oxygen equipment. Before flight, **inspect and test** the system with **clean hands**: supply and quantity, the mask and tubing for tears and cracks, the regulator valves and levers, the pressure gauges and flow indicators, and accessibility; after use, verify all valves are off. **Servicing** is done **outside the hangar**, with clean hands, clothing, and tools free of oil and grease, never during fueling, and usually by two people on a permanently installed system. **Containers** are high-pressure (1,800–2,200 psi); a pressure drop can reflect a cold storage area rather than actual depletion, because gas pressure varies directly with temperature.
 
 **Pulse oximeters** measure blood-oxygen saturation and heart rate through a fingertip and are useful above 12,500 feet to evaluate the actual need for oxygen.
 
-## AI.II.N.R1–R4 — Risk Management
+## Risk Management
 
 Teach the high-altitude risks with the recognize–assess–mitigate–verify sequence.
 
-- **R1 — High-altitude flight:** the physiology itself — hypoxia's insidious, euphoric onset and the collapsing TUC. Mitigate with supplemental oxygen per § 91.211 (and the lower recommended altitudes), altitude awareness, and recognizing personal symptoms.
-- **R2 — Use of supplemental oxygen:** a depleted, inaccessible, or malfunctioning system, or hyperventilation mistaken for hypoxia. Mitigate with a preflight inspection, a quantity calculation, an operational check, and correct diagnosis.
-- **R3 — Compressed-gas containers:** high-pressure cylinders and the temperature/pressure relationship. Mitigate with proper marking, secure storage, and reading a cold-storage pressure drop correctly.
-- **R4 — Combustion in an oxygen-rich environment:** oils, greases, and smoking ignite. Mitigate with clean servicing, no petroleum products on fittings, and no smoking.
+### AI.II.N.R1 — High-Altitude Flight
+
+The physiology itself — hypoxia's insidious, euphoric onset and the collapsing TUC. Mitigate with supplemental oxygen per § 91.211 (and the lower recommended altitudes), altitude awareness, and recognizing personal symptoms.
+
+### AI.II.N.R2 — Use of Supplemental Oxygen
+
+A depleted, inaccessible, or malfunctioning system, or hyperventilation mistaken for hypoxia. Mitigate with a preflight inspection, a quantity calculation, an operational check, and correct diagnosis.
+
+### AI.II.N.R3 — Management of Compressed-Gas Containers
+
+High-pressure cylinders and the temperature/pressure relationship. Mitigate with proper marking, secure storage, and reading a cold-storage pressure drop correctly.
+
+### AI.II.N.R4 — Combustion Hazards in an Oxygen-Rich Environment
+
+Oils, greases, and smoking ignite. Mitigate with clean servicing, no petroleum products on fittings, and no smoking.
 
 ### Common Errors and Corrections
 
@@ -195,13 +208,21 @@ Teach the high-altitude risks with the recognize–assess–mitigate–verify se
 - **Contaminating the system:** no oils, greases, or smoking; service outside the hangar with clean hands and tools.
 - **Misreading a pressure gauge in the cold:** a cold cylinder reads low without being depleted — confirm before deciding the supply is short.
 
-## Teaching the Task — AI.II.N.S1–S3
+## Skills — Teaching the Task
 
 The ACS skill elements require the applicant to **brief, operate or simulate, and compute**:
 
-- **S1 — Brief the equipment:** have the learner give a passenger/crew briefing on the oxygen system — where it is, how to don the mask, the flow check, and the precautions.
-- **S2 — Operate or simulate:** have the learner don the mask, turn on the supply, verify flow (green flow detector), and secure it — or simulate this on the portable equipment.
-- **S3 — Determine the quantity:** given a scenario (altitude, duration, number of occupants, and a system flow rate), have the learner compute the oxygen required and confirm the supply is sufficient with a reserve.
+### AI.II.N.S1 — Brief the Use of Supplemental Oxygen Equipment
+
+Have the learner give a passenger/crew briefing on the oxygen system — where it is, how to don the mask, the flow check, and the precautions.
+
+### AI.II.N.S2 — Operate or Simulate the Oxygen Equipment
+
+Have the learner don the mask, turn on the supply, verify flow (green flow detector), and secure it — or simulate this on the portable equipment.
+
+### AI.II.N.S3 — Determine the Quantity of Oxygen Required
+
+Given a scenario (altitude, duration, number of occupants, and a system flow rate), have the learner compute the oxygen required and confirm the supply is sufficient with a reserve.
 
 # Review
 

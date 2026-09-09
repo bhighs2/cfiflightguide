@@ -143,30 +143,11 @@ TC ± WCA = TH ± Variation = MH ± Deviation = CH. Apply wind, then variation, 
 
 # Teach
 
-Teach cross-country planning as the conversion of a line on a chart into a flight the airplane can actually fly: a compass heading that corrects for wind and the compass, an altitude that satisfies the regulations and clears the terrain, a groundspeed that yields time and fuel with a reserve, and a plan B for weather, diversion, and getting lost. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would build a real plan.
+Teach cross-country planning element by element, in the ACS order: route planning, altitude selection, plotting the course, power setting, the calculations, the flight plan, the weather decision, the flight-plan activation, compass errors, pilotage and dead reckoning, planned-versus-actual, diversion and lost procedures, intercepts, the EFB, and chart symbols. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each Knowledge element once, in order.
 
-## AI.II.I.K3, K15 — Charts, Chart Symbols, and Plotting a Course
+## AI.II.I.K1 — Route Planning
 
-An **aeronautical chart is the road map for a VFR pilot**. Three charts serve VFR: **Sectional** (1:500,000, 1 inch = 6.86 NM — the most common, with airport, navaid, airspace, and topographic data), **VFR Terminal Area** (1:250,000, for Class B areas), and **World Aeronautical** (1:1,000,000, less detail). Use the **chart legend** to interpret symbols, and confirm the chart is **current** — sectionals are revised on a 56-day cycle.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_Chart.png" alt="VFR sectional chart and legend excerpt" loading="lazy">
-    <figcaption>The sectional chart — airport data, navaids, airspace, obstructions, and topography. Read it against the legend.</figcaption>
-</figure>
-
-**Latitude and longitude** locate every point on earth. **Parallels of latitude** run east–west, measuring degrees north or south of the equator; **meridians of longitude** run pole to pole, measuring degrees east or west of the Prime Meridian. Direction is measured in degrees clockwise from **true north (TN)** along a meridian. Because meridians converge toward the poles, **measure the course at a meridian near the midpoint** of the leg, not at the departure point.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Globe_Lat_Lon.png" alt="Globe showing meridians of longitude and parallels of latitude" loading="lazy">
-    <figcaption>Meridians and parallels — the basis for measuring time, distance, and direction.</figcaption>
-</figure>
-
-**Plotting the course (AI.II.I.K3):** draw the course line from the center of the departure airport to the center of the destination (direct, or in segments around airspace or to a navaid). Measure the **true course (TC)** with a plotter against a mid-meridian, and measure the **total distance** and the distance between checkpoints against the scale at the bottom of the chart. Note the airspace and the highest terrain and obstructions along and on either side of the route.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Sectional_XC.png" alt="A plotted cross-country course with checkpoints and airspace noted" loading="lazy">
-    <figcaption>A plotted cross-country course — course line, checkpoints, airspace, and the highest obstruction along the route.</figcaption>
-</figure>
+Route planning selects the course and the navigation/communication systems and facilities, and accounts for the **different classes and special use airspace** along the route. Plan the route on a current chart, note the airspace to be crossed or avoided and any SUA, and select the navigation facilities available. Choose a route that respects the airspace and offers suitable alternates and emergency landing options.
 
 ## AI.II.I.K2 — Altitude Selection
 
@@ -181,7 +162,70 @@ Flight Guide Instructor Principle |
 Odd east, even west — plus 500. On a magnetic course of 0°–179° choose an odd-thousand-plus-500 altitude; on 180°–359° choose even-thousand-plus-500. Have the learner state the magnetic course and then the legal altitude before accepting it.
 ]]
 
-## AI.II.I.K9, K4 — Variation, Deviation, and the Conversion
+## AI.II.I.K3 — Plotting a Course
+
+An **aeronautical chart is the road map for a VFR pilot**. Three charts serve VFR: **Sectional** (1:500,000, 1 inch = 6.86 NM — the most common, with airport, navaid, airspace, and topographic data), **VFR Terminal Area** (1:250,000, for Class B areas), and **World Aeronautical** (1:1,000,000, less detail). Confirm the chart is **current** — sectionals are revised on a 56-day cycle.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_Chart.png" alt="VFR sectional chart and legend excerpt" loading="lazy">
+    <figcaption>The sectional chart — airport data, navaids, airspace, obstructions, and topography. Read it against the legend.</figcaption>
+</figure>
+
+**Latitude and longitude** locate every point on earth. **Parallels of latitude** run east–west; **meridians of longitude** run pole to pole. Direction is measured in degrees clockwise from **true north (TN)** along a meridian. Because meridians converge toward the poles, **measure the course at a meridian near the midpoint** of the leg, not at the departure point.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Globe_Lat_Lon.png" alt="Globe showing meridians of longitude and parallels of latitude" loading="lazy">
+    <figcaption>Meridians and parallels — the basis for measuring time, distance, and direction.</figcaption>
+</figure>
+
+**Plotting the course:** draw the course line from the center of the departure airport to the center of the destination (direct, or in segments around airspace or to a navaid). Measure the **true course (TC)** with a plotter against a mid-meridian, and measure the **total distance** and the distance between checkpoints against the scale at the bottom of the chart. Note the airspace and the highest terrain and obstructions along and on either side of the route.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_XC.png" alt="A plotted cross-country course with checkpoints and airspace noted" loading="lazy">
+    <figcaption>A plotted cross-country course — course line, checkpoints, airspace, and the highest obstruction along the route.</figcaption>
+</figure>
+
+## AI.II.I.K4 — Power Setting Selection
+
+Choose a cruise **power setting** from the POH performance charts and use its fuel-consumption rate. Convert "time, fuel, and distance to climb" into gallons per hour, and account for startup, taxi, and the higher burn and lower groundspeed in the climb.
+
+## AI.II.I.K5 — Calculating Time, Distance, Groundspeed, ETA, and Fuel
+
+Make the basic calculations before flight, using the GS that wind produces:
+
+- **Time = Distance ÷ GS.** (210 NM at 140 knots = 1.5 hours = 1:30.)
+- **Distance = GS × Time.** (120 knots × 1.75 hours = 210 NM.)
+- **GS = Distance ÷ Time.** (270 NM in 3 hours = 90 knots.)
+- **Knots to mph:** multiply by 1.15 (1 NM = 6,076 feet; 1 SM = 5,280 feet).
+- **Fuel = Time × Fuel Rate.** A 400 NM flight at 100 knots GS takes 4 hours; at 5 GPH that is 20 gallons — **plus reserve**.
+
+**Fuel requirements — § 91.151:** no person may begin a VFR flight without enough fuel (considering wind and forecast) to fly to the first point of intended landing and then, **assuming normal cruising speed, for at least 30 minutes by day or 45 minutes by night.** Plan the reserve into the fuel total, and plan fuel stops when the legs exceed the range with that reserve.
+
+**Estimated time of arrival (K5b):** compute the total time, add allowance for the climb, and convert the ETA to **UTC (Zulu)**. To convert local standard time to UTC: Eastern +5, Central +6, Mountain +7, Pacific +8 (subtract 1 hour for Daylight Saving Time).
+
+## AI.II.I.K6 — Elements of a VFR Flight Plan
+
+A VFR flight plan is **not required by regulation**, but it is good operating practice — its information drives **search and rescue** if the flight is overdue. Teach the elements of the plan and how to file it.
+
+- **File by phone before departing** (it can be filed by radio in the air, but phone is best). Give the information in the order of the numbered blocks: aircraft type/special equipment, true airspeed, departure point, **proposed departure time in UTC (Z)**, cruising altitude (enter "VFR"), route of flight, destination, **estimated time en route**, remarks, **fuel on board in hours and minutes**, alternate, pilot information, number aboard, and color.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/VFR_Flight_Plan_File.png" alt="Domestic VFR flight plan form" loading="lazy">
+    <figcaption>The VFR flight plan form — file before departure, activate on takeoff, and close on arrival.</figcaption>
+</figure>
+
+## AI.II.I.K7 — Correlate Weather Information to a Go/No-Go Decision
+
+Before beginning a flight, **§ 91.103** requires the pilot in command to become familiar with **all available information** — for a cross-country, that means current weather reports and forecasts, fuel requirements, available alternatives, and known ATC traffic delays. Obtain a **weather briefing** and check **NOTAMs** for airport, runway, and taxiway closures and for TFRs.
+
+**Correlate the weather to a go/no-go decision:** weigh the forecast ceiling, visibility, wind, and turbulence against the pilot's personal minimums, the aircraft's capability, and the terrain. If the weather is marginal, the decision is to delay, change the route or altitude, or not go. **A computer-generated flight plan is an acceptable way to present the plan (ACS Note)**, but the pilot still owns the go/no-go decision.
+
+## AI.II.I.K8 — Procedures for Activating and Closing a VFR Flight Plan
+
+- **Activate:** after takeoff, contact the FSS by radio with the actual takeoff time. The FSS holds an unactivated flight plan until **1 hour after the proposed departure time** and then cancels it.
+- **Close on arrival** — by telephone to avoid radio congestion. An unclosed flight plan triggers search and rescue.
+
+## AI.II.I.K9 — Magnetic Compass Errors
 
 A line drawn on the chart is measured from **true north**, but the compass points to **magnetic north**. Three corrections turn the true course into a compass heading: **variation, deviation, and wind.**
 
@@ -203,9 +247,9 @@ A line drawn on the chart is measured from **true north**, but the compass point
 
 ### Compass Deviation
 
-**Deviation** is the error caused by magnetic influences within the aircraft — electrical circuits, radios, the engine, magnetized metal. It differs by aircraft and by heading. The pilot applies the correction from the **compass deviation card** mounted near the compass (interpolating between the listed headings). Magnetic heading corrected for deviation is the **compass heading**. **Magnetic compass errors (AI.II.I.K9)** — deviation, plus the magnetic-dip acceleration (ANDS) and turning (UNOS) errors — mean the compass is read accurately only in straight, level, unaccelerated flight.
+**Deviation** is the error caused by magnetic influences within the aircraft — electrical circuits, radios, the engine, magnetized metal. It differs by aircraft and by heading. The pilot applies the correction from the **compass deviation card** mounted near the compass (interpolating between the listed headings). Magnetic heading corrected for deviation is the **compass heading**. **Magnetic compass errors** — deviation, plus the magnetic-dip acceleration (ANDS) and turning (UNOS) errors — mean the compass is read accurately only in straight, level, unaccelerated flight.
 
-## AI.II.I.K2, K10 — Effect of Wind and Dead Reckoning
+## AI.II.I.K10 — Pilotage and Dead Reckoning
 
 **An airplane flies within a moving mass of air.** Airspeed is progress through the air; **groundspeed (GS)** is progress over the ground and is the airspeed combined with the wind. A tailwind adds, a headwind subtracts, and a crosswind causes **drift**.
 
@@ -228,57 +272,20 @@ The key terms:
 
 If the wind is from the right of the course, add the WCA; from the left, subtract. Then apply variation (east least, west best) and deviation (from the card) to reach the compass heading the pilot will fly.
 
-## AI.II.I.K10 — Pilotage and the Navigation Log
-
 **Pilotage** is navigation by reference to landmarks and checkpoints, used with dead reckoning and radio navigation. Select **prominent checkpoints** identifiable by other features — large towns, lakes, rivers, railroads, highways, and power lines. Choose features that form **brackets** on each side of the course so the pilot notices drift before leaving the corridor. **Never rely on a single checkpoint** — if one is missed, hold the heading and look for the next. (A sectional's scale is 1 inch = 6.86 NM; use it to estimate a checkpoint's distance off course.)
 
-The **navigation log** ties pilotage and dead reckoning together: it records the checkpoints, distances, compass heading, groundspeed, estimated and actual times, and fuel. In flight the pilot compares **planned against actual** at each checkpoint (AI.II.I.K11) and corrects heading, groundspeed, and time estimates.
+The **navigation log** ties pilotage and dead reckoning together: it records the checkpoints, distances, compass heading, groundspeed, estimated and actual times, and fuel.
 
 <figure class="lesson-reference-figure">
     <img src="/knowledge/XC_Plan_Sheet.png" alt="Pilot's planning sheet and visual flight log" loading="lazy">
     <figcaption>The pilot's planning sheet and visual flight log — course, headings, groundspeed, time, and fuel for each leg.</figcaption>
 </figure>
 
-## AI.II.I.K5 — Calculations: Time, Distance, Groundspeed, Fuel
+## AI.II.I.K11 — Planned Calculations Versus Actual Results and Required Corrections
 
-Make the basic calculations before flight, using the GS that wind produces:
+In flight, the pilot compares **planned against actual** at each checkpoint and corrects heading, groundspeed, and time estimates. A planned calculation is a starting point; the actual groundspeed and time tell the truth, and the corrections keep the flight on the plan.
 
-- **Time = Distance ÷ GS.** (210 NM at 140 knots = 1.5 hours = 1:30.)
-- **Distance = GS × Time.** (120 knots × 1.75 hours = 210 NM.)
-- **GS = Distance ÷ Time.** (270 NM in 3 hours = 90 knots.)
-- **Knots to mph:** multiply by 1.15 (1 NM = 6,076 feet; 1 SM = 5,280 feet).
-- **Fuel = Time × Fuel Rate.** A 400 NM flight at 100 knots GS takes 4 hours; at 5 GPH that is 20 gallons — **plus reserve**.
-
-**Power setting selection (AI.II.I.K4):** choose a cruise power setting from the POH performance charts and use its fuel-consumption rate. Convert "time, fuel, and distance to climb" into gallons per hour, and account for startup, taxi, and the higher burn and lower groundspeed in the climb.
-
-**Fuel requirements — § 91.151:** no person may begin a VFR flight without enough fuel (considering wind and forecast) to fly to the first point of intended landing and then, **assuming normal cruising speed, for at least 30 minutes by day or 45 minutes by night.** Plan the reserve into the fuel total, and plan fuel stops when the legs exceed the range with that reserve.
-
-**Estimated time of arrival (AI.II.I.K5b):** compute the total time, add allowance for the climb, and convert the ETA to **UTC (Zulu)**. To convert local standard time to UTC: Eastern +5, Central +6, Mountain +7, Pacific +8 (subtract 1 hour for Daylight Saving Time).
-
-**Instructor application — AI.II.I.S1, S4:** have the learner prepare, present, and explain a full cross-country plan — TC, WCA, TH, MH, CH, GS, leg and total times, fuel with reserve, and the cruising altitude — then recalculate the fuel reserve for a scenario you assign (a stronger headwind, a longer route, a later departure).
-
-## AI.II.I.K6, K8 — The VFR Flight Plan
-
-A VFR flight plan is **not required by regulation**, but it is good operating practice — its information drives **search and rescue** if the flight is overdue. Teach the elements and the activation/closing procedure.
-
-- **File by phone before departing** (it can be filed by radio in the air, but phone is best). Give the information in the order of the numbered blocks: aircraft type/special equipment, true airspeed, departure point, **proposed departure time in UTC (Z)**, cruising altitude (enter "VFR"), route of flight, destination, **estimated time en route**, remarks, **fuel on board in hours and minutes**, alternate, pilot information, number aboard, and color.
-- **Activate:** after takeoff, contact the FSS by radio with the actual takeoff time. The FSS holds an unactivated flight plan until **1 hour after the proposed departure time** and then cancels it.
-- **Close on arrival** — by telephone to avoid radio congestion. An unclosed flight plan triggers search and rescue.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/VFR_Flight_Plan_File.png" alt="Domestic VFR flight plan form" loading="lazy">
-    <figcaption>The VFR flight plan form — file before departure, activate on takeoff, and close on arrival.</figcaption>
-</figure>
-
-**Instructor application — AI.II.I.S3:** have the learner create the navigation plan and simulate filing a VFR flight plan, giving the blocks in order, then state how the plan is activated and closed.
-
-## AI.II.I.K7 — Weather and the Go/No-Go Decision
-
-Before beginning a flight, **§ 91.103** requires the pilot in command to become familiar with **all available information** — for a cross-country, that means current weather reports and forecasts, fuel requirements, available alternatives, and known ATC traffic delays. Obtain a **weather briefing** and check **NOTAMs** for airport, runway, and taxiway closures and for TFRs.
-
-**Correlate the weather to a go/no-go decision (AI.II.I.K7):** weigh the forecast ceiling, visibility, wind, and turbulence against the pilot's personal minimums, the aircraft's capability, and the terrain. If the weather is marginal, the decision is to delay, change the route or altitude, or not go. **A computer-generated flight plan is an acceptable way to present the plan (ACS Note)**, but the pilot still owns the go/no-go decision.
-
-## AI.II.I.K12, K13 — Diversion, Lost Procedures, and Inflight Intercepts
+## AI.II.I.K12 — Diversion and Lost Procedures
 
 ### Flight Diversion
 
@@ -293,9 +300,17 @@ If lost, follow common-sense steps:
 - **Communicate** — call any facility on a chart frequency; a controller may offer radar vectors or DF steer (hold the transmit button so the controller can plot the position).
 - **If threatening** — transmit on **121.5 MHz** and squawk **7700**; most facilities monitor the emergency frequency.
 
-### Inflight Intercept Procedures (AI.II.I.K13)
+## AI.II.I.K13 — Inflight Intercept Procedures
 
 If intercepted by a military or law-enforcement aircraft, **squawk 7700**, monitor **121.5 MHz**, and follow the intercepting aircraft's signals and ATC instructions. (Intercept procedures and signals are detailed in the AIM; brief them as part of cross-country preparedness near an ADIZ.)
+
+## AI.II.I.K14 — Use of an Electronic Flight Bag (EFB)
+
+An **EFB** (such as ForeFlight) can plan the course, build the navigation log, and present the flight plan. Treat it as a tool, not an authority: **garbage in, garbage out** — verify the performance profile, the ETD, and the winds, because a wrong input produces a confident, wrong nav log. Keep the database current, and cross-check the EFB result against the chart and the manual calculation.
+
+## AI.II.I.K15 — Chart Symbols
+
+Read the chart symbols against the **legend**: airports, navaids, airspace floors and ceilings, obstructions, terrain and maximum elevation figures, and the special use airspace. The symbols are the language of the chart — an unread symbol is an unseen hazard. Confirm the chart is current before relying on the depiction.
 
 ## Risk Management — AI.II.I.R1 through R6
 
@@ -340,6 +355,15 @@ Teach cross-country risk with the recognize–assess–mitigate–verify sequenc
 - **Forgetting the fuel reserve or the climb:** include the § 91.151 day/night reserve and account for startup, taxi, and climb fuel.
 - **Garbage in, garbage out on the EFB:** verify the performance profile, ETD, and winds; a wrong input produces a confident, wrong nav log.
 - **Flying an expired chart:** confirm chart and database currency before relying on the depiction.
+
+## Skills — Teaching the Task
+
+The ACS skill elements require the applicant to **prepare and explain a cross-country plan, apply the publications, create a navigation plan and simulate a flight plan, and recalculate fuel**:
+
+- **AI.II.I.S1 — Prepare, present, and explain a cross-country flight plan:** the learner prepares, presents, and explains a full plan — TC, WCA, TH, MH, CH, GS, leg and total times, fuel with reserve, and the cruising altitude — including a risk analysis to the first fuel stop.
+- **AI.II.I.S2 — Apply current charts, Chart Supplements, and NOTAMs:** the learner applies the pertinent information from current aeronautical charts, the Chart Supplement, and NOTAMs on airport, runway, and taxiway closures.
+- **AI.II.I.S3 — Create a navigation plan and simulate filing a VFR flight plan:** the learner creates the navigation plan and simulates filing a VFR flight plan, giving the blocks in order and stating how the plan is activated and closed.
+- **AI.II.I.S4 — Recalculate fuel reserves for a scenario:** the learner recalculates the fuel reserve for an assigned scenario (a stronger headwind, a longer route, or a later departure).
 
 # Review
 

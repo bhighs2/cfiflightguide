@@ -124,7 +124,7 @@ Full dark adaptation takes up to 30 minutes — and one second of bright light c
 
 # Teach
 
-Teach night operations as a physiology problem before a procedures problem: the eye is built for daylight, so night flight demands preserving what little night vision the rods provide, compensating with the instruments and the lights, and flying procedures that assume fewer outside references. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would present it.
+Teach night operations as a physiology problem before a procedures problem: the eye is built for daylight, so night flight demands preserving what little night vision the rods provide, compensating with the instruments and the lights, and flying procedures that assume fewer outside references. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 
 ## AI.II.M.K1 — Night Vision: Rods, Cones, and the Blind Spot
 
@@ -166,25 +166,6 @@ Flight Guide Instructor Principle |
 The night blind spot is the one fact a night pilot must act on: an object stared at directly can vanish. Teach the learner to scan for traffic with the peripheral vision and never fix the center on a dim target.
 ]]
 
-## AI.II.M.K7 — Night Illusions
-
-Darkness and few references make the pilot vulnerable to visual illusions. Teach the three that matter most:
-
-- **False horizon** — ground lights confused with stars, a sloping cloud, or an aurora can be mistaken for the real horizon, leading to a misaligned, banked aircraft. Trust the instruments.
-- **Autokinesis** — a stationary light stared at for many seconds appears to move; a pilot who follows it can lose control. Shift the gaze; do not fixate.
-- **Featureless terrain / black-hole approach** — over water or unlit terrain with only the runway lights visible, the lack of peripheral cues makes the runway seem out of position (up- or down-sloping) and can lead to landing short. Use the VASI/PAPI or an electronic glide path, and **go around** if position or altitude is in doubt.
-
-[[highlight:
-Flight Guide Instructor Principle |
-At night the eyes lie. The answer to every night illusion is the same — believe the instruments, not the feeling. False horizon, autokinesis, and the black hole are all resolved on the attitude indicator and the glide path reference, not out the window.
-]]
-
-## AI.II.M.K3, K4 — Airplane and Personal Equipment
-
-**Airplane equipment and lighting for night VFR** — the aircraft must carry the required night equipment (position/anti-collision lights per § 91.209, operable landing light if for hire, adequate source of electrical energy, spare fuses, and the day VFR instruments). Check **all** aircraft lights during preflight by turning them on momentarily; tap position lights for loose connections.
-
-**Personal equipment** — within easy reach: a **white flashlight for the preflight** (to see true colors and leaks) and a **red flashlight for the cockpit** (to preserve night vision), with brightness set low; current charts; and spare batteries. Organize the cockpit before engine start.
-
 ## AI.II.M.K2 — Airport and Navigation Lighting
 
 - **Rotating beacons** identify the airport: **alternating white/green** = lighted civilian land airport; **white/yellow** = water airport; **dual-peaked white flashes then green** = military. **Red flashes** mark obstructions or hazards.
@@ -197,19 +178,19 @@ At night the eyes lie. The answer to every night illusion is the same — believ
     <figcaption>VASI — the visual glide-path reference; at night it is an indispensable aid to a stabilized approach.</figcaption>
 </figure>
 
-## AI.II.M.K5, K6, K8 — Night Procedures
+## AI.II.M.K3 — Airplane Equipment and Lighting Requirements for Night Operations
+
+The aircraft must carry the required night equipment (position/anti-collision lights per § 91.209, operable landing light if for hire, adequate source of electrical energy, spare fuses, and the day VFR instruments). Check **all** aircraft lights during preflight by turning them on momentarily; tap position lights for loose connections.
+
+## AI.II.M.K4 — Personal Equipment Essential for Night Flight
+
+Within easy reach: a **white flashlight for the preflight** (to see true colors and leaks) and a **red flashlight for the cockpit** (to preserve night vision), with brightness set low; current charts; and spare batteries. Organize the cockpit before engine start.
+
+## AI.II.M.K5 — Night Orientation, Navigation, and Chart Reading
 
 ### Preparation and preflight
 
 Night flight demands more preflight care: review the weather with attention to the **temperature/dew-point spread** (a narrow spread warns of fog) and the **wind** (harder to detect at night). Draw course lines in **black** for low-light visibility, and use beacons, lighted obstructions, city lights, and highway traffic as checkpoints. Confirm the GPS works, with waypoints loaded and the database current.
-
-### Taxi (K8)
-
-Taxi **slowly**, especially in congested areas; follow the taxi lines, signs, and markings. Use the **taxi/landing light** to see, but avoid blinding other pilots, and limit the landing light if it overheats or overloads the electrical system. Do the instrument check while taxiing. **Verify position, route, and runway** against the airport diagram before takeoff — a wrong turn or wrong-surface takeoff is catastrophic. **Hold the brakes during the run-up** — the airplane can creep forward unnoticed at night.
-
-### Takeoff and climb (instruments — K6)
-
-The defining difference at night is the **loss of outside references** — so **fly the instruments more**. Line up on the centerline, note the heading indicator matches the runway direction, and advance power smoothly. On the climb, the **attitude indicator, VSI, and altimeter must all show a positive climb** — it is hard to tell height above the dark surface without them. **Do not turn below a safe maneuvering altitude.** An inexperienced pilot may relax right-rudder pressure after takeoff and veer left. Turn the landing light off once the climb is established (unless used for collision avoidance) — its reflection off haze or cloud distorts vision.
 
 ### Orientation and navigation
 
@@ -228,6 +209,29 @@ Identify the **runway and airport lighting early** — fly toward the beacon unt
 
 A complete engine failure at night is the great concern. Maintain control and the **best glide**, turn toward an airport or away from congestion, troubleshoot (fuel selector, magnetos, primer), declare the emergency on the frequency in use, and if the terrain is known and suitable, plan the forced landing into an **unlighted area** — near public access if possible. Keep the wind in mind to avoid a downwind landing, and land at the **slowest possible airspeed** in the normal attitude. A **night go-around** is demanding — a black-hole or unstabilized approach is a reason to go around, not to salvage.
 
+## AI.II.M.K6 — Using Instruments to Verify Aircraft Attitude at Night
+
+### Takeoff and climb
+
+The defining difference at night is the **loss of outside references** — so **fly the instruments more**. Line up on the centerline, note the heading indicator matches the runway direction, and advance power smoothly. On the climb, the **attitude indicator, VSI, and altimeter must all show a positive climb** — it is hard to tell height above the dark surface without them. **Do not turn below a safe maneuvering altitude.** An inexperienced pilot may relax right-rudder pressure after takeoff and veer left. Turn the landing light off once the climb is established (unless used for collision avoidance) — its reflection off haze or cloud distorts vision.
+
+## AI.II.M.K7 — Night Illusions
+
+Darkness and few references make the pilot vulnerable to visual illusions. Teach the three that matter most:
+
+- **False horizon** — ground lights confused with stars, a sloping cloud, or an aurora can be mistaken for the real horizon, leading to a misaligned, banked aircraft. Trust the instruments.
+- **Autokinesis** — a stationary light stared at for many seconds appears to move; a pilot who follows it can lose control. Shift the gaze; do not fixate.
+- **Featureless terrain / black-hole approach** — over water or unlit terrain with only the runway lights visible, the lack of peripheral cues makes the runway seem out of position (up- or down-sloping) and can lead to landing short. Use the VASI/PAPI or an electronic glide path, and **go around** if position or altitude is in doubt.
+
+[[highlight:
+Flight Guide Instructor Principle |
+At night the eyes lie. The answer to every night illusion is the same — believe the instruments, not the feeling. False horizon, autokinesis, and the black hole are all resolved on the attitude indicator and the glide path reference, not out the window.
+]]
+
+## AI.II.M.K8 — Night Taxi Operations
+
+Taxi **slowly**, especially in congested areas; follow the taxi lines, signs, and markings. Use the **taxi/landing light** to see, but avoid blinding other pilots, and limit the landing light if it overheats or overloads the electrical system. Do the instrument check while taxiing. **Verify position, route, and runway** against the airport diagram before takeoff — a wrong turn or wrong-surface takeoff is catastrophic. **Hold the brakes during the run-up** — the airplane can creep forward unnoticed at night.
+
 ## AI.II.M.K9 — Traffic from Position Lights
 
 Teach the learner to read another aircraft's **position lights** for its direction of flight: **red on the left (port) wingtip, green on the right (starboard) wingtip, white on the tail.** Seeing **red and green** together means the other aircraft is coming **toward** you; **red** alone means it is crossing right-to-left (you see its left side); **green** alone means left-to-right; **white** alone means it is heading away.
@@ -242,17 +246,37 @@ Red Right Returning — Reversed for the Other Guy |
 Your own lights are red-left, green-right. But on another aircraft, red-and-green together mean it is coming toward you. Read the direction from the lights you see, not the ones you carry.
 ]]
 
-## Risk Management — AI.II.M.R1 through R7
+## Risk Management
 
 Teach the night risks with the recognize–assess–mitigate–verify sequence.
 
-- **R1 — Inoperative equipment:** a failed landing light, position light, or instrument at night. Mitigate by checking all lights on preflight and having a backup flashlight; do not depart night VFR with required lighting inoperative.
-- **R2 — Weather at night:** fog (narrow temperature/dew-point spread), obscured horizon, and hard-to-see clouds. Mitigate with a thorough briefing, conservative minimums, and avoiding VFR into marginal conditions.
-- **R3 — Collision hazards:** fewer visible references and the night blind spot. Mitigate with off-center scanning, position-light interpretation, and the landing/anti-collision lights.
-- **R4 — Distraction and disorientation:** illusions and lost references. Mitigate by trusting the instruments and recognizing autokinesis and false horizon early.
-- **R5 — Visual illusions and night adaptation:** protect dark adaptation, use the VASI/PAPI and the instruments, and go around when in doubt.
-- **R6 — Runway incursion:** at night, verify position and runway against the airport diagram before takeoff and before crossing any runway.
-- **R7 — Night currency vs. proficiency:** being legal (recent night landings) is not the same as being proficient. Mitigate with regular night practice and honest self-assessment.
+### AI.II.M.R1 — Inoperative Equipment
+
+A failed landing light, position light, or instrument at night. Mitigate by checking all lights on preflight and having a backup flashlight; do not depart night VFR with required lighting inoperative.
+
+### AI.II.M.R2 — Weather Considerations Specific to Night Operations
+
+Fog (narrow temperature/dew-point spread), obscured horizon, and hard-to-see clouds. Mitigate with a thorough briefing, conservative minimums, and avoiding VFR into marginal conditions.
+
+### AI.II.M.R3 — Collision Hazards
+
+Fewer visible references and the night blind spot. Mitigate with off-center scanning, position-light interpretation, and the landing/anti-collision lights.
+
+### AI.II.M.R4 — Distraction, Task Prioritization, and Loss of Situational Awareness
+
+Illusions and lost references. Mitigate by trusting the instruments and recognizing autokinesis and false horizon early.
+
+### AI.II.M.R5 — Visual Illusions and Night Adaptation
+
+Protect dark adaptation, use the VASI/PAPI and the instruments, and go around when in doubt.
+
+### AI.II.M.R6 — Runway Incursion
+
+At night, verify position and runway against the airport diagram before takeoff and before crossing any runway.
+
+### AI.II.M.R7 — Night Currency Versus Proficiency
+
+Being legal (recent night landings) is not the same as being proficient. Mitigate with regular night practice and honest self-assessment.
 
 ### Common Errors and Corrections
 
@@ -262,7 +286,9 @@ Teach the night risks with the recognize–assess–mitigate–verify sequence.
 - **A low, shallow, or black-hole approach flown too far** — use the VASI/PAPI and go around when position or altitude is in doubt.
 - **Misreading another aircraft's lights** — red-and-green together means head-on.
 
-## Teaching the Task — AI.II.M.S1
+## Skills — Teaching the Task
+
+### AI.II.M.S1 — Teach at Least One Element from K1 Through K9
 
 The ACS skill element requires the applicant to **teach at least one of K1–K9**. Have the learner pick one element — for example, **night vision and the blind spot** or **the black-hole approach** — and teach it aloud using the figures: what it is, the physiology or the hazard, and the countermeasure. Evaluate clarity, accuracy, and the use of the visual aid.
 

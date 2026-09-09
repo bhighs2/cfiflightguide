@@ -135,7 +135,7 @@ This cut covers the material directly relevant to this Task:
 - `Four_Forces_Flight.png`
 - `Aircraft_Axes.png`
 - `Straight_Level_Nose_Reference.png`
-- `Straight_Level_Wing_Reference.png.png`
+- `Straight_Level_Wing_Reference.png`
 - `Elevator_Trim_Control.png`
 
 # Teach

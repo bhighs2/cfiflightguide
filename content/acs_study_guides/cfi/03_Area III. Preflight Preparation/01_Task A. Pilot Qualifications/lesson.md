@@ -100,17 +100,29 @@ A private pilot may not fly for compensation or hire, and must pay at least a pr
 
 # Teach
 
-Teach pilot qualifications as the answer to one question: **is this pilot legal for this flight?** The answer combines the certificate, the medical, the currency, and the documents. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would build a qualification picture.
+Teach pilot qualifications as the answer to one question: **is this pilot legal for this flight?** The answer combines the certificate, the medical, the currency, and the documents. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 
-## AI.III.A.K2 — The Certificates: Training, Privileges, and Limitations
-
-Teach each certificate as two things: what it takes to earn, and what it allows. Have the learner read the controlling section.
+## AI.III.A.K1 — Certification, Currency, and Recordkeeping Requirements
 
 ### Training requirements (aeronautical experience)
 
 - **Recreational pilot — § 61.99 (Subpart D):** 30 hours total, 15 hours dual, 3 hours solo, 2 hours dual cross-country (greater than 25 NM).
 - **Private pilot — § 61.109 (Subpart E; student pilots in Subpart C):** 40 hours total, 20 hours dual, 10 hours solo, 3 hours night, 3 hours instrument, 5 hours solo cross-country, 3 hours dual cross-country.
 - **Commercial pilot — § 61.129 (Subpart F):** hold at least a private certificate; 250 hours total, 100 hours PIC (50 in airplanes, 50 cross-country), 20 hours dual, 10 hours complex/TAA dual, 10 hours instrument dual, 10 hours solo (cross-country), 5 hours solo night VFR. (TAA is defined in § 61.129(j).)
+
+### Recent flight experience — §§ 61.56, 61.57
+
+- **Flight review — § 61.56:** within the preceding **24 calendar months**, **1 hour of flight and 1 hour of ground** training, with an endorsement.
+- **Passenger-carrying currency — § 61.57(a)(1):** to carry passengers, the pilot must have made **3 takeoffs and 3 landings as sole manipulator of the controls** in the preceding **90 days**.
+- **Night currency — § 61.57(b)(1):** to carry passengers at night, **3 takeoffs and 3 landings to a full stop** as sole manipulator, in the period **1 hour after sunset to 1 hour before sunrise**, in the preceding **90 days**.
+
+### Logbook entries — § 61.51
+
+Log the time needed to meet the recency-of-experience requirements or to earn a certificate or rating. Every entry (**§ 61.51(b)**) contains the **date, total flight time, points of departure and arrival, aircraft type and identification, the safety-pilot name if required, the type of experience (solo, PIC, dual, etc.), and the conditions of flight (day, night, simulated instrument, etc.)**. A **training entry (§ 61.51(h))** must be **endorsed legibly (signed)** by the authorized instructor with the **certificate number, certificate expiration, a description of the training, and the training time**.
+
+## AI.III.A.K2 — Privileges and Limitations of Pilot Certificates and Ratings
+
+Teach each certificate by what it allows, and have the learner read the controlling section.
 
 ### Privileges and limitations
 
@@ -124,7 +136,7 @@ Flight Guide Instructor Principle |
 Privileges live in a specific section — § 61.101, § 61.113, § 61.133. Teach the learner to read the actual section rather than rely on "everyone knows." The compensation-and-hire line and the 50-NM/night limits are where pilots get into trouble.
 ]]
 
-## AI.III.A.K3 — Medical Certificates and BasicMed
+## AI.III.A.K3 — Medical Certificates: Class, Expiration, Privileges, Temporary Disqualifications, and BasicMed
 
 The medical certificate's **class** sets which privileges it supports and how long it lasts (§ 61.23). A certificate can be used for the privileges of a **lower class** after the higher-class privileges expire, subject to the lower class's own duration.
 
@@ -136,19 +148,7 @@ The medical certificate's **class** sets which privileges it supports and how lo
 
 **Special issuance and SODA (§ 67.401):** at the discretion of the Federal Air Surgeon, an applicant not otherwise eligible may receive an **Authorization for special issuance** after additional evaluation, or a **Statement of Demonstrated Ability (SODA)** for a static, non-progressive condition where the person demonstrates the ability to perform airman duties without endangering public safety. The Authorization or SODA states the class and any operational limitations. **Temporary disqualifications** — illness, medication, surgery — ground a pilot until resolved, regardless of the medical's date.
 
-## AI.III.A.K1 — Currency and Recordkeeping
-
-### Recent flight experience — §§ 61.56, 61.57
-
-- **Flight review — § 61.56:** within the preceding **24 calendar months**, **1 hour of flight and 1 hour of ground** training, with an endorsement.
-- **Passenger-carrying currency — § 61.57(a)(1):** to carry passengers, the pilot must have made **3 takeoffs and 3 landings as sole manipulator of the controls** in the preceding **90 days**.
-- **Night currency — § 61.57(b)(1):** to carry passengers at night, **3 takeoffs and 3 landings to a full stop** as sole manipulator, in the period **1 hour after sunset to 1 hour before sunrise**, in the preceding **90 days**.
-
-### Logbook entries — § 61.51
-
-Log the time needed to meet the recency-of-experience requirements or to earn a certificate or rating. Every entry (**§ 61.51(b)**) contains the **date, total flight time, points of departure and arrival, aircraft type and identification, the safety-pilot name if required, the type of experience (solo, PIC, dual, etc.), and the conditions of flight (day, night, simulated instrument, etc.)**. A **training entry (§ 61.51(h))** must be **endorsed legibly (signed)** by the authorized instructor with the **certificate number, certificate expiration, a description of the training, and the training time**.
-
-## AI.III.A.K4 — Documents the Pilot Must Carry
+## AI.III.A.K4 — Documents Pilots Must Possess to Exercise Privileges
 
 To exercise the privileges of a certificate, the pilot must have in their **personal possession or readily accessible**:
 
@@ -158,10 +158,15 @@ To exercise the privileges of a certificate, the pilot must have in their **pers
 - On a **solo**, the **logbook with all solo endorsements**.
 - For **international flight**, a restricted radiotelephone operator's license as applicable.
 
-## AI.III.A.R1, R2 — Risk Management
+## Risk Management
 
-- **R1 — Proficiency versus currency:** being **legally current is not the same as being proficient**. A pilot can meet the 90-day rule and still be unsafe. Mitigate by setting personal minimums above the legal floor, seeking instruction after a lapse, and honestly self-assessing before a demanding flight.
-- **R2 — Unfamiliar aircraft, displays, and avionics:** a legal pilot in an unfamiliar airplane or behind an unfamiliar glass display is at risk. Mitigate with transition training, a thorough avionics checkout, and conservative first flights in the new equipment.
+### AI.III.A.R1 — Proficiency Versus Currency
+
+Being **legally current is not the same as being proficient**. A pilot can meet the 90-day rule and still be unsafe. Mitigate by setting personal minimums above the legal floor, seeking instruction after a lapse, and honestly self-assessing before a demanding flight.
+
+### AI.III.A.R2 — Flying Unfamiliar Aircraft or Operating with Unfamiliar Flight Display Systems and Avionics
+
+A legal pilot in an unfamiliar airplane or behind an unfamiliar glass display is at risk. Mitigate with transition training, a thorough avionics checkout, and conservative first flights in the new equipment.
 
 ### Common Errors and Corrections
 
@@ -171,7 +176,9 @@ To exercise the privileges of a certificate, the pilot must have in their **pers
 - **Flying for compensation on a private certificate:** § 61.113 prohibits it except for the narrow pro-rata-share and incidental-business provisions.
 - **Missing documents:** photo ID, pilot certificate, medical, and — on solo — the logbook with endorsements.
 
-## Teaching the Task — AI.III.A.S1
+## Skills — Teaching the Task
+
+### AI.III.A.S1 — Deliver Instruction on at Least Two of K1 Through K4
 
 The ACS skill element requires the applicant to **deliver instruction on at least two of K1–K4**. Have the learner pick two elements — for example, **medical certificates (K3)** and **documents to carry (K4)** — and teach each aloud to a simulated student, pointing to the controlling section. Evaluate clarity, accuracy, and the ability to anchor each answer in the regulation.
 

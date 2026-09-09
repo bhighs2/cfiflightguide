@@ -200,7 +200,7 @@ A VOR radial alone gives only a line of position — it tells the pilot which li
 
 **Instructor application — AI.II.H.S1, S2, S3, S4:** have the learner tune and identify a VOR, center the needle and determine the radial, determine position from two stations, intercept and track a given radial with a wind correction, and recognize station passage when the TO/FROM flag flips and the needle centers then swings.
 
-## AI.II.H.K1 — Distance Measuring Equipment (DME)
+### Distance Measuring Equipment (DME)
 
 **DME** operates on the principle that the speed of light is fixed. The airborne equipment sends an **interrogation pulse** and the ground station replies; the timing between the two, compared against the speed of light, yields the distance.
 
@@ -226,25 +226,6 @@ For IFR the navigation database must be current; no such regulation exists for V
 Flight Guide Instructor Principle |
 Teach GPS as the most convenient and least self-protecting source. No RAIM alert, a stale database, or a blocked antenna produces a confident, wrong, moving map. Cross-check every GPS position against pilotage, dead reckoning, or a ground-based aid.
 ]]
-
-## AI.II.H.K4 — Transponder and ADS-B
-
-### Transponder — Modes A, C, and S
-
-The **transponder** is the airborne portion of the secondary surveillance radar system (ATCRBS) — the ground **interrogator** sends a request and the transponder replies. Without a transponder, ATC radar shows only the weaker primary return. A transponder code is four digits from 0 to 7 (4,096 codes); ATC issues a code, and "squawk" precedes the number or function.
-
-- **Mode A** — squawk code only.
-- **Mode C** — squawk code plus **altitude reporting**.
-- **Mode S** — squawk code, altitude reporting, and a unique hexadecimal address tied to the aircraft registration.
-- **Ident** — at ATC's request the pilot triggers the Ident, which highlights the target on the controller's display for identification.
-
-A transponder is required to operate in certain controlled airspace (see Task G — Class A, B, C, and the Mode C veil), and **Mode C / altitude-reporting** is required in those areas. Standard phraseology includes "squawk [code]," "squawk ident," "squawk altitude," "squawk standby," "squawk VFR" (1200), and "squawk Mayday" (7700).
-
-### Automatic Dependent Surveillance-Broadcast (ADS-B)
-
-**ADS-B** is a surveillance technology that increases the capacity, efficiency, and accuracy of the NAS. Onboard avionics determine position by **GPS** and broadcast it, with additional data, to ground stations and to nearby ADS-B equipped aircraft. Unlike radar, ADS-B signals **do not degrade over distance**, update about once a second, and work in areas without radar coverage. ADS-B equipped aircraft exchange information on **978 MHz (Universal Access Transceiver, UAT)** or **1090 MHz (1090ES, extended squitter from a Mode S transponder)**. The ground system also provides **TIS-B** (traffic) and **FIS-B** (flight information/weather) to appropriately equipped aircraft.
-
-**ADS-B Out** is required in the same airspace where a Mode C transponder is required (§ 91.225) — Class A, B, and C, above the Class B/C ceilings, the Mode C veil, above 10,000 feet MSL, and certain other airspace.
 
 ## AI.II.H.K3 — Radar Assistance to VFR Aircraft
 
@@ -274,7 +255,24 @@ Teach the learner the three limits that catch VFR pilots:
 - **Clouds are invisible:** ATC radar depicts aircraft, not clouds. If the pilot cannot maintain VFR cloud clearance, the pilot must say so.
 - **Weather capability is limited:** ATC radar displays only **precipitation**, not all hazardous weather. Weather advisories are helpful but must not be relied on.
 
-**Instructor application — AI.II.H.S5:** have the learner make a correct flight-following request, read back the squawk, maintain VFR cloud clearances, and respond to a traffic advisory using the clock-reference while keeping the see-and-avoid scan.
+## AI.II.H.K4 — Transponder and ADS-B
+
+### Transponder — Modes A, C, and S
+
+The **transponder** is the airborne portion of the secondary surveillance radar system (ATCRBS) — the ground **interrogator** sends a request and the transponder replies. Without a transponder, ATC radar shows only the weaker primary return. A transponder code is four digits from 0 to 7 (4,096 codes); ATC issues a code, and "squawk" precedes the number or function.
+
+- **Mode A** — squawk code only.
+- **Mode C** — squawk code plus **altitude reporting**.
+- **Mode S** — squawk code, altitude reporting, and a unique hexadecimal address tied to the aircraft registration.
+- **Ident** — at ATC's request the pilot triggers the Ident, which highlights the target on the controller's display for identification.
+
+A transponder is required to operate in certain controlled airspace (see Task G — Class A, B, C, and the Mode C veil), and **Mode C / altitude-reporting** is required in those areas. Standard phraseology includes "squawk [code]," "squawk ident," "squawk altitude," "squawk standby," "squawk VFR" (1200), and "squawk Mayday" (7700).
+
+### Automatic Dependent Surveillance-Broadcast (ADS-B)
+
+**ADS-B** is a surveillance technology that increases the capacity, efficiency, and accuracy of the NAS. Onboard avionics determine position by **GPS** and broadcast it, with additional data, to ground stations and to nearby ADS-B equipped aircraft. Unlike radar, ADS-B signals **do not degrade over distance**, update about once a second, and work in areas without radar coverage. ADS-B equipped aircraft exchange information on **978 MHz (Universal Access Transceiver, UAT)** or **1090 MHz (1090ES, extended squitter from a Mode S transponder)**. The ground system also provides **TIS-B** (traffic) and **FIS-B** (flight information/weather) to appropriately equipped aircraft.
+
+**ADS-B Out** is required in the same airspace where a Mode C transponder is required (§ 91.225) — Class A, B, and C, above the Class B/C ceilings, the Mode C veil, above 10,000 feet MSL, and certain other airspace.
 
 ## Risk Management — AI.II.H.R1 through R5
 
@@ -313,6 +311,16 @@ Teach the navigation risks as a recognize–assess–mitigate–verify sequence,
 - **Trusting the moving map with a stale database:** update or disregard the airspace display for critical decisions.
 - **Chasing the CDI with large heading changes:** make small corrections and bracket the course.
 - **Believing ATC can see the weather:** radar shows aircraft and precipitation only — the pilot must report when VFR cloud clearance cannot be maintained.
+
+## Skills — Teaching the Task
+
+The ACS skill elements require the applicant to **use the navigation system, determine position, intercept and track, recognize station passage, and communicate on radar services**:
+
+- **AI.II.H.S1 — Use an airborne electronic navigation system:** the learner tunes, identifies, and operates the navigation equipment.
+- **AI.II.H.S2 — Determine the airplane's position:** the learner determines position using the navigation system.
+- **AI.II.H.S3 — Intercept and track a course, radial, or bearing:** the learner intercepts and tracks a given course, radial, or bearing.
+- **AI.II.H.S4 — Recognize station or waypoint passage:** the learner recognizes and describes the indication of station or waypoint passage.
+- **AI.II.H.S5 — Communicate on radar services:** the learner makes a correct flight-following request, reads back the squawk, maintains VFR cloud clearances, and responds to a traffic advisory using the clock-reference while keeping the see-and-avoid scan.
 
 # Review
 

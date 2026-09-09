@@ -61,6 +61,10 @@ Preserve useful Flight Guide enhancements without cluttering the core lesson:
 - aviation-specific examples
 - common errors and instructor corrections
 
+### Scanability Rule
+
+**HARD, always:** Bold section labels, procedure names, decision triggers, limitations, speeds, configuration items, risk cues, common-error names, and other high-value technical phrases throughout the lesson so the page is quickly scannable in print and on screen. Do not bold entire paragraphs or routine connective prose; emphasis must identify the information the instructor or learner needs to find quickly.
+
 For flight Tasks:
 
 - include a complete Fly section

@@ -102,36 +102,9 @@ A slow pressurization failure creeps up while the crew fades — monitor the sys
 
 # Teach
 
-Teach pressurization as the system that lets an aircraft fly high while the occupants stay at a lower cabin altitude — and as a system whose failure, slow or sudden, is a hypoxia problem. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would present it.
+Teach pressurization as the system that lets an aircraft fly high while the occupants stay at a lower cabin altitude — and as a system whose failure, slow or sudden, is a hypoxia problem. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 
-## AI.II.O.K2 — The Physiological Factors
-
-A pressurization failure is ultimately a **hypoxia** problem, so the physiology of Task N applies directly. Review the essentials:
-
-- **Impairment (K2a):** hypoxia impairs the brain first — judgment, coordination, and vision degrade before the pilot notices. Night vision is especially oxygen-sensitive (above 5,000 feet at night).
-- **Symptoms of hypoxia (K2b):** the insidious onset can begin with **euphoria** — a false sense of security — then cyanosis, headache, impaired judgment, narrowing vision, drowsiness, and tingling. The pilot can be deceived into believing all is normal.
-- **Time of useful consciousness (K2c):** the time to act rationally without oxygen collapses with altitude — roughly 30 minutes at 20,000 feet, 3–5 minutes at 25,000, 1–2 minutes at 30,000, 30–60 seconds at 35,000, and only 9–15 seconds at 45,000 feet.
-
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Time_Useful_Consciousness.png" alt="Time of useful consciousness by altitude" loading="lazy">
-    <figcaption>Time of useful consciousness — at high cabin altitude there are seconds, not minutes, to don oxygen.</figcaption>
-</figure>
-
-### Effects of rapid decompression on crew and passengers (K2d)
-
-Decompression is the pressurization system's inability to maintain its designed differential. There are two physiologic categories:
-
-- **Explosive decompression** — cabin pressure changing **faster than the lungs can decompress** (under about **0.5 seconds**), possibly causing **lung damage**. There may be noise, momentary daze, fog/dust/debris filling the cabin from the rapid temperature and humidity change, and air rushing from the mouth and nose.
-- **Rapid decompression** — the **lungs decompress faster than the cabin**.
-
-The critical operational effect: rapid decompression **reduces the period of useful consciousness by one-third to one-fourth** its normal time, because oxygen is rapidly exhaled and blood oxygen partial pressure falls. Other dangers are **evolved-gas decompression sickness** (nitrogen bubbles forming in body tissues as pressure drops) and, with structural damage, the risk of being **tossed or blown toward an opening** — wear the seatbelt/harness when pressurized. The response is **immediate oxygen (100 percent) and a rapid descent**.
-
-[[highlight:
-Flight Guide Instructor Principle |
-Rapid decompression cuts your useful consciousness to a third or a quarter. The mask is the first and only first action — oxygen on, 100 percent, then descend. There is no time to troubleshoot a pressurization controller at FL350.
-]]
-
-## AI.II.O.K1 — The Pressurization System: Concept and Failure Modes
+## AI.II.O.K1 — Fundamental Concepts of the Pressurization System, Including Failure Modes
 
 ### Concept of operation
 
@@ -151,16 +124,56 @@ Three instruments monitor the system: the **cabin differential pressure gauge** 
 ### Failure modes
 
 - **Slow pressurization failure** — a gradual loss that creeps up while the crew slowly becomes hypoxic. The danger is that it is **not announced**; famous accidents (Payne Stewart, Helios 522) trace to unrecognized slow decompression. **The defense is monitoring** — the cabin altitude and differential gauges tell the story before symptoms do.
-- **Rapid / explosive decompression** — a sudden loss from a system malfunction or structural damage, with the physiological effects and reduced TUC described above. The response is **immediate oxygen and a rapid descent**, with visual and aural warning systems to alert the crew.
+- **Rapid / explosive decompression** — a sudden loss from a system malfunction or structural damage, with the physiological effects and reduced TUC described in K2. The response is **immediate oxygen and a rapid descent**, with visual and aural warning systems to alert the crew.
 
 ### Regulations — § 91.211(b)
 
 For **pressurized-cabin aircraft**: above **FL250**, a **10-minute supply** of supplemental oxygen for **each occupant** is required in case of lost pressurization; above **FL350**, one pilot at the controls must **wear and use a sealed oxygen mask** — except at or below **FL410** when two pilots are at the controls and each has a **quick-donning mask** that can be placed with one hand from the ready position **within 5 seconds**. At high altitude with a demand or pressure-demand system, select the **100 percent oxygen** setting.
 
-## AI.II.O.R1, R2 — Risk Management
+## AI.II.O.K2 — Physiological Factors
 
-- **R1 — High-altitude flight:** the underlying hypoxia hazard. Mitigate with oxygen discipline, altitude awareness, and recognition that pressurization only reduces — does not eliminate — the risk.
-- **R2 — Malfunction of the pressurization system:** the slow leak that deceives and the rapid decompression that demands. Mitigate by **monitoring the cabin altitude, differential, and rate-of-climb instruments**, briefing occupants on oxygen, and rehearsing the rapid-decompression response (mask on, 100 percent, descend).
+A pressurization failure is ultimately a **hypoxia** problem, so the physiology of Task N applies directly. Review the essentials:
+
+### AI.II.O.K2a — Impairment
+
+Hypoxia impairs the brain first — judgment, coordination, and vision degrade before the pilot notices. Night vision is especially oxygen-sensitive (above 5,000 feet at night).
+
+### AI.II.O.K2b — Symptoms of Hypoxia
+
+The insidious onset can begin with **euphoria** — a false sense of security — then cyanosis, headache, impaired judgment, narrowing vision, drowsiness, and tingling. The pilot can be deceived into believing all is normal.
+
+### AI.II.O.K2c — Time of Useful Consciousness (TUC)
+
+The time to act rationally without oxygen collapses with altitude — roughly 30 minutes at 20,000 feet, 3–5 minutes at 25,000, 1–2 minutes at 30,000, 30–60 seconds at 35,000, and only 9–15 seconds at 45,000 feet.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Time_Useful_Consciousness.png" alt="Time of useful consciousness by altitude" loading="lazy">
+    <figcaption>Time of useful consciousness — at high cabin altitude there are seconds, not minutes, to don oxygen.</figcaption>
+</figure>
+
+### AI.II.O.K2d — Effects of Rapid Decompression on Crew and Passengers
+
+Decompression is the pressurization system's inability to maintain its designed differential. There are two physiologic categories:
+
+- **Explosive decompression** — cabin pressure changing **faster than the lungs can decompress** (under about **0.5 seconds**), possibly causing **lung damage**. There may be noise, momentary daze, fog/dust/debris filling the cabin from the rapid temperature and humidity change, and air rushing from the mouth and nose.
+- **Rapid decompression** — the **lungs decompress faster than the cabin**.
+
+The critical operational effect: rapid decompression **reduces the period of useful consciousness by one-third to one-fourth** its normal time, because oxygen is rapidly exhaled and blood oxygen partial pressure falls. Other dangers are **evolved-gas decompression sickness** (nitrogen bubbles forming in body tissues as pressure drops) and, with structural damage, the risk of being **tossed or blown toward an opening** — wear the seatbelt/harness when pressurized. The response is **immediate oxygen (100 percent) and a rapid descent**.
+
+[[highlight:
+Flight Guide Instructor Principle |
+Rapid decompression cuts your useful consciousness to a third or a quarter. The mask is the first and only first action — oxygen on, 100 percent, then descend. There is no time to troubleshoot a pressurization controller at FL350.
+]]
+
+## Risk Management
+
+### AI.II.O.R1 — High-Altitude Flight
+
+The underlying hypoxia hazard. Mitigate with oxygen discipline, altitude awareness, and recognition that pressurization only reduces — does not eliminate — the risk.
+
+### AI.II.O.R2 — Malfunction of the Pressurization System
+
+The slow leak that deceives and the rapid decompression that demands. Mitigate by **monitoring the cabin altitude, differential, and rate-of-climb instruments**, briefing occupants on oxygen, and rehearsing the rapid-decompression response (mask on, 100 percent, descend).
 
 ### Common Errors and Corrections
 
@@ -170,12 +183,15 @@ For **pressurized-cabin aircraft**: above **FL250**, a **10-minute supply** of s
 - **Forgetting the structural and decompression-sickness dangers:** wear the harness when pressurized and descend promptly.
 - **Assuming pressurization removes the oxygen requirement:** § 91.211(b) still requires the 10-minute supply above FL250 and the mask above FL350.
 
-## Teaching the Task — AI.II.O.S1, S2
+## Skills — Teaching the Task
 
-Where the equipment is installed, the ACS skill elements require the applicant to **operate the system and respond to malfunctions**:
+### AI.II.O.S1 — Operate the Pressurization System
 
-- **S1 — Operate the pressurization system:** have the learner set the pressurization controller, monitor the cabin altitude / differential / rate-of-climb, and manage the cabin climb and descent rates for occupant comfort.
-- **S2 — Respond to a simulated malfunction:** present a simulated slow decompression (cabin altitude creeping up) and a rapid-decompression scenario; the learner should recognize each, don oxygen and select 100 percent, and initiate a rapid descent, explaining each action.
+Where the equipment is installed, the ACS skill elements require the applicant to **operate the system and respond to malfunctions**. Have the learner set the pressurization controller, monitor the cabin altitude / differential / rate-of-climb, and manage the cabin climb and descent rates for occupant comfort.
+
+### AI.II.O.S2 — Respond to Simulated Pressurization Malfunctions
+
+Present a simulated slow decompression (cabin altitude creeping up) and a rapid-decompression scenario; the learner should recognize each, don oxygen and select 100 percent, and initiate a rapid descent, explaining each action.
 
 # Review
 
