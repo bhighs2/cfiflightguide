@@ -1,0 +1,2100 @@
+DOCUMENT_TITLE: REVIEW GUIDE - INSTRUMENT
+SOURCE_FILE: REVIEW GUIDE - INSTRUMENT.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+AIRPLANE-INSTRUMENT RATING MINIMUM
+AERONAUTICAL EXPERIENCE
+■ 50hoursX-CountryPICtime
+▷ Ofwhich,10hoursinairplane s.
+■ 40hoursactualorsimulatedinstrumenttime
+▷ Ofwhich,15hourswithCFII.
+□ IncludingoneX-Countryflightof:
+□ 250NMalongairwaysorbydirectedATC
+routing.
+□ Aninstrumentapproachateachairport.
+□ 3differentkindsofapproachesusing
+navigationsystems.
+□ WithafiledIFRflightplan.
+□ 3Hoursinstrumentflighttraininginlast2Calendar
+monthspriortopracticaltest
+■ UseofapprovedfullflightsimulatororFTD,iftrainedby
+authorizedinstructor:
+▷ Max.30hoursifinstrumenttimecompletedunder
+part142
+▷ Max20hoursifnotcompletedunder142
+■ UseofFAAappro vedAviationTrainingDevice,iftrained
+byanauthorizedinstructor:
+▷ Max.10hoursofinstrumenttimeifBasicATD
+▷ Max.20hoursofinstrumenttimeifAdvancedATD
+■ Nomorethan20hoursoftotalinstrumenttimecanbe
+creditedinafullflightsimulato r,FTDorATD,exceptthe
+30hoursexceptionunderpart142mentionedabove.
+§61.65
+PERSONAL DOCUMENTS REQUIRED FOR
+FLIGHT
+■ PilotCertificate
+■ Medicalcertificate (orUSDriver’slicenseas
+permittedby§61.113&§61.23)
+■ AuthorizedphotoID(passport,driver’slicense,etc)
+■ RestrictedRadiotelephoneOperatorPermit(For
+flightsoutsidetheUS)
+RECENCY OF EXPERIENCE
+■ Toactas PICunderIFR orinweatherconditions
+lessthantheminimumsforVFR- “6HITS” –
+Within6cal.monthsprecedingthemonthof
+flight:
+▷ 6instrumentapproaches
+▷ Holdingprocedures&tasks
+▷ Intercepting&Trackingcoursest hroughtheuse
+ofnavigationalelectronicsystems
+▷ Theabove canbecompletedinaFFS,ATD,or
+FTDprovidedthedevicerepresentsthe categoryof
+aircraftforthei nstrumentratingprivileges tobe
+maintainedandthepilotperformsthetasksand
+iterationsinsimulatedinstrumentconditions .A
+flightinstructorisnotneeded
+■ Notcurrentlookingback6months?
+Youcanstilllogtherequired“6HITS”withasafetypilot
+(undersimulatedconditions),examinerorinstructor.
+▷ Safetypilotrequirements
+□ Atleastaprivatepilotwithappropriatecategory
+andclass.
+□ Haveadequatevisionforwardandtoeachsideof
+theaircraft.
+□ Aircraftmusthaveadualcontrolsystem.
+■ Notcurrentlookingback12months?
+▷ InstrumentProficiencyCheck(IPC) byaCFII,
+examiner,orotherapprovedpersonisrequired.
+GuidelinesareintheACS.
+▷ SomeIPCtasks,butnotall,canbeconductedina
+FTDorATD.(RefertotheACS)
+■ TocarrypassengersasPIC
+▷ 3takeoffs&landings incategory,classandtype
+(iftyperatingreq.)Inthe last90days .
+▷ Atperiodsbetween1houraftersunsetto1hour
+beforesunrise:3takeoffs&landingstofullstop
+within1houraftersunsetto1hourbeforesunrise.
+■ ToactasPIC -Flightreview inthelast 24
+Calendarmonths (seeFARforexceptions).
+(§61.56,§91.109,§61.57,Instrument-AirplaneACS) §61.3,§61.113,§61.23,ICAOArticle29
+LOGGING INSTRUMENT TIME §61.51
+AirplaneIFRQuick-Review|Page1|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+AirplaneIFRQuick-Review
+Apersonmayloginstrumenttime
+onlyforthatflighttime when the 
+person operates the aircraft solely by 
+reference to instruments under actual
+orsimulatedinstrumentflight
+conditions.
+Anauthorizedinstructor may log 
+instrument time when conducting
+instrumentflightinstruction in actual
+instrumentflightconditions .
+To meetrecentinstrument
+experiencerequirements , the 
+following information must be recorded 
+in the person's logbook: 
+■ Location&type ofeachinstrument
+approachaccomplished,and
+■ Thenameofthesafetypilot ,if
+required
+Useoffullflightsimulator,FTD,or
+ATDforacquiringinstrument
+aeronauticalexperience :
+■ Fortrainingtowardsacertificateor
+rating,anauthorizedinstructoris
+presenttoobserveandsignsthe
+person’slogbooktoverifythetime
+andcontentofthesession.
+■ ForIFRrecencyrequirements ,log:
+▷ Trainingdevice,timeandcontent.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+AIRCRAFT DOCUMENTS REQUIRED FOR
+FLIGHT
+A.R.R.O.W–
+A-Airworthinesscertificate
+R-Registrationcertificate
+R-Radiostationlicense (forflightsoutsidetheUS)
+O-Operatinglimitations&information( inAFM)
+W-Weight&Balance data
+(§21.5,§91.103,§91.9,§91.203,ICAOArticle29)
+AIRCRAFT MAINTENANCE INSPECTIONS
+REQUIRED FOR IFR:
+A.V.I.A.T.E–
+■ A-Annualinspectionevery12calendarmonths.
+(§91.409)
+■ V-VORcheckevery30days. (ForIFR)(§91.171)
+■ I-100hourinspection. (ifforhire) (§91.409)
+■ A-Altimeter,automaticaltitudereporting
+(transponder’s)&staticsystemevery24
+calendarmonths. (ForIFRincontrolledairspace)
+(§91.411)
+■ T-Transponderevery24calendarmonths.
+(§91.413)
+■ E-ELTevery12months .ELTbatterymustbe
+replacedafter1houroftransmitteruseorif50%of
+itsusefullife(or,forrechargeablebatteries,50
+percentoftheirusefullifeofcharge)hasexpired.
+(§91.207)
+PREFLIGHT SELF-ASSESSMENT:
+I.M S.A.F.E–
+■ I-Illness -DoIhaveanysymptoms?
+■ M-Medication -HaveItakenprescriptionorover-
+the-counterdrugs?
+■ S-Stress -AmIunderpsychologicalpressure,
+worriedaboutfinances,healthorfamilydiscord?
+■ A-Alcohol -Nodrinkingwithin8hours.(“8hours
+bottletothrottle”).Nomorethan.04%ofalcoholin
+blood.
+■ F-Fatigue -AmItired/adequatelyrested?
+■ E-Emotion -AmIemotionallyupset?
+(§91.17,AIM8-1-1)
+PREFLIGHT INFO REQUIRED FOR IFR:
+N.W K.R.A.F.T- (§91.103)
+■ N-NOTAMs.
+■ W-Weatherreportsandforecasts.
+■ K-KnowntrafficdelaysasadvisedbyATC.
+■ R-Runwaylengthofintendeduse.
+■ A-Alternatives availableifflightcannotbe
+completedasplanned.
+■ F-Fuelrequirements
+■ T-Takeoffandlandingperformancedata.
+RISK MANAGEMENT& PERSONAL
+MINIMUMS
+P.A.V.E–
+■ P-Pilot (generalhealth,physical/mental/
+emotionalstate,proficiency,currency)
+■ A-Aircraft (airworthiness,equipment,performance)
+■ V-EnVironment(weatherhazards,terrain,airports
+/runwaystobeused&otherconditions)
+■ E-Externalpressure (meetings,peoplewaitingat
+destination,etc.)
+(Pilot’sHandbookofAeronauticalKnowledge)
+DECISION MAKING
+D.E.C.I.D.E–
+■ D-Detect thatachangehasoccurred.
+■ E-Estimate theneedtocounterthechange.
+■ C-Choose adesirableoutcome.
+■ I-Identify solutions.
+■ D-Do thenecessaryactions.
+■ E-Evaluate theeffectsoftheactions
+(Pilot’sHandbookofAeronauticalKnowledge)
+PASSENGER BRIEFING
+S.A.F.E.T.Y–
+■ S
+▷ Seatbeltsfastened fortaxi,takeoff,landing.
+▷ Shoulderharnessfastened fortakeoff,landing.
+▷ Seatposition adjustedandlockedinplace
+■ A
+▷ Airventslocationandoperation
+▷ Allenvironmentalcontrols (discussed)
+▷ Actionincaseofanypassengerdiscomfort
+■ F
+▷ Fireextinguisher (locationandoperation)
+■ E
+▷ Exitdoors (howtosecure;howtoopen)
+▷ Emergencyevacuationplan
+▷ Emergency/survivalkit (locationandcontents)
+■ T
+▷ Traffic(scanning,spotting,notifyingpilot)
+▷ Talking,sterileflightdeckexpectations
+■ Y
+▷ Yourquestions?Speakup!
+(Pilot’sHandbookofAeronauticalKnowledge)
+.
+AirplaneIFRQuick-Review|Page2|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+AirplaneIFRQuick-Review|Page3|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+TAKEOFF BRIEFING
+D.E.P.A.R.T.S–
+D-Departurereview (e.g.takeofftype,initialheading,firstfix&
+course,clearancereadout).
+E-Establish Expectations(e.g.,flyingpilot,PIC,positive
+transferofcontrols).
+P-Plan/s pecialconsiderations( e.g.,weather,visibility,terrain,
+unfamiliarfield,inoperativeequipment/MELs).
+A-Alternate (takeoffalternate,ifneeded,orreturnplan)
+R-Runwayconditionsandlength.
+T-Trouble/ Tactics(e.g.,rejectedtakeoff,enginefailure).
+S-Speakup!Questions/concerns?
+IFR FLIGHT PLAN
+■ Requirement:nopersonmayoperateanaircraft incontrolled
+airspaceunderIFR unlessthatpersonhas:
+▷ FiledanIFRflightplan ;and
+▷ Receivedanappropriate ATCclearance.
+■ ItislegaltoflyIFRinuncontrolledairspace (classG)
+withoutaflightplanorclearance .However,onceairborne,
+youmustremaininuncontrolledairspaceuntilyoufilea
+flightplanandgetanATCclearance toenterthecontrolled
+airspace.
+§91.173
+■ HowtofileanIFRflightplan?
+▷ FSS
+□ byphone(1-800-WX-BRIEF)
+■ overtheradio(GCO/RCOfrequencies)
+□ Inperson.
+▷ Online
+□ www.1800wxbrief.com(Leido)
+□ www.fltplan.com(Garmin)
+▷ EFB(e.g.,Foreflight)
+▷ WithATC(overradio,orphoneifnoothermeanavailable)
+■ Fileatleast30minutespriortoestimateddeparture .Non-
+scheduledflights aboveFL230shouldbefiledatleast4
+hoursbeforeest.departuretime.(AIM5-1-8)
+■ Flightplancancelation (AIM5-1-15)
+▷ Toweredairports -automaticallycancelledbyATCupon
+landing.
+▷ Non-toweredairports -PilotmustcontactATC/FCCto
+cancel(byradioorphone)
+▷ CancancelanytimeinflightifoutofIMC andoutof
+classAairspace .
+■ PreferredIFRRoutes arepublishedintheChartSupplement
+U.S. Itistothepilot’sadvantagetofileapreferredrouteif
+available.(AIM5-1-8)
+NEED A DESTINATION ALTERNATE?
+“1-2-3” RULE–
+Adestinationalternate isalwaysrequired ,unless:
+■ Aninstrumentapproachispublishedand
+availableforthedestination,AND,
+■ Foratleast1hourbeforeto1hourafterETA:
+▷ Ceilingwillbe atleast2000’ aboveairport
+elevation;and
+▷ Visibilitywillbe atleast3SM.
+§91.169
+MIN WX CONDITIONS REQUIRED AT AN AIRPORT
+TO LIST IT AS AN ALTERNATE
+Thealternateairportminimapublishedinthe
+procedurecharts,or,ifnone:
+■ Precisionapproach:
+600ftceilingand2SMvisibility.
+■ Non-precisionapproach:
+800ftceilingand2SMvisibility.
+■ Noinstrumentapproachavailableatthe
+alternate:
+Ceiling&visibilitymustallowdescentfromMEA,
+approachandlandingunderVFR.
+§91.169
+FILING AN ALTERNATE- GPS CONSIDERATIONS
+■ Equippedwithanon-WAASGP S?Youcanflight
+planbasedonGPSapproachesat eitherthe
+destinationorthealternate ,but notatboth .
+■ WAASWithoutbaro-VNAV ?Maybasetheflight
+planonuseofLNAVapproachesatboththe
+destinationandalternate.
+■ WAASwithbaro-VNAV ?Maybasetheflightplan
+onuseofLNAV/VNAVorRNP0.3atboththe
+destinationandthealternate.
+AIM1-1-17b.5,1-1-18c.9,1-2-3d
+YES
+180º-359º
+EVEN
+Thousands
+or
+Flight
+Levels
+0º-179º
+ODD
+Thousands
+or
+Flight
+Levels
+IFR CRUISING ALTITUDES
+Basedonmagneticcourse§91.179
+IFR MINIMUM FUEL REQUIREMENTS §91.167
+45Minutes
+calculated
+at
+normal
+cruise
+Fuelfrom
+destinationto
+mostdistant
+alternate
+(if alternate required)
+Fuel from
+departure to 
+destination
+airport
+*Otherfuelrequirementsexistfor121,135,Flagandsupplementaloperations
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+IFR TAKEOFF MINIMUMS(§91.175)
+NoT/Ominimumsmandatedforpart91operations.
+Part121,125,129,135:
+■ PrescribedT/Ominimumsfortherunway,or,ifnone:
+■ 1-2enginesairplanes:1SMvisibility
+■ Morethan2engines:½SMvisibility
+Non-StandardTOmins/DepartureProcedures .
+Non-StandardIFRalternateminimumsexist .
+Alternateminimumsnotauthorized dueto
+unmonitoredfacilityortheabsenceof weather
+reportingservice.
+DEPARTURE PROCEDURES(DP)
+AIM5-2-9
+■ Eithertextualorgraphical.
+■ Ensuresobstacleclearance, provided:
+▷ theairplane crossedthedepartureendofthe
+runwayatleast 35ftAGL ,
+▷ reaches400ftAGLbeforeturning ,and
+▷ climbsatleast 200FeetperNM (FPNM),oras
+publishedotherwiseonthechart.
+□ FPNMtofeet-per-minuteconversion:
+fpm = FPNM * Groundspeed / 60
+■ Pilotsare encouragedtofileaDP atnight,during
+marginalVMC orIMC.
+■ TwotypesofDP
+▷ ObstacleDepartureProcedure(ODP)
+□ Providesonly obstacleclearance.
+□ GraphicODPs willhave“ (OBSTACLE)”
+printedinthecharttitle .
+▷ StandardInstrumentDeparture(SID)
+□ Inadditionto obstacleclearance itreduces
+pilotandcontrollerworkload bysimplifying
+ATCclearances andminimizingradio
+communications.
+□ SomeSIDsmaydepictspecial radiofailure
+procedures.
+■ DParealsocategorizedbyequipment required:
+▷ Non-RNAVDP-forusebyaircraftequippedwith
+ground-basednavigation(i.e.,VOR,DME,NDB).
+▷ RNAVDP -foraircraftequippedwithRNAV
+equipment(e.g.,GPS,VOR/DME,DME/DME).
+RequireatleastRNAV1performance.Identified
+withtheword“RNAV”inthetitle.
+▷ RADARDP -ATCradarvectorstoanATSroute,
+NAVAID,orfixareusedafterdeparture.RADAR
+DPsareannotated“RADARREQUIRED.”
+■ YouarenotrequiredtoacceptaDP .Toavoid
+receivingone,state “NOSIDs” inremarkssection
+offlightplan.
+■ TransitionroutesconnecttheendofthebasicSID
+proceduretotheenroutestructure.
+IFR DEPARTURE CLEARANCE
+C.R.A.F.T–
+■ C-Clearancelimit .
+■ R-Route.
+■ A-Altitude.
+■ F-Frequency(fordeparture) .
+■ T-Transpondercode .
+Clearancevoidtime –Thetimeatwhichyour
+clearanceisvoidandafterwhichyoumaynottakeoff.
+YoumustnotifyATCwithin30minafterthevoidtimeif
+youdidnotdepart.
+“Holdforrelease” –Youmaynottakeoffuntilbeing
+releasedforIFRdeparture.
+Releasetime –Theearliesttimetheaircraftmay
+departunderIFR.
+ExpectDepartureClearanceTime(EDCT) –A
+runwayreleasetimegivenundertrafficmanagement
+programsinbusyairports.Aircraftareexpectedto
+departnoearlierandnolaterthan5minutesfromthe
+EDCT.
+Abbreviateddepartureclearance –“Cleared(...)as
+filed(...)”
+(AIM5-2-6)
+STANDARD TERMINAL ARRIVAL(STAR)
+■ Servesas atransitionbetweentheenroute
+structureandapointfromwhichanapproachto
+landingcanbemade .
+■ Transitionroutes connectenroutefixes tothe
+basicSTARprocedure.
+■ Usuallynamedaccordingtothefixatwhichthe
+basicprocedurebegins .
+■ AswithaSID,youcanstate “NOSTARs” inthe
+remarkssectionoftheflightplan, toavoidgettinga
+clearancecontainingaSTAR .
+■ RNAVSTARs requireRNAV1 performance.
+IFR ALTITUDES
+MIN IFR ALTITUDES (§91.177)
+■ Exceptfortakeofforlanding ,orotherwiseauthorized
+bytheFAA, nopersonmayoperateanaircraftunder
+IFRbelow -
+▷ Minimumaltitudesprescribed fortheflown
+segment,orifnone :
+▷ Mountainousareas:2,000ft abovethe highest
+obstaclewithinahorizontaldistanceof4NM
+fromthecourse.
+▷ Non-mountainousareas:1,000ft abovethe
+highestobstaclewithin 4NM fromthecourse.
+NA
+AirplaneIFRQuick-Review|Page4|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+AirplaneIFRQuick-Review|Page5|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+IFR ALTITUDES- CONTINUED (§91.177,Pilot/ControllerGlossary)
+■ DA/H-D ecisionAltitude/Height:the Altitude(MSL)/ Height(aboverunwaythreshold),onaninstrumentapproachprocedure
+atwhichthepilotmustdecidewhethertocontinuetheapproachorgoaround.
+■ MAA-MaximumAuthorizedAltitude.Annotated“MAA-17000”(17,000ftasanexample)onIFRcharts.
+■ MCA-MinimumCrossingAltitude
+■ MDA/H -MinimumDecentAltitude/Height:ThelowestAltitude(MSL)/Height(aboverunwaythreshold)towhichdescentis
+authorizedonanon-precisionapproachuntilthepilotseesthevisualreferencesrequiredforlanding.
+■ MEA- MinimumEnroute Altitude:Thelowestpublishedaltitudebetweenradiofixeswhichassures acceptablenavigational
+signalcoverage andmeets obstacleclearance requirements.AnMEAgapestablishesanareaoflossinnavigationalcoverage
+andannotated“MEAGAP”onIFRcharts.
+■ MOCA-MinimumObstructionClearanceAltitude:Providesobstacleclearanceandnavigationcoverageonlyupto22NMof
+theVOR.
+▷ IfbothanMEAandaMOCAareprescribed foraparticularroutesegment, apersonmayoperate anaircraft lowerthan
+theMEAdownto,butnotbelowtheMOCA, providedtheapplicablenavigationsignalsareavailable .Foraircraft
+usingVORfornavigation ,thisappliesonlywhentheaircraftiswithin22NMoftheVOR .(§91.177)
+■ MORA-MinimumOffRouteAltitude(Jeppesen):
+▷ RouteMORA providesobstructionclearancewithin10NMtoeithersideofairwaycenterlinesandwithina10NMradiusat
+theendsofairways.
+▷ GridMORA provideobstructionclearancewithinalatitude/longitudegridblock.
+■ MRA-MinimumReceptionAltitude
+■ MTA-MinimumTurningAltitude:Providesverticalandlatera lobstacleclearanceinturnsovercertainfixes.Annotatedwiththe
+MCAXiconandanotedescribingtherestriction.
+■ MVA-MinimumVectoringAltitude:ThelowestaltitudeatwhichanIFRaircraftwillbevectoredbyaradarcontroller,exceptas
+otherwiseauthorizedforradarapproaches,departures,andmissedapproaches.MVAsmaybelowerthantheminimum
+altitudesdepictedonaeronauticalcharts,suchasMEAsorMOCAs.
+■ OROCA-OffRouteObstructionClearanceAltitude:Providesobstructionclearancewitha1,000ftbufferinnon-mountainous
+terrainareasand2,000ftinmountainousareas.OROCAmaynotprovidenavigationorcommunicationsignalcoverage.
+*Designatedmountainousareasaredefinedin14CFRpart95bylat/longcoordinates.
+V 4 
+16000
+11700G
+*1 1000
+12
+5
+OROCA MEA
+MRA
+MCA/
+MTAGPSMEA
+MOCA
+GYROSCOPIC INSTRUMENTS
+■ Twoprinciples ofagyroscope: Rigidityinspace andprecession.
+■ Attitudeindicator –operatesontheprincipleof rigidityinspace .Shows bankandpitchinformation .OlderAIsmayhavea
+tumblelimit.Shouldshowcorrectattitudewithin5minutesofstartingtheengine.Normallyvacuum-driveninGAaircraft,may
+beelectricalinothers.Mayhavesmall acceleration/decelerationerrors (accelerate-slightpitchup,decelerate-pitchdown)and
+roll-outerrors (followinga180turnshowsaslightturntotheoppositedirection).
+■ Headingindicator –operatesontheprincipleof rigidityinspace .Itonlyreflectschangesinheading,butcannotmeasurethe
+headingdirectly.Youhavetocalibrateitwithamagneticcompassinorderforittoindicatecorrectly.HIsmaybeslavedtoa
+magneticheadingsource,suchasafluxgate,andsyncautomaticallytothepresentheading.Normallypoweredbythe
+vacuumsysteminonGAaircraft.
+■ Turnindicators –operatesontheprincipleof precession.
+▷ Turncoordinators showrate-of-turnandrateofroll .
+▷ Turn-and-slipindicators showrate-of-turnonly.
+ALTIMETER
+■ Ananeroidbarometer thatshowstheheightaboveagivenpressurelevel,basedonstandardpressurelapserateof1000’per
+inchofmercury.
+■ Astackofsealedaneroidwafersexpandandcontractwithchangesinatmosphericpressurereceivedfromthestaticport.
+■ Amechanicallinkage betweentheaneroidandthedisplaytranslatesthesensedpressuretoanaltitudeindication.
+■ Analtimetersettingknob (ona“sensitivealtimeter”,whicharemostaircraftaltimeters)allowsthepilottoadjustthecurrent
+pressuretothecurrentaltimetersettingpublishedlocally(availablefromATIS,METARorATC).
+■ Thepressuresettingisdisplayedinthe“ KollsmanWindow”inmband/orinchesofmercury(Hg)
+■ IntheUS,whenoperatingbelow18,000’MSL regularlysetthealtimetertoastationwithin100NM .Above18,000’MSL,
+thealtimetershouldbesettothestandardsealevelpressureof29.92”Hg,andoperateinFlightLevels(FL).
+■ “HightoLow-Watchoutbelow! ”.Usecautionwhenflyingfromhighpressuretolowpressureareas.Ifaltimetersettingisnot
+updated,altitudewillindicatehigher,causingthepilottoflylowerthandesired.Flyingfrom hottocold areasresultsinthe
+sameerror.
+FLIGHT INSTRUMENTS
+PITOT-STATICINSTRUMENTS
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+TYPES OF ALTITUDES
+■ Indicatedaltitude –Uncorrectedaltitudeindicatedonthedialwhensettolocalpressuresetting(QNH).
+■ Pressurealtitude –Altitudeabovethestandard29.92.Hgplane.(QNE).Usedwhenflyingabovethetransitionaltitude
+(18,000’intheUS)
+■ Densityaltitude –Pressurealt.correctedfornonstandardtemperature.Usedforperformancecalculations.
+■ Truealtitude –ActualaltitudeaboveMeanSeaLevel(MSL).
+■ Absolutealtitude –Heightaboveairportelevation(QFE).
+TYPES OF SPEEDS
+■ Indicatedairspeed(IAS) –indicatedontheairspeedindicator
+■ Calibratedairspeed(CAS) –IAScorrectedforinstrument&positionerrors.
+■ Equivalentairspeed(EAS) –CAScorrectedforcompressibilityerror.
+■ Trueairspeed(TAS) –Actualspeedthroughtheair.EAScorrectedfor nonstandard
+temperatureandpressure
+■ Machnumber –TheratioofTAStothelocalspeedofsound.
+■ Groundspeed –Actualspeedovertheground.TAScorrectedforwind conditions.
+AIRSPEED INDICATOR(ASI)
+■ Theairspeedindicatormeasuresthedifferencebetweenimpact(ram)airpressurefromthepitottubeandambientpressure
+fromthestaticport.Theresultpressureiscalleddynamicpressureandcorrespondstoairspeed.
+▷ DynamicPressure(airspeed)=ImpactPressure–Staticpressure.
+■ Adiaphragmintheinstrumentreceivesrampressurefromthepitottube.Theareaoutsidethediaphragmissealedand
+connectedtothestaticport.Amechanicallinkageconvertstheexpansionandcontractionofthediaphragmtoairspeedshown
+onthedisplaydial.
+AIRSPEED INDICATORMARKINGS
+■ Whitearc -Flapoperating
+range.StartsatVs0;e ndsat
+Vfe
+■ Greenarc -Normaloperating
+range.StartsatVs1;endsatVno
+■ Yellowarc -Cautionrange.Fly
+onlyinsmoothairandonlywith
+caution.
+■ Redline -Vne
+V-SPEEDS
+■ Va-Designmaneuveringspeed
+■ Vs-Stallspeed,cleanconfig.
+■ Vs0-Stallspeedlandingconfig.
+■ Vs1-Stallspeedspecificconfig.
+■ Vfe-Maxflapextendedspeed.
+■ Vno-Maxstructuralcruise
+speed
+■ Vne-NeverExceedSpeed
+■ Vx-Bestangleofclimb
+■ Vy-Bestrateofclimb
+STATICPORT BLOCKAGE
+■ Airspeedindicator –Indicatescorrectlyonlyattheblockagealtitude.
+▷ Higheraltitudes→airspeedindicateslowerthanitshoul d.
+▷ Loweraltitudes→Indicateshigherthanitshould.
+■ Altimeter–will freezeonthealtitudewhereitwasblocked .
+■ VSI–freezesonzero .
+▷ Afterverifyingablockageinthestaticport,youshoulduseanalternatestaticsource
+orbreaktheVSIwindow(inwhichcase, expectreverseVSI information).
+■ Whenusingthe alternatestaticsource (alowerstaticpressureismeasured):
+▷ Airspeedindicator –indicateafasterspeedthanitshould.
+▷ Altimeter–indicatehigherthanitshould.
+▷ VSI–momentarilyshowaclimb.
+PITOT TUBE BLOCKAGE
+Theonlyinstrumentaffected isthe airspeedindicator.
+■ Ramairinletcloggedanddrainholeopen?Airspeeddropstozero.
+■ Bothairinletanddrainholeareclogged?Theairspeedindicatorwillactasanaltimeter,andwillnolongerbereliable.
+■ Whensuspectingapitotblockage,considertheuseofpitotheattomelticethatmayhaveformedinoronthepitottube.
+■ Airspeed–0KIAS.
+■ Turncoordinator –ballcenteredandwingslevelwhennot
+turning.Onturns:showsturnincorrectdirection,ballgoes
+tooppositedirectionoftheturn.
+■ Attitude–Correctpitchattitudeandbankangle±°5within5
+minutesofenginestart(ifvacuum).
+■ Headingindicator –Setandshowscorrectheadings.
+■ Altimeter–Settolocalaltimetersettingsorfieldelevation.
+Showscorrectfieldelevation±75feet.
+■ VSI–0fpm.
+■ Magneticcompass –swingsfreely,fulloffluid,shows
+knownheadingsanddeviationcardisinstalled.Marker
+beacons–Tested.
+■ NAV&Comm –Set.
+■ GPS–Checkedandset.
+■ EFIScockpits –CheckPFD/MFD/EICASfor‘X’s,
+messages,warningsandremovedsymbols.
+GENERIC INSTRUMENT TAXI CHECK
+VERTICAL SPEED INDICATOR(VSI)
+■ Indicatesrate-of-climbinfpm(accurateaftera6-9sec.lag),and ratetrend (immediatelywithratechange).
+■ Adiaphragminsidetheinstrumentisconnecteddirectlytothestaticsource.
+■ Theareaoutsidethediaphragmalsoreceivesstaticpressure,butviaacalibratedleak(arestrictedorifice).
+■ Thisconfigurationessentiallyrespondstostaticpressurechangeovertime.
+■ Asthediaphragmexpandsorcontracts,amechanicallinkagemovesthepointerneedletodisplaythecurrentrateofclimbto
+thepilot.
+■ InstantaneousVSI (IVSI)solvesthelagissuewiththeadditionofverticalaccelerometers.
+AirplaneIFRQuick-Review|Page6|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+ForVFRday :
+A T.O.M.A.T.O F.L.A.M.E.S–
+A-Altimeter
+T-Tachometerforeachengine
+O-Oiltemperatureindicatorforeachengine
+M-Manifoldpressuregaugeforeachaltitudeengine
+A-Airspeedindicator
+T-Temperaturegaugeforeachliquidcooledengine
+O-Oilpressuregaugeforeachengine
+F-Fuelquantitygaugeforeachtank
+L-Landinggearpositionlights(ifretractablegear)
+A-Anticollisionlights(aircraftcertifiedafterMarch
+11,1996)
+M-Magneticdirectionindicator(mag.compass)
+E-ELT,ifrequiredby§91.207
+S-Safetybelt/shoulderharness
+ForVFRnight :
+AllVFRdayequipment+FLAPS
+F.L.A.P.S–
+F-Fuses (spareset)
+L-Landinglight (ifforhire)
+A-Anticollisionlights
+P-Positionlights (navigationlights)
+S-Sourceofelectricalpower (i.e.,battery)
+Ifoperating forhireoverwater andbeyondpower-off
+glidingdistancefromshore :(unlesspart121)
+■ Anapprovedfloatationdeviceforeachoccupant
+■ Atleastonepyrotechnicsignalingdevice
+ForflightaboveFL240 :
+IfVORused,thanDMEorRNAVsystemisalsorequired.
+ForIFRday :allVFRdayequipment+GRABCARD
+ForIFRnight :allVFRday+VFRnight+GRABCARD
+G.R.A.B.C.A.R.D–
+G-Generator/alternator
+R-Radios (two-waynavigationalequipmentappropriatefortheroute
+tobeflown)
+A-Altimeter (sensitive=adjustableforbarometricpressure)
+B-Ball (slip-skidindicator)
+C-Clock (showshours,minutesandsecondsandinstalledaspartof
+aircraftequipment)
+A-Attitudeindicator
+R-Rate-of-turnindicator
+D-Directionalgyro (headingindicator)
+OPERATING WITH INOPERATIVE ITEMS (§91.213)
+Aircrafthasan
+MEL?
+Istheinoperativeequipmentrequiredby :
+■ VFR-daytypecertificationrequirements?
+■ Equipmentlistorkindofoperationsequipmentlist?
+■ §91.205orotherregulationsforkindofoperations?
+■ AnAirworthinessDirective(AD)?
+Flyingispermitted,provided:
+■ Inoperativeequipmentis removed,or
+■ deactivatedandplacarded“Inoperative.”
+■ Pilot/mechanicdeterminesnohazardfrominopitem.
+Flying not allowed without a 
+special flight permit
+FollowMEL
+provisions
+Yes
+No
+No
+Yes
+MINIMUM EQUIPMENT REQUIRED FOR FLIGHT (§91.205)
+MAGNETIC COMPASS ERRORS& LIMITATIONS– D.V M.O.N.A
+■ D-Deviation
+■ V-Variation
+■ M-Magneticdip
+■ O-Oscillation
+■ N-North/southturnerrors-
+Northernhemisphere: UNOSUndershootNorth/OvershootSouth
+■ A-Accelerationerrors-
+Northernhemisphere: ANDSAccelerateNorth/DecelerateSouth
+ELECTRONIC FLIGHT INSTRUMENTS
+■ AttitudeHeadingReferenceSystems(AHRS) –Providesmoreaccurateandreliableattitudeandheadingdatathan
+traditionalseparategyrosystems.ThefirstAHRSunitswereveryexpensiveandreliedonlasergyrosandfluxvalves.Today
+theyarebasedonsolidstatetechnologies(nomovingparts)andarecheaper,smallerandeasiertomaintain.
+■ AirDataComputers(ADC) –replacesthemechanicalpitot-staticinstruments.TheADCreceivesinputsfromthepitot,static
+andoutsidetemperatureportsandcomputesairspeed,trueairspeed,verticalspeedandaltitude.
+■ Flightdirector –computesanddisplayscommandbarsovertheattitudeindicatortoassistthepilotinflyingselectedheading,
+courseorverticalspeed.
+■ FlightManagementSystem(FMS) –Receivesinputsfromvarioussensorsandprovidesguidancetotheautopilotandflight
+directorthroughouttheflight.TheFMSalsoautomaticallymonitorsandselectsthemostappropriatenavigationsourcefor
+accuratepositioning.(GPS,VOR/DME,INSetc.)
+■ ElectronicFlightInstrumentSystems(EFIS) –AKA“Glasscockpit”.
+■ PrimaryFlightDisplays(PFD) –Displaysflightdatasuchasattitude,altitude,airspeed,VSIandheadingaswellasrate
+tapes.
+■ Multi-FunctionDisplays(MFD) –Displaysavarietyofinformationsuchasmovingmaps,aircraftsystemstatus,weatherand
+traffic.Itmayalsobeusedasabackupforotherdisplays,suchasthePFDorEICAS.
+AirplaneIFRQuick-Review|Page7|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+DISTANCE MEASURING EQUIPMENT
+(DME)
+■ 962-1213MHz (UHF).
+■ Normallytunedautomatically witha
+pairedVHFstation(VOR/LOC).
+■ TheAirborneDMEunittransmitsan
+interrogationsignal.
+■ ThegroundDMEfacilityreceivesand
+repliestotheinterrogation.
+■ Airborneunitcalculatesthe slantrange
+distancetothestationbasedonthe
+replytime.
+■ Duetoslantrangeerror,wh enflying
+overheadthestation,DMEindicationis
+not“0”.
+■ Slantrangeerrorisnegligibleat1NM
+fromtheDMEstationperevery1000ft.
+Forexample,at5000ft,slantrange
+errorisnegligiblewhenfurtherthan5
+NMofthestation.
+RADIO NAVIGATION
+NON-DIRECTIONAL BEACON(NDB)
+■ Operatesatthe190-535kHzrange(canreceiveandpointtowardscommercial
+radioAMstationat550-1650kHz).
+■ Lowtomediumfrequencyband.
+■ ADF(AutomaticDirectionFinder)inaircraftpointstowardstheNDBstation.
+■ MagneticBearing=MagneticHeading+RelativeBearing
+COMPASS LOCATOR
+Alow-poweredNDBtransmitter (atleast25Wattsand15NMrange)installedatthe
+OMortheMMonsomeILSapproaches.
+NDBServiceVolumeClasses
+CompassLocator 15NM
+MediumHigh(MH) 25NM
+High(H) 50NM(orless,aspublishedinNOTAMor
+ChartSupplement)
+HighHigh(HH) 75NM
+AREA NAVIGATION(RNAV)
+■ Allowsnavigationonanydesiredpathwithoutthe
+needtooverflyground-basedfacilities.
+■ Types:
+▷ GlobalNavigationSatelliteSystem( GNSS)
+(e.g.,GPS,Galileo,GLONASS,BeiDou)
+▷ VOR/DMERNAV
+▷ DME/DMERNAV
+▷ InertialReferenceUnit/System(IRU/IRS)
+■ RNAVVNAV-V erticalNAVigationguidance.
+■ BARO-VNAV-AnRNAVsystemthatusesthe
+barometricaltitudetocomputeverticalguidancefor
+thepilot.
+■ PublishedRNAVroutesincludeQ(FL180toFL450)
+andT(1,200AGLto18,000MSL)routesandare
+designatedRNAV1unlesschartedotherwise.
+■ MagneticReferenceBearing(MRB)-thepublished
+bearingbetweentwowaypointsonanRNAVroute.
+REQUIRED NAVIGATIONPERFORMANCE(RNP)
+■ RNPis:
+▷ Astatementofnavigationequipmentandservice
+performance.
+▷ RNAVwithnavigationmonitoringandalerting .
+■ AllRNAVapproachesareRNPapproaches
+▷ MostUSRNPapproachesaretitled“ RNAV(GPS)”.
+▷ USApproacheswith “RNAV(RNP)”inthetitleare“ AR”
+(AuthorizationRequired)approaches,which requirespecial
+FAAapprovalforthecrew,aircraftandoperation .
+▷ Inothercountries ,allRNPapproachesmayhave“RNP”inthe
+title,eventhosethatdonotrequirespecialauthorization.
+RNPapproachminimasandequipment :
+■ GLSDAminimasusing GBAS(formerlyLAAS)
+■ LPMDAorLPVDAminimasrequire RNP,achievedby WAAS.
+■ LNAV/VNAV DAachievedbyVNAV-approvedWAAS,orBARO-
+VNAVsystems.
+■ LNAVMDA-achievedbyabasic, unaugmentedIFR-approvedGPS.
+25
+NM
+12,000ft
+Terminal
+1,000ft
+40
+NM
+18,000ft
+Low
+1,000ft
+18,000ft
+45,000ft
+60,000ft
+14,500ft
+1,000ft
+High
+40
+NM
+100
+NM
+100
+NM
+130
+NM
+STANDARD VOR SERVICE VOLUMES
+VHF OMNI DIRECTIONAL RANGE(VOR)
+■ 108.0to117.95MHz,excluding108.10-111.95withoddtenths(reservedforLOC
+frequencies).
+■ Fullscaledeflection:10º.
+■ Standardservicevolumesdonotapplytopublishedroutes.
+■ PilotmustverifycorrectandusableVORstationwithmorseIDbeforeusingit.
+VORlimitations
+■ Coneofconfusion
+■ Reversesensing(ifusedincorrectly)
+■ Requiresline-of-sightbetween
+aircraftandstation.
+VORReceiverChecks (§91.171)
+■ Performevery30calendardays
+▷ VOT±4º
+▷ RepairStation ±4º
+▷ VORgroundcheckpoint ±4º
+▷ VORairbornecheckpoint ±6º
+▷ DualVOR cross-check±4º
+▷ Abovea prominentground
+landmarkonaselectedradial at
+least20NMfromaVOR ,flying
+ata“reasonablelowaltitude ”±6º
+VORChecksign-off (§91.171)
+D.E.P.S–
+D-Date
+E-Error (bearingerror)
+P-Place
+S-Signature
+AirplaneIFRQuick-Review|Page8|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+GLOBAL POSITIONING SYSTEM(GPS)
+■ GPSisa GlobalNavigationSatelliteSystem(GNSS) operatedbytheUnitedStates .
+■ Theconstellationconsistsofaminimumof24satellites(withsomespares)orbitingabovetheearthat10,900NM.Thesystem
+isdesignedsothatatleast5satellitesareinviewatanygivenlocationonearth.
+■ TheAircraft’sGPSreceivercalculatesthedistancetoaGPSsatellitebasedonthetimelapsesincethebroadcasttimestamp
+(obtainedfromanatomicclockonboardthesatellite) andthetimeitreceivedthesignal.
+■ Usingonlyonesatellite,theaircraftcouldvirtuallybeonanypointonaspheresurroundingthesatellite,withthecalculated
+distance(“pseudo-range”)asthesphere’sradius.
+■ TheGPSreceiverusestheintersectionofspheres,frommultiplesatellites,tocalculatetheaircraft’sgeographicalposition.
+Courseandspeeddataarecomputedfromaircraftpositionchanges.
+■ Atleast 3satellitesarerequiredfor2d position.(latitudeandlongitude); atleast 4satellitesarerequiredfor3d position.
+(latitude,longitudeandaltitude).
+■ ReceiverAutonomousIntegrityMonitoring(RAIM) isafunctionofGPSreceiversthatmonitorstheintegrityofthesatellite
+signals.
+▷ RAIM(faultdetection)requiresaminimumof5satellites,or,4satellites+analtimeterinput(baro-aidedRAIM)
+▷ Toeliminateacorruptsatellite(faultexclusion),RAIMneedsanadditionalsatellite(totalof6or5+baro-aid)
+■ Adatabaseloadedintothereceiverunitcontainsnavigationaldatasuchas:airports,navaids,routes,waypointsandinstrument
+procedures.
+■ AirborneGPSunitsuse great-circlenavigation.
+■ GPSCDI deflectionshows distance,unlikeaVOR’sCDI,whichpresentsan angulardistance offcourseindegrees.
+■ GPScansubstituteADForDME,exceptforADFsubstitutiononNDBapproacheswithoutaGPSoverlay(“orGPS”intitle).
+■ CheckGPSNOTAMSbeforetheflight anduse RAIMprediction ifavailableonyourreceiver.
+■ GPSAugmentationsystems,orDifferentialGPS(DGPS) –ImprovestheaccuracyofGPSbymeasuringerrorsreceivedby
+referencestationsatknowngeographicallocationsandthenbroadcastingthoseerrorstosupportedGPSreceivers.
+▷ SatelliteBasedAugmentationSystem(SBAS)
+□ WideAreaAugmentationSystem(WAAS) intheUS; EGNOSinEurope.
+□ Groundstations(Wide-areaReferenceStationsandWide-areaMasterStations)measureGPSerrorsandproduce
+correctionsignals.Thesecorrectionsare broadcastedbacktothesatellitesegmentfromwhichtheyarebouncedback
+toaircraftGPSWAASreceiverstoimprove accuracy,integrity andavailabilitymonitoring forGPSnavigation .
+□ Coversawidearea .
+□ FacilitatesAPVapproaches suchas LPVandLNAV/VNAVandLP approaches .
+▷ GroundBasedAugmentationSystem(GBAS)
+□ Formerlynamed LocalAreaAugmentationSystem(LAAS) intheUS.NowreplacedwiththeICAOterm“GBAS.”
+□ Errorsarebroadcasted viaVHF toGBAS-enabledGPSreceivers.
+□ GBASis moreaccuratethanWAAS butcoversamuchsmallergeographicalarea .
+□ Allowsfor categoryI andaboveapproachesto GLSDA minima.
+UnderstandingthedifferencebetweenRNAV,GNSS,GPS,PBNandRNP
+■ AreaNavigation( RNAV)
+▷ RNAVisasystemthatenablesnavigationbetweenanytwopointswithouttheneedtooverflyground-basedstations.
+■ GNSSisabroadtermforsatellite-basedRNAVsystems.
+▷ GPSistheGNSSoperatedbytheUSA.OtherexamplesareGLONASSbyRussiaandGalileobytheEU.
+■ PerformanceBasedNavigation(PBN)
+▷ PBNisageneralbasisfornavigationequipmentstandards,intermsofaccuracy,integrity,continuity,availabilityand
+functionalityforspecificoperationcontexts(e.g.,finalapproach,enroute,missedapproach).
+■ RequiredNavigationPerformance(RNP)
+▷ RNPisaspecific statementofPBN fortheflightsegmentandaircraftcapability.
+▷ RNPisalsodefinedas RNAV+navigationmonitoringandalertingfunctionality .
+□ ReceiverAutonomousIntegrityMonitoring(RAIM)orbuilt-inmonitoringinWAASprovidethiscapability.
+▷ Enroute–RNP2.0(2NMaccuracy95%oftheflighttime)
+▷ Terminal&Departure–RNP1.0(1NMaccuracy95%oftheflighttime)
+▷ FinalApproach–RNP0.3(0.3NMaccuracy95%offlighttime)
+▷ AdvancedRNP(A-RNP)-isahigherRNPstandardmandatoryforRNPAR,thatrequirecapabilityfor: (AIM1-2-2)
+□ Radius-to-Fix(RF)legs
+□ ScaleableRNP(meaningRNPaccuracycanchangevalue),and
+□ Paralleloffsetflightpathgeneration
+AirplaneIFRQuick-Review|Page9|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+APPROACH LIGHT SYSTEMS(ALS) (AIM2-1-1)
+■ Providesbasic visiblemeanstotransitionbetweeninstrument-guidedflightintoa
+visualapproach.
+■ ALSextendsfromthelandingthresholdintotheapproacharea upto:
+▷ 2,400-3,000feetfor precisioninstrumentrunways ,and
+▷ 1,400-1,500feetfor non-precisioninstrumentrunways .
+■ Mayinclude sequencedflashinglights ,whichappeartothepilotasaballoflighttraveling
+towardstherunwayattwiceasecond(AKA“TheRabbit”).
+■ ThevisiblepartsoftheALSconfigurationcanhelpthepilotestimateflightvisibility.
+ALSF-2
+MARKER BEACONS
+■ Providerangeinformation overspecificpointsalongthe
+approach.Transmitsat75MHz.
+■ Outermarker:4-7milesout.Indicatethepositionatwhich
+theaircraftshouldintercepttheGSattheappropriateinterceptionaltitude±50ft. BLUE.“---“
+■ Middlemarker:~3500ftfromtherunway.IndicatestheapproximatepointwheretheGSmeetsthedecisionheight.Usually
+200ftabovethetouchdownzoneelevation. AMBER.“.-.-”
+■ Innermarker:betweentheMMandrunwaythreshold.IndicatesthepointwheretheglideslopemeetstheDHonaCATIIILS
+approach.WHITE.“...”
+■ Backcoursemarker :IndicatestheFAFonselectedbackcourseapproaches. NotapartoftheILSapproach .WHITE.“....”
+BC IM MM OM
+I
+M
+O
+LOCALIZER (AIM1-1-9)
+■ Provideslateralcourseguidance.
+■ Frequencies:108.1-111.95MHz withoddtenthsonly .
+■ Width:Between 3°-6°sothatthewidthatthethresholdwouldbe700feet.
+Usually5°totalwidth .(2.5fulldeflectiontoeachside,4timesmoresensitive
+thanaVOR).
+■ Coveragerange:35°toeachsideofthecenterlineforthefirst10NMand10°
+upto18NMfromtheantennaanduptoanaltitudeof4500'.
+Localizer
+Antenna
+Array
+Back
+Course
+Front
+Course
+10º
+700’wide
+18NM10NM
+10º
+35º
+35º
+Runway
+3º-6º
+GLIDE SLOPE (AIM1-1-9)
+■ Providesverticalcourseguidance.
+■ Frequencies:329.3to335MHz(UHF) (automaticallytunedwithLocalizerfreq.)
+■ Width:1.4º(fulldeflectionis0.7ºeitherdirection).
+■ Range:typically upto10NM .
+■ Slope:typically 3°.
+■ Errors:Falseglideslope abovenormalglideslope.
+250-650ft
+750-1,250ft
+1.4º3º
+10
+NM
+FalseSlope
+INSTRUMENT LANDING SYSTEM(ILS)
+ILS
+Category Visibility DH
+CATI 2,400’or
+1,800’ 200’
+CATII 1,200’ 100’
+CATIIIa >700’ <100’orno
+DH
+CATIIIb 150’-700’ <50’orno
+DH
+CATIIIc 0’ NoDH
+■ Control&PerformanceMethod –Dividesthecockpitpanelby controlinstruments andperformanceinstruments.First,
+setthepowerandattitude,thenmonitortheperformanceandmakeadjustments.
+▷ Controlinstruments
+□ Power-Tachometer,Manifoldpressure,EPR,N1,etc.
+□ Attitude-AttitudeIndicator
+▷ PerformanceInstruments
+□ Pitch:altimeter,airspeedandVSI
+□ Bank:HeadingIndicator,TurnCoordinator,andmagneticcompass
+■ Primary&SupportingMethod –Dividesthecockpitpanelby Pitch,Bank,andPowerinstruments .
+▷ Pitchinstruments:AttitudeIndicator,Altimeter,AirspeedInd.,andVSI.
+▷ Bankinstruments:Attitudeind.,Headingind.,Mag.Compass,andTurnCoordinator.
+▷ Powerinstruments:Airspeed,Tachometer,Manifoldpressure
+▷ Foraspecificmaneuver,primaryinstrumentsprovidethemostessentialinformationforpitch,bankandpowerwhile
+supportingInstrumentsbackupandsupplementtheinformationpresentedbytheprimaryinstruments.
+▷ Example,foraconstantrateclimbwithastandardrateturn–
+□ Primary:Pitch-VSI;Bank-TurnCoordinator;Power-RPM/MP
+□ Secondary:Pitch- ASI;attitude,Bank-AI,HI,Mag.Compass;Power-ASI
+■ CrossCheck ■ Instrumentinterpretation ■ AircraftControl
+Basicattitudeinstrumentflyingskills :
+■ Fixation ■ Omission ■ Emphasis
+CommonErrors:
+ATTITUDEINSTRUMENT FLYING
+AirplaneIFRQuick-Review|Page10|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+MANDATORYREPORTS UNDER IFR
+M.A.R.V.E.L.O.U.S.V.F.R.C.500-
+(AIM5-3-3,§91.183,§91.187)
+■ Missedapproach
+■ Airspeed±10kts/5% changeoffiledTAS(whichever
+isgreater)
+■ Reachingaholdingfix (reporttime&altitude )
+■ VFRontop whenan altitudechangewillbemade.
+■ ETAchange±3min
+■ Leavingaholdingfix/point
+■ Outermarker(orfixusedinlieuofit)*
+■ Un-forecastedweather
+■ Safetyofflight (anyotherinformationrelatedtosafety
+offlight)
+■ Vacatinganaltitude/FL
+■ FinalApproachfix*
+■ Radio/Nav/approachequipmentfailure (§91.187)
+■ Compulsoryreportingpoints▲* (§91.183)
+■ 500-unableclimb/descent500fpm
+*Requiredonlyinnon-radarenvironments (including
+ATCradarfailure)
+POSITION REPORT ITEMS REQUIRED IN NON-
+RADAR ENVIRONMENT
+(§91.183,AIM5-3-2)
+■ AircraftID.
+■ Position.
+■ Time.
+■ Altitude.
+■ Typeofflightplan (exceptwhencommunicatingwith
+ARTCC/Approachcontrol).
+■ ETAandnameofnextreportingfix .
+■ Nameonlyofthenextsucceedingpoint alongthe
+routeofflight.
+■ Anypertinent remarks.
+HOLDING PATTERNS
+(AIM5-3-8)
+■ ATCmayassignholdinginstructionstodelayorseparate
+trafficintheairforreasonssuchasweatherorairport
+closures.
+Non-chartedholdingclearanceitems:
+▷ Directionofholdfromthefix(e.g.,N,W,S,NE)
+▷ HoldingFix
+▷ Radial,course,airway,orroute onwhichtohold.
+▷ Leglength inmiles(ifDMEorRNAV) orminutes
+otherwise.
+▷ Directionofturns (ifleft).Otherwise, rightturnsare
+standard.
+▷ ExpectFurtherClearance(EFC) time
+Chartedholdingclearanceitems
+▷ HoldingFix
+▷ Direction
+▷ EFC
+■ Startspeedreduction3minutes
+beforereachingtheholdfix .
+■ Actionsatholdfixandeach
+turnpoint
+5Ts
+▷ Turn
+▷ Time
+▷ Twist
+▷ Throttle
+▷ Talk
+MAKE ALL HOLD TURNS:
+■ 3ºpersecond,or
+■ 30ºbankangle,or
+■ FollowFlightDirectorbankangle
+HOLDING PATTERNTIMING
+■ Starttimingoutboundabeam/overthefix
+(whicheverislater).Or,iftheabeampointcannot
+bedetermined,startthetimeatthecompletionof
+theoutboundturn.
+■ Adjusttheoutboundlegsotheinboundlegtakes:
+▷ Atorbelow14,000’MSL–1minute
+▷ Above14,000’MSL–1.5minutes
+▷ DME/GPSholds–flytheoutboundlegtothe
+specifieddistancefromthefix/waypoint.
+HOLDING SPEEDS
+■ Mayberestrictedto175ktsonsomeinstrument
+approachprocedures
+*Unlesspublishedotherwise.
+HOLDING ENTRY
+Direct-Uponcrossingthefixturnto
+followtheholdingpattern
+Parallel-Uponcrossingthefix,turnto
+a headingparalleltotheholdingcourse
+outboundfor1minute.Thenturninto
+thetheholdpatterntointerceptthe
+inboundcourse.
+Teardrop-Uponcrossingthefix,
+turnoutboundtoaheading30ºinto
+thepattern.Flyitfor1minute,then
+turninthedirectionoftheholdturnsto
+intercepttheinboundcourse.
+ALTITUDE(MSL) MAX AIRSPEED(KTS)
+6,000’orbelow 200kts
+6001-14,000 230kts
+14,001andabove 265kts
+AirForcefields 310kts*
+NavyFields 230kts*
+Teardrop
+Direct
+Parallel
+70º
+180º
+110º
+AirplaneIFRQuick-Review|Page11|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+LOST COMMUNICATIONS PROCEDURE (§91.185)
+ALTITUDE TO FLY ROUTE TO FLY
+FLYTHE HIGHEST OF:
+M.E.A–
+■ M-M inimumaltitudeprescribedforIFR
+■ E-E xpected(asin:“Expect500010minafterdeparture”)
+■ A-A ssigned.LastaltitudeassignedbyATC.
+SELECT THE ROUTE BY THIS ORDER:
+A.V.E.F–
+■ A-A ssignedroute,ifnone:
+■ V-V ectored(flytofix/route/airwaylastvectoredto),ifnone:
+■ E- LastExpectedroutebyATC,ifnone:
+■ F-F iledroute
+Istheclearance
+limitafixfrom
+whichan
+approach
+begins?
+Startdescentandapproach asclose aspossible
+totheEFC,orETA
+(ifnoEFCgiven)
+AtEFCorclearancelimit (ifnoEFCgiven),
+proceedtoa fixfromwhichanapproachbegins
+andstarttheapproach
+Yes
+No
+LEAVING THE CLEARANCE LIMIT (§91.185)
+PROCEDURE TURN
+(§91.175,AIM5-4-9)
+■ APTisamaneuverthatenables:
+▷ Coursereversal.
+▷ AdescentfromfromIAF.
+▷ Inboundcourseinterception.
+■ Maxspeed-200kts.
+■ Remainwithinthecharted
+distance(“Remainwithin_NM”
+note),typically10NM,and comply
+withpublishedaltitudes for
+obstacleclearance.
+■ Theshapeofthemaneuveris
+mandatoryifateardroporholding-
+in-lieuofaPTispublished.
+Otherwise,onlythedirectionogthe
+turnismandatory.
+■ Ateardropprocedure maybe
+publishedinlieuofaPT. Inthat
+case:
+▷ NoIFpublished ?Intermediate
+segmentbegins10milespriorto
+thefinalapproachfix.
+▷ Navfacilitylocatedonthe
+airport?Finalapproachstartsat
+completionoftheteardropturn.
+However,thefinalapproach
+segmentbeginsonthefinal
+approachcourse10milesfrom
+thefacility.
+■ APTorhold-in-lieu-of-PTis
+mandatorywhendepictedonthe
+approachchart.However,itis not
+permittedwhen:NoPTdepicted
+onthechart ,radarvectorstofinal
+orwhen conductingatimed
+approachfromaholdingfix.
+DO NOT FLYA PROCEDURE TURN WHEN:
+S.H.A.R.P.T.T–
+■ Straight-inapproachclearance.
+■ Holdinginlieuofaprocedureturn.
+■ DMEArc.
+■ Radarvectorstofinal.
+■ NoPTdepictedonchart.
+■ Timedapproachfromaholdfix.
+■ Teardropcoursereversal.
+Instrumentapproachtypes
+■ Precision
+Lateral+verticalguidancetoaDA.
+▷ ILS-InstrumentLandingSystem
+▷ MLS-MicrowaveLandingSystem
+▷ PAR-PrecisionApproachRadar
+▷ GLS-GBASLandingSystem
+▷ TLS-TransponderLandingSystem
+■ Non-Precision
+lateralguidanceonly.FlowntoMDA.
+▷ VOR
+▷ NDB
+▷ RNAV/RNP toLNAVorLPMinima
+▷ LOC-Localizer
+▷ LDA-Localizer-typeDirectionalAid.
+IdenticaltoaLOCbutnotalignedwith
+therunway.
+▷ SDF-SimplifiedDirectionalFacility.
+Similartoa LOCwith6ºor12ºwidth.
+Maybealignedornotwiththerunway.
+▷ ASR-ApproachSurveillanceRadar
+■ ApproachwithVerticalGuidance (APV).
+Aprecision-likeapproach,flowntoaDA
+withlateral+verticalguidance,butdoes
+notmeetprecisionapproachstandards.
+▷ RNAV/GNSS (i.e,LNAV/VNAVand
+LPVminima)
+▷ LDAwithGlideSlope
+ApproachClearances
+■ Whencanyoudescendtothe
+nextinstrumentapproach
+segment?
+▷ Whenclearedfortheapproach
+andestablishedonasegmentof
+apublishedapproachorroute.
+(AIM5-5-4)
+■ Contactapproach (AIM5-5-3)
+▷ Requestedbythepilotinlieuof
+aninstrumentapproach.(Cannot
+beinitiatedbyATC)
+▷ Requiresatleast1SMground
+visibilityandremainclearof
+clouds.
+▷ Onlyatairportswithapproved
+instrumentapproachprocedures.
+▷ Pilotassumesresponsibilityfor
+obstructionclearance.
+■ Visualapproach (AIM5-5-11)
+▷ Initiatedbyeither ATCorthe
+pilot.
+▷ Requiresatleast 1000’ceiling
+and3SMvisibility. (IFRunder
+VMC)
+▷ Pilotmusthaveeithertheairport
+orthetraffictofollowinsight.
+▷ Pilotisresponsibleforvisual
+separationfromtraffictofollow.
+MissedApproach (AIM5-5-5)
+■ Executeamissedapproachwhen:
+▷ ArrivalatMAPorDHwith
+insufficientvisualreferenceto
+runwayenvironment.
+▷ Asafeapproachisnotpossible.
+▷ InstructedtodosobyATC.
+165º
+345º
+AirplaneIFRQuick-Review|Page12|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+WhencanyoudescendbelowMDA/DA ? (§91.175)
+1.Theaircraftis continuouslyinaposition fromwhich adescenttoalandingontheintendedrunway canbemadeata
+normalrateofdescentusingnormalmaneuvers .
+2.The flightvisibility (ortheenhancedflightvisibility,ifequipped)is notlessthanthevisibilityprescribedinthestandard
+instrumentapproach beingused.
+3.Atleastone ofthefollowing visualreferences fortheintendedrunwayis distinctlyvisibleandidentifiabletothepilot :
+(exceptforCATII&IIIapproaches)
+i.The approachlightsystem ,exceptthat thepilot maynotdescendbelow100feet abovethetouchdownzoneelevation
+usingtheapproachlightsasareference unlessthe redterminatingbars ortheredsiderow barsarealso distinctly
+visibleandidentifiable .
+ii.The threshold.
+iii.The thresholdmarkings.
+iv.The thresholdlights.
+v.The runwayendidentifierlights .
+vi.The visualglideslopeindicator .
+vii.The touchdownzone ortouchdownzonemarkings .
+viii.The touchdownzonelights .
+ix.The runwayorrunwaymarkings.
+x.The runwaylights.
+VISUAL DESCENT POINT(VDP) (AIM5-4-5)
+■ Adefinedpointonthefinalapproachcourseofa non-precisionstraight-inapproach procedurefromwhichnormaldescent
+fromtheMDAtotherunwaytouchdownpointmaybegin ,providedadequatevisualreferenceisestablished.
+■ Identifiedbya‘V’symbolonthedescentprofile.
+■ IfnotequippedtoidentifytheVDP,flytheapproachasifnoVDPwaspublished.
+■ DonotdescendbelowtheMDApriortoreachingtheVDP.
+■ CalculateVDP,whennotpublished:
+Bydistance:VDP(inNMfromthreshold)=MDH/300
+Example:MDHis600ft.
+VDP = 600 / 300 = 2 NM
+Start the descent 2 NM from the threshold.
+Bytime:MDH/10=secondstosubtractfromtimebetweenFAFandMAP
+Example:MDHis500ft,FAFtoMAPis4:00.
+500 / 10 = 50 seconds. 4:00 - 0:50 = 3:10
+Start the descent at 3:10 (time from FAF)
+VISUAL DESCENT ANGLE(VDA) (AIM5-4-5)
+■ Acomputedglidepath fromtheFAFtotherunway’sTCHpublishedfornon-precisionapproaches.Typically3º.
+■ FAApolicyistopublishaVDA/TCHonallnon-precisionapproachesexceptthosepublishedinconjunctionwithvertically
+guidedminimums(i.e.,ILSorLOCRWYXX)ornoFAFprocedureswithoutastepdownfix(i.e.,on-airportVORorNDB).A
+VDAdoesnotguaranteeobstacleprotectionbelowtheMDAinthevisualsegment.ThepresenceofaVDAdoesnotchange
+anynon-precisionapproachrequirements.
+■ VDAsare advisoryonly,pilotsmuststill complywithallpublishedaltitudes ontheprocedure.
+RateofDescentfora3ºGlidePath
+VS (fpm) = Ground Speed X (10 / 2), or
+VS (fpm) = Ground Speed X 5 
+Example:
+120 kts X (10 / 2) = 120 kts X 5 = 600 fpm
+HowFarto StartaDescentfora3ºGlidePath?
+TOD = Altitude to lose (ft) / 300
+Example,onapproach
+800fttoloseMDAtoTCH:
+800/300 = 2.67 NM
+Startdescent2.67NMfromtherunwaythreshold.
+Example
+CruisingatFL320,ATC:“...crossLGAVORatFL240”:
+Altitude to lose = 35,000 - 24,000 = 11,000 ft
+11000/300 = 36.67 NM
+OtherGlidePathAngles
+Descent gradient (%) = tan(descent angle) X 100
+VS (fpm) = Groundspeed X Descent Gradient (%)
+TOD = Altitude to lose / (glidepath angle *100)
+Example
+AtFL350,ATC:”...crossLGAORatFL240”,pilotelectsasteep
+4ºslope,380ktsGS:
+VS = 380 X 7 = 2660 fpm
+TOD = 11000 / 400 = 27.5 NM
+Startthedescent27.5NMfromLGAat2800fpm
+Descentangle Gradient(%)=tan(angle)
+2º 3.5%
+3º 5.2%
+4º 7%
+5º 8.7%
+AirplaneIFRQuick-Review|Page13|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+D
+3152*
+C
+3152*
+B
+3SMVisibility&
+stayClearofClouds
+*Minimumvisibility&distancefromcloudsmnemonics:
+3152–3SM,1000’above,500’below,2000’horizontal.
+1152–1SM,1000’above,500’below,2000’horizontal.
+5111–5SM,1000’above,1000’below,1SMhorizontal.
+BASIC VFR WEATHER MINIMUMS (§91.155)
+ClassA:IFRonly
+ClassEabove10,000’MSL &ClassGabove
+10,000’&1,200’AGL :5111*
+ClassEbelow10,000’MSL: 3152*
+ClassGabove1,200’AGLbutbelow10,000’
+MSL:Day:1152* Night:3152*
+ClassGbelow1,200’AGL :
+Day:1SMclearofclouds
+Night:3152* or1SMClearofCloudsifin
+atrafficpatternwithin½SMfroma
+runway.
+10,000’MSL
+Surface
+1,200’AGL
+WEATHER INFORMATION SOURCES
+■ FlightServiceStation (FSS)
+■ NOAA’sAviationWeatherCenterWebsite https://www.aviationweather.gov/
+■ Flightplanningwebsitessuchas www.1800wxbrief.comandwww.fltplan.com
+■ EFBsoftware(i.e.,ForeFlight,JeppesenFlightDeckPro)
+■ TranscribedWeatherBroadcast(TWEB) –AvailableinAlaskaonly .ArecordedbroadcastoverselectedL/MFandVOR
+facilitiesofweatherinformationforthelocalarea.
+■ FlightInformationServices-Broadcast(FIS-B) –Agroundinformationdatalinkservice,providedthroughthe ADS-Bservice
+networkover978UATMHz.Providesaviationweatherandaeronauticalinformationoncockpitdisplays.Someinformation
+availableonFIS-B:
+▷ METAR,TAF,NEXRAD,AIRMET,SIGMETsandconvectiveSIGMETs
+▷ TFR,SpecialUseAirspaceupdatesandNOTAMs(FDCanddistant)
+▷ PIREPs
+■ AutomaticTerminalInformationService(ATIS) –AcontinuousbroadcastoflocalairportweatherandNOTAMs.Updated
+hourly,normallyat55minutespassedthehour.Specialupdatesissuedoutsidetheregularhourlycyclewhenneeded.ATISis
+publishedovertheradioand,inlocationswithD-ATIS,viadatalink(ACARS).
+■ AutomatedSurfaceObservationSystem(ASOS) –Typicallyupdatehourly
+■ AutomatedWeatherObservationSystem(AWOS) –Updateeveryminute
+■ ATC-CenterweatheradvisoriesareissuedbyARTCCtoalertpilotsofexistingoranticipatedadverseweatherconditions.
+ARTCCwillalsobroadcastsevereforecastalerts(AWW),convectiveSIGMETsandSIGMETsonallofitsfrequenciesexceptfor
+theemergencyfrequency(121.5MHz).
+■ Onboardweatherradar
+■ Onboardlightningdetector
+■ XMSatelliteweatherservice
+■ ACARS
+WEATHER PRODUCTS
+■ AIRMET(WA) –
+▷ Anadvisoryof significantweatherphenomena atlowerintensitiesthanthosewhichrequiretheissuanceofSIGMETs .
+Theseconditions mayaffectallaircraft butare potentiallyhazardoustoaircraftwith limitedcapability.
+▷ Validfor6hours .
+▷ AIRMET(T) -describes moderateturbulence,sustainedsurface windsof30knotsorgreater ,and/ornon-convective
+low-levelwindshear .
+▷ AIRMET(Z) -describes moderateicing andprovidesfreezinglevelheights.
+▷ AIRMET(S) -describes IFRconditions and/orextensive mountainobscurations.
+▷ GraphicalAIRMETs (AIRMETG)–foundat www.aviationweather.gov
+WEATHER
+AirplaneIFRQuick-Review|Page14|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+AirplaneIFRQuick-Review|Page15|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+■ SIGMET(WS) –
+▷ Anon-scheduledinflight
+advisorywitha maximum
+forecastperiodof4hours .
+Advisesofnon-convective
+weatherpotentiallyhazardousto
+alltypesofaircraft.ASIGMETis
+issuedwhenthefollowingis
+expectedtooccur:
+▷ Severeicingnotassociated
+withthunderstorms
+▷ Severeorextremeturbulence
+orClearAirTurbulence(CAT)
+notassociatedwith
+thunderstorms.
+▷ Duststorms,sandstorms
+loweringsurface visibilitybelow
+3miles.
+■ ConvectiveSIGMET(WST) –
+▷ Aninflightadvisory of
+convectiveweathersignificant
+tothesafetyof allaircraft.
+▷ Issuedhourlyat55minutes
+pastthehourforthe western
+(W),eastern(E)andcentral(C)
+USA.
+□ NotissuedforAlaskaor
+Hawaii.
+▷ Validfor2hours .
+▷ Containseither anobservation
+andaforecastoronlya
+forecast.
+▷ Issuedforanyofthefollowing :
+□ Severethunderstorms due
+to:
+◦ Surfacewindsgreateror
+equalto50knots
+◦ Hailatthesurfacegreater
+than3/4inchindiameter
+□ Tornadoes
+□ Embeddedthunderstorms of
+anyintensitylevel
+□ Alineofthunderstorms at
+least60mileslong with
+thunderstormsaffectingat
+least40%ofitslength
+□ Thunderstormsproducing
+heavyorgreater
+precipitation(VIPlevel4 )
+affectingatleast40%ofan
+areaofatleast3000square
+miles.
+▷ AnyConvectiveSIGMET
+impliessevereorgreater
+turbulence,severeicing,and
+lowlevelwindshear.
+■ InternationalSIGMET
+▷ IssuedoutsidetheContiguous
+USAandfollowICAOcoding
+standards.
+▷ IntheUS,internationalSIGMETs
+areissuedfor areasthatinclude
+Alaska,Hawaii,portionsofthe
+AtlanticandPacificOceans,
+andtheGulfofMexico .
+WEATHER PRODUCTS- CONTINUED
+▷ Criteriaforinternational
+SIGMETs:
+□ Thunderstormsoccurringin
+lines,embeddedinclouds,
+orinlargeareasproducing
+tornadoesorlargehail.
+□ Tropicalcyclones
+□ Severeicing
+□ Severeorextreme
+turbulence
+□ Duststorms andsandstorms
+loweringsurface visibilityto
+lessthan3miles
+□ Volcanicash
+■ PIREP(UA) &UrgentPIREP(UUA)
+–pilotweatherreports.
+■ METAR–Aviationroutineweather
+showsurfaceweatherobservations
+inastandardinternationalformat.
+ScheduledMETARsarepublished
+everyhour.Non-scheduled
+METARS(SPECI)areissuedwhen
+thereisasignificantchangeinone
+ormorereportedelementsincethe
+lastscheduledMETAR.
+■ TAF–TerminalAerodrome
+Forecast.Weatherforecastfor5SM
+radiusareaaroundthestation.
+Issued4timesaday,everysix
+hoursandnormallycoversa24or
+30hourforecastperiod.TAF
+amendments(TAF AMD)supersede
+previousTAFs.
+■ Surfaceanalysischart –Generated
+fromsurfacestationreports.Shows
+pressuresystems,isobars,fronts,
+airmassboundaries(e.g,:drylines
+andoutflowboundaries)andstation
+information(e.g,:wind,temperature/
+dewpoint,skycoverage,and
+precipitation).Issuedevery3hours.
+(orevery6hoursinHawaiiand
+tropicalandOceanicregions).
+AUnifiedSurfaceAnalysisChart
+isproducedevery6hoursand
+combinestheanalysisfromthe4
+centers(OPC,WPC,NHCand
+HFO)
+■ Radarsummarychart(SD) –
+Depictsprecipitationtype,intensity,
+coverage,movement,echoes,and
+maximumtops.Issuedhourly
+■ Wind&tempaloftforecasts(FB) –
+Issued4timesdailyforvarious
+altitudesandflightlevels.
+Windsataltitudeupto1500’AGL
+andtemperaturesatupto2500’
+AGLarenotshown.
+Format:DDff±tt,whereDD=wind
+direction;ff=windspeed;tt=
+temperature.Lightandvariable
+winds:9900.Windsbetween100-
+199Ktarecodedbyadding5tothe
+firstdigitofthewinddirection.
+AboveFL240temperatu resare
+negativeandtheminussign(-)is
+omitted.
+Examples:
+1312+05:winds130/12kt,5°C.
+7525-02:winds250/125kt,-2°C.
+■ Lowlevelsignificantweather
+chart–Forecastssignificant
+weatherconditionsfora12and24
+hourperiodfromthesurfaceto400
+mblevel(24,000ft).Issued4times
+aday.Depictsweathercategories
+(IFR,MVFRandVFR),turbulence
+andfreezinglevels.
+■ Mid-levelsignificantweatherchart
+–Forecastsofsignificantweatherat
+variousaltitudesandflightlevels
+from10,000’MSLtoFL450.Shows:
+thunderstorms,jetstreams,
+tropopauseheight,tropicalcyclones,
+moderateandsevereicing
+conditions,moderateorsevere
+turbulence,cloudcoverageand
+type,volcanicashandareasof
+releasedradioactivematerials.
+Issued4timesadayfortheNorth
+AtlanticRegion.
+■ High-levelsignificantweather
+charts–Depictsforecastsof
+significantweatherphenomenafor
+FL250toFL630.Shows:coverage
+basesandtopsofthunderstorms
+andCBclouds,moderateand
+severeturbulence,jetstreams,
+tropopauseheights,tropical
+cyclones,severesqualllines,
+volcaniceruptionsites,widespread
+sandandduststorms.Issued4
+timesaday.
+■ Convectiveoutlook(AC) –
+Availableinbothgraphicaland
+textualformat.A3-dayforecastof
+convectiveactivity.Convective
+areasareclassifiedasmarginal
+(MRGL),slight(SLGT),enhanced
+(ENH),moderate(MDT),andhigh
+(HIGH)riskforsevereweather.
+Issuance:day1–5timesaday,day
+2–twiceaday,day3–onceaday.
+Availableon www.spc.noaa.gov.
+■ Weathersatellite images:
+▷ Visible
+□ Helpsinidentifyingcloud
+coveragebasedonvisible
+lightreflection.
+□ Notusefulforidentifyingcloud
+height.
+▷ Infrared(ColororB/W)
+□ Measurecloudtop
+temperature
+□ Highestcloudsappearbright
+white.
+□ Middlecloudsareinshadesof
+gray
+□ Lowcloudsandfogaredark
+gray,
+▷ Watervapor
+□ Showsareasofmoistand
+dryairinshadesofgray
+fromwhitetoblack.
+□ Moistairareasare
+depictedasbrightwhite
+□ Dryairisdepictedinblack.
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+■ NextGenerationWeatherRadar(NEXRAD) products.Examples:
+▷ Basereflectivity -echointensitiesindBZ.Availableforseveralelevationtiltangles.
+▷ Echotops -colorcodedechotopheights.
+▷ Compositereflectivity -Revealshighestreflectivityofallechos,helpsinexaminingstormstructurefeaturesandtheintensity
+ofstorms.
+▷ 1and3-hourprecipitation
+■ Ceiling&VisibilityCharts -Showsceilingbasedonsurfaceobservations.Thisonlinetoolphasedouttheolderweather
+depictionchartandisnowreplacedwiththeHEMStool atwww.aviationweather.gov/hemst
+■ GraphicalturbulenceGuidance(GTG) toolat www.aviationweather.gov/turbulence/gtg–Showscolorcodedturbulence
+forecastbasedonaircraftcategory,altitudeandtime.
+FOG
+Acloudthatbeginswithin50ftofthesurface .
+Fogoccurswhen :
+■ Theair temperaturenearthegroundreachesitsdewpoint ,or
+■ whenthe dewpointisraisedtotheexistingtemperature byaddedmoisture totheair.
+Typesoffog
+■ Radiationfog–Occursatcalm,clearnightswhenthegroundcoolsrapidlyduetothereleaseofgroundradiation.
+■ Advectionfog–Warm,moistairmovesoveracoldsurface.Windsarerequiredforadvectionfogtoform.
+■ Icefog–Formswhenthetemperatureismuchbelowfreezingandwatervaporturnsdirectlyintoicecrystals.Icefogis
+commoninthearcticregions,butalsooccursinmid-latitudes.
+■ Upslopefog–Moist,stableairisforcedupaterrainslopeandcooleddowntoitsdewpointbyadiabaticcooling.
+ICING
+■ StructuralIce.Twoconditionsforformation: 1.Visiblemoisture (i.e.,rain,clouddroplets),and 2.Aircraftsurface
+temperaturebelowfreezing .
+▷ Clearice–Themostdangeroustype.Heavy,hardanddifficulttoremove.Formswhenwaterdropsfreezeslowlyasa
+smoothsheetofsolidice.Usuallyoccursattemperaturesclosetothefreezingpoint(-10°to0°C)bylargesupercooled
+dropsofwater
+▷ Rimeice –Opaque,white,roughiceformedbysmallsupercooledwaterdropsfreezingquickly.Occursatlower
+temperaturesthanclearice.
+▷ Mixedice –Clearandrimeiceformedsimultaneously.
+■ Instrumentice –Structuraliceformingoveraircraftinstrumentsandsensors,suchaspitotandstatic.
+■ Inductionice –icereducingtheamountofairfortheengineintake.
+■ Intakeice –Blockstheengineintake.
+■ Carburetorice –MayformduetothesteeptemperaturedropinthecarburetorVenturi.Typicalconditionsareoutsideair
+temperaturesof-7°to21°Candahighrelativehumidity(above80%).
+■ Frost–Icecrystalscausedbysublimationwhenboththetemperatureandthedewpointarebelowfreezing.
+WEATHER PRODUCTS- CONTINUED
+THUNDERSTORMS
+TheThreeConditionsRequiredfortheformationofThunderstorms :
+1.Sufficient watervapor (moisture).
+2.An unstabletemperaturelapserate .Stabilityistheresistanceoftheatmospheretoupwardsordownwardsdisplacement.An
+unstablelapserateallowsanyairmassdisplacementtofurthergrowvertically.
+3.Aninitial upliftingforce (e.g.,frontpassages,orthographicliftingbytypography,heatingfrombelow,etc.).
+ThreeStagesinThunderstormLifecycle:
+1.Cumulus(3-5mileheight)–Theliftingactionoftheairbegins,growthratemayexceed3000fpm.
+2.Mature(5-10milesheight)–Beginswhenprecipitationstartsfallingfromthecloudbase.Updraftatthisstagemayexceed
+6000fpm.Downdraftsmayexceed2500fpm.All thunderstormhazardsareattheirgreatestintensityatthematurestage .
+3.Dissipating (5-7milesheight)–Characterizedbystrongdowndraftsandthecelldyingrapidly.
+ThunderstormHazards:
+■ Limitedvisibility
+■ Windshear
+■ Strongupdrafts/downdrafts
+■ Icing
+■ Hailstones
+■ Heavyrain
+■ Severeturbulence
+■ Lightningstrikesandtornadoes.
+AirplaneIFRQuick-Review|Page16|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+AirplaneIFRQuick-Review|Page17|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+AEROMEDICAL (PilotHandbookofAeronauticalKnowledge)
+■ Hypoxia-Insufficientsupplyofoxygentothebodycells.
+▷ Hypoxichypoxia –InsufficientsupplyofO2tothebodyasawhole.Asaltitudeincreases,O2percentageoftheatmosphere
+isconstant,butitspressuredecreases.ThereducedpressurebecomesinsufficientfortheO2moleculestopassthroughthe
+respiratorysystem’smembranes.
+▷ Hypemichypoxia –InabilityofthebloodtocarrytheO2molecules.Itmaybearesultofinsufficientblood(bleedingorblood
+donation),anemiaorCOpoisoning.
+▷ Histotoxichypoxia –InabilityofthebodycellstoaffectivelyusetheO2suppliedbytheblood.Thiscanbecausedbyuseof
+alcoholordrugs.
+▷ Stagnanthypoxia -Causedbythebloodnotflowingefficiently.Canbecausedbyheartproblems,excessiveacceleration
+(Gs),shockoraconstrictedbloodvessel.Coldtemperaturescanrestrictcirculationanddecreasebloodsuppliedtothe
+extremities.
+■ Hyperventilation–Aconditionwhichoccurswhenexcessiveamountofiseliminatedfromthebodyasaresultbreathingtoo
+rapidly.Symptomsmaybesimilartothoseofhypoxia.Breathingintoapaperbagortalkingaloudhelpsrecoveryfrom
+hyperventilation.
+■ Decompressionsickness –Inertgasses(mainlynitrogen)arereleasedrapidlyfromsolutioninthebodytissuesandfluidsasa
+resultoflowbarometricpressure.Thegassesformbubblesthatmayharmthebodyinseveralways.Themostcommonresultof
+decompressionsicknessisjointpain(“ thebends”).TohelppreventthebendsafterSCUBAdiving: waitatleast 12hours after
+divingthat doesnotrequireacontrolledascent (non-decompressionstopdiving) forflightsupto8000ft MSL;wait24
+hoursforflightsabove8000ft orafter anydiving thatrequiredacontrolledascent (decompressionstopdiving) .
+Oxygenrequirements (§91.211,Note:see§121.327-121.333&§135.89,§135.157forO2rulesapplyingtoparts121/135 )
+■ Unpressurizedcabins
+▷ Cabinpressurealtitudes12,500-14,000ftMSL(including)–Therequiredminimumflightcrewmustbe
+providedwithandmustusesupplementalO2forperiodsofflightover30minutesatthesealtitudes.
+▷ Cabinpressurealtitudesabove14,000ftMSL–Therequiredminimumflightcrewmustbeprovidedwithand
+mustusesupplementalO2theentireflighttimeatthesealtitudes.
+▷ Cabinpressurealtitudesabove15,000ftMSL–EachoccupantmustbeprovidedwithsupplementalO2.
+■ Pressurizedcabins
+▷ AboveFL250-anadditionofatleast10minutesofsupplementalO2foreachoccupantisrequired.
+▷ AboveFL350-onepilotatthecontrolsmustwearanduseanO2maskunlesstwopilotsareatthecontrolwithquick-donning
+masksandtheaircraftisatorbelowFL410.
+▷ IfonepilotleavesthecontrolsaboveFL350,theotherpilotmustwearandusehisO2maskregardlessifit’saquickdonning
+type.
+■ MiddleEar&Sinusblockage
+▷ Airpressureinthemiddleearandsinusesnormallyequalizeswithexternalairthroughthenasalpassages.
+▷ Allergies,coldsorsinusinfectionsmayblockthesesmallopeningandpreventthepressurefromequalizing.
+▷ Iftheairgetstrapped,itmaycauseextremepain,reductioninhearingordamagetotheeardrums.Thiseffectisusuallymost
+severeduringdescend.
+▷ Torelievethiscondition,trythe“ ValsalvaManeuver“:pinchyournostrilsand gentlytrytoblowairoutofyournose.This
+forcesairthroughtheEustachiantubeintothemiddleear.Itmaynotworkifthepilothasacold,sinusorearinfection,ora
+sorethroat.
+▷ Considerseeingaphysicianiftheconditiondoesn’tclearaftertheflight.
+■ Spatialdisorientationandillusions
+▷ 3systemsthebodyusesforspatialorientation
+□ VestibularSystem -Consistsoforgansintheinnerear
+◦ 3semicircularcanals sensemovementin3axes: pitch,rollandyaw .Thecanalsarefilledwithfluid,whichmoves
+againsttinysensoryhairsastheheadismoved.Thebraingetsthesesignalsandinterpretsasensationofmovement.
+◦ 2otolithorgans ,theutricleandsaccule,sense accelerationinthehorizontalandverticalplanes.
+□ SomatosensorySystem -Consistsofnervesintheskin,musclesandjoints.
+□ VisualSystem -Visualcuesfromoureyeshelpthebrainfigureoutspatialorientation.
+▷ VestibularIllusions
+□ Theleans -Afterlevelingthewingsfollowingaprolongedturn,pilotmayfeelthattheaircraftisbankedintheopposite
+directionoftheturn.
+□ CoriolisIllusion -Afteraprolongedturn,thefluidintheearcanalmovesatsamespeedasthecanal.Aheadmovement
+onadifferentplanewillcausethefluidtostartmovingandresultinafalsesensationofaccelerationorturningona
+differentaxis.
+□ GraveyardSpiral -Apilotinaprolonged,coordinatedconstant-rateturnmayexperiencetheillusionofnotturning.After
+levelingthewings,thepilotmayfeelthesensationofturningtotheotherdirection(“theleans”),causingthepilottoturn
+backintheoriginaldirection.Sinceahigherangleofattackisrequiredduringaturntoremainlevel,thepilotmaynoticea
+lossofaltitudeandapplybackforceontheelevator.Thismaytightenthespiralandincreasethelossofaltitude.
+□ SomatogravicIllusion -Rapidaccelerationstimulatestheinnerearotolithorgansinthesamewayastiltingthehead
+backwards.Thismaycreatetheillusionofahigherpitchangle.Decelerationcausestheoppositeillusionofthesensation
+oftiltingtheheadforwardandotheaircraftbeinginanose-lowattitude.
+□ InversionIllusion -Anabruptchangefromclimbtostraightandlevelmaycreatetheillusionoftumblingbackwardsdueto
+thefluidmovementintheotolithorgans.
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+RNPApproachMinima–supportedequipment
+Minima GLS (DA) LPV (DA) LP (MDA) LNAV / VNAV (DA) LNAV (MDA)
+ApproachType Precision APV Non-precision APV Non-precision
+GBAS(formerly
+LAAS) ✓ ✓ ✓ ✓ ✓
+WAAS ✓ ✓ ✓ ✓
+GPS+BaroVNAV ✓ ✓
+BasicIFRGPS ✓
+□ ElevatorIllusion -Anabruptupwardverticalaccelerationmaycreatetheillusionaclimb,duetofluidmovementinthe
+otolithorgans.
+▷ VisualIllusions
+□ FalseHorizon -Anillusioninwhichthepilotmaymisidentifythehorizonline.Maybecausedbyslopingcloudformation,
+anobscuredhorizon,anauroraborealis,darknightwithscatteredlightsandstarsorthegeometryoftheground
+□ Autokinesis-Staringatastationarypointoflightinadarkorfeaturelesssceneforaprolongedperiodoftimemaycause
+thelighttoappeartobemoving.Apilotmayattempttoaligntheaircraftwiththeperceivedmovinglight,resultinginlossof
+control.
+▷ OpticalIllusions
+□ RunwayWidthIllusion -Anarrowrunwaymaycreatetheillusionthattheaircraftishigherthanitactuallyis.Awide
+runwaymaycausetheoppositeeffectoftheaircraftflyingtoolow.
+□ RunwayandTerrainSlopeIllusion -Anuplospingterrainorrunwaymaycreatetheillusionthattheaircraftisatahigher
+altitudethanitactuallyis.
+□ FeaturelessTerrainIllusion -Alsoknownas“ blackholeapproach .”Flyingoverfeaturelessordarkareas,suchasinan
+overwaterapproach,cancreatetheillusionthattheaircraftisatahigheraltitudethanitactuallyisandmayleadthepilotto
+flyataloweraltitudethandesired.
+□ WaterRefraction -Rainonthewindscreencancreateanillusionofbeingatahigheraltitudeduetothehorizonappearing
+lowerthanitis.Thiscanresultinthepilotflyingalowerapproach.
+□ Haze-Shootinganapproachinhazemaycreatetheillusionthattherunwayisfurtherthatitactuallyis,orthattheaircraft
+ishigherthanitactuallyis.
+□ Fog-Flyingintofogmaycreateanillusionofanose-upmotion .
+□ GroundLightingIllusion -Lightsalongastraightpath,suchasaroadorlightsonmovingtrains,canbemistakenfor
+runwayandapproachlights.Brightrunwayandapproachlightingsystems,especiallywherefewlightsilluminatethe
+surroundingterrain,maycreatetheillusionthattherunwayiscloserthanitactuallyis.Thismayresultinthepilotflyinga
+higherapproachthandesired.
+Copingwithspatialdisorientation (PilotHandbookofAeronauticalKnowledge)
+1.Understandthecausesof theillusionsthatmayaffectyouasapilotandstayalertforthemwhenflying.
+2.Obtainandunderstandrelevantpreflightweatherinformation.
+3.Maintaininstrumentproficiencyandobtaintrainingifneededbeforeflyinginmarginalorinstrumentconditions.
+4.Donotflyintoadverseweatherconditionsorintoadverseweatherconditions,darkorfeaturelessareasunless
+instrumentproficient.
+5.Whenusingoutsidevisualreferences,ensuretheyarereliable,fixedpointsontheearth’ssurface.
+6.Avoidsuddenheadmovements,particularlyduringtakeoff,turns,andapproachestolanding.
+7.Bephysicallytunedforflightintoreducedvisibility.Ensureproperrest,adequatediet,and,ifflyingatnight,allow
+fornightadaptation.Rememberthatillness,medication,alcohol,fatigue,sleeploss,andmildhypoxiaarelikelyto
+increasesusceptibilitytospatialdisorientation.
+8.Mostimportantly, becomeproficientintheuseofflightinstrumentsandrelyuponthem.Trustthe
+instrumentsanddisregardyoursensoryperceptions .
+SPATIALDISORIENTATIONAND ILLUSIONS- CONTINUED
+TABLES& REFERENCES
+AirplaneIFRQuick-Review|Page18|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+RVR(ft) Visibility(SM)
+1,600 1/4
+2,400 1/2
+3,200 5/8
+4,000 3/4
+4,500 7/8
+5,000 1
+6,000 1-1/4
+StandardRateTurn-AngleofBankCalculation
+(KTAS / 10) + 5
+Example: 120 KTAS
+(120 KTAS / 10) + 5 = 12 + 5 = 17º of bank
+VORTime&Distance
+Distance off course = 200 ft per dot per NM from VOR
+Distance to station = TAS X min between bearings / degrees of BRG change.
+Time (minutes) to station = Seconds for BRG change / degrees of BRG change
+AircraftApproachCategories
+ExpandedCirclingApproachManeuveringRadius
+CAT 1.3Vso(kts) Standard(old)circling
+maneuverradius(NM)
+A <90 1.3
+B 91-120 1.5
+C 121-140 1.7
+D 141-165 2.3
+E >165 4.5
+Identifiedby onFAAapproachcharts.
+Forproceduresdevelopedafterlate2012.(AIM5-4-20)
+CirclingMDA
+(MSL) A B C D E
+1000orless 1.3 1.7 2.7 3.6 4.5
+1001-3000 1.3 1.8 2.8 3.7 4.6
+3001-5000ft 1.3 1.8 2.9 3.8 4.8
+5001-7000ft 1.3 1.9 3.0 4.0 5.0
+7001-9000ft 1.4 2.0 3.2 4.2 5.3
+9001andabove 1.4 2.1 3.3 4.4 5.5
+C
+NOTES:
+Bydefinition,IFRisceilinglessthan1,000’AGLand/orvisibilitylessthan3mileswhileLIFRisasub-categoryofIFR.
+Bydefinition,VFRisceilinggreaterthanorequalto3,000’AGLandvisibilitygreaterthanorequalto5SMwhileMVFRisa
+subcategoryofVFR.
+Sources:https://aviationweather.gov/taf/help?page=plotandAIM7-1-7
+FlightCategoriesUsedinAWCWeatherProducts
+Category Color Ceiling Visibility
+LIFR(LowIFR) Magenta Lessthan500’ and/or Lessthan1SM
+IFR(InstrumentFlightRules) Red 500’tobelow1,000’ftAGL and/or 1SMtolessthan3SM
+MVFR(MarginalVFR) Blue 1,000’-3,000’AGL and/or 3to5SM
+VFR(VisualFlightRules) Green Greaterthan3000’AGL and Greaterthan5SM
+TABLES& REFERENCES- CONTINUED
+AirplaneIFRQuick-Review|Page19|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+SpecialVFR(SVFR) (91.157)–
+AnATCclearance allowingoperationunder VFRwith
+weatherconditionslowerthanthestandardVFRminimums
+prescribedin91.155.
+SVFRisavailable below10,000MSL withintheairspace
+containedbythe upwardextensionofthelateral
+boundariesofthecontrolledairspace designatedtothe
+surfaceofanairport .
+Requiresatleast 1SM (asofficiallyreported)andthatthe
+aircraftremains clearofclouds .
+FornightSVFR (sunsettosunrise), anInstrumentrating
+andinstrument-equippedaircraft arerequired.
+
+
+========================================
+<<<PDF_PAGE:20>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+Term Definition
+AATD AdvancedAviationTrainingDevice
+AAWU AlaskanAviationWeatherUnit
+AC AdvisoryCircular
+ACS AirmanCertificationStandards
+ADC AirDataComputer
+ADM AeronauticalDecisionMaking
+ADS-B AutomaticDependentSurveillance-
+Broadcast
+AFM AirplaneFlightManual
+AGL AboveGroundLevel
+AHRS AttitudeHeadingReferenceSystem
+AI AttitudeIndicator
+AIM AeronauticalInformationManual
+ALS ApproachLightSystem
+ALSF ApproachLightSystemwithSequence
+FlashingLights(e.g,ALSF-1,ALSF-2)
+APV ApproachwithVerticalguidance
+ARTCC AirRouteTrafficControlCenter
+(“Center”)
+ASI AirspeedIndicator
+ASOS AutomatedSurfaceObservationSystem
+ASR ApproachSurveillanceRadar
+ATC AirTrafficControl
+ATD AviationTrainingDevice
+ATIS AutomaticTerminalInformationService
+AWC AviationWeatherCenter
+AWOS AutomatedWeatherObservation
+System
+BATD BasicAviationTrainingDevice
+DA DecisionAltitude
+DH DecisionHeight
+DME DistanceMeasuringEquipment
+DP DepartureProcedure
+EDCT ExpectDepartureClearanceTime
+EFB ElectronicFlightBag
+ELT EmergencyLocatorTransmitter
+ETA EstimatedTimeofArrival
+FAA FederalAviationAdministration
+FAF FinalApproachFix
+FCC FederalCommunicationsCommission
+FFS FullFlightSimulator
+FIS-B FlightInformationServices-Broadcast
+FL FlightLevel
+fpm FeetperMinute
+FPNM FeetperNauticalMile
+FSS FlightServiceStation
+FTD FlightTrainingDevice
+Term Definition
+GBAS GroundBasedAugmentationSystem
+(i.e,LAAS)
+GP GlidePath
+HFO WeatherForecastOfficeHonolulu
+HI HeadingIndicator
+IAF InitialApproachFix
+ICAO InternationalCivilAviationOrganization
+IF IntermediateFix
+IFR InstrumentFlightRules
+ILS InstrumentLandingSystem
+IM InnerMarker
+IMC InstrumentMeteorologicalConditions
+IPC InstrumentProficiencyCheck
+KTAS KnotsTrueAirspeed
+Kts Knots.NM/hour.
+LAAS LocalAreaAugmentationSystem
+LDA LocalizerTypeDirectionalAid.
+LIFR LowIFR
+LNAV LateralNavigation
+LOC Localizer
+LP LocalizerPerformanceRNAV/RNP
+approach
+LPV LocalizerPrecisionwithVertical
+Guidanceapproach
+MAA MaximumAuthorizedAltitude
+MALSR
+MediumIntensityApproachLighting
+SystemwithRunwayAlignmentIndicator
+Lights
+MAP MissedApproachPoint
+MCA MinimCrossingAltitude
+MDA MinimumDescentAltitude
+MDH MinimumDescentHeight
+MEA MinimumEnrouteAltitude
+MEL MinimumEquipmentList
+MFD MultiFunctionDisplay
+MLS MicrowaveLandingSystem
+MM MiddleMarker
+MOCA MinimumObstructionClearanceAltitude
+MORA MinimumOffRouteAltitude(Jeppesen)
+MRA MinimumReceptionAltitude
+MSL MeanSeaLevel
+MVFR MarginalVFR
+NDB Non-DirectionalBeacon
+NHC NationalHurricaneCenter
+NMC NationalMeteorologicalCenter
+NOTAM NoticetoAirmen
+ODALS Omni-DirectionalApproachLighting
+System
+AirplaneIFRQuick-Review|Page20|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COM IFRQuick-ReviewGuide-Airplane
+
+
+========================================
+<<<PDF_PAGE:21>>>
+<<<SOURCE_FILE:REVIEW GUIDE - INSTRUMENT.pdf>>>
+========================================
+
+Term Definition
+ODP ObstacleDepartureProcedure
+OM OuterMarker
+OPC OceanPredictionCenter
+PAPI PrecisionApproachPathIndicator
+PAR PrecisionApproachRadar
+PFD PrimaryFlightDisplay
+PIC Pilot-in-Command
+PIREP PilotReport
+RAIM ReceiverAutonomousIntegrity
+Monitoring
+REIL RunwayEndIdentifierLights
+RNAV AreaNavigation
+RVR RunwayVisualRange
+SBAS Satellite-basedAugmentationSystem
+(e.g.,WAAS,EGNOS)
+SDF SimplifiedDirectionalFacility
+SID StandardInstrumentDeparture
+STAR StandardTerminalArrival
+SVFR SpecialVFR
+TCH ThresholdCrossingHeight
+TDZL TouchdownZoneLights
+TIBS TelephoneInformationBriefingService
+TLS TransponderLandingSystem
+TOC TopofClimb
+TOD TopofDescent
+TWEB TranscribedWeatherBroadcast
+UAT UniversalAccessTransceiver
+VASI VisualApproachSlopeIndicator
+VFR VisualFlightRules
+VIP VideoIntegratorProcessor
+VMC VisualMeteorologicalConditions
+VNAV VerticalNavigation
+VOR VHFOmnidirectionalRange
+VORTAC VHFOmnidirectionalRangeTacticalAir
+Navigation(VOR+TACAN)
+VS VerticalSpeed
+VSI VerticalSpeedIndicator
+WAAS WideAreaAugmentationSystem
+WPC WeatherPredictionCenter
+Wx Weather
+AirplaneIFRQuick-Review|Page21|Visit pilotscafe.comformoreflighttrainingresources
+V2.1.3Nov3,2020,AllRightsReserved©Pilotscafe.com2011-2020
+.COMIFRQuick-ReviewGuide-Airplane
+YouMAYredistributeandsharethisreport(aslong
+asyoumakenochangesandcreditpilotscafe.com
+asthesource)
+AllrightsreservedtoAmirFlemingerandFleminger
+MediaLLCdbaPilotscafe.com.
+Disclaimer:Whileattemptshavebeenmadeto
+verifytheaccuracyoftheinformationinthisreport,
+theauthordoesnotassumeanyresponsibilitiesor
+liabilitiesforerrorscontainedinitorformisuseof
+thisinformation.Youmayonlyusethisreportatyour
+ownrisk.
+Thelatestversionofthisguidecanbefoundat
+https://pilotscafe.com/IFR-quick-review-guide/
+Pleasesendanyerrorcorrectionsorfeedbackto:
+www.pilotscafe.com/contact

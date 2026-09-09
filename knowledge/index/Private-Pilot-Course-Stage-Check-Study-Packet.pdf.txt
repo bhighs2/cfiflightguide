@@ -1,0 +1,1281 @@
+DOCUMENT_TITLE: Private-Pilot-Course-Stage-Check-Study-Packet
+SOURCE_FILE: Private-Pilot-Course-Stage-Check-Study-Packet.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+PRIVATE PILOT STAGE 
+CHECK ORAL GUIDE 
+(REVISION I)
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+REFERENCES 
+ 
+ 
+                       FAR/AIM                                        PHAK                            AC 00-45G                 AC 00-6A 
+ 
+POH 
+RECOMMENDED READINGS 
+ 
+ 
+  
+ 
+Certificates and Documents
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What documents must you have with you to fly the airplane? (61.3) 
+Pilot certificate, medical certificate, and government issued photo ID 
+*as a student pilot, these documents in addition to your logbook (to show endorsements) are only 
+required when acting as PIC (solo flight) 
+What are your limitations as a student pilot? (61.89) 
+1. No passengers 
+2. Cannot carry property for compensation or hire 
+3. Cannot fly in furtherance of a business  
+4. Cannot fly with a flight or surface visibility of less than 3sm during the day and 5sm at night and flight 
+must be made with visual references to the surface. 
+What privileges and limitations apply to private pilot? (61.113) (91.146) 
+Privileges – Act as PIC and carry passengers – conduct search and rescue operations; fly for 
+charitable, non-profit, or community event; act as an aircraft salesman if you have at least 200 
+hours. 
+Limitations – Cannot fly for hire; must pay no less than pro rata share 
+Do you need to take your logbook with you? (61.51) 
+Only as a solo student pilot on a cross country flight 
+What type of pilot certificate do you have? Does it expire? (61.19) 
+Under 40, a student pilot certificate expires after 60 calendar months  
+Over 40 it expires after 24 calendar months 
+PPL, CPL, CFI, Ground Instructors, and ATP certificates are issued without an expiration date.
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+How do we keep our pilot certificate current? (61.56, 61.57) 
+Student pilot: with valid medical certificate  
+PPL: Flight review every 24 calendar months 
+What are the currency requirements for carrying passengers? (61.57) 
+3 take offs and landings within the preceding 90 days in an aircraft of the same category, class and 
+type if required. At night, these 3 landings must be made to a full stop. 
+Night definition? When can you perform required night landings? (1.1, 61.57) 
+Night = the time between evening civil twilight and morning civil twilight 
+Night landings can be logged 1 hour after sunset to 1 hour before sunrise.  
+How long is a medical certificate valid for? (61.23) 
+Under 40 
+ 
+40 and Older
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What documents should be in the aircraft before flight? ARROW (91.9, 91.203) 
+Airworthiness Certificate 
+Registration 
+Radio License (required for international flight) 
+Operating Limitations (found in the POH) 
+Weight and Balance equipment list 
+When will an aircraft registration certificate expire? (PHAK 8-6) 
+3 years 
+Which weight and balance information must be in the aircraft, the one on the takeoff data 
+card or the one in the airplane flight manual? 
+Updated weight and balance equipment list in the AFM 
+With respect to the certification, privileges, and limitations of airmen, what do category, 
+class, and type mean?  (61.5) 
+Category: Airplane, Rotorcraft, Glider, Lighter-Than-Air etc. 
+Class: Single Engine Land/Sea, Multi Engine Land/Sea
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Type: specific to aircraft – only required for aircraft with a max gross weight equal or greater than 
+12,500lbs, turbojet, or any aircraft specified by the FAA to require one (61.31) 
+If a pilot changes his permanent mailing address, how long can the pilot continue to exercise 
+the privileges of their pilot certificate without notifying the FAA? (61.60) 
+30 days 
+ 
+Airworthiness Considerations 
+Does an Airworthiness Certificate ever expire?  
+Not as long as inspections are kept up to date and manufacturer's original design is adhered to 
+Does the POH meet the requirement of having an AFM? (PHAK 8-2) 
+Yes. The POH for most light aircraft built after 1975 is also the FAA designated AFM. 
+Who says we have to follow the POH? (91.9) 
+FAR 91.9 states, “…no person may operate a civil aircraft without complying with the operating 
+limitations specified in the approved Airplane or Rotorcraft Flight Manual…” 
+Who is responsible for ensuring an aircraft is maintained in an airworthy condition? 
+(91.403) 
+The owner/operator 
+Discuss AVIATES. Required Inspections  
+Annual – every 12 calendar months (91.409) 
+VOR – every 30 days for IFR (91.171)
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+100 hour if airplane is being operated for hire 
+Altimeter/Pitot Static – 24 calendar months; required for IFR flight (91.411) 
+Transponder – 24 calendar months (91.413) 
+ELT – 12 calendar months or after 1 hour cumulative use or half of battery life (91.207) 
+Service bulletins and ADs complied with 
+What is an Airworthiness Directive? Is it mandatory? (PHAK 8-12) 
+FAA issued order to fix a known issue. It is mandatory. 
+What different kinds of AD’s are there? 
+Emergency – These require immediate compliance before flight  
+One Time – After the AD is complied with once, there is no further need to address the specified 
+issue 
+Recurring – This AD must be complied with at the specified interval. 
+Can you over fly an annual? 100 hour? (91.409) 
+The only way to overfly an annual is to obtain a special flight permit from the FSDO. 
+A 100 hour inspection may be overflown by no more than 10 hours and only if enroute to the 
+place where the inspection will be done. An annual inspection can be substituted for the 100 hour 
+however, a 100 hour cannot substitute an annual inspection. 
+Do you need to have an ELT in the airplane today? (91.207) 
+Not needed for training within 50 nm of home airport
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+When does an ELT battery have to be replaced or recharged? (91.207)
+ 
+Calendar Months  Hour Cumulative Use   Half of Battery Life  
+What equipment and instruments do you need to have in the airplane for today’s flight? 
+ATOMATOFLAMES (91.205b)  
+Altimeter 
+Tachometer 
+Oil temperature gauge 
+Magnetic compass  
+Airspeed Indicator  
+Temperature gauge (for liquid cooled engines) 
+Oil pressure 
+Fuel quantity gauge 
+Landing gear position indicator (for retractable landing gear) 
+Anti-collision lights – Aviation red or white (e.g. red rotating beacon or white strobes) 
+Manifold pressure gauge (for airplanes with a constant speed propeller) 
+ELT 
+.5
+1
+12
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Seatbelts 
+How about if you were to fly tonight? FLAPS (91.205c)  
+Fuses 3 of each kind or 1 complete set 
+Landing light if airplane is being flown for hire (including flight training) 
+Anti-collision lights  
+Position lights – Also called navigation lights – red on the left side, green on the right and white 
+on the tail  
+Source of electricity – Battery or alternator  
+What would you do if you found that the landing light was inoperative? (91.213) 
+Cannot fly at night per the FARs – During the day you would deactivate or remove the component 
+and placard it inoperative (deactivating could be as simple as pulling the circuit breaker out) 
+Can you fly an airplane with known inoperative equipment? 
+Yes, if it is not included in 91.205 and it has been deactivated/removed and placarded inoperative     
+What is a Minimum Equipment List?  (PHAK 8-9) 
+An FAA approved list of equipment that can be inoperative 
+Do we have one? What do we have? 
+No. We adhere to the regulations in 91.205 and 91.213 (d) 
+Can an aircraft owner change an MEL? 
+If a change is sought, a letter and a proposed MEL that is based off of the Master MEL must be 
+sent to the FAA for approval
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Performance and Limitations 
+What are the four forces of flight?  
+Lift Weight Thrust Drag 
+What are the primary flight controls? (PHAK 5-3)    
+ 
+ 
+ 
+What are the secondary flight controls? (PHAK 5-8)
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Flaps, leading edge devices, spoilers, and trim systems (anti-servo tab) 
+How is lift created? (PHAK 3-4)    
+Newton's 3rd law - Airfoils accelerate airflow downward. The equal and opposite reaction as 
+described by Newton forces the airfoil upwards. 
+Bernoulli's Principle – As the velocity of a fluid or gas increases the pressure decreases. High 
+speed air over the upper surface creates low pressure area while comparatively lower speed air 
+beneath the wing creates high pressure which produces an upwards force that contributes to the 
+total lift. 
+Explain the different types of drag. 
+Parasite – increases with speed 
+Some types of parasite drag include form, skin friction, and interference drag. 
+Form drag is caused by the shape of the aircraft and the airflow around it. Anything that sticks of 
+from the fuselage as well as the fuselage itself contributes to this (e.g. antennas, pitot mast, engine 
+cowling) 
+Skin friction drag is caused by air slowing down as it moves across the surface of the aircraft. 
+Rivets, dirt, or anything that makes the surface less smooth adds to this type of drag. 
+Interference drag is caused by intersecting airstreams from different parts of the aircraft. Take, for 
+example, the area where the wing is attached to the fuselage. Since the wing accelerates the 
+relative wind, this airstream will be relatively faster than the wind moving over the fuselage. 
+When these two airstreams meet, turbulent eddies form and this produces drag. 
+Induced – byproduct of lift, decreases with speed
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+High pressure airflow from beneath the wing has the tendency to spill over the wingtips to 
+equalize the lower pressure above. When this happens, turbulent whirl pools called wingtip 
+vortices form and create drag. Also, any time the angle of attack is increased, a portion of the 
+wing’s lift vector is angled backwards. This too creates more induced drag. 
+What is the airspeed where Induced and Parasite drag meet? 
+Vg – Best glide speed 
+This is also described as L/D Max or the maximum lift to drag ratio. 
+Describe the various components of an airfoil (PHAK 3-8 Fig. 3-6) 
+ 
+What is camber? Can we change it? 
+Curvature of the wing – it can be changed by extending/retracting flaps 
+ 
+What is angle of incidence? Can we change it?  
+The angle between the wing chord line and the fuselage – it cannot be changed 
+What is center of gravity? What happens when it moves forward/aft? (PHAK 4-38)
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+CG is the point where the aircraft is balanced or the place where the entire weight is concentrated 
+ 
+Forward CG Aft CG 
+Lower Cruise Speed  Higher Cruise Speed 
+Higher Stall Speed Lower Cruise Speed 
+More Stable Less Stable  
+Favorable Stall Recovery  Adverse Stall Recovery 
+Difficulty in rotating and rounding out during 
+landing. Also, difficulty in steering can result. 
+Shorter arm between CG and control surfaces on 
+the tail makes them less effective. 
+ 
+Forward CG – This is a nose heavy condition that results in the pilot having to use more back 
+pressure to maintain a level flight attitude. More tail down force means that the wings must 
+overcome this weight. The cruise speed is lower because of this. The imposed load increases the 
+stall speed.  
+ 
+Aft CG – Less tail down force (provided by our stabilator) is required when flying with an aft CG. 
+This means that the wings also have less of this load to overcome therefore there is less overall 
+drag allowing for a faster cruise speed. Because stall speeds increase with load, an aft CG also
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+means that the stall speed is lower. The distance between the CG and the stabilator is crucial in 
+maintaining authority over the control surface. An aft CG means a shorter arm and thus, less 
+authority. This translates into adverse stall recovery characteristics.  
+What causes a wing to stall? (PHAK 4-22) 
+The wing will stall anytime the critical angle of attack is exceeded.  
+How does temperature change the takeoff distance? Weight? Air density? (PHAK 10-2 and 
+9-2) 
+High temperatures = less dense air 
+Less dense air exerts less force on airfoils (wings and propeller) making them less efficient and 
+also deprives the engine of power. This leads to longer take off rolls and decreased climb 
+performance. 
+Higher weight also leads to longer take off rolls and increased landing distance because it takes 
+more engine power to accelerate a heavy aircraft to Vr and more braking power to slow the 
+aircraft down. 
+What are the different types of airspeeds? Altitudes? (PHAK 7-6 and 10-17) 
+IAS – indicated  
+CAS – calibrated (IAS corrected for instrument, position, and installation error) It is equal to TAS 
+in the standard atmosphere at sea level. 
+TAS – true (CAS corrected for non-standard temperature and pressure)  
+GS – ground (TAS corrected for wind)
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Indicated – altitude as read off of the altimeter with appropriate setting 
+Pressure – vertical distance above the standard datum plane: a theoretical plane where sea level 
+pressure exists. It can be found by setting 29.92 in Kollsman window and reading the altitude. 
+Density - Pressure altitude corrected for non-standard temp. 
+True – vertical distance above sea level (MSL) 
+Absolute - vertical distance above terrain (AGL) 
+ 
+Calculate pressure/density altitude. 
+PA = Altitude (field elevation) + (29.92 - current altimeter setting) x 1000 
+DA = PA + [120 x (outside air temp.in degrees Celsius – standard temp. for that altitude)]         
+What factors affect air density? (PHAK 10-4)   
+Heat – warm air expands is less dense   
+Height (altitude) – air at higher altitudes is less dense 
+Humidity – A parcel of humid air is less dense because water molecules take up more room and 
+spread out the air molecules. 
+What are the maximum ramp, takeoff & landing weights for the airplane? (POH 1-4) 
+2550lbs 
+Why is the ramp weight different from takeoff weight? (POH 1-8) 
+Ramp weight = max weight approved for ground maneuvers (taxi) 
+Takeoff weight = max weight approved for takeoff run
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+How do you find the crosswind component? Max crosswind component for aircraft? (AIM 
+4-3-3)  (POH 4-1) 
+Max demonstrated crosswind is 17 knots 
+How does wind affect takeoff and landing?  
+Headwinds decrease takeoff and landing roll – Tailwinds increase the takeoff and landing roll 
+How much does one gallon of 100LL weigh? (PHAK 9-5) 
+6 lbs 
+Discuss V-speeds (PHAK 10-17) (POH section 2) 
+Vso 45 – stalling speed in the landing configuration  
+Vs1 50 – stalling speed in specified configuration  
+Vy 76 – best rate of climb (greatest altitude gain per unit of time) 
+Vx 64 – best angle of climb (greatest altitude gain per distance over the ground) 
+Vfe 102 – flap extension speed 
+Va 89-113 – design maneuvering speed (heavier aircraft = higher maneuvering speed) 
+Vno 125 – maximum structural cruising speed (flight above this speed only permissible in smooth 
+air) 
+Vne 154 – never exceed speed  
+ 
+Does Vg change? Why? 
+Vg is only 76 at max gross weight. Vg will be slower at a lower weight
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+When would you want to climb at Vx? How about a Vy climb? 
+Vx is used to clear an obstacle  
+Vy is used to get to altitude in the shortest amount of time  
+Explain left turning tendencies. TGAS (PHAK 4-26)  
+Torque – clockwise spinning prop causes airplane to roll left about the longitudinal axis. This is an 
+example of Newton’s 3rd law. 
+On the ground, this left rolling tendency causes more weight to be on the left main gear thereby 
+increasing the friction and inducing a left yawing tendency. 
+Gyroscopic Precession – During a descent the tail rises and causes a force to felt on the top of the 
+propeller. The resultant force is therefore 90 degrees ahead in the direction of the rotation 
+(RIGHT SIDE of propeller) causing a left yawing tendency. This is mostly associated with 
+tailwheel aircraft because on their takeoff roll the tail has to be raised and this creates a left turning 
+tendency. 
+*This is otherwise a right turning tendency in a climb because the effective force would now be at 
+the bottom of the propeller and thus the effective force would be on the LEFT SIDE. The other 
+left turning tendencies, however, make this effect negligible. 
+Asymmetrical Thrust – In a climb, the descending propeller blade (RIGHT SIDE) has a greater 
+angle of attack and therefore creates more lift. This causes a left yawing tendency. 
+Spiraling Slipstream – Propeller wash strikes the aircraft of the left side of the vertical stabilizer 
+causing a left yawing tendency.  
+*The slipstream also strikes the right wing from above causing a right rolling tendency. The left 
+rolling tendency from torque, however, makes this effect negligible.
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+All of these tendencies are more pronounced at low airspeeds, high angles of attack, and high 
+power settings. 
+Explain Stability (PHAK 4-13) 
+Lateral Stability – Resistance to roll 
+Wing dihedral is what gives our aircraft lateral stability. The soft V shape means that during a side 
+slip, the lower wing has a greater angle of attack and this helps return it to equilibrium. 
+Effectively managing fuel can also influence this because if the fuel load is imbalanced, one wing 
+will be lower than the other 
+Longitudinal Stability – Resistance to pitch 
+Flying “inside of the envelope” is the greatest factor here. CG must be within limits to maintain 
+longitudinal stability. 
+Vertical Stability – Resistance to yaw 
+The size of the vertical stabilizer and the area of the fuselage aft of the CG contribute to vertical 
+stability. The bigger and father aft the vertical stabilizer is, the greater the stability.  
+Positive Stability – Tendency to return to equilibrium  
+Neutral Stability – Tendency to stay in new position 
+Negative Stability – Tendency to continue to move away from equilibrium  
+Static Stability – Initial tendency  
+Dynamic Stability – Response over time
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Operations of Systems (PHAK Chapter 7) (POH) 
+Describe the pitot-static flight instruments  
+ 
+Airspeed Indicator – This is the only instrument that uses both the pitot and static ports. It 
+measures the difference between dynamic pressure (ram air entering the pitot tube) and static
+
+
+========================================
+<<<PDF_PAGE:20>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+pressure (air that is unaffected by the aircraft’s flight path). Ram air exerts a force on a diaphragm 
+inside of the instrument. The instrument case is full of static air.  
+Altimeter – This measures the difference between static pressure inside of the instrument case and 
+standard pressure (29.92” Hg) sealed inside of an aneroid wafer. When the airplane is climbing 
+and ambient pressure begins to decrease, the wafer is able to expand because the air that is sealed 
+inside is now of higher pressure. The altimeter is a sensitive altimeter meaning that it can be 
+calibrated to the local barometric pressure by adjusting the Kollsman window.  
+VSI – Measures the difference between static pressure and static pressure that is subject to a 
+calibrated leak approximately every 6-9 seconds.  
+How do the pitot- static instruments respond to blockages?
+
+
+========================================
+<<<PDF_PAGE:21>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+*Note the very first error – this error would be highly uncommon in the Piper Archer because 
+there is no drain hole on the pitot mast like most other training aircraft. If there is a blockage in the pitot 
+mast, the drain hole would more than likely be unaffected. 
+ 
+Describe the gyroscopic instruments 
+ 
+  
+The Gyroscopic instruments are powered by an engine driven vacuum pump with the exception of  
+ the turn coordinator which is electrically powered. The two principles that gyroscopes operate off
+
+
+========================================
+<<<PDF_PAGE:22>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+of are: 
+ Rigidity in space: while spinning, a gyroscope will tend to stay fixed in its plane of rotation. Think  
+ of a bicycle wheel. With enough momentum, you are able to stay naturally balanced. 
+ Precession: when a force is applied to a gyroscope, the resultant force is felt 90° ahead in the  
+ direction of the rotation. 
+ 
+Attitude Indicator – Rotates in the horizontal plane and operates off of the principle of rigidity in 
+space. The aircraft pitches and rolls around the erect gyroscope. The effects of precession are not 
+felt because pendulous vanes attached to the base of the gyro duct high pressure air from the 
+vacuum through small doors that open and close by the force of gravity to keep the gyro in its 
+original position. 
+Heading Indicator – Rotates in the vertical plane and operates off of rigidity in space as well. As 
+the aircraft yaws around the gyro, a gear inside of the instrument case rotates the compass card to 
+show the magnetic direction. Precession caused from aircraft movement and friction causes error 
+that must be corrected by resetting the heading indicator to the magnetic compass approximately 
+every 15 minutes. 
+Turn Coordinator – This electrically powered gyro rotates in the vertical plane and it uses precession to 
+measure rate of turn and rate of roll. When the aircraft yaws, the gyro precesses and the airplane on the 
+face of the instrument indicates the direction and rate of the turn. Notice in the diagram of the instrument 
+that it is slightly canted upwards. This is so rate of roll can be indicated as well. When the aircraft begins a 
+bank the aircraft will also indicate the direction of the bank. If it is a rapid roll the airplane will respond by 
+banking more steeply. Once the turn is established it will properly indicate the rate of the turn.  
+Explain the errors associated with the magnetic compass
+
+
+========================================
+<<<PDF_PAGE:23>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Variation – Since the magnetic north pole and the geographic North Pole are not collocated, we need to 
+consider this when planning flights. Easterly variation is subtracted from true heading while westerly 
+variation is added to get our magnetic heading. Remember: East is least and West is best! 
+Deviation – Since a compass depends on aligning with the Earth’s magnetic fields to read accurately, any 
+kind of other local magnetic fields will cause an error known as deviation. This other magnetic fields are 
+produced from electrical currents from the aircraft avionics and are change on different headings. The 
+compass correction card located on the compass tells the pilot which compass heading to steer to for a 
+desired magnetic heading.  
+ 
+Dip Errors – While flying on a north or south heading, these turning errors are most pronounced. While 
+flying a north heading and turning to the left, the compass will initially show a turn in the opposite direction 
+and lag behind the turn. When on a south heading, the compass will lead the turn and show that the turn is 
+being made a much faster rate than it actually is.  
+*Imagine that north is home to the compass. While at “home” the compass wants to stay there during a turn and 
+will lag behind before it finally decides to catch up reluctantly. Conversely, while most far away from home on a 
+south heading, when a turn is commenced, the compass gets excited and races there (leading the turn) 
+Acceleration Error – While on east or west headings, acceleration results in a slight turn to the north. 
+Deceleration results in a slight turn to the south. The rule is: ANDS Accelerate North Decelerate South  
+Oscillation Error – A combination of all of these errors and results in the compass swinging back and forth 
+around the headings being flown 
+Describe the engine in this aircraft.  (1-3) 
+ Naturally aspirated 180 HP Lycoming 0-360-A4M horizontally opposed 4 cylinder air cooled 
+direct drive carbureted reciprocating piston engine                                                   
+What does “normally aspirated” mean? (PHAK 6-11) 
+Ambient air enters the intake manifold – there is no turbo or supercharger
+
+
+========================================
+<<<PDF_PAGE:24>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What is used to cool the engine? (PHAK 6-16) 
+Air intakes at the front of the engine cowling allow outside air to cool the cylinders. Fins on the 
+filters allow a greater surface area to be exposed and thus cooled by the air.  Engine oil is crucial 
+in internal engine cooling. 
+Why do we need oil in the engine? 
+Lubricates - all of the engine’s moving parts 
+Cools – reduces friction and removes heat from the cylinders 
+Seals – it creates a seal between the cylinder walls and pistons  
+Cleans – carries away contaminants inside of the engine 
+What is meant by four-stroke”? (PHAK 6-3) 
+1. Intake valve opens as downward moving piston pulls fuel/air mixture into cylinder 
+2. Intake valve closes as piston moves back up and compresses this mixture 
+3. While this piston is in its upmost position the spark plugs ignite the mixture and force the 
+piston back down 
+4. As the piston rises, the exhaust valve opens and expels the exhaust gas from the cylinder
+
+
+========================================
+<<<PDF_PAGE:25>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+•What is the oil capacity of your aircraft? (1-3) 
+8 qts 
+What type of oil do we use? 
+W15W-50 
+What type of propeller do we have? (1-3) 
+76" Sensenich fixed pitch  
+What does the mixture control do? (PHAK 6-8)
+
+
+========================================
+<<<PDF_PAGE:26>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+As we gain altitude, the air becomes less dense. If we do not make any adjustments then we will 
+have an excessively rich fuel/air mixture. This can result in carbon build up in the cylinders which 
+can foul the spark plugs and reduce engine power. Leaning the mixture decreases the fuel flow and 
+compensates for this. 
+Describe the fuel system. (7-8) 
+We have one fuel tank per wing each with a 25 gallon capacity. 1 on these gallons is unusable 
+which mean that of 50 total gallons, only 48 are useable. Fuel is moved from the tanks to the 
+engine by an engine driven fuel pump. The boost pump is electrically powered and is used as a 
+backup. A fuel selector valve allows the pilot to control which tank he/she would like to pull from. 
+There is no option to pull from both at the same time. Fuel quantity and pressure gauges are in the 
+cockpit to make the pilot aware of the current fuel situation. Fuel enters the float type carburetor 
+via a fuel inlet and is drawn into the venturi to be mixed with air through a discharge nozzle prior 
+to reaching the cylinders. Underneath both wings near the landing gear is a sump to drain fuel 
+samples from each tank. This is the lowest point of either tank. The lowest point of the fuel system 
+can be drained from the sump located on the front left side of the aircraft. 
+What color is 100LL? How about other types of fuel? What happens when they are mixed 
+together? (PHAK 6-27)
+
+
+========================================
+<<<PDF_PAGE:27>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Mixed fuel becomes clear 
+What could be other types of clear liquid? 
+Jet A  
+Why do you drain a sample of fuel before each flight? 
+Fuel weighs roughly 6lbs and water weighs about 8lbs. Because it is heavier it always sinks to the 
+bottom of the fuel tanks. This is why we drain from the lowest points in the fuel system. We also 
+want to visually inspect the fuel for the proper grade and to make sure that it is free of sediment. 
+What are stall strips?
+
+
+========================================
+<<<PDF_PAGE:28>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+They are placed on the leading edge of the wing close to the wing root to help induce a stall 
+towards the wing root so that pilot still has directional control with the ailerons. 
+What type of brakes does the airplane have? (7-3) 
+Cleveland single disc hydraulic brakes 
+How does the vacuum system operate? (PHAK 7-17) (POH 7-17) 
+An engine driven vacuum pump creates suction. Air is pulled through a filter and then directed to 
+the instrument case. Rotor vanes on the gyros catch the air like a water wheel and cause it to rotate 
+at a high speed. In the Archer IIIs, there is also an electrical vacuum pump to be used as a backup.  
+ 
+Describe the electrical system. (7-10 - 7-12) 
+Archer II: 12 volt batt. 14 volt system 60 amp alternator 
+Archer III: 24 volt batt. 28 volt system 70 amp alternator 
+The electrical system provides power to all of the radio equipment, the engine gauges, turn 
+coordinator, stall warning horn and all the lights 
+The magnetos are a self-sustaining source of electricity. As long as the propeller and crankshaft is 
+turning, they will continue to provide electricity to the spark plugs and the engine will run. This 
+means that in the event of an electrical failure, you will NOT lose your engine.                                                   
+ 
+ 
+ 
+National Airspace System (PHAK chapter 14)
+
+
+========================================
+<<<PDF_PAGE:29>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What is the difference between controlled and uncontrolled airspace? 
+Class G is the only uncontrolled airspace. ATC has no jurisdiction. 
+What are the different classes of airspace? Requirements? Weather minimums? 
+A – FL 180 to FL 600 – Instrument Rating and IFR flight plan needed – Mode C Transponder and 
+2-way radio communication – no weather minimums 
+B – Upside down wedding cake design up to 10,000 MSL – Endorsement needed if student pilot – 
+Clearance from ATC required to enter – Mode C Transponder required any time within 30 nm 
+(mode C veil) – 3 miles visibility and clear of clouds 
+C – Inner core 5 nm radius and from surface to 4500 AGL – outer core 10 nm radius and from 
+1200' AGL to 4000' AGL – Mode C Transponder and 2 way radio communication – 3 miles 
+visibility and 1000' above 500' below and 2000' horizontal from clouds                                      
+D – 4 nm radius and from surface to 2500' AGL – 2 way radio communications – 3 miles visibility 
+and 1000' above 500' below and 2000' horizontal from clouds 
+E – Can start at the surface, 700' AGL, or 1200' AGL and may extend up to but not including FL 
+180 – Class E also exists above FL 600 – No equipment requirements - Below 10,000’:  3 miles 
+visibility and 1000' above 500' below and 2000' horizontal from clouds – Above 10,000’: 5 miles 
+visibility and 1000' above 1000' below and 1 mile horizontal from clouds 
+G – uncontrolled airspace – may start at the surface and can go as high as 14,500' MSL or 1200' 
+AGL – no equipment requirements – Below 1200' AGL : 1 mile visibility and clear of clouds – 
+Above 1200' AGL but below 10,000' MSL : 1 mile visibility and 1000' above 500' below and 
+2000' horizontal from clouds – At night: 3 miles visibility and 1000' above 500' below and  2000' 
+horizontal from clouds – Above 10000' : 5 miles visibility and 1000' above 1000' below and 1 mile 
+horizontal from clouds
+
+
+========================================
+<<<PDF_PAGE:30>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What airspace are we in right now? 
+Class D 
+What altitude does KMYF airspace go up to? 
+2,900'  
+What airspace is directly above KMYF airspace? 
+Class E begins above 2900’ and continues until 4800’ where it becomes class B. 
+Class E and 
+G above 
+10,000'
+5-111
+Class B 
+3 - clear of 
+clouds 
+Class C,D,E 
+and G at 
+night 
+3-152
+Class G below 
+10,000'
+1-111
+Class G below 1200' 
+AGL
+1 - clear of clouds
+
+
+========================================
+<<<PDF_PAGE:31>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What are the different types of Special Use Airspace? WCRAMP (AIM 3-4-1) (PHAK 14-3) 
+Warning Areas – Extends from 3nm outward from the U.S. coast – invisible hazardous to non-
+participating aircraft. 
+Controlled Firing Areas (does not appear on charts) – Activities that could be hazardous are 
+suspended immediately when a spotter detects an aircraft. 
+Restricted – Unusual and oftentimes invisible hazards such as artillery or missile firing. When the 
+restricted areas is active pilots will need to get permission from the controlling authority to enter. 
+Alert – May contain a high volume of pilot training or unusual aerial activity. No clearance is 
+needed to enter but all pilots should be very alert. 
+Military Operation Area – Military training such as aerial intercepts, formation flying, and low 
+altitude tactics is conducted in these areas. Contact FSS to obtain hours of operation and it is 
+advised to contact controlling agency for traffic advisories. Permission is not needed to enter, but 
+pilots must exercise extreme caution. 
+Prohibited – Areas designated for national security or welfare. Flight in this area is prohibited. 
+ 
+What are the different types of "Other Airspace Areas"?  
+Local Airport Advisory – operated within 10sm or airport with FSS but no operating control 
+tower. 
+Military Training Routes – Military aircraft travelling in excess of 250kts 
+Routes designated by (IR) are IFR  
+Routes designated by (VR) are VFR when visibility is 5sm or greater and ceilings are at least 
+3000’
+
+
+========================================
+<<<PDF_PAGE:32>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Routes with no segment above 1500’ AGL are identified by 4 numbers. For example (VR) 1205. 
+If there is a segment above 1500, the route will be identified by only 3 numbers. 
+Temporary Flight Restriction – Established to protect the President or other VIPs, provide a safe 
+environment for disaster relief, or to prevent aircraft from sight-seeing over public events.  
+Parachute Jump Zones – check A/FD for details  
+Published VFR Routes – Published on TACs to provide VFR aircraft with a means to transition 
+around, under, or through complex airspace.  For example, Coastal Route, Mini Route, Special 
+Flight Rule, Hollywood Park Route or Coliseum Route 
+Terminal Radar Service Areas – Pilots can voluntarily receive radar services from TRACON so 
+that IFR and VFR traffic can have separation. Participation is encouraged. It can be identified on 
+the chart by a heavy grey line (see Palm Springs) 
+National Security Areas – They exist where there is a need for heightened security and safety of 
+ground facilities. Sometimes flight in this area is prohibited but otherwise pilots are encouraged to 
+stay away from these areas. 
+When do we need a Mode C transponder? (91.215) 
+Class A, B, C airspace. Inside of the mode C veil, above class C airspace, and above 10000'  
+ 
+ 
+Weather Information (AC 0045G; AC 00-6A) 
+What are the standard temperature and pressure values for sea level? (pg. 13) 
+15C or 59F – 29.92" Hg or 1013.2 mb
+
+
+========================================
+<<<PDF_PAGE:33>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Discuss isobars. What does it mean when the isobars are close together? (Pg.15 and 24) 
+Isobars connect equal lines of pressure. Closely spaced isobars means that there is a strong 
+pressure gradient and winds will be strong. 
+How do surface winds flow in relationship to isobars? Why?  Winds aloft? (pg.25) 
+At the surface winds flow at an angle to the isobars because of surface friction. 
+Aloft, winds from more or less parallel because of the Coriolis force. 
+What type of clouds, visibility and precipitation would you expect from stable air? Unstable 
+air? (Chapter 6) 
+Stable air: stratiform clouds, poor visibility, smooth air, steady or continuous precipitation 
+Unstable: Cumuliform clouds or clouds with vertical development, good visibility, turbulence, and 
+showery precipitation  
+What are the general characteristics of low/high pressure areas? (pg.35) 
+Low – Cyclone – counterclockwise and rising air 
+High – Anti Cyclone – clockwise and descending air 
+What is a ridge? Trough? (pg.35) 
+Ridge – extended area of high pressure – descending air 
+Trough – extended area of low pressure – rising air 
+What must be present in order for a thunderstorm to form? (pg.111)  
+Unstable atmosphere (pg.52) – an unstable atmosphere can be noted by the ambient lapse rate. We 
+know that the standard lapse rate is about 2 degrees Celsius per 1000’ of altitude. If the ambient
+
+
+========================================
+<<<PDF_PAGE:34>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+lapse rate is greater than the standard lapse rate (i.e. the temperature is decreasing rapidly as you 
+climb), this means the atmosphere is unstable. 
+Sufficient Moisture – the temperature/dew point spread can be used to determine how moist the air 
+is. The closer the temperature and dew point spread, the closer the air is to becoming saturated or 
+so full of moisture that it can hold no more. Warmer air can hold more moisture than cooler air. 
+Lifting Action – Some of these lifting actions may include heating from below (rising warm air 
+called thermals), orographic lifting (wind pushing a moist unstable air mass upslope), or frontal 
+lifting (a fast moving cold front displacing warm, moist, and unstable warmer air for example).  
+What are the stages of a thunderstorm? 
+Cumulus – the building stage of a thunderstorm characterized by updrafts only. All thunderstorms 
+begin as cumulus clouds but not all cumulus clouds become thunderstorms. 
+Mature – Updrafts and downdrafts both occur at this point. Violent turbulence can be experienced 
+if flight is attempted beneath a cumulonimbus cloud because of this shear zone. The mature stage 
+can be recognized by the beginning of rainfall. 
+Dissipating – At this point the cloud is only giving off downdrafts and the thunderstorm is 
+dissipating. During this stage, large cumulonimbus clouds may have a recognizable “anvil top” 
+that is a portion of the cloud that has been sheared off by the jet stream. The direction in which the 
+anvil top is facing also shows the direction in which the storm is moving. 
+What is wind shear? Why is it an operational hazard? (pg.86) 
+Rapid change in wind direction or velocity – it can cause dramatic changes in indicated airspeed 
+and causes severe turbulence within the shear zone 
+What does dew point mean? (pg.38)
+
+
+========================================
+<<<PDF_PAGE:35>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+The temperature at which the air becomes saturated  
+Discuss the types of fog. Advection, Radiation, Upslope, Precipitation-Induced (pg. 126-128) 
+Advection: moist warm air moves over colder land or water 
+Radiation: forms on clear nights with little or no wind and only over land 
+Upslope: moist unstable air is cooled as wind pushes it up a slope  
+Precipitation Induced: warm rain falls through cool air. Evaporation from the rain saturates the 
+cool air and fog forms.  
+How does icing affect aircraft performance? (Chapter 10) 
+ 
+ 
+Discuss the types of icing. 
+Induction Icing – This includes any icing that impedes that process of air entering the intake 
+manifold to be mixed with fuel. Ice that builds up on the air intakes is an obvious form of this. 
+Carburetor ice is also a form of induction icing. This can be attributed to the incomplete 
+vaporization of fuel in combination with the pressure decrease inside of the venturi. Even on a day 
+as warm as 70°F, carburetor ice can began to form with adequate moisture in the air.
+
+
+========================================
+<<<PDF_PAGE:36>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Instrument Icing – Icing of the pitot tube or static ports can cause the instruments to give 
+inaccurate readings or to fail completely.  
+Structural Icing – Ice that forms on the surface of the aircraft. Since airfoils create lift by 
+decreasing the pressure and thus the temperature of the air around them, icing on the propeller, 
+horizontal and vertical tail surfaces, and wings can form at ambient temperatures that are above 
+the freezing level. Structural icing includes: 
+ Rime Ice – Small rain drops found in stratified clouds or drizzle freeze upon impact with  
+ the airfoil. Air that is trapped between the droplets give the ice a white or opaque   
+ appearance. It builds up typically at the leading edge only and has an irregular shape. This  
+ makes it more easily recognizable to the pilot and easier to remove by deicing equipment. 
+ 
+ Clear Ice – Large super-cooled water droplets found in either heavy rain or in cumuliform  
+ clouds strike the airfoil but do not freeze immediately. Instead they slide backwards across  
+ the surface as they freeze. Clear ice is smooth and glossy making it very difficult to see  
+ from the cockpit. Because it adheres to the surface beyond the leading edge it can be  
+ difficult to remove. 
+ 
+ Mixed Ice – Occurs when drops very in size.  
+ 
+What types of weather briefings can you get from a Flight Service Station briefer? (AIM 7-1-
+4)
+
+
+========================================
+<<<PDF_PAGE:37>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Standard – Should be requested when planning a flight and no previous weather information has 
+been gathered 
+Abbreviated – Used to supplement mass disseminated data or to update a previous briefing  
+Outlook – Request when proposed departure time is 6 or more hours away. 
+What is EFAS (Flight Watch)?  (AIM 7-1-5) 
+Enroute Flight Advisory Service – provides up to date weather advisories for pilots while enroute  
+On what frequency can you contact EFAS? 
+Contact FSS – 122.0 no longer in use as of October 2015 
+What is a METAR? Types, issue, and valid times? (3-1) (AIM 7-1-31) 
+Aviation Routine Weather Report 
+Routine or special 
+Issued hourly  
+Valid for the hour 
+ 
+What is a TAF? Issue, valid times, area of coverage? (7-19) (AIM 7-1-31) 
+Terminal Aerodrome Forecast 
+3 types: Routine (TAF) Amended (TAF AMD) or Corrected (TAF COR) 
+Issued 4 times a day (every 6 hours) 
+Valid for 24-30 hours  
+Forecast for area within 5sm of airport
+
+
+========================================
+<<<PDF_PAGE:38>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What is the definition of a ceiling? (7-26) (AIM 7-1-16) 
+The height above the ground of a broken or overcast layer 
+Does a TAF report cloud ceilings in MSL or AGL? 
+MSL 
+Describe FROM, BECMG, TEMPO, PROB, on a TAF? (7-28 - 7-31)  
+FROM – Rapid change occurring within 1 hour 
+BECMG – Gradual change to take place over the course of 1 hour 
+TEMPO – Between the predicted period, this weather will only occur for less than an hour 
+PROB – number placed afterwards is the probability of the weather forecasted to occur 
+Area Forecast? Issue, valid times? What are the four sections of an Area Forecast? (7-1) 
+Issued 4 times daily 
+Header 
+Synopsis: Valid for 18 hours – contains a short description of weather affecting the area during the 
+valid period. This includes location and movement of pressure system.  
+VFR clouds and weather: Valid for 12 hours – gives a general description of clouds and weather 
+that are significant to VFR operations. 
+Outlook: Valid for 6 hours –describes the prevailing condition  
+Does an Area Forecast report cloud ceilings in MSL or AGL? 
+MSL unless preceded by AGL or CIG (ceiling) 
+AIRMET? Issue, valid times, Sierra, Tango, Zulu? (6-23) (AIM 7-1-10) (PHAK 12-12)
+
+
+========================================
+<<<PDF_PAGE:39>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Airmen's Meteorological Information 
+Issued for: Mountain obscuration and widespread IFR conditions (Sierra) 
+Moderate turbulence and surface winds greater than 30kts (Tango) 
+Moderate Icing (Zulu) 
+Valid for 6 hours 
+SIGMET? Issued? Valid? Why are they issued? (6-1)  
+Significant Weather Information 
+Issued for: Severe Turbulence not associated with T-storms 
+Widespread dust storms and volcanic ash 
+Severe Icing 
+Valid for 4 hours 
+CONVECTIVE SIGMET? Issued? Valid? Why issued? (6-4) 
+Issued for thunderstorm (convective) activity 
+Winds greater than 50 kts 
+Hail greater than ¾" 
+Winds and Temperatures aloft Forecast? (7-39) 
+Issued twice a day every 12 hours and provide wind and temperature information for specific areas 
+within the U.S. 
+How are temperatures above 24,000 identified? 
+Temperature above 24000 feet are negative
+
+
+========================================
+<<<PDF_PAGE:40>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What does 710556 mean on a Winds and Temperatures Aloft Forecast if the forecast level is 
+30,000 feet? 
+Winds are from 210 at 105 kts and temperature is –56 C  
+Winds will not be forecast within how many feet of station elevation on an FD?  (7-39) 
+1500' 
+Temperatures will not be forecast within how many feet of station elevation?  (7-39) 
+2500' 
+Discuss the Surface Analysis Chart? Issued? Valid? Information? (5-1) (PHAK 12-15) 
+Issued 8 times daily and valid for 3 hours 
+Shows position of pressure systems, fronts, local weather, wind speed and directions, and visual 
+obstructions. 
+ 
+Discuss the Weather Depiction Chart? Issued? Valid? Information? (5-38) (PHAK 12-16) 
+Graphical depiction of METAR information 
+Issued 8 times daily and valid for 8 hours 
+It is a flight planning tool to see overall surface conditions across the U.S.  
+Discuss the Significant Weather Prognostic Chart? Issued? Valid? Info? (8-8)  
+Forecast of aviation weather hazards such as icing, freezing levels, and turbulence 
+Issued 4 times a day there is a 12 hour forecast and a 24 hour forecast 
+Discuss the Radar Summary Chart? Issued? Valid? Info? (5-47) (PHAK 12-17)
+
+
+========================================
+<<<PDF_PAGE:41>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Issued 35 minutes past every hour and valid for 1 hour. 
+Displays areas of precipitation and indicates the height of the radar echo tops in hundreds of feet 
+MSL. Movement of cells is indicated by an arrow that points in the direction of the movement 
+with the speed in knots beside it. This chart does not show clouds or fog, only precipitation. 
+ 
+VFR Cross Country Considerations 
+Stage 1 Scenario: 1 passenger @ 120lbs and 5lbs of baggage  
+Stage 2 Scenario: 1 passenger @ 150lbs and 15lbs of baggage – VFR flight plan to KHMT  
+End of Course Scenario: 1 passenger @ 165lbs and 15lbs of luggage - VFR flight to KHND  
+ 
+What preflight action is required by the FARs? NWKRAFT (91.103) 
+NOTAMS 
+Weather 
+Known ATC delays 
+Runway Lengths 
+Alternates 
+Fuel  
+Takeoff and Landing Distances 
+What is a NOTAM? (AIM 5-1-3)
+
+
+========================================
+<<<PDF_PAGE:42>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Notice to Airmen – it is time critical information that is not known in advance enough to be 
+published on an aeronautical chart. 
+Where can I Find Runway Lengths? 
+A/FD 
+What is an Alternate? 
+A second option for landing in case you cannot land at your planned destination  
+What are the Fuel requirements for this flight? (91.151) 
+Day VFR – to the destination + at least 30 minutes of reserve fuel 
+What the right-of-way rules are as applied to the different categories of aircraft? EBGAAR 
+(91.113) 
+Emergency - Aircraft in distress have priority  
+Balloon  
+Glider 
+Aircraft refueling 
+Airship 
+Rotorcraft or airplane  
+Required action for all aircraft confrontations (same category): converging, approaching 
+head-on, overtaking 
+Converging: Aircraft on the right has the right of way 
+Head on: Both divert to the right
+
+
+========================================
+<<<PDF_PAGE:43>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Overtaking: Overtake on the right side 
+What is the maximum airspeed below 10,000’ MSL? (91.117) 
+250 knots 
+Define Minimum Safe Altitude. (91.119) 
+A minimum safe altitude is one that allows for an emergency landing without undue hazard to 
+persons or property on the surface. 
+Minimum safe altitude over congested area? (91.119) 
+1000' above highest obstacle within 2000' 
+In areas other than congested areas? 
+500' above the surface or in sparsely populated areas such as open water: 500' away from any 
+vessel, person, or structure 
+Discuss Tower Light Gun Signals (AIM 4-3-13) (PHAK 13-15) 
+ 
+What is pilotage? Dead reckoning? (PHAK 15-12) 
+Pilotage: Using visual landmarks and references
+
+
+========================================
+<<<PDF_PAGE:44>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Dead Reckoning: Using predetermined headings and performance calculations 
+What is magnetic variation? (PHAK 15-7) 
+Difference between magnetic north and true north 
+What limitations apply to VOR? (PHAK 15-26) (AIM 1-1-3) 
+VORs are limited by their power output. Service volumes range from 25nm to 130nm depending 
+on class of VOR and altitude of aircraft. VORs also operate off of the line of sight principle. This 
+means that if there is terrain between the aircraft and the station, the signal may not be received.  
+What do you do if you become lost in-flight? 5 Cs (PHAK 15-34) 
+Climb – obtain a better view of your surroundings 
+Circle – don’t become more lost; stay in one spot  
+Conserve – lean your mixture and save fuel  
+Communicate – make contact with an FSS or an air traffic controller 
+ 
+Confess – don’t be afraid to admit that you are lost. They are there to help you! 
+Where else can I get information for our destination airport? 
+A/FD 
+And how often is the A/FD updated? 
+Every 56 days 
+Aeromedical Factors (AIM Chapter 8) (PHAK Chapter 16)
+
+
+========================================
+<<<PDF_PAGE:45>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+What are the body systems that are used to ascertain our orientation and movement in 
+space? (PHAK 16-5) 
+Vestibular – The inner ear system composed of 3 semicircular hollow but fluid filled canals 
+arranged in the pitch, roll, and yaw axes. This endolymph fluid inside the canals moves when the 
+head or body moves and displaces tiny hair cells that stimulate nerve impulses. These signals are 
+then sent to the brain and interpreted as motion. 
+Somatosensory – The nerves in our skin cells. This is basically “flying by the seat of your pants” 
+or the sensations of motion that we feel in our bodies from acceleration or turning. 
+Visual – Our Eyes. Light from the sun is constantly being reflected by everything on Earth. This 
+light enters the eyeball through the cornea, travels through the lens and falls on the photoreceptors 
+of the retina. The two kinds of photoreceptors are rods and cones. Rods are used for night and 
+peripheral vision while cones are used to sense color. 
+ 
+What is the cause of middle ear pain in flight and how can we mitigate it? (PHAK 16-4) 
+Air inside of the middle ear is normally equalized through the Eustachian tube: a tube that travels 
+from the ear to the back of the throat on each side. If there is any kind of congestion or blockage it 
+makes this equalization difficult or impossible. In a climb, the air outside becomes less dense and 
+the trapped higher pressure air in the middle ear tends to expand. In a descent, the trapped air is of 
+lower pressure than the outside air and feeling of compression is experienced. This is typically 
+more painful and more difficult to resolve. Sinus congestions cause pain from similar 
+circumstances and can be very painful. The first step in avoiding this pain is to not fly with head 
+colds or ear/sinus infections. In flight, equalization can be helped along by swallowing, yawning, 
+tensing the throat muscles, or by executing the Valsalva maneuver. This is accomplished by
+
+
+========================================
+<<<PDF_PAGE:46>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+pinching the nostrils, closing the mouth, and attempting to exhale. Oral decongestions do not 
+provide adequate relief and may have adverse side effects. 
+What is hypoxia and what are the different types? (AIM 8-1-2) (PHAK 16-2) 
+Hypoxia is a state of oxygen deficiency in the body. It is occurs at 4 different levels 
+Lung: Hypoxic Hypoxia 
+Oxygen is not available at adequate pressure for the lungs to absorb. This occurs when we climb 
+higher in altitude and the air becomes less dense. 
+Blood: Hypemic 
+This is the inability of the red blood cells to carry oxygen to the other cells. The most common 
+cause in aviation is carbon monoxide poisoning especially with small piston aircraft. Cabin heat is 
+provided by ducting engine heat from the exhaust manifold into the cockpit. If there is any kind of 
+leak in this system, exhaust fumes containing carbon monoxide will enter the cockpit as well. 
+Carbon dioxide molecules bond to the hemoglobin in red blood cells 200x faster than oxygen 
+molecules, leaving no more room for the blood cells to carry the oxygen. Smoking cigarettes will 
+also induce hypemic hypoxia because you are inhaling carbon monoxide.  Other causes of this 
+type of hypoxia include anemia (a sickness caused by lowered hemoglobin) or donating blood. 
+Cell: Histotoxic 
+This is the cells’ (other than blood cells) inability to use the available oxygen. Using drugs or 
+alcohol can cause this. When using even over-the-counter medicine, consult an AME to see if it is 
+okay for use in flight. 
+Transport: Stagnant
+
+
+========================================
+<<<PDF_PAGE:47>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Inability of oxygen to reach cells because of poor circulation. The most common form of this in 
+aviation is when the body experiences excessive G-forces.  
+What are the symptoms of hypoxia? 
+Poor judgement, memory, alertness, visual acuity and coordination. Sensation of euphoria or 
+sometimes even belligerence can occur (a macho attitude). Other symptoms include, dizziness, 
+headache, drowsiness and cyanosis (blue coloration of lips and fingernails). 
+What is hyperventilation? How do you treat a hyperventilating passenger? (AIM 8-1-3) 
+(PHAK 16-3) 
+It is an abnormal increase in the breathing rate that leads to a deficiency of carbon dioxide. This is 
+usually brought on by stress or fear while flying and often begins subconsciously. Symptoms 
+include, lightheadedness, dizziness, drowsiness, tingling in the extremities and feeling of 
+suffocation that may ultimately lead to unconsciousness. Treat a hyperventilating passenger by 
+having them consciously control their breathing rate. Talking out loud can help. Having them 
+breath into a paper bag can help reintroduce carbon dioxide into the lungs. 
+What are the in-flight illusions? ICEFLAGS (AIM 8-1-5) (PHAK 16-6) 
+Inversion – Abrupt change in altitude creates the illusion of tumbling backwards 
+Coriolis – Rapid head movement causes the illusion of accelerating or turning  
+Elevator – An updraft causes the pilot to think that aircraft is in a climb. Pilot reacts by forcing the 
+nose down inducing a dive. 
+False Horizon – Sloping cloud formations or obscured horizons confuse the pilot into misaligning 
+with the horizon.
+
+
+========================================
+<<<PDF_PAGE:48>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Leans – Abrupt recovery from a roll can mislead pilot into thinking aircraft is in a turn in the 
+opposite direction. 
+Autokinesis – At night, stationary lights may appear to be in motion. Pilot may lose control of 
+aircraft trying to align it with “moving” light.  
+Graveyard Spiral – In a prolonged constant rate turn, sensation of the turn is not felt. In recovery 
+to straight and level, the pilot may sense a turn in the opposite direction and pull back on the yoke, 
+only tightening the spiral. 
+Somatogravic – Rapid acceleration causes the illusion of the being in a nose up attitude. Rapid 
+deceleration will have the opposite effect. 
+ 
+ 
+ 
+ 
+ 
+What are the runway illusions?
+
+
+========================================
+<<<PDF_PAGE:49>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+
+
+
+========================================
+<<<PDF_PAGE:50>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Aeronautical Decision Making (PHAK Chapter 17) 
+What is the definition of ADM? 
+A systematic approach to risk assessment and stress management. The two defining elements of ADM are 
+hazard and risk. 
+ 
+What are the hazardous attitudes and their antidotes? RAIIM  
+Resignation – The feeling of uselessness or inability or effect change. A pilot who exhibits resignation is 
+an essentially a victim of circumstance.  
+Antidote: I am not helpless. I can make a difference. 
+Antiauthority – Disregard for regulations. This is the “Don’t tell me what to do” attitude. 
+Antidote: Follow the rules. They are usually right. 
+Impulsivity – Acting without thinking.  
+Antidote: Not so fast. Think first.  
+Invulnerability – The thought that “it can’t happen to me”. 
+Antidote: It could happen to me. 
+Macho – An attitude that “you can do it”. This is often associated with trying to impress others or show 
+off. 
+Antidote: Taking risks is foolish.  
+What are some of the ways we can mitigate risk? IMSAFE PAVE 5Ps 
+Illness – Am I sick?
+
+
+========================================
+<<<PDF_PAGE:51>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+Medication – Am I taking any medication? If so, have I discussed with my AME if it is safe for flight? 
+Stress – Am I under psychological stress? School/Work? Money? Health? Family/Social life? 
+Alcohol – Have I been drinking within the previous 8 hours? Am I still experiencing the effect of alcohol? 
+Fatigue – Have I gotten adequate rest? 
+Eating – Am I hungry? 
+ 
+Pilot – Am I ready for this trip (IMSAFE)? Are my certificates/ratings current? Am I proficient?  
+Aircraft – Is the airplane airworthy (AVIATES)? Does it have all of the required documentation 
+(ARROW)? Is it equipped for the intended operation (ATOMATOFLAMES/FLAPS)? Can it carry the 
+intended passengers/load (weight and balance/fuel)? Performance characteristics? 
+enVironment – (NWKRAFT)    
+External pressures – Are my passengers/employer urging me to get somewhere? Do I have stress 
+influencing my life? 
+ 
+ 
+Pilot – physical fitness, currency, and proficiency  
+Passengers – Are they fit to fly? Are they comfortable flying? 
+Plane – Airworthiness and documentation  
+Programming – Are you proficient using the avionics? Are the GPS databases up to date? 
+Plan - (NWKRAFT)
+
+
+========================================
+<<<PDF_PAGE:52>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+How do we assess risk in flight? DECIDE 
+ 
+ 
+Special Emphasis Areas 
+o Positive exchange of flight controls  
+o Stall/Spin awareness  
+o Collision avoidance
+
+
+========================================
+<<<PDF_PAGE:53>>>
+<<<SOURCE_FILE:Private-Pilot-Course-Stage-Check-Study-Packet.pdf>>>
+========================================
+
+o Wake turbulence avoidance (AIM 4-6-7) (PHAK 13-15) 
+o Land and Hold Short Operations (AIM 4-3-11)   
+o Runway incursion avoidance (PHAK 13-18) 
+o CFIT awareness 
+o ADM and risk management (personal minimums) 
+o Checklist usage 
+o TFRs 
+o Special use airspace 
+o Aviation security (1-866-GA-SECURE) 
+o SRM

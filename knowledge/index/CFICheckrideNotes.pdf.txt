@@ -1,0 +1,236 @@
+DOCUMENT_TITLE: CFICheckrideNotes
+SOURCE_FILE: CFICheckrideNotes.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:CFICheckrideNotes.pdf>>>
+========================================
+
+1
+Additional Resource from The Savvy Flight Instructor  by Greg Brown
+© 2015 Gregory N. Brown • Published by Aviation Supplies & Academics, Inc. (ASA)
+Notes from one pilot’s Initial CFI Checkride
+(By A.M.)
+[This is not intended to be comprehensive nor representative of every CFI checkride, but it does 
+provide good insights into what typically happens there.]
+Ride with FAA - Aviation Safety Inspector
+Ground 7:30 AM - 11:45 AM
+45-minute lunch break. 30 minutes for preflight inspection/questions. Flight 1.9 Hours. 
+Oral Portion
+•	 Examiner verified that I had all the required endorsements. 
+•	 Checked my FOI and FI-A test results. [I had scored in the high 90s on both so he just 
+laughed and said there was nothing for him to do there and handed the reports back to 
+me.]
+•	 Checked that the aircraft was airworthy - my stickers made it easy to confirm
+Questions
+•	 What’s the difference between a 100 hour inspection and an annual inspection? 
+•	 Once you have your certificate can you train someone for CFI? 
+•	 Where does it say you have to have 200 hours before you can train someone for CFI? 
+•	 How do you renew your flight instructor certificate? 
+•	 What does PTS stand for? What does that mean? - minimum standards not the goal
+•	 What are the things that are in every PTS? The special emphasis areas. What are some 
+of those areas? 
+•	 Do you have a copy of the PTS? [I forgot my print copy at home but I already had it up 
+on my laptop.]
+•	 Levels of Learning (rote, understanding, application, correlation) - what level do we train 
+for? 
+•	 What are the stages of teaching (prepare, present, etc.…)
+•	 What are the laws of learning (readiness, primacy, etc…)
+•	 Common defense mechanisms.
+•	 Parts of a lesson plan. [When the ASI called to schedule he told me lesson plans off 
+the internet were fine, but if I had done that he would have me write a lesson plan from 
+scratch in front of him. I had researched and written all of my own lesson plans so I 
+didn’t need to do that.]
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:CFICheckrideNotes.pdf>>>
+========================================
+
+2
+Additional Resource from The Savvy Flight Instructor  by Greg Brown
+© 2015 Gregory N. Brown • Published by Aviation Supplies & Academics, Inc. (ASA)
+•	 How do you teach risk management - I told him I have a lesson using the standard FAA 
+tools but the main thing I’ll do is demonstrate risk management constantly. He re-
+emphasized how important it is to demonstrate risk management and ADM.
+Aeromedical factors
+•	 What’s the first thing you tell a prospective pilot to do? If they are serious about flying 
+tell them to get their Medical, and if they are wanting to be a professional pilot go for 
+the first class medical. 
+•	 How long is a first class medical good for? - looking for answers about how it’s valid for 
+private pilot privileges just as long as a 3rd class medical is. 
+•	 Talked about hypoxia but I can’t remember the scenario that got to that question. 
+•	 What are the effects of drugs and alcohol on a pilot?  
+•	 Smoking’s effect on a pilot’s ability to see at night. 
+•	 Something about what organ is most sensitive to oxygen deprivation??  
+•	 Scenario - write out the endorsement that will allow a post solo student to fly to the 
+practice area to practice. I put in visibility, ceiling and wind limitations. He asked how 
+would I teach 5000’ ceiling or 10 SM visibility. He didn’t want to hear about getting 
+the METAR or ATIS - he wanted things like if you can see over the top of the hills the 
+ceiling is over 3000' or airport to the hills is 4SM.
+•	 Your student is flying solo and has a pilot deviation, what do you do? Who is responsible? 
+The CFI. 
+•	 Wanted to hear the corrective actions and emphasized it is best to call the FSDO 
+proactively rather than wait for the call. “FAA is here to help”. 
+•	 What is a learning plateau? What do you do if/when your student gets to one?
+•	 What would you do if you are training someone that you know should not (or cannot) be 
+a pilot. 
+Systems Questions
+•	 Explain the fuel system
+•	 Explain the electrical system
+•	 Explain how the controls work - yoke attached to a rods and cables that adjust the 
+position of the ailerons
+Aerodynamics Questions
+•	 What causes a plane to turn - horizontal component of lift
+•	 Teach me about stalls
+•	 Where do stalls typically start on the wing and why do we want it to start there?
+•	 What’s the last control surface that’s effective in a stall?
+•	 How do you teach slow flight and stalls in the air? He focused on how slow flight is flight 
+below normal cruise, doesn’t have to be at MCA. 
+•	 How would you teach stalls to someone who has never done a stall before? (the flight 
+portion). I covered and (he re-emphasized) the signs of a stall. I covered (and he re-
+emphasized) how stalls can happen at any airspeed or attitude.
+•	 That led into a discussion about accelerated stalls
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:CFICheckrideNotes.pdf>>>
+========================================
+
+3
+Additional Resource from The Savvy Flight Instructor  by Greg Brown
+© 2015 Gregory N. Brown • Published by Aviation Supplies & Academics, Inc. (ASA)
+•	 Effect of CG outside of the W&B envelope - what happens when CG is too far forward 
+and too far aft. 
+•	 How does lift work? How would you explain how lift works to a 16 year old? 
+•	 How do you recover from a spin? (be aircraft specific)
+•	 Why do we teach straight and level flight?
+•	 How do you teach straight and level flight in the air? How would you teach it on the 
+ground?
+•	 Why do we teach turns, climbs and descents?
+•	 Teach me about the national airspace system and VFR weather minimums. Said I’m the 
+first one that didn’t trip over the Class Golf VFR weather minimums. How would you 
+explain that to a 16 year old? 
+•	 When would you have your students start using a VFR sectional?
+•	 How much time are we required to train a private pilot under the hood? why do we train 
+them on instrument flying at all? 
+•	 He said the hood time for private does count as dual towards an IFR certificate in spite 
+of me not being a CFII. [This is being heavily debated in our FSDO right now. A legal 
+interpretation was requested and we’ll see what it says.]
+•	 Teach about instrument flying. (Liked that I immediately went to the board and drew 
+an AI in full color.) He spent some time telling me some rules of thumb for picking a 
+pitch for a climb rate based on speed (or climb rate based on speed and pitch). Similar for 
+descent rate. 
+•	 Went through the runway flashcards (because he had to - he said), after the first 3 he 
+started asking “Do we have to keep doing this?” until I told him no. 
+•	 What ground reference maneuver will we definitely be doing? 
+•	 What is a chandelle? 
+— break for lunch —
+Flight Portion
+•	 Preflight - explain the structure of the wing - skin, spar, ribs
+•	 What are the different colors of aviation fuel - he brought up fuel types that are used in 
+WWII planes. 
+•	 Asked about the antennas - how do you know these are comm antennas? 
+•	 What do you want to look for on a constant speed prop - oil / sign of prop seal leakage
+•	 What’s the spring on the nose gear for?
+•	 What’s this - pointing at the shimmy damper. How would you teach about that? 
+•	 What’s this - access panel in front of the stabilator.
+•	 What’s the difference between a stabilator and horizontal stabilizer / elevator. 
+•	 Difference between the anti-servo tab (on Arrow) and trim tab (on 172)
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:CFICheckrideNotes.pdf>>>
+========================================
+
+4
+Additional Resource from The Savvy Flight Instructor  by Greg Brown
+© 2015 Gregory N. Brown • Published by Aviation Supplies & Academics, Inc. (ASA)
+•	 What are the - baffles, flywheel for the starter, exhaust and oil cooler exhaust
+•	 What cools the engine
+•	 Preflight brief I briefed the taxi route, fire, failure, loss of control
+Start up… 
+•	 As we taxi - what would you teach for radio com (who you’re talking to, who you are, 
+where you are, what you want), how to respond, when you can abbreviate your tail 
+number, what you acknowledge vs read back vs do not respond at all
+•	 On zulu give him the controls to taxi, he immediately veers away from the centerline. I 
+take the controls. Talked about instrument checks on taxi. 
+•	 When I parked in the runup area I mentioned we park facing the tower. He asked why 
+so I said 1 - typical winds and cooling and 2- so we can see light gun signals. Since I 
+mentioned light gun signals he asked me what those were. 
+•	 What are you doing when you’re checking the mags? 
+•	 What does it mean if there is no RPM drop during a mag check? 
+T each and demonstrate 
+•	 Soft field takeoff - very nice :)
+•	 Clearing turns first - good thing I remembered.
+•	 Once over 500' he takes the controls and has me put on the foggles to fly under the 
+hood. We head towards the practice area by Lick. I do the climb out and turns under the 
+hood as he gives different headings then we level off. Then he puts the plane in unusual 
+attitudes and has me recover and teach as I recover. 
+•	 I teach slow flight, then he takes the controls and I “evaluate”. Then I teach an approach 
+stall. Then he demonstrated one doing a much slower approach into the stall. 
+•	 He demonstrated power on stall by reducing speed to Vr, pitching to 80 and adding 
+power to induce the stall. I told him I do it simulating attempting a take off at a high 
+density altitude. He liked that. Another option we discussed was “partial power loss”. We 
+had covered accelerated stalls on the ground.
+•	 Headed further south, I teach commercial steep turns and barely stayed within spec but I 
+did teach. He then did one and I critiqued. 
+•	 Further south I teach/demonstrate a Lazy 8 and he does one and I critique. 
+•	 Emergency descent - teach and perform. Level off. 
+•	 Fly further south and he wants to see what I would do if someone freezes at the controls. 
+He suggested as an option of last resort strike at the person’s neck, their reflex reaction 
+should be to let go of the controls. 
+•	 Lose engine (at 2500ft) - emergency approach to landing over a grass strip airport - 
+break off once landing was assured
+•	 He demonstrates one - emphasizing being very mellow about it.
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:CFICheckrideNotes.pdf>>>
+========================================
+
+5
+Additional Resource from The Savvy Flight Instructor  by Greg Brown
+© 2015 Gregory N. Brown • Published by Aviation Supplies & Academics, Inc. (ASA)
+•	 8s on Pylons - I teach/demonstrate. 
+•	 He does Turns on a Point and I critique
+•	 What do you teach to do if someone is lost (at 1000') and needs to get back to San Jose? 
+talked through that scenario = using GPS as one option. VORs if higher, climb, talk to 
+ATC, etc. 
+•	 Head towards a small non-towered airport and teach a soft field landing. He pulls power 
+on base and asks if we’d make the runway. I didn’t think so but I pitched for best glide 
+(gear already down and 10 degrees of flaps) and definitely would have made it, then on 
+short final I get the engine back and have to do/teach a soft field landing. 
+•	 Teach short field take off - then give him the controls to teach him a short field landing. 
+He flies 100' off pattern altitude and I correct him on that. Then on downwind/base and 
+base/final he gets squirrely. Finally on final I take the controls because at that point the 
+purpose of the exercise (performing a short field landing) was moot. 
+•	 Go around and come back again. This time I teach him through the landing. Have to 
+make sure he gets across the runway hold short line. 
+•	 Do a normal take off - on the takeoff roll he points at the oil pressure gauge and says 
+“Oil pressure in the red! oil pressure in the red!” I look and say, “No, it’s not.” I was 
+thinking he was pretending to be a panicky student.  He says it again and I realize he’s 
+simulating oil pressure in the red so I abort take off. Then he has me go ahead and take 
+off. 
+•	 Stay in the pattern, on down wind he says to do a power off 180. Set up and pull power 
+1000 AGL abeam the numbers and announce a short approach. About 1/3rd of the way 
+through the arc back to the runway a plane takes the runway to takeoff… I said I wasn’t 
+sure the plane would be clear before we got there. He says this sort of stuff happens to 
+CFIs all the time. The plane did clear the runway and I did land well within the 200' 
+allowed for the power off 180. 
+•	 Take off and head back towards home base. He flies and we debrief. He asks how I 
+thought I did. I didn’t realize he was asking me to critique myself. Then he critiqued me. 
+On the way back he had me do the radio work and headed to the east of the airport. We 
+call in right over the usual waypoint (south and east of the airport) and are cleared to 
+land on 31L. Finally I told him to level off and go more west to approach on the correct 
+runway. Had to stay on top of the pre-landing checklist. He did a good landing and he 
+taxies and I do all radio work. We taxi back and park. I kept an eye on him the whole 
+time and when I was shutting down he reached for the key so I told him no and put the 
+mixture lean and then turned off the key. 
+•	 He watched me secure the aircraft and then announced the ride complete.

@@ -1,0 +1,422 @@
+DOCUMENT_TITLE: STUDYORALS-pdf
+SOURCE_FILE: STUDYORALS-pdf.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+FAA “ORAL” STUDY QUESTIONS –  IMPORTANT: 
+ 
+ 
+Aircraft and Maintenance 
+ 
+• Maintenance inspection periods (100hr and Annual) – how long are each valid? 
+When can you fly over these times? 
+ 
+• What happens if your aircraft annual inspection expires? Is the aircraft legally 
+flyable?  
+ 
+• What is a Ferry permit and when can it be issued and by whom? 
+ 
+• What instruments would be affected by loss of an engine suction pump? 
+ 
+• What static instruments fail if the outside static port clogs. How does each fail? 
+Describe. What can you do to continue to your destination? 
+  
+• What does an ELT do? When must the battery be replaced/inspected? What 
+frequency/s does it transmit on? 
+ 
+• How long of a takeoff roll do we need if the density altitude is 4000 feet in a C -
+172 aircraft at KPSK? (See aircraft performance charts) 
+ 
+• Describe adverse yaw and p-factor? How do you control them? 
+ 
+• What is maneuvering speed. Is it one fixed speed or does it vary? Why? 
+ 
+• What are the following values for your aircraft? Va, Vfe, Vne, Vso, Vs1? 
+ 
+• What is the maximum baggage weight for your airplane? 
+ 
+• How do you get into a spin and more importantly perhaps, how would you recover        
+from a spin? 
+ 
+• Explain ADS-B. What is mode A, mode C, and mode S? 
+ 
+• How often must ADS-B out systems be inspected?
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• What is ADS-B IN? What are its features? 
+ 
+• What does a p-lead refer to? 
+ 
+• What instruments does the pitot-static system drive? 
+ 
+• What color is hydraulic fluid in our aircraft? 
+ 
+• How does each primary aircraft control work? In flight, if you push the left rudder 
+pedal where does the nose go? Which way does the rudder physically move? 
+How does the trim control work? If you have an UP-trim position what is the 
+physical position of the tab on the tail? (Up or down)? Is the trim tab on the right 
+or left elevator? Why? 
+ 
+• If you go out to fly an airplane and a tire is flat. Can you legally change the tire 
+assuming you have the new replacement tire, tools, and the knowledge of how to 
+do it? What would be your airframe logbook entry?  
+ 
+• What items are you allowed to work on if you are the owner or chief operator of a 
+FAA part 91 aircraft? (13) 
+ 
+• How many horsepower does the engine have in the C172 we fly? How many 
+spark plugs? Does it have a carburetor or is it fuel injected? Why do we have 
+carb heat control? 
+ 
+• What does the rubber belt power that you can see at the front of the engine   
+cowling? What does it do? What happens if it breaks in flight?  
+ 
+• What happens if the alternator systems fails and you are drawing current   
+from the battery without replenishing? What are system concerns? 
+ 
+• Is the engine/propellor direct drive or gear driven in this aircraft? How 
+many cylinders? How many sparkplugs for each cylinder? 
+ 
+• What do aircraft FLAPS do? Are they necessary? Could you land without them? 
+ 
+• When you charge or start your aircraft from an outside power source what 
+system should be turned off during the procedure?  (Alternator-1/2 the red 
+switch) Why?
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• Why is the Red Master Switch split in two parts (two different switches). 
+What does each switch do?  
+ 
+• When you charge or start your aircraft from an outside the aircraft power 
+source what system should be turned off inside the aircraft during the 
+procedure?  (Alternator-1/2 the red switch) But why? 
+ 
+• Will the aircraft engine still run if you turn the master (red switches) OFF while 
+flying? 
+ 
+• What do the magnetos do? How many are there? How do they work? 
+ 
+•  If you encountered a bad mag check (more than 125 rpm drop and it runs 
+rough), can you (the operator) fix it in preflight? Is the aircraft be safe to fly? 
+ 
+• What is the difference between UTILITY AND NORMAL weight and balance 
+categories of aircraft operation? 
+ 
+• When is it required to carry an AFM (aircraft flight manual) in the aircraft during 
+flight? 
+ 
+• What is an aircraft MEL? Does the C172 we fly have one? What is the meaning of 
+“Kinds of Operation” and how does that relate to the MEL? What does 
+TOMATOFLAMES mean…list them? (Please read FAA 91.205). 
+ 
+• How do you calculate the fuel required for a trip with an E6B circular slide rule? 
+How much fuel must you land with for both day and night flights (minimum)? 
+ 
+• What does POWER control on your aircraft? What is manifold pressure and 
+when is that used to measure power?  
+ 
+• Explain a “fixed pitch” propellor. Is it cut for maximum efficiency in both 
+climb and cruise? How could it be made more efficient? 
+ 
+• Explain how a constant speed propellor works. Why is it called constant 
+speed? Do you want to take big or small bites of air when you climb. Where 
+is the propellor control sitting on take-off? What powers the propellor control 
+and blade position? 
+ 
+• What is an aircraft airworthiness directive (AD) ? Who is responsible for making 
+sure they are accomplished in a timely manner ?
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• What is an aircraft Type Certificate? What is an aircraft supplement type 
+certificate (STC)? LOOK UP “FAA TCDS” for the C172 aircraft we fly. 
+ 
+• What instruments would be affected by loss of an engine suction pump on most 
+aircraft? 
+ 
+• What happens if the pitot static system port clogs or ices over outside the 
+aircraft? Any way to fix that problem while in the air? 
+ 
+• What is the effect of an aft CG loading of the aircraft. Is the aircraft more or less 
+stable? 
+ 
+• What is the effect of forward CG loading of the aircraft?  Is the aircraft more or 
+less stable? 
+ 
+• What logbooks are required for a small aircraft? Airframe, Engine, Propellor. The 
+airframe logbook is typically the most used for recording airframe changes 
+including “return-to-service” after maintenance and recording required 
+inspections such as ELT, Transponder, Altimeter checks, etc. 
+ 
+• What are required documents to be in an aircraft at all times of operation? 
+ 
+• What is FAA 8130? (Best to know definitions and reporting requirements). 
+ 
+ 
+WEATHER 
+ 
+• Explain density altitude. Why is it important? 
+ 
+• What is a miroburst and why is it important? What is windshear? 
+ 
+• What are your concerns with following a large jet aircraft too closely? How about 
+landing and takeoff considerations? 
+ 
+• What weather sources would you use to prepare for an upcoming VFR flight? Be 
+detailed with this answer. The GO/NO GO decision is one of our hardest 
+decisions.
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• What is the significance of 29.92 barometric pressure and a temperature of 59 
+degrees F to aviators?  What barometric pressure does the altitude encoder in 
+your aircraft report to ATC? 
+  
+• For an upcoming VFR cross country flight, where do you get your wind 
+information at different altitudes?  Can you trust one source for that 
+information? 
+ 
+• Can you read both a METAR and a TAF?  How do you use each? 
+ 
+• What does “AWOS” stand for? What does “ASOS” stand for? What does A02 
+mean in a Metar Report? 
+ 
+• How do you positon your aircraft to fly in a significant crosswind when landing 
+and taking off? Can the maximum tested crosswind component listed for your 
+aircraft be exceeded? 
+ 
+• Do you have any de-icing equipment on your aircraft? How about anti-icing 
+equipment? 
+ 
+• What are your concerns when the temperature and dewpoints start coming close 
+together? 
+ 
+MEDICAL 
+ 
+• How long are the third-class, second-class, and first-class medicals valid for? 
+ 
+• What is a “Basic Med” medical? What are restrictions on its use? 
+ 
+• Is it legal to fly with an expired medical?  
+ 
+PILOT OPERATIONS 
+ 
+• What would you do if you got lost? (4-Cs) 
+ 
+• How would you activate runway lighting at night? 
+ 
+• How would you find the frequency for Flight Service when departing KPSK?
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• Would you fly as PIC with a passenger who was drunk or injured? Concerns? 
+ 
+• In order for you to fly with a passenger, what are your responsibilities as a 
+pilot-in-command? 
+ 
+• How many pilot hours in the logbook are required for you to fly for a charity? 
+ 
+• What does “common purpose” mean when deciding if you can legally split 
+aircraft charges for a proposed flight with a friend or acquaintance? 
+ 
+• Is a pilot certificate good for life? Why is it properly called a “certificate” and 
+not a “license”? 
+ 
+• What is CTAF? When does a tower-controlled airport frequency revert to 
+CTAF? 
+ 
+• Is it legal for a student pilot fly into a class B airport?  
+ 
+• What is the difference between “Currency” and “Proficiency”? 
+ 
+• What are Category and Class limitations when referencing your pilot 
+certificate. 
+ 
+•  You just received your ASEL Pilot’s Certificate. What is required for you to fly 
+a conventional gear airplane (tailwheel) if you have only trained in a nose 
+wheel aircraft? 
+ 
+•  What must you do and log after two years of having your pilot’s certificate to 
+retain your privilege to fly? 
+ 
+AIRSPACE 
+  
+• Do you understand the abc’s for Airspace? Describe all in terms of visibility 
+and cloud clearance. 
+  
+• What is a TRSA?  Explain operations. 
+ 
+• What is a mode C ADB-B Veil? Where is it found?  
+ 
+• Where is ADS-B (OUT) required? Is ADS-B (IN) currently required?
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• Remember class E airspace can begin (1) at the ground (2) 700 ft. or (3) 
+1200 ft. over most of the country. See sectional indications for specific 
+airports. Any dashed lines blue or magenta indicates controlled airspace 
+goes to the ground (no class G).  
+ 
+ 
+Navigation 
+  
+• What is FAA AC90-66C?  What does it detail? 
+ 
+• What is an isogonic line on a sectional map? How do we use it? 
+ 
+• What is the difference between TRUE NORTH AND MAGNETIC NORTH? 
+Are VORs TRUE or MAGNETIC? Are runways aligned to TRUE OR 
+MAGNETIC? What are the correction lines called on a map? 
+ 
+• What are the three “Pillars” of Aviation”? AVIGATE, NAVIGATE, and 
+COMMUNICATE in that order. (We gave you an answer!) 
+ 
+• Are both the restrictions and controlling agencies for MOAs and Restricted 
+Airspace shown on a sectional chart? If so where? 
+ 
+• What does the term “VOR” stand for? Do they have different power levels? 
+How far away can you receive a typical VOR such as PSK? 
+ 
+• What does it mean when an instrument pilot reports that he is doing a “LOW 
+APPROACH”? Do you need to be concerned when you are flying nearby or 
+in the pattern? 
+ 
+• What is the minimum VFR altitude when flying inside of Class D airspace 
+ 
+• What is minimally required when you fly over a Class C airport above the 
+“top” of the stated Class C control area? 
+ 
+• What is pilotage and dead reckoning? What are other types of of navigation? 
+ 
+• What is radio navigation? Talk about different types.
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+NTSB 
+ 
+• What is required reporting for aircraft accidents and incidents? 
+ 
+• What is NTSB 830? Know reporting requirements. 
+ 
+ 
+ACS Maneuvers 
+ 
+• What is the difference between S-Turns over a road (or other straight object 
+on the ground) and Turns-Around a Point? Remember keep the same radius 
+on turns-around-a point. Announce when you are steep and when you shallow 
+in your turns around a point. S-turns require different excursion distances from 
+the road depending on wind. 
+ 
+• Why are “Clearing Turns” required before each maneuver? 
+ 
+• Why do you need your right foot handy when doing a power on stall to a 
+break? 
+ 
+• What is a constant rate climb? What is a constant rate turn-bank? How many 
+degrees of turn is the aircraft in when performing a constant rate turn-bank? 
+ 
+• What is a stabilized descent? List several elements. 
+ 
+• Describe “UNUSUAL ATITUDES”. What can you as a pilot do to get out 
+of one of those? Procedures. 
+ 
+• Describe how to do a “FORWARD SLIP”. Why would you ever want to 
+do one of those? 
+ 
+• Why do we slow the aircraft to below 80 MPH prior to doing a “POWER-ON 
+STALL? 
+ 
+• What is “TURNS AROUND A POINT” and how do you do them according to 
+the ACS? What are safety concerns and plans to alleviate? 
+ 
+• What are “S-TURNS ACROSS A ROAD (or something straight)? How do you    
+do them? What are safety concerns?
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+• According to the ACS… What is the minimum altitude you should keep 
+when doing altitude changing maneuvers such as STALLS? What are 
+safety concerns? Define a “clearing turn”. 
+ 
+• What is meant by “Controlled Descent”? 
+ 
+• What is meant by “A DIVERSION” as referenced by the ACS? What is 
+expected of you? 
+ 
+SCENARIOS: 
+ 
+1. WE are flying along and the aircraft battery seems to be discharging 
+(ammeter goes to the left). What do we do? 
+2. Both gas tanks show empty gauges. What do we do? 
+3.   WE are deciding whether to make a trip or not. There are lots of 
+thunderstorms in the area but it looks like our flight might work. What 
+should you do? What would be the best weather charts to consult? 
+4.   WE taxi out to take-off and find that one magnito is running rough. What 
+now?      
+5.   WE smell smoke in the cabin and suspect a fire could be imminent. What 
+do we do? 
+6.   WE have a passenger that is feeling very hot and reports not feeling so well.              
+What do you do? 
+7.   You have a parachutist friend who wants to jump out of your aircraft. 
+Can you allow that?  
+8.   You have another friend (strange friends..but I digress) that wants to drop 
+human ashes out of your plane. Can you allow that? Considerations? 
+9.   What do you do if you have not flown for over a year and you want to 
+get your privileges back to carry passengers? 
+10. The FAA tower controller calls you up and asks you to call the tower when 
+you land for a possible violation. He gives you the phone number. What do 
+you do and what are your concerns? 
+11. A friend offers to pay you to take him or a parcel of some kind to a location 
+several miles away. What are your considerations? 
+12. What is the "standard" to determine if you can "share" costs with your 
+passenger? 
+13. You are starting your engine on a cold day and may have given the engine 
+too many “prime” pumps. Fuel is dripping from the engine. When you crank
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:STUDYORALS-pdf.pdf>>>
+========================================
+
+the engine is suddenly backfires and someone yells “your engine is on 
+fire!!” What do you do?

@@ -1,0 +1,250 @@
+DOCUMENT_TITLE: PPL-Mock-Oral-1
+SOURCE_FILE: PPL-Mock-Oral-1.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Private Pilot Mock Oral Sample QuestionsSaint Charles Flying ServiceJPF 3.9.2021
+What flying experience do you need to qualify forthe Private Pilot Checkride?  Please have thetotals in your logbook added up accurately, use apencil.
+Do youneedto keep records of your flights afteryou get your Certificate?
+What Privileges does a Private Pilot have?
+What limitations does a private pilot have?  Can youwork for hire?  What does Pro-Rata mean?
+Describe your private pilot certificate in terms ofCategory and Class.  What is the heaviestairplane you can fly?  Can you fly a turbo-prop? Can you fly a turbo-jet?
+What must you do as a private pilot to stay currentday, night, overall?
+How long is a 1st, 2nd and 3rd class medical goodfor? (Under 40 / Over 40)
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+What happens to a first class medical if you are under 40 and one year goes by withoutrenewal?
+Let’s say you get a minor injury.  An ankle sprain. You have to wear an ankle brace for a month.What “self-medical” steps would you take?
+What documents do you need on your person or readilyavailable in the cockpit while flying?
+Describe Currency and Proficiency.  This is an emphasizedarea, the DPE will want a thoroughexplanation.
+How would you approach an unfamiliar airplane or flightdisplay system?
+Can you go fly (day) with a passenger if it has been95 days since your last takeoff and landing?
+Same question for night flight?
+Where is the Registration and Airworthiness Certificate?
+When do they expire?
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+What inspections are required on this airplane?
+A-
+V-
+I-
+A-
+T-
+E-
+What is an Airworthiness Directive?  Is it mandatory?
+What is a Special Airworthiness Information Bulletin(SAIB), is it mandatory?
+Why and how would you obtain a Special Flight Permit?
+What does FSDO stand for?  Who do they work for? Howdo you contact them?
+How far can you overfly a 100 hour / annual inspection? What happens to the 100 hourinspection clock if you overfly?
+What maintenance can a Private Pilot perform? Section43 Appendix A.  Some examiners pointout you are a renter and can not do any MX.
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Write out ATOMATO FLAMES FLAPS 91.205
+Flying with inoperative equipment.  Can you go flyon a beautiful VFR day when the AttitudeIndicator is broken?  Describe all the steps necessary.
+Describe the Placards required in the cockpit of aCessna 172.
+What is Va Maneuvering Speed?  What does this meanwhile flying the airplane? Hint, it is notthe speed we do maneuvers at.
+What LEGAL sources of weather do you use for flight planning?
+How do you find weather for the different segmentsof your flight, departure, climb, enroute,descent, destination?
+What is the atmosphere composed of? Don’t over thinkthis one.
+How is wind made?
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Describe cold and warm fronts.  What happens when a front passes?
+What are the 3 classifications of clouds?  Don’toverthink this one.
+What is the definition of Turbulence?  How does theFAA categorize turbulence by severity?
+What is Standard Temperature and Pressure at Sea Level?
+Define Pressure Altitude.
+Define and be able to calculate Density Altitude usinga DA chart or your E6B. Example,Temperature 21 degrees Celsius, Altimeter 29.72, fieldelevation 436 feet MSL.
+Define Standard Lapse Rate.
+What ingredients are necessary for a thunderstorm?
+Define unstable atmosphere.
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+What is Low Level Windshear?
+What is a microburst?
+Define a stable atmosphere?  What conditions shouldwe expect?
+In unstable atmospheric conditions should we expect?
+How far away from thunderstorms should we fly?
+If we have to fly near a thunderstorm, which sidedo we fly on?
+How would we get structural icing while flying?
+What kinds of ICE can accumulate on the airplane?
+What anti-icing / de-icing equipment is on the 172?
+Is it legal for us to fly into known icing conditions(FIKI)?
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+How does frost accumulate on the airplane?
+Can you fly with frost on the airplane?  How doesfrost affect the performance of our airplane?
+Describe advection and radiation fog.
+If ice accumulates on our 172 during flight, whatwould you do?
+What ingredients are necessary for Carburetor Icing? What would you notice first?  What stepswould you take?
+How do we get weather updates while flying?  Tell me about all the ways we can get weatherupdates while flying.
+What are your personal weather minimums?
+How would you use these personal weather minimums?
+To make a go or no-go decision
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+To divert to an alternate airport
+If the weather was 4 statute miles and ceilings were2,500, would you go flying?
+What would you do if you inadvertently flew into clouds?
+Cross country flight planning: How do you choose youraltitude, east, west?
+What is a Maximum Elevation Figure?
+Describe how high an obstacle is on a VFR chart.
+How do you find true course, magnetic heading, windcorrection angle, ground speed, variation,deviation?
+How do you calculate ETA?
+What are the day / night VFR fuel requirements?
+How do you open and close a VFR flight plan?  There’smore than one way!
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Fill out this acronym.
+P-
+A-
+V-
+E-
+I-
+M-
+S-
+A-
+F-
+E-
+What is Aeronautical Decision Making?  How do we usethis process? Describe one of themodels, like 5P or DECIDE
+What is Risk Management?
+Describe the steps for diverting to alternate.
+Describe the VFR cloud requirements for all airspaces.
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Where is ADS-B out REQUIRED?
+How do you get into Bravo airspace?
+How do you get into Charlie and Delta airspace?
+You must be familiar with and describe anything onyour VFR chart.  Read the AERONAUTICALCHART USER'S GUIDE PAGES 1-58
+Be able describe the airspace you are in over a certainpoint, like KSET, as you go up.
+What equipment do you need to be within 30 NM of aterminal airport?
+What does mode C do?
+What equipment do you need to get into, above, orunder, Bravo airspace?
+What equipment do you need to get into, below, orabove Charlie airspace?
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+What equipment do you need to get into Delta airspace?
+What is an MOA?  Do you need permission to enter? Where would you find the controllingagents frequency?
+What airspace do you need permission to enter?
+What airspace can youNOTenter?
+What is a TFR?  Where will we find them around here? How would you find notifications forTFRs if you don’t have an app like Foreflight?
+Performance and Limitations:  What are some thingswe CAN NOT do in the airplane?
+What are the maximum positive and negative load factorswe can experience while flying?
+What kinds of flying is this airplane approved for?
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Know your V-speeds, and markings on the airspeed indicator.
+What is center of gravity?
+What are the forward and aft limits of Center of Gravity?
+Define basic empty weight?  What is the basic emptyweight of your checkride airplane?  Whatis the maximum gross takeoff weight of your checkrideairplane?
+What is the useful load?
+How much gas can go in the airplane?  How much gascan actually be used?  How much doesthis fuel weigh per gallon?
+Do a weight and balance, full fuel, full gas, frontseat passengers 400 pounds, baggage in thebackseat 50 pounds.  Are you within CG limits?
+What is the Zero Fuel CG for the above?
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+How does a forward CG affect stability, aircraft performance, stall entry / stall recovery?
+How does a rearward CG affect stability, aircraftperformance, stall entry / stall recovery?
+Why do we get better airspeed and more MPG when theCG is most rearward?
+What direction does the elevator push?  Up or Dow
+During the checkride you will be expected to justifythe performance of the airplane for yourcross country, every phase of flight, take off, climb,cruise, descent, landing.  Prove to me wecan do your cross country flight with Section 5 ofthe POH.  Landing and takeoff distances, fuelburn, etc...
+What are Primary Flight Controls?
+What are Secondary Flight Controls?
+What kind of engine do we have?
+What kind of fuel and oil are we supposed to use? What happens if we use the wrong grade ofeither?
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+What hydraulic systems are on the airplane?
+How do the flaps work?
+The cable that controls the elevator breaks, you haveno elevator control, how would youcontinue to fly the airplane, and land with pitchcontrol?
+Describe the Alternator, battery, circuit breakers, what do we do if we have an ammeterdischarge with low voltage light illuminated?
+Describe how the magnetos work?  If the battery dies,does the engine continue to run?  Whyare there two magnetos?  And why are there two sparkplugs for each cylinder?
+Know how to use the GPS device in your airplane.
+How does the Pitot - Static system work? And what instruments does it drive?
+How does the Turn Coordinator work?
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:PPL-Mock-Oral-1.pdf>>>
+========================================
+
+Human Factors:  What is hypoxia?  What are some of the types of hypoxia?  What do we do?
+Should we fly with middle ear or sinus problems? Should we take over the countermedications?
+Define Spatial Disorientation.  What situation isSpatial Disorientation most likely to occur?
+What is CFIT? (emphasized area, know this well)
+What do you do if one of your passengers gets motionsickness while you are flying the plane?
+What are the rules about flying after SCUBA diving?
+Optical Illusions, day and night?
+Know the regulations for alcohol and drug use.
+List the 5 hazardous attitudes and their antidote.

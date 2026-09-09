@@ -1,0 +1,175 @@
+DOCUMENT_TITLE: Common Errors -Private and Commercial
+SOURCE_FILE: Common Errors -Private and Commercial.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Common Errors -Private and Commercial.pdf>>>
+========================================
+
+From The Right Seat (Private and Commercial Check Rides) 
+ 
+I’m frequently asked if I see any common errors when conducting various check rides and the answer is yes. 
+And, while those listed below are the things I see most often, there are an infinite number of ways applicants 
+have screwed up…some of them quite novel…which, unfortunately, result in unsatisfactory conclusions.  
+  
+So, here we go…in no particular order: 
+ 
+Pre-Flight and Engine Start 
+Use that checklist…both for preflight and engine start. And, don’t forget the passenger briefing. It’s required! 
+ 
+Cross-Country 
+Remember to start that timer…and be sure you have your paper chart or EFB and x/c planning log in an easy to 
+reach place! 
+ 
+Clearing Turns 
+The ACS requires them. ‘Nuff said. 
+ 
+Holding The Centerline 
+     The ACS, when addressing the various landings for both Private and Commercial, include the phrase “with the 
+airplane’s longitudinal axis aligned with and over the runway centerline” or “over the runway center/landing 
+path” or “aligned with the center of the runway”. Regardless of the differences in these phrases, they all mean 
+land on the centerline!!  
+     Similar phrases are used to describe the various take-offs. It must be important, or it wouldn’t be mentioned 
+in ALL these tasks, so pay attention to the centerline…not just for take-off and landing, but for taxiing, too!! 
+     I’ll discuss more common errors with take offs and landings later in this document. 
+ 
+Steep Turns 
+     The ACS say “approximately” 45⁰ +/-5⁰ for Private, and “approximately” 50⁰ +/-5⁰ for Commercial.  While 
+there is no definition for the word “approximately”, it’s safe to say that a 30-35⁰ bank isn’t even close to 
+“approximately” 45⁰ or 50⁰.  And, while we appreciate your attempt to roll smoothly into the maneuver, it 
+shouldn’t take ½ way around to get to the desired bank angle! Typically, applicants wait too long to add back 
+pressure in the left turn and add too much back pressure to soon in the right turn…and this is assuming standard 
+side-by-side seating with the applicant in the left seat.  
+ 
+Slow Flight  
+     When done properly, slow flight can often be done with your left foot flat on the floor.  Hold pitch with the 
+yoke/stick. For left turns, reduce the pressure on the right rudder. For right turns, add a little extra rudder 
+pressure. Don’t let the bank angle exceed about 10⁰. There’s no need for more.  It’s a rudder maneuver, not an 
+aileron maneuver.  
+     Applicants often initially gain altitude when entering slow flight because they rush flap deployment. That 
+makes the airplane balloon. Patience pays off here. Cool your jets and wait for the airplane to slow down some 
+before adding flaps.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:Common Errors -Private and Commercial.pdf>>>
+========================================
+
+Stalls 
+• Power Off: The ACS says to establish a descent prior to executing the power off stall. When applying 
+power during the recovery, add sufficient right rudder or you’ll exceed the +/-10⁰ heading tolerance. 
+Establish a positive rate first and then begin retracting flaps nice and easy.  If a wing drops when the 
+airplane stalls, resist the urge to pick it up with the aileron. Bad technique!! Rudder! 
+o Note that the Private ACS requires full stall, while Commercial ACS says “first indication OR full 
+stall as specified by the evaluator”.  
+• Power On: The ACS says to use no less than 65% power. Full power is ok but not necessary.  Most 
+applicants struggle to maintain the +/-10⁰ heading tolerance due to insufficient right rudder.  Don’t be 
+that applicant! 
+o Note that the Private ACS requires full stall, while Commercial ACS says “first indication OR full 
+stall as specified by the evaluator”.  
+• Accelerated Stall (Commercial Only): This one is generally done pretty well by applicants, but some will 
+establish the bank and then abruptly apply back pressure (you can interpret that to mean they jerk it!) 
+to induce the 1st indication of the stall. Please don’t do that.  
+Emergency Procedures 
+     Memory items are one thing and it’s fine to use a ‘flow’. BUT, both the Private and Commercial ACS 
+specifically mention “Complete the appropriate check list” in IX: EMERGENCY OPERATIONS, Task A, B and C.  
+Don’t forget to pick up that checklist! 
+ 
+Ground Reference Maneuvers 
+     Pay attention to the wind direction. Not being aware of that is the most common error here. And that leads 
+to: 
+• Turns Around A Point: Not maintaining a consistent distance from the selected point. 
+• S-Turns: Rolling out too soon or too late over the reference line 
+• Rectangular Pattern: Not maintaining a consistent distance from the reference line 
+ 
+Flight By Reference To Instruments 
+     Banking too steeply in turns is very common.  When assigned to climb to a specified altitude, applicants tend 
+to reduce the power before, or while, pitching to level flight.  Bad technique! Leave that power in as you level off 
+and accelerate to normal cruise.  When you reach normal cruse airspeed, bring power back to normal cruise 
+power setting. Of course, you’ll be fine-tuning your trim as you accelerate so as not to gain or lose altitude. 
+ 
+Short Field Take-Offs and Landings 
+• Take Offs: Hold the centerline! 
+• Landings: For Private, you have your landing spot plus no more than 200 feet.  For Commercial, it’s your 
+spot plus no more than 100 feet. Standard runway centerline stripes are 120 feet long, with 80 feet in 
+between the stripes.  IF your airport has standard markings, then those ACS distance requirements are 
+pretty easy to see.  Whatever you do, don’t be short!!  Your Examiner can easily see if you’re short.  And, 
+land on the centerline. Don’t forget to retract the flaps and announce “simulated heavy braking”.
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:Common Errors -Private and Commercial.pdf>>>
+========================================
+
+Soft Field Take-Offs and Landings 
+• Take-Offs: Get the weight off the nose wheel. That doesn’t mean adding so much back pressure that you 
+strike the tail!  Hold the centerline. When you break ground, be careful about relaxing back pressure so 
+soon that you sink back down to the runway. 
+• Landings: Carry just a little power through the round-out, flare and touchdown.  Throttle idle when the 
+mains touch and hold the nose wheel off for as long as you can. Oh, and hold that centerline! 
+ 
+COMMERCIAL-SPECIFIC MANUEVERS 
+ 
+Chandelles 
+Recovery from the left Chandelle is largely accomplished by adding right rudder during the gradual roll-out.  
+Recovery from the right Chandelle is mostly accomplished by using aileron to roll out while holding enough right 
+rudder for coordinated flight.  Common mistakes are banking and/or pitching up too aggressively, or not 
+aggressively enough early in the maneuver, and lowering the nose prior to reaching the 180⁰ point of the 
+maneuver.  Improper rudder usage is also a common problem. 
+ 
+Lazy Eights 
+Not pitching up enough at the 1st 45⁰ point is very common.  If you don’t pitch up enough, you don’t lose enough 
+airspeed and the airplane will not slice through the 90⁰ point on its own without some ‘help’.  All too often, 
+applicants ‘drive’ the airplane through the 1st half of the maneuver.  Start with no more than about 10⁰ of bank, 
+pitch up to within 5-10 knots of stalling speed at the 1st 45⁰ point, and then let the airplane slice through the 90 
+on its own. Yes, it will do that if you set up properly. 
+     At the 135⁰ point, begin a SLOW return to level flight, ending up +/- 10⁰ and +/-100 feet of your starting point.  
+Improper rudder input is a common issue here, too. 
+ 
+Eights on Pylons 
+Common errors here in include selecting pylons that are too far apart or, in some cases, too close together. 
+Some applicants find it easier to start the maneuver with the 1st pylon on the RIGHT wing.  That’s fine. Nothing 
+in the ACS says you must start with a left turn.  
+     Make sure you know where the wind is coming from and ANTICIPATE how it will affect you as you circle the 
+pylons.  Failure to properly anticipate what’s coming results in jerky control inputs where the applicant is almost 
+constantly behind the airplane.  A well-done Lazy 8 means the applicant is ahead of the airplane.  Improper 
+rudder inputs…using the rudder to keep the wing on the point…is a very common error here. Lastly, this is a 
+fixed-power maneuver. Set the power and don’t touch the throttle until the maneuver is done! 
+ 
+Steep Spirals 
+To me, this is one of the most challenging of the Commercial maneuvers. To accomplish it successfully, you’re 
+starting at a relatively high altitude… often 3000 or 4000 feet AGL in order to finish no lower than 1500’ AGL. 
+Selecting the point around which the applicant will be ‘spiraling’ is a very common error.  That point must 
+appear to be almost directly below the airplane otherwise, after starting the maneuver, it’ll quickly become 
+readily apparent that the point is too far away.   
+     Here’s a handy trick. Instead of picking a ‘point’, pick a stretch of road, or a tree line…something that could 
+simulate a runway. Identify a mid-point along this imaginary runway. Begin the maneuver on the ‘downwind’, 
+then turning ‘base’, turning ‘upwind’, turning ‘crosswind’, ‘downwind’, ‘base’, etc., as you descend. It’s much 
+easier if you think about the maneuver as a descending traffic pattern and the results will be a relatively 
+constant distance from the point as you descend.
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:Common Errors -Private and Commercial.pdf>>>
+========================================
+
+Power Off 180 
+This is a ‘one and done’ maneuver. You must get it right the 1st time. No go-arounds UNLESS continuing will 
+create an unsafe condition.  Unsafe conditions could include a flock of birds in your way, unexpected turbulence, 
+a runway incursion by an airplane, car, animal…in other words, the landing area becomes unsafe.  These kinds of 
+things are excusable and would allow for another attempt.  
+     However, if the applicant’s actions, or lack thereof, are the cause of the go-around, then the maneuver will be 
+unsatisfactory, and grounds for a disapproval. The ACS says the applicant must land on the selected point plus 
+no more than 200 feet.  You can use any tool at your disposal; flaps, S-turns on final, slips, etc.  DON’T BE SHORT 
+and hold that centerline! 
+ 
+Conclusion: 
+This is not an exhaustive list of all the errors we see, but these are the most common and are easily correctible.  
+And remember, perfection is NOT the standard. Really, it’s not.  But you must be safe and use good judgement.  
+You WILL make mistakes during the flight. I promise you’ll make mistakes.  Acknowledge them and fix them and 
+chances are very good that you’ll end up with that shiny new temporary certificate in your pocket!!

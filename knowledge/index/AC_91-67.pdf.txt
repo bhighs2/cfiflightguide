@@ -1,0 +1,2132 @@
+DOCUMENT_TITLE: AC_91-67
+SOURCE_FILE: AC_91-67.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+.F’ w 
+U.S. Department of 
+Transportation 
+Federal Aviation 
+Administration 
+Advisory 
+Circular 
+Subject: MINIMUM EQUIPMENT REQUIREMENTS Date: 6/28/91 AC No: 91-67 
+FOR GENERAL AVIATION OPERATIONS Initiated by: AFS-820 
+UNDER FAR PART 91 
+1. PURPOSE. This advisory circular (AC) 
+describes acceptable methods for the operation of 
+aircraft under Federal Aviation Regulations 
+(FAR) Part 91 with certain inoperative 
+instruments and equipment which are not 
+essential for safe flight. 
+a. These acceptable methods of 
+operation are: 
+(1) Operation of aircraft with a 
+Minimum Equipment List (MEL), as authorized 
+by FAR 6 91.213(a). 
+(2) Operation of aircraft without an 
+MEL under FAR 8 91.213(d). 
+b. This AC also explains the process for 
+obtaining Federal Aviation Administration (FAA) 
+approval of an MEL. 
+2. RELATED FAR SECTIONS. The 
+following FAR provide additional information on 
+operations with or without a FAR Part 91 MEL: 
+a. FAR 5 43.9: Content, form, and 
+disposition of maintenance, preventive 
+maintenance, rebuilding, alterations, and 
+alteration records (except inspections performed 
+in accordance with FAR Parts 91, 123, and 125 
+and FAR 56 135411(a)(l) and 135.419). 
+b. FAR 5 43.11: Content, form, and 
+disposition of the records for inspections 
+conducted under FAR Parts 91 and 125 and FAR 
+05 135411(a)(l) and 135.419. 
+c. FAR 0 91.205: Powered civil aircraft 
+with standard category U.S. airworthiness certifi- 
+cates: Instrument and equipment requirements. 
+d. FAR 8 91.405: Maintenance required. 
+3. FORMS AND REPORTS. The FAA 
+Flight Standards District Office @DO) 
+contacted by an MEL applicant provides the 
+applicant a Master Minimum Equipment List 
+(MMEL) for the applicant’s particular aircraft. 
+4. RELATED READING MATERIAL. 
+Users of this AC will find detailed background 
+and indepth information in the FederaI Register, 
+Vol. 53, No. 239, December 13, 1988. The 
+public may obtain copies of this issue of the 
+Federal Register from the FAA, Office of Public 
+Affairs, Public Inquiry Center, APA-230, 
+800 Independence Ave., SW., Washington, DC 
+20591.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC -!% 67 \ 
+6/28/g! 
+5. BACKGROUND. Except as provided in 
+FAR 8 91.213, all instruments and equipment 
+installed on an aircraft must be operative in order 
+for the operator to operate it. However, the FAA 
+recognized that safe flight can be conducted 
+under the MEL concept and under specific’ 
+conditions with inoperative instruments and 
+equipment. 
+. a. Regulatory History. Until the most 
+recent change to FAR 8 91.213, the MEL 
+concept applied only to air carrier and 
+commercial operations and general aviation 
+operators of multiengine aircraft for which FAA 
+had developed an MMEL. Operators of aircraft 
+for which FAA had not developed an MMEL 
+had to comply with FAR 0 91.405. This section 
+required that all aircraft discrepancies occurring 
+between required inspections had to be repaired 
+in accordance with FAR Part 43 before the air- 
+craft could be operated. This meant that all the 
+aircraft’s instruments and equipment, regardless 
+of whether they were essential or not to the 
+flight operation conducted, had to be operative. , 
+This requirement often placed a burden on 
+operators. 
+b. Amendments to FAR Part 91. Over 
+the past decade, the FAA initiated several 
+rulemaking projects to alleviate the regulatory 
+burden of FAR 0 91.405. Before the issuance of 
+a final rule change, FAA encouraged public and 
+industry participation, accepted and reviewed 
+public comments, and conducted public hearings 
+which were attended by other Government 
+agencies and the industry. 
+(1) The FAA briefly suspended FAR 
+6 91.213 and allowed issuance of MEL’s by 
+exemption. During this period, the FAA gained 
+valuable information on the usefulness and safety 
+aspects of using MEL’s in general aviation. 
+(2) Further, general aviation operators 
+have a history of safe operations using FAR 
+5 91.205 as the sole reference for determining 
+the instrument and equipment requirements for a 
+particular flight. 
+(3) However, operators indicated the 
+need for relief from FAR 8 91.405, and the FAA 
+agreed that the FAR should reflect current 
+operational practices. Consequently, the FAA 
+amended FAR Parts 43 and 91 in December 
+1988. 
+c. New Reguliztory Requirements: The 
+amendment to FAR Parts 43 and 91 provides a 
+regulatory basis for the operation of aircraft with 
+inoperative instruments and equipment. Opera- 
+tors conduct these operations within a framework 
+of a controlled program of maintenance inspec- 
+tions, repairs, and parts replacement. However, 
+operators must exercise good judgement and 
+have, at each required inspection, any inoperative 
+instrument or equipment repaired or inspected or 
+the maintenance deferred, as appropriate. 
+6. DEFINITIONS. 
+a. Aircraft Evaluation Group (AEG). 
+The AEG is the FAA office responsible for the 
+development and publication of an approved 
+MMEL for those aircraft within its area of 
+responsibility. 
+b. Aircraft Flight Manual (AFM). The 
+AFM is the source document for operational 
+limitations and performance for an aircraft The 
+term AFM can apply to either an airplane flight 
+manual or a rotorcraft flight manual. FAA 
+requires an AFM for type certification. The 
+responsible FAA Aircraft Certification Office 
+(ACO) approves an AFM. 
+ii Par 5
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 AC 910 67 
+c. Aircraft Maintenance Manual 
+(MM). The AMM is the source document for 
+maintenance procedures for an aircraft. The term 
+AMM can apply to either an airplane 
+maintenance manual or a rotorcraft maintenance 
+manual. FAA requires the AMM for type 
+certification. 
+d. Airworthiness Directive (AD). An 
+AD is a mandatory airworthiness requirement for 
+a particular make and model aircraft or installed 
+equipment. An AD is supplementary to the- 
+aircraft original airworthiness approval. 
+e. Air Transportation Association (ATA) 
+Numbering System. The standard ATA 
+numbering system refers to systems on different 
+aircraft in a standardized manner. MMEL’s use 
+the ATA numbering system. 
+. 
+J Calendar Days include all days, with 
+no exclusion for weekends. and holidays. 
+g. Deactivation means to make a piece 
+of equipment or an instrument unusable to the 
+pilot/crew by preventing its operation. 
+“s 
+h. Deferred Maintenance is the 
+postponement of the repair or replacement of an 
+item of equipment or an instrument. 
+i. Equipment List is an inventory of 
+equipment installed by the manufacturer or 
+operator on a particular aircraft. 
+j. Flight Operations Evaluation Board 
+(FOEB). The FOEB is composed of FAA 
+personnel who are operations, avionics, 
+airworthiness, and aircraft certification 
+specialists. The FOEB develops an MMEL for 
+a particular aircraft type under the direction of 
+the AEG. 
+k. Inoperative means, that a system 
+and/or component has malfunctioned to the 
+extent that it does not accomplish its intended 
+purpose and/or is not consistently functioning 
+normally within its approved operating limits or 
+tolerances. *. 
+1. Kinds of Operations List (KOL). The 
+KOL specifies the kinds of operations (e.g., 
+visual flight rules (VFR), instrument flight rules 
+(IFR), day, or night) in which the aircraft can be 
+operated. The KOL also indicates the installed 
+equipment that may affect any operating 
+limitation. Although the certification rules 
+require this information, there is no standard 
+format; consequently, the manufacturer may 
+furnish it in various ways. . 
+m. Letter of Authorization (LOA). The 
+FSDO issues an LOA to the operator when the 
+FSDO authorizes the operator to operate under 
+the provisions of an MEL. Together, the LOA, 
+the procedures document (paragraph v. 
+follow!ng), and the MMEL constitute a 
+Supplemental Type Certificate (STC). The 
+operator must carry the STC in the aircraft 
+during its operation. 
+n. Maintenance is the inspection, 
+overhaul, repair, preservation, or replacement 
+of parts. This definition excludes preventive 
+maintenance (see paragraph u. following). After 
+a mechanic performs maintenance, other than 
+preventive maintenance, a properly certificated 
+maintenance person must approve the aircraft for * 
+return to service. 
+o. MMEL. An MMEL contains a list of 
+items of equipment and instruments that may be 
+inoperative on a specific type of aircraft (e.g., 
+BE-200, Beechcraft model 200). It is also the 
+basis for the development of an individual 
+operator’s h4EL. 
+.’ 
+Par6 . . . ul
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91-67 6/28/H 
+p. MEL. The MEL is the specific 
+inoperative equipment document for a particular 
+make and model aircraft by serial and 
+registration numbers; e.g., BE-200, N12345. A 
+FAR Part 91 MEL consists of the MMEL for a 
+particular type aircraft, the MMEL’s preamble, 
+the procedures document, and a LOA. The FAA 
+considers the MEL as an SC. As such, the 
+MEL permits operation of the aircraft under 
+specified conditions with certain equipment 
+inoperative. 
+q. Next Required Inspection is the one 
+required under either an FAA-approved inspec- 
+tion program, a lOO-hour inspection, or an 
+annual inspection, as appropriate. 
+r. Operations (0) and Maintenance (M) 
+procedures in the MMEL refer to the specific 
+maintenance procedures the operator uses to 
+disable or render items of equipment inoperative 
+and to specific operating conditions and limita- 
+tions, as appropriate. 
+(1) An 0 symbol in column 4 of the 
+MMEL indicates that a specific operations 
+procedure must be accomplished before or during 
+operation with the listed item of equipment 
+inoperative. Nomally, the flightcrew 
+accomplishes these procedures; however, other 
+personnel, such as maintenance personnel, may 
+be qualified and authorized to perform the 
+procedure. 
+(2) An M symbol in column 4 of the 
+MMEL indicates that a specific maintenance 
+procedure must be accomplished before 
+beginning operation with the listed item of 
+equipment inoperative. Normally, maintenance 
+personnel accomplish these procedures; however, 
+other personnel, such as the flightcrew, may be 
+qualified and authorized to perform certain 
+functions. Qualified maintenance personnel must 
+perform procedures requiring specialized 
+knowledge, skills, or the use of tools or test 
+equipment. 
+s. Operator refers to an individual or 
+company (corporation, entiv, etc.). As used in 
+this AC, operator applies to those who are 
+applicants for, or holders of, authority to conduct 
+operations under the provisions of a-FAR Part 91 
+MEL. 
+t. Placard is a decal or label with letters 
+at least l/&inch high. The operator or 
+mechanic must place the placard on or near 
+inoperative equipment or instruments so that it is 
+visible to the pilot or flightcrew and alerts them 
+to the inoperative equipment. 
+u. Preventive Maintenance. The term 
+preventive maintenance refers to simple or minor 
+preservation operations and/or the replacement of 
+small standard parts not involving complex 
+assembly. FAR Part 43, Appendix A(c), 
+contains a list of preventive maintenance items. 
+Qualified mechanics or certificated pilots may 
+accomplish preventive maintenance and approve 
+the aircraft for return to service. 
+v. Procedures Document as referred to 
+in this AC pertains to a separate document 
+containing the 0 and M procedures developed by 
+the operator and any other operating information 
+applicable to operation with an MEL, such as the 
+“as required by the FAR” items that list the FAR 
+by part and section or stipulate the operating 
+conditions. 
+w. Proposed Master Minimum 
+Equipment List (PMMEL). The PMMEL is the 
+working document used as the basis for 
+development of the MMEL. Normally, the 
+manufacturer proposes it during the certification 
+process. However, an operator of a unique type 
+aircraft, for which an MMEL does not exist, may 
+submit a PMMEL for FAA approval. 
+iv Par 6 -
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 9% 67 
+x. Return to Service, Return to service 
+has two applications. An appropriately 
+certificated person approves an aircraft for return 
+to service after an inspection or after 
+maintenance. A certificated pilot, in fact, returns 
+the aircraft to service after the pilot conducts an 
+appropriate preflight and accepts the aircraft for 
+an intended flight. 
+y. Small Aircrap means aircraft with a 
+maximum certificated takeoff weight of 12,500 
+pounds or less. 
+z. STC. An STC is a major change in 
+type design not great enough to require a new 
+application for a type certificate under FAR 
+6 21.19. An example would be installation of a 
+powerplant different from what was included in 
+the original type certificate. 
+aa. ripe Certfjicate Data- Sheets 
+(TCDS) and Specifications are documents issued 
+Acting Director, Flight tandards Service 
+id 
+by the FAA which describes the aircraft’s 
+airworthiness requirements relating to a specific 
+type, make, and model of aircraft. These 
+documents are available at a FSDO. 
+7. COMMENTS INVITED. Comments 
+regarding this publication should be directed to: 
+Federal Aviation Administration 
+Field pn>grams Division, AFS-500 
+Advisory Circular Staff 
+P.O. Box 20034, Gateway Building 
+Dubs International Airport 
+Washington, DC 20041-2034 
+Every comment will not necessarily generate a 
+direct acknowledgement to the commenter. 
+Comments received will be considered in the 
+development of upcoming revisions to AC’s or 
+other related technical material. 
+Par 6 . v (and &)
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6128191 AC H-67 
+CONTENTS 
+No. Page 
+CHAPTER 1. GENERAL . . . . . . . . . . . . . c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+1 . Applicability . . . . :. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+2 . MELVS.FAR§91.213(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+3 . RelationshipBetweenthePMMEL,theMMEL,andtheMEL . . . . . . . . . . . . . . . . . . 2 
+4 . Single- and Multiengine MEL’s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+5 l AircraftForWhichNoMMELHasBeenDeveloped . . . . . . . . . . . . . . . . . . . . l . . 3 
+6 . MELRestrictions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+7 . Removal or Deactivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+8 . Inoperative Equipment and Required Inspections . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 
+Figure 1. Sample Maintenance Record Entries . . . . . . . . . . . . . . . . . . . . . . . 5 (and 6) 
+9..12. Reserved . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 (and 6) 
+CHAPTER 2. CONDUCTING OPERATIONS WITHOUT AN MEL ................... 7 
+13 . Applying FAR 0 91.213(d) .......................................... 7 
+14 . The Decision Sequence ............................................. 7 
+Figure 2. Pilot Decision Sequence When Operating Without an MEL ............. 8 
+15:18 Reserved .................................................. 9 (and 10) 
+J c 
+CHAPTER 3. OPERATING AIRCRAFT WITH AN MEL . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+19 . Applicability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+20 . Applying For MEL Approval . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 
+21 . ~LAufhOfization.;............................................. 13 
+22 . Revisio~..............................................~....~.~ 13 
+23 . Conducting Operations With an MEL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 
+Figure 3. Pilot Decision Sequence When Operating With an MEL . . . . . . . . . . . . . . 16 
+Figure 4. Sample Aircraft Equipment Discrepancy Record . . . . . . . . . . . . . . . . . . . . 18 
+t , APPENDIX 1. Sample MMEL Documents (6 pages) . . . . . . . . . . . . . . . . . . . . . l . l l . . . . . l l 1 
+APPENDIX 2. Sample Letter of Authorization (2 pages) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 
+APPENDIX 3. Sample Title Page (1 page) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . l . . . . . . . 1 
+APPENDIX 4. Commonly Asked Questions About MEL’s (3 pages) . . . . . . . . . . . . . . . . . . . . . 1 
+* . vii
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 AC 91-67 
+CHAPTER 1. GENERAL 
+. ” 
+1. APPLICABILITY. This AC provides 
+guidance for the operation of the following 
+aircraft under FAR Part 91: 
+authorization to operate with a FAR Part 91 
+MEL. 
+a. Aircraft for which no MMEL has 
+been developed by the FOEB: 
+(1) Rotorcraft. 
+(2) Nonturbine-powered airplanes. 
+(3) Gliders. 
+(4) Lighter-than-air aircraft. 
+2. MEL VS. FAR 6 91.213(d). Although FAA 
+amended FAR Part 91 to provide relief to 
+operators under the IMEL concept, some opera- 
+tors may find it less burdensome or less 
+complicated to operate under the provisions of 
+FAR 5 91.213(d). The applicant should discuss 
+the requirements of each method with FSDO 
+inspectors to decide which method of compliance 
+better suits the particular operation. Appendix 3 
+contains a list of commonly asked questions 
+which may assist in the decision. 
+b. Aircraft fot which an M”EL has 
+been deveZoped but for which the FSDO has not 
+authorized operation with an MEL. 
+(1) Small rotorcraft. 
+(2) Nonturbine-powered small single 
+and multiengine airplanes. 
+a. An MEL is a precise listing of 
+instruments, equipment, and procedures that 
+allows an aircraft to be operated under specific 
+conditibns with inoperative equipment. The 
+MMEL, as part of the MEL, by nature does not 
+cover equipment installed or modified under 
+other STC’s. Any STC or other major 
+modification may make the MMEL invalid for a 
+particular modified aircraft. 
+c. All other aitctaft which have an MEL 
+or for which an operator seeks MEL 
+authorization under FAR 6 91.213. 
+d. An operator may operate an aircraft 
+for which FAA has issued an original 
+Experimental airworthiness certificate in 
+accordance with FAR 0 91.213 only when 
+authorized in that certificate’s operating 
+limitations. 
+e. This AC does not apply to operators 
+holding certificates issued under FAR Parts 121, 
+125, 129, and 135. 
+b. The FAR requite that all equipment 
+installed on an aircraft in compliance with the 
+airworthiness standards and operating rules be 
+operative. The FAA-approved h4MEL includes 
+those items of equipment and other items which 
+the FAA finds may be inoperative and yet 
+maintain an acceptable level of safety. 
+Obviously, the MMEL does not contain required 
+items such as wings, flaps, rudders, etc. When 
+a FAR Part 91 operator uses an MMEL as an 
+MEL, all instruments and equipment not covered 
+in the MMEL must be operative at all times 
+regardless of the operation conducted, unless: 
+ji Holdets of letters of full deviation (1) They are newly installed and are 
+authotity from FAR Part 125 and operating not instruments or equipment specifically 
+under FAR Part 91, Subpart F, may apply for required by the airworthiness rule under which 
+Chap, 1 
+Par 1 1
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91-67 6/28/91 
+the aircraft is type certificated, required by AD, 
+or required for specific operations under FAR 
+8 91.213(b)(1)-(3), such as Traffic Alert and 
+Collision Avoidance System (TCAS), an extra 
+piece of navigational equipment, a windshear 
+detection device, a ground proximity warning 
+system, a radar altimeter, passenger convenience 
+items, etc.; 
+(2) The operator has developed 
+procedures for disabling or rendering them 
+inoperative; and 
+(3) The operator has contacted the 
+FSDO having oversight within 10 calendar days 
+following an installation and requested that the 
+equipment be added to the MMEL. 
+(i) The operator must Amish the 
+following information: 
+(A) A copy of the STC or 
+FAA Form 337, Major Repair and Alteration, 
+that approved each equipment installation and the 
+associated limitations listed in the AFh4 
+supplement or on the 337. The FOEB needs this 
+information to account for installation differences 
+as well as for maintaining MMEL relief that is 
+consistent with the limitations. 
+(B) A system description that 
+details sufficiently the interface of the equipment 
+with the crew; i.e., location, controls, operations, 
+how it is used, etc. 
+(C) A statement that 
+describes the transfer of function when the 
+equipment is inoperative; i.e., not required for 
+the flight, as per crew procedures, because of 
+alternate systems, etc. 
+(ii) If the FAA determines that 
+the equipment has been previously considered by 
+the FOEB for inclusion in the MMEL and 
+denied, or if the FOEB convenes and denies 
+inclusion, the FAA will not grant relief. The 
+equipment must be operational before aircraft 
+can take off. 
+(iii) If the FOEB determines that 
+the equipment should be added to the MMEL, 
+the operator will receive the updated MMEL and 
+must prepare 0 and M procedures for fhat piece 
+of equipment. 
+c. If FAA has not authorized operating 
+with an MEL for an operator’s specific aircraft, 
+the operator may apply for an MEL (Chapter 3, 
+paragraph m However, the operator can 
+always elect to operate without an MEL under 
+the provisions of FAR 6 91.213(d). 
+(1) FAR 5 91.213(d) requires only 
+those instruments listed in FAR 5 9 1.213(d)(2) to 
+be operative. 
+(2) The operator can operate the 
+aircraft with those instruments and equipment not 
+listed in FAR 6 91.213(d)(2) inoperative. 
+3. RELATIONSHIP BETWEEN THE 
+PMMEL, THE MMEL, AND THE MEL. 
+When an aircraft is first manufactured, the FOEB 
+determines the minimum operative instruments 
+and equipment required for safe flight in that 
+aircraft type in each authorized operating 
+environment. During the type certification 
+process, the manufactul’er submits a PMMEL to 
+the FOEB. Based on its determinations, the 
+FOEB reviews the PMMEL and develops an 
+h4MEL from it. Once the FOEB approves the 
+MMEL, a copy is available to each FSDO via an 
+automated system that allows the FSDO to 
+chap1 
+2 Par2
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/ 2$/91 AC 91-67 
+download the MMEL onto a diskette or hard 
+COPY* The FSDO provides MMEL’s to 
+applicants to use, along with the procedures 
+document, preamble, and LOA, as an MEL. 
+a. As technology changes and new 
+equipment becomes available, the FOEB will 
+reconvene to develop new MMEL’s or to revise 
+and update existing ones. 
+b. When an FOEB makes a change to an 
+MMEL, all operators using that MMEL as their 
+h4EL will receive a postcard advising them of 
+the revised MMEL. The FSDO provides 
+operators copies of the revised MMEL. The 
+operator then makes the necessary changes to the 
+procedures document through the normal revision 
+process (Chapter 3, paragraph 22). 
+, 
+4. SINGLE AND MULTIENGINE MEL’S, 
+The FAA has developed MMEL’s for most of 
+the FAA type certificated aircraft in general 
+service today. ‘All multiengine airplanes have an 
+MMEL that is specific to the type design; e.g., 
+Beech Baron, BE-58. The FAA has developed 
+a generic, single-engine MMEL to provide to 
+operators of single-engine aircraft. 
+5. AIRCRAFT FOR WHICH NO MMEL 
+HAS BEEN DEVELOPED. 
+a. If an FOEB has not developed an 
+hJMEL for a certain type of rotorcraft, 
+nonturbinepowered airplane, glider, or lighter- 
+than-air aircraft, that aircraft may he operated 
+with inoperative equipment under the provisions 
+of FAR 0 91.213(d). 
+b. In those cases where an operator has an 
+older or rare design aircraft that has no MMEL, 
+the operator may submit a PMMEL to the 
+appropriate FOEB for evaluation. Once the AEG 
+approves the MMEL, the operator could use it as 
+the MEL along with the other required 
+documents. 
+6. MEL RESTRICTIONS. Operators of small 
+rotor-craft, nonturbinepowered small single- and 
+multiengine airplanes, and other aircraft for 
+which a MMEL has been developed, may elect 
+to operate with a MEL or under the provisions of 
+FAR 0 91.213(d). However, the latter option 
+does not apply if the aircraft has an MEL 
+approved under FAR Parts 121, 125, 129, ‘or 
+135. For example, an owner has leased an 
+aircraft to an air carrier operator, and the air 
+carrier operator has applied for and received an 
+approved MEL for FAR Part 135 operations. 
+Compliance with such an MEL is mandatory, 
+even during -FAR Part 91 operations. If the 
+operator wants to operate under FAR 
+5 91.213(d), the operator would have to 
+surrender the MEL authorization. 
+7. REMOVAL OR DEACTIVATION. When 
+an operator elects to operate without an MEL, 
+any inoperative instrument or equipment must 
+either be removed (FAR 6 9 1.2 13(d)(3)(i)) or 
+deactivated (FAR 8 91.2 13(d)(3)(ii)), then 
+placarded. 
+a. Removal of any item of equipment that 
+affects the airworthiness of an aircraft requires 
+following an approved procedure. A properly 
+certificated maintenance person must record the 
+removal in accordance with FAR 6 43.9. A 
+person authorized by FAR 6 43.7 must make the 
+appropriate adjustments to the aircraft’s weight 
+and balance information and the equipment list, 
+fil’out and submit FAA Form 337, and,approve 
+the aircraft for return to service. 
+6. The operator must evaluate any proposed 
+deactivation to assure there is no adverse effect 
+that could render another system less than fully 
+capable of its intended function. 
+Chap 1 
+Par3 3
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91-67 6/28/91 
+(1) A certificated pilot can accomplish 
+deactivation involving routine pilot tasks, such as 
+turning off a system. However, for a pilot to 
+deactivate an item or system, that task must 
+come under the definition of preventive 
+maintenance in FAR Part 43, Subpart A. 
+(2) If the deactivation procedures do not 
+fall under preventive maintenance, a properly 
+certificated maintenance person must accomplish 
+the deactivation. The maintenance person must 
+record the deactivation in accordance with FAR 
+3 43.9 (figure 1, Sample Maintenance Record 
+Entries.). 
+c. Pkzcarding can be as simple as writing 
+the word %operativet’ on a piece of masking 
+tape and attaching it to the inoperative equipment 
+or to its cockpit control. Placarding is essential 
+since it reminds the pilot that the equipment is 
+inoperative. It also ensures that future 
+flightcrews and maintenance personnel are aware 
+of the discrepancy. 
+8. INOPERATIVE EQUIPMENT AND 
+REQUIRED INSPECTIONS. An operatormay 
+defer maintenance on inoperative equipment that 
+has been deactivated or removed and placarded 
+inoperative. 
+a. When the aircrafl is due for inspection 
+in accordance with the FAR, the operator 
+should have all inoperative items repaired or 
+replaced. 
+b. If an owner does not want spec@c inop- 
+erative equipment repaired, then the mainte- 
+nance person must check each item to see if it 
+conforms to the requirements of FAR 
+5 91.213(d). The operator and maintenance 
+personnel should also assess how permanent 
+removal of the item could affect safe operation 
+of the aircra& 
+(1) The repair interval categories (A, B, 
+C, D, etc.) in the MMEL do not apply to FAR 
+Part 91 MEL’S. 
+(2) The maintenance person must furnish 
+the owner/operator with a signed and dated list 
+of all discrepancies not repaired. 
+(3) The maintenance person must ensure 
+that each item of inoperative equipment that is to 
+remain inoperative is placarded appropriately. 
+4 
+chap 1 
+Par7 -
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6128191 
+Placard (Minimum 1/8=inch high letters) 
+AC 91-67 
+Landing Light Inoperative: 
+PREVENTIVE MAINTENANCE ENTRY: 
+(DATE) Total time hours. Landing light bulb removed 
+in accordance with (manufacturer) maintenance manual, 
+Chapter- Page_l. Landing light switch placarded 
+inoperative. 
+Pilot’s Signature Certificate Number 
+Placard (Minimum 1/84nch high letters) 
+Aircraft Heater Inoperative: 
+MAINTENANCE ENTRY (FAR 9433): 
+(DATE) Total time hours. Aircraft heater and control 
+switch deactivated by capping heater fuel lines in accordance 
+with (manufacturer) maintenance manual, Chapter t 
+Pa@-* Heater control switch placarded inoperative. 
+Mechanic’s Signature Certificate Number 
+Figure 1. Sample Maintenance Record Entries 
+9.42. RESERVED. 
+Chap 1 
+5 (and 6)
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+‘. 
+6/28/91 AC 91-67 
+CHAPTER 2. CONDUCTING OPERATIONS WITHOUT AN MEL 
+13 APPLYING FAR § 91.213(d). This 
+chipter provides guidance for operatom who 
+elect to conduct flight operations under the 
+provisions of FAR 0 91.213(d). Operating under 
+FAR 8 91.213(d) requires no application to or 
+approval from. FAA. An operator, after 
+operating under FAR 8 91.213(d), may elect at 
+any time to apply for authorization to operate 
+under an MEAL (Chapter 3). 
+. 4 14 THE DECISION SEQUENCE. Figure 2 
+is a flow chart depicting the typical sequence of 
+events a pilot or operator, operating under FAR 
+9 91.213(d), should follow when the pilot or 
+operator discovels inoperative equipment. For 
+example, during a preflight inspection for a 
+VFR-day, cross-country flight, the pilot discovers 
+that the number 2 automatic direction finder 
+(ADF) head is inoperative. 
+a. The pilot checks the uitctaft’s equip- 
+ment tist ot KOL to see if the number 2 ADF is 
+a required item (FAR 6 91.2 13(d)(2)(ii)). If the 
+number 2 ADF is required in the equipment list 
+or KOL, the aircraft is not airworthy. The 
+operator must have the number 2 ADF replaced 
+or repaired before operating the aircraft. In this 
+example, the number 2 ADF is not a required 
+item on the equipment list. 
+b. Nexh the pilot checks the uitwottht 
+ness regulation under which the aircraft was cer- 
+tificated to determine if the number 2 ADF is 
+part of the VFRday type certificate (FAR 
+5 91.213(d)(2)(i)). (These requirements are 
+summarized in a TCDS, copies of which are 
+available at FSDO’s or from qualified 
+maintenance personnel.) If the number 2 ADF is 
+required as part of the VFRday type 
+certification, the aircraft is not airworthy. The 
+operator must have the number 2 ADF replaced 
+or repaired before operating the aircraft. In this 
+example, the number 2 ADF is not requi=d by 
+type certification. 
+c. Net, the pilot checks to see if an AD 
+requites fhe number 2 ADF. The pilot can 
+accomplish this by checking the aircraft’s 
+maintenance logs to see if the number 2 ADF 
+was installed as a result of an AD. However, it 
+may be necessary for the pilot to consult a 
+qualified maintenance person to determine AD 
+compliance. If an AD requires the number 2 
+ADF to be operative, the aircraft is not airwor- 
+thy. The operator must have the number 2 ADF 
+replaced or rep&red before operating the aircraft. 
+In this example, there is no AD requiring the 
+number 2 ADF to be operative. 
+d. Next, the pilot checks to see if the l 
+number 2 ADF is requited by FAR $4’91.215, 
+91.205, ot 91207. The pilot can accomplish this 
+by checking those sections of the FAR or by 
+consulting with a maintenance technician or 
+FSDO personnel. If any of those sections of the 
+FAR require a number 2 ADF, then the aircraft 
+would not be airworthy with the number 2 ADF 
+inoperative. The operator must have the 
+number2 ADF replaced or repaired before 
+operating the aircraft. In this example, those 
+sections of the FAR do not require the number 2 
+ADF to be operative. 
+e. At this point the inopetative 
+numbet 2 ADF must either be removed from the 
+aircraft (FAR § 91.213(d)(3)(i)) or deactivated 
+(FAR 8 91.213(d)(3)(iij). The person removing 
+or deactivating the number 2 ADF must placard 
+it inoperative in the appropriate location. (A 
+pilot should consult maintenance personnel 
+before deactivating or having maintenance. 
+personnel remove any item of equipment.) 
+I Chap 2 
+Par13 7
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 919 67 . 6/28/91 
+During the preflight inspection, the 
+pilot recognizes inoperative instruments 
+or equipment. 
+& 
+IS the equipment required by the 
+aircraft's equipment list or the kinds of If YES, the 
+aircraft is 
+equipment list? (FAR + 
+§ 91.213(d)(2)(ii).) 
+unairworthy and 
+maintenance is 
+required. 
+J+ 
+If NO, is the equipment required by the 
+VFR-day type certificate requirements 
+If YES, the 
+aircraft is . prescribed in the airworthiness 
+certification regulations? (FAR § 91213(d)(2) (ii).) See appendix 1 of 
+this AC. 
++ unairworthy and 
+maintenance is 
+required. 
+If NO, is the equipment required by AD? 
+(FAR § 91.213(d) (2) (iv).) 
+If YES, the 
+aircraft is . + unairworthy and 
+maintenance is 
+required. 
+*1 
+If NO, is the equipment required by FAR 
+55 91.205, 91.207, etc.? If YES, the 
+(FAR aircraft is 
+5 91,213(d)(2)(iii).) + unairworthy and 
+maintenance is 
+required. 
+4 
+If NO, the inoperative equipment must be 
+removed from the aircraft (FAR 
+§ 91.213(d) (3)(i)) or deactivated (FAR 
+§ 91.213(d) (3) (ii)) and placarded as 
+At this point the pilot shall make a final determination to 
+confirm that the inoperative instrument/equipment does not 
+constitute a hazard under the anticipated operational 
+conditions before release for departure. a 
+Figure 2. Pilot Decision Sequence When Operating Without An MEL- 
+8 
+Chap 2
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+- 
+6/28/91 AC 91- 67 
+j? Finally, the pilot should decide 
+whether the inoperative number 2 ADF creates 
+a hazard for the anticipated conditions of the 
+flight, e.g., VFR-day. 
+15.48. RESERVED. 
+Chap 2 
+Par 14 9 (and 10)
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91-67 
+CHAPTER 3. OPERATING AIRCRAFT WtTH AN MEL ’ 
+19 APPLICABILITY. This chapter 
+p&ides guidance for operators who want to 
+conduct flight operations under the provisions of 
+an MEL. 
+20 APPLYING FOR MEL APPROVAL. 
+FAA has only one procedure for the issuance of 
+FAR Part 91 MEL’s, and it is the procedure the 
+FSDO will follow for FAR Part 91 MEL 
+authorizations. The operator who wishes to 
+conduct operations with an MEL must contact 
+the FSDO which has jurisdiction over the 
+geographic area where the aircraft is based and 
+make an appointment 
+a. FAR Part 91 operators who received 
+MEL authomtion under the approval system in 
+place before July 5, 1990, have letters of 
+authorization that will expire. Those operators 
+may continue to operate as usual; however, at 
+least 30 days before the letter is due to expire, 
+the operator should contact the issuing FSDO so 
+that the FSDO can issue a new LOA. 
+b. For FAR Part 91 operators seeking 
+MEL authorization under the current approval 
+system, the FSDO will assign a Flight Standards 
+inspector to advise the applicant about FAR 
+requirements pertinent to using an MEL. During 
+the initial appointment, the applicant will likely 
+be dealing with a team of inspectors from the 
+operations, airworthiness, and avionics units. 
+c. The inspector will provide the 
+applicant with a copy of the appropriate MMEL, 
+a copy of this AC, and a copy of the preamble to 
+the MMEL. If the operator has installed items 
+of equipment that are not on the MMEL, the 
+operator must request that the MMEL be 
+amended to include those items of equipment. 
+This request is made to the FSDO. 
+d. The operator and the team of 
+inspectors discuss the requirements for the 
+procedures document. When FSDO personnel 
+believes that the operator understands the 
+requirements for operating with an MEL, the 
+FSDO issues the operator the LOA (appendix 4). 
+(1) The LOA contains the legal name 
+of the operator and the address of the operator’s 
+DrinCiDal base Of ODeratiOnS. 
+(2) Both the FAA inspector and the 
+operator (Or the operator’s bona fide 
+representative) sign the LOA. 
+e* If, afier meeting with FSDO 
+personnel and discussing MEL operational 
+considerations, an inspector believes that the 
+applicant does not have a good understanding of 
+the requirements, the FSDO will not issue the 
+LOA. If the LOA is still desired, the applicant 
+should obtain the necessary understanding of the 
+requirements from appropriate sources. After 
+obtaining and understanding the requirements, 
+the applicant can again request the LOA from 
+the FSDO. The applicant could also elect to 
+operate under FAR 0 91.213(d). 
+f. Once the FSDO issues the LOA, the 
+applicant is then responsible for developing a 
+document that contains 0 and M procedures for 
+disabling or rendering inoperative items of 
+equipment in accordance with FAR Parts 43,91, 
+or 145 (if a repair station accomplishes the 
+activity), as appropriate. No further FAA 
+approval is necessary, and the operator can begin 
+flight operations. The MNIEL, preamble, LOA, 
+and the procedures document are now considered 
+an MEL. 
+I Chap 3 . Par 19 11
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91- 67 .6/ 28/91 
+(1) The operator should develop the 0 
+and M procedures using guidance contained in 
+the manufactuier’s aircraft night and/or mainte- 
+nance manuals, the manufacturer’s recommenda- 
+tions, engineering specifications, and other 
+appropriate sources. The operator may consult 
+FSDO airworthiness inspectors for advice or 
+clarification, but the operator is responsible for 
+preparing the document 
+(2) The operator must consider the 
+following when preparing the procedures 
+document: 
+(i) The operator’s procedures 
+document may be more restrictive than the 
+MMEL either by the applicant’s choice or 
+because of AD’s or operating rules. The 
+owrator’s procedures document may not be= 
+restrictive than the MMEL. 
+(ii) The title page of the procedures 
+document must contain the following statement: 
+This MEL is applicable to FAR Part 91 
+operations only and may not be used for 
+operations conducted under FAR 
+Parts 121, 125, 129, or 135. 
+(iii) ‘Ihe operator must use the ATA 
+numbering system for equipment and 
+instruments, as is used in all MMEL’s’ 
+(appendix 1). The operator must use the ATA 
+numbering system in sequence when describing 
+0 and M procedures, including the numbers for 
+equipment installed in the aircraft. When 
+equipment is not installed in a specific aircraft, 
+the applicant need not develop 0 and M proce- 
+dures for those items of equipment. 
+(iv) Operators must ensure that the 
+procedures document lists the items of equipment 
+that are actually installed on the specific aircraft. 
+This provides guidance to a pilot as to which 
+items of equipment may be inoperative for a 
+particular operation. 
+(v) Equipment specifically required 
+by the airworthiness rule under which the aircraft 
+is type certificated, equipment required by AD, 
+and equipment required for specific operations 
+under FAR 8 91.213(b)(l), (2) and (3) must be 
+operative. It is’important to note that all items 
+related to the airworthiness of the aircraft that 
+are not included on the MMEL must be 
+operative. 
+(vi) The A, B, C, and D codes, listed 
+in column 1 of the MMEL, apply only to 
+operations conducted under FAR Parts 121,125, 
+129, and 135. 
+(vii) Where the MMEL states “as 
+required by FAR,” ‘the procedures document 
+should list the particular FAR by part and 
+section, or describe the actual FAR requirement 
+applicable to the operator’s particular operation. 
+For example, where the FAR requires a clock for 
+IFR flight, the operator’s procedures document 
+should say, “May be inoperative for VFR.” 
+(viii) The procedures document must 
+specify suitable limitations in the form of 
+placards, maintenance procedures, crew operating 
+procedures, and other restrictions to ensure an 
+acceptable level of safety. 
+(ix) The procedures document must 
+specify those conditions under which an item 
+may be inoperative. The remarks must also 
+identify required maintenance or operational 
+t&S. The symbol “0” or ‘%I”, placed in 
+column 4 of the MMEL (appendix l), indicates 
+that an 0 or M procedure is applicable to that 
+item. Indicating the 0 and M procedures in the 
+procedures document provides flightcrews and 
+ground support personnel with a single 
+procedural reference document. 
+12 
+chap-3 
+Par 20
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 AC9&67 
+(x) If the 0 and M procedures are 
+already stated in the AFM, the maintenance 
+manual, or other available FAA-approved source, 
+the operator needs to show only the reference; 
+e.g., 0: AFM, pp. 3-8 through 3-10, para. 347. 
+If the operator uses this reference format in the 
+procedures document, the referenced source must 
+be readily available to the ground support 
+personnel, and a copy of the references source 
+must be carried in the aircraft and be readily 
+available to the flightcrew. 
+(xi) If the 0 and M procedures are 
+not in the AFM, .the maintenance manual, or 
+other available FAA-approved source, or if the 
+operator wishes to use a different procedure, then 
+the operator must list the procedure in the 
+procedures document. 
+(xii) The procedures document may 
+not conflict with the AEM limitations, 
+emergency procedures, AD’s, or the AMM. 
+(3) An operator may begin operations 
+before completion of the procedures document. 
+If the operator has not yet developed a procedure 
+for an item, that item must be operative. When 
+an instrument or item of equipment becomes 
+inoperative, the operator must follow the pruce- 
+dure indicated in the procedures document or the 
+operator could be in noncompliance with the 
+FAR. 
+21. MEL AUTHORIZATION. The MEL 
+applies only to a particular aircraft make, model, 
+serial number, and registration number. Also, it 
+applies only to the operator who received the 
+authorization. 
+a. When more than one operator has 
+operational control of a specm aircrqft, dl 
+operators must meet with inspectors from the 
+issuing FSDO to discuss MEL operational 
+considerations, as described in paragraph 20. The 
+FSDO may find it appropriate to list all operators 
+on the LOA. Each operator must sign the 
+“Statement of Operator” ‘on the LOA. 
+b. The FSDO may issue operators who 
+use several aircraft of the same type a single 
+LOA that lists each aircraft by serial and 
+registration numbers. The FSDO will issue 
+separate letters for different types of aircraft. 
+(1) When operators add or delete 
+aircraft of the same type from their fleet, they 
+must notify the FSDO having oversight within 
+10 calendar days following the change. The 
+FSW will reissue the LOA containing the new 
+information. Again, both the operator and the 
+inspector must sign the new LOA. 
+(2) The operator must surrender the 
+previous letter upon reissuance of a new one. 
+Thek FSDO should place the old letter in the 
+operator’s file. 
+c. At any time after operating with a 
+FAR Part 91 MEL, an operator may elect to 
+operate under FAR 0 91.213(d). The operator 
+must, surrender the LOA to the issuing FSDO 
+and must conform to all provisions of FAR 
+8 91.213(d) during operations. 
+22.. REVISIONS. The operator may have to 
+revise the procedures document under several 
+conditions. The AEG may authorize an FOEB 
+to revise the MMEL, the operator may add 
+equipment,. or the FOEB may develop a type- 
+specific MMEL for a single-engine aircraft. 
+a. When the FOEB revises an MMEL, 
+the FAA automated, national MMEL data base 
+notifies operators who have MEL authorizations 
+by mail. The operator is then responsible for 
+Chap 3 
+Par 20 13
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 910 67 6/28/g 1 
+obtaining a copy of the revised MMEL from the 
+FSDO that issued the authorization. Within 30 
+. calendar days of notification, the operator must 
+replace the superseded revision of the MMEL 
+with the current revision and add or delete 
+procedures to the procedures document, as 
+applicable. 
+b. Within 10 calendar days of installing 
+new equipment not on the MMEL, the operator 
+may request that the MMEL be amended. 
+. 
+(1) If the items of newly installed 
+equipment are not instruments or equipment 
+specifically required by the airworthiness rule 
+under which the aircraft is type certificated, an 
+AD, or for specific operations under FAR 
+0 91.213(b)(l), (2) or (3); and exceed what is 
+listed on the h4MEL; and the FSDO has 
+determined that the equipment has not previously 
+been denied for inclusion in an MMEL, the 
+operator may petition the FOEB for inclusion of 
+the newly installed equipment in the MMEL. 
+All petitions, with appropriate supporting 
+information, will be forwarded by the FSDO to 
+the appropriate FOEB. Then the operator may 
+add the equipment temporarily to the MMEL and 
+develop appropriate 0 and M procedures for the 
+equipment. The operator may then operate with 
+the equipment inoperative pending a decision by 
+the FOEB on the operator’s request for an 
+MMEL revision to include the equipment. 
+(2) If the FOEB has previously denied the 
+inclusion of the equipment, or if the equipment 
+is safety related, or if the equipment was 
+previously installed or is “factory original,” the 
+operator may still petition the FOEB through the 
+FSDO for inclusion of the equipment in the 
+h4NIEL. However, the operator may not gain 
+relief for the equipment by adding the equipment 
+to the MNIEL temporarily and adding procedures 
+to the procedures document pending the FOEB’s 
+decision. The equipment must be operative 
+before operating the aircraft 
+C. Although FAA has developed a 
+gene& MMEL for operators of single-engine 
+aircraft, an FOEB may decide that a complex, 
+turbine-powered single-engine aircraft requires a 
+type-specific MMEL. For example, an FOEB 
+has developed a type-specific MMEL for the 
+Cessna 208, Caravan. 
+(1) When an FOEB develops a specific 
+MMEL for a single-engine aircraft, the FAA will 
+notify all holders of MEL’s for that aircraft 
+under the generic MMEL that the specific 
+MMEL is available. 
+(2) Within 30 calendar days of 
+notification, the operator must obtain the MMEL 
+from the FSDO and begin the process for a new 
+LOA. Only by issuing a new LOA will the 
+FSDO be assured that the operator has and is 
+using the type-specific MMEL. 
+(3) Once the FSDO issues the new LOA, 
+the operator must develop, within an additional 
+30 calendar days, a new procedures document 
+that conforms to the requirements of the type- ’ 
+specific MhEL. The operator will find that 
+most of the procedures that were acceptable 
+under the generic MMEL will transfer to the new 
+procedures document. If equipment’ becomes 
+inoperative while the operator is developing the 
+new procedures document, the operator may still 
+use the previous procedures, as appropriate. 
+23. CONDUCTING OPERATIONS WITH 
+AN MEL. In addition to carrying the 
+documents that comprise the MEL onboard the 
+aircraft, the operator must have onboard any 
+technical manuals needed to accomplish 0 and 
+M procedures. Figure 3 illustrates the sequence 
+of events involved in applying the MEL to 
+inoperative equipment. 
+14 
+Chap 3 
+Par 22 .
+
+
+========================================
+<<<PDF_PAGE:19>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+1 
+6f 28/91 AC 91-67 
+a. Inoperative Items Before Flight. During 
+a preflight inspection for a VFR-day flight, the 
+pilot discovers a navigation light is inoperative. 
+(1) The pilot checks the aircraft’s MEL to 
+determine under what, if any, flight conditions 
+the aircraft could be operated without operator 
+navigation lights. The MEL indicates that the 
+aircraft may be operated during daylight hours 
+without operable navigation lights. 
+(2) The pilot checks the procedures docu- 
+ment and deactivates the navigation lights by 
+pulling the correct circuit breaker and having it 
+collared by an appropriately certificated person. 
+(3) The pilot places a placard which 
+indicates that the lights are inoperative near the 
+navigation light control. 
+(4) The pilot examines the conditions of 
+the proposed flight and determines that the flight 
+can be conducted safely without navigation 
+lights. ’ 
+b. In-Flight Failures. An MEL applies only 
+to the takeoff of an aircraft with inoperative 
+instruments or equipment. The pilot’s operating 
+handbook or the AFM indicate procedures. to 
+follow for instrument or equipment failure in 
+flight. The pilot in command (PIG) should 
+handle the in-flight failure in accordance with 
+those procedures. As soon as possible after 
+landing safely, the PIC must enter a notation of 
+the inoperative equipment in the aircraft’s 
+maintenance records, logbooks, or discrepancy 
+record. Before the next takeoff, the pilot must 
+apply the MEL to inoperative equipment as per 
+the procedures in paragraph a. above. An MEL 
+allows the PIC to defer maintenance on many 
+items under the following conditions: 
+(1) The aircraft is in a condition for safe 
+flight, and 
+(2) For the inoperative item, the pilot has 
+followed the specific conditions, limitations, and 
+procedures in the procedures document. 
+c. Deactivation or Removal and 
+Placarding. See Chapter 1, paragraph 7. 
+d. CorrectingMEL Inoperative Items. The 
+MEL permits operations with inoperative items 
+of equipment for the minimum period of time 
+necessary until the equipment is repaired. It is 
+important that operators have repairs done at the 
+earliest opportunity in order to return the aircraft 
+to its design level of safety and reliability. In all 
+cases, inoperative equipment must be repaired or 
+the maintenance deferred at the aircraft’s next 
+required inspection (FAR 8 91.405(c)). 
+(1) Operators shall establish procedures 
+to correct those inoperative items authorized 
+within specified time requirements. 
+(2) Owners of aircraft operated under 
+FAR Part 91 may opt to use one of several types 
+of airworthiness inspection systems,. depending 
+upon the operator’s use of the aircraft. 
+Therefore, the time between required inspections 
+or inspection segments will vary. 
+(3) Items of inoperative equipment, 
+authorized by the MEL to be inoperative, must 
+be inspected or repaired by qualified 
+maintenance personnel, or maintenance deferred, 
+at the next lOO-hour, annual, progressive, or 
+unscheduled inspection. However, if FAR 
+6 91.213 requires that an item be repaired, the 
+item cannot be deferred. 
+e. Recordkeeping Requirements. A record 
+of inoperative equipment must remain in the 
+aircraft so pilots will be aware of all dis- 
+crepancies. 
+Chap 3 
+Par 23 15
+
+
+========================================
+<<<PDF_PAGE:20>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 910 67 
+During the preflight inspection, 
+the pilot discovers inoperative 
+instrument or equipment. 
+If yes, 
+The pilot checks aircraft's MEL. 
+If the inoperative equipment is 
+not included in MEL but is 
+required by type certificate, AD, 
+or special conditions: 
+L 
+If no, 
++ + 
+The aircraft is not airworthy; 
+repair before flight. 
+Pilot performs or has a qualified 
+person perform the appropriate 0 
+or M deactivation or removal 
+procedure. 
+The pilot or maintenance personnel 
+placard the inoperative equipment. 
+The pilot can take off after 
+confirming that the inoperative 
+equipment does not present hazards 
+to the conditions of flight. 
+Figure 3. Pilot Decision Sequence When Operating With An MEL 
+16 
+Chap 3 :
+
+
+========================================
+<<<PDF_PAGE:21>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 AC 919 67 
+. 
+(1) Since some operators do not carry 
+aircraft logbooks in the aircraft, a discrepancy 
+record or log (figure 4) is a good alternative. 
+When an operator uses this type of discrepancy 
+log in lieu of the aircraft’s maintenance records, 
+the operator must retain the log as a part of the 
+aircraft’s records as per FAR 0 91.417(b). \ 
+(2) If the operator elects to use the 
+aircraft maintenance record to log inoperative 
+items, that portion of the record must be carried 
+onboard the aircraft during all operations. 
+the same aircraft under different regulations. For 
+example, a Cessna 340 could be operated by an 
+approved school under FAR Part 91, by an air 
+carrier under FAR Parts 135, and by a rental 
+pilot under FAR Part 91. FAA will not approve 
+multiple MEL’s, which would create pilot 
+confusion, with discrepancy lists and sets of 
+procedures for the same aircraft. In the example, 
+the aircraft would operate under the FAR Part 
+135 MEL, including the A, B, C, and D codes, 
+with approval from the FSDO for other users to 
+conduct operations under other regulations. 
+(3) Corrective actions and maintenance (2) FAA will grant operators approval 
+procedures shall be accomplished and recorded for multiple users of an MEL under FAR Parts 
+in accordance with FAR @$ 43.9, 91.405, and 121, 125, 129, or 135 MEL, subject to the 
+91.417. following conditions: 
+(4) Failure to record an inoperative item 
+may result in an operation of the aircraft contrary 
+to the FAR because subsequent pilots would not 
+be able to determine the airworthiness of the 
+aircraft. 
+(i) The operator is responsible for 
+training alI persons in the MEL’s use, including 
+the logging and clearing of discrepancies and the 
+use of the A, B, C, and D codes. 
+J Aircraft Used in Multiple Operations. 
+FAR 0 91.213(c) allows a person who has an 
+approved MEL under FAR Parts 125, 129, or 
+135 to use that MEL for FAR Part’91 operations. 
+The FAR Parts 121,125,129, or 135 h4EL must 
+specify requirements for authorized FAR Part 91 
+operators to comply with the more restrictive 
+provisions established in the approved MEAL. It 
+is important that operators be capable of 
+conducting operations in accordance with the 
+MEL. This includes, but is not limited to, 
+accomplishing required maintenance in 
+accordance with the certificate holder’s 
+requirements. 
+(ii) Operators shall maintain a 
+complete, current list of all persons trained and 
+authorized to use the EL. 
+(iii) The operator is responsible for 
+determining the aircraft’s maintenance status on 
+its return from a FAR Part 91 operation. The 
+operator must accomplish this before the aircraft 
+is put back into FAR Parts 121,125,129, or 135 
+service. 
+(1) The use of a leased aircraft creates a 
+situation where several persons may be operating 
+(iv) FAA PrincipaI operations 
+Inspectors shall verify that operators have 
+established procedures that ensure an acceptable 
+level of safety before authorizing persons to use 
+the MEL under FAR Part 91. 
+I Chap 3 
+Par 23 17
+
+
+========================================
+<<<PDF_PAGE:22>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 910 67 6/28./g 1 . 
+COMPANY or OPERATOR' s NAME: 
+LOG SHEET NUMBER: 
+DATE: 
+LOCATION: 
+DISCREPANCY: 
+C0RRECTIVE ACTION: 
+~~ ~~ ~~ Signature Certificate Number Date 
+Figure 4. Sample Aircraft Equipment Discrepancy Record 
+18 
+Chap 3
+
+
+========================================
+<<<PDF_PAGE:23>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/B/91 
+AC 9lij7 
+Appendix 1 
+APPENDIX 1. SAMPLE MMEL DOCUMENTS . 
+FEDERAL AVIATION ADMINISTRATION 
+MASTER MINIMUM EQUIPMENT LIST 
+Page: 
+Revision: 
+Date: 
+(AIRcRAFr TYPE) 
+Preamble - PART 91 ONLY 
+‘3 
+This preamble is applicable to, and will be included in, Master 
+Minimum Equipment Lists (MMEL) issued under the provisions of 
+Section 91.213(a)(2). It is not applicable to MMELs issued under 
+the provisions of Parts 121, 125, 129, and i35 of the FAR. 
+Except as provided in Section 91.213(d), or under the provisions 
+of an approved MNEL, all equipment installed on an aircraft in 
+compliance with the airworthiness standards or operating rules 
+must be operative. Experience has shown that with the various 
+levels of redundancy designed into modern aircraft, operation of 
+every system or component installed may not be necessary when the 
+remaining equipment can provide an acceptable level of safety. 
+An MMEL is developed by the FAA, 
+aviation industry, 
+with participation by the 
+to improve aircraft utilization and thereby 
+provide more convenient and economic air transportation for the 
+public. The FAA-approved MMEL includes only those items of 
+equipment which the Administrator finds may be inoperative and 
+yet maintain an acceptable level of safety by appropriate 
+conditions and limitations. The MMEL and FAA-issued letter of 
+authorization are used as an MEL by an operator and permit 
+operation of the aircraft with inoperative equipment. 
+The MMEL includes all items of installed equipment that are 
+permitted to be inoperative. Equipment required by the FAR, and L optional equipment in excess of FAR requirements, are included 
+with appropriate conditions and limitations. For each listed item, the installed equipment configuration considered to be 
+normal for the aircraft is specified. Items .of equipment. 
+installed on aircraft (except for passenger convenience items 
+: such as galley equipment and passenger entertainment devices), 
+. such as nTCAS,Vt wind shear detection devices, and ground 
+proximity warning systems (GPWS) that are in excess of what is 
+required, and are not listed on the MMEL must be operational for 
+dispatch unless MMEL relief is sought through the FSDO having 
+1
+
+
+========================================
+<<<PDF_PAGE:24>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 919 67 
+Appendix 1 6/28/9.1 : 
+APPENDIX 1. SAMPLE MMEL DOCUMENTS (Continued) 
+jurisdiction for the operator; If MMEL relief is sought, the 
+operator must notify the FSDO who will make a request of the FOEB 
+to convene and consider adding the equipment to the MMEL. The 
+operator may then dispatch.with the equipment disabled, or 
+rendered inoperative, in accordance with all FAR. It is 
+incumbent on the operator to endeavor to determine if 0 and/or M 
+procedures for that equipment must be developed. If so, any 
+procedures developed must comply with all FAR. Procedures 
+developed to use the MMEL must not conflict'with either the 
+Aircraft.Flight Manual Limitations, Emergency Procedures, or with 
+Airworthiness Directives (AD), all of which take precedence over 
+the MMEL and those procedures. Suitable conditions and 
+limitations in the form of placards, maintenance procedures, crew 
+operating procedures, and other restrictions, as necessary, are 
+required to be accomplished by the operator-to ensure that an 
+acceptable level of safety is maintained. Those procedures 
+should be developed from guidance provided in the manufacturer's 
+aircraft flight and/or maintenance manuals, manufacturer's 
+recommendations, engineering specifications, and other 
+appropriate sources. Procedures must not be contrary to any FAR. 
+.Wherever the statement "Asrequired by FAR'! appears in the MMEL, 
+the operator must either list the specific FAR by Part and 
+Section and carry the FAR on board the aircraft, or specify the 
+requirements and/or limitations to conduct the flight in 
+accordance with the appropriate FAR. 
+The MMEL is intended to permit operations with inoperative items 
+of equipment for the minimum period of time necessary until 
+repairs can be accomplished. It is important that repairs be 
+accomplished at the earliest opportunity in order to return the 
+aircraft to its design level of safety and reliability. 
+Inoperative equipment in all cases must be repaired, or inspected 
+and deferred, by' qualified maintenance personnel at the next 
+required inspection Section 91.405(c). The repair intervals 
+indicated by the Letters A, B, and C inserted adjacent to 
+column 2 are NOT applicable to this MMEL. 
+The MMEL provides for release of the aircraft for flight with 
+inoperative equipment. When an i.tem of equipment is discovered 
+to be inoperative, it is reported by making an entry in the 
+aircraft maintenance records. The item is then either repaired, 
+or deferred per the MMEL or other approved means acceptable to 
+the Administrator, prior to further operation. In addition to 
+the specific MMEL conditions and limitations, determination by 
+2
+
+
+========================================
+<<<PDF_PAGE:25>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 
+AC 91- 867 
+Appendix 1 
+APPENDIX 1. SAMPLE MMEL DOCUMENTS (Continued) 
+the operator that the aircraft is in condition for safe 
+operations under anticipated flight conditions must be'made for 
+all items of inoperative equipment. When these requirements are 
+met, the aircraft may be considered airworthy and returned to 
+service. Operators are responsible for exercising the necessary 
+-operational control to ensure that an acceptable level of safety 
+is maintained. When operating with multiple inoperative items, 
+the interrelationship between those items, and the effect on 
+aircraft operation and crew workload, must be considered. 
+Operators are expected to establish a controlled and sound repair 
+program, including the parts, personnel, facilities, procedures, 
+and schedules to ensure timely repair. . 
+WHEN USING THE MMEL, COMPLIANCE WITH THE STATED INTENT OF THE 
+PREAMBLE, DEFINITIONS, CONDITIONS, AND LIMITATIONS SPECIFIED IN 
+THE MMEL IS REQUIRED. 
+3
+
+
+========================================
+<<<PDF_PAGE:26>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 9% 67 
+Appendix 1 f;/m/91 
+APPENDIX 1. SAMPLE MMEL DOCUMENTS (Continued) 
+FEDERAL AVIATION ADMINISTRATION Page: 1 
+MASTER MINIMUM EQUIPMENT LIST Revision: 
+Date: 
+TYPE AIRCRAFT 
+Definitions 
+1. System Definitions. System numbers are 
+based on the ATA Specification Number 100 and 
+items are numbered sequentially. 
+a. “Item” (column 1) lists the equipment, 
+system, component, or function in a column. 
+b. “Number Installed” (column 2) is the 
+number of items normally installed in the 
+aircraft. This number represents the aircraft 
+configuration considered in. developing this 
+MMEL. Should the number be a variable (e.g., 
+passenger cabin items), a number is not required. 
+c. “Number Required for Dispatch” 
+(column 3) is the minimum number (quantity) of 
+items required for operation provided the 
+conditions specified in column 4 are met. 
+d. “Remarks or Exceptions” (column 4) in 
+this column include a statement either prohibiting 
+or permitting operation with a specific number of 
+items inoperative, provisos (conditions and 
+limitations) for such operation, and appropriate 
+notes. 
+e. A vertical bar (change bar) in the margin 
+indicates a change, addition, or deletion in the 
+adjacent text for the current revision of that page 
+only. The change bar is dropped at the next 
+revision of that page. 
+2. “Airplane Flight Manual or Rotorcraft Flight 
+Manual” (AFM/RFM) is the document required 
+for type certification and approved by the 
+responsible FAA ACO. The FAA approved 
+AFM/RFM for the specific aircraft is listed on 
+the applicable TCDS. 
+3. “As required by FAR” means that the listed 
+item is subject to certain provisions (restrictive 
+or permissive) expressed in the FAR operating 
+rules. The number of items required by the FAR 
+must be operative. Items installed that are in 
+excess of the FAR requirements may be 
+permitted to be inoperative if not otherwise 
+required by the MMEL. 
+4. The asterisk “*” symbol in column 4 
+indicates the listed item, if inoperative, must be 
+placarded to inform and remind the 
+crewmembers and maintenance personnel of the 
+equipment condition. 
+Note: To the extent practical, placards 
+should be located adjacent to the control or 
+indicator for the item affected; however, 
+unless otherwise specified, placard wording 
+and location is determined by the operator. 
+5. The dash “-” symbol in column 2 and/or 
+column 3 indicates a variable number (quantity) 
+of the item(s) installed. 
+4
+
+
+========================================
+<<<PDF_PAGE:27>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 
+AC 910 a67 
+Appendix 1 
+APPENDIX 1. SAMPLE -L DOCUMENTS (Continued) 
+6. ‘Deleted” in the remarks column after a 
+sequence item indicates that the item was 
+previously listed but is now required to be 
+operative if installed in the aircraft. 
+7. “ER” refers to extended range operations of 
+a two-engine airplane which has a type design 
+approval for ER operations and complies with 
+the provisions of Advisory Circular 120-42A. 
+8. “Federal Aviation Regulations” (FAR) are the 
+applicable portions of the Federal Aviation Act 
+and Federal Aviation Regulations. 
+9. “Flight Day” refers to a 24 hour period (from 
+midnight to midnight) either Universal 
+Coordinated Time (UCT) or local time, as 
+established by the operator, during which at least 
+one flight is initiated for the affected aircraft. 
+.* 10. “Icing Conditions” indicate an atmospheric 
+environment causing ice to form on the aircraft 
+or in the engine(s). 
+11. Alphabetical symbol in column 4 indicates 
+a proviso (condition or limitation) for operation 
+with the listed item inoperative. 
+12. “Inoperative” indicates a system and/or 
+component malfunction that does not accomplish 
+its intended purpose and/or is not consistently 
+functioning normally within its approved 
+operating limit(s) or tolerance(s). 
+13. “Notes:” in column 4 provide additional 
+information for crewmember or maintenance 
+consideration. Notes are used to identify 
+applicable material intended to. assist with 
+compliance, not to relieve the operator of the 
+responsibiity for compliance. Notes are not a 
+part of the provisos. 
+14. Inoperative components of an inoperative 
+system are components directly associated with 
+and having no other function than to support that 
+system. (Warning/caution systems associated 
+with the inoperative system must be operative 
+unless relief is specifically authorized per the 
+=.I 
+15. “(M)” symbol indicates a requirement for a 
+specific maintenance procedure which must be 
+accomplished prior to operation with the listed 
+item inoperative. Normally these procedures are 
+accomplished by maintenance personnel; 
+however, other personnel may be qualified and 
+authorized to perform certain functions. 
+Procedures requiring specialized knowledge or 
+skill, or requiring the use of tools or test 
+equipment should be accomplished by 
+maintenance personnel. The satisfactory 
+accomplishment of all maintenance procedures, 
+regardless of who performs them, is the 
+responsibility of the operator. Appropriate 
+procedures are required to be published as part 
+of the operator’s manual. 
+16. “(0)” symbol indicates a requirement for a 
+specific operations procedure which must be 
+accomplished in planning for and/or operating 
+with the listed item inoperative. Normally these 
+procedures are accomplish?d by the flight crew; 
+however, other personnel may be qualified and 
+authorized to perform certain functions. The 
+operator is responsible for the satisfactory 
+accomplishment of all procedures, regardless of
+
+
+========================================
+<<<PDF_PAGE:28>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91-67 
+Appendix 1 
+APPENDIX 1. SAMPLE MMEL DOCUMENTS (Continued) 
+who performs them. Appropriate procedures are 
+required to be published as a part of the 
+operator’s manual. 
+NOTE: The (M) and (0) symbols require 
+the operator to develop procedures for the 
+removal, disabling, or rendering inoperative 
+of items of equipment, in accordance with 
+FAR Part 91, Part 145, or Part 43, as 
+appropriate. 
+17. “Deactivated” and “Secured” suggest that the 
+specified component is in an acceptable 
+condition for safe flight. The operator will 
+provide an acceptable method of securing or 
+deactivating. 
+18. “Visual Flight Rules” (VFR) are as defined 
+in FAR Part 91. This precludes a pilot from 
+filing an Instrument Flight Rules (IFR) flight 
+Plan . 
+19. “Visual Meteorological Conditions” (VMC) 
+indicate an atmospheric environment that allows 
+a flight to proceed under the visual flight rules. 
+20. Three days are 3 consecutive calendar days 
+(72 hours), excluding the day the mdlfunction 
+was recorded in the aircraft maintenance 
+record/logbook. For example, if it were recorded 
+at 10 a.m. on January 26th, the 3&day interval 
+would begin at midnight the 26th and end at 
+midnight the 29th. 
+21. Category C. Items in this category shall be 
+repaired within 10 consecutive calendar days 
+(240 hours), excluding the day the malfunction 
+was recorded in the aircraft maintenance 
+record/logbook. For example, if it were recorded 
+at 10 a.m. on January 26th the lo-day interval 
+would begin at midnight the 26th and end at 
+midnight February 5th. The letter designators 
+are inserted adjacent to column 2. 
+22. Engine Indicating Crew Alerting System 
+(EICAS), Electronic Centralized Aircraft 
+Monitoring System (ECAM) or similar systems 
+that provide electronic messages refer to a 
+system capable of providing different priority 
+levels of systems information messages (e.g., 
+Warning, Caution, Advisory Status and 
+Maintenance). Any airplane discrepancy 
+message that affects dispatchability will normally 
+be at status message level (e.g., Advisory Status) 
+or higher. 
+23. The three asterisk “***/cl( symbol in column 1 
+indicates an item which is not required by 
+regulation but which may have been installed on 
+some models of aircraft covered by this MMEL. 
+It should be noted that neither this definition nor 
+. the use of this symbol provide authority to install 
+or remove an item from an aircraft. 
+6
+
+
+========================================
+<<<PDF_PAGE:29>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 -~-~ 
+AC 919 67 
+Appendix 2 
+APPENDIX 2. SAMPLE LETIER OF AUTHORIZATION 
+Flight Standards District Office 
+Portland-Hillsboro Airport 
+3355 NE Cornell Road 
+Hillsboro, OR 97124 
+July 25,199l 
+Mr. John Dough, President 
+John Dough Enterprises 
+Hangar 9, Suite 203 
+Portland-HiUsboro Airport 
+Hillsboro, OR 97124 
+Dear Mr. Dough: 
+This letter is issued under the provisions of FAR 3 91213(a)(2) of the Federal Aviation Regulations (FAR) and 
+authorizes John Dough Enterprises only to operate Cessna Citation 500, N81149, Serial No. 12345, under the Master 
+Minimum Equipment List (MMEL), using it as a Minimum Equipment List (MEL). 
+This letter of authorization and the MMEL constitute a Supplemental Type Certificate for the aircraft and must be 
+carried on board the aircraft as prescribed by FAR 0 91.213(a)(2). 
+Operations must be conducted in accordance with the MMEL. Operations and maintenance (0 and M) procedures 
+for the accomplishment of rendering items of equipment inoperative must be developed by the operator. Those 
+procedures should be developed fkom guidance provided in the manuf&cturer’s aircraft flight and/or maintenance 
+manuals, manufacturer’s recommendations, engineering specifications, and other appropriate sources. Such operations 
+or maintenance procedures must be accomplished in accordance with the provisions and requirements of FAR 
+Part 91, Part 145, or Part 43. 
+. 
+A means of recording discrepancies and corrective actions must be in the aircraft at all times and available to the 
+pilot in command. Failure to perform 0 and M procedures in accordance with Part 91, Part 145, or Part 43 as 
+appropriate, or to comply with the provisions of the MMEL, preamble, 0 and M procedures and other related 
+documents, is contrary to FAR and invalidates this letter. All MMEL items that contain the statement “as required 
+by FAR” must either state the FAR by part and section (e.g., 91.205) with the appropriate FAR carried aboard the 
+aircraft, or the operational requirements/limitations required for dispatch must be clearly stated. When the MMEL 
+is revised by the Flight Operations Evaluation Board (FOEB), John Dough Enterprises will be notified by post card 
+of the revision. John Dough Enterprises must then obtain a copy of the revision from this Flight Standards Disctirc 
+Office (FSDO), or the FSDO having jurisdiction, and incorporate any changes as soon as practicable including 0 
+and M procedures as required. 
+John Dough Enterprises must develop 0 and M procedures that correspond with those listed in the MMEL. John 
+Dough Enterpks must also list the “as required by FAR” by specific FAR part and section, or state the operational 
+requirements/limitations for aircraft dispatch. These items must be contained in a procxxiures document that is 
+-1
+
+
+========================================
+<<<PDF_PAGE:30>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 9% 67 
+Appendix 2 6/28,!91 
+APPENDIX 2. SAMPLE LETIER OF AUTHORIZATION (Continued) 
+separate from the MMEL and must accompany the MMEL, preamble, and letter of authorization (LO). They must 
+all be onboard the aircraft anytime it is operated. 
+Equipment installed on this aircraft (other than passenger convenience items such as galley equipment and passenger 
+entertainment devices) that are in excess of what is required, and are not listed on the MMEL, must be operational 
+for dispatch unless a request is made to this FSDO (or subsequent FSDO that has jurisdiction) to seek relief fi-om 
+the FOEB, through a revision to the MMEL, at the earliest opportunity for the FOEB to convene. If h4MEL relief 
+is sought, this FSDO (or subsequent FSDO) must be notified within 10 calendar days (including weekends and 
+holidays) following installation. The operator may then conduct operations with the equipment inoperative for 
+dispatch provided it is disabled, or rendered inoperative, in accordance with all the FAR. It is the responsibility of 
+John Dough Enterprises to determine if 0 and/or M procedures must be developed for disabling, or rendering 
+inoperative, the equipment. If so, any procedures that are developed must comply with all FAR. If MMEL relief 
+is not sought, the FSDO need not be notified following installation of the equipment. 
+Should John Dough Enterprises relocate its principal base of operations (address), they must notify in writing both 
+this FSDO, and the new FSDO that will have jurisdiction, within 10 calendar days following relocation. 
+This letter is issued without an expiration date and will remain valid until voluntarily surrendered by John Dough 
+Enterprises, John Dough Enterprises ceases to be the operator of N81149, or it is suspended or revoked for cause 
+by the Federal Aviation Administration (FAA). In any case, should it become invalid, it must be returned to this 
+office or he FSDO having jurisdiction within 10 calendar days from the date it becomes invalid 
+Sincerely, 
+Principal Operations Inspector 
+STATEMENT OF OPERATOR 
+. As evidenced by my signature below, I certify that John Dough Enterprises will operate Cessna 500, N81149, in 
+f compliance with the authorizations, provisions, and limitations incumbent with the utilization of this LOA issued in 
+accordance with FAR 8 91.213(a)(2). A copy of this letter will be made a part of the MEL file maintained by this 
+FSDO of John Dough Enterprises. 
+Signature Title Date 
+2
+
+
+========================================
+<<<PDF_PAGE:31>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+_. 6128191 
+AC 9X-67 
+Appendix 3 
+APPENDIX 3. SAMPLE TITLE PAGE 
+JOHN DOUGH ENTERPRISES 
+MINIMUM EQUIPMENT LIST 
+PROCEDURES DOCUMENT 
+Cessna 500 N81149 
+This minimum equipment list is applicable to FAR Part 91 
+operations only and may not be used for operations 
+conducted under FAR Parts 121, 125, or 135 
+-1
+
+
+========================================
+<<<PDF_PAGE:32>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 
+AC 919 67 
+Appendix 4 
+APPENDIX 4. COMMONLY ASKED OUESTIONS ABOUT MEL’S 
+1. Can the operator make changes to an 
+MEL document without changes having been 
+made to the MMEL? How do they get 
+approved? 
+. . . . * To make changes to the MEL, the operator must 
+write to the FSDO exercising jurisdiction over its 
+operation that it wishes to have the MEL revised. 
+This would apply to newly installed equipment 
+that is not required by type certification rules, 
+operating rules, and/or is in excess of what is 
+required and is not listed on the MMEL. The 
+FSDO will contact the FOEB and request the 
+equipment be considered at the next meeting of 
+the FOEB. During the interim, the aircraft may 
+be operated with the items of equipment 
+inoperative provided the operator has developed 
+0 and M procedures (as applicable) that comply 
+with all the FAR. 
+2. What happens if my aircraft is destroyed 
+in an accident? Do I need to return the MEL 
+and Letter of Authorization (LOA) to the 
+issuing FSDb? 
+If the MEL and LOA survive in a readable form, 
+they must be surrendered to the issuing FSDO, 
+or the FSDO having jurisdiction for the operator, 
+with an official notification of the aircraft’s 
+destruction in an accident. A National 
+Transportation Safety Board’s indication of the 
+aircraft’s destruction is sufficient evidence if the 
+aircraft was destroyed outside of the appropriate 
+FSDO’s jurisdiction. 
+3. What if an FAA inspector asks to see my 
+MEL, procedures document, and LOA? 
+Because the FAR requires that the MEL, 
+procedures document, and LOA be carried 
+onboard the aircraft, the operator must show an 
+FAA inspector, or other authorized representative 
+of the Administrator, the documents when 
+requested. 
+4. ,What happens when the original MEL is 
+no bnger appropriate? 
+This would depend on the conditions that caused 
+the MEL to become inappropriate, since MEL’s 
+must be revised when MMEL’s am revised. 
+5. Does the FAA perform any type of 
+surveillance after approval of an MEL? If so, 
+how often? 
+FAA inspectors do not specifically survey or 
+inspect operators using an MEL. However, as 
+part of a ramp inspection, inspectors will check 
+to determine if an aircraft is operating with an 
+MEL or under the provisions of FAR 
+5 91.213(d). 
+6. What happens to the MEL if the aircrafi 
+is sold? 
+The MEL and LOA are not transferrable. The 
+MEL and LOA must be surrendered to the 
+FSDO exercising jurisdiction. The new owner 
+must decide if he/she wants to operate with an 
+MEL or under the provisions of FAR 
+5 91.213(d). If the owner elects to operate with 
+an MEL, he/s&e must apply for one at the 
+appropriate FSDO as described in this AC.
+
+
+========================================
+<<<PDF_PAGE:33>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+AC 91-67 
+Appeiidix 4 6/28/91 
+APPENDIX 4. COMM[ONLY ASKED QUESTIONS ABOUT MEL’S (Continued) 
+7. Can an operator request withdrawal of an lO.How do I transfer my MEL and LOA if I 
+approved MEL and elect to operate under move out of the jurisdiction of the issuing 
+FAR 6 91.213(d)? FSDO? 
+Both provisions of FAR 5 91.213 offer relief to 
+operators. Operators will find more relief 
+operating with an MEL. However, an operator 
+can surrender an MEL and LOA by submitting 
+them to the issuing FSDO with a letter indicating 
+that the operator no longer wishes to operate 
+with an MEL. As of the date the MEL and LOA 
+were surrendered, the aircraft must be operated 
+under FAR 0 91.213(d), provided it can meet the 
+requirements of FAR 6 91.213(d). If the FSDO 
+determines it cannot, it must continue to operate 
+under the MEL. 
+8. Can the applicant operate the aircraft 
+under FAR 0 91.213(d) while waiting for an 
+approval to a proposed MEL? 
+Under the regulation, the operator would have no 
+choice except to operate under FAR 8 91.213(d), 
+to whatever extent he/she can, until authorization 
+to operate under an MEL is received and the 
+LOA issued. 
+9. If an MEL LOA is issued in one FSDO’s 
+jurisdiction, do I have to have it reissued if 
+I’m operating in another area of jurisdiction? 
+No. The FAA considers an MEL LOA issued by 
+one FSDO as sufficient for use in any other 
+FSDO’s jurisdiction. 
+For a FAR Part 91 operation, the operator must 
+notify both the FSDO exercising oversight, and 
+the FSDO that will exercise oversight, of the 
+new location of the aircraft within 10 calendar 
+days following the Rlocation. The previous 
+FSDO will then forward the operator’s MEL file 
+to the acquiring FSDO through the FAA’s 
+regional office having jurisdiction for the new 
+location. The acquiring FSDO will enter the 
+new location information into the national 
+MMEL data base for revision and update. 
+11. There are a number of items on the 
+Beech 58P Baron MMEL that need clarifying. 
+For example, the MMEL states that you can 
+take off with one fuel quantity indicator 
+inoperative provided that an approved reliable 
+means is established to determine there is 
+enough fuel required by regulation. What is 
+an example of @*an approved means”? , 
+The pilot can visually check the fuel and, if it 
+were full, know how much fuel was onboard for 
+the flight. A dipstick calibrated for that aircraft 
+or any other means that provides a positive 
+measurement would be acceptable. 
+12. Does an operator have to use the sample 
+discrepancy record provided in this AC? 
+The sample is the preferred method, but the 
+operator may devise one of their own choosing; 
+however, it must contain at least the information 
+indicated in the sample in this AC. 
+. 
+2 
+:’ 
+. .
+
+
+========================================
+<<<PDF_PAGE:34>>>
+<<<SOURCE_FILE:AC_91-67.pdf>>>
+========================================
+
+6/28/91 
+AC 91-67 
+Appendix 4 
+APPENDIX 4. COMMONLY ASKED QUESTIONS ABOUT MEL’S (Continued) 
+13. If I hold a Part 125 Deviation, may I 
+receive authorization to conduct operations 
+under a Part 91 MEL? 
+If an operator holds 
+does not hold 
+Certificate, he/she 
+-. conduct operations 
+FAR Part 91 MEL. 
+a Deviation to Part 125 and 
+a Part 125 Operating 
+may be issued a LOA to 
+under the provisions of a 
+,a ‘. .: 14. If I currently have an approved &IEL 
+issued under Part 91, how does this new 
+procedure affect me and my operation under 
+that MEL? 
+You may continue to operate under your present 
+LOA until it expires at which time you would be 
+reissued the new letter. You could also choose 
+to surrender your current letter, prior to its 
+s . ‘\ expiration date, in exchange for a new letter i . . . along with the MJklEL. Either way, you may .’ continue to use your MEL document containing 
+0 and M procedures as the procedures document 
+referenced in this AC. 
+15. Since I no longer have to submit my 0 
+and M procedures to the FSDO for approval 
+prior to receiving the LOA, can I accomplish 
+the activity by mail? 
+No It is important that Aviation Safety 
+Inspectors (ASI) from the issuing FSDO meet 
+with you (or a bonafide representative of you or 
+your organization/company, etc. having signature 
+authority) to discuss MEL operating procedures 
+prior to issuance of the LOA. This is necessary 
+to ascertain your ability to operate in accordance 
+with the provisions of an l44EL. All mL LOA, 
+therefore, can only be issued in person. 
+16. Who is a bonafide representative? 
+It can be anyone with signature authority; ie., 
+the chief pilot, director of operations, director of 
+maintenance, or other company officer. In the 
+case where none of the above are applicable, a 
+letter on company letterhead introducing the 
+individual as a bona fide representative and 
+signed by a company officer may suffice. 
+17. Must I make my request for a meeting 
+with the FSDO inspectors in writing? 
+There is no specified requirement that the request 
+be made in writing, however, it is the prerogative 
+of the FSDO to make such azquest at their 
+option. 
+18. Must AS1 from all three disciplines; 
+operations, maintenance, and avionics, be 
+available for the meeting to discuss MEL 
+operating procedures? 
+It is preferred that all three disciplines be 
+represented; however, it is not necessary if due 
+to work constraints they will not be available 
+within a reasonable period of time. It is 
+important that an operations inspector be 
+involved in the discussion since the mL is an 
+operating document. 
+3.

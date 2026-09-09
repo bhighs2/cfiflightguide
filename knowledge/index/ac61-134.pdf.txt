@@ -1,0 +1,987 @@
+DOCUMENT_TITLE: ac61-134
+SOURCE_FILE: ac61-134.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+Date:    4/1/03 
+Initiated By:  AFS-800 
+AC No:  61-134 
+Change:   
+Subject:  GENERAL AVIATION 
+CONTROLLED FLIGHT INTO 
+TERRAIN AWARENESS   
+ 
+1.  PURPOSE.  This advisory circular (AC) highlights the inherent risk that controlled flight into terrain 
+(CFIT) poses for general aviation (GA) pilots.  This AC includes the Federal Aviation Administration's 
+(FAA) common definition of the term CFIT, identifies some, but not all, of the risks associated with GA 
+CFIT accidents, and provides some recommendations and strategies to combat CFIT within the GA 
+community.  This AC is not an all-inclusive document on CFIT; rather, this AC is designed to help flight 
+instructors, FAA Aviation Safety Program Managers, and other trainers develop CFIT training materials 
+by identifying some of the factors involved in GA CFIT accidents.  Some common references are 
+included to aid instructors in preparing CFIT presentations.  Pilots can benefit from reading this AC to 
+check their own knowledge of CFIT and factors involved to avoid having a GA CFIT accident.  This AC 
+will break the study of GA CFIT into three broad categories.  One will focus on visual flight rules (VFR) 
+pilots without an instrument rating operating in marginal VFR weather conditions (visual meteorological 
+conditions (VMC)) or instrument flight rules (IFR) weather conditions (instrument meteorological 
+conditions (IMC)) commonly known as scud running.  The second category will focus on GA IFR 
+operations in IMC conditions on an IFR flight.  The third category will focus on low-flying aircraft 
+operating in VFR conditions.  This AC does not address CFIT in Title 14 of the Code of Federal 
+Regulations (14 CFR) part 121 or part 135 operations. 
+ 
+2.  BACKGROUND. 
+ 
+a.  According to FAA information, general aviation CFIT accidents account for 17 percent of all 
+general aviation fatalities.  More than half of these CFIT accidents occurred during IMC. The FAA is 
+working in partnership with industry to develop an action plan and revise guidance material to reduce the 
+incidence of CFIT within the GA segment of aviation.  However, one of the problems in reviewing GA 
+CFIT accidents is the lack of data, particularly human factors data.  Since many of the pilots involved in 
+GA CFIT accidents are fatalities and most GA aircraft are not equipped with data recording systems, the 
+lack of GA CFIT accident data will continue to remain a problem for investigators. 
+ 
+b.  Although many CFIT accidents have some common factors that are applicable for all types of 
+aircraft, we want to stress the difference between a crewed aircraft with two pilots in the cockpit and a 
+single-pilot aircraft.  In crewed cockpits, the second pilot may make the difference between a safe flight 
+and a CFIT accident.  Conversely, a second pilot can also be a distraction in certain circumstances unless 
+the crew has been trained to work well together and is following good crew resource management (CRM) 
+techniques.  As a general rule of thumb, whether an air carrier type aircraft or a GA aircraft, the crewed
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+aircraft is generally better equipped with more safety equipment, such as an autopilot, radar altimeter, or 
+ground proximity warning system (GPWS) onboard, than a typical single-pilot, small GA aircraft.   
+ 
+c.  Because a single-piloted, small GA aircraft is vulnerable to the same CFIT risks as a crewed 
+aircraft but with only one pilot to perform all of the flight and decisionmaking duties, that pilot must be 
+better prepared to avoid a CFIT type accident.  In some cases, a GA pilot may be more at risk to certain 
+CFIT type accidents because the pilot does not have the company management or government oversight 
+that a corporate or commercial operator may be exposed to.  Without such oversight, such as detailed 
+standard operating procedures and higher mandatory safety requirements, it is the responsibility of the 
+single-pilot to ensure he or she is well trained, qualified for the intended flight, meets all regulatory 
+requirements for the flight, and has the self-discipline to follow industry recommended safety procedures 
+that can minimize CFIT type accidents.  
+ 
+3.  RELATED 14 CFR REFERENCES. 
+ 
+a.  Part 91, sections 91.103, 91.119, 91.121, 91.123, 91.155, 91.175, 91.177, 91.179, 91.181, 91.515.  
+ 
+b.  Part 97, Standard Instrument Approach Procedures. 
+ 
+4.  RELATED PUBLICATIONS. 
+ 
+a.  Advisory Circulars. 
+ 
+(1)  The current version of AC 61-23C, Pilot's Handbook of Aeronautical Knowledge, may be 
+purchased from the Superintendent of Documents, P.O. Box 371954, Pittsburgh, PA 15250-7954, or from 
+U.S. Government Printing Office bookstores located in major cities throughout the United States. 
+ 
+(2)  The current versions of the following ACs may be obtained at no cost from: Department of 
+Transportation, Subsequent Distribution Office, Ardmore East Business Center, 3341 Q 75th Ave., 
+Landover, MD 20785. 
+ 
+(a)  AC 90-97, Use of Barometric Vertical Navigation (VNAV) for Instrument Approach 
+Operations Using Decision Altitude. 
+ 
+(b)   AC 120-51D, Crew Resource Management Training. 
+ 
+b.  Manuals and Handbooks.  The current versions of the following documents may be purchased 
+from the Superintendent of Documents, P.O. Box 371954, Pittsburgh, PA 15250-7954: 
+ 
+(1)  Aeronautical Information Manual (AIM), especially paragraph 7-5-3, Obstructions to Flight, 
+Appendix 2. 
+ 
+(2)  Rotorcraft Flying Handbook (FAA-H-8083-21).  
+ 
+(3)  Airplane Flying Handbook (FAA-H-8083-3). 
+ 
+c.  Checklists.
+ 
+(1)  Personal Minimums Checklist, <http://flysafe.faa.gov/Flysafe/pclvideo/default.htm> 
+ 
+(2)  Flight Safety Foundation, CFIT Checklist, Appendix 1, and 
+<http://www.flightsafety.org/pdf/cfit_check.pdf>.  To order a laminated copy, send a written request to 
+ Par 2 Page 2
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+The Director of Programs, Flight Safety Foundation, 601 Madison Street, Suite 300, Alexandria, VA  
+22314. 
+d.  Pilot Practical Test Standards.  The current versions of the these documents may be purchased 
+from the Superintendent of Documents, P.O. Box 371954, Pittsburgh, PA 15250-7954. 
+ 
+e.  Controlled Flight Into Terrain, Education and Training Aid.  Historically, most of the research 
+related to CFIT accidents and the development of recommended safety practices have been done for air 
+carrier type operations.  The Controlled Flight Into Terrain, Education and Training Aid, is a good 
+example of such research done by industry and government.  Produced by the Flight Safety Foundation, 
+the International Civil Aviation Organization (ICAO), and the FAA, the aid provides a good history, lists 
+common dangers, and provides some recommended means of combating CFIT accidents for air carrier 
+operations.  In addition, the document is a valuable resource for anyone developing a CFIT training 
+course.  The document is available on the FAA's Internet website at: 
+<www.faa.gov/avr/afs/cfit/volume1/titlepg.pdf> 
+ 
+5.  DEFINITIONS. 
+ 
+a.  Controlled Flight into Terrain (CFIT).  CFIT occurs when an airworthy aircraft is flown, under 
+the control of a qualified pilot, into terrain (water or obstacles) with inadequate awareness on the part of 
+the pilot of the impending collision. 
+ 
+b.  Loss of Control.  The term, loss of control, refers to emergency situations from which a pilot may 
+have been able to recover but did not, such as problems with situation awareness, recovery from 
+windshear, mishandling of an approach, and recovery from a stall. 
+ 
+c.  Situational Awareness.  As used in this AC, situational awareness means the pilot is aware of 
+what is happening around the pilot's aircraft at all times in both the vertical and horizontal plane.  This 
+includes the ability to project the near term status and position of the aircraft in relation to other aircraft, 
+terrain, and other potential hazards. 
+ 
+d.  Crewed Aircraft.  In this AC, crewed aircraft refers to an aircraft or flight operation in which 
+more than one pilot is required by aircraft certification or type of operation.   
+ 
+e.  Single-Pilot Aircraft.  In this AC, single-pilot means only one pilot is required by the aircraft 
+certification.  Normally, only one pilot flies such an aircraft. 
+ 
+6.  SCOPE. 
+ 
+a.  In visual meteorological conditions, the pilot in command (PIC) is responsible for terrain and 
+obstacle clearance (See and Avoid) whether operating under VFR or IFR.  Although this AC addresses 
+the issue of pilots operating under VFR in marginal VMC or IMC conditions, the FAA does not endorse 
+or approve of pilots operating under VFR in IMC.  The paragraphs dealing with such operations are only 
+designed to highlight the risks of such operations.  The FAA expects pilots to comply with the appropriate 
+flight rules for all flight operations. 
+ 
+b.  This AC addresses CFIT operations in the United States, only. Flight operations outside of the 
+United States have added risks that can contribute to a CFIT accident.  These risks include air traffic 
+control (ATC) instructions from controllers to whom English is a second language or controllers with a 
+limited ATC vocabulary.  Other international factors include different types of altimeter settings, terrain 
+elevation, runway data in units other than feet, and a general lack of knowledge with the international 
+ICAO standards and country specific operating standards.  U.S. pilots planning on operating outside the 
+Par 4 Page 3
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+United States need to carefully review the appropriate international requirements and operating 
+procedures to ensure that an inadvertent mistake or failure to comply with local procedures does not result 
+in a GA CFIT accident. 
+7.  TOP 10 RECOMMENDED INTERVENTION STRATEGIES.   
+ 
+a.  The following is a list of 10 safety recommendations from the FAA's and industry's Safer Skies: A 
+Focused Safety Agenda, General Aviation Controlled Flight Into Terrain Joint Safety Implementation 
+Team Report, February 2000.  The list was derived from 55 ideas the CFIT Joint Safety Analysis Team 
+(JSAT) developed after reviewing 195 GA CFIT accidents from 1993 and 1994.  As the report noted, GA 
+includes everything from pilot training, corporate, agricultural and external-load operations, fire-fighting, 
+airborne surveillance, air shows, aircraft maintenance related flights, to personal and recreational flying.  
+Types of aircraft vary from single-place home-builts to helicopters to business jets.  GA aircraft also 
+includes gliders, balloons, and aerial application aircraft.  As the report says, GA is “...basically 
+everything except the military and scheduled air carriers.”  Although some of the safety recommendations 
+go beyond the capability of instructors or trainers interested in developing training materials for GA CFIT 
+safety presentations or CFIT lesson plans, they all contain information that will improve CFIT safety in 
+flight, on or near airports and obstructions. 
+ 
+b.  The CFIT JSAT's Top 10 Recommended Intervention Strategies. 
+ 
+(1)  Increase pilot awareness on accident causes. 
+ 
+(2)  Improve safety culture within the aviation community. 
+ 
+(3)  Promote development and use of a low cost terrain clearance and/or a look ahead device. 
+ 
+(4)  Improve pilot training (i.e., weather briefing, equipment, decision-making, wire and tower 
+avoidance, and human factors. 
+ 
+(5)  Improve the quality and substance of weather briefs. 
+ 
+(6)  Enhance the flight review and/or instrument competency check. 
+ 
+(7)  Develop and distribute mountain-flying technique advisory material. 
+ 
+(8)  Standardize and expand use of markings for towers and wires. 
+ 
+(9)  Use high visibility paint and other visibility enhancing features on obstructions. 
+ 
+(10)  Eliminate the pressure to complete the flight where continuing may compromise safety. 
+ 
+8.  VFR-ONLY PILOTS OPERATING IN MARGINAL VFR/IMC CONDITIONS.  
+ 
+a.  Operating in marginal VFR/IMC conditions is more commonly known as scud running.  
+According to National Transportation Safety Board (NTSB) and FAA data, one of the leading causes of 
+GA accidents is continued VFR flight into IMC.  As defined in 14 CFR part 91, ceiling, cloud, or 
+visibility conditions less than that specified for VFR or Special VFR is IMC and IFR applies.  However, 
+some pilots, including some with instrument ratings, continue to fly VFR in conditions less than that 
+specified for VFR.  The result is often a CFIT accident when the pilot tries to continue flying or 
+maneuvering beneath a lowering ceiling and hits an obstacle or terrain or impacts water.  The accident 
+may or may not be a result of a loss of control before the aircraft impacts the obstacle or surface.  The 
+ Par 6 Page 4
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+importance of complete weather information, understanding the significance of the weather information, 
+and being able to correlate the pilot's skills and training, aircraft capabilities, and operating environment 
+with an accurate forecast cannot be emphasized enough.  
+b.  Continued flight in reduced visual conditions compounded by night operations and/or overwater 
+flight poses some risks.  VFR pilots in reduced visual conditions may develop spatial disorientation and 
+lose control, possibly going into a graveyard spiral, or descend to an unsafe altitude while trying to 
+maintain visual contact with the surface.  The pilot then impacts terrain, the surface, or an obstacle while 
+trying to maneuver.  The following are some of the CFIT risks associated with such flight. 
+ 
+(1)  Loss of aircraft control. 
+ 
+(2)  Loss of situational awareness. 
+ 
+(3)  Reduced reaction time to see and avoid rising terrain or obstacles. 
+ 
+(4)  Inability of the pilot to operate the aircraft at its minimum controllable airspeed. 
+ 
+(5)  Getting lost or being off the preplanned flightpath and impacting terrain or obstacle. 
+ 
+(6)  Reduced pilot reaction time in the event of an aircraft maintenance problem because of a low 
+or lowering altitude. 
+ 
+(7)  Failure to adequately understand the weather conditions that resulted in the reduced 
+conditions. 
+ 
+(8)  Breakdown in good aeronautical decisionmaking. 
+ 
+(9)  Failure to comply with appropriate regulations. 
+ 
+(10)  Failure to comply with minimum safe altitudes. 
+ 
+(11)  Increased risk of hitting one of many new low altitude towers installed for cellular telephones 
+and other types of transmissions.  This risk is especially great along major highways if VFR pilots try to 
+follow a highway when lost or trying to stay under a lowering ceiling. 
+ 
+(12)  Failure to turn around and avoid deteriorating conditions when first able. 
+ 
+9.  GA IFR OPERATIONS IN IMC CONDITIONS ON AN IFR FLIGHT.  These operations also 
+pose special risks.  Whether it is failure to follow safe takeoff and departure techniques, recommended en 
+route procedures ― which includes loss of situational awareness ― or failure to maneuver safely to a 
+landing, IFR operations can be dangerous for those not prepared to operate or not current and proficient in 
+the IMC and IFR environments.  Many of these accidents result in fatalities.  Techniques or suggestions 
+for avoiding some of these IFR risk factors include:   
+ 
+a.  Importance of the pilot in command being qualified, current, and proficient for the intended flight. 
+ 
+b.  Importance of the aircraft being properly equipped for the intended flight.   
+ 
+c.  Having the proper charts and approach plates for the intended flight.  VFR charts, although not 
+required, should be onboard because they can provide important obstacle and terrain data for an IFR 
+flight. 
+ 
+Par 8 Page 5
+
+
+========================================
+<<<PDF_PAGE:6>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+d.  Knowing the planned procedure well enough to know if air traffic is issuing an unsafe clearance or 
+if the pilot flying, when a crewed aircraft, is not following the published procedure. 
+e.  If in a crewed aircraft, both pilots have adequately briefed the flight and operation of the aircraft, 
+including shared responsibilities. 
+f.  Having complete weather data for the flight, including knowing where visual meteorological 
+conditions exist or a safe alternative is since many GA aircraft flown IFR have limited range or speed to 
+fly out of un-forecasted weather conditions. 
+ 
+g.  Importance of maintaining situational awareness, both horizontal and vertical, throughout the 
+flight to avoid flying into hazardous terrain or known obstacles. 
+ 
+h.  Complete knowledge on how to operate all equipment onboard the aircraft.  This includes the 
+limitations and operations of new types of navigation equipment. 
+ 
+i.  If a crewed aircraft, the crew is aware of and follows FAA and industry recommended crew 
+resource management principles.  If a single-piloted flight, the pilot knows to use all available resources 
+including air traffic control to help ensure a safe flight as well as any onboard resource such as a 
+passenger or onboard charts or manuals. 
+ 
+j.  Pilot in command follows the rules for making a missed approach and is prepared to make a 
+missed approach when conditions fall below minimums as specified in the regulations, company policy, 
+pilot's personal minimums checklist, or the approach becomes destabilized.  
+ 
+k.  Knowledge of minimum safe or sector altitudes and of the highest terrain in the area. 
+ 
+l.  Pilot in command is aware of the risks involved when transitioning from visual to instrument or 
+from instrument to visual procedures on takeoff or landing. 
+ 
+m.  Pilot in command uses all available safety equipment installed in the aircraft and on the ground. 
+ 
+n.  Pilot in command is aware of the risks involved in setting the aircraft's altimeter including inherent 
+limitations of barometric altimeters. 
+ 
+o.  Knowing the air traffic control system well enough to be proficient in it. 
+ 
+p.  Knowing when not to fly. 
+ 
+q.  Properly using an installed autopilot, if so equipped, to reduce pilot workload. 
+ 
+r.  Proper use of checklists as outlined in the aircraft manual or if not listed, before reaching 
+1,000 feet above ground level (AGL) to minimize any distractions when operating close to the ground. 
+ 
+s. The importance of flying a stabilized approach.  A common definition of a stabilized approach is 
+maintaining a stable speed, descent rate, vertical flightpath, and configuration throughout the final 
+segment of the approach.  Although originally designed for turbojet aircraft, a stabilized approach is also 
+recommended for propeller-driven aircraft.  The idea is to reduce pilot workload and aircraft 
+configuration changes during the critical final approach segment of an approach.  The goal is to have the 
+aircraft in the proper landing configuration, at the proper approach speed, and on the proper flightpath 
+before descending below the minimum stabilized approach height.  The following are recommended 
+minimum stabilized approach heights. 
+ 
+ Par 9 Page 6
+
+
+========================================
+<<<PDF_PAGE:7>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+(1)  500 feet above the airport elevation during VFR weather conditions. 
+ 
+(2)  MDA or 500 feet above airport elevation, whichever is lower, for a circling approach. 
+ 
+(3)  1,000 feet above the airport or touch down zone elevation during IMC. 
+ 
+t.  The increased CFIT risk of nonprecision approaches. 
+ 
+u.  The increased CFIT risk of high descent rates near the ground. 
+ 
+v.  The importance of good communications between the pilot and air traffic control concerning any 
+flight instruction or clearance.  The old rule of asking for clarification whenever in doubt about any 
+instruction or clearance applies. 
+ 
+w.  The dangers of complacency for the single-pilot, as well as multi-piloted crews, when making 
+routine flights. 
+ 
+x.  The dangers of misunderstanding air traffic control instructions or accepting an incorrect 
+clearance. 
+ 
+y.  The dangers of not knowing the safe altitudes for your en route as well as your terminal area. 
+ 
+10.  LOW-FLYING AIRCRAFT OPERATING IN VFR CONDITIONS.  Although many of the 
+factors listed previously apply to low-flying aircraft operating in VFR conditions, this is a special 
+category for those pilots flying below minimum safe altitudes.  Such operators include agriculture 
+applicators and helicopter pilots who routinely operate near trees, telephone lines and power lines, or 
+other such obstacles.  In many cases, the pilot was aware of the obstacles but environmental factors such 
+as time of day, minimal light, shadows, darkness, sun glare, cockpit blind spots, fatigue, or other such 
+factors resulted in the pilot losing situational awareness and hitting an obstacle or impacting the ground.  
+In some cases, pilots may have been aware of an obstacle, but because of some of these environmental 
+factors, they were unable to avoid a collision because they did not see the danger in time or they saw the 
+danger but failed to react in time to avoid an accident.  Density altitude and aircraft performance 
+limitations may also pose risk factors for such flights.  These same factors can also result in a CFIT 
+accident for someone flying in mountainous terrain.  Some common low altitude CFIT factors are: 
+ 
+a.  Windshear and loss of flying speed. 
+ 
+b.  Density altitude. 
+ 
+c.  Failure to operate aircraft within operating limitations. 
+ 
+d.  Failure to check an area from a safe altitude before descending into it (high reconnaissance and 
+low reconnaissance). 
+ 
+e.  Flying between hills or over rivers below hill tops can result in a CFIT accident if a power line or 
+cable is strung between the hills.  Not all such lines are marked or charted. 
+ 
+f.  Flying up a box canyon and not being able to fly up and out of it before impacting terrain. 
+ 
+g.  Flying over rising terrain that exceeds an aircraft's ability or performance to climb away from the 
+terrain. 
+  
+h.  Errors in pilot judgement and decisionmaking. 
+Par 9 Page 7
+
+
+========================================
+<<<PDF_PAGE:8>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+i.  Diversion of pilot attention. 
+j.  Buzzing. 
+ 
+k.  Crew distractions or a breakdown in crew resource management. 
+ 
+l.  Operating in an unsafe manner. 
+ 
+m.  Failure to maintain control of the aircraft when taking off or landing. 
+ 
+n.  Failure to properly pre-plan the flight. 
+ 
+o.  Operating in unfamiliar areas or depending upon untrained people to provide important flight data. 
+ 
+p.  Not having an objective standard to make go-no go decisions for launching. 
+ 
+q.  Failure to review all available data for the flight (particularly applicable to medical evacuation 
+flights). 
+ 
+r.  Lack of terrain knowledge and elevation of the highest obstacles within your immediate operating 
+area. 
+  
+s.  Failure to properly plan your departure route when departing from unprepared areas such as 
+helicopters or aircraft operating off an airport.  Such factors include weight and balance, aircraft 
+performance, height of obstacles, wind direction, trees, density altitude, rising terrain, length of takeoff 
+area, and safe abort areas.   
+ 
+11.  AERONAUTICAL INFORMATON MANUAL (AIM), SECTION 5.  Potential Flight Hazards, 
+paragraph 7-5-1, Accident Cause Factors, lists the following 10 most frequent cause factors for general 
+aviation accidents that involve the PIC.  The following list contains many of the same factors listed for 
+CFIT accidents.  This listing of major reasons why GA pilots continue to have accidents has remained 
+constant over time.  With the possible exception of subparagraph f, these factors can all be CFIT factors. 
+ 
+a.  Inadequate preflight preparation and/or planning. 
+  
+b.  Failure to obtain and/or maintain flying speed. 
+  
+c.  Failure to maintain directional control. 
+  
+d.  Improper level off. 
+  
+e.  Failure to see and avoid objects or obstructions. 
+  
+f.  Mismanagement of fuel. 
+  
+g.  Improper in-flight decisions or planning. 
+  
+h.  Misjudgment of distance and speed. 
+  
+i.  Selection of unsuitable terrain. 
+  
+j.  Improper operation of flight controls.   
+ Par 10 Page 8
+
+
+========================================
+<<<PDF_PAGE:9>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+12.  DECIDE MODEL.  Many CFIT accident reports discuss the lack of good decisionmaking on the 
+part of the pilot or flight crew.  The following D-E-C-I-D-E model is included in many manuals and 
+books on decisionmaking. 
+ 
+a.  Detect change (or identify problem). 
+b.  Estimate significance (of the change). 
+c.  Choose the (best) objective or outcome. 
+d.  Identify options (that meet objective or desired outcome). 
+e.  Do best option. 
+f.  Evaluate (the outcome--if the outcome is not what is desired then do a new DECIDE model). 
+13.  TECHNICAL SOLUTIONS.  
+ 
+a.  The development of the first Ground Proximity Warning Systems (GWPS) has contributed to a 
+marked decline in CFIT accidents in air carrier operations.  The use of GWPS and the newer generation 
+Terrain Awareness and Warning Systems (TWAS) in GA aircraft has the potential to provide a similar 
+savings in lives and loss of GA aircraft.  As noted in various CFIT documents, the proper use of terrain 
+awareness and warning systems is important to their effectiveness.  Pilots are expected to execute the 
+proper emergency escape maneuvers when their ground warning system activates. 
+ 
+b.  Title 14 CFR sections 91.223, 121.354, and 135.154 mandate the installation of terrain awareness 
+warning systems in turbine-powered aircraft as outlined in the appropriate section.  The type of operation 
+also includes specific passenger seat requirements/limitations for the operations involved as well as the 
+required type of equipment. 
+ 
+c.  As digital-mapping systems combined with satellite positioning data become less expensive, GA 
+pilots may soon be able to graphically see their horizontal and vertical location at all times.  Expanded 
+situational awareness should help pilots avoid some types of CFIT accidents.  Then the challenge will be 
+to eliminate descent type CFIT accidents during the landing phase of flight.  
+ 
+14.  SUMMARY. 
+ 
+a.  Controlled flight into terrain, normally occurs at speed with the result that many such accidents are 
+fatal.  A common thread throughout this AC is the importance of proper planning, good decisionmaking, 
+and being able to safely operate the aircraft throughout is entire operating range.  Since CFIT implies that 
+the aircraft is operating properly, the main reason for such accidents is what is commonly called pilot 
+error.  Therefore, it is the pilot's responsibility to ensure that he or she is qualified for the flight, that the 
+aircraft is properly equipped for the flight, and that the flight is flown according to the appropriate 
+regulations and aircraft operating limitations.  According to the CFIT, Education and Training Aid, about 
+25.0 percent of all accidents occur during the takeoff and initial climb segment of flight.  Approximately 
+7.0 percent of the accidents occur during the climb portion.  Only about 4.5 percent occur during cruise.  
+About 19.5 percent occurs during descent and initial approach.  But 41.4 percent of the accidents occur 
+during final approach and landing.  Takeoff, initial climb, final approach, and landing represent only 
+about 6.0 percent of the total flight time of a given flight.  But as these numbers point out, that 6.0 percent 
+of a flight's total time can be deadly.  Ground proximity warning systems and the newer terrain awareness 
+and warning systems using GPS have the potential to reduce CFIT accidents on takeoffs and landings. 
+These systems provide one more tool for pilots to use to increase their safety margin when operating close 
+to terrain and obstacles. However, every pilot must know the limitations of his or her database and what 
+objects are included in the database. 
+Par 12 Page 9
+
+
+========================================
+<<<PDF_PAGE:10>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+b.  The solution to combating CFIT accidents starts on the ground.  Pilots need to properly prepare to 
+safely execute the maneuvers required during takeoff, initial climb, final approach, and landing phases of 
+flight.  Whether VFR or IFR, each flight has critical flight segments.  How the flight segments are 
+planned for and handled determines, to a great extent, the safety of the flight.  Appendix 1, Flight Safety 
+Foundation's CFIT Checklist, provides one example of how to calculate CFIT risk.  It states, "Use the 
+checklist to evaluate specific flight operations and to enhance pilot awareness of the CFIT risk."  Page 4 
+of the checklist tells how pilots can obtain copies of the checklist or reproduce it. 
+ 
+c.  Recommendations. 
+ 
+(1)  Noninstrument rated VFR pilots should not attempt to fly in IMC. 
+ 
+(2)  Know and fly above minimum published safe altitudes.  VFR: Fly a minimum of 1,000 feet 
+above the highest terrain in your immediate operating area in nonmountainous areas.  Fly a minimum of 
+2,000 feet in mountainous areas. 
+ 
+(3)  If IFR, fly published procedures.  Fly the full published procedure at night, during minimum 
+weather conditions, or operating at an unfamiliar airport. 
+ 
+(4)  Verify proper altitude, especially at night or over water, through use of a correctly set 
+altimeter. 
+ 
+(5)  Verify all ATC clearances.  Question an ATC clearance that assigns a heading and/or altitude 
+that, based upon your situational awareness, places the aircraft in a CFIT environment. 
+ 
+(6)  Maintain situational awareness both vertically and horizontally. 
+ 
+(7)  Comply with appropriate regulations for your specific operation. 
+ 
+(8)  Don't operate below minimum safe altitudes if uncertain of position or ATC clearance. 
+ 
+(9)  Be extra careful when operating outside the United States or in an area which you are not 
+familiar. 
+ 
+(10)  Use current charts and all available information. 
+ 
+(11)  Use appropriate checklists. 
+ 
+(12)  Know your aircraft and its equipment. 
+ 
+ 
+/s/ 
+Louis C. Cusimano  for 
+James J. Ballough 
+Director, Flight Standards Service 
+ 
+ Par 14 Page 10
+
+
+========================================
+<<<PDF_PAGE:11>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+  Appendix 1 
+APPENDIX 1.  CFIT CHECKLIST 
+ 
+Flight Safety Foundation 
+CFIT Checklist 
+Evaluate the Risk and Take Action 
+ 
+Flight Safety Foundation (FSF) designed this controlled-flight-i nto-terrain (CFIT) risk-assessment safety tool   
+as part of its international program to reduce CFIT accidents, which present the greatest risks  to aircraft, crew s 
+and passengers. The FSF CFIT Checklist is likely to undergo further developments, but the Foundation believes 
+that the checklist is sufficiently developed to warrant distribution to the worldwide aviation community. 
+Use the checklist to evaluate spe cific flight operatio ns and to enhance p ilot awarene ss of t he CFIT risk . The 
+checklist is d ivided into three parts. In each part, numeric al values are assigned to a variety of factors th at the 
+pilot/operator will use to score his/her own situation and to calculate a numerical total. 
+In Part I: CFIT Risk Asse ssment, the level of CFIT risk is calcula ted for each flight, sector or leg. In Part II: 
+CFIT Risk-reduction Factors, Company Culture, Flight Standards, Hazard Awareness and Training, and Aircraft 
+Equipment are factors, whi ch are calcul ated in separate se ctions. In Part III: Your CFIT Risk, the totals of the 
+four sections in Part II  are co mbined i nto a single value (a positiv e number) and co mpared with the total (a 
+negative number) in Part l: CFIT Risk Assessment to determine your CFIT Risk Score. To score the ch ecklist, 
+use a nonpermanent marker (do not use a ball-point pen or pencil) and erase with a soft cloth. 
+Part I: CFIT Risk Assessment 
+Section 1- Destination CFIT Risk Factors Value Score 
+Airport and Approach Control Capabilities: 
+ATC approach radar with MSAWS.................................................................................................    0 _____ 
+ATC minimum radar vectoring charts.............................................................................................    0 _____ 
+ATC radar only................................................................................................................. ............... -10 _____ 
+ATC radar coverage limited by terrain masking ............................................................................. -15 _ ____ 
+No radar coverage available (out of service/not installed) .............................................................. -30 ___ __ 
+No ATC service................................................................................................................. .............. -30 _____  
+Expected Approach: 
+Airport located in or near mountainous terrain................................................................................ -20 __ ___ 
+ILS............................................................................................................................ .......................    0 _____ 
+VOR/DME........................................................................................................................ ............... -15 _____ 
+Nonprecision approach with the approach slope from the FAF to  
+the airport TD shallower than 2 ¾ degrees............................................................................... -20 _____ 
+NDB ........................................................................................................................... .................... -30 _____ 
+Visual night “black-hole” approach ............................................................................................. ... -30 __ ___ 
+Runway Lighting: 
+Complete approach lighting system ................................................................................................    0 _____ 
+Limited lighting system........................................................................................................ ........... -30 _____  
+Controller/Pilot Language Skills: 
+Controllers and pilots speak different primary languages ............................................................... -20 _____ 
+Controllers’ spoken English or ICAO phraseology poor ................................................................ -20 _____ 
+Pilots’ spoken English poor.................................................................................................... ......... -20 _____  
+Departure: 
+No published departure procedure .................................................................................................. -10 _____ 
+ Destination CFIT Risk Factors Total (-)_____ 
+ Page 1
+
+
+========================================
+<<<PDF_PAGE:12>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+Appendix 1 
+APPENDIX 1.  CFIT CHECKLIST – Continued 
+ 
+Section 2 – Risk Multiplier Value Score 
+Your Company's Type of Operation (select only one value): 
+Scheduled ...................................................................................................................... .................. 1.0 _____ 
+Nonscheduled. .................................................................................................................. ............... 1.2 _____ 
+Corporate...................................................................................................................... ................... 1.3 _____ 
+Charter........................................................................................................................ ..................... 1.5 _____ 
+Business owner/pilot ........................................................................................................... ............ 2.0 _____ 
+Regional....................................................................................................................... .................... 2.0 _____ 
+Freight ........................................................................................................................ ..................... 2.5 _____ 
+Domestic....................................................................................................................... ................... 1.0 _____ 
+International.................................................................................................................. ................... 3.0 _____  
+Departure/Arrival Airport (select single highest applicable value): 
+Australia/New Zealand.......................................................................................................... .......... 1.0 _____ 
+United States/Canada........................................................................................................... ............ 1.0 _____ 
+Western Europe ................................................................................................................. .............. 1.3 _____ 
+Middle East.................................................................................................................... .................. 1.1 _____ 
+Southeast Asia ................................................................................................................. ................ 3.0 _____ 
+Euro-Asia (Eastern Europe and Commonwealth of Independent States) ....................................... 3.0 _____ 
+South America/Caribbean. ....................................................................................................... ....... 5.0 _____ 
+Africa......................................................................................................................... ...................... 8.0 _____  
+Weather/Night Conditions (select only one value): 
+Night — no m oon ............................................................................................................... ............ 2.0 _____ 
+IMC ............................................................................................................................ ..................... 3.0 _____ 
+Night and IMC.................................................................................................................. ............... 5.0 _____  
+Crew (select only one value): 
+Single-pilot flight crew....................................................................................................... ............. 1.5 _____ 
+Flight crew duty day at maximum and ending with a night nonprecision approach ...................... 1.2 _____ 
+Flight crew crosses five or more time zones .................................................................................. 1.2 __ ___ 
+Third day of multiple time-zone crossings ..................................................................................... 1.2 __ ___ 
+ Add Multiplier Values to Calculate Risk Multiplier Total _____ 
+Destination CFIT Risk Factors Total X Risk Multiplier Total  =  CFIT Risk Factors To tal (-) _____ 
+ 
+Part II: CFIT Risk-Reduction Factors 
+Section 1- Company Culture Value Score 
+Corporate/company management: 
+Places safety before schedule .................................................................................................. ......... 20 _____ 
+CEO signs off on flight operations manual ...................................................................................... 20 __ ___ 
+Maintains a centralized safety function ...........................................................................................20 _____ 
+Fosters reporting of all CFIT incidents without threat of discipline ................................................ 20 _____ 
+Fosters communication of hazards to others ................................................................................... 15 __ ___ 
+Requires standards for IFR currency and CRM training ................................................................. 15 _____ 
+Places no negative connotation on a diversion or missed approach ................................................ 20 _____ 
+115-130 points  Tops in company culture 
+105-115 points  Good, but not the best  Company Culture Total (+)_____ 
+80-105 points  Improvement needed 
+Less than 80 points  High CFIT risk 
+ Page 2
+
+
+========================================
+<<<PDF_PAGE:13>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+  Appendix 1 
+APPENDIX 1.  CFIT CHECKLIST – Continued 
+Section 2 - Flight Standards Value Score 
+Specific procedures are written for: 
+Reviewing approach or departure procedures charts........................................................................ 10 _____ 
+Reviewing significant terrain along intended approach or departure course.................................... 20 _____ 
+Maximizing the use of ATC radar monitoring ................................................................................. 10 _____ 
+Ensuring pilot(s) understand that ATC is using radar or radar coverage exists ............................... 20 _____ 
+Altitude changes ............................................................................................................... ................ 10 _____ 
+Ensuring checklist is complete before initiation of approach........................................................... 10 _____  
+Abbreviated checklist for missed approach...................................................................................... 10 __ ___ 
+Briefing and observing MSA circles on approach charts as part of plate review............................. 10 _____ 
+Checking crossing altitudes at IAF positions ................................................................................... 10 __ ___ 
+Checking crossing altitudes at FAF and glideslope centering.......................................................... 10 _____ 
+Independent verification by PNF of minimum altitude during  
+stepdown DME (VORNME or LOC/DME) approach....... ....................................................... 20 _____ 
+Requiring approach/departure procedure charts with terrain  
+in color, shaded contour formats. .............................................................................................. 20 __ ___ 
+Radio-altitude setting and light-aural (below MDA) for backup on approach................................. 10 _____ 
+Independent charts for both pilots, with adequate lighting and holders ........................................... 10 _____ 
+Use of 500-foot altitude call and other enhanced procedures for NPA ............................................ 10 _____ 
+Ensuring a sterile (free from distraction) cockpit, especially during 
+IMC/night approach or departure. ............................................................................................. 10 __ ___ 
+Crew rest, duty times and outer considerations especially  
+for multiple-time-zone operation............................................................................................... 20 __ ___ 
+Periodic third-party or independent audit of procedures .................................................................. 10 ___ __ 
+Route and familiarization checks for new pilots 
+Domestic....................................................................................................................... ............. 10 _____ 
+International.................................................................................................................. ............. 20 _____ 
+Airport familiarization aids, such as audiovisual aids ...................................................................... 10 _____ 
+First officer to fly night or IMC approaches and the captain to 
+monitor the approach ........................................................................................................... ...... 20 _____ 
+Jump-seat pilot (or engineer or mechanic) to help monitor terrain clearance  
+and the approach in IMC or night conditions ............................................................................ 20 _____  
+Insisting that you fly the way that you train ..................................................................................... 25 __ ___ 
+300-335 points  Tops in CFIT flight standards 
+270-300 points  Good, but not the best  Flight Standards Total (+)_____ 
+200-270 points Improvement needed 
+Less than 200 High CFIT risk 
+Section 3 - Hazard Awareness and Training Value Score 
+Your company reviews training with the training department or training contractor ...................... 10 _____ 
+Your company’s pilots are reviewed annually about the following: 
+Flight standards operating procedures ....................................................................................... 20 _____ 
+Reasons for and examples of how the procedures can detect a CFIT “trap”............................. 30 _____ 
+Recent and past CFIT incidents/accidents................................................................................. 50 ___ __ 
+Audiovisual aids to illustrate CFIT traps................................................................................... 50 _____ 
+Minimum altitude definitions for MORA, MOCA, MSA, MEA, etc........................................ 15 _____ 
+You have a trained flight safety officer who rides the jump seat occasionally ................................ 25 _____ 
+You have flight safety periodicals that describe and analyze CFIT incidents.................................. 10 _____ 
+You have an incident/exceedance review and reporting program.................................................... 20 _____ 
+Your organization investigates every instance in which minimum  
+terrain clearance has been compromised .................................................................................. 20 _____ 
+ Page 3
+
+
+========================================
+<<<PDF_PAGE:14>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+Appendix 1 
+APPENDIX 1.  CFIT CHECKLIST – Continued 
+You annually practice recoveries with GPWS in the simulator ............................................... 40 _____ 
+You train the way that you fly ...................................................................................................25 ____ _ 
+285-315 points Tops in CFIT training 
+250-285 points Good, but not the best Hazard Awareness and Training Total (+)_____ 
+190-250 points Improvement needed 
+Less than 190 High CFIT risk 
+Section 4 – Aircraft Equipment Value Score 
+Radio altimeter with cockpit display of full 2,500-foot range - captain only................................... 20 _____ 
+Radio altimeter with cockpit display of full 2,500-foot range - copilot ........................................... 10 _____ 
+First-generation GPWS .......................................................................................................... .......... 20 _____ 
+Second-generation GPWS or better.................................................................................................. 30 __ ___ 
+GPWS with all approved modifications, data tables and service 
+bulletins to reduce false warnings..............................................................................................10 __ ___ 
+Navigation display and FMS ..................................................................................................... ....... 10 _____ 
+Limited number of automated altitude callouts................................................................................ 10 __ ___ 
+Radio-altitude automated callouts for nonprecision 
+approach (not heard on ILS approach) and procedure............................................................... 10 _____ 
+Preselected radio altitudes to provide automated callouts that 
+would not be heard during normal nonprecision approach........................................................ 10 _____ 
+Barometric altitudes and radio altitudes to give automated 
+“decision” or “minimums” callouts ........................................................................................... 10 _____ 
+An automated excessive “bank angle” callout.................................................................................. 10 __ ___ 
+Auto flight/vertical speed mode ................................................................................................ ...... -10 _____ 
+Auto flight/vertical speed mode with no GPWS ............................................................................. -20 _____ 
+GPS or other long-range navigation equipment to supplement 
+NDB-only approach.............................................................................................................. ..... 15 _____ 
+Terrain-navigation display..................................................................................................... ........... 20 _____ 
+Ground-mapping radar. .......................................................................................................... .......... 10 _____  
+175-195 points Excellent equipment to minimize CFIT risk 
+155-175 points Good, but not the best Aircraft Equipment Total (+)_____* 
+115-155 points Improvement needed 
+Less than 115 High CFIT risk 
+Company Culture ______ + Flight Standards ______ + Hazard Awareness and Training ______ 
++Aircraft Equipment = CFIT Risk-reduction Factors Total (+)________ 
+*If any section in Part II scores less than “Good,” a thorough review is warranted  
+of that aspect of the company's operation. 
+Part III: Your CFIT Risk 
+Part I CFIT Risk Factors Total (-)______+ Part II CFIT Risk-reduction Factors Total (+)_____ 
+= CFIT Risk Score (±)______ 
+A negative CFIT Risk Score indicates a significant threat; review the sections in Part II and 
+determine what changes and improvements can be made to reduce CFIT risk. 
+In the intere st of aviation safety, this chec klist may be r eprinted in whole or in part,  but credit must be given to  Flight 
+Safety Foundation. To reque st more infor mation or to offer co mments about the F SF CFIT Checklist, contact  Ja mes 
+M.. Burin, director of technical progra ms, Flight Safe ty Foundation, 601 Madi son Street, Suite 300, Alexandria , VA  
+22314 U.S., Telephone: +1 (703) 739-6700 • Fax: +1 (703) 739-6708. 
+FSF CFIT Checklist © 1994 Flight Safety Foundation 
+ Page 4
+
+
+========================================
+<<<PDF_PAGE:15>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+  Appendix 2 
+APPENDIX 2.  AERONAUTICAL INFORMATION MANUAL, EXCERPTS  
+Excerpts from the Aeronautical Information Manual are reprinted below.  They contain information that 
+GA pilots should be aware of when operating at low altitude.  
+[Some additional editorial comments have been added to a few paragraphs to highlight certain CFIT 
+risks or possible operating methods to reduce such risks.  Aviation will always have an element of risk.  A 
+knowledgeable pilot will try to reduce these risks to an acceptable level.  These additional comments are 
+in italic and identified as AC Comments.] 
+7-5-3, OBSTRUCTIONS TO FLIGHT. 
+a.  General.  Many structures exist that could significantly affect the safety of your flight when 
+operating below 500 feet AGL, and particularly below 200 feet AGL.  While 14 CFR Part 91.119 allows 
+flight below 500 AGL when over sparsely populated areas or open water, such operations are very 
+dangerous.  At and below 200 feet AGL there are numerous power lines, antenna towers, etc., that are not 
+marked and lighted as obstructions and therefore may not be seen in time to avoid a collision.  Notices to 
+Airmen (NOTAM) are issued on those lighted structures experiencing temporary light outages.  However, 
+some time may pass before the FAA is notified of these outages, and a NOTAM issued, thus pilot 
+vigilance is imperative. 
+b.  Antenna Towers.  Extreme caution should be exercised when flying less than 2,000 feet AGL 
+because of numerous skeletal structures, such as radio and television antenna towers, that exceed 
+1,000 feet AGL with some extending higher than 2,000 feet AGL.  Most skeletal structures are supported 
+by guy wires which are very difficult to see in good weather and can be invisible at dusk or during periods 
+of reduced visibility.  These wires can extend about 1,500 feet horizontally from a structure; therefore, all 
+skeletal structures should be avoided horizontally by at least 2,000 feet.  Additionally, new towers may 
+not be on your current chart because the information was not received prior to the printing of the chart.   
+[Every pilot must remember that not every tower has to be published on aeronautical charts. Chart 
+clutter may limit the printing of some towers. Other towers are not required to be listed because they are 
+not tall enough. A builder may simply not report a new tower. Equally dangerous is a new tower's 
+position may be wrong. Because of these factors, pilots are cautioned to be particularly careful when 
+operating at low altitude. The "see and avoid" rule becomes critical close to the ground. A lesson taken 
+from the helicopter community is to fly overhead at a safe altitude and check the area for towers and 
+hazards before descending to a lower altitude where a CFIT accident is likely to occur.] 
+[AC Comment: In some cases, the information is published in the next Airport/Facility Directory's 
+Aeronautical Chart Bulletin section, but the pilot fails to make the necessary corrections to the chart.]  
+c.  Overhead Wires.  Overhead transmission and utility lines often span approaches to runways, 
+natural flyways such as lakes, rivers, gorges, and canyons, and cross other landmarks pilots frequently 
+follow such as highways, railroad tracks, etc.  As with antenna towers, these high voltage/power lines or 
+the supporting structures of these lines may not always be readily visible and the wires may be virtually 
+impossible to see under certain conditions.  In some locations, the supporting structures of overhead 
+transmission lines are equipped with unique sequence flashing white strobe light systems to indicate that 
+there are wires between the structures.  However, many power lines do not require notice to the FAA and, 
+therefore, are not marked and/or lighted.  Many of those that do require notice do not exceed 200 feet 
+AGL or meet the Obstruction Standard of 14 CFR Part 77 and, therefore, are not marked and/or lighted.  
+ Page 1
+
+
+========================================
+<<<PDF_PAGE:16>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+Appendix 2 
+All pilots are cautioned to remain extremely vigilant for these power lines or their supporting structures 
+when following natural flyways or during the approach and landing phase.  This is particularly important 
+for seaplane and/or float equipped aircraft when landing on, or departing from, unfamiliar lakes or rivers.  
+d.  Other Objects/Structures.  There are other objects or structures that could adversely affect your 
+flight such as construction cranes near an airport, newly constructed buildings, new towers, etc.  Many of 
+these structures do not meet charting requirements or may not yet be charted because of the charting 
+cycle.  Some structures do not require obstruction marking and/or lighting and some may not be marked 
+and lighted even though the FAA recommended it.  
+7-5-4.  AVOID FLIGHT BENEATH UNMANNED BALLOONS.  
+a.  The majority of unmanned free balloons currently being operated have, extending below them, 
+either a suspension device to which the payload or instrument package is attached, or a trailing wire 
+antenna, or both.  In many instances, these balloon subsystems may be invisible to the pilot until the 
+aircraft is close to the balloon, thereby creating a potentially dangerous situation.  Therefore, good 
+judgment on the part of the pilot dictates that aircraft should remain well clear of all unmanned free 
+balloons and flight below them should be avoided at all times.  
+b.  Pilots are urged to report any unmanned free balloons sighted to the nearest FAA ground facility 
+with which communication is established.  Such information will assist FAA ATC facilities to identify 
+and flight follow unmanned free balloons operating in the airspace.  
+[AC Comment: In addition to unmanned free balloons, the U.S. Government operates unmarked balloons 
+thousands of feet into the sky tethered to cables.  These balloons are contained in published restricted 
+areas.  Located primarily along the southern U.S. border, pilots are advised to check their charts for the 
+location of these unmarked tethered balloons when flying through areas they are not familiar with.  These 
+balloons may be at an altitude of more than 10,000 feet AGL.] 
+7-5-5.  MOUNTAIN FLYING.  
+a.  Your first experience of flying over mountainous terrain (particularly if most of your flight time 
+has been over the flatlands of the Midwest) could be a never-to-be-forgotten nightmare if proper planning 
+is not done and if you are not aware of the potential hazards awaiting.  Those familiar section lines are not 
+present in the mountains; those flat, level fields for forced landings are practically nonexistent; abrupt 
+changes in wind direction and velocity occur; severe updrafts and downdrafts are common, particularly 
+near or above abrupt changes of terrain such as cliffs or rugged areas; even the clouds look different and 
+can build up with startling rapidity.  Mountain flying need not be hazardous if you follow the 
+recommendations below.   
+[AC Comment: As in all types of new flying, you should find a qualified and currently certificated flight 
+instructor for a local area checkout.]   
+b.  File a flight plan.  Plan your route to avoid topography which would prevent a safe forced landing.  
+The route should be over populated areas and well-known mountain passes.  Sufficient altitude should be 
+maintained to permit gliding to a safe landing in the event of engine failure.  
+c.  Don't fly a light aircraft when the winds aloft, at your proposed altitude, exceed 35 miles per hour.  
+Expect the winds to be of much greater velocity over mountain passes than reported a few miles from 
+them.  Approach mountain passes with as much altitude as possible.  Downdrafts of from 1,500 to 
+2,000 feet per minute are not uncommon on the leeward side.  
+ Page 2
+
+
+========================================
+<<<PDF_PAGE:17>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+4/1/03  AC 61-134 
+  Appendix 2 
+d.  Don't fly near or above abrupt changes in terrain.  Severe turbulence can be expected, especially in 
+high wind conditions.  
+e.  Some canyons run into a dead end.  Don't fly so far up a canyon that you get trapped.  ALWAYS 
+BE ABLE TO MAKE A 180 DEGREE TURN!  
+f.  VFR flight operations may be conducted at night in mountainous terrain with the application of 
+sound judgment and common sense.  Proper pre-flight planning, giving ample consideration to winds and 
+weather, knowledge of the terrain and pilot experience in mountain flying are prerequisites for safety of 
+flight.  Continuous visual contact with the surface and obstructions is a major concern and flight 
+operations under an overcast or in the vicinity of clouds should be approached with extreme caution.  
+g.  When landing at a high altitude field, the same indicated airspeed should be used as at low 
+elevation fields.  Remember: that due to the less dense air at altitude, this same indicated airspeed actually 
+results in higher true airspeed, a faster landing speed, and more important, a longer landing distance.  
+During gusty wind conditions which often prevail at high altitude fields, a power approach and power 
+landing is recommended.  Additionally, due to the faster groundspeed, your takeoff distance will increase 
+considerably over that required at low altitudes. 
+h.  Effects of Density Altitude.  Performance figures in the aircraft owner's handbook for length of 
+takeoff run, horsepower, rate of climb, etc., are generally based on standard atmosphere conditions 
+(59 degrees Fahrenheit (15 degrees Celsius), pressure 29.92 inches of mercury) at sea level.  However, 
+inexperienced pilots, as well as experienced pilots, may run into trouble when they encounter an 
+altogether different set of conditions.  This is particularly true in hot weather and at higher elevations.  
+Aircraft operations at altitudes above sea level and at higher than standard temperatures are commonplace 
+in mountainous areas.  Such operations quite often result in a drastic reduction of aircraft performance 
+capabilities because of the changing air density.  Density altitude is a measure of air density.  It is not to 
+be confused with pressure altitude, true altitude, or absolute altitude.  It is not to be used as a height 
+reference, but as a determining criteria in the performance capability of an aircraft.  Air density decreases 
+with altitude.  As air density decreases, density altitude increases.  The further effects of high temperature 
+and high humidity are cumulative, resulting in an increasing high-density altitude condition.  High-
+density altitude reduces all aircraft performance parameters.  To the pilot, this means that the normal 
+horsepower output is reduced, propeller efficiency is reduced and a higher true airspeed is required to 
+sustain the aircraft throughout its operating parameters.  It means an increase in runway length 
+requirements for takeoff and landings, and decreased rate of climb.  An average small airplane, for 
+example, requiring 1,000 feet for takeoff at sea level under standard atmospheric conditions will require a 
+takeoff run of approximately 2,000 feet at an operational altitude of 5,000 feet. 
+NOTE:  A turbo-charged aircraft engine provides some slight advantage in that it 
+provides sea level horsepower up to a specified altitude above sea level.   
+[AC Comment: A turbo-charged aircraft can provide a significant operating advantage if operated within 
+its approved limitations.  In some cases, a turbo-charged, high performance aircraft may be the only safe 
+way to fly into and out of some mountain landing areas.]   
+(1)  Density Altitude Advisories.  At airports with elevations of 2,000 feet and higher, control 
+towers and FSSs will broadcast the advisory "Check Density Altitude" when the temperature reaches a 
+predetermined level.  These advisories will be broadcast on appropriate tower frequencies or, where 
+available, ATIS.  FSSs will broadcast these advisories as a part of Local Airport Advisory, and on TWEB. 
+ Page 3
+
+
+========================================
+<<<PDF_PAGE:18>>>
+<<<SOURCE_FILE:ac61-134.pdf>>>
+========================================
+
+AC 61-134  4/1/03 
+Appendix 2 
+ Page 4
+(2)  These advisories are provided by air traffic facilities, as a reminder to pilots that high 
+temperatures and high field elevations will cause significant changes in aircraft characteristics.  The pilot 
+retains the responsibility to compute density altitude, when appropriate, as a part of preflight duties.  
+NOTE:  All FSSs will compute the current density altitude upon request.
