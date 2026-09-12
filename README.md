@@ -230,3 +230,9 @@ python sync_knowledge.py
 Work on Private Lesson 5. Aerodynamics, Slow Flight and Stalls
 
 Follow the Flight Guide lesson-authoring docs. Start with source alignment, inspect the adjacent approved lessons for continuity and house style, and do not generate the final lesson.md until I approve it.
+
+
+## Steps to start mcp FLIGHT GUIDE server
+1. cd /d "C:\Users\bhigh\OneDrive\02. PROJECTS\04. CODING\2026_CFI_Syllabus_Lessons"
+2. .venv-mcp\python.exe mcp\server.py
+3. in vs code: CTRL+SHIFT+P --> MCP: List Servers --> Start

@@ -311,3 +311,10 @@ ACS-organized lesson plans designed for CFI oral / practical preparation and tea
 ACS-organized study guides unless another format is explicitly established.
 
 The same aviation subject may appear in more than one product for a different purpose. That is intentional.
+
+
+
+## activate mcp 
+1. .venv-mcp\Scripts\activate
+2. .venv-mcp\python.exe mcp\server.py
+3. in vs code start the server CTRL+SHIFT+P -> MCP: List Servers -> if stopped, start

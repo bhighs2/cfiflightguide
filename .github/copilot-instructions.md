@@ -23,6 +23,10 @@ Follow this workflow:
 
 Preserve the existing Flight Guide Markdown syntax and lesson architecture.
 
+## Markdown List Nesting
+
+**HARD, always:** Indent every sub-bullet with **four spaces for each nesting level**. Never use two-space indentation for child bullets; the Flight Guide Markdown renderer treats two-space bullets as top-level siblings. After editing nested lists, verify that child bullets render as nested `<ul>` elements rather than flat sibling `<li>` elements.
+
 ## CFI ACS Lesson Authoring
 
 When creating or modifying CFI ACS lesson files under:

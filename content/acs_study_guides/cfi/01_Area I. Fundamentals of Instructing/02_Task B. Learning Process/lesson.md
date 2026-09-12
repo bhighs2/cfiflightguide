@@ -117,17 +117,24 @@ The applicant can explain and apply the learning-process elements in this Task, 
 
 ## Memory Aids
 
-[[mnemonic: REEPIR | Readiness · Exercise · Effect · Primacy · Intensity · Recency — the laws of learning.]]
-
-[[mnemonic: C-A-P | Cognitive · Affective · Psychomotor — knowledge, attitudes, and physical skill.]]
-
 [[mnemonic: Tune the Method, Not the Standard | Change the explanation, practice, feedback, or scenario to improve learning; preserve the required standard.]]
 
 # Teach
 
 ## FI.I.B.K1 — Definitions of Learning
 
-Learning is a relatively permanent change in behavior, cognition, knowledge, skill, or attitude that results from study, teaching, experience, or practice. The effective instructor understands the subject, learner, learning process, and their interrelationships.
+- **Learning:** A relatively permanent change in behavior, cognition, knowledge, skill, or attitude that results from study, teaching, experience, or practice.
+
+[[mnemonic:
+AMAP |
+A change in behavior · Multifaceted · Active Process · Purposeful
+]]
+
+- **Instructor application:** The effective instructor understands:
+    - **The subject.**
+    - **The learner.**
+    - **The learning process.**
+    - **Their interrelationships.**
 
 **Source:**
 
@@ -137,16 +144,28 @@ Learning is a relatively permanent change in behavior, cognition, knowledge, ski
 
 ### FI.I.B.K2a — Behaviorism
 
-Behaviorism explains behavior through observable and measurable responses to stimuli. In aviation training, the instructor provides reinforcement to shape the behavior being learned.
+- **Behaviorism:** Explains behavior through **observable and measurable responses to stimuli**.
+- **Pavlov's dog:** Pavlov repeatedly paired a metronome with food until the sound alone produced the learned response.
+- **Operant-conditioning aviation example:** Immediate, specific praise after a coordinated turn provides a positive consequence that reinforces correct control use.
+- **Instructor application:** Provide reinforcement to shape the behavior being learned.
 
 ### FI.I.B.K2b — Cognitive Theory
 
-Cognitive theory concerns thinking, knowing, perceiving, problem-solving, decision-making, awareness, and other mental activity. It treats learning as a change in how the learner thinks, understands, or feels. New knowledge is best connected to existing knowledge, and learners actively construct meaning from experience.
+- **Cognitive theory:** Concerns thinking, knowing, perceiving, problem-solving, decision-making, awareness, and other mental activity.
 
-<figure class="lesson-reference-figure">
-    <img src="/knowledge/Learning_Theories.png" alt="Learning theories" loading="lazy">
-    <figcaption>Learning Theories</figcaption>
-</figure>
+[[mnemonic:
+RIC |
+Reflective thought theory · Information processing theory · Constructivism theory
+]]
+
+- **Reflective thought theory:** Learners connect one experience to the next.
+    - **Aviation example:** After a bounced landing, the learner reflects on the sequence, connects it to the preceding unstable-approach cues, and identifies what to change next time.
+- **Information processing theory:** Learners encode, store, and retrieve information.
+    - **Aviation example:** The learner encodes an ATC clearance by grouping it into route, altitude, and frequency information, then retrieves those groups during readback.
+- **Constructivism theory:** Learners build new knowledge from prior experience.
+    - **Aviation example:** The learner uses an existing understanding of slow-flight control relationships to construct an understanding of short-field approach control.
+- **Learning change:** A change in how the learner **thinks, understands, or feels**.
+- **Knowledge construction:** New knowledge connects to existing knowledge, and learners actively construct meaning from experience.
 
 **Source:**
 
@@ -154,7 +173,25 @@ Cognitive theory concerns thinking, knowing, perceiving, problem-solving, decisi
 
 ## FI.I.B.K3 — Perceptions and Insight
 
-Perception begins with information from the senses and includes giving that information meaning. Physical condition, goals and values, self-concept, time and opportunity, and threat affect perception. Insight is the grouping of perceptions into meaningful wholes. The instructor develops insight by showing how the pieces of a task relate to each other and by providing a secure environment for learning.
+- **Perception — the basis of all learning:**
+    - Begins with information from the senses.
+    - Includes giving that information meaning.
+- **Factors affecting perception:**
+    - **Goals and values.**
+    - **Self-concept.**
+    - **Time and opportunity.**
+    - **Element of threat.**
+    - **Physical organism.**
+
+[[mnemonic:
+G STEP |
+Goals and values · Self-concept · Time and opportunity · Element of threat · Physical organism
+]]
+
+- **Insight:**
+    - Groups perceptions into meaningful wholes.
+    - Develops when the instructor shows how the pieces of a task relate to each other.
+    - Requires a secure environment for learning.
 
 **Source:**
 
@@ -162,12 +199,16 @@ Perception begins with information from the senses and includes giving that info
 
 ## FI.I.B.K4 — Acquiring Knowledge
 
-Knowledge is information a person is consciously aware of and can state. Learners progress through memorization, understanding, and application. Memorization starts learning; understanding organizes facts into a useful mental model; application uses that understanding to solve problems in a new situation.
+- **Knowledge:** Information a person is consciously aware of and can state.
 
-<figure class="lesson-reference-figure">
-  <img src="/knowledge/Basic_Levels_Learning.png" alt="Basic levels of learning" loading="lazy">
-  <figcaption>Basic Levels of Learning</figcaption>
-</figure>
+[[mnemonic:
+MUA |
+Memorization · Understanding · Application
+]]
+
+- **Memorization:** Starts learning.
+- **Understanding:** Organizes facts into a useful mental model.
+- **Application:** Uses understanding to solve problems in a new situation.
 
 [[highlight:
 Flight Guide Instructor Principle |
@@ -180,7 +221,17 @@ Confirm more than recall. Ask the learner to explain the relationship, then appl
 
 ## FI.I.B.K5 — Laws of Learning
 
-The laws of learning are readiness, exercise, effect, primacy, intensity, and recency. They support planning instruction around learner readiness, correct early learning, meaningful practice, direct experience, satisfying results, and timely review.
+[[mnemonic:
+REEPIR |
+Readiness · Exercise · Effect · Primacy · Intensity · Recency
+]]
+
+- **Readiness:** Plan instruction around learner readiness.
+- **Exercise:** Provide meaningful practice.
+- **Effect:** Build satisfying results.
+- **Primacy:** Establish correct early learning.
+- **Intensity:** Use direct, vivid experience.
+- **Recency:** Provide timely review.
 
 **Source:**
 
@@ -188,27 +239,46 @@ The laws of learning are readiness, exercise, effect, primacy, intensity, and re
 
 ## FI.I.B.K6 — Domains of Learning
 
+[[mnemonic:
+CAP |
+Cognitive · Affective · Psychomotor
+]]
+
 ### FI.I.B.K6a — Cognitive
 
-The cognitive domain concerns knowledge and intellectual skills. Its levels progress from knowledge and comprehension to application, analysis, synthesis, and evaluation.
+- **Cognitive domain:** Concerns knowledge and intellectual skills.
+
+[[mnemonic:
+RUAC |
+Rote · Understand · Application · Correlation
+]]
+
+- **Progression:** Moves from knowledge and comprehension to application, analysis, synthesis, and evaluation.
+- **Aviation example:** **Rote:** states that load factor increases stall speed; **understanding:** explains why; **application:** predicts the effect in a steep turn; **correlation:** relates it to accelerated-stall risk during maneuvering flight.
 
 ### FI.I.B.K6b — Affective
 
-The affective domain concerns attitudes, beliefs, and values. Aviation instruction influences attitudes toward safety, judgment, and risk management.
+- **Affective domain:** Concerns attitudes, beliefs, and values.
+
+[[mnemonic:
+ARVOI |
+Awareness · Response · Value · Organize · Integrate
+]]
+
+- **Instructor application:** Aviation instruction influences attitudes toward safety, judgment, and risk management.
+- **Aviation example:** **Awareness:** notices stabilized-approach criteria; **response:** calls out a deviation; **value:** chooses a go-around; **organize:** places safety above completing the landing; **integrate:** consistently applies that priority without prompting.
 
 ### FI.I.B.K6c — Psychomotor
 
-The psychomotor domain concerns physical skills and coordinated performance. Flight maneuvers and procedures require practice to develop reliable performance.
+- **Psychomotor domain:** Concerns physical skills and coordinated performance.
 
-<figure class="lesson-reference-figure">
-  <img src="/knowledge/Three_Learning_Domains.png" alt="Three learning domains" loading="lazy">
-  <figcaption>Three Learning Domains</figcaption>
-</figure>
+[[mnemonic:
+OIPH |
+Observe · Imitate · Practice · Habit
+]]
 
-<figure class="lesson-reference-figure">
-  <img src="/knowledge/Three_Domains_Action_Verbs.png" alt="Action verbs for learning domains" loading="lazy">
-  <figcaption>Three Domains — Action Verbs</figcaption>
-</figure>
+- **Instructor application:** Flight maneuvers and procedures require practice to develop reliable performance.
+- **Aviation example:** **Observe:** watches a coordinated turn; **imitate:** copies it under supervision; **practice:** repeats it with correction; **habit:** coordinates turns smoothly without deliberate step-by-step control inputs.
 
 **Source:**
 
@@ -216,12 +286,23 @@ The psychomotor domain concerns physical skills and coordinated performance. Fli
 
 ## FI.I.B.K7 — Characteristics of Learning
 
-Learning is purposeful, results from experience, is multifaceted, and is active. Learners need opportunities to participate, apply information, and build relationships between new and prior knowledge.
+[[mnemonic:
+RAMP |
+Result of experience · Active process · Multifaceted · Purposeful
+]]
 
-<figure class="lesson-reference-figure">
-  <img src="/knowledge/Characteristics_Learning.png" alt="Characteristics of learning" loading="lazy">
-  <figcaption>Characteristics of Learning</figcaption>
-</figure>
+- **Result of experience:** Learning develops through experience.
+    - **Aviation example:** Repeated landings develop visual judgment that cannot come from reading alone.
+- **Active process:** Learners need opportunities to participate and apply information.
+    - **Aviation example:** The learner plans and flies the traffic pattern instead of only watching a demonstration.
+- **Multifaceted:** Learning involves more than one type of change.
+    - **Aviation example:** A landing combines knowledge, judgment, visual perception, attitude, and motor skill.
+- **Purposeful:** Learning connects new and prior knowledge toward a goal.
+    - **Aviation example:** Precise airspeed control becomes meaningful when connected to consistent short-field landings.
+- **Instructional inputs:**
+    - **Visual:** Runway perspective and outside references.
+    - **Auditory:** Instructor explanations, radio calls, and engine sound.
+    - **Kinesthetic:** Control pressure, acceleration, and aircraft response.
 
 **Source:**
 
@@ -229,7 +310,19 @@ Learning is purposeful, results from experience, is multifaceted, and is active.
 
 ## FI.I.B.K8 — Scenario-Based Training (SBT)
 
-SBT uses structured real-world scenarios to address training objectives in an operational environment. It connects new information to previous knowledge and gives learners realistic decision-making opportunities. A good scenario has clear objectives, is tailored to the learner, and uses the local environment. The learner plans and leads the scenario as skills permit.
+- **Purpose:** Uses structured real-world scenarios to address training objectives in an operational environment.
+- **Learning connection:** Connects new information to previous knowledge and gives learners realistic decision-making opportunities.
+
+[[mnemonic:
+CTE |
+Clear objective · Tailored to each learner · Environmental factors
+]]
+
+- **Effective scenario:**
+    - **Clear objective:** Recognize an unstable approach and decide whether to go around.
+    - **Tailored to each learner:** Discuss the decision on the ground before requiring it in flight.
+    - **Environmental factors:** Use local wind, traffic, runway, and airport conditions.
+- **Learner role:** The learner plans and leads the scenario as skills permit.
 
 [[highlight:
 Flight Guide Instructor Principle |
@@ -244,19 +337,43 @@ Use a scenario only after its underlying knowledge and individual skills are dev
 
 ### FI.I.B.K9a — Stages
 
-Skill progresses from a cognitive stage of deliberate, awkward performance, to an associative stage that links steps to results, and then to automatic response, when performance becomes smoother and needs less deliberate attention.
+[[mnemonic:
+C.A.AR. |
+Cognitive stage · Associative Stage · Automatic Response Stage
+]]
+
+- **Cognitive stage:** Performance is deliberate and awkward.
+    - **Aviation example:** The learner talks through each step of a steep-turn entry and makes abrupt corrections.
+- **Associative stage:** The learner links steps to results.
+    - **Aviation example:** The learner recognizes altitude loss and corrects before instructor prompting.
+- **Automatic response stage:** Performance becomes smoother and requires less deliberate attention.
+    - **Aviation example:** The learner maintains the turn while scanning and communicating.
 
 ### FI.I.B.K9b — Knowledge of Results
 
-Learners should learn whether performance is correct or incorrect as soon as possible after the performance. The instructor shows the standards the performance is intended to meet and prevents repeated practice of mistakes.
+- **Prompt feedback:** Learners should know whether performance is correct or incorrect as soon as possible.
+- **Aviation example:** Immediately after the steep turn, the instructor states, “Altitude decreased because pitch support was added late,” linking the observed result to its cause.
+- **Instructor responsibility:**
+    - Show the standards the performance is intended to meet.
+    - Prevent repeated practice of mistakes.
 
 ### FI.I.B.K9c — How to Develop Skills
 
-Repeated practice develops skill. Early trials are slow and errors are frequent, but each trial gives information for improvement. The instructor monitors practice and provides immediate feedback.
+- **Repeated practice:** Develops skill.
+- **Early trials:** Are slow and include frequent errors.
+- **Each trial:** Provides information for improvement.
+- **Instructor responsibility:** Monitor practice and provide immediate feedback.
+- **Aviation example:** The learner repeatedly practices steep-turn rollout timing, uses each result to adjust the next attempt, and then reintegrates the corrected timing into the complete maneuver.
 
 ### FI.I.B.K9d — Learning Plateaus
 
-A plateau is normal after early improvement and does not mean learning has stopped. Explain that it is temporary, avoid over-practice, and consider a break, another curriculum element, or a clearer explanation of the lesson and its purpose.
+- **Learning plateau:** A normal period after early improvement that does not mean learning has stopped.
+- **Instructor response:**
+    - Explain that the plateau is temporary.
+    - Avoid over-practice.
+    - Consider a break or another curriculum element.
+    - Clarify the lesson and its purpose.
+- **Aviation example:** When landing improvement levels off despite continued effort, explain that the plateau is normal, move briefly to another task, and return after a break.
 
 **Source:**
 
@@ -264,7 +381,14 @@ A plateau is normal after early improvement and does not mean learning has stopp
 
 ## FI.I.B.K10 — Types of Practice
 
-Deliberate practice targets a specific goal and discrepancy with brief, explicit feedback. Blocked practice repeats the same drill and improves current performance but can weaken long-term retention. Random practice mixes skills and improves retention by requiring long-term-memory retrieval and recognition of patterns between tasks.
+[[mnemonic:
+DBR |
+Deliberate · Blocked · Random
+]]
+
+- **Deliberate practice:** Targets a specific goal and discrepancy with brief, explicit feedback.
+- **Blocked practice:** Repeats the same drill and improves current performance but can weaken long-term retention.
+- **Random practice:** Mixes skills and improves retention by requiring long-term-memory retrieval and recognition of patterns between tasks.
 
 **Source:**
 
@@ -272,7 +396,13 @@ Deliberate practice targets a specific goal and discrepancy with brief, explicit
 
 ## FI.I.B.K11 — Evaluation Versus Critique
 
-Early evaluation checks teaching effectiveness and identifies learner strengths and weaknesses. During skill acquisition, practical suggestions and constructive critique are more useful than a grade. Learner self-critique supports learner-centered training.
+- **Evaluation:**
+    - Checks teaching effectiveness.
+    - Identifies learner strengths and weaknesses.
+- **Critique:**
+    - Provides practical suggestions during skill acquisition.
+    - Is more useful than a grade while the learner is developing skill.
+- **Learner self-critique:** Supports learner-centered training.
 
 **Source:**
 
@@ -280,7 +410,13 @@ Early evaluation checks teaching effectiveness and identifies learner strengths 
 
 ## FI.I.B.K12 — Distractions, Interruptions, Fixation, and Inattention
 
-A distraction momentarily diverts attention. An interruption causes the learner to suspend one task to complete another. Fixation absorbs the learner in one task while other tasks deteriorate. Inattention is failure to attend to an important task. Before combining tasks, ensure each individual skill is reasonably practiced; then provide opportunities to practice managing distractions and interruptions.
+- **Distraction:** Momentarily diverts attention.
+- **Interruption:** Causes the learner to suspend one task to complete another.
+- **Fixation:** Absorbs the learner in one task while other tasks deteriorate.
+- **Inattention:** Failure to attend to an important task.
+- **Before combining tasks:**
+    - Ensure each individual skill is reasonably practiced.
+    - Provide opportunities to practice managing distractions and interruptions.
 
 [[highlight:
 Flight Guide Instructor Principle |
@@ -293,7 +429,22 @@ Build workload deliberately: establish individual skill first, add one realistic
 
 ## FI.I.B.K13 — Errors
 
-Errors are a natural part of human performance. A slip is an error of action: the learner intended one action but inadvertently did another. A mistake is an error of thought: the learner planned the wrong action. Reduce error through learning and practice, deliberate pace, active checking, reminders, standard routines, awareness of error-prone conditions, and practice recovering from common errors.
+- **Errors:** A natural part of human performance.
+- **Slip — error of action:** The learner intended one action but inadvertently did another.
+- **Mistake — error of thought:** The learner planned the wrong action.
+
+[[mnemonic:
+CULT DR |
+Checking · Using tools · Learning and practice · Taking your time · Developing routines · Raising awareness
+]]
+
+- **Reduce error through:**
+    - **Checking.**
+    - **Using tools and reminders.**
+    - **Learning and practice.**
+    - **Taking your time.**
+    - **Developing standard routines.**
+    - **Raising awareness of error-prone conditions.**
 
 **Source:**
 
@@ -303,24 +454,42 @@ Errors are a natural part of human performance. A slip is an error of action: th
 
 ### FI.I.B.K14a — Sensory Memory
 
-Sensory memory receives initial stimuli, selects what is relevant, and passes that information to short-term memory within seconds.
+- **Sensory memory:**
+    - Receives initial stimuli.
+    - Selects what is relevant.
+    - Passes information to short-term memory within seconds.
 
 ### FI.I.B.K14b — Short-Term Memory (STM) and Long-Term Memory (LTM)
 
-STM holds information for immediate use, has limited duration and capacity, and benefits from rehearsal and chunking. LTM stores information relatively permanently; meaningful connections and repetition improve retrieval.
+- **Short-Term Memory (STM):**
+    - Holds information for immediate use.
+    - Has limited duration and capacity.
+    - Benefits from rehearsal and chunking.
+- **Long-Term Memory (LTM):**
+    - Stores information relatively permanently.
+    - Benefits from meaningful connections and repetition.
 
 ### FI.I.B.K14c — How Usage Affects Memory
 
-Retrieval depends largely on frequency and recency of use. Knowledge used frequently and recently is retrieved most easily.
+- **Frequency:** Repeated use improves retrieval.
+- **Recency:** Recent use improves retrieval.
+- **Best retrieval:** Knowledge used both frequently and recently is retrieved most easily.
 
 ### FI.I.B.K14d — Forgetting
 
-Forgetting is commonly a failure to retrieve information. The handbook identifies retrieval failure, fading, interference, and repression or suppression as explanations for forgetting.
+- **Forgetting:** Commonly a failure to retrieve information.
 
-<figure class="lesson-reference-figure">
-  <img src="/knowledge/Memory_Systems.png" alt="Memory systems" loading="lazy">
-  <figcaption>Memory Systems</figcaption>
-</figure>
+[[mnemonic:
+FIRRS |
+Fading · Interference · Retrieval failure · Repression · Suppression
+]]
+
+- **Explanations for forgetting:**
+    - **Fading.**
+    - **Interference.**
+    - **Retrieval failure.**
+    - **Repression.**
+    - **Suppression.**
 
 **Source:**
 
@@ -328,7 +497,19 @@ Forgetting is commonly a failure to retrieve information. The handbook identifie
 
 ## FI.I.B.K15 — Retention of Learning
 
-Retention improves when instruction is thorough and meaningful, responses are reinforced, information is associated with other knowledge, attitudes are favorable, more than one sense is used, and repetition is meaningful. Mnemonics are encoding strategies that connect new information to what the learner already knows.
+[[mnemonic:
+MALAMP |
+Meaningful repetition · Association · Learning with all senses · Attitude · Awareness · Praise
+]]
+
+- **Retention improves through:**
+    - **Meaningful repetition.**
+    - **Association** with other knowledge.
+    - **Learning with all senses.**
+    - **Attitude** that is favorable to learning.
+    - **Awareness** of the information being learned.
+    - **Praise** and reinforcement of correct responses.
+- **Mnemonics:** Encoding strategies that connect new information to what the learner already knows.
 
 **Source:**
 
@@ -336,7 +517,14 @@ Retention improves when instruction is thorough and meaningful, responses are re
 
 ## FI.I.B.K16 — Transfer of Learning
 
-Transfer is the ability to apply knowledge or procedures learned in one context to another. Positive transfer occurs when one skill helps the learner acquire another; negative transfer occurs when earlier learning hinders a new skill. Plan material in meaningful sequence, maintain high-order learning standards, avoid unnecessary rote learning, and give learners opportunities to apply knowledge in varied situations.
+- **Transfer:** The ability to apply knowledge or procedures learned in one context to another.
+- **Positive transfer:** Learning one skill **aids** the learner in acquiring another.
+- **Negative transfer:** Earlier learning **hinders** the acquisition of a new skill.
+- **Instructor actions:**
+    - Plan material in meaningful sequence.
+    - Maintain higher-order learning standards.
+    - Avoid unnecessary rote learning.
+    - Provide opportunities to apply knowledge in varied situations.
 
 [[highlight:
 Flight Guide Instructor Principle |
