@@ -2464,6 +2464,10 @@ def lesson(content_path):
         folder.name
     )
 
+    area_title = display_name(
+        folder.parent.name
+    )
+
     return render_template(
         "lesson.html",
         tree=tree,
@@ -2473,6 +2477,7 @@ def lesson(content_path):
         lesson_sections=lesson_sections,
         is_training_lesson=is_training_lesson,
         is_cfi_acs_lesson=is_cfi_acs_lesson,
+        area_title=area_title,
         current_path="/" + content_path,
     )
 

@@ -69,6 +69,27 @@ Preserve useful Flight Guide enhancements without cluttering the core lesson:
 
 **HARD, always:** Bold section labels, procedure names, decision triggers, limitations, speeds, configuration items, risk cues, common-error names, and other high-value technical phrases throughout the lesson so the page is quickly scannable in print and on screen. Do not bold entire paragraphs or routine connective prose; emphasis must identify the information the instructor or learner needs to find quickly.
 
+### Instructor Notes Rule
+
+When a CFI lesson includes **Instructor Notes**, place them as the first section in Teach and provide a dedicated print button. Write them as a concise lecture guide, not an ACS-element index. Follow these rules:
+
+- Omit K/R/S references and arrange concepts in the order that best supports the lecture.
+- Begin with a short **Lecture through-line** that connects the lesson's major ideas.
+- Write a content-rich **lecture note outline**, not a script and not directions to the instructor. Do not use stage-direction labels such as **Let's start**, **Start by saying**, **Move to**, **Then connect it**, or **Close with**. Use concise content labels that identify the relationship being taught, such as **Temporary performance**, **Evidence of learning**, **Common starting point**, **Combined lesson flow**, **Diagnostic value**, **Connection**, and **End state**.
+- Make the lecture flow continuously both **between numbered sections** and **within each section**. Do not stack disconnected glossary definitions. Show how each underlying concept causes, supports, limits, contrasts with, or leads to the next. Each section should resolve the question created by the prior section and establish the conceptual need for the next one.
+- Do not leave the relationship between a theory and instructor action implied. Where applicable, state the full chain explicitly: **what the concept changes in the learner → what problem or opportunity that creates → what the instructor does in response → what that response enables next**. A reader should not need prior mastery of the complete lecture to infer why a bullet belongs where it does.
+- Organize the main lecture sequence as numbered H3 sections in the form `### 1. Descriptive Concept Title`. Do not place a bullet before a typed number.
+- Within each numbered section, use top-level bullets for the major teaching points and four-space-indented child bullets for supporting definitions, stages, and aviation examples. Use content-first bold scan labels such as **Core concept**, **Evidence of learning**, **Aviation example**, **Diagnostic value**, **Connection**, and **End state**.
+- Include enough aviation examples and explanatory context that the outline can support the lecture without requiring the instructor to reconstruct missing relationships from the full lesson. Examples should demonstrate the exact concept immediately above them.
+- Keep examples and conceptual connections as separate child bullets rather than combining the entire numbered item into one paragraph.
+- Group the useful mnemonic or memory aids at the bottom of the numbered H3 section they support, after that section's final bullet. When several aids support the same numbered section, combine them into one concise mnemonic card. Do not collect all lesson mnemonics at the bottom of Instructor Notes, and do not interleave cards between the section's bullets.
+- End with a `### Close` section that restates the complete learning sequence and carries one aviation example from perception through transfer.
+- Provide concise aviation examples where they clarify the theory or help the lecturer remember what to expand upon.
+- Print Instructor Notes in one vertical, single-column sequence. Do not use a side-by-side or across-the-page card layout.
+- Include the full CFI ACS **Area name** and **Task name** in the dedicated Instructor Notes print header.
+
+A compact one-page result is preferred, but it is not a hard limit; lecture usefulness, concept integration, scanability, and sufficient instructor recall cues take priority over exact page count.
+
 For flight Tasks:
 
 - include a complete Fly section

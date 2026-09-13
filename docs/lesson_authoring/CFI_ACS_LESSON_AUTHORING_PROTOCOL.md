@@ -199,6 +199,60 @@ Ground-only Tasks use:
 
 Do not add top-level headings that accidentally create or interfere with these panels.
 
+## Instructor Notes
+
+When requested, place `## Instructor Notes` as the first H2 section in Teach and include a dedicated print button.
+
+Instructor Notes are a concise lecture guide rather than an ACS-element index. They must:
+
+- omit K/R/S references,
+- begin with a short **Lecture through-line** that connects the lesson's major ideas,
+- provide a brief lecture roadmap that shows the conceptual sequence,
+- arrange concepts in the order that best supports the lecture,
+- tie concepts together and provide clear transitions across them,
+- give the lecturer enough key information to remember what to expand upon,
+- include concise aviation examples where an example clarifies the theory or supports recall, and
+- remain compact and printable.
+
+### Instructor Notes format
+
+Use numbered H3 sections for the main lecture sequence. Do not combine a Markdown bullet with a typed number, such as `- **1. Define learning**`; that renders as a bulleted number. Use this pattern:
+
+```markdown
+### 1. Descriptive Concept Title
+
+- **Core concept:** Enough explanation to establish what the concept changes in the learner and why it matters.
+- **Aviation example:** A specific application that demonstrates the concept.
+- **Supporting progression:** The stages or component ideas.
+  - **First component:** Explanation and application.
+  - **Second component:** How it follows from the first.
+- **Connection:** How this section creates the need for the next numbered concept.
+
+[[mnemonic:
+MEMORY AID |
+Expansion
+]]
+```
+
+Apply these formatting rules:
+
+- Use four additional spaces for every child-bullet level.
+- Write a content-rich lecture note outline, not a word-for-word script or a set of directions to the instructor. Do not use stage-direction labels such as **Let's start**, **Start by saying**, **Move to**, **Then connect it**, or **Close with**. Use concise content labels that identify the relationship being taught, such as **Temporary performance**, **Evidence of learning**, **Common starting point**, **Combined lesson flow**, **Diagnostic value**, **Connection**, and **End state**.
+- Build a continuous causal narrative inside each numbered section as well as between sections. Do not stack isolated definitions. Explain how each concept causes, supports, limits, contrasts with, or leads to the next. Each section should resolve the question created by the prior section and establish the conceptual need for the next one.
+- Make theory-to-practice relationships explicit rather than assuming the lecturer will infer them. Where applicable, write the complete chain: **effect on the learner → resulting problem or opportunity → instructor response → result that enables the next concept**. Each instructor action must identify which underlying factor it addresses and why that response follows.
+- Keep **Example**, **Teaching connection**, **Diagnostic value**, **Connection**, and **End state** as separate child bullets instead of embedding them in one long paragraph.
+- Bold concise labels and high-value technical phrases, not whole paragraphs.
+- Place the applicable mnemonic card after the numbered H3 section's final bullet.
+- When multiple mnemonics support the same numbered section, combine them into one concise card with a descriptive title, for example `SKILL DEVELOPMENT — C.A.AR. · DBR`.
+- Do not interleave mnemonic cards between the child bullets, and do not collect every mnemonic at the bottom of the complete Instructor Notes section.
+- Include enough exact aviation examples and explanatory context for the notes to support a coherent lecture without requiring the instructor to consult the full lesson for missing relationships. Each example must demonstrate the exact concept immediately above it.
+- Keep numbered sections in one top-to-bottom sequence on screen and in print.
+- End with a `### Close` section that restates the complete conceptual sequence and follows one aviation example through that sequence to the instructional end state.
+
+The dedicated Instructor Notes print output must begin with the full CFI ACS **Area name** and **Task name**, then use a single-column vertical flow rather than a two-column or side-by-side layout. Keep each numbered section with its grouped mnemonic card when practical, but allow natural page breaks rather than shrinking the notes until they are difficult to teach from.
+
+A one-page result is preferred but is not a hard limit. Lecture usefulness, concept integration, and sufficient instructor recall cues take priority over exact page count.
+
 ---
 
 # 6. Overview — Required Structure

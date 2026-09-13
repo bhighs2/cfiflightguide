@@ -50,31 +50,31 @@ The applicant can explain and apply the learning-process elements in this Task, 
 
 - **FI.I.B.K1** — Definitions of learning.
 - **FI.I.B.K2** — Learning theory as it applies to ground and flight instruction, including:
-  - **FI.I.B.K2a** — Behaviorism.
-  - **FI.I.B.K2b** — Cognitive Theory.
+        - **FI.I.B.K2a** — Behaviorism.
+        - **FI.I.B.K2b** — Cognitive Theory.
 - **FI.I.B.K3** — Perceptions and insight.
 - **FI.I.B.K4** — Acquiring knowledge.
 - **FI.I.B.K5** — Laws of learning.
 - **FI.I.B.K6** — Domains of learning, including:
-  - **FI.I.B.K6a** — Cognitive.
-  - **FI.I.B.K6b** — Affective.
-  - **FI.I.B.K6c** — Psychomotor.
+        - **FI.I.B.K6a** — Cognitive.
+        - **FI.I.B.K6b** — Affective.
+        - **FI.I.B.K6c** — Psychomotor.
 - **FI.I.B.K7** — Characteristics of learning.
 - **FI.I.B.K8** — Scenario-based training (SBT).
 - **FI.I.B.K9** — Acquiring skill knowledge, including:
-  - **FI.I.B.K9a** — Stages.
-  - **FI.I.B.K9b** — Knowledge of results.
-  - **FI.I.B.K9c** — How to develop skills.
-  - **FI.I.B.K9d** — Learning plateaus.
+        - **FI.I.B.K9a** — Stages.
+        - **FI.I.B.K9b** — Knowledge of results.
+        - **FI.I.B.K9c** — How to develop skills.
+        - **FI.I.B.K9d** — Learning plateaus.
 - **FI.I.B.K10** — Types of practice.
 - **FI.I.B.K11** — Evaluation versus critique.
 - **FI.I.B.K12** — Distractions, interruptions, fixation, and inattention.
 - **FI.I.B.K13** — Errors.
 - **FI.I.B.K14** — Memory, including:
-  - **FI.I.B.K14a** — Sensory.
-  - **FI.I.B.K14b** — Short-Term Memory (STM) and Long-Term Memory (LTM).
-  - **FI.I.B.K14c** — How usage affects memory.
-  - **FI.I.B.K14d** — Forgetting.
+        - **FI.I.B.K14a** — Sensory.
+        - **FI.I.B.K14b** — Short-Term Memory (STM) and Long-Term Memory (LTM).
+        - **FI.I.B.K14c** — How usage affects memory.
+        - **FI.I.B.K14d** — Forgetting.
 - **FI.I.B.K15** — Retention of learning.
 - **FI.I.B.K16** — Transfer of learning.
 
@@ -121,6 +121,334 @@ The applicant can explain and apply the learning-process elements in this Task, 
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**There is one big idea in this lesson:** learning is not just getting the right answer once or flying one good maneuver. We are trying to create a **lasting change** that the learner can retain and use later in a different situation.
+
+The learning process really moves through:
+
+**Perceive → Understand → Practice → Feedback → Retain → Transfer**
+
+### 1. Learning — More Than One Good Performance
+
+- **Learning is a relatively permanent change** in behavior, cognition, knowledge, skill, or attitude that comes from study, teaching, experience, or practice.
+- **One good performance does not prove learning.**
+    - A learner may fly one excellent landing because I coached every step of it.
+    - That shows performance.
+    - When they come back later, do it again with less help, and eventually use the same principles in a different situation, that begins to show learning.
+- **AMAP describes the basic characteristics of learning:**
+**A change in behavior · Multifaceted · Active Process · Purposeful**
+    - **A change in behavior:** Something about what the learner knows, thinks, values, or does has changed.
+    - **Multifaceted:** Learning can involve knowledge, judgment, attitude, perception, and physical skill all at the same time.
+    - **Active process:** The learner has to participate. Watching me land is not the same as learning to land.
+    - **Purposeful:** Learning is directed toward a goal. Ideally that goal connects back to the learner's motivation and why they are here in the first place.
+- **So the question becomes: what actually causes that lasting change?** There are two broad ways we can look at it—what we can observe the learner doing and what is happening mentally.
+
+### 2. Learning Theory — Behaviorism and Cognitive Theory
+
+- **Behaviorism focuses on observable behavior.**
+- Practice, consequences, and reinforcement shape what the learner does.
+- **Pavlov's experiment is the classic example.**
+    - A metronome was repeatedly paired with food until the metronome itself produced the learned response.
+    - In flight training, if a learner finally coordinates a turn correctly and I say, **“Good—that rudder input kept the ball centered,”** I am reinforcing the behavior I want repeated.
+- **Cognitive theory looks at what is happening mentally.**
+    - Thinking
+    - Understanding
+    - Perception
+    - Problem solving
+    - Decision-making
+- **RIC helps organize cognitive learning:**
+**Reflective thought · Information processing · Constructivism**
+- **Reflective thought:** Connect one experience to another.
+    - After a bounced landing: “What started that sequence?”
+- **Information processing:** Organize information so it can be stored and retrieved.
+    - An ATC clearance may be easier to remember as route, altitude, and frequency rather than one long string of words.
+- **Constructivism:** Build new knowledge from what the learner already understands.
+    - An understanding of slow-flight pitch and power relationships can help build an understanding of short-field approaches.
+- **Good instruction uses both theories.**
+    - I may reinforce the coordinated turn—that is behaviorism.
+    - Then ask, “Why was that turn coordinated?”—that gets into cognitive learning.
+    - I want the learner to perform the correct action, **but I also want them to understand why it worked.**
+- **Before the learner can understand something, though, they first have to notice it and give it meaning. That takes us to perception.**
+
+### 3. Perception, Insight, and Knowledge
+
+- **Perception is the basis of learning.**
+- We are receiving sights, sounds, sensations, and other information all the time, but we cannot process all of it.
+- **Attention selects some of that information, and perception gives it meaning.**
+- **G STEP describes the factors that affect perception:**
+**Goals and values · Self-concept · Time and opportunity · Element of threat · Physical organism**
+- **Goals and values:** We tend to notice what matters to us.
+    - If the learner thinks slow flight is only about “flying slowly,” they may miss control effectiveness and stall cues.
+- **Self-concept:** How learners see themselves affects how they receive feedback.
+    - Correct the performance, not the person.
+- **Time and opportunity:** Some relationships need repeated exposure before they make sense.
+    - The first time the controls feel soft near a stall, that sensation may not mean much. With repetition it begins to connect to the other stall cues.
+- **Element of threat:** Fear narrows attention.
+    - An anxious learner may fixate on one instrument and stop seeing the larger picture.
+- **Physical organism:** Fatigue, illness, heat, dehydration, or discomfort affect how information is perceived and processed.
+- **Insight happens when separate perceptions start connecting into a meaningful whole.**
+    - In a steep turn:
+**More bank → more load factor → more lift required → more back pressure and possibly power.**
+    - At that point, the maneuver is no longer just a list of control inputs. The learner understands the relationship among the pieces.
+- **Then knowledge progresses through MUA:**
+**Memorization → Understanding → Application**
+    - **Memorization:** “Best glide is 68 knots.”
+    - **Understanding:** “That gives us approximately the best lift-to-drag ratio.”
+    - **Application:** After an engine failure, establish the appropriate glide while also selecting a landing area and considering wind.
+- **Once the learner is perceiving and connecting the right things, we want those connections to become durable. That is where the laws of learning come into play.**
+
+### 4. Laws of Learning — What Makes Learning Stick
+
+- **REEPIR describes the laws of learning:**
+**Readiness · Exercise · Effect · Primacy · Intensity · Recency**
+- **Readiness:** The learner has to be mentally ready and have the prerequisite foundation.
+    - Teaching short-field landings before they can consistently control a normal approach is poor sequencing.
+- **Exercise:** Meaningful practice strengthens learning.
+    - Actually making radio calls in traffic strengthens retrieval much more than discussing them once on the ground.
+- **Effect:** Learning associated with satisfying or useful results is more likely to stick.
+    - A stable approach followed by a good landing reinforces the value of proper airspeed and configuration.
+- **Primacy:** What is learned first creates a strong impression.
+    - Teach it correctly the first time because incorrect early learning can be difficult to undo.
+- **Intensity:** Vivid and realistic experiences tend to be remembered better, as long as we do not overwhelm the learner.
+    - Actually demonstrating a stall is more meaningful than only describing it on a whiteboard.
+- **Recency:** Things learned or reviewed recently are easier to recall.
+    - Before entering the pattern after a long cross-country, briefly review the stabilized-approach criteria.
+- **So our job as instructors is to prepare the learner, teach it correctly, provide meaningful practice, and reinforce what matters.**
+- **These laws describe the conditions that support learning. The next question is: what part of the learner are we actually trying to change?**
+
+### 5. Domains of Learning — Know It, Value It, Do It
+
+- **CAP gives us the three domains:**
+**Cognitive · Affective · Psychomotor**
+
+#### Cognitive — Know It
+
+- **Cognitive deals with knowledge and intellectual skill.**
+- **RUAC:**
+**Rote → Understanding → Application → Correlation**
+    - **Rote:** Memorize that load factor increases stall speed.
+    - **Understanding:** Explain why.
+    - **Application:** Predict what happens to stall speed in a steep turn.
+    - **Correlation:** Connect that principle to accelerated-stall risk during maneuvering flight.
+
+#### Affective — Value It
+
+- **Affective deals with attitudes, beliefs, and values.**
+- **ARVOI:**
+**Awareness → Response → Value → Organize → Integrate**
+- A learner may start by simply knowing that an unstable approach calls for a go-around.
+- Eventually they genuinely value that standard enough to initiate the go-around themselves.
+- They value **safety more than sticking the landing.**
+
+#### Psychomotor — Do It
+
+- **Psychomotor deals with physical skill and coordination.**
+- **OIPH:**
+**Observe → Imitate → Practice → Habit**
+- Watch the instructor demonstrate it.
+- Imitate it with substantial coaching.
+- Practice it with progressively less help.
+- Eventually perform it smoothly as a habit.
+- **Think about the three domains this way:**
+**Do they know it? Do they value it? Can they physically do it?**
+- A go-around is a great example of all three:
+    - **Cognitive:** Recognize the unstable approach.
+    - **Affective:** Value safety more than completing the landing.
+    - **Psychomotor:** Actually execute the go-around correctly.
+- **The best way to find out whether all of those pieces work together is to put the learner into a realistic situation. That takes us to Scenario-Based Training.**
+
+### 6. Scenario-Based Training — Put the Pieces Together
+
+- **Scenario-Based Training puts knowledge, skill, judgment, and decision-making into a realistic operational situation.**
+- **CTE describes an effective scenario:**
+**Clear objective · Tailored to the learner · Environmental factors**
+- **Clear objective:** Know exactly what the learner is supposed to accomplish.
+- **Tailored:** Match complexity to the learner's experience and proficiency.
+- **Environmental:** Use realistic wind, weather, runway, traffic, terrain, fuel, and operating conditions.
+- **Do not add complex scenarios before the underlying skills are ready.**
+    - If holding heading and altitude still consumes most of the learner's attention, do not pile a complicated diversion scenario on top of it.
+- **Scenarios also expose weak individual skills.**
+    - The learner may select the correct diversion airport but lose 200 feet while programming the GPS.
+    - The decision-making may be good while aircraft control under workload still needs work.
+- **When a scenario exposes a weak component, isolate it, improve it, and then put it back into the complete task.**
+- **That brings us to the next question: how does an individual physical skill go from awkward and deliberate to smooth and reliable?**
+
+### 7. Skill Acquisition — From Deliberate to Automatic
+
+- **C.A.AR. describes the stages of acquiring physical skill:**
+**Cognitive → Associative → Automatic Response**
+- **Cognitive stage:** The learner consciously thinks through every step.
+    - “45 degrees of bank... add back pressure... add power... watch altitude.”
+- **Associative stage:** The learner begins connecting actions with results.
+    - They notice altitude beginning to fall and correct it before I say anything.
+- **Automatic response stage:** The skill becomes smoother and requires much less deliberate attention.
+    - The learner can maintain the steep turn while scanning for traffic and listening to the radio.
+- **Knowledge of results is important during skill development.**
+- The learner should know whether the performance was correct or incorrect as soon as practical.
+    - Instead of just saying, “You lost altitude,” say, **“The altitude loss started because the pitch support came in late.”**
+- **Repeated practice develops the skill.**
+- Early attempts are normally slow and contain errors.
+- Each trial gives the learner information that can improve the next one.
+- **The way we structure practice also matters. DBR means:**
+**Deliberate · Blocked · Random**
+- **Deliberate practice:** Target one specific discrepancy.
+    - Repeatedly work on steep-turn rollout timing.
+- **Blocked practice:** Repeat the same drill.
+    - Several steep turns in a row.
+    - This can improve immediate performance, although too much blocked practice may not support long-term retention as well.
+- **Random practice:** Mix different tasks.
+    - Steep turns, slow flight, stalls, and other maneuvers.
+    - Now the learner has to recognize the situation and retrieve the correct response rather than simply repeat the last thing they did.
+- **Learning plateaus are normal.**
+- Improvement may level off temporarily even while learning continues.
+- A plateau does not automatically mean poor motivation.
+- Avoid unnecessary over-practice. Take a break, change tasks, and return later if appropriate.
+- **Practice develops the skill, but we still need to determine where the learner is, what needs improvement, and what kind of error occurred. That takes us to evaluation, critique, and errors.**
+
+### 8. Evaluation, Critique, and Errors
+
+- **Evaluation tells us the learner's current level of performance.**
+    - Are they meeting the objective or standard?
+    - What are the strengths and weaknesses?
+- **Critique gives useful information about how to improve the performance.**
+    - “Your bank and airspeed were stable. Most of the altitude loss occurred during entry because your pitch support came in late.”
+- **Learner self-critique is also useful.**
+    - Before telling them everything that happened, ask, **“How did you think that maneuver went?”**
+- **Errors are a normal part of human performance.**
+- There are two basic types:
+    - **Slip — error of action:** I intended the correct action but inadvertently did something else.
+        - Intended COM 1, selected COM 2.
+    - **Mistake — error of thought:** I planned the wrong action.
+        - Intentionally tuned ground when tower was actually required because I misunderstood the chart.
+- **That distinction matters because the correction is different.**
+    - A **mistake** may require more knowledge or understanding.
+    - A **slip** may require better checking, routines, attention, or execution.
+- **CULT DR gives us ways to reduce errors:**
+**Checking · Using tools · Learning and practice · Taking your time · Developing routines · Raising awareness**
+- **Checking:** Verify what you did.
+    - Confirm the frequency before transmitting.
+- **Using tools:** Reduce reliance on memory.
+    - Checklists, heading bugs, written clearances, reminders.
+- **Learning and practice:** Correct weak knowledge or skill.
+- **Taking your time:** Avoid errors created by unnecessary rushing.
+    - Very little in normal aviation needs to be rushed.
+- **Developing routines:** Use consistent flows and procedures.
+    - Flow first, checklist verification second.
+- **Raising awareness:** Recognize when you are more likely to make an error.
+    - Fatigue, workload, interruptions, unfamiliar equipment, the end of a long cross-country.
+- **Even with good knowledge and skill, performance can still break down when attention is pulled away, interrupted, or trapped on the wrong thing. That takes us to attention and workload.**
+
+### 9. Attention, Distraction, and Workload
+
+- **Attention is limited.**
+- As workload increases, the learner becomes more likely to miss cues, forget unfinished tasks, or narrow their attention too far.
+- **Distraction:** Temporarily pulls attention away.
+    - A passenger asks a question while the pilot is configuring for landing.
+- **Interruption:** Suspends the original task while another one is handled.
+    - Tower gives a new instruction halfway through the before-takeoff checklist.
+- **Fixation:** Attention becomes trapped on one item.
+    - The learner stares at airspeed on final and stops seeing runway alignment, sink rate, and traffic.
+- **Inattention:** An important task or cue is missed altogether.
+    - While programming the GPS, the learner never notices the airplane has drifted 200 feet below altitude.
+- **Build workload progressively.**
+    - Aviate first.
+    - Then add navigation.
+    - Then communication.
+    - Then realistic distractions and abnormal situations after the underlying skills are reasonably developed.
+- **Teach deliberate resumption after an interruption.**
+    - Know where you stopped.
+    - Handle the interruption.
+    - Deliberately return to the original task rather than guessing where you left off.
+- **And this connects directly to memory. If the learner never properly attends to information in the first place, there may be nothing reliable to retrieve later.**
+
+### 10. Memory, Retention, and Transfer
+
+- **Memory allows learning to remain available for later use.**
+- Information begins in **sensory memory**, selected information moves into **short-term memory**, and meaningful processing and continued use support storage in **long-term memory**.
+- **Sensory memory** is the initial intake.
+    - Sights, sounds, touch, and other stimuli enter briefly.
+    - Attention determines what gets passed forward.
+- **Short-term memory has limited capacity and duration.**
+    - If I give a new learner six unrelated corrections after one landing, I should not expect all six to be retained and applied.
+    - Rehearsal and chunking can help.
+- **Long-term memory is more durable.**
+    - Meaningful connections and repetition support long-term storage.
+- **Frequency and recency improve retrieval.**
+    - Things we use often are generally easier to retrieve.
+    - Things we used recently are generally easier to retrieve.
+    - Something used both frequently and recently is normally easiest to recall.
+
+#### Forgetting — FIRRS
+
+- **FIRRS describes reasons information may no longer be readily available:**
+**Fading · Interference · Retrieval failure · Repression · Suppression**
+- **Fading:** The memory weakens with disuse over time.
+    - If a procedure is rarely reviewed or practiced, recall may become weaker.
+- **Interference:** Other learning gets in the way of the information we are trying to retrieve.
+    - Similar procedures from two airplanes can compete with each other.
+- **Retrieval failure:** The information may still exist in long-term memory, but the learner cannot access it at that moment.
+    - A learner knows the answer during study but cannot retrieve it under checkride pressure until given a cue.
+- **Repression:** An unpleasant or threatening memory is unconsciously pushed out of awareness.
+- **Suppression:** The person consciously chooses not to think about something.
+    - The distinction is that repression is unconscious while suppression is conscious.
+- **So forgetting does not always mean the information disappeared completely. Sometimes the problem is getting access to it when we need it.**
+
+#### Retention — MALAMP
+
+- **MALAMP gives us ways to improve retention:**
+**Meaningful repetition · Association · Learning with all senses · Attitude · Awareness · Praise**
+- **Meaningful repetition:** Repeat information in a useful context rather than mindlessly drilling it.
+    - Repeated stabilized approaches with a specific objective are more useful than merely doing landing after landing.
+- **Association:** Connect new information with something the learner already knows.
+    - Tie a new aerodynamic concept to a maneuver they have already experienced.
+- **Learning with all senses:** Use multiple inputs when appropriate.
+    - Explain the crosswind correction, draw it, demonstrate it, let the learner feel the control pressures, and then let them fly it.
+- **Attitude:** A favorable attitude toward the material supports retention.
+    - Learners remember things better when they see the lesson as useful rather than pointless.
+- **Awareness:** The learner needs to know what is important enough to pay attention to and remember.
+    - Tell them which cues matter rather than hoping they identify everything themselves.
+- **Praise:** Appropriate reinforcement of correct responses helps strengthen learning.
+    - Be specific about what was done correctly so the learner knows what to repeat.
+
+#### Retention and Transfer
+
+- **Retention means the learning remains available.**
+- **Transfer means the learner can use that learning in another situation.**
+- **Positive transfer:** Earlier learning helps.
+    - Slow-flight pitch and power knowledge helps with short-field approaches.
+- **Negative transfer:** Earlier learning interferes.
+    - A pilot transitions to an airplane with a different flap or avionics system and initially applies the old procedure.
+- **The instructor should deliberately create opportunities for transfer.**
+    - Teach a diversion in familiar airspace.
+    - Later change the airport, weather, fuel situation, or other conditions and see whether the learner can still apply the principle.
+- **Transfer matters so much in aviation because the exact situation we trained will rarely be the exact situation the learner eventually encounters.**
+- **And that brings the learning process full circle.**
+
+### Close
+
+- **The entire process is:**
+**Perceive → Understand → Practice → Feedback → Retain → Transfer**
+- The learner first perceives the relevant information.
+- Then understands what it means.
+- Practices the response.
+- Receives feedback.
+- Retains the learning.
+- And finally transfers it to a different situation.
+- **Think about a go-around.**
+    - The learner perceives that the approach is unstable.
+    - Understands why continuing is unsafe.
+    - Has practiced the maneuver enough to perform it smoothly.
+    - Retains the procedure even under workload.
+    - Eventually recognizes the condition and initiates the go-around without instructor prompting.
+- **That is our end goal.**
+- We are not trying to create one correct answer or one perfect maneuver.
+- We want the learner to recognize what is happening, understand what it means, retrieve what they have learned, and apply it safely **in a situation they have never seen exactly before.**
+- **When they can do that, the learning is durable—and it has transferred.**
 ## FI.I.B.K1 — Definitions of Learning
 
 - **Learning:** A relatively permanent change in behavior, cognition, knowledge, skill, or attitude that results from study, teaching, experience, or practice.

@@ -203,7 +203,8 @@ document.addEventListener(
                 document.body.classList.remove(
                     "print-kneeboard",
                     "print-debrief",
-                    "print-cfi-lesson"
+                    "print-cfi-lesson",
+                    "print-instructor-notes"
                 );
 
                 const printArea =
@@ -213,6 +214,15 @@ document.addEventListener(
 
                 if (printArea) {
                     printArea.remove();
+                }
+
+                const instructorNotesPrintArea =
+                    document.getElementById(
+                        "instructor-notes-print-area"
+                    );
+
+                if (instructorNotesPrintArea) {
+                    instructorNotesPrintArea.remove();
                 }
 
                 removePageStyle();
@@ -584,6 +594,262 @@ document.addEventListener(
             );
 
             return Promise.all(imageLoads);
+
+        }
+
+
+        const printInstructorNotesButtons =
+            document.querySelectorAll(
+                "[data-print-instructor-notes]"
+            );
+
+        if (
+            isCfiAcsLesson
+            && printInstructorNotesButtons.length
+        ) {
+
+            printInstructorNotesButtons.forEach(
+                function (button) {
+
+                    button.addEventListener(
+                        "click",
+                        function () {
+
+                            const notesSection =
+                                button.closest(
+                                    ".lesson-section"
+                                );
+
+                            if (!notesSection) {
+                                return;
+                            }
+
+                            const oldPrintArea =
+                                document.getElementById(
+                                    "instructor-notes-print-area"
+                                );
+
+                            if (oldPrintArea) {
+                                oldPrintArea.remove();
+                            }
+
+                            const printArea =
+                                document.createElement(
+                                    "section"
+                                );
+
+                            printArea.id =
+                                "instructor-notes-print-area";
+
+                            const printHeader =
+                                document.createElement(
+                                    "header"
+                                );
+
+                            printHeader.className =
+                                "instructor-notes-print-header";
+
+                            const areaHeading =
+                                document.createElement(
+                                    "div"
+                                );
+
+                            areaHeading.className =
+                                "instructor-notes-print-area-title";
+
+                            areaHeading.textContent =
+                                lesson.dataset.areaTitle;
+
+                            const taskHeading =
+                                document.createElement(
+                                    "div"
+                                );
+
+                            taskHeading.className =
+                                "instructor-notes-print-task-title";
+
+                            taskHeading.textContent =
+                                lessonTitle;
+
+                            printHeader.append(
+                                areaHeading,
+                                taskHeading
+                            );
+
+                            printArea.appendChild(
+                                printHeader
+                            );
+
+                            const clone =
+                                notesSection.cloneNode(true);
+
+                            clone.querySelectorAll(
+                                ".instructor-notes-toolbar"
+                            ).forEach(
+                                function (toolbar) {
+
+                                    toolbar.remove();
+
+                                }
+                            );
+
+                            const notesBody =
+                                clone.querySelector(
+                                    ".lesson-section-body"
+                                );
+
+                            if (notesBody) {
+
+                                const sectionHeadings =
+                                    Array.from(
+                                        notesBody.children
+                                    ).filter(
+                                        function (element) {
+
+                                            return (
+                                                element.tagName === "H3"
+                                            );
+
+                                        }
+                                    );
+
+                                if (sectionHeadings.length) {
+
+                                    sectionHeadings.forEach(
+                                        function (sectionHeading) {
+
+                                            const pair =
+                                                document.createElement(
+                                                    "div"
+                                                );
+
+                                            pair.className =
+                                                "instructor-notes-print-pair";
+
+                                            notesBody.insertBefore(
+                                                pair,
+                                                sectionHeading
+                                            );
+
+                                            pair.appendChild(
+                                                sectionHeading
+                                            );
+
+                                            while (
+                                                pair.nextElementSibling
+                                                && pair.nextElementSibling.tagName
+                                                    !== "H3"
+                                            ) {
+
+                                                pair.appendChild(
+                                                    pair.nextElementSibling
+                                                );
+
+                                            }
+
+                                        }
+                                    );
+
+                                } else {
+
+                                    Array.from(
+                                        notesBody.children
+                                    ).filter(
+                                        function (element) {
+
+                                            const text =
+                                                element.textContent.trim();
+
+                                            return (
+                                                element.tagName === "P"
+                                                && /^\d+\./.test(text)
+                                            ) || (
+                                                element.tagName === "UL"
+                                                && /^\d+\./.test(text)
+                                            ) || (
+                                                element.tagName === "OL"
+                                            );
+
+                                        }
+                                    ).forEach(
+                                        function (lectureItem) {
+
+                                            const pair =
+                                                document.createElement(
+                                                    "div"
+                                                );
+
+                                            pair.className =
+                                                "instructor-notes-print-pair";
+
+                                            notesBody.insertBefore(
+                                                pair,
+                                                lectureItem
+                                            );
+
+                                            pair.appendChild(
+                                                lectureItem
+                                            );
+
+                                            const memoryAid =
+                                                pair.nextElementSibling;
+
+                                            if (
+                                                memoryAid
+                                                && memoryAid.classList.contains(
+                                                    "lesson-mnemonic"
+                                                )
+                                            ) {
+
+                                                pair.appendChild(
+                                                    memoryAid
+                                                );
+
+                                            }
+
+                                        }
+                                    );
+
+                                }
+
+                            }
+
+                            sanitizeCfiPrintContent(
+                                clone
+                            );
+
+                            printArea.appendChild(
+                                clone
+                            );
+
+                            lesson.appendChild(
+                                printArea
+                            );
+
+                            document.body.classList.add(
+                                "print-instructor-notes"
+                            );
+
+                            installPageStyle(
+                                "letter portrait",
+                                "0.3in"
+                            );
+
+                            waitForPrintImages(
+                                printArea
+                            ).then(
+                                function () {
+
+                                    window.print();
+
+                                }
+                            );
+
+                        }
+                    );
+
+                }
+            );
 
         }
 

@@ -57,15 +57,15 @@ The applicant can explain and use appropriate assessment methods in ground or fl
 - **FI.I.D.K1** — Purpose and characteristics of effective assessment.
 - **FI.I.D.K2** — Traditional assessments.
 - **FI.I.D.K3** — Authentic assessments, including:
-  - **FI.I.D.K3a** — Learner-centered assessment.
-  - **FI.I.D.K3b** — Maneuver or procedure grades.
-  - **FI.I.D.K3c** — Assessing risk management skills.
+        - **FI.I.D.K3a** — Learner-centered assessment.
+        - **FI.I.D.K3b** — Maneuver or procedure grades.
+        - **FI.I.D.K3c** — Assessing risk management skills.
 - **FI.I.D.K4** — Choosing an effective assessment method.
 - **FI.I.D.K5** — Purposes and types of critiques.
 - **FI.I.D.K6** — Oral assessment, including:
-  - **FI.I.D.K6a** — Characteristics of effective questions.
-  - **FI.I.D.K6b** — Types of questions to avoid.
-  - **FI.I.D.K6c** — Answering learner questions.
+        - **FI.I.D.K6a** — Characteristics of effective questions.
+        - **FI.I.D.K6b** — Types of questions to avoid.
+        - **FI.I.D.K6c** — Answering learner questions.
 - **FI.I.D.K7** — Assessment of piloting ability.
 
 ### Risk Management
@@ -109,6 +109,396 @@ The applicant can explain and use appropriate assessment methods in ground or fl
 [[mnemonic: O-F-A-C-O-T-S | Objective · Flexible · Acceptable · Comprehensive · Constructive · Organized · Thoughtful · Specific]]
 
 # Teach
+
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**There is one main idea in this lesson:** assessment tells us **whether learning is actually occurring, where the learner currently is, and what should happen next.**
+
+Assessment gives the instructor feedback about the effectiveness of instruction, gives the learner specific information about performance, and—as the learner develops—should build the learner's ability to **evaluate their own performance and make sound decisions.**
+
+### 1. Purpose and Characteristics of Effective Assessment
+
+- **Assessment is an essential part of both teaching and learning.**
+- It should always lead somewhere.
+    - If it reveals a deficiency, maybe I need to explain something differently.
+    - Maybe I need to demonstrate the maneuver again.
+    - Maybe the learner simply needs additional practice.
+- **Assessment can be formal or informal.**
+    - A written knowledge test is formal.
+    - A question during a preflight briefing or postflight discussion may be informal.
+- The handbook also describes assessment by **when and why we use it:**
+    - **Diagnostic:** Before instruction, to find out what the learner already knows or can do.
+    - **Formative:** During training, to determine what needs reinforcement and help shape the next instruction.
+    - **Summative:** Periodically measures how much learning has been achieved, such as a stage check or end-of-course test.
+- **The learner should also have an opportunity to assess their own performance.**
+    - Self-assessment develops the judgment and decision-making needed in aviation.
+- **Effective assessment is based on facts and the lesson completion standard—not personal preference or personality.**
+
+- **The characteristics of effective assessment are:**
+
+**Objective · Flexible · Acceptable · Comprehensive · Constructive · Organized · Thoughtful · Specific**
+
+- **Objective:** Assess what actually happened.
+    - "You were 150 feet low," rather than, "You're bad at altitude control."
+- **Flexible:** Consider the whole performance and adapt the tone, detail, and technique to the learner and situation.
+- **Acceptable:** Deliver the assessment fairly, sincerely, and from demonstrated competence so the learner can reasonably accept the feedback.
+- **Comprehensive:** Include strengths and weaknesses, but only to the degree that is useful.
+    - Comprehensive does not mean discussing every minor detail.
+- **Constructive:** Give the learner useful direction for improvement.
+- **Organized:** Present the assessment in a logical sequence.
+- **Thoughtful:** Protect the learner's dignity. Avoid ridicule, anger, or embarrassment.
+- **Specific:** Identify exactly what was satisfactory, what was deficient, and what needs to change.
+
+- **So the purpose of assessment is not simply to assign a grade.**
+- It gives us evidence about learning and tells us what instruction should happen next.
+
+- **Once we understand why we assess, the next question becomes: how do we collect that evidence? One of the most familiar ways is traditional assessment.**
+
+### 2. Traditional Assessment — What Does the Learner Know?
+
+- **Traditional assessment usually gives the learner questions with predetermined correct answers.**
+    - Multiple choice.
+    - Matching.
+    - True/false.
+    - Fill-in-the-blank.
+- It is especially useful for:
+    - Facts.
+    - Concepts.
+    - Terminology.
+    - Processes.
+    - Rules.
+- **Airspace rules are a good example.**
+- Traditional assessments normally measure the **rote and understanding** levels of learning, although carefully designed scenario questions can reach higher levels.
+
+#### Characteristics of a Good Written Test
+
+- **A good written test should be:**
+
+**Reliable · Valid · Usable · Objective · Comprehensive · Discriminating**
+
+- **Reliable:** It produces reasonably consistent measurements.
+    - If essentially the same knowledge is measured under comparable conditions, the result should not vary wildly for no meaningful reason.
+- **Valid:** It actually measures what it is supposed to measure.
+    - **This is especially important.**
+    - If the objective is airspace knowledge, unrelated difficult questions do not belong just because they are challenging.
+- **Usable:** The test is practical to administer.
+    - Clear instructions.
+    - Readable type.
+    - Clear graphics.
+    - Concise wording.
+    - Reasonably easy to grade.
+- **Objective:** Scoring is not dependent on the personal opinion of whoever grades it.
+    - Multiple-choice questions are generally easier to score objectively than essays.
+- **Comprehensive:** The test samples an appropriate cross-section of the instructional objectives.
+    - One narrow question should not be treated as proof of mastery of an entire subject.
+- **Discriminating:** The test can distinguish between different levels of learner achievement.
+    - In pilot certification, however, meeting the established standard is more important than ranking one learner against another.
+
+- **Traditional assessment can tell us a lot about what the learner knows.**
+- But aviation requires more than recognizing the right answer. The learner has to **use knowledge, perform skills, solve problems, and make decisions.**
+
+- **That takes us to authentic assessment.**
+
+### 3. Authentic Assessment — Assess the Learner Doing the Real Work
+
+- **Authentic assessment requires the learner to perform a real-world task and meaningfully apply what they have learned.**
+- Instead of selecting a predetermined answer, **the learner generates a response or solution.**
+
+- That allows us to assess:
+    - Application.
+    - Analysis.
+    - Problem solving.
+    - Decision-making.
+    - Higher-order thinking.
+
+- **Aviation example:** Instead of asking which diversion airport is correct from four choices, give the learner the weather, fuel, position, airport information, and changing conditions and ask:
+
+**"What are you going to do and why?"**
+
+- **The performance criteria should be known in advance.**
+- A **rubric** helps make the assessment more reliable, fair, and valid.
+
+- **Authentic assessment is particularly useful in aviation because ultimately we care about what the learner can do with the knowledge, not merely whether they can recognize the correct answer.**
+
+- **Authentic assessment becomes even more useful when the learner is actively evaluating their own performance. That takes us to learner-centered assessment.**
+
+### 4. Learner-Centered Assessment — Teach the Learner to Assess Themselves
+
+- **Learner-centered assessment makes the learner an active participant rather than simply a recipient of the instructor's judgment.**
+
+- We guide the learner through four steps:
+
+**Replay → Reconstruct → Reflect → Redirect**
+
+- **Replay:** Describe what happened.
+    - Let the learner talk through the flight, maneuver, or procedure.
+    - The instructor listens for differences between the learner's perception and what actually happened.
+- **Reconstruct:** Ask what could, would, or should have been done differently.
+- **Reflect:** Give the experience meaning.
+    - What did you learn?
+    - What was easy?
+    - What was difficult?
+    - How would you assess your performance?
+    - How did it compare with the applicable standard?
+- **Redirect:** Carry the lesson forward.
+    - How does this apply to another flight?
+    - What risk mitigation might be useful next time?
+    - What personal minimum or additional proficiency might be appropriate?
+
+- **Let the learner assess first. Then compare that assessment with your own observations.**
+- The difference between the two assessments is often useful instructional information.
+
+- **The instructor still retains responsibility for the assessment.**
+- Learner-centered does not mean the learner gets to redefine satisfactory performance.
+
+### 5. Maneuver, Procedure, and Risk-Management Grades
+
+#### Maneuver or Procedure Grades
+
+- **The maneuver or procedure rubric tells us where the learner is along the path toward independent proficiency.**
+
+**Describe → Explain → Practice → Perform**
+
+with **Not Observed** when the event was not accomplished or required.
+
+- **Describe:** The learner can describe the physical and cognitive elements but still needs help performing them.
+- **Explain:** The learner understands the concepts, principles, and procedures but still needs help with execution.
+- **Practice:** The learner can plan and execute but still needs coaching, instruction, or assistance to correct deviations.
+- **Perform:** The learner completes the task without instructor assistance and identifies and corrects errors promptly.
+- **Not Observed:** The event was not required or accomplished.
+
+- **These are performance levels, not labels of personal ability.**
+- A learner may begin at Describe, progress through Practice, and eventually reach Perform.
+
+#### Assessing Risk Management
+
+- **Risk-management performance progresses in a similar way:**
+
+**Explain → Practice → Manage-Decide**
+
+- **Explain:** The learner can identify and understand the risks but still needs prompting to recognize hazards or make decisions.
+- **Practice:** The learner actively applies risk-management principles but may need coaching to correct minor errors.
+- **Manage-Decide:** The learner gathers the important information, identifies possible courses of action, evaluates the risk in each, and makes an appropriate decision without instructor intervention being required for safe completion.
+
+- **So the rubric tells both the instructor and learner where performance currently sits along the path toward independent operation.**
+
+- **The next question becomes: which assessment method gives us the evidence we actually need for this particular objective?**
+
+### 6. Choosing an Effective Assessment Method — Start With the Objective
+
+- **The assessment should come from the learning objective—not from whichever test is easiest to give.**
+
+The handbook uses a general-to-specific process:
+
+1. **Determine the level-of-learning objective.**
+2. **Identify observable indicators of the desired behavior.**
+3. **Establish criterion objectives** describing the behavior, conditions, and criteria.
+4. **Develop criterion-referenced assessment items** that actually measure those behaviors.
+
+- **Different objectives require different evidence.**
+    - If I want to know whether the learner can **recall a fact**, a traditional written or oral question may work.
+    - If I want to know whether the learner can **perform a procedure**, I need to observe the performance.
+    - If I want to assess **judgment or risk management**, I probably need an open-ended scenario that requires a decision.
+
+- **Traditional assessment is often useful while the learner is acquiring foundational facts.**
+- **Authentic assessment becomes increasingly useful as the learner begins analyzing, evaluating, solving problems, and making decisions.**
+- **Performance testing is particularly useful when training involves an actual operation, procedure, or process.**
+
+- So the simple way to remember it is:
+
+**Facts → Ask for knowledge**  
+**Procedures → Observe performance**  
+**Judgment → Give the learner a realistic problem**
+
+- **Once we collect the evidence, we have to give it back to the learner in a useful way. That's the purpose of the critique.**
+
+### 7. Critiques — Turn Assessment Into Improvement
+
+- **A critique is an instructor-to-learner assessment of performance.**
+- It should consider:
+    - What went well.
+    - What was deficient.
+    - The individual parts.
+    - How those parts relate.
+    - The overall performance.
+
+- **A critique should normally occur promptly while the details are still easy to recall.**
+
+- Critiques may be:
+    - Instructor/learner.
+    - Learner-led.
+    - Small-group.
+    - One learner critiquing another.
+    - Self-critique.
+    - Written.
+
+- **No matter who participates, the instructor maintains control of the assessment process.**
+    - Correct erroneous impressions.
+    - Resolve disagreements.
+    - Cover important items that were missed.
+    - Protect the learner's dignity.
+
+- **A group critique should never turn into public embarrassment.**
+
+- A poor critique would be:
+
+**"Your steep turn needs work."**
+
+- A useful critique would be:
+
+**"Your bank and airspeed were consistent. Most of the altitude loss happened during entry. On the next attempt, anticipate the additional pitch support as the bank develops."**
+
+- **The critique takes the evidence from the assessment and turns it into useful direction for the next performance.**
+
+- **One of the most common ways we gather and clarify assessment information—especially on the ground—is through oral questioning.**
+
+### 8. Oral Assessment — Ask Questions That Reveal Understanding
+
+- **Oral assessment helps us determine what the learner knows, remembers, understands, and can reason through.**
+
+#### Fact Questions
+
+- Usually rely on memory or recall.
+- Typically ask:
+    - Who?
+    - What?
+    - When?
+    - Where?
+
+#### Higher-Order Questions
+
+- Usually ask:
+    - **How?**
+    - **Why?**
+- These require the learner to combine facts, analyze the situation, solve a problem, and reach a conclusion.
+
+- **Good questioning can:**
+    - Reveal whether our teaching was effective.
+    - Check retention.
+    - Review previous material.
+    - Stimulate thinking.
+    - Maintain learner interest.
+    - Emphasize important points.
+    - Identify subjects needing more emphasis.
+    - Check comprehension.
+    - Encourage active participation.
+
+#### Effective Questions
+
+- **Effective questions should:**
+    - Apply directly to the subject.
+    - Be brief and concise.
+    - Be clear and definite.
+    - Match the learner's ability, experience, and stage of training.
+    - Center on one idea.
+    - Present an appropriate challenge.
+
+- **Ask the question and then give the learner time to think.**
+
+#### Questions to Avoid
+
+- **Avoid yes/no questions when you're trying to determine understanding.**
+    - "Do you understand?"
+    - "Any questions?"
+
+They provide very little evidence.
+
+Also avoid:
+
+- **Puzzle questions:** Unnecessarily complex combinations of conditions.
+- **Oversize questions:** So broad the learner does not know where to begin.
+- **Toss-up questions:** Force a false either/or between unrelated priorities.
+- **Bewilderment questions:** So complicated or poorly worded that understanding the question becomes harder than answering it.
+- **Trick questions:** Turn learning into a battle of wits.
+- **Irrelevant questions:** Introduce material unrelated to what is actually being assessed.
+
+#### Answering Learner Questions
+
+- **First understand what the learner is actually asking.**
+- Show interest.
+- Give a direct and accurate answer.
+- Make sure the answer actually satisfied the question.
+- Do not bury a simple question under advanced material the learner does not yet need.
+
+- **If you do not know the answer, say so.**
+- Then obtain the answer or help the learner find it in the appropriate reference.
+
+- **Guessing does more damage to credibility than admitting that you need to look something up.**
+
+- **Oral questions can tell us a great deal about knowledge and reasoning. But eventually, as flight instructors, we also have to determine what the learner can actually do in the airplane.**
+
+### 9. Assessment of Piloting Ability — Observe Performance Against the Standard
+
+- **Assessment of piloting ability is based on established performance standards.**
+- During training, the instructor also considers the learner's **experience and stage of development.**
+    - An early learner may still require coaching.
+    - A learner being considered for solo must demonstrate the necessary tasks consistently without instructor assistance.
+
+- **Assess the individual elements of the maneuver or procedure—not just the final outcome.**
+    - Did the learner clear the area?
+    - Establish the correct bank?
+    - Maintain altitude?
+    - Control airspeed?
+    - Coordinate the airplane?
+    - Roll out accurately?
+    - Recognize and correct deviations?
+
+- A maneuver may appear successful overall while still containing an important weakness that needs more instruction.
+
+- **Keep the learner informed of progress.**
+- That feedback may happen appropriately during the lesson or in the postflight critique.
+
+- **Assessment can also become an opportunity for reteaching.**
+- If I identify a deficiency:
+    - Demonstrate again if needed.
+    - Let the learner practice under direction.
+    - Observe the next performance.
+    - Reassess the result.
+
+- **For solo readiness, one good performance is not enough.**
+- We are looking for **consistent proficiency without instructor assistance** in the tasks necessary for the intended flight.
+
+- **During any flight assessment, safety still comes first.**
+- Observe enough to understand the learning problem, but intervene or discontinue the task when safety requires it.
+- Assessment never means giving away our responsibility for the instructional operation merely because we want to "see what happens."
+
+### 10. Put It Together — Assessment Should Drive the Next Instruction
+
+- **The assessment process is not simply test and grade.**
+
+It is:
+
+**Objective → Observe → Compare with the standard → Learner self-assessment → Instructor assessment → Next learning need**
+
+- **Start with the objective and standard.**
+    - What were we trying to accomplish?
+    - What did satisfactory performance look like?
+
+- **Collect the right evidence.**
+    - Facts?
+    - Performance?
+    - Judgment?
+
+- **Let the learner assess themselves when appropriate.**
+    - Replay.
+    - Reconstruct.
+    - Reflect.
+    - Redirect.
+
+- **Compare that assessment with observed performance.**
+- **Identify what is satisfactory and what still needs work.**
+- **Use that information to decide what instruction should happen next.**
+
+- **That's the purpose of assessment in flight instruction:** determine where the learner actually is, help the learner understand that performance accurately, and use the result to move them toward safe, independent performance.
+
+- **Assessment should always answer two questions:**
+
+**Where are we now?**  
+**What do we do next?**
 
 ## FI.I.D.K1 — Purpose and Characteristics of Effective Assessment
 
