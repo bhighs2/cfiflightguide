@@ -111,7 +111,416 @@ Solo and checkride both follow the same order — the required training in the m
 
 # Teach
 
-Teach endorsements as the CFI's signature carrying legal weight: a logbook entry documents what was done, and an endorsement authorizes what the pilot may do next. Use the actual regulation for the requirement and **AC 61-65K Appendix A** for the exact sample wording. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would take a student from first lesson to checkride.
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**There is one main idea in this lesson:** a logbook entry documents what training or experience occurred, while an endorsement certifies that a specific requirement has been met or a specific privilege has been authorized.
+
+A CFI's signature carries regulatory weight. Before signing anything, the instructor should know:
+
+- What regulation creates the requirement.
+- What training or experience must already be complete.
+- What the endorsement must say.
+- Whether the endorsement carries a limitation or expiration.
+- What record the instructor must retain.
+
+For the endorsement wording, use the current **AC 61-65 Appendix A**. For the legal requirement, go back to **14 CFR Part 61**.
+
+---
+
+### 1. Required Logbook Entries for Instruction Given
+
+- **The first distinction is between logging pilot experience and documenting training given.**
+
+- Under **§ 61.51(a)**, a person records the training and aeronautical experience used to meet:
+    - A certificate or rating requirement.
+    - A flight review requirement.
+    - Recent-flight-experience requirements.
+
+- Under **§ 61.51(b)**, each flight or lesson logged includes the information applicable to that entry, including:
+    - Date.
+    - Total flight or lesson time.
+    - Departure and arrival location, or lesson location when applicable.
+    - Aircraft type and identification when applicable.
+    - Type of pilot experience.
+    - Conditions of flight when applicable.
+
+#### Training Given
+
+- **When training is received from an authorized instructor, § 61.51(h) adds specific requirements.**
+
+- The training entry must:
+    - Be endorsed legibly by the authorized instructor.
+    - Describe the training given.
+    - State the length of the training lesson.
+    - Include the instructor's signature.
+    - Include the instructor's certificate number.
+    - Include the instructor's certificate expiration date or recent-experience end date, as applicable under the current rule.
+
+- Because flight instructor certificates are transitioning to non-expiring certificates, many current instructors will use the **recent-experience end date** rather than a certificate expiration date.
+
+- **The important point is that the entry should accurately document the training that actually occurred.**
+- Do not use a generic entry that says only "dual received" when the regulation requires a description of the training.
+
+- **Once we understand how training is documented, the next question is when an instructor's signature goes beyond documenting training and actually authorizes a student to exercise a privilege.**
+
+---
+
+### 2. Student Pilot Prerequisites, Pre-Solo Knowledge, and Solo Endorsements
+
+- **For the student-pilot sequence, use the mnemonic: TIM loves BCN.**
+
+**TIM loves BCN**
+
+- **T — TSA**
+- **I — IACRA**
+- **M — MedXPress**
+- **B — § 61.87(b), pre-solo aeronautical knowledge**
+- **C — § 61.87(c), pre-solo flight training**
+- **N — § 61.87(n), initial 90-calendar-day solo endorsement**
+
+- **The point of the mnemonic is the sequence: before we authorize solo, the student has to be legally eligible, properly certificated and medically qualified, then complete the required knowledge and flight training, and finally receive the solo endorsement.**
+
+#### T — TSA
+
+- **Before flight training begins, confirm the student meets the applicable TSA security requirements.**
+- For a U.S. citizen or national, the instructor or school verifies the required citizenship documentation and retains the required record.
+- A non-U.S. citizen or non-U.S. national follows the applicable TSA Flight Training Security Program process before receiving covered flight training.
+
+- **This is not a solo endorsement. It is a prerequisite to beginning covered flight training.**
+
+#### I — IACRA / Student Pilot Certificate
+
+- **The student needs a student pilot certificate before solo flight.**
+- The application is normally completed through **IACRA — Integrated Airman Certification and Rating Application**.
+
+- The instructor should make sure the student:
+    - Creates the IACRA account.
+    - Completes the student pilot application.
+    - Has the application processed by an authorized individual.
+    - Has the student pilot certificate issued before solo.
+
+- **The important distinction is that IACRA is the application system; the required item for solo is the student pilot certificate itself.**
+
+#### M — MedXPress / Medical Certificate
+
+- **The student also needs the required medical qualification before solo flight unless operating under an exception that does not require a medical certificate.**
+
+- For the normal private-pilot airplane training path:
+    - The applicant completes **FAA MedXPress** before the AME appointment.
+    - The AME conducts the medical examination.
+    - The student must hold the appropriate medical certificate before solo.
+
+- **A medical is not required simply to begin receiving flight instruction, but it must be in place before the student exercises solo privileges when a medical is required.**
+
+- **Once TSA, the student pilot certificate, and the medical are handled, we move into the actual § 61.87 solo-training requirements: BCN.**
+
+#### B — § 61.87(b): Pre-Solo Aeronautical Knowledge
+
+- Under **§ 61.87(b)**, the student must satisfactorily complete a pre-solo aeronautical knowledge test.
+
+- The test covers:
+    - Applicable operating rules.
+    - Airspace rules and procedures for the airport where the solo will occur.
+    - Flight characteristics and operating limitations for the make and model to be flown.
+
+- The instructor reviews the student's answers, corrects deficiencies, and endorses the student's logbook when the requirement is satisfactorily completed.
+
+- AC 61-65K provides the sample endorsement in **Appendix A, A.3**.
+
+#### C — § 61.87(c): Pre-Solo Flight Training
+
+- Under **§ 61.87(c)** and the applicable aircraft-specific paragraph, the student must receive and demonstrate proficiency in the required maneuvers and procedures for the **make and model** to be flown solo.
+
+- AC 61-65K provides the sample pre-solo flight-training endorsement in **A.4**.
+
+- **The training comes first. The endorsement documents that the required training and proficiency have been completed.**
+
+#### N — § 61.87(n): Initial Solo Endorsement
+
+- **The initial solo authorization is time limited.**
+
+- The initial solo endorsement under **§ 61.87(n)** is valid for a **90-calendar-day period**.
+
+- AC 61-65K provides the sample endorsement in **A.6**.
+
+- Additional 90-calendar-day solo periods require another endorsement under **§ 61.87(p)** after the instructor determines the student remains proficient.
+
+- AC 61-65K provides that endorsement in **A.7**.
+
+- **This is where the mnemonic brings the student to the first solo:**
+
+**TSA → IACRA → MedXPress → Knowledge → Flight Training → Solo Endorsement**
+
+#### Solo Cross-Country
+
+- **Solo cross-country adds another layer because the student needs both the underlying cross-country training and authorization for the specific flight.**
+
+- Under **§ 61.93(c)(1) and (2)**, the student receives the required cross-country training and a general solo cross-country endorsement.
+
+- AC 61-65K provides that endorsement in **A.9**.
+
+- Under **§ 61.93(c)(3)**, an instructor must review the preparation and planning for the **specific solo cross-country flight** and endorse that flight.
+
+- AC 61-65K provides that endorsement in **A.10**.
+
+- **The distinction matters:**
+    - The general endorsement says the student has received the required cross-country training.
+    - The per-flight endorsement says an instructor reviewed this particular flight.
+
+- A general cross-country endorsement does not eliminate the requirement for the specific-flight review.
+
+- **Student solo is the clearest example of endorsements authorizing privileges, but it is not the only operation where Part 61 requires a logbook endorsement.**
+
+### 3. Other Required Pilot Logbook Endorsements
+
+- **Some privileges require additional training and a specific logbook endorsement before the pilot may exercise them.**
+
+#### Class B Airspace
+
+- Student solo operations in Class B airspace or to, from, or at certain airports within Class B airspace require the training and endorsements specified by **§ 61.95**.
+
+- AC 61-65K provides separate sample endorsements for:
+    - Solo flight in Class B airspace.
+    - Solo flight to, from, or at an airport located within Class B airspace.
+
+- **The endorsement must match the privilege being authorized and any required location-specific limitation.**
+
+#### Special Federal Aviation Regulations
+
+- **An SFAR may create additional training and endorsement requirements.**
+
+- The instructor must use the applicable SFAR itself to determine:
+    - What training is required.
+    - Who may provide it.
+    - What privilege is being authorized.
+    - Whether the endorsement has limitations, currency, or experience requirements.
+
+#### Additional Aircraft Qualifications
+
+- Part 61 also requires training and logbook endorsements for certain aircraft qualifications, including:
+    - **Complex airplane — § 61.31(e).**
+    - **High-performance airplane — § 61.31(f).**
+    - **Pressurized aircraft requiring the high-altitude endorsement — § 61.31(g).**
+    - **Tailwheel airplane — § 61.31(i).**
+
+- These are endorsements authorizing a pilot to act as PIC under the applicable rule; they are not separate pilot certificates.
+
+- **The common principle is that the instructor must match the endorsement to the exact privilege and regulation involved.**
+
+- **That becomes especially important when the instructor is no longer authorizing one operating privilege, but recommending an applicant for an FAA practical test.**
+
+---
+
+### 4. Recommending an Applicant for a Practical Test
+
+- **A practical-test recommendation is more than signing one sentence in a logbook.**
+- The instructor is certifying that the applicant has met the applicable prerequisites and is prepared for the test.
+
+- The ACS requires us to understand recommendations for:
+    - **Initial pilot certification.**
+    - **Additional pilot certification.**
+    - **Additional aircraft qualification.**
+
+#### Practical-Test Prerequisites
+
+- Under **§ 61.39(a)(6)**, the applicant must have the required instructor endorsements showing that:
+    - The applicant received and logged the required training within the prescribed period before the test.
+    - The instructor has determined the applicant is prepared for the practical test.
+    - Any deficiencies identified on the knowledge test have been reviewed, when applicable.
+
+- AC 61-65K provides:
+    - **A.1** — practical-test prerequisite endorsement.
+    - **A.2** — review of knowledge-test deficiencies, when required.
+
+#### Initial Pilot Certification
+
+- For an initial certificate such as private pilot, the instructor verifies the applicant has satisfied the applicable:
+    - Eligibility requirements.
+    - Aeronautical knowledge requirements.
+    - Flight proficiency requirements.
+    - Aeronautical experience requirements.
+    - Practical-test prerequisites.
+
+- For private pilot, AC 61-65K provides the applicable knowledge-test and flight-proficiency/practical-test endorsement samples in the **Private Pilot Endorsements** section of Appendix A.
+
+- **The relevant certificate application must also accurately reflect the certificate and rating sought.**
+- The application may be completed through **IACRA** or on the applicable FAA Form 8710-1 process.
+
+#### Additional Pilot Certification
+
+- When recommending an applicant for an additional certificate, the instructor identifies the requirements that apply to that new certificate and verifies the appropriate training, experience, test prerequisites, endorsements, and application.
+
+- **Do not assume the endorsement package for one certificate automatically applies to another.**
+
+#### Additional Aircraft Qualification
+
+- For an added category, class, or type rating, the instructor uses the applicable Part 61 requirements for that qualification and ensures:
+    - The applicant has received the required training.
+    - The applicant is prepared for the applicable practical test.
+    - The logbook recommendation is correct.
+    - The certificate/rating application identifies the qualification sought.
+
+- AC 61-65K includes sample endorsements for additional aircraft category/class ratings and type ratings.
+
+- **The practical-test recommendation should always be checked against both the regulation and the current AC before the applicant relies on it.**
+
+---
+
+### 5. Flight Review Endorsement
+
+- **A flight review is documented only after satisfactory completion.**
+
+- Under **§ 61.56(a)**, a flight review consists of at least:
+    - **1 hour of flight training.**
+    - **1 hour of ground training.**
+
+- The review includes:
+    - Applicable operating and flight rules.
+    - Maneuvers and procedures necessary for the pilot to demonstrate safe exercise of certificate privileges.
+
+- After satisfactory completion, the instructor endorses the pilot's logbook.
+
+- AC 61-65K provides the sample completion endorsement in **A.69**.
+
+- **If the review is not satisfactorily completed, the instructor does not make a flight-review completion endorsement.**
+- The training that occurred may still be logged as training, but there is no endorsement stating that the flight review was satisfactorily completed.
+
+- **Once we sign endorsements for other pilots, Part 61 also requires us to keep certain instructor records of our own.**
+
+---
+
+### 6. Required Flight Instructor Records
+
+- Under **§ 61.189(a)**, a flight instructor signs the logbook of each person to whom the instructor gives flight or ground training.
+
+- Under **§ 61.189(b)**, the instructor must maintain a record containing:
+
+    - The name of each person whose logbook the instructor endorsed for **solo flight privileges**, and the date of that endorsement.
+
+    - The name of each person the instructor endorsed for a **knowledge test or practical test**, including:
+        - The kind of test.
+        - The date.
+        - The result.
+
+- Under **§ 61.189(c)**, those instructor records must be retained for **at least 3 years**.
+
+- **The student's logbook is not a substitute for the instructor's required record.**
+- The CFI should maintain a reliable record that can be produced if an endorsement is later questioned.
+
+---
+
+### 7. Flight Instructor Recent Experience and Reinstatement
+
+- **The current flight-instructor rules are based on recent experience rather than routine expiration of the instructor certificate.**
+
+- Under **§ 61.197**, a flight instructor may exercise instructor privileges only if the instructor has established recent experience within the preceding **24 calendar months**.
+
+- Recent experience may be established through one of the methods allowed by § 61.197, including:
+    - Passing an applicable flight instructor practical test.
+    - Meeting the required applicant recommendation/pass-rate standard.
+    - Serving in a qualifying pilot-evaluation or instructional position.
+    - Completing an approved flight instructor refresher course.
+    - Qualifying military instructor activity.
+    - Qualifying participation as an instructor in the FAA WINGS program.
+
+- **The key point is that a non-expiring flight instructor certificate does not mean instructor privileges remain current forever.**
+- The instructor must continue to satisfy § 61.197.
+
+#### Reinstatement
+
+- If recent experience lapses, the instructor may not exercise flight instructor privileges until they are reinstated under **§ 61.199**.
+
+- If **3 calendar months or less** have passed since the end of the recent-experience period, the instructor may reinstate privileges by successfully completing an approved FIRC and submitting the required application, or by using one of the other permitted reinstatement methods.
+
+- If **more than 3 calendar months** have passed, reinstatement generally requires an applicable flight instructor practical test, unless another specific provision such as the military option applies.
+
+- **There is still a transition provision for older flight instructor certificates that were issued with expiration dates before the non-expiring-certificate rule took effect.**
+- For current instruction, use the current version of §§ 61.197 and 61.199 and the current AC 61-65.
+
+---
+
+### 8. Risk Management — Limitations and Expiration Dates
+
+- **The specific ACS risk in this Task is issuing endorsements without the appropriate limitations or expiration dates.**
+
+- The risk is not simply bad paperwork.
+- A defective endorsement can result in a pilot exercising a privilege that has:
+    - Expired.
+    - Not actually been authorized.
+    - Been authorized for the wrong aircraft or operation.
+    - Been issued before the required training was complete.
+
+- Examples include:
+    - A student solo endorsement used beyond its 90-calendar-day period.
+    - A Class B endorsement that does not authorize the specific operation required.
+    - A solo cross-country flight conducted without the required flight-specific review and endorsement.
+    - An endorsement that omits a limitation required by the applicable regulation or circumstance.
+
+- **The instructor should verify the endorsement before signing it.**
+
+- Check:
+    - Is the required training complete?
+    - Is this the correct regulation?
+    - Is this the correct endorsement for the privilege?
+    - Is the make/model or other required limitation correct?
+    - Does it have the correct date or expiration period?
+    - Does the instructor information meet the current rule?
+
+- **Use AC 61-65K for the recommended wording, but use Part 61 to determine what is actually required.**
+
+---
+
+### 9. Prepare Required Entries and Endorsements
+
+- **The ACS requires the applicant to describe and prepare logbook entries or endorsements for at least two events from K1 through K5.**
+
+- Prepare actual entries from assigned scenarios and check each one against Part 61 and AC 61-65K.
+
+#### Scenario 1 — First Solo
+
+Prepare the required entries and endorsements for a student who has completed the required pre-solo knowledge and flight training and is ready for the first solo in the training make and model.
+
+The completed work should correctly address:
+- Pre-solo knowledge.
+- Pre-solo flight training.
+- Initial solo authorization.
+- Applicable 90-calendar-day limitation.
+- Instructor identification required by the current rule.
+
+#### Scenario 2 — Practical-Test Recommendation
+
+Prepare the required endorsements for an applicant who has completed the applicable training and is ready for a private-pilot practical test.
+
+The completed work should correctly address:
+- Practical-test prerequisites.
+- Knowledge-test deficiency review when applicable.
+- Applicable practical-test recommendation.
+- The relevant certificate/rating application.
+
+- **For each scenario, do not sign from memory alone.**
+- Locate the regulation, then verify the recommended endorsement wording in the current AC 61-65 Appendix A.
+
+---
+
+### Close
+
+- **Endorsements and logbook entries document training, verify requirements, and authorize privileges.**
+
+- The instructor should always be able to answer:
+
+    - What regulation requires this entry or endorsement?
+    - What must be completed before I sign it?
+    - What privilege am I authorizing?
+    - What limitation or expiration applies?
+    - What record do I need to retain?
+
+- **A CFI's signature should never be routine.**
+- It should mean the required training or experience has actually been completed, the pilot is prepared for the privilege or event being authorized, and the documentation accurately reflects the regulation.
+
 
 ## AI.II.K.K1 — Logbook Entries and Entries for Instruction Given
 

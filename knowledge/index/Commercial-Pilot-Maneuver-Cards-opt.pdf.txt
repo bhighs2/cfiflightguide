@@ -1,0 +1,147 @@
+DOCUMENT_TITLE: Commercial-Pilot-Maneuver-Cards-opt
+SOURCE_FILE: Commercial-Pilot-Maneuver-Cards-opt.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Commercial-Pilot-Maneuver-Cards-opt.pdf>>>
+========================================
+
+Objective:
+To complete two 360° turns with proper control technique 
+using 45° of bank while maintaining altitude, 
+coordination, orientation, and division of attention. 
+Steep Turns
+1.  Clearing Turns Complete
+2.  Heading Cardinal / Section Line
+3.  Power Mixture Rich
+2300 RPM
+4.  Airspeed 100 KTS
+5.  Attitude Level Turn, 45°- 50° Bank
+THROUGH 30° BANK
+6.  Attitude Increase Back Pressure to Maintain Altitude
+7.  Power Increase to Maintain Airspeed
+8.  Coordination Maintain
+ROLLOUT
+9.  Attitude Reduce Bank 10° Before Target Heading
+Reduce Back Pressure Through 30° Bank
+10.  Power Decrease to Maintain Airspeed (2300 RPM)
+11.  Coordination Maintain
+12.  Straight and Level Establish
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:Commercial-Pilot-Maneuver-Cards-opt.pdf>>>
+========================================
+
+Objective:
+To maintain coordinated ﬂight throughout the 
+maneuver, with constantly changing pitch and 
+bank.
+Lazy Eights
+1.  Perform two 90° clearing turns
+2.  100 KTS (*2300 RPM) maintain altitude
+3.  Clean conﬁguration ﬂow
+4.  Choose a reference point off wing
+5.  Simultaneously increase pitch and bank (SLOWLY)
+6.  45° point: 15° pitch up / 15° bank
+7.  Reduce pitch / increase bank
+8.  90° point: level pitch / 30° bank (minimum speed 5-10 KTS above stall)
+9.  Continue reducing pitch and gradually reducing bank
+10.  135° point: 15° pitch down / 15° bank
+11.  180° point: level ﬂight at entry airspeed and altitude
+12.  Repeat in opposite direction
+13.  Cruise checklist
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:Commercial-Pilot-Maneuver-Cards-opt.pdf>>>
+========================================
+
+Objective: To complete a maximum performance 180° turn
+Chandelle 
+1.  Perform two 90° clearing turns
+2.  105 KTS (*2300 RPM) maintain altitude
+3.  Clean conﬁguration ﬂow
+4.  Choose a reference point off wing
+5.  Establish / maintain 30° bank
+6.  Full Throttle - Gradually increase pitch to attain approx. 10-12° pitch up by the 90° 
+point. First 90° of turn: Bank = constant 30°, Pitch = Gradually increasing to 10-12° 
+pitch up
+7.  At 90° point: maintain constant pitch while gradually reducing bank angle to attain
+     level ﬂight at 180° point at a speed approaching stall. Second 90° of turn: 
+     Pitch =  constant 10-12° pitch up, bank gradually decreasing to wings level
+8.  180° point: Wings level at minimum controllable airspeed
+9.  Accelerate while maintaining level off altitude 
+10.  Cruise checklist
+Level Flight: 105 KTS
+30° Bank
+10-12° Pitch-Up
+Level Flight: Minimum Controllable
+                     Airspeed
+
+
+========================================
+<<<PDF_PAGE:4>>>
+<<<SOURCE_FILE:Commercial-Pilot-Maneuver-Cards-opt.pdf>>>
+========================================
+
+Objective:
+To simulate an emergency situation where an 
+aircraft must descend as rapidly as possible to 
+an emergency landing.
+Steep Spirals
+1.  Altitude - at least 3000' AGL
+2.  Perform two 90° clearing turns
+3.  90 KTS (*1800 RPM) maintain altitude
+4.  Clean conﬁguration ﬂow
+5.  Choose appropriate landing site as a visual reference point 
+6.  Reduce throttle to idle
+7.  Track at least three constant radius circles around reference point
+8.  Airspeed - constant
+9.  Bank angle — adjust for winds — not to exceed 60° 
+10.  Clear engine once every 360° turn
+11.  Recover — roll out on speciﬁed heading (visual reference)
+12.  Adjust DG/HSI to compass
+13.  Cruise checklist
+Note: The DG/HSI will precess during this maneuver. Rely on visual references.
+
+
+========================================
+<<<PDF_PAGE:5>>>
+<<<SOURCE_FILE:Commercial-Pilot-Maneuver-Cards-opt.pdf>>>
+========================================
+
+Objective:
+To ﬂy around each pylon at the pivotal altitude. Pivotal 
+altitude depends on groundspeed. The faster the 
+groundspeed, the higher the pivotal altitude. The altitude 
+will be continuously varied with changes in groundspeed.
+Eights On Pylons
+1.  Determine pivotal altitude (Formula below)
+2.  Enter pivotal altitude (Approx. 900' AGL at 110 MPH - *2300 RPM)
+3.  Perform two 90° clearing turns
+4.  Clean conﬁguration ﬂow
+5.  Select two pylons to allow for 3 to 5 seconds wings level
+     between the two pylons. Approximately 2/3 to 3/4 mile apart  
+6.  Enter maneuver on a 45° midpoint downwind
+7.  Apply appropriate pitch corrections to compensate for changes in groundspeed,    
+     maintain coordinated ﬂight at all times, and;
+8.  To maintain line of sight reference with the pylon (pitch forward if point moves
+     toward nose and pitch back if point moves toward tail).
+9.  Begin roll out to allow the airplane to proceed diagonally between the pylons at a
+     45° angle.
+10.  Begin second turn in the opposite direction of the ﬁrst 
+11.  Exit maneuver on entry heading
+12.  Cruise checklist
+Note:  The wing tip 
+should be pointing at 
+the pylons throughout 
+the turns.
+Ground Speed2
+11.3
+Pivotal ALT 
+Ground =

@@ -35,7 +35,7 @@ The general hierarchy is:
 **ACS = Coverage Requirements**  
 **FAA Literature = Technical Authority**  
 **Instructor Notes = Teaching Story**  
-**Fly / Application = Procedural Execution**  
+**Fly / Application = Procedural Execution or Operational Practice**  
 **Review = Recall and Checkride Preparation**
 
 ---
@@ -219,7 +219,237 @@ Use the previous concept to create the need for the next.
 
 ---
 
-# 5. Default Flow — Maneuver / Technical Lessons
+# 5. Default Flow — Technical Subject Areas
+
+Technical subject areas should not be forced into either the FOI pattern or the maneuver pattern.
+
+Examples include:
+
+- Runway incursion avoidance
+- Airspace
+- Airport operations
+- Weather services
+- Navigation systems
+- Aircraft systems
+- Aeromedical factors
+- Regulations
+- Performance and limitations
+- Collision avoidance
+- Night operations
+- High-altitude operations
+- Emergency equipment or procedures discussed primarily as knowledge
+
+These lessons usually work best when organized around an **operational problem or decision**, not around a maneuver sequence.
+
+The default flow is:
+
+**Operational problem → Governing concept → Recognition cues → Pilot actions / decision points → Risk traps → Instructor application**
+
+## Recommended Technical Subject Structure
+
+### 1. What Is the Operational Problem?
+
+Start with the real-world issue the learner is trying to manage.
+
+Answer:
+
+- What can go wrong?
+- Why does the pilot care?
+- What is the operational consequence?
+
+Example for runway incursions:
+
+**The problem is not simply failing to identify a hold-short line. The problem is allowing uncertainty about position, clearance, or runway status to become movement.**
+
+This gives the lesson a purpose before introducing definitions or details.
+
+### 2. Define the Governing Concept
+
+Use the FAA definition or governing principle.
+
+Examples:
+
+- Runway incursion
+- Controlled vs uncontrolled airspace
+- Hypoxia
+- Density altitude
+- Wake turbulence
+- Special-use airspace
+- Required inspections
+
+Keep the definition concise, then immediately explain its operational meaning.
+
+### 3. Identify the Main Contributing Factors or System Relationships
+
+Ask:
+
+**What creates this problem?**
+
+Organize the FAA material into a small number of meaningful categories.
+
+Example for runway-incursion avoidance:
+
+**Communication → Airport Knowledge → Orientation**
+
+Example for hypoxia:
+
+**Reduced oxygen availability → impaired performance → delayed recognition → need for corrective action**
+
+Example for airspace:
+
+**Airspace type → operating requirements → equipment / communication / weather minimums → pilot action**
+
+The categories should come from FAA literature where possible.
+
+### 4. Recognition Cues — What Should the Pilot Notice?
+
+Technical subjects often depend on recognition rather than physical maneuver execution.
+
+Teach the learner what cues matter:
+
+- Signs
+- Markings
+- Lights
+- Weather trends
+- Instrument indications
+- Symptoms
+- Chart symbols
+- ATC phraseology
+- Aircraft indications
+- Regulatory triggers
+
+The learner should understand:
+
+**What am I looking for? → What does it mean?**
+
+### 5. Pilot Actions and Decision Points
+
+Once the learner recognizes the condition, explain what the pilot should do.
+
+This is not necessarily a full "Fly" procedure.
+
+Focus on operational decisions.
+
+Examples:
+
+- Stop and clarify before taxiing farther.
+- Do not cross a runway without authorization.
+- Descend or use oxygen when hypoxia is suspected.
+- Remain clear of airspace unless requirements are met.
+- Recalculate performance when conditions change.
+- Discontinue an operation when limitations are exceeded.
+
+Use causal language:
+
+**Cue → Meaning → Required decision or action**
+
+### 6. Risk Management — Where Does the Process Break Down?
+
+Tie the ACS Risk Management elements directly to the operational process.
+
+Common technical-subject risks include:
+
+- Distraction
+- Confirmation / expectation bias
+- Miscommunication
+- Task saturation
+- Loss of situational awareness
+- Misidentification
+- Failure to verify
+- Time pressure
+- External pressure
+- Night or low-visibility degradation
+- Automation dependency
+- Misapplication of a regulation or procedure
+
+Do not merely repeat the risk title.
+
+Explain:
+
+- What creates the risk
+- How the pilot recognizes it
+- Why it matters
+- What breaks the error chain
+
+### 7. Common Failure Modes / Misunderstandings
+
+Technical subjects may not have "common errors" in the maneuver sense.
+
+Instead use:
+
+#### [Failure Mode or Misunderstanding]
+
+- **What we see:** observable behavior or incorrect reasoning
+- **Why it happens:** underlying misunderstanding, bias, or missed cue
+- **Correction:** correct FAA-grounded interpretation or action
+
+Example:
+
+#### Expecting the Usual Taxi Route
+
+- **What we see:** Pilot begins turning toward the normal runway despite a different clearance.
+- **Why it happens:** Expectation bias substitutes the familiar route for the clearance actually issued.
+- **Correction:** Compare the clearance with the diagram and outside cues; stop and clarify if they do not agree.
+
+### 8. Instructor Application — Make the Learner Decide
+
+The Instructor Notes should end by moving from explanation into application.
+
+For technical subjects, the best application is often:
+
+- Scenario
+- Diagram exercise
+- Chart exercise
+- ATC clearance
+- Weather decision
+- Systems indication
+- Regulatory scenario
+- Risk-management problem
+
+The learner should have to:
+
+**Recognize → Interpret → Decide → Explain**
+
+Avoid ending with pure recall if the subject is operational.
+
+Example for runway incursions:
+
+- Give a complex taxi clearance.
+- Require the learner to trace it.
+- Add a runway change or Hot Spot.
+- Ask what must happen before crossing each runway.
+- Introduce uncertainty.
+- The desired response is to stop, verify, and clarify before proceeding.
+
+### 9. Transition to Application / Scenario
+
+Preferred handoff:
+
+**At this point the learner understands what creates the problem, what cues to look for, and what decisions prevent it. The Application section can now put those decisions into a realistic operating scenario.**
+
+## Technical Subject Rule
+
+For technical subjects:
+
+**Teach the operational problem first. Then teach the information needed to solve it.**
+
+Do not begin with a disconnected list of:
+
+- Definitions
+- Regulations
+- Signs
+- Numbers
+- Acronyms
+
+unless that order is genuinely the clearest way to understand the operation.
+
+The learner should leave knowing:
+
+**What am I looking at? → What does it mean? → What am I going to do about it?**
+
+---
+
+# 6. Default Flow — Maneuver / Performance Lessons
 
 Maneuver and technical lessons should generally follow:
 
@@ -335,7 +565,7 @@ Preferred form:
 
 ---
 
-# 6. What Belongs in Instructor Notes vs Fly
+# 7. What Belongs in Instructor Notes vs Fly / Application
 
 ## Instructor Notes Should Contain
 
@@ -354,7 +584,9 @@ Preferred form:
 - Teaching emphasis
 - Speakable transitions
 
-## Fly Should Contain
+## Fly / Application Should Contain
+
+For maneuver lessons:
 
 - Setup
 - Configuration
@@ -371,23 +603,37 @@ Preferred form:
 - Maneuver repetition
 - Procedural common-error correction
 
+For technical subject areas, Application may instead contain:
+
+- Scenario exercises
+- Diagrams
+- Taxi clearances
+- Weather decisions
+- Chart interpretation
+- ATC phraseology
+- Systems indications
+- Regulatory decisions
+- Risk-management problems
+
 ## Avoid Duplication
 
 Instructor Notes may briefly reference what the pilot must accomplish.
 
-They should not repeat:
+For maneuver lessons, they should not repeat:
 
 **Setup → Entry → Execution → Rollout**
 
 when that sequence already exists in Fly.
 
-The Instructor Notes explain **why**.
+For technical lessons, they should not fully solve every scenario before the learner reaches Application.
 
-The Fly section explains **how**.
+The Instructor Notes explain **why and what to recognize**.
+
+Fly / Application explains **how to execute or apply it**.
 
 ---
 
-# 7. Risk Management Writing Standard
+# 8. Risk Management Writing Standard
 
 Risk should feel connected to the lesson rather than appended as an ACS compliance block.
 
@@ -417,7 +663,7 @@ Explain the operational meaning.
 
 ---
 
-# 8. Common Error Writing Standard
+# 9. Common Error / Failure-Mode Writing Standard
 
 The common-error section should help an instructor diagnose.
 
@@ -439,7 +685,7 @@ This teaches the instructor to identify the learning problem rather than simply 
 
 ---
 
-# 9. Aviation Examples
+# 10. Aviation Examples
 
 Examples should be:
 
@@ -472,7 +718,7 @@ Preferred aviation contexts:
 
 ---
 
-# 10. Speakability Standard
+# 11. Speakability Standard
 
 Instructor Notes should sound like something the instructor can actually say.
 
@@ -504,7 +750,7 @@ Do not bold every sentence.
 
 ---
 
-# 11. Markdown Structure Standard
+# 12. Markdown Structure Standard
 
 Use:
 
@@ -552,7 +798,7 @@ Do not flatten hierarchical concepts into one paragraph.
 
 ---
 
-# 12. Closing Standard
+# 13. Closing Standard
 
 The Close should not merely repeat the entire lesson.
 
@@ -571,13 +817,20 @@ For FOI lessons, the Close should normally:
 - Connect the concepts into one learning process
 - Emphasize what the instructor should do differently
 
+For technical subject areas, the Close should normally:
+
+- Restate the operational problem
+- Reconnect the key recognition cues to the required decision
+- Reinforce the error-breaking action
+- Transition into scenario/application work when applicable
+
 Preferred ending style:
 
 **The end goal is not simply [rote performance or memorization]. It is a learner who understands why, recognizes changing conditions, and can apply the knowledge safely without waiting for the instructor to supply every answer.**
 
 ---
 
-# 13. Authoring Workflow
+# 14. Authoring Workflow
 
 Use this workflow every time a new lesson is created.
 
@@ -622,11 +875,15 @@ That determines the lesson order.
 
 ## Step 5 — Choose the Lesson Type
 
-If FOI / conceptual:
+If **FOI / conceptual**:
 
 **Definition → Meaning → Mechanism → Example → Instructor Application → Next Concept**
 
-If maneuver / technical:
+If **technical subject area**:
+
+**Operational problem → Governing concept → Recognition cues → Decisions / actions → Risk traps → Scenario application**
+
+If **maneuver / performance**:
 
 **Purpose → Relationships → Risk → Errors → Instructor Emphasis → Fly**
 
@@ -673,7 +930,7 @@ Before finishing, confirm:
 
 ---
 
-# 14. Flight Guide Governing Principles
+# 15. Flight Guide Governing Principles
 
 These principles should remain consistent across all lessons.
 
@@ -687,7 +944,9 @@ These principles should remain consistent across all lessons.
 
 **Use FAA literature as the technical authority.**
 
-**Instructor Notes explain why. Fly explains how.**
+**Instructor Notes explain why and what to recognize. Fly / Application explains how to execute or apply it.**
+
+**For technical subjects, teach the operational problem first, then the information needed to solve it.**
 
 **Transitions should make the lesson feel like one continuous story.**
 

@@ -113,6 +113,324 @@ Watch for **altitude control during deceleration**, the transition to **high AOA
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in slow flight is precise airplane control at low airspeed and high angle of attack, where the margin to a stall warning is small and the controls feel less effective.**
+
+This maneuver teaches us how the airplane feels and responds when it is operating close to the critical angle of attack, while still remaining fully under control and **without activating the stall warning**.
+
+The most useful control relationship is:
+
+**Pitch controls airspeed.**  
+**Power controls flightpath.**  
+**Rudder maintains coordination.**
+
+That is especially important because slow flight places us on the back side of the power curve, where slower flight requires more power to maintain altitude.
+
+### Real-World Application
+
+Slow flight is not something we do just for the checkride.
+
+We operate in slow-flight conditions during:
+
+- Takeoff.
+- Climb.
+- Approach.
+- Landing.
+- Go-around.
+
+A good real-world example is a **short-field or soft-field approach**, where the airplane may be at relatively high AOA and low airspeed close to the ground.
+
+If the airplane starts to sink in that condition, simply pulling harder may increase AOA toward the stall.
+
+The pilot needs to understand the relationship between **pitch, power, AOA, and available performance**.
+
+### What Is Slow Flight?
+
+For this maneuver, the ACS target is an airspeed at which any further:
+
+- **Increase in angle of attack**
+- **Increase in load factor**
+- **Reduction in power**
+
+would result in a **stall warning**.
+
+The maneuver itself is flown **without the warning active**.
+
+That is an important distinction.
+
+We are not trying to sit on the horn or buffet.
+
+We are trying to operate just above that point so we can feel and control the airplane precisely while preserving a small but definite stall margin.
+
+### Why the Airplane Feels Different
+
+At slow speed, the airplane is flying at a higher angle of attack.
+
+That creates several noticeable changes:
+
+- Induced drag increases.
+- More power is required to maintain altitude.
+- Controls become less responsive.
+- Larger control movements may be required.
+- Left-turning tendencies become more pronounced because power is relatively high and airspeed is low.
+- The margin between normal flight and a stall warning becomes small.
+
+This is why the maneuver needs smooth control inputs and good coordination.
+
+### Region of Reversed Command
+
+Below approximately **L/D MAX**, total drag begins to increase again as airspeed decreases.
+
+That is the **region of reversed command**.
+
+In this region:
+
+- Slower airspeed requires **more power** to maintain altitude.
+- Faster airspeed requires **less power**.
+
+So in slow flight:
+
+**Pitch is the primary control for airspeed.**  
+**Power is the primary control for altitude or flightpath.**
+
+They still work together, but this is the cleanest way to think about the maneuver.
+
+### Angle of Attack, Load Factor, and Bank
+
+A wing stalls because it exceeds its **critical angle of attack**, not because it reaches one fixed airspeed.
+
+At slow-flight speed, the airplane is already operating at relatively high AOA.
+
+If we increase bank while trying to maintain altitude:
+
+- Load factor increases.
+- Required lift increases.
+- AOA increases.
+- Stall speed increases.
+- The margin to the stall warning gets smaller.
+
+That is why turns in slow flight must be smooth, coordinated, and conservative.
+
+### Weight and Center of Gravity
+
+Weight and CG affect the way the airplane behaves in slow flight.
+
+- **Higher weight** requires more lift and generally a higher AOA at a given speed.
+- A heavier airplane reaches the warning or stall at a higher airspeed than a lighter airplane.
+- **Forward CG** generally requires more tail-down force, more wing lift, and more control pressure.
+- **Aft CG** reduces longitudinal stability and can make stall/spin recovery more difficult.
+
+The exact warning speed is therefore not one fixed number.
+
+It changes with the airplane and the conditions.
+
+### Power and Yaw
+
+Slow flight requires relatively high power while the airplane is at high AOA.
+
+That makes left-turning tendencies more noticeable.
+
+Expect:
+
+- More right rudder than in cruise.
+- More right rudder as power increases.
+- Less right rudder as power decreases.
+
+**Rudder is important here because uncoordinated slow flight near the stall can quickly become a spin problem.**
+
+### Configuration
+
+The current CFI ACS evaluates this task in **cruise configuration**, but the learner still needs to understand how configuration changes affect slow flight.
+
+Flaps change:
+
+- Lift.
+- Drag.
+- Pitch.
+- Trim.
+- Stall behavior.
+
+Any configuration change needs to be made within POH limitations and anticipated with the appropriate pitch, power, and trim changes.
+
+### Entry
+
+- Clear the area.
+- Select an altitude that allows the maneuver to be completed no lower than **1,500 feet AGL**.
+- Establish **cruise configuration** unless the evaluator specifies otherwise.
+- Establish an entry speed below the applicable maneuvering speed.
+- Reduce power smoothly.
+- Maintain altitude with increasing back-elevator pressure as airspeed decreases.
+- Approaching the target slow-flight condition, add power to stop the deceleration and maintain altitude.
+- Establish an airspeed at which one further adverse change would cause a stall warning, but keep the warning **off**.
+- Maintain coordination with the required right rudder.
+- Stabilize attitude and power.
+- Trim.
+
+### Maneuver
+
+1. **Establish and maintain straight-and-level slow flight.**
+2. Use **pitch for airspeed**.
+3. Use **power for altitude or flightpath**.
+4. Maintain coordination with rudder.
+5. Maintain an outside-dominant scan.
+6. Perform the specified turns with smooth bank changes.
+7. Anticipate the added lift and power required in a turn.
+8. Perform climbs and descents while maintaining the target slow-flight airspeed and coordination.
+9. If any stall warning occurs:
+    - **Reduce AOA immediately** until the warning stops.
+    - Maintain coordination.
+    - Then reestablish the desired flightpath and airspeed.
+10. Recover by:
+    - Adding power.
+    - Reducing AOA.
+    - Maintaining coordination.
+    - Accelerating.
+    - Returning to the desired cruise condition.
+    - Retrimming.
+
+### ACS Standards — Maneuvering During Slow Flight
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **1,500 feet AGL** for ASEL.
+- Establish and maintain an airspeed at which any further:
+    - Increase in AOA
+    - Increase in load factor
+    - Reduction in power
+  would result in a stall warning.
+- Maintain the maneuver **without a stall warning**.
+- Accomplish coordinated:
+    - Straight-and-level flight
+    - Turns
+    - Climbs
+    - Descents
+- Use the configuration specified by the evaluator.
+- Maintain:
+    - **Altitude ±50 feet**
+    - **Heading ±10°**
+    - **Airspeed +5/-0 knots**
+    - **Bank ±5°**
+- Analyze and correct common errors.
+
+### Common Errors — Maneuvering During Slow Flight
+
+- Failure to adequately clear the area.
+- Improper entry technique.
+- Failure to establish the specified configuration.
+- Failure to establish and maintain the required airspeed.
+- Excessive altitude or heading deviations.
+- Uncoordinated use of flight controls.
+- Improper correction for torque and left-turning tendencies.
+- Improper trim technique.
+- Fixation on the instruments.
+- Poor division of attention.
+- Excessive or abrupt control inputs.
+- Unintentional stall or allowing the stall warning to remain active.
+- Inappropriate removal of the hand from the throttle when immediate power may be required.
+- Failure to anticipate configuration changes.
+- Failure to anticipate the additional lift/power requirement in turns.
+
+### Risk Management
+
+#### Inadvertent Slow Flight or Stall Warning
+
+The airplane is operating close to the critical AOA.
+
+If airspeed decays, load factor increases, or power is reduced without correction, the airplane may reach the stall warning or stall.
+
+**Any stall warning means reduce AOA immediately.**
+
+Do not try to preserve altitude or pitch attitude at the expense of stall avoidance.
+
+#### Stall-Warning Limitations
+
+The stall warning is not the only cue.
+
+Use:
+
+- Sight.
+- Sound.
+- Feel.
+- Buffet.
+- Control response.
+- Installed warning systems.
+
+Do not rely on one horn or one number.
+
+#### Uncoordinated Flight
+
+High power, high AOA, and low airspeed make yaw effects more pronounced.
+
+A stall while uncoordinated can develop into a spin.
+
+Maintain coordinated flight at all times.
+
+#### Environmental Effects
+
+Turbulence, wind shear, microbursts, and high-density altitude can reduce the available performance margin.
+
+Turbulence can produce sudden AOA and load-factor changes.
+
+High density altitude reduces power available and climb performance.
+
+If the airplane cannot safely maintain the maneuver, discontinue it.
+
+#### Collision Hazards
+
+Slow flight has a high workload and can tempt the pilot to look inside too much.
+
+Clear the area before beginning and maintain an outside-dominant traffic scan.
+
+#### Distraction and Situational Awareness
+
+Do not let the explanation of the maneuver interfere with flying it.
+
+If aircraft control, traffic awareness, or orientation begins to deteriorate:
+
+- Aviate first.
+- Reestablish control.
+- Resume instruction only when stable.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **Slow flight is high-AOA flight with a small margin to the stall warning.**
+2. **Pitch controls airspeed.**
+3. **Power controls flightpath.**
+4. **Rudder maintains coordination.**
+5. **Any stall warning requires an immediate AOA reduction.**
+6. **Turns increase load factor and reduce the stall margin.**
+7. **The target is not one memorized airspeed; it is the actual warning-free condition for the airplane and conditions.**
+
+### Close
+
+Slow flight teaches us what the airplane feels like close to the stall while still under precise control.
+
+The pilot has to manage:
+
+- Airspeed.
+- Altitude.
+- AOA.
+- Power.
+- Coordination.
+- Load factor.
+- Traffic.
+- Stall margin.
+
+The key relationship is:
+
+**Pitch for airspeed → Power for flightpath → Rudder for coordination**
+
+And the most important safety rule is:
+
+**If the stall warning activates, reduce AOA immediately.**
+
+
 ## K1 — Purpose and Procedures for Proper Slow Flight
 
 Slow flight develops the ability to operate at **low airspeed and high AOA** while preserving precise, coordinated control. The current CFI Task evaluates the maneuver in **cruise configuration**, although understanding configuration effects remains essential because comparable conditions occur during takeoff, approach, landing, and go-around.
