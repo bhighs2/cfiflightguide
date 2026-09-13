@@ -93,6 +93,357 @@ Complete above **3,000 feet AGL**, configure as specified, remain at or below ap
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in an accelerated stall is that the airplane can stall at an airspeed well above its normal 1G stall speed whenever load factor increases.**
+
+That happens because the wing is being asked to produce more lift.
+
+To produce more lift, we increase angle of attack.
+
+If we keep increasing AOA until we reach the critical angle:
+
+**the wing stalls—even though the airspeed may still look relatively high.**
+
+That is the whole point of this maneuver.
+
+### Real-World Application — Aggressive Pull-Up or Steep Turn
+
+A realistic example is recovering too aggressively from a steep descent.
+
+The pilot sees the ground coming up, pulls hard, and dramatically increases load factor.
+
+The airplane may still be moving fast, but that aggressive pull can raise AOA to the critical angle and produce an accelerated stall.
+
+Another example is an overshot base-to-final turn.
+
+The pilot tightens the turn, increases bank, and adds back pressure to hold altitude.
+
+Now:
+
+- Load factor increases.
+- Required lift increases.
+- AOA increases.
+- Stall speed increases.
+
+The airplane can stall at a much higher airspeed than the pilot expects.
+
+### What Is an Accelerated Stall?
+
+An accelerated stall is a stall that occurs with a load factor greater than **1G**.
+
+The wing still stalls for exactly the same reason:
+
+**Critical AOA is exceeded.**
+
+The difference is that the increased load factor causes critical AOA to be reached at a higher indicated airspeed.
+
+So:
+
+**More load factor → higher stall speed**
+
+That is why accelerated stalls can be surprising.
+
+The airplane may:
+
+- Be moving relatively fast.
+- Be in a lower pitch attitude than expected.
+- Stall abruptly.
+
+### Load Factor
+
+Load factor is the ratio of the total load acting on the airplane to the airplane's weight.
+
+It is expressed in **Gs**.
+
+In straight-and-level, unaccelerated flight:
+
+**Load factor = 1G**
+
+As we increase bank in a level turn, the wing must produce more total lift to maintain altitude.
+
+That means load factor increases.
+
+At approximately:
+
+- **45° bank → about 1.4G**
+- **60° bank → 2G**
+
+The stall speed increases with the square root of load factor.
+
+So if load factor increases, stall speed increases.
+
+### Bank, Back Pressure, and AOA
+
+In a level turn, part of the lift vector is horizontal.
+
+To keep the airplane from descending, we need more total lift.
+
+How do we get that lift?
+
+**Back pressure.**
+
+Back pressure increases AOA.
+
+That gives us the relationship:
+
+**Bank increases → load factor increases → back pressure increases → AOA increases → stall speed increases**
+
+If we continue increasing AOA until critical AOA is reached:
+
+**the airplane stalls.**
+
+### Maneuvering Speed — VA
+
+Accelerated stalls should be demonstrated at or below the applicable **maneuvering speed, VA**.
+
+At or below VA, under the design assumptions, a full abrupt control input should stall the airplane before the limit load factor is exceeded.
+
+But VA is not one fixed number.
+
+It changes with weight.
+
+As weight decreases:
+
+**VA decreases.**
+
+For the C172S:
+
+- **2,550 lb → 105 KIAS**
+- **2,200 lb → 98 KIAS**
+- **1,900 lb → 90 KIAS**
+
+Do not enter the maneuver above the applicable VA or other POH/AFM limitation.
+
+### Configuration
+
+The evaluator specifies the configuration.
+
+For the accelerated-stall demonstration, flaps should remain **retracted**.
+
+The flaps-down structural load limit is lower, and accelerated stalls should not be intentionally demonstrated with flaps extended.
+
+### Stall Recognition
+
+An accelerated stall can feel different from a normal 1G stall.
+
+The stall may be:
+
+- More abrupt.
+- Sharper in buffet.
+- More sudden in pitch.
+- More sudden in roll.
+
+The airplane may also be in a relatively normal or even nose-low attitude when the stall occurs.
+
+Recognize:
+
+- Stall horn.
+- Buffet.
+- Rapidly increasing control force.
+- Wing drop.
+- Yaw.
+- Sudden loss of normal control response.
+
+**This is an impending-stall maneuver. Recover at the first indication.**
+
+Do not intentionally continue to a full stall.
+
+### Coordination
+
+Coordination is critical.
+
+If the airplane stalls while coordinated, both wings are more likely to stall symmetrically.
+
+If the airplane is slipping or skidding, one wing may reach critical AOA before the other.
+
+That can produce a rapid roll and possible spin entry.
+
+**High load factor plus yaw is a dangerous combination.**
+
+### Entry
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
+- Establish the configuration specified by the evaluator.
+- Ensure flaps are **retracted**.
+- Establish an airspeed **at or below the applicable VA** and within all other POH/AFM limitations.
+- Set power appropriate for the configuration.
+- Establish a coordinated **45° bank**.
+- Stabilize the turn.
+- Smoothly and firmly increase elevator back pressure.
+- Continue increasing AOA until the **first indication of an impending stall**.
+- Call the cue.
+- Recover immediately.
+
+### Recovery
+
+The first action is:
+
+**Reduce AOA.**
+
+1. **Disconnect automation**, if equipped.
+2. **Release sufficient elevator back pressure to reduce AOA** and eliminate the stall warning.
+3. **Maintain coordination.**
+4. **Level the wings after reducing AOA.**
+5. Adjust power as necessary.
+6. Configure the airplane as recommended by the manufacturer.
+7. Accelerate to **VX or VY**, as appropriate.
+8. Return to the altitude, heading, and airspeed specified by the evaluator.
+
+Power may or may not need to be increased.
+
+If the airplane already has substantial airspeed, additional power may not be necessary immediately.
+
+The essential recovery action is still:
+
+**Reduce AOA.**
+
+### ACS Standards — Accelerated Stalls
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
+- Establish the configuration specified by the evaluator.
+- Set power appropriate for the configuration.
+- Do not exceed:
+    - Applicable **VA**
+    - Any other applicable POH/AFM limitation
+- Establish and maintain a coordinated turn at **45° bank**.
+- Increase elevator back pressure **smoothly and firmly** until an impending stall is reached.
+- Acknowledge the cue at the **first indication of stall**.
+- Recover promptly.
+- Execute the stall recovery in accordance with the POH/AFM.
+- Configure the airplane as recommended by the manufacturer.
+- Accelerate to **VX or VY**.
+- Return to the altitude, heading, and airspeed specified by the evaluator.
+- Analyze and correct common errors.
+
+### Common Errors — Accelerated Stalls
+
+- Failure to adequately clear the area.
+- Failure to establish the specified configuration before entry.
+- Entering above the applicable VA.
+- Improper power setting.
+- Failure to establish and maintain the 45° bank.
+- Abrupt or excessive back pressure.
+- Uncoordinated flight.
+- Failure to recognize the first indication of the stall.
+- Continuing beyond the first indication toward a full stall.
+- Improper or inadequate demonstration of stall recognition.
+- Improper or inadequate recovery.
+- Attempting to level the wings before reducing AOA.
+- Adding unnecessary power before reducing AOA.
+- Failure to maintain reduced AOA until the stall warning is eliminated.
+- Secondary stall during recovery.
+- Excessive airspeed buildup during recovery.
+- Failure to explain the hazards of poor accelerated-stall recovery technique.
+- Loss of situational awareness after recovery.
+
+### Risk Management
+
+#### Accelerated Stall, Spin, and Loss of Control
+
+The major hazard is combining:
+
+- High load factor.
+- High AOA.
+- Yaw.
+
+That can produce an abrupt stall and spin.
+
+Maintain coordination and recover at the first cue.
+
+#### VA and Structural Limits
+
+Entering too fast can expose the airplane to structural loads before it stalls.
+
+Use the correct, weight-adjusted VA.
+
+Do not intentionally demonstrate accelerated stalls with flaps extended.
+
+#### Secondary Stall
+
+One of the biggest recovery hazards is pulling too aggressively after the first stall indication is corrected.
+
+That immediately increases load factor and AOA again.
+
+The airplane can enter a **secondary accelerated stall**.
+
+Recover smoothly.
+
+#### Cross-Control Stall and Spin
+
+If the airplane is uncoordinated during the accelerated stall, one wing may stall before the other.
+
+That can produce rapid roll and autorotation.
+
+Do not skid or slip the maneuver.
+
+#### Environmental Effects
+
+Turbulence can instantaneously increase load factor and AOA.
+
+High-density altitude reduces available recovery performance.
+
+Use suitable conditions and terminate an unstable maneuver.
+
+#### Collision Hazards and Distraction
+
+Clear continuously.
+
+High workload and strong control forces can narrow attention.
+
+Do not let the demonstration interfere with:
+
+- Traffic scan.
+- Orientation.
+- Aircraft control.
+
+### Instructor Emphasis
+
+The learner should leave this lesson understanding:
+
+1. **An accelerated stall is still caused by exceeding critical AOA.**
+2. **The difference is increased load factor.**
+3. **More load factor means a higher stall speed.**
+4. **A steep turn or aggressive pull can stall the airplane at a surprisingly high airspeed.**
+5. **The maneuver is performed at a coordinated 45° bank.**
+6. **Entry must remain at or below the applicable VA.**
+7. **This is an impending-stall maneuver only.**
+8. **Recover at the first cue by reducing AOA.**
+
+### Close
+
+The purpose of the accelerated stall is to teach one idea:
+
+**The airplane does not have one stall speed.**
+
+Its stall speed changes with load factor.
+
+The relationship is:
+
+**Bank / pull → load factor → AOA → higher stall speed**
+
+The airplane may stall:
+
+- At a higher airspeed.
+- At a lower-than-expected pitch attitude.
+- More abruptly than a normal stall.
+
+And the recovery remains the same:
+
+**Reduce AOA → Coordinate → Wings level → Power as needed → Recover the flightpath**
+
+The most important rule is:
+
+**First cue, AOA first.**
+
+
+
 ## K1 — Purpose and Procedures
 
 At or below $V_A$, establish a coordinated **45° bank** and smoothly but firmly increase back pressure until the **first stall indication**. Call the cue and recover immediately. This is not a full-stall exercise.

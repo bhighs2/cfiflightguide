@@ -95,6 +95,441 @@ Configure as specified, use **at least 65% power**, maintain coordination and he
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in a power-on stall is that the airplane is at high power, high angle of attack, and low airspeed—so the stall margin is small and the yawing tendencies are strong.**
+
+A power-on stall is designed to simulate an inadvertent stall during:
+
+- Takeoff.
+- Departure.
+- Climb.
+- Obstacle clearance.
+- Go-around.
+
+The wing still stalls for the same reason as every other stall:
+
+**Critical angle of attack is exceeded.**
+
+The difference is the environment.
+
+In a power-on stall, we now have:
+
+- High power.
+- High pitch attitude.
+- Low airspeed.
+- Strong left-turning tendencies.
+- Less control effectiveness.
+- Very little altitude available in the real-world scenario.
+
+So the key relationship is:
+
+**High power + high AOA + yaw = high spin risk**
+
+And the recovery priority is still:
+
+**Reduce AOA first.**
+
+### Real-World Application — Takeoff / Departure / Go-Around
+
+A realistic example is a short-field takeoff or obstacle-clearance climb.
+
+The pilot rotates too aggressively or keeps increasing pitch because an obstacle appears close.
+
+Now:
+
+- Airspeed decays.
+- AOA increases.
+- Power is high.
+- Left-turning tendencies increase.
+- The airplane may yaw if the pilot does not use enough right rudder.
+
+That is exactly the setup for a departure stall and possible spin.
+
+Another example is a **go-around**.
+
+The airplane may have:
+
+- Nose-up trim.
+- Flaps extended.
+- High power applied suddenly.
+- A large pitch change.
+- Significant right-rudder demand.
+- A high workload.
+
+If the pilot allows the nose to rise excessively while the airplane is slow, the airplane can enter a power-on stall.
+
+### What Causes the Stall?
+
+A stall occurs when the wing exceeds its **critical angle of attack**.
+
+It can happen at:
+
+- Any airspeed.
+- Any attitude.
+- Any power setting.
+
+Published stall speed is not the cause of the stall.
+
+It is only the speed at which the critical AOA is reached under a particular:
+
+- Weight.
+- CG.
+- Configuration.
+- Load factor.
+- Power setting.
+- Coordination condition.
+
+### Why Power-On Stalls Are Different
+
+The power-on stall has the same basic aerodynamics as any stall, but several factors are more pronounced.
+
+#### High Power and Yaw
+
+At high power and high AOA, left-turning tendencies become strong.
+
+Expect:
+
+- Torque.
+- P-factor.
+- Spiraling slipstream.
+- Greater right-rudder requirement.
+
+As airspeed decreases, the rudder becomes less effective, so the pilot may need increasing rudder pressure to maintain coordination.
+
+**This is why coordination is such a big part of the power-on stall.**
+
+A yawing airplane at the stall can develop into a spin very quickly.
+
+#### Pitch Attitude
+
+The nose is often much higher than in a power-off stall.
+
+That can make the sight picture feel dramatic and can tempt the pilot either to:
+
+- Pull too aggressively during entry, or
+- Push too aggressively during recovery.
+
+Both are errors.
+
+The entry should be smooth.
+
+The recovery should use only enough forward elevator to reduce AOA below critical.
+
+### Factors That Change Stall Speed
+
+#### Configuration
+
+The evaluator may specify:
+
+- Takeoff configuration.
+- Departure configuration.
+- Cruise configuration.
+
+Flaps affect:
+
+- Lift.
+- Drag.
+- Pitch.
+- Stall speed.
+
+The airplane must be configured exactly as specified.
+
+#### Weight
+
+Higher weight requires more lift and a higher AOA at a given speed.
+
+So:
+
+**Higher weight → higher stall speed**
+
+#### Center of Gravity
+
+Forward CG generally:
+
+- Increases required tail-down force.
+- Increases stall speed.
+- Increases longitudinal stability.
+
+Aft CG generally:
+
+- Reduces stall speed.
+- Reduces longitudinal stability.
+- Makes stall and spin recovery more difficult.
+
+#### Load Factor and Bank
+
+Any increase in load factor increases stall speed.
+
+In a turn:
+
+**More bank → more load factor → higher stall speed**
+
+This matters because the maneuver may be demonstrated in a turning climb.
+
+The ACS limits the bank to **20° maximum**.
+
+#### Yaw and Coordination
+
+The combination we are trying hardest to avoid is:
+
+**High AOA + yaw**
+
+If one wing reaches a higher AOA than the other, it may stall more deeply and begin autorotation.
+
+That is the beginning of a spin.
+
+### Stall Recognition
+
+Use **sight, sound, and feel**.
+
+#### Impending-Stall Cues
+
+- Stall warning horn.
+- Buffet.
+- Reduced control effectiveness.
+- Mushy controls.
+- Increasing elevator displacement.
+- High nose attitude.
+- Changing airflow sound.
+- Increasing yaw tendency.
+
+#### Full-Stall Cues
+
+- Critical AOA exceeded.
+- Nose-down break.
+- Possible wing drop.
+- Loss of normal control response.
+- Increased descent rate.
+
+**Always call the first valid stall cue, even when the evaluator asks you to continue to a full stall.**
+
+### Prevention
+
+Prevent power-on stalls by:
+
+- Using the correct rotation speed.
+- Using the correct climb attitude.
+- Maintaining coordination.
+- Controlling pitch during obstacle-clearance climbs.
+- Managing trim during a go-around.
+- Avoiding excessive bank at low airspeed.
+- Correcting an excessive nose-high attitude immediately.
+- Maintaining awareness of airspeed and AOA.
+- Using an early go-around rather than forcing an unstable climb or approach.
+
+### Entry
+
+- Clear the area.
+- Select an altitude that allows the maneuver to be completed no lower than **1,500 feet AGL**.
+- Establish the **takeoff, departure, or cruise configuration** specified by the evaluator.
+- Slow to the appropriate lift-off or departure speed.
+- Establish the assigned power setting of **not less than 65% available power**.
+- Smoothly establish the takeoff or departure pitch attitude.
+- Continue increasing AOA to induce the stall.
+- Maintain:
+    - Coordination.
+    - Heading if straight.
+    - Assigned bank if turning.
+- If turning, bank must not exceed **20°**.
+- Call the first indication of stall.
+- Recover at the first indication or continue to a full stall, as directed by the evaluator.
+
+### Recovery
+
+The recovery order is:
+
+**AOA first.**
+
+1. **Disconnect automation**, if equipped.
+2. **Reduce AOA** with sufficient forward elevator pressure to eliminate the stall warning or break the stall.
+3. **Maintain coordination.**
+4. **Level the wings after AOA reduction.**
+5. Confirm or apply the appropriate maximum allowable power.
+6. Control yaw with rudder.
+7. Configure the airplane as recommended by the manufacturer.
+8. Accelerate to **VX or VY**, as appropriate.
+9. Return to the altitude, heading, and airspeed specified by the evaluator.
+
+Because power may already be high, remember:
+
+**Power cannot unstall the wing.**
+
+If the wing is stalled, the essential action is still to reduce AOA.
+
+Do not pull aggressively after the stall breaks.
+
+That can produce a secondary stall.
+
+### ACS Standards — Power-On Stalls
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **1,500 feet AGL** for ASEL.
+- Establish the **takeoff, departure, or cruise configuration** specified by the evaluator.
+- Maintain coordinated flight throughout the maneuver.
+- Set power to **no less than 65% available power**.
+- Transition smoothly from the takeoff, departure, or cruise attitude to the pitch attitude that induces a stall.
+- If straight:
+    - Maintain heading **±10°**.
+- If turning:
+    - Maintain specified bank **not exceeding 20°**
+    - Maintain bank **±10°**
+- Acknowledge the first indication of the stall.
+- Recover:
+    - At the first indication, or
+    - After a full stall,
+  as specified by the evaluator.
+- Configure the airplane as recommended by the manufacturer.
+- Accelerate to **VX or VY**.
+- Return to the altitude, heading, and airspeed specified by the evaluator.
+- Analyze and correct common errors.
+
+### Common Errors — Power-On Stalls
+
+- Failure to adequately clear the area.
+- Failure to establish the specified configuration before entry.
+- Improper pitch, heading, yaw, or bank control during straight-ahead stalls.
+- Improper pitch, yaw, or bank control during turning stalls.
+- Rough or uncoordinated control inputs.
+- Pulling too aggressively during entry and creating an accelerated stall.
+- Failure to recognize the first indications of a stall.
+- Failure to achieve a full stall when required.
+- Improper torque or yaw correction.
+- Inadequate right-rudder use.
+- Poor stall recognition or delayed recovery.
+- Recovering before critical AOA is reached when a full stall is required.
+- Attempting to recover with power before reducing AOA.
+- Attempting to level the wings before reducing AOA.
+- Failure to maintain forward elevator until the stall warning is eliminated.
+- Excessive altitude loss during recovery.
+- Excessive airspeed buildup during recovery.
+- Secondary stall during recovery.
+- Excessive forward elevator pressure during recovery.
+- Loss of situational awareness after the stall.
+- Failure to return to the assigned flightpath.
+
+### Risk Management
+
+#### Departure Stall, Spin, and Loss of Control
+
+The real-world power-on stall usually happens close to the ground.
+
+The dangerous combination is:
+
+- High pitch.
+- High power.
+- Low speed.
+- Increasing yaw.
+
+If the airplane is allowed to stall while uncoordinated, a spin can develop quickly.
+
+**Maintain coordination and correct excessive AOA immediately.**
+
+#### Stall-Warning Range and Limitations
+
+Do not rely on one warning device.
+
+Use:
+
+- Sight.
+- Sound.
+- Feel.
+- Buffet.
+- Control response.
+- Installed warning systems.
+
+Call and respond to the earliest valid cue.
+
+#### Stall Warning During Normal Operations
+
+A stall warning during takeoff, climb, or go-around is not normal.
+
+If it occurs:
+
+**Reduce AOA immediately.**
+
+Do not keep pulling to preserve climb attitude or obstacle clearance.
+
+#### Secondary, Accelerated, Elevator-Trim, and Cross-Control Stalls
+
+- A **secondary stall** occurs when AOA is increased too quickly during recovery.
+- An **accelerated stall** occurs when increased load factor causes a stall at a higher airspeed.
+- An **elevator-trim stall** can occur during a go-around when nose-up trim and power create a rapid pitch-up that is not opposed with forward elevator.
+- A **cross-control stall** combines high AOA with yaw and can lead directly to a spin.
+
+#### Environmental Effects
+
+Turbulence, wind shear, microbursts, and high-density altitude reduce safety margins.
+
+High density altitude is especially important in a power-on scenario because:
+
+- Power available is reduced.
+- Climb performance is reduced.
+- The airplane may not meet the climb demand the pilot is trying to impose.
+
+Do not continue demanding pitch the airplane cannot support.
+
+#### Collision Hazards and Distraction
+
+Clear the area before entry and maintain an outside scan.
+
+Power-on stalls create high workload.
+
+Do not let teaching, instruments, or the stall demonstration interrupt:
+
+- Traffic awareness.
+- Orientation.
+- Aircraft control.
+
+### Instructor Emphasis
+
+The learner should leave this lesson understanding:
+
+1. **A power-on stall simulates takeoff, departure, climb, and go-around situations.**
+2. **The wing still stalls because critical AOA is exceeded.**
+3. **High power and high AOA make yaw control especially important.**
+4. **The dangerous combination is high AOA plus yaw.**
+5. **The ACS requires at least 65% power.**
+6. **Turning entries are limited to 20° of bank.**
+7. **Recovery begins with reducing AOA.**
+8. **Power does not replace AOA reduction.**
+9. **Avoid a secondary stall by recovering smoothly.**
+
+### Close
+
+Power-on stalls are really about departure discipline.
+
+The airplane is most vulnerable when it is:
+
+- Slow.
+- Nose high.
+- At high power.
+- Close to the ground.
+- Potentially uncoordinated.
+
+The pilot prevents that by controlling:
+
+- Pitch.
+- Airspeed.
+- AOA.
+- Rudder.
+- Bank.
+- Trim.
+- Climb expectations.
+
+And if the stall occurs:
+
+**Reduce AOA → Coordinate → Wings level → Confirm power → Configure → Climb**
+
+The most important rule is the same as every stall:
+
+**AOA first.**
+
+
 ## K1 — Purpose and Procedures
 
 Slow to a normal lift-off/departure speed in the assigned **takeoff, departure, or cruise configuration**. Apply at least **65% power**, establish the departure attitude, and smoothly increase AOA. Maintain coordination and heading or shallow bank, call the first warning, then recover at the evaluator-directed impending/full-stall point.
