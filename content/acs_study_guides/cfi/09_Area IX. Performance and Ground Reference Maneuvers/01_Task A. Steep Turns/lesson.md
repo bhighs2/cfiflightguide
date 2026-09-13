@@ -102,6 +102,381 @@ The instructor applicant explains every ACS element, performs coordinated **360�
 Watch for **outside attitude references**, the coordinated entry, the addition of back pressure and power through **30° bank**, and anticipation of the rollout.
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**There is one main idea in this lesson:** a steep turn shows the learner, very clearly, what happens when we ask the airplane to produce more lift while turning.
+
+As the bank increases, the lift vector tilts. To hold altitude, we need more total lift. That means more angle of attack, more load factor, more drag, more control pressure, and a higher stall speed.
+
+At the same time, the learner still has to maintain orientation, scan for traffic, stay coordinated, and control the airplane precisely.
+
+So rather than treating steep turns as a list of isolated ACS items, I want to teach the maneuver as one connected aerodynamic story.
+
+### 1. What Is a Steep Turn?
+
+- **A steep turn is a level turn flown at a relatively high bank angle while maintaining altitude, airspeed, coordination, and orientation.**
+- The Airplane Flying Handbook generally describes steep turns as using approximately **45° to 60° of bank**.
+- For the CFI ACS, we use approximately **50° of bank**.
+
+- The maneuver develops:
+    - Smooth and coordinated control.
+    - Precise attitude and power control.
+    - Division of attention.
+    - Outside orientation.
+    - Traffic awareness.
+    - Understanding of increased load factor and changing control pressures.
+
+- **The important point is that this is not just a bank-control exercise.**
+- It teaches the learner to manage several changing aerodynamic relationships at once.
+
+- **That starts with the most obvious thing the learner feels: the airplane suddenly requires more back pressure and often more power. Why?**
+
+### 2. Why More Back Pressure and Power Are Required
+
+- **When we bank the airplane, the total lift vector tilts.**
+- Lift now has:
+    - A **vertical component** that supports the airplane's weight.
+    - A **horizontal component** that turns the airplane.
+
+- As the bank gets steeper, less of the total lift is acting vertically.
+
+- **If we want to maintain altitude, we have to increase total lift.**
+- We do that primarily by increasing angle of attack with elevator back pressure.
+
+- That creates several effects at the same time:
+
+**Load factor increases → induced drag increases → stall speed increases → power required increases**
+
+- **This is what the learner feels.**
+    - Increased apparent weight.
+    - Increased elevator pressure.
+    - A greater need for power.
+    - A more demanding sight picture.
+
+- If we increase back pressure without adding enough power, airspeed may decay.
+- If we fail to increase back pressure as bank increases, altitude falls.
+
+- **So the back pressure and power are not arbitrary technique. They are responses to the aerodynamics of the turn.**
+
+- **Once we understand why lift and power requirements change, the next question is how to keep the airplane turning cleanly and predictably. That takes us to coordination.**
+
+### 3. Coordination and Turning Tendencies
+
+- **A steep turn should remain coordinated throughout the maneuver.**
+- During roll-in and rollout, aileron and rudder are used together.
+- Once established, maintain the selected bank while keeping the airplane coordinated.
+
+- **Rudder is not used to tighten the turn.**
+- Excessive rudder creates a skid.
+- Too little rudder can create a slip.
+- Either condition reduces efficiency and changes the sight picture.
+
+- **The learner may also notice that right and left turns do not always feel identical.**
+- Torque and P-factor can affect the amount of rudder pressure required.
+- The exact amount varies with:
+    - Power.
+    - Airspeed.
+    - Aircraft design.
+    - Direction of turn.
+
+- **The teaching point is not to memorize a fixed rudder pressure.**
+- The teaching point is to recognize whether the airplane is coordinated and make the control input required.
+
+- **But even when coordination is correct, the bank itself may not want to stay where we put it. That leads us to overbanking tendency.**
+
+### 4. Overbanking Tendency
+
+- **In a turn, the outside wing travels through a larger arc than the inside wing.**
+- Because both wings complete the turn in the same amount of time, the outside wing travels faster.
+
+- The faster outside wing can produce more lift than the inside wing.
+
+- **The result is an overbanking tendency—the airplane may continue rolling toward a steeper bank unless the pilot opposes it.**
+
+- At steep bank angles, the learner may need **slight opposite aileron pressure** to maintain the selected bank.
+
+- This explains a common learner experience:
+    - They establish 50°.
+    - Look away briefly.
+    - Look back and find 55° or 60°.
+
+- **The airplane is not necessarily "wandering." The learner may simply not be actively countering the overbanking tendency.**
+
+- **So now we have a maneuver that requires more back pressure, more power, coordination, and active bank control. Before we load the airplane this way, we also need to understand the speed at which we enter it.**
+
+### 5. Maneuvering Speed and Weight
+
+- **The ACS requires the manufacturer's recommended airspeed, or if one is not published, an airspeed not greater than maneuvering speed, V_A.**
+
+- **V_A is not one fixed number for every flight.**
+- It changes with aircraft weight.
+
+- As weight decreases:
+    - Maneuvering speed decreases.
+
+- The published V_A is commonly associated with a specified aircraft weight, often maximum gross weight.
+
+- **So we should not assume the maximum-gross-weight value automatically applies when the airplane is lighter.**
+
+- The practical teaching point is:
+
+**Know the airplane → know the current weight → use the manufacturer's guidance**
+
+- **And the reason speed matters becomes even clearer when we look at what steep bank does to load factor.**
+
+### 6. Load Factor — Why the Airplane Feels Heavy
+
+- **Load factor is the ratio of lift to weight.**
+
+- In straight-and-level unaccelerated flight, the airplane is approximately at **1 G**.
+
+- In a level turn, more total lift is required to maintain altitude.
+
+- As bank increases, load factor increases rapidly.
+
+- Approximate examples:
+    - **30° bank:** about 1.15 G.
+    - **45° bank:** about 1.41 G.
+    - **50° bank:** about 1.56 G.
+    - **60° bank:** about 2 G.
+
+- **That is why the learner feels heavier in the seat.**
+- It is also why the elevator forces increase and why the airplane requires more lift.
+
+- **But increased load factor changes something even more important: stall speed.**
+
+### 7. Load Factor and Stall Speed
+
+- **An airplane stalls when it exceeds the critical angle of attack.**
+- It does not stall because of one particular airspeed.
+
+- As load factor increases, the airplane reaches the critical angle of attack at a higher indicated airspeed.
+
+- **That is an accelerated stall.**
+
+- The FAA relationship is:
+
+**Stall speed increases with the square root of load factor.**
+
+- Examples:
+    - At approximately **45° bank**, load factor is about 1.41 G and stall speed increases roughly 19%.
+    - At approximately **50° bank**, load factor is about 1.56 G and stall speed increases roughly 25%.
+    - At **60° bank**, load factor is 2 G and stall speed increases about 41%.
+
+- **That is a major risk-management point.**
+- A learner may think, "I'm well above the published stall speed."
+- But under load, the relevant stall speed is now higher.
+
+- This is why we avoid:
+    - Excessive back pressure.
+    - Excessive bank.
+    - Airspeed decay.
+    - Uncoordinated flight.
+
+- If stall warning or buffet occurs:
+    - **Reduce angle of attack.**
+    - Reduce bank as needed.
+    - Apply power as appropriate.
+    - Recover to controlled flight.
+
+- **Do not continue the maneuver just to complete the turn.**
+
+- **So far, we have looked at what the turn does to the airplane aerodynamically. The final performance relationship is what bank and airspeed do to the shape of the turn itself.**
+
+### 8. Rate and Radius of Turn
+
+- **Bank angle and airspeed determine how quickly and how tightly the airplane turns.**
+
+- At a given airspeed:
+    - More bank produces a **higher rate of turn**.
+    - More bank produces a **smaller turn radius**.
+
+- At a given bank angle:
+    - More airspeed produces a **lower rate of turn**.
+    - More airspeed produces a **larger turn radius**.
+
+- This means a steep turn is not just changing heading faster.
+
+- It is also changing the amount of space required to complete the turn.
+
+- **That becomes especially important when maneuvering near terrain, obstacles, or confined areas.**
+
+- **And this is where the aerodynamic lesson connects directly to risk management. The maneuver becomes unsafe when the pilot becomes so focused on precision that they stop managing the environment around them.**
+
+### 9. Risk Management — Do Not Lose the Big Picture
+
+#### Division of Attention
+
+- **The learner has to divide attention between aircraft control, orientation, and traffic avoidance.**
+- Fixating either inside or outside can create problems.
+
+- The scan should remain **outside dominant**:
+    - Outside attitude reference.
+    - Traffic.
+    - Brief instrument check.
+    - Back outside.
+
+- Instruments confirm performance; they should not become the primary way the maneuver is flown.
+
+#### Collision Hazards
+
+- **Steep turns are not self-clearing.**
+- Clear the area before entry.
+- Continue scanning during the maneuver.
+
+- Training areas, airways, arrival paths, and departure paths can all increase collision risk.
+
+- **Precision does not matter if the pilot stops looking for traffic.**
+
+#### Low Altitude, Stall/Spin, and CFIT
+
+- Steep turns combine:
+    - Increased load factor.
+    - Increased stall speed.
+    - Higher control forces.
+    - Rapid heading change.
+
+- At low altitude, there is less room to recover from:
+    - An accelerated stall.
+    - A spin.
+    - Loss of control.
+    - CFIT.
+
+- **Use an altitude and area that provide adequate recovery margin.**
+
+#### Distraction and Disorientation
+
+- **Teaching while flying creates additional workload.**
+- The instructor may become focused on explaining while the airplane drifts outside the desired condition.
+
+- If that happens:
+
+**Aviate first.**
+
+- Pause the explanation.
+- Correct the airplane.
+- Restore orientation.
+- Resume instruction only after the situation is stable.
+
+#### Uncoordinated Flight
+
+- **Uncoordinated flight becomes especially important at higher load factor.**
+- A skidding stall can lead to a rapid spin entry.
+
+- Maintain coordinated flight throughout the maneuver.
+
+- **Those risks help explain most of the common errors we see in steep turns. Instead of just identifying the error, I want the learner to understand what caused it.**
+
+### 10. Common Errors — Understand Why They Happen
+
+#### Failure to Scan for Traffic
+
+- **What we see:** The learner stops clearing or spends too long looking inside.
+- **Why it happens:** Attention becomes consumed by aircraft control.
+- **Correction:** Restore an outside-dominant scan and reestablish traffic awareness.
+
+#### Flying by Instruments Instead of Outside References
+
+- **What we see:** Constant instrument fixation.
+- **Why it happens:** The learner trusts numbers more than the outside sight picture.
+- **Correction:** Reestablish the wing-horizon and nose-horizon references; use instruments only for short verification.
+
+#### Altitude Gain or Loss
+
+- **What we see:** Altitude drifts during entry or while established.
+- **Why it happens:** Back pressure is late, bank changes without a corresponding pitch adjustment, or the learner chases the altimeter.
+- **Correction:** Reestablish the outside pitch picture and correct the cause.
+
+#### Bank Angle Wanders
+
+- **What we see:** The bank increases or decreases.
+- **Why it happens:** The learner is not actively controlling the overbanking tendency or is fixated elsewhere.
+- **Correction:** Reestablish the wing-horizon relationship and hold the bank deliberately.
+
+#### Poor Coordination
+
+- **What we see:** Slip or skid.
+- **Why it happens:** Improper aileron-rudder coordination or an attempt to tighten the turn with rudder.
+- **Correction:** Restore coordinated control inputs.
+
+#### Poor Power or Airspeed Control
+
+- **What we see:** Airspeed decays or increases significantly.
+- **Why it happens:** Drag changes were not anticipated or power was not adjusted appropriately.
+- **Correction:** Maintain the correct pitch picture and use power to support the desired airspeed.
+
+#### Ineffective Use of Trim
+
+- **What we see:** Excessive trim use or large pitch changes during rollout.
+- **Why it happens:** Trim is being used to fly the maneuver instead of relieve control pressure.
+- **Correction:** Establish the attitude first, then trim only enough to reduce sustained pressure.
+
+#### Loss of Orientation
+
+- **What we see:** Missed rollout heading or uncertainty about position.
+- **Why it happens:** Outside references were lost or attention narrowed too far.
+- **Correction:** Reestablish outside references. Terminate if orientation cannot be restored promptly.
+
+#### Premature or Late Rollout
+
+- **What we see:** The airplane rolls out before or after the target heading.
+- **Why it happens:** The learner reacts to the heading instead of anticipating the rollout.
+- **Correction:** Identify the target heading before entry and use a consistent rollout lead.
+
+- **The instructor's job is not just to say what went wrong. It is to identify the cause so the learner can recognize the developing error sooner next time.**
+
+### 11. Instructor Emphasis — What Should Be Clear Before We Fly?
+
+- Before moving into the actual maneuver, the learner should understand:
+
+    - Why lift has to increase.
+    - Why back pressure increases.
+    - Why power may need to increase.
+    - Why load factor rises.
+    - Why stall speed increases.
+    - Why overbanking occurs.
+    - Why coordination matters.
+    - Why V_A changes with weight.
+    - How bank and airspeed affect turn rate and radius.
+    - Why traffic scan and orientation cannot be sacrificed for precision.
+
+- **During the demonstration, emphasize relationships rather than narrating every control movement.**
+
+- The learner should be able to connect:
+
+**More bank → more lift required → more load factor → more drag → more power required → higher stall speed**
+
+- That is the aerodynamic story of the maneuver.
+
+- **At this point the learner understands why the airplane behaves the way it does, what risks to manage, and what errors to expect. The Fly section can now focus purely on putting those relationships into the actual control sequence.**
+
+### Close
+
+- **Steep turns are valuable because they make several aerodynamic relationships visible at once.**
+
+**Bank changes the lift vector.**  
+**Maintaining altitude requires more lift.**  
+**More lift increases load factor.**  
+**More load factor increases drag and stall speed.**  
+**Bank and airspeed determine turn rate and radius.**
+
+- At the same time, the pilot must:
+    - Stay coordinated.
+    - Maintain outside orientation.
+    - Scan for traffic.
+    - Maintain altitude and airspeed.
+    - Anticipate the rollout.
+
+- **For the CFI applicant, the final layer is being able to explain those relationships clearly while still managing the airplane safely.**
+
+- The Fly section now takes over from here and applies the concepts to the maneuver itself.
+
+
+
 
 ## K1 — Purpose and Procedure
 

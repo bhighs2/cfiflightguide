@@ -1,0 +1,694 @@
+# Flight Guide Instructor Notes — Authoring Standard
+
+## Purpose
+
+This document defines the standard for writing **Flight Guide Instructor Notes** across all CFI lesson types.
+
+The goal is to produce lessons that are:
+
+- **FAA-grounded**
+- **ACS-complete**
+- **Speakable**
+- **Causally organized**
+- **Easy to teach from**
+- **Free of unnecessary duplication**
+- **Structured around understanding, not checklist recitation**
+
+The ACS determines **what must be covered**.
+
+The FAA literature determines **what is technically authoritative**.
+
+The Instructor Notes determine **how the material should be taught as a coherent story**.
+
+---
+
+## Core Flight Guide Principle
+
+**Do not let the ACS dictate the teaching order unless the ACS order also happens to be the clearest teaching order.**
+
+Use the ACS to ensure complete coverage.
+
+Then use FAA literature to identify the relationships among the required concepts and arrange those concepts into the most teachable sequence.
+
+The general hierarchy is:
+
+**ACS = Coverage Requirements**  
+**FAA Literature = Technical Authority**  
+**Instructor Notes = Teaching Story**  
+**Fly / Application = Procedural Execution**  
+**Review = Recall and Checkride Preparation**
+
+---
+
+# 1. Source and Grounding Rules
+
+## FAA Sources First
+
+Instructor Notes should be grounded in applicable FAA material, including as appropriate:
+
+- Current CFI Airplane ACS
+- Aviation Instructor's Handbook
+- Airplane Flying Handbook
+- Pilot's Handbook of Aeronautical Knowledge
+- Risk Management Handbook
+- AIM
+- Applicable Advisory Circulars
+- Aircraft POH / AFM
+- Other applicable FAA handbooks, orders, or official publications
+
+Supplemental sources may help with organization or examples, but they do not override FAA terminology, standards, or guidance.
+
+## Preserve FAA Terminology
+
+Use the FAA's terminology wherever the FAA provides a specific term.
+
+Do not invent terminology that sounds official.
+
+If a Flight Guide teaching summary or memory aid is used, make that distinction clear.
+
+Example:
+
+**Flight Guide summary:** Adapt the instruction, not the standard.
+
+Do not present a Flight Guide phrase as an FAA mnemonic unless the FAA actually uses it.
+
+## Verify Current ACS Elements
+
+Before writing Instructor Notes:
+
+1. Review the current ACS Task.
+2. Identify every:
+   - Knowledge element
+   - Risk Management element
+   - Skill element
+3. Confirm that every required element is covered somewhere in the lesson.
+
+The lesson does **not** need to mirror ACS numbering in its teaching order.
+
+---
+
+# 2. The One-Big-Idea Rule
+
+Every Instructor Notes section should begin with one central idea.
+
+Use:
+
+**There is one main idea in this lesson:** [plain-language central concept].
+
+The opening should answer:
+
+- What is this lesson really about?
+- Why does the learner care?
+- What should still make sense after the details are forgotten?
+
+The opening should normally be followed by a short causal map.
+
+Examples:
+
+**Perceive → Understand → Practice → Feedback → Retain → Transfer**
+
+or:
+
+**Emergency application → Constant radius → Wind correction → Airspeed and bank → Risk**
+
+or:
+
+**Understand the learner → Motivation → Reactions → Communication → Feedback**
+
+This gives the instructor a mental map for the whole lesson.
+
+---
+
+# 3. Organize by Teaching Logic, Not by ACS Boxes
+
+The lesson should feel like one continuous explanation.
+
+Each section should create the reason for the next section.
+
+The preferred pattern is:
+
+**Concept → Consequence → Next Question**
+
+Useful transition forms include:
+
+- **So the question becomes...**
+- **Once we understand that, the next question is...**
+- **That explains X, but it creates another issue...**
+- **This becomes especially important when...**
+- **And that is where this connects directly to...**
+- **Those risks explain many of the common errors we see...**
+- **At this point the learner understands why; now we can apply it.**
+
+Transitions are part of the lesson, not decoration.
+
+Do not end one section abruptly and simply start the next ACS item.
+
+---
+
+# 4. Default Flow — FOI / Knowledge Lessons
+
+FOI and other conceptual lessons should generally follow:
+
+**Big idea → Definition → Why it matters → How it works → Aviation example → Instructor application → Common misunderstanding → Next concept**
+
+This can repeat several times inside one lesson.
+
+## Recommended FOI Structure
+
+### 1. Define the Concept
+
+- State the FAA-grounded definition.
+- Explain it in plain language.
+- Avoid overloading the learner with secondary detail immediately.
+
+### 2. Explain Why It Matters
+
+Answer:
+
+- Why should an instructor care?
+- What changes in actual instruction because of this concept?
+
+### 3. Explain the Mechanism
+
+Show how the concept works.
+
+Use causal relationships wherever possible.
+
+Example:
+
+**Perception → Meaning → Insight → Learning**
+
+### 4. Give a Flight-Training Example
+
+The example should immediately make the concept concrete.
+
+Prefer realistic examples from:
+
+- C172 training
+- Pattern work
+- Landings
+- Stalls
+- Steep turns
+- Radio work
+- Cross-country decisions
+- Learner/instructor interaction
+
+### 5. Explain the Instructor Implication
+
+Answer:
+
+**What should I do differently as an instructor because of this?**
+
+This is especially important in FOI.
+
+### 6. Address Common Confusion or Misuse
+
+Clarify distinctions the learner is likely to confuse.
+
+Examples:
+
+- Rationalization vs displacement
+- Psychomotor vs automatic response
+- Application vs correlation
+- Evaluation vs critique
+- Positive vs negative transfer
+
+### 7. Transition to the Next Concept
+
+Use the previous concept to create the need for the next.
+
+---
+
+# 5. Default Flow — Maneuver / Technical Lessons
+
+Maneuver and technical lessons should generally follow:
+
+**Purpose → Underlying relationships → Risk → Common errors → Instructor emphasis → Fly / Application**
+
+The Instructor Notes should teach **why the maneuver works**.
+
+The Fly section should teach **exactly how to perform it**.
+
+## Recommended Maneuver Structure
+
+### 1. What Is It / Why Do We Care?
+
+- Define the maneuver or technical concept.
+- Explain its purpose.
+- State important ACS standards when useful.
+- Explain what the maneuver develops.
+
+Avoid turning this section into the complete maneuver procedure.
+
+### 2. First Major Relationship
+
+Explain the first major aerodynamic, performance, systems, or operational relationship.
+
+Use:
+
+**What changes → Why it changes → What the pilot sees/feels → Why it matters**
+
+### 3. Continue the Causal Chain
+
+Add additional required concepts in the order that best explains the maneuver.
+
+Examples:
+
+- Lift vector
+- Load factor
+- Stall speed
+- Drag and power
+- Coordination
+- Overbanking
+- Wind correction
+- Groundspeed
+- Rate and radius
+- Energy management
+- Aircraft limitations
+
+### 4. Integrate Pilot Sensations Where They Belong
+
+Do not create a standalone ACS-looking section merely because the ACS has a separate knowledge element.
+
+If pilot sensations are caused by the aerodynamic concept being discussed, integrate them there.
+
+Example:
+
+In a steep turn:
+
+**More bank → more lift required → more load factor → increased apparent weight and elevator pressure**
+
+The sensations should reinforce the causal story.
+
+### 5. Risk Management
+
+Once the learner understands the mechanism, explain where it becomes unsafe.
+
+This usually works better than introducing risk before explaining the underlying relationship.
+
+Group the ACS risk items into a coherent discussion.
+
+For each important risk, explain:
+
+- What creates the hazard
+- What cues indicate it
+- Why it matters
+- FAA-supported mitigation
+
+### 6. Common Errors — Diagnose the Cause
+
+Do not simply list errors.
+
+Use:
+
+#### [Common Error]
+
+- **What we see:** observable result
+- **Why it happens:** underlying cause
+- **Correction:** appropriate correction
+
+The governing principle is:
+
+**Correct the cause, not just the indication.**
+
+### 7. Instructor Emphasis
+
+Before transitioning to Fly, identify what the learner must understand.
+
+Focus on relationships.
+
+Example:
+
+**Wind changes groundspeed → groundspeed changes required turn rate → bank changes to preserve radius**
+
+or:
+
+**More bank → more lift required → more load factor → more drag → more power required → higher stall speed**
+
+### 8. Transition Into Fly
+
+End Instructor Notes with a clean handoff.
+
+Preferred form:
+
+**At this point the learner understands why [topic] behaves the way it does, what risks have to be managed, and what errors to expect. The Fly section can now focus on putting those relationships into the actual maneuver.**
+
+---
+
+# 6. What Belongs in Instructor Notes vs Fly
+
+## Instructor Notes Should Contain
+
+- Purpose
+- Definitions
+- FAA concepts
+- Aerodynamics
+- Performance relationships
+- Systems relationships
+- Pilot sensations when relevant
+- Risk
+- Judgment
+- Why control inputs are required
+- Why errors occur
+- Instructor interpretation
+- Teaching emphasis
+- Speakable transitions
+
+## Fly Should Contain
+
+- Setup
+- Configuration
+- Entry
+- Exact control sequence
+- Power settings
+- Airspeeds
+- Pitch/bank targets
+- Rollout
+- Recovery
+- Checklist sequence
+- Aircraft-specific procedure
+- Step-by-step demonstration
+- Maneuver repetition
+- Procedural common-error correction
+
+## Avoid Duplication
+
+Instructor Notes may briefly reference what the pilot must accomplish.
+
+They should not repeat:
+
+**Setup → Entry → Execution → Rollout**
+
+when that sequence already exists in Fly.
+
+The Instructor Notes explain **why**.
+
+The Fly section explains **how**.
+
+---
+
+# 7. Risk Management Writing Standard
+
+Risk should feel connected to the lesson rather than appended as an ACS compliance block.
+
+Preferred transition:
+
+**Now that the learner understands how the maneuver works, the next question is where that relationship can become unsafe.**
+
+For maneuver lessons, risks should be tied directly to the mechanism.
+
+Example:
+
+**More load factor → higher stall speed → reduced stall margin**
+
+For FOI lessons, risks may instead relate to:
+
+- Poor instruction
+- Miscommunication
+- Inadequate assessment
+- Learner overload
+- Unsafe supervision
+- Poor risk transfer
+- Instructor behavior
+
+Do not merely restate the ACS risk title.
+
+Explain the operational meaning.
+
+---
+
+# 8. Common Error Writing Standard
+
+The common-error section should help an instructor diagnose.
+
+Bad:
+
+- Altitude loss
+- Poor coordination
+- Incorrect bank
+
+Better:
+
+#### Altitude Loss
+
+- **What we see:** Altitude decreases.
+- **Why it happens:** Pitch support is late, bank increased without compensating pitch, or attention became fixated elsewhere.
+- **Correction:** Restore the outside pitch reference and correct the causal control relationship.
+
+This teaches the instructor to identify the learning problem rather than simply announce the deviation.
+
+---
+
+# 9. Aviation Examples
+
+Examples should be:
+
+- Short
+- Realistic
+- Relevant to training
+- Immediately connected to the concept
+
+Do not add examples merely to fill space.
+
+Examples should clarify a relationship.
+
+Preferred aviation contexts:
+
+- Pattern work
+- Landings
+- Go-arounds
+- Stalls
+- Slow flight
+- Steep turns
+- Crosswind operations
+- Navigation
+- Radio communication
+- Diversions
+- Fuel decisions
+- Weather decisions
+- Aircraft systems
+- C172 training
+- Learner/instructor interaction
+
+---
+
+# 10. Speakability Standard
+
+Instructor Notes should sound like something the instructor can actually say.
+
+Prefer:
+
+**As the bank increases, the lift vector tilts. If we want to hold altitude, total lift has to increase. That means more angle of attack, more load factor, and more drag.**
+
+Avoid:
+
+**Bank angle effects:**
+- Lift vector
+- Load factor
+- Drag
+- Stall speed
+
+The bullets should support speech, not replace it with a table of contents.
+
+## Bold Usage
+
+Use bold as **scan anchors**.
+
+Good:
+
+- **The important point is...**
+- **The learner should understand...**
+- **That leads directly to...**
+
+Do not bold every sentence.
+
+---
+
+# 11. Markdown Structure Standard
+
+Use:
+
+```md
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+```
+
+Then use:
+
+```md
+### 1. Section Title
+```
+
+for major teaching sections.
+
+Use:
+
+```md
+#### Subconcept
+```
+
+only when the subconcept genuinely belongs under the major section.
+
+When a framework has parent/child relationships, use true Markdown nesting.
+
+Example:
+
+```md
+- **PAVE**
+    - **Pilot**
+        - Qualification
+        - Currency
+        - Proficiency
+        - IMSAFE
+    - **Aircraft**
+    - **Environment**
+    - **External Pressures**
+```
+
+Do not flatten hierarchical concepts into one paragraph.
+
+---
+
+# 12. Closing Standard
+
+The Close should not merely repeat the entire lesson.
+
+It should return to the central idea and summarize the most important relationships.
+
+For maneuver lessons, the Close should normally:
+
+- Restate the core aerodynamic or operational relationships
+- Reinforce safety and judgment
+- Remind the CFI applicant that they must teach while flying
+- Hand off cleanly to Fly if needed
+
+For FOI lessons, the Close should normally:
+
+- Restate the central instructional principle
+- Connect the concepts into one learning process
+- Emphasize what the instructor should do differently
+
+Preferred ending style:
+
+**The end goal is not simply [rote performance or memorization]. It is a learner who understands why, recognizes changing conditions, and can apply the knowledge safely without waiting for the instructor to supply every answer.**
+
+---
+
+# 13. Authoring Workflow
+
+Use this workflow every time a new lesson is created.
+
+## Step 1 — Review the ACS
+
+Extract:
+
+- Objective
+- Knowledge elements
+- Risk elements
+- Skill elements
+- Performance tolerances
+
+## Step 2 — Review FAA Literature
+
+Identify:
+
+- Definitions
+- Technical relationships
+- Recommended procedures
+- Risk guidance
+- Common errors
+- Instructor considerations
+- Aircraft-specific items that must defer to POH/AFM
+
+## Step 3 — Find the One Big Idea
+
+Ask:
+
+**What is this lesson really teaching?**
+
+Write that first.
+
+## Step 4 — Identify the Causal Chain
+
+Ask:
+
+- What causes what?
+- What does the learner need to understand before the next concept makes sense?
+
+That determines the lesson order.
+
+## Step 5 — Choose the Lesson Type
+
+If FOI / conceptual:
+
+**Definition → Meaning → Mechanism → Example → Instructor Application → Next Concept**
+
+If maneuver / technical:
+
+**Purpose → Relationships → Risk → Errors → Instructor Emphasis → Fly**
+
+## Step 6 — Map Every ACS Element
+
+After arranging the teaching flow, confirm every ACS K/R/S element is represented.
+
+Do not rearrange the lesson merely to preserve ACS numbering.
+
+## Step 7 — Remove Procedural Duplication
+
+If the exact control sequence already exists in Fly, remove it from Instructor Notes unless needed briefly for conceptual context.
+
+## Step 8 — Improve the Transitions
+
+Every section should answer:
+
+**Why are we talking about this next?**
+
+## Step 9 — Make It Speakable
+
+Read it as if teaching aloud.
+
+Remove:
+
+- Table-of-contents prose
+- Excessive fragments
+- Repetition
+- Mechanical ACS language when a natural explanation is possible
+
+Preserve FAA terminology while making the surrounding prose conversational.
+
+## Step 10 — Final ACS Audit
+
+Before finishing, confirm:
+
+- Every knowledge item covered
+- Every risk item covered
+- Every skill concept supported
+- No standard was changed
+- No invented FAA terminology
+- No unnecessary duplication with Fly
+- FAA literature supports every substantive technical claim
+
+---
+
+# 14. Flight Guide Governing Principles
+
+These principles should remain consistent across all lessons.
+
+**Adapt the instruction, not the standard.**
+
+**Teach the relationship, not merely the answer.**
+
+**Correct the cause, not just the indication.**
+
+**Use the ACS for coverage, not necessarily teaching order.**
+
+**Use FAA literature as the technical authority.**
+
+**Instructor Notes explain why. Fly explains how.**
+
+**Transitions should make the lesson feel like one continuous story.**
+
+**The end goal is independent recognition, judgment, and safe application—not memorization alone.**

@@ -131,6 +131,393 @@ The applicant can teach the elements and techniques for runway-incursion avoidan
 [[mnemonic: Stop · Verify · Clarify | Flight Guide taxi rule: stop the aircraft, verify position and clearance, then ask ATC when uncertain.]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**There is one main idea in this lesson:** runway incursions are prevented by maintaining **positive control of the airplane, positive awareness of where we are, and positive understanding of what we are cleared to do.**
+
+The FAA repeatedly comes back to three areas that contribute to runway incursions:
+
+**Communication · Airport Knowledge · Flight Deck Procedures for Maintaining Orientation**
+
+So the teaching goal is not simply for the learner to recognize a hold-short line. The learner should be able to **plan the taxi, understand the clearance, maintain position awareness, recognize runway boundaries, manage workload, and stop before uncertainty becomes movement.**
+
+### 1. Runway Incursion — Know What We Are Preventing
+
+- **A runway incursion is the incorrect presence of an aircraft, vehicle, or person on the protected area of a surface designated for the landing and takeoff of aircraft.**
+- The event may begin with something small:
+    - A misunderstood clearance.
+    - A wrong turn.
+    - A missed sign.
+    - A distraction.
+    - An assumption about where the airplane is.
+- But once the airplane enters a protected runway area incorrectly, there may be very little time to correct the error.
+
+- **The FAA identifies three major areas that contribute to runway incursions:**
+
+**Communication · Airport Knowledge · Flight Deck Procedures for Maintaining Orientation**
+
+- **Communication:** Did we correctly hear, understand, read back, and comply with the instruction?
+- **Airport knowledge:** Do we understand the airport layout, signs, markings, lighting, Hot Spots, and runway relationships?
+- **Orientation:** Do we continuously know where the airplane is and what comes next?
+
+- **That gives us the framework for the entire lesson.** A runway incursion normally develops when one or more of those three pieces breaks down.
+
+- **So the first practical question becomes: how do we make sure the taxi clearance we received is the clearance we actually execute?**
+
+### 2. Taxi Instructions and Clearances — Hear It, Understand It, Follow It
+
+- **At a towered airport, safe taxi begins with a clear communication loop.**
+- ATC issues the instruction.
+- The pilot:
+    - Listens.
+    - Understands the route.
+    - Reads back required runway restrictions.
+    - Follows the clearance while continuously checking position.
+
+- **Read back runway crossing and hold-short instructions.**
+- Use the complete aircraft call sign and standard phraseology.
+
+- **A taxi clearance gives us a route and a clearance limit.**
+- Do not allow familiarity with the airport or an expected route to replace the clearance actually issued.
+
+- **Before entering or crossing a runway, be certain the clearance authorizes that action.**
+- A taxi clearance does not automatically authorize crossing every runway encountered along the route.
+
+- **If there is any uncertainty about the clearance or the airplane's position, stop.**
+- Ask ATC to clarify.
+- Request progressive taxi instructions when appropriate.
+
+- **The important principle is that uncertainty should produce a stop and a question—not continued movement.**
+
+- **Aviation example:** ATC gives, “Taxi to Runway 17 via Alpha, Bravo, hold short Runway 12.”
+    - The learner should identify the route.
+    - Read back the hold-short restriction.
+    - Locate the hold point on the diagram.
+    - Know before moving where the airplane must stop.
+
+- **But even a correctly understood clearance can be forgotten or misapplied if the pilot is trying to hold the entire route in memory. That is why the FAA emphasizes writing it down and using the airport diagram.**
+
+### 3. Record the Clearance and Use the Airport Diagram — Keep the Route Visible
+
+- **The airport diagram should be part of the taxi operation, not something we look at only during preflight planning.**
+
+- Before taxi:
+    - Review the route.
+    - Identify the destination.
+    - Identify runway crossings.
+    - Identify hold-short restrictions.
+    - Locate complex intersections.
+    - Identify Hot Spots.
+
+- **For complex or unfamiliar taxi instructions, write them down.**
+- Then trace or follow the route on the airport diagram.
+
+- **The diagram gives us a continuous position reference.**
+- As we taxi, we should be able to answer:
+    - Where am I?
+    - What taxiway am I on?
+    - What intersection is next?
+    - Where is the next runway?
+    - Where is my clearance limit?
+
+#### Hot Spots
+
+- **A Hot Spot identifies airport geometry or an intersection with a history or potential risk of collision or runway incursion.**
+- It is a cue to increase attention before arriving there.
+
+- Brief Hot Spots before movement whenever possible.
+- At a Hot Spot:
+    - Slow down.
+    - Verify position.
+    - Compare the diagram with the signs and markings outside.
+    - Confirm the clearance.
+    - Stop if anything does not agree.
+
+- **The goal is to solve the confusing part before the airplane reaches it.**
+
+- **Now the learner knows the route on paper. The next requirement is being able to recognize that route and every runway boundary outside the airplane. That takes us to airport signs, markings, and lights.**
+
+### 4. Airport Markings, Signs, and Lights — Recognize the Runway Boundary
+
+- **Airport signs, pavement markings, and lights provide the visual language that keeps the pilot oriented on the surface.**
+- We use those visual cues together with:
+    - The airport diagram.
+    - The taxi clearance.
+    - Our outside scan.
+
+#### Runway Holding Position Markings
+
+- **The runway holding-position marking consists of four yellow lines—two solid and two dashed.**
+- When approaching a runway from the taxiway side:
+    - The **solid lines face the aircraft**.
+    - Stop before crossing the marking when a clearance is required.
+- When exiting the runway:
+    - The **dashed lines face the aircraft**.
+    - Continue until the **entire aircraft**, including the tail, is clear of the marking.
+
+- **Do not treat the nose crossing the line as being clear of the runway.**
+- The whole airplane must be beyond the runway holding-position marking.
+
+#### Signs and Lighting
+
+- **Mandatory instruction signs are red with white inscriptions.**
+- A runway holding-position sign helps identify the runway boundary.
+
+- Common lighting cues include:
+    - **Blue:** Taxiway edge lights.
+    - **Green:** Taxiway centerline lights.
+    - **Yellow:** Runway guard lights at runway/taxiway intersections.
+    - **Red:** Stop bars where installed and used in low-visibility operations.
+
+- **Runway Status Lights are warning systems—not ATC clearances.**
+- If red Runway Entrance Lights or Takeoff Hold Lights are illuminated, do not enter, cross, or begin takeoff even if a clearance was issued. Resolve the conflict with ATC.
+
+- **Before entering or crossing any runway, use more than one cue.**
+    - Identify the runway.
+    - Confirm the clearance.
+    - Check the sign and marking.
+    - Scan the runway.
+    - Scan final approach when appropriate.
+
+- **Knowing the signs and markings is necessary, but runway-incursion avoidance still fails if the pilot is heads-down, distracted, or assuming the next turn instead of verifying it. That brings us to flight-deck activity during taxi.**
+
+### 5. Flight Deck Activities During Taxi — Taxi Is an Active Phase of Flight
+
+- **Taxi is not downtime.**
+- The pilot is controlling an aircraft in an environment containing:
+    - Other aircraft.
+    - Vehicles.
+    - People.
+    - Runways.
+    - Taxiways.
+    - Signs.
+    - Lighting.
+    - ATC instructions.
+
+- **Maintain an outside scan and continuous position awareness.**
+- Keep the airport diagram available.
+- Continuously compare:
+    - What we expected.
+    - What ATC actually cleared.
+    - What the diagram shows.
+    - What we see outside.
+
+#### Sterile Flight Deck
+
+- **Limit nonessential activity during taxi.**
+- Complete as much heads-down work as practical before movement:
+    - EFB setup.
+    - Avionics programming.
+    - Checklist preparation.
+    - Route review.
+
+- Passengers should understand that unnecessary conversation during taxi can create risk.
+
+- **If a heads-down task becomes necessary and position awareness begins to degrade, stop the airplane in an appropriate location before continuing the task.**
+
+#### Expectation and Confirmation Bias
+
+- **Expectation bias occurs when we perceive what we expected rather than what was actually communicated or displayed.**
+- A familiar airport creates special risk because the pilot may expect the usual taxi route.
+
+- **Confirmation bias can reinforce the mistake.**
+- Once the pilot believes the route is correct, they may interpret signs or instructions as confirming that expectation.
+
+- **The defense is active verification.**
+    - Listen to the actual clearance.
+    - Compare it with the diagram.
+    - Read the signs.
+    - Verify the intersection.
+    - Stop when the cues do not agree.
+
+#### Runway Crossing
+
+- **Treat every runway crossing as a deliberate decision point.**
+- Before crossing:
+    - Confirm the specific runway.
+    - Confirm the clearance.
+    - Scan for traffic.
+    - Verify that entering the runway is safe.
+
+- **Aviation example:** Even after hearing “cleared to cross Runway 26,” the learner should identify Runway 26 on the sign and diagram and visually check the runway before entering.
+
+- **All of that describes operations where ATC is available to issue and clarify clearances. At a non-towered airport, the pilot has to create the same level of awareness without a controller managing the surface movement.**
+
+### 6. Non-Towered Airport Operations — No Controller Does Not Mean No Structure
+
+- **At a non-towered airport, increased vigilance is required because there is no ground controller separating surface traffic.**
+
+- Before operating:
+    - Review the airport diagram.
+    - Review the Chart Supplement and applicable airport information.
+    - Determine the runway and traffic pattern.
+    - Monitor the CTAF.
+    - Understand runway and taxiway relationships.
+
+- **Communicate clearly, but never assume every aircraft is transmitting or even equipped with a radio.**
+- Radio calls supplement the visual scan; they do not replace it.
+
+- During taxi and before entering or crossing a runway:
+    - Monitor the CTAF.
+    - Announce intentions as appropriate.
+    - Scan the runway.
+    - Scan final approach.
+    - Look for departing and landing traffic.
+
+- **Before takeoff, verify the runway is clear and the approach path does not contain a conflict.**
+
+- **An IFR release from ATC is not itself authorization to take off from a non-towered airport.**
+- The pilot still has to resolve local traffic and runway conflicts.
+
+- **The same principle applies here as at a towered airport: if runway status, position, or traffic is uncertain, stop and reassess rather than continuing on assumption.**
+
+- **At this point we have covered the knowledge elements. The ACS also specifically asks us to teach the situations where runway-incursion risk increases. Those risks are where the procedures above are most likely to break down.**
+
+### 7. Runway-Incursion Risk Management — Know When the Margin Is Shrinking
+
+#### Distraction, Task Prioritization, and Loss of Situational Awareness
+
+- **Taxi requires continuous orientation.**
+- Distractions and excessive heads-down activity can cause the pilot to:
+    - Miss a turn.
+    - Cross a hold line.
+    - Lose track of position.
+    - Forget a restriction.
+
+- **Prioritize movement of the aircraft first.**
+- If another task competes with safe taxi, slow or stop.
+
+#### Expectation or Confirmation Bias
+
+- **Never substitute the route you expected for the route ATC actually issued.**
+- This risk increases:
+    - At familiar airports.
+    - During routine operations.
+    - When a clearance changes at the last moment.
+
+- A route or runway change should trigger a deliberate re-brief.
+
+#### Entering or Crossing Runways
+
+- **A runway boundary deserves an intentional pause in the pilot's thinking.**
+- Confirm:
+    - Which runway is ahead.
+    - Whether the clearance authorizes entry or crossing.
+    - Whether the runway and approach path are clear.
+
+- **Do not rely on memory alone.**
+
+#### Night Taxi Operations
+
+- **Night reduces visual cues and can make signs, intersections, and pavement geometry more difficult to interpret.**
+- Counter that risk by:
+    - Reviewing the route in advance.
+    - Using the airport diagram.
+    - Slowing down.
+    - Using lighting and signs deliberately.
+    - Stopping when position is uncertain.
+
+#### Low-Visibility Taxi Operations
+
+- **Low visibility reduces the distance available to recognize signs, markings, traffic, and intersections.**
+- Use:
+    - The airport diagram.
+    - Available lighting.
+    - ATC instructions.
+    - Progressive taxi when appropriate.
+- **Slow or stop rather than trying to maintain normal taxi speed while uncertain.**
+
+#### Runway Incursion After Landing
+
+- **The risk does not end at touchdown.**
+- After landing, workload remains high and pilots may begin:
+    - Configuration changes.
+    - Frequency changes.
+    - Checklist actions.
+    - Passenger conversation.
+
+- **First clear the runway completely.**
+- The entire aircraft must be beyond the runway holding-position marking.
+- Then establish the taxi route before allowing nonessential activity to compete for attention.
+
+#### Taxiways Between Parallel Runways
+
+- **Taxiways between parallel runways create multiple runway boundaries close together.**
+- Clearing one runway does not automatically authorize entering or crossing the next.
+
+- Know:
+    - Which runway was just exited.
+    - Which runway lies ahead.
+    - Which hold line applies.
+    - The exact clearance limit.
+
+- **Treat each runway as a separate decision and separate clearance requirement.**
+
+- **These risk items all have the same underlying defense: maintain position awareness, verify before entering a runway environment, and stop whenever the mental picture and the outside picture do not agree.**
+
+### 8. Instructor Application — Teach a Surface Decision Process
+
+- **The ACS skill requirement is not simply to explain runway incursions. It is to deliver instruction on the elements and techniques for avoiding them.**
+
+- A useful instructional exercise is to give the learner a realistic taxi clearance on an airport diagram.
+
+- Require the learner to:
+    - Copy the clearance.
+    - Read back runway restrictions.
+    - Trace the route.
+    - Identify Hot Spots.
+    - Point out runway hold positions.
+    - Identify the clearance limit.
+    - Verbalize each runway-crossing decision.
+
+- Then introduce a realistic change:
+    - A last-minute taxi-route amendment.
+    - A runway change.
+    - A similar call sign.
+    - Night conditions.
+    - Reduced visibility.
+    - An unfamiliar Hot Spot.
+    - An after-landing exit between parallel runways.
+
+- **The desired learner response is deliberate rather than rushed:**
+    - Maintain control.
+    - Verify position.
+    - Recheck the clearance.
+    - Stop if necessary.
+    - Clarify with ATC when applicable.
+    - Continue only when the route and runway status are understood.
+
+- **The instructor should model the same behavior during actual taxi.**
+- Do not teach runway-incursion avoidance while:
+    - Allowing unnecessary cockpit distraction.
+    - Rushing clearances.
+    - Cutting across markings casually.
+    - Assuming a route because it is familiar.
+
+- **What the learner observes during every taxi is part of the lesson.**
+
+### Close
+
+- **Runway-incursion avoidance comes back to three things:**
+
+**Communication · Airport Knowledge · Orientation**
+
+- **Communication:** Understand and comply with the clearance actually issued.
+- **Airport knowledge:** Know the diagram, Hot Spots, signs, markings, lights, and runway relationships.
+- **Orientation:** Always know where the airplane is, what comes next, and where the airplane must stop.
+
+- The practical process is:
+
+**Plan the route → Copy and understand the clearance → Maintain position awareness → Verify every runway boundary → Stop when uncertain**
+
+- **The goal is not a learner who can merely identify a hold-short line on a picture.**
+- It is a learner who approaches every runway boundary as a deliberate decision point, maintains orientation throughout surface movement, and stops before uncertainty becomes a runway incursion.
+
+
 
 ## AI.II.C.K1 — Runway Incursion Definition
 
