@@ -100,6 +100,539 @@ The applicant explains all ACS elements, clears, selects an entry altitude allow
 <figure class="lesson-reference-figure"><img src="/knowledge/Slipping_Skidding_Coordinated_Turns.png" alt="Coordinated, slipping, and skidding flight indications" loading="lazy"><figcaption>Yaw during a stall creates unequal wing AOA and drag, initiating autorotation.</figcaption></figure>
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in spin awareness is simple: a spin requires two things—a stall and yaw.**
+
+That gives us the most important relationship in the entire lesson:
+
+**Stall + Yaw = Spin**
+
+If we prevent either one, we prevent the spin.
+
+So the primary goal of spin training is not to become good at spinning the airplane.
+
+**The primary goal is to recognize and stop the stalled-and-yawing condition before autorotation develops.**
+
+### Real-World Application — Base-to-Final and Departure
+
+The classic real-world spin scenario is the overshot base-to-final turn.
+
+The pilot realizes the airplane is going through final and tries to force it back with:
+
+- Inside rudder.
+- Opposite aileron.
+- Increasing back pressure.
+
+Now the airplane may be:
+
+- Slow.
+- At high AOA.
+- Skidding.
+- Close to the ground.
+
+If the wing stalls while that yaw is present:
+
+**the airplane can enter a spin.**
+
+Another common scenario is a departure or go-around:
+
+- High power.
+- High pitch.
+- Low airspeed.
+- Strong left-turning tendencies.
+- Insufficient rudder.
+
+Again, if the airplane stalls while yawing, autorotation can begin.
+
+### What Is a Spin?
+
+A spin is an **aggravated stall with autorotation**.
+
+Both wings may be stalled, but they are not stalled equally.
+
+The descending wing is at:
+
+- Higher AOA.
+- Greater drag.
+- Less lift.
+
+The rising wing is at:
+
+- Lower AOA.
+- Less drag.
+- More lift.
+
+The difference in lift creates roll.
+
+The difference in drag creates yaw.
+
+Together, they produce the autorotation and the downward corkscrew flightpath.
+
+### What Causes a Spin?
+
+A spin requires:
+
+1. **A stall**
+2. **Yaw**
+
+The yaw can come from:
+
+- Improper rudder use.
+- Adverse yaw.
+- P-factor.
+- Torque.
+- Spiraling slipstream.
+- Wake turbulence.
+- Wind shear.
+- Asymmetric control input.
+
+The yaw may begin before, at, or just after the stall.
+
+That is why coordination is so important whenever the airplane is operating near critical AOA.
+
+### Spin Phases
+
+There are four phases.
+
+#### Entry
+
+The airplane is placed into the conditions required for the spin:
+
+- Critical AOA is exceeded.
+- Yaw is present.
+
+This may be intentional or accidental.
+
+#### Incipient
+
+The airplane has stalled and rotation has begun, but the aerodynamic and inertial forces have not yet stabilized.
+
+This is the beginning of autorotation.
+
+The incipient phase may take several turns to develop fully.
+
+#### Developed
+
+The spin becomes more stabilized.
+
+The airplane's:
+
+- Rotation rate.
+- Airspeed.
+- Vertical speed.
+- Attitude.
+
+become relatively constant or repetitive.
+
+Airspeed generally remains low and relatively stable.
+
+#### Recovery
+
+Recovery begins when anti-spin controls are applied and AOA is reduced below critical.
+
+Rotation stops, but the airplane is normally left in a steep nose-low attitude.
+
+The pilot then has to recover from that dive smoothly without creating an accelerated or secondary stall.
+
+### Spin vs. Spiral Dive
+
+This distinction is important.
+
+In a **spin**:
+
+- The wing is stalled.
+- Airspeed is relatively low and stable.
+- Autorotation continues.
+
+In a **spiral dive**:
+
+- The wings are flying.
+- Airspeed is increasing rapidly.
+- Load factor can increase rapidly.
+
+If airspeed is building quickly, the airplane is probably no longer in a true spin.
+
+**Do not continue holding spin recovery controls as though the airplane were still stalled if the condition has transitioned into a spiral.**
+
+### Factors That Affect Spin Behavior
+
+#### Configuration
+
+Configuration affects:
+
+- Stall characteristics.
+- Drag.
+- Rotation.
+- Recovery.
+
+Intentional spins are performed only in the configuration permitted by the airplane's POH/AFM.
+
+#### Weight and Center of Gravity
+
+Weight changes stall characteristics.
+
+CG is especially important.
+
+A forward CG generally:
+
+- Increases stability.
+- Increases the tendency for the nose to lower.
+- Improves recovery characteristics.
+
+An aft CG:
+
+- Reduces longitudinal stability.
+- Reduces the nose-down recovery tendency.
+- Can make spin recovery more difficult.
+
+As CG moves aft, the possibility of a flatter and more difficult-to-recover spin increases.
+
+**This is why spin approval and weight-and-balance limits must be verified before intentional spin training.**
+
+#### Power
+
+Power can affect the spin.
+
+In many single-engine airplanes, power can:
+
+- Increase yawing effects.
+- Flatten the spin.
+- Increase rotation.
+
+That is why many spin-recovery procedures begin with:
+
+**Power idle.**
+
+But the exact airplane procedure controls.
+
+#### Control Coordination
+
+The most important prevention tool is coordination.
+
+If the airplane is approaching a stall:
+
+**Do not let it yaw.**
+
+Reduce AOA and maintain directional control.
+
+### Where Unintentional Spins Happen
+
+Common situations include:
+
+- Overshot base-to-final turn.
+- Skidding turn.
+- Power-on departure stall.
+- Go-around with poor rudder control.
+- Improper recovery from a stall.
+- Secondary stall.
+- Improper aileron correction after a wing drop.
+- Slow, high-AOA maneuvering with distraction.
+- Wake turbulence or abrupt environmental disturbance.
+
+The common thread is:
+
+**High AOA + yaw**
+
+### Recognizing an Imminent Spin
+
+Recognize the setup before autorotation starts.
+
+Warning signs include:
+
+- Stall warning or buffet.
+- High AOA.
+- Yaw.
+- Skid or slip.
+- Wing drop.
+- Increasing rudder input.
+- Uncoordinated flight.
+- Slow airspeed.
+- Excessive back pressure.
+
+The prevention response is:
+
+**Reduce AOA and eliminate the yaw.**
+
+Do not wait for the spin to develop.
+
+### Aircraft Approval
+
+**Never intentionally spin an airplane unless it is specifically approved for spins in the exact configuration and loading being used.**
+
+Verify:
+
+- POH/AFM limitations.
+- Airworthiness category.
+- Type certificate information.
+- Weight and balance.
+- CG.
+- Installed equipment.
+- Configuration.
+- Placards.
+- Supplemental limitations.
+
+For the C172S, intentional spins require compliance with the utility-category limitations in the applicable POH/AFM.
+
+That includes verifying the exact:
+
+- Weight.
+- CG.
+- Seat occupancy.
+- Baggage restrictions.
+- Flap position.
+- Installed equipment restrictions.
+
+**The airplane-specific POH is controlling.**
+
+### Human Factors
+
+Spin instruction can create:
+
+- Anxiety.
+- Startle.
+- Disorientation.
+- Fixation.
+- Motion sickness.
+- Fear-driven control inputs.
+
+The learner needs to know exactly what to expect before the maneuver.
+
+Brief:
+
+- What the entry will look like.
+- What the rotation will feel like.
+- Direction of spin.
+- Number of turns.
+- Recovery altitude.
+- Recovery controls.
+- Positive transfer of controls.
+- Abort criteria.
+
+Do not surprise a learner with a spin.
+
+### Intentional Spin Entry
+
+Intentional spin entry is performed only:
+
+- In an approved airplane.
+- Within approved loading.
+- With a qualified instructor.
+- In suitable conditions.
+- With sufficient altitude.
+
+The ACS requires the maneuver to be completed no lower than **4,000 feet AGL**.
+
+The exact entry procedure comes from the airplane's POH/AFM.
+
+A typical training-airplane entry resembles a power-off stall:
+
+- Clear the area.
+- Configure as required.
+- Reduce power and decelerate.
+- Increase AOA toward the stall.
+- Near the stall, apply the approved pro-spin rudder and elevator input.
+- Keep ailerons in the position required by the POH.
+- Establish the spin only as directed and within the planned number of turns.
+
+### Maintaining Orientation
+
+During the spin, maintain awareness of:
+
+- Spin direction.
+- Number of turns.
+- Altitude.
+- Airspeed trend.
+
+Outside references are primary when available.
+
+Gyroscopic instruments may become unreliable or misleading during unusual attitudes.
+
+The turn coordinator may provide useful spin-direction information depending on the airplane and POH guidance.
+
+The slip/skid ball alone may be misleading in a spin.
+
+### Spin Recovery
+
+**Always use the airplane-specific POH/AFM recovery procedure.**
+
+For a typical C172S-type recovery, the memory aid is:
+
+**PARE**
+
+- **P — Power idle**
+- **A — Ailerons neutral**
+- **R — Rudder full opposite the direction of rotation**
+- **E — Elevator briskly forward to reduce AOA**
+
+Then:
+
+- Hold the recovery controls until rotation stops.
+- Neutralize rudder when rotation stops.
+- Recover smoothly from the resulting dive.
+- Avoid excessive airspeed.
+- Avoid excessive G.
+- Avoid a secondary or accelerated stall.
+
+**PARE is a memory aid. The POH procedure is controlling.**
+
+### ACS Standards — Spin Awareness and Spins
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **4,000 feet AGL**.
+- If requested by the evaluator:
+    - Enter an intentional spin using the approved airplane procedure.
+    - Recover using the approved airplane procedure.
+- Analyze and correct common errors.
+- Demonstrate effective instruction throughout the task.
+
+The applicant must also explain:
+
+- Purpose and procedures.
+- Spin aerodynamics.
+- Causes of a spin.
+- Entry, incipient, developed, and recovery phases.
+- Recovery procedure.
+- Human factors associated with spin instruction.
+- How to determine whether the airplane is approved for spins.
+- Situations where unintentional spins occur.
+- Intentional entry procedure and minimum altitude.
+- Control procedure for maintaining a stabilized spin.
+- Conditions that lead to a spin and how to avoid them.
+- Orientation and reliable instruments.
+- Recovery procedure and minimum recovery altitude.
+- Common errors.
+
+### Common Errors — Spin Awareness and Spins
+
+- Failure to adequately clear the area.
+- Failure to establish proper configuration before entry.
+- Failure to verify aircraft spin approval.
+- Failure to verify proper weight and balance.
+- Failure to achieve and maintain the full stall during intentional spin entry.
+- Failure to close the throttle when required by the spin procedure.
+- Failure to recognize the indications of an imminent unintentional spin.
+- Improper use of flight controls during entry.
+- Improper use of flight controls during rotation.
+- Improper use of flight controls during recovery.
+- Disorientation during the spin.
+- Failure to identify spin direction.
+- Failure to distinguish a spin from a high-speed spiral.
+- Excessive airspeed during recovery.
+- Excessive G during dive recovery.
+- Secondary or accelerated stall during recovery.
+- Failure to recover with minimum practical altitude loss.
+- Attempting an intentional spin in an airplane not approved for spins.
+- Failure to follow the airplane-specific POH/AFM procedure.
+
+### Risk Management
+
+#### Inadvertent Spin and Loss of Control
+
+The most important risk is allowing:
+
+**stall + yaw**
+
+to exist at the same time.
+
+Prevent it by:
+
+- Maintaining coordination.
+- Reducing AOA at the first stall indication.
+- Going around instead of forcing an overshoot.
+- Avoiding abrupt rudder and aileron inputs near a stall.
+
+#### Stall-Warning Limitations
+
+Do not rely on one warning device.
+
+Use:
+
+- Sight.
+- Sound.
+- Feel.
+- Buffet.
+- Control response.
+- Installed warning systems.
+
+A stall warning is a cue to act before the spin develops.
+
+#### Recovery Procedure
+
+Incorrect recovery inputs can delay or prevent recovery.
+
+Use the exact POH/AFM procedure.
+
+Do not improvise.
+
+#### Environmental Effects
+
+Turbulence, wind shear, and wake turbulence can change AOA or introduce yaw.
+
+High density altitude reduces recovery and climb performance.
+
+Intentional spin training requires suitable weather, visibility, and a clear horizon.
+
+#### Collision Hazards
+
+Clear:
+
+- Above.
+- Below.
+- Around.
+
+Spin training covers a large vertical area.
+
+Maintain awareness of other aircraft and airspace.
+
+#### Distraction, Task Prioritization, and Disorientation
+
+A spin can produce strong visual and vestibular sensations.
+
+If the learner becomes disoriented or stops making correct control inputs:
+
+**The instructor takes control immediately.**
+
+Aircraft control and altitude always take priority over completing the lesson.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **Stall + yaw = spin.**
+2. **Prevent the spin by preventing either the stall or the yaw.**
+3. **The descending wing is more stalled and produces more drag.**
+4. **A spin has entry, incipient, developed, and recovery phases.**
+5. **Airspeed is relatively low in a spin; rapidly increasing airspeed suggests a spiral dive.**
+6. **Intentional spins require an approved airplane and approved loading.**
+7. **The POH/AFM controls the recovery procedure.**
+8. **PARE is only a memory aid.**
+9. **The ACS completion floor is 4,000 feet AGL.**
+10. **Spin prevention matters more than spin recovery.**
+
+### Close
+
+Spin awareness is really about recognizing the chain before it gets away from us:
+
+**High AOA → Stall + Yaw → Autorotation → Spin**
+
+The best recovery is prevention:
+
+**Reduce AOA. Eliminate yaw. Stay coordinated.**
+
+If an intentional spin is being performed in an approved airplane:
+
+**Follow the POH exactly.**
+
+And the most important rule in the entire lesson is:
+
+**Stall + Yaw = Spin.**
+
+
 
 ## K1 — Purpose and Procedures
 

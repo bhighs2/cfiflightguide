@@ -94,6 +94,423 @@ Maintain coordination and continuous pitch/roll/airspeed change; reach approxima
 </figure>
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in a lazy eight is that the airplane is constantly trading airspeed and altitude while pitch, bank, and control pressure are continuously changing.**
+
+Nothing in the maneuver is held for very long.
+
+That is what makes the lazy eight different from a steep turn or a chandelle.
+
+The airplane should look like it is flowing through the maneuver.
+
+The three ideas to keep in mind are:
+
+**Energy transfer.**  
+**Constantly changing control pressures.**  
+**Symmetry.**
+
+### Real-World Application — Energy Management and Airmanship
+
+The lazy eight is primarily an airmanship maneuver.
+
+It develops:
+
+- Coordination.
+- Timing.
+- Planning.
+- Outside-reference flying.
+- Energy management.
+- Smooth control use.
+- Awareness of changing airspeed and control effectiveness.
+
+A useful way to visualize it is like moving through a **half pipe**.
+
+As we climb:
+
+**airspeed is traded for altitude.**
+
+As we descend:
+
+**altitude is traded back for airspeed.**
+
+Power remains essentially constant, so the airplane's energy is being exchanged through pitch and flightpath rather than large power changes.
+
+### What Is a Lazy Eight?
+
+A lazy eight consists of two opposite **180° climbing and descending turns**.
+
+Each half should be a mirror image of the other.
+
+Throughout the maneuver:
+
+- Pitch is changing.
+- Bank is changing.
+- Airspeed is changing.
+- Turn rate is changing.
+- Control pressures are changing.
+
+There should be no abrupt stops at the checkpoints.
+
+The checkpoints tell us whether our timing is correct.
+
+They are not places where we freeze the airplane.
+
+### Why Symmetry Matters
+
+The goal is for each 180° half of the maneuver to match the other.
+
+At each 180° point, the airplane should return to approximately:
+
+- Entry altitude.
+- Entry airspeed.
+- Reciprocal heading.
+- Wings level.
+
+If we arrive high, low, fast, slow, or off heading, the problem usually started much earlier in the maneuver.
+
+That is why lazy eights are a planning exercise as much as a control exercise.
+
+### Entry and Reference Points
+
+Before starting:
+
+- Clear the area.
+- Select an altitude that allows the maneuver to be performed no lower than **1,500 feet AGL**.
+- Establish the recommended configuration, power, and airspeed.
+- Select distant visual reference points at approximately:
+    - **45°**
+    - **90°**
+    - **135°**
+  in the direction of turn.
+
+The reference points should be:
+
+- Easy to identify.
+- Far enough away to remain stable visually.
+- Near the horizon.
+
+Poor reference-point selection makes the entire maneuver harder.
+
+### How the Energy Changes
+
+As the airplane begins the climbing turn:
+
+- Pitch increases.
+- Bank increases.
+- Airspeed decreases.
+- Altitude increases.
+
+As airspeed decreases:
+
+- Control effectiveness changes.
+- Left-turning tendencies become more noticeable.
+- Rudder requirements change.
+- Turn rate changes.
+
+After the high point, the airplane transitions smoothly into a descending turn:
+
+- Pitch continues downward.
+- Bank begins to decrease.
+- Airspeed begins increasing.
+- Altitude begins decreasing.
+
+By 180°:
+
+- Wings are level.
+- Pitch is back to the horizon.
+- Airspeed is near the entry value.
+- Altitude is near the entry value.
+
+### The 45° Point
+
+At approximately **45° of turn**:
+
+- Pitch reaches its **maximum nose-up attitude**.
+- Bank is approximately **15°**.
+- Airspeed is decreasing.
+- Bank continues increasing after this point.
+- Pitch begins decreasing toward the horizon.
+
+The exact pitch attitude depends on the airplane and conditions.
+
+The important point is:
+
+**maximum pitch occurs before maximum bank.**
+
+Do not rush the bank.
+
+If bank increases too quickly early in the maneuver, the airplane turns through the reference points before the pitch schedule can develop properly.
+
+### From 45° to 90°
+
+From 45° to 90°:
+
+- Pitch gradually decreases.
+- Bank continues increasing.
+- Airspeed continues decreasing.
+- Altitude continues increasing.
+
+At the same time, coordination must be maintained as control effectiveness changes.
+
+This portion should feel continuous.
+
+Do not hold the nose up and then suddenly release it.
+
+### The 90° Point
+
+At approximately **90° of turn**:
+
+- Pitch passes through the horizon.
+- Bank reaches its maximum of approximately **30°**.
+- Altitude is at its highest.
+- Airspeed is at its minimum.
+
+This is the slowest portion of the maneuver.
+
+That means the stall margin is smallest here.
+
+The airplane must remain coordinated.
+
+If stall warning occurs:
+
+**reduce AOA and recover.**
+
+Do not continue the maneuver.
+
+### From 90° to 135°
+
+After 90°:
+
+- The nose continues below the horizon.
+- Bank begins decreasing.
+- Airspeed begins increasing.
+- Altitude begins decreasing.
+
+The airplane should not be pushed into a dive.
+
+Guide the nose smoothly.
+
+The rate of pitch change and bank change should remain progressive.
+
+### The 135° Point
+
+At approximately **135° of turn**:
+
+- Pitch reaches its **maximum nose-down attitude**.
+- Bank has decreased to approximately **15°**.
+- Airspeed is increasing.
+- The airplane continues toward the 180° point.
+
+After this point:
+
+- Pitch begins returning toward the horizon.
+- Bank continues decreasing toward wings level.
+
+### The 180° Point
+
+At **180°**:
+
+- Wings should be level.
+- Pitch should be back on the horizon.
+- Altitude should be within **±100 feet** of entry altitude.
+- Airspeed should be within **±10 knots** of entry airspeed.
+- Heading should be within **±10°** of the reciprocal entry heading.
+
+The next half begins immediately in the opposite direction.
+
+The second 180° should mirror the first as closely as possible.
+
+### Coordination and Rudder
+
+Rudder demand changes throughout the maneuver because:
+
+- Airspeed changes.
+- Pitch changes.
+- Bank changes.
+- Left-turning tendencies change.
+- Adverse yaw changes.
+
+Near the slowest portion of the maneuver, more rudder pressure may be required to maintain coordination.
+
+The right and left halves may not require identical rudder pressure.
+
+That is normal.
+
+The requirement is not equal rudder pressure.
+
+The requirement is:
+
+**coordinated flight.**
+
+### ACS Standards — Lazy Eights
+
+- Clear the area.
+- Select an altitude that allows the maneuver to be performed no lower than **1,500 feet AGL**.
+- Establish the recommended:
+    - Configuration.
+    - Power.
+    - Airspeed.
+- Maintain coordinated flight throughout.
+- Complete the maneuver with:
+    - Approximately **30° bank at the steepest point**.
+    - Constant change of pitch.
+    - Constant change of roll rate.
+    - Constant change of airspeed.
+- At each **180° point**, maintain:
+    - Altitude **±100 feet** from entry altitude.
+    - Airspeed **±10 knots** from entry airspeed.
+    - Heading **±10°**.
+- Continue through the number of symmetrical loops specified.
+- Resume straight-and-level flight.
+- Analyze and correct common errors.
+
+### Common Errors — Lazy Eights
+
+- Failure to adequately clear the area.
+- Poor selection of reference points.
+- Reference points selected too close to the airplane.
+- Abrupt pitch or bank changes.
+- Increasing bank too quickly during the first 45°.
+- Holding pitch too long near the top.
+- Allowing pitch to fall abruptly through the horizon.
+- Excessive bank.
+- Turning the maneuver into a steep turn instead of a climbing and descending maneuver.
+- Poor coordination.
+- Improper rudder correction for changing airspeed and left-turning tendencies.
+- Unsymmetrical loops.
+- Inconsistent airspeed at the 180° points.
+- Inconsistent altitude at the 180° points.
+- Excessive heading error at the 180° points.
+- Excessive pitch-down attitude.
+- Excessive airspeed during the descending portion.
+- Stall or stall warning near the slowest point.
+- Loss of orientation.
+- Fixation on instruments.
+- Excessive deviation from visual reference points.
+
+### Risk Management
+
+#### Division of Attention
+
+The maneuver requires continuous attention to:
+
+- Pitch.
+- Bank.
+- Coordination.
+- Airspeed.
+- Reference points.
+- Traffic.
+
+Do not fixate on one checkpoint or instrument.
+
+Use outside references as primary and instruments to verify performance.
+
+#### Collision Hazards
+
+Clear before beginning and continue scanning throughout the maneuver.
+
+The airplane is constantly changing heading and altitude.
+
+Traffic awareness cannot stop just because the maneuver is complex.
+
+#### Low-Altitude Maneuvering
+
+The maneuver must be completed no lower than **1,500 feet AGL**.
+
+Low altitude reduces the margin for:
+
+- Stall recovery.
+- Spin recovery.
+- Orientation errors.
+- CFIT avoidance.
+
+#### Uncoordinated Flight
+
+The airplane becomes slower near the top of each half.
+
+That reduces stall margin and increases the consequences of yaw.
+
+Maintain coordination throughout.
+
+#### Energy Management
+
+Too much pitch early causes:
+
+- Excessive altitude gain.
+- Premature airspeed loss.
+- Stall risk.
+
+Too little pitch causes:
+
+- Excessive speed.
+- Poor symmetry.
+- A flat maneuver.
+
+Too much nose-down pitch after 90° causes:
+
+- Rapid airspeed buildup.
+- Overspeed risk.
+- Poor endpoint control.
+
+The goal is a smooth exchange:
+
+**airspeed → altitude → airspeed**
+
+#### Accelerated Stall
+
+Bank and back pressure increase load factor.
+
+Near minimum airspeed, aggressive control inputs can produce an accelerated stall.
+
+Use smooth inputs and recover immediately at any stall warning.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **A lazy eight is a continuous maneuver, not four separate checkpoints.**
+2. **Pitch, bank, airspeed, and control pressures are always changing.**
+3. **The airplane trades airspeed for altitude and then altitude back for airspeed.**
+4. **Maximum pitch occurs near 45°.**
+5. **Maximum bank and minimum airspeed occur near 90°.**
+6. **Maximum nose-down pitch occurs near 135°.**
+7. **At 180°, altitude, airspeed, and heading should return to entry conditions.**
+8. **Each half should mirror the other.**
+9. **Coordination matters more than identical control pressures.**
+10. **The maneuver should look lazy and smooth.**
+
+### Close
+
+Lazy eights are really about timing and energy management.
+
+The flow is:
+
+**Pitch and bank increase → airspeed decreases → altitude increases**
+
+then:
+
+**Pitch decreases → bank peaks → airplane passes through the horizon**
+
+then:
+
+**Pitch goes below the horizon → bank decreases → airspeed increases**
+
+and finally:
+
+**Pitch returns to the horizon → wings level → entry conditions return**
+
+The checkpoints are there to tell us whether the flow is working.
+
+The most important rule is:
+
+**Never chase the checkpoint. Fly the flow.**
+
+
 
 ## K1 — Purpose and Procedures
 

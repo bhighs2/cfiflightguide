@@ -84,6 +84,342 @@ Clear; complete above **3,000 feet AGL**; close the throttle; establish normal g
 <figure class="lesson-reference-figure"><img src="/knowledge/Slipping_Skidding_Coordinated_Turns.png" alt="Coordinated, slipping, and skidding turn indications" loading="lazy"><figcaption>The dangerous setup is the skid: excess rudder into the turn with opposite aileron resisting bank.</figcaption></figure>
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in a cross-controlled stall is that the airplane is stalled while the controls are crossed and the airplane is yawing.**
+
+The classic error chain is:
+
+**Overshoot final → inside rudder → opposite aileron → back pressure → inside-wing stall → spin risk**
+
+This is one of the most dangerous stall scenarios because it usually happens:
+
+- Close to the ground.
+- At low airspeed.
+- In a descending turn.
+- With yaw already present.
+
+### Real-World Application — Overshot Base-to-Final
+
+The classic scenario is an overshoot from base to final.
+
+The pilot sees the airplane drifting through final and does not want to increase bank.
+
+So the pilot adds **inside rudder** to force the nose toward the runway.
+
+That rudder input causes additional yaw and roll.
+
+To keep the bank from increasing, the pilot adds **opposite aileron**.
+
+Now the controls are crossed.
+
+At the same time, the nose tends to drop, so the pilot adds **back pressure** to maintain the flightpath.
+
+Now we have:
+
+- Excess inside rudder.
+- Opposite aileron.
+- Increasing AOA.
+- Low airspeed.
+- A skid.
+- High spin potential.
+
+The correct real-world response is:
+
+**Go around.**
+
+Do not force the airplane back to the runway with rudder.
+
+### What Is a Cross-Controlled Stall?
+
+A cross-controlled stall occurs when the airplane exceeds critical AOA while:
+
+- Rudder is applied in one direction.
+- Aileron is applied in the opposite direction.
+
+That produces uncoordinated flight.
+
+In the base-to-final scenario, the airplane is usually **skidding**, not slipping.
+
+That distinction matters.
+
+The dangerous setup is:
+
+**Excess rudder into the turn + opposite aileron holding the bank**
+
+### Why the Inside Wing Stalls First
+
+Suppose we are turning left.
+
+The pilot applies excessive **left rudder**.
+
+That yaws the airplane left.
+
+The right wing moves forward faster and the left wing moves slower.
+
+The airplane tends to roll farther left.
+
+To stop the bank from increasing, the pilot applies **right aileron**.
+
+Right aileron means:
+
+- Right aileron moves up.
+- Left aileron moves down.
+
+The downward-deflected aileron on the left wing increases that wing's effective AOA.
+
+So now the inside, left wing already has:
+
+- Lower relative speed.
+- Higher AOA.
+- Increasing back pressure.
+- Additional AOA from the down aileron.
+
+That wing reaches critical AOA first.
+
+When it stalls:
+
+- Lift drops sharply on the inside wing.
+- Drag increases on the inside wing.
+- The airplane rolls and yaws rapidly toward that wing.
+
+That can become a spin almost immediately.
+
+### Why the Natural Reaction Makes It Worse
+
+When the inside wing suddenly drops, the instinctive response is often:
+
+- More opposite aileron to raise the wing.
+- More back pressure because the ground is coming up.
+
+Both can make the situation worse.
+
+More opposite aileron can further increase AOA on the already-stalled inside wing.
+
+More back pressure increases AOA on both wings.
+
+So the intuitive reaction can deepen the stall and accelerate the roll.
+
+The correct reaction is:
+
+**Reduce AOA first.**
+
+### Stall + Yaw = Spin
+
+A cross-controlled stall already contains the two ingredients for a spin:
+
+- Stall.
+- Yaw.
+
+That is why the maneuver can transition to a spin so quickly.
+
+The best prevention is:
+
+**Stay coordinated.**
+
+And if the final approach is being overshot:
+
+**Go around.**
+
+### Recognition
+
+Cross-controlled stalls may provide less warning than a coordinated stall.
+
+Because of the sideslip/skid and disturbed airflow:
+
+- Stall warning may be delayed or inconsistent.
+- Buffet may be weak or occur very late.
+- The wing drop may be sudden.
+
+Recognition cues include:
+
+- Excessive rudder pressure.
+- Opposite aileron.
+- Ball displaced to the outside of the turn.
+- Increasing back pressure.
+- Increasing yaw.
+- Rapid bank increase.
+- Stall horn.
+- Buffet.
+- Sudden inside-wing drop.
+
+The most important cue is the **control combination itself**.
+
+If you see:
+
+**Inside rudder + opposite aileron + back pressure**
+
+you are already in the danger zone.
+
+### Entry
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
+- Configure the airplane as specified.
+- Close the throttle.
+- Establish normal glide airspeed.
+- Trim the airplane.
+- Establish a medium-bank descending turn to simulate base to final.
+- Apply excess rudder **in the direction of the turn**.
+- Hold bank constant with **opposite aileron**.
+- Add elevator pressure to keep the nose from lowering.
+- Continue until the first stall indication or as otherwise directed by the evaluator.
+- Recover immediately as directed.
+
+### Recovery
+
+The recovery priority is:
+
+**Reduce AOA and remove the pro-spin yaw.**
+
+1. **Reduce AOA immediately.**
+2. Release the excessive rudder input.
+3. Apply appropriate anti-yaw rudder as necessary.
+4. Do not aggressively level the wings with aileron while the wing is stalled.
+5. After the stall breaks, level the wings with coordinated controls.
+6. Add power as required.
+7. Configure as appropriate.
+8. Return to the desired flightpath.
+
+If autorotation develops into a spin:
+
+**Transition immediately to the airplane-approved spin-recovery procedure.**
+
+### ACS Standards — Cross-Controlled Stall Demonstration
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
+- Configure the airplane with the landing gear down, as applicable.
+- Close the throttle.
+- Establish a normal glide airspeed.
+- Trim the airplane.
+- Roll into a **medium-banked turn**.
+- Apply excess rudder in the direction of the turn.
+- Hold bank constant with **opposite aileron**.
+- Add elevator pressure to keep the nose from lowering.
+- Acknowledge the cues at the **first indication of a stall**.
+- Recover:
+    - At the first indication, or
+    - After a full stall,
+    - As specified by the evaluator.
+- Describe and demonstrate the conditions that lead to a cross-controlled stall for future avoidance.
+- Analyze and correct common errors.
+
+### Common Errors — Cross-Controlled Stall Demonstration
+
+- Failure to adequately clear the area.
+- Failure to establish the selected configuration before entry.
+- Performing the maneuver without adequate altitude.
+- Failure to establish the normal glide and trim.
+- Failure to establish a representative cross-controlled condition.
+- Inadequate excess rudder.
+- Inadequate opposite aileron.
+- Failure to add sufficient elevator to demonstrate the hazard.
+- Failure to recognize the developing skid.
+- Failure to recognize the first stall indication.
+- Improper or delayed AOA reduction.
+- Attempting to level the wings aggressively with aileron before reducing AOA.
+- Failure to remove the pro-spin rudder.
+- Poor coordination during recovery.
+- Delayed recognition of spin entry.
+- Failure to transition to spin recovery if rotation develops.
+- Failure to explain the base-to-final hazard.
+- Failure to emphasize the go-around decision.
+- Loss of situational awareness after recovery.
+
+### Risk Management
+
+#### Spin Entry
+
+This maneuver deliberately creates:
+
+- High AOA.
+- Yaw.
+- Crossed controls.
+
+That is very close to the spin-entry condition.
+
+Maintain a conservative recovery point and discontinue immediately if rotation begins unexpectedly.
+
+#### Environment
+
+Turbulence can change AOA and yaw.
+
+Wind can make a base-to-final overshoot more likely.
+
+High density altitude reduces recovery performance.
+
+Use suitable conditions and adequate altitude.
+
+#### Collision Hazards
+
+Clear:
+
+- Above.
+- Below.
+- Around.
+
+The maneuver covers a large vertical and lateral area.
+
+#### Aircraft Limitations
+
+Respect:
+
+- Airspeed limitations.
+- Configuration limits.
+- Flap limitations.
+- POH/AFM procedures.
+
+Do not allow the maneuver to progress into an uncontrolled spin or overspeed condition.
+
+#### Distraction and Startle
+
+The sudden wing drop can cause fixation and an instinctive pull or aileron response.
+
+Brief the expected sequence before entry:
+
+**AOA → Rudder → Wings → Power**
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **The real-world scenario is an overshot base-to-final turn.**
+2. **The dangerous condition is a skid created by excess inside rudder.**
+3. **Opposite aileron holds the bank but increases AOA on the inside wing.**
+4. **Back pressure raises AOA further.**
+5. **The inside wing tends to stall first.**
+6. **The airplane can roll rapidly into a spin.**
+7. **Opposite aileron and back pressure can make the stall worse.**
+8. **Recovery begins with reducing AOA and removing pro-spin yaw.**
+9. **The maneuver must be completed no lower than 3,000 feet AGL.**
+10. **The real-world answer to an overshot final is a go-around.**
+
+### Close
+
+The cross-controlled stall is really a lesson in judgment.
+
+The hazard chain is:
+
+**Overshoot → inside rudder → opposite aileron → back pressure → inside-wing stall → spin**
+
+The prevention chain is much simpler:
+
+**Stay coordinated → accept the overshoot → go around**
+
+And if the stall begins:
+
+**Reduce AOA → remove yaw → wings level after the stall breaks → power**
+
+The most important rule is:
+
+**Never skid the base-to-final turn.**
+
+
 
 ## K1 — Aerodynamics
 

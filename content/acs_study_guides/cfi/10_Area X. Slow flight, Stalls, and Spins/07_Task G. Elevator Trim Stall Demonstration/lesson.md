@@ -85,6 +85,330 @@ Clear; complete above **3,000 feet AGL**; establish landing configuration, norma
 <figure class="lesson-reference-figure"><img src="/knowledge/Elevator_Trim_Control.png" alt="Elevator trim control and nose-up nose-down trim relationship" loading="lazy"><figcaption>Landing trim reduces approach control force but can create strong nose-up force when go-around power is applied.</figcaption></figure>
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in an elevator trim stall is that nose-up landing trim combined with go-around power can drive the nose sharply upward if the pilot does not maintain positive control.**
+
+That creates a very specific real-world risk:
+
+**Nose-up trim + high power → rapid pitch-up + left yaw → stall/spin risk**
+
+The lesson is not really about trim by itself.
+
+It is about maintaining positive control during a high-workload go-around.
+
+### Real-World Application — Go-Around
+
+The classic scenario is a go-around from a normal landing approach.
+
+The airplane is:
+
+- Slow.
+- Configured for landing.
+- Trimmed nose-up.
+- Close to the ground.
+
+Then the pilot applies maximum allowable power.
+
+That can produce:
+
+- A rapid nose-up pitching tendency.
+- Strong left-turning tendencies.
+- A large increase in forward-elevator force required.
+- Rapid airspeed decay if the pitch is not controlled.
+
+If the pilot allows the pitch to continue increasing:
+
+**AOA increases toward critical.**
+
+If the airplane also yaws left:
+
+**the stall can become a spin.**
+
+### Why the Nose Wants to Rise
+
+During the approach, the airplane is trimmed to reduce the control force required to hold the slower, nose-high condition.
+
+When go-around power is applied:
+
+- Propeller airflow over the tail changes.
+- Pitching moments change.
+- The existing nose-up trim force remains.
+- Left-turning tendencies increase.
+
+The airplane can pitch up more aggressively than the pilot expects.
+
+That is why the pilot must anticipate:
+
+- **Forward elevator**
+- **Right rudder**
+
+immediately as power is added.
+
+### What Actually Causes the Stall?
+
+The stall still occurs for the same reason as every other stall:
+
+**Critical angle of attack is exceeded.**
+
+Trim does not directly stall the airplane.
+
+Trim changes the control force required to maintain an attitude.
+
+If the pilot does not oppose the nose-up tendency, the airplane can pitch to an excessive AOA and stall.
+
+### Why This Is Dangerous
+
+The real-world go-around happens close to the ground.
+
+That means there may be little altitude available for recovery.
+
+If the airplane reaches a full stall:
+
+- Significant nose-down pitch may be required.
+- Altitude loss can be substantial.
+- Yaw can produce a spin.
+
+So the goal is:
+
+**recognize and correct the excessive pitch before the stall develops.**
+
+### Situations Where It Can Occur
+
+Elevator trim stall conditions can occur during:
+
+- Go-around from a normal landing approach.
+- Recovery from a simulated forced landing.
+- Power application after an approach with substantial nose-up trim.
+- Takeoff with trim left in an inappropriate nose-up position.
+- Improper autopilot or trim operation.
+
+The common thread is:
+
+**nose-up trim + power + delayed pitch control**
+
+### Recognition
+
+Recognize the condition by:
+
+- Rapid nose rise beyond normal climb attitude.
+- Increasing forward-elevator force.
+- Strong left yaw.
+- Increasing right-rudder requirement.
+- Rapid airspeed decay.
+- Stall horn.
+- Buffet.
+- Difficulty holding the intended go-around attitude.
+
+The most important recognition cue is often:
+
+**the airplane is trying to pitch up more than you want.**
+
+Do not wait for the horn.
+
+### Prevention
+
+During a real go-around:
+
+1. Apply power while maintaining **positive elevator control**.
+2. Anticipate **right rudder**.
+3. Establish the proper go-around pitch attitude.
+4. Retract flaps incrementally according to the POH.
+5. Accelerate.
+6. Trim only after the airplane is under control.
+
+The sequence is:
+
+**Fly first. Trim second.**
+
+### Entry
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
+- Retard the throttle.
+- Configure the airplane for landing.
+- Establish a normal glide airspeed.
+- Trim the airplane for the glide.
+- Stabilize the approach condition.
+- Advance the throttle to **maximum allowable power**, as in a go-around.
+- Allow the developing trim-induced nose-up tendency to become apparent while maintaining safe control.
+- Call the first stall cue if it occurs.
+- Recover at the first indication or after a full stall, as specified by the evaluator.
+
+### Recovery
+
+The first priority is:
+
+**Control the pitch with elevator.**
+
+1. **Apply forward elevator pressure** as required to reduce AOA and establish a safe go-around attitude.
+2. **Maintain coordination** with appropriate right rudder.
+3. Keep the wings controlled and level as required.
+4. Maintain maximum allowable power as appropriate.
+5. Retract flaps incrementally according to the POH.
+6. Adjust trim nose-down only after positive control is established.
+7. Accelerate to the appropriate climb speed.
+8. Return to the desired flightpath.
+
+If a full stall occurs:
+
+**Reduce AOA sufficiently to break the stall first.**
+
+Do not attempt to recover primarily with trim.
+
+Trim relieves control pressure.
+
+**Elevator controls the airplane.**
+
+### ACS Standards — Elevator Trim Stall Demonstration
+
+- Clear the area.
+- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
+- Retard the throttle.
+- Configure the airplane for landing.
+- Establish a normal glide airspeed.
+- Trim the airplane.
+- Advance the throttle to **maximum allowable power** as in a go-around.
+- Acknowledge the cues at the first indication of a stall.
+- Recover:
+    - At the first indication, or
+    - After a full stall,
+    - As specified by the evaluator.
+- Adjust trim.
+- Return to the desired flightpath.
+- Describe and demonstrate the conditions that lead to an elevator trim stall for future avoidance.
+- Analyze and correct common errors.
+
+### Common Errors — Elevator Trim Stall Demonstration
+
+- Failure to adequately clear the area.
+- Failure to establish the selected landing configuration before entry.
+- Failure to trim the airplane for the glide.
+- Inadequate altitude.
+- Failure to anticipate the nose-up pitching tendency.
+- Failure to apply sufficient forward elevator.
+- Insufficient right rudder.
+- Poor coordination.
+- Allowing excessive pitch before correction.
+- Failure to recognize the first stall indication.
+- Attempting to recover primarily with trim.
+- Abrupt flap retraction.
+- Secondary stall during recovery.
+- Improper or inadequate demonstration of recognition and recovery.
+- Failure to explain the hazard created by torque, left-turning tendencies, and up-elevator trim.
+- Failure to return to the desired flightpath.
+
+### Risk Management
+
+#### Go-Around Pitch-Up and Stall
+
+The main hazard is:
+
+**Maximum power + nose-up landing trim**
+
+Recognition:
+
+- Rapid pitch-up.
+- Heavy forward-control force.
+- Airspeed decay.
+- Stall warning.
+
+Mitigation:
+
+- Anticipate forward elevator.
+- Anticipate right rudder.
+- Establish the go-around attitude immediately.
+
+#### Spin Risk
+
+If the airplane pitches up and yaws left while approaching critical AOA:
+
+**stall + yaw = spin**
+
+Maintain coordination.
+
+Do not allow the go-around to become an uncoordinated power-on stall.
+
+#### Trim Misuse
+
+Trim should not be used as the primary control to recover the airplane.
+
+Use:
+
+**Elevator first → trim second**
+
+The pilot maintains attitude with elevator and then trims away the resulting control pressure.
+
+#### Configuration
+
+Flap retraction changes lift, drag, and pitch.
+
+Retract incrementally according to the POH.
+
+Abrupt configuration changes can increase sink or create another stall risk.
+
+#### Environmental Effects
+
+Turbulence can increase workload and AOA.
+
+High density altitude reduces climb performance.
+
+A go-around may require more time and distance than expected.
+
+Do not demand a climb attitude the airplane cannot support.
+
+#### Collision Hazards and Distraction
+
+Go-arounds already have high workload:
+
+- Power.
+- Pitch.
+- Rudder.
+- Flaps.
+- Trim.
+- Traffic.
+- Radio.
+- Runway environment.
+
+The priority remains:
+
+**Aviate first.**
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **The real-world scenario is a go-around with nose-up landing trim.**
+2. **Power can create a strong nose-up pitching tendency.**
+3. **High power also increases left-turning tendencies.**
+4. **The stall still occurs because critical AOA is exceeded.**
+5. **Forward elevator controls the pitch.**
+6. **Right rudder maintains coordination.**
+7. **Trim is used after the airplane is under control.**
+8. **The maneuver must be completed no lower than 3,000 feet AGL.**
+9. **A real go-around should never be allowed to progress to a stall.**
+
+### Close
+
+The elevator trim stall demonstrates what happens when the pilot allows the airplane to control the pilot during a go-around.
+
+The hazard chain is:
+
+**Nose-up trim → go-around power → rapid pitch-up + left yaw → increasing AOA → stall/spin risk**
+
+The prevention chain is:
+
+**Forward elevator → right rudder → go-around pitch → configure → trim → climb**
+
+The most important rule is:
+
+**Fly the airplane first. Trim it second.**
+
+
 
 ## K1 — Aerodynamics
 
