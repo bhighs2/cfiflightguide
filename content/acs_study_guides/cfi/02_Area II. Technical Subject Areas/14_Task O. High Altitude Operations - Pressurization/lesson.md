@@ -101,6 +101,520 @@ A slow pressurization failure creeps up while the crew fades — monitor the sys
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in pressurization is that the airplane flies at a high altitude while the cabin is maintained at a lower pressure altitude.**
+
+Pressurization does not eliminate the high-altitude hazard.
+
+It controls it.
+
+If the system fails:
+
+**the problem quickly becomes hypoxia.**
+
+### What Pressurization Does
+
+A pressurized airplane maintains the cabin at a pressure higher than the outside atmosphere.
+
+That gives the occupants a lower **cabin altitude** than the airplane's actual flight altitude.
+
+For example:
+
+The airplane may be at a high flight level while the cabin is maintained near a much lower equivalent altitude.
+
+This allows occupants to operate comfortably without continuously wearing oxygen equipment under normal conditions.
+
+### The Basic Pressurization Concept
+
+A pressurization system requires:
+
+- A source of pressurized air.
+- A sealed cabin.
+- A way to control how much air leaves the cabin.
+
+The basic operation is:
+
+**air enters the cabin and the outflow valve meters how quickly it escapes.**
+
+The cabin pressure is controlled primarily by regulating **air outflow**, not simply by pumping more air in.
+
+### Pressurized-Air Source
+
+The source depends on aircraft design.
+
+Examples include:
+
+- Compressor bleed air in turbine aircraft.
+- Turbocharger or compressor sources in certain piston aircraft.
+
+Use the actual aircraft's AFM/POH.
+
+### Outflow Valve
+
+The **outflow valve** controls cabin pressure by regulating the amount of air leaving the aircraft.
+
+If less air is allowed out:
+
+- Cabin pressure increases.
+- Cabin altitude decreases.
+
+If more air is allowed out:
+
+- Cabin pressure decreases.
+- Cabin altitude increases.
+
+The system continuously meters airflow to maintain the selected cabin condition.
+
+### Cabin Altitude
+
+**Cabin altitude is the pressure altitude inside the cabin.**
+
+It is not the airplane's altitude.
+
+The pilot monitors cabin altitude to verify the pressurization system is maintaining the expected cabin environment.
+
+### Cabin Differential Pressure
+
+**Differential pressure is the difference between cabin pressure and outside atmospheric pressure.**
+
+As the airplane climbs:
+
+- Outside pressure decreases.
+- Cabin pressure is maintained higher.
+- Differential pressure increases.
+
+The aircraft structure has a maximum allowable differential pressure.
+
+Once that limit is reached:
+
+the cabin altitude must begin increasing as the airplane climbs higher because the structure cannot safely hold a larger pressure difference.
+
+### Why Differential Pressure Matters
+
+The fuselage is a pressure vessel.
+
+Too much differential pressure creates excessive structural stress.
+
+That is why the system includes:
+
+- Pressure regulation.
+- Pressure-relief protection.
+
+Never think of pressurization only as a comfort system.
+
+It is also a structural-limit system.
+
+### Pressurization Instruments
+
+Typical pressurization instruments include:
+
+#### Cabin Altimeter
+
+Shows the pressure altitude inside the cabin.
+
+#### Cabin Rate-of-Climb Indicator
+
+Shows how quickly cabin altitude is changing.
+
+A rapid cabin climb or descent can be uncomfortable even if the system is functioning properly.
+
+#### Differential Pressure Gauge
+
+Shows the pressure difference between:
+
+- Inside the cabin.
+- Outside atmosphere.
+
+This is monitored against the aircraft's maximum differential limit.
+
+### Safety Valve
+
+A cabin pressure safety valve may provide several protective functions.
+
+#### Pressure Relief
+
+Prevents cabin differential pressure from exceeding the structural limit.
+
+#### Vacuum Relief
+
+Allows outside air into the cabin if outside pressure becomes greater than cabin pressure.
+
+This prevents the fuselage from being loaded in the wrong direction.
+
+#### Dump Function
+
+Allows cabin pressure to be intentionally released.
+
+The exact design is aircraft-specific.
+
+### Regulatory Requirements — 14 CFR §91.211(b)
+
+For pressurized-cabin aircraft:
+
+**Above FL250:**
+
+There must be at least a **10-minute supply of supplemental oxygen for each occupant** in addition to other required oxygen, for use if a loss of cabin pressure requires descent.
+
+**Above FL350:**
+
+At least one pilot at the controls must wear and use an oxygen mask that:
+
+- Is secured and sealed.
+- Supplies oxygen continuously or automatically when cabin pressure altitude exceeds the applicable level.
+
+There is an exception at or below **FL410** when:
+
+- Two pilots are at the controls.
+- Each has a quick-donning mask.
+- The mask can be placed on the face with one hand within **5 seconds**.
+- It supplies oxygen and is properly secured and sealed.
+
+If one pilot leaves the controls above FL350:
+
+**the remaining pilot must wear and use the oxygen mask until the other pilot returns.**
+
+### Hypoxia Still Matters
+
+A pressurized cabin reduces exposure to high altitude.
+
+It does not make hypoxia irrelevant.
+
+If pressurization is lost:
+
+the pilot may suddenly be exposed to a cabin altitude close to the airplane's actual altitude.
+
+That can create:
+
+- Rapid cognitive impairment.
+- Visual degradation.
+- Loss of coordination.
+- Loss of consciousness.
+
+### Hypoxia Symptoms
+
+Important symptoms include:
+
+- Euphoria.
+- Headache.
+- Slower reaction time.
+- Impaired judgment.
+- Visual impairment.
+- Drowsiness.
+- Tingling.
+- Numbness.
+- Cyanosis.
+
+The danger remains:
+
+**the pilot may not accurately recognize the impairment.**
+
+### Time of Useful Consciousness
+
+TUC becomes especially important in a pressurized-aircraft failure because the airplane may be operating very high.
+
+Approximate values include:
+
+- **25,000 feet:** 3–5 minutes.
+- **30,000 feet:** 1–2 minutes.
+- **35,000 feet:** 30–60 seconds.
+- **40,000 feet:** 15–20 seconds.
+- **45,000 feet:** 9–15 seconds.
+
+A rapid decompression can further reduce effective useful time.
+
+So:
+
+**oxygen comes before troubleshooting.**
+
+### Pressurization Failure Modes
+
+The two main operational categories are:
+
+- Slow decompression.
+- Rapid or explosive decompression.
+
+### Slow Decompression
+
+A slow decompression may be more dangerous than it sounds.
+
+The cabin altitude gradually rises.
+
+The crew may become hypoxic without:
+
+- A dramatic noise.
+- A visible event.
+- An obvious physical sensation.
+
+That means the primary defense is:
+
+**monitoring.**
+
+Watch:
+
+- Cabin altitude.
+- Cabin rate.
+- Differential pressure.
+- Warning systems.
+
+Do not rely on how you feel.
+
+### Rapid Decompression
+
+A rapid decompression occurs when cabin pressure is lost quickly.
+
+Possible indications include:
+
+- Loud noise.
+- Sudden pressure change.
+- Fog or condensation.
+- Flying dust or debris.
+- Air rushing from the cabin.
+- Ear or sinus discomfort.
+- Cabin-altitude warning.
+- Rapid change in pressurization indications.
+
+### Explosive Decompression
+
+Explosive decompression is extremely rapid.
+
+The pressure change may occur faster than the lungs can adequately equalize.
+
+Potential effects include:
+
+- Lung injury.
+- Severe pressure effects.
+- Immediate disorientation.
+- Flying debris.
+- Rapid loss of useful consciousness.
+
+### Why Fog Can Form
+
+During a rapid decompression:
+
+- Pressure drops.
+- Temperature drops.
+- Moisture condenses.
+
+That can create a temporary fog inside the cabin.
+
+The fog does not mean smoke or fire by itself.
+
+But the pilot must still maintain control and immediately manage the decompression.
+
+### Decompression Sickness
+
+Rapid pressure reduction can also cause dissolved nitrogen to come out of solution and form bubbles in body tissues.
+
+That is **decompression sickness**.
+
+Possible symptoms include:
+
+- Joint pain.
+- Neurological symptoms.
+- Weakness.
+- Breathing difficulty.
+- Skin symptoms.
+
+The immediate operational priority remains:
+
+- Oxygen.
+- Descent.
+- Medical evaluation as appropriate.
+
+### Rapid-Decompression Response
+
+The exact checklist is aircraft-specific.
+
+But the immediate logic is:
+
+1. **Don oxygen mask immediately.**
+2. Select the required oxygen setting.
+3. Establish crew communication.
+4. Begin the emergency descent according to the AFM/POH.
+5. Monitor cabin altitude.
+6. Complete the checklist.
+7. Advise ATC.
+8. Level at a safe altitude.
+
+At very high altitude:
+
+**do not troubleshoot before putting on oxygen.**
+
+### Emergency Descent
+
+The objective is to reach an altitude where:
+
+- The occupants can breathe safely.
+- Terrain permits.
+- Aircraft limitations are respected.
+
+Use:
+
+- The aircraft's emergency-descent procedure.
+- Appropriate speed limits.
+- ATC coordination when able.
+
+Do not exceed structural or operating limitations while solving the pressurization problem.
+
+### Occupant Briefing
+
+Before high-altitude flight, occupants should know:
+
+- Where the oxygen masks are.
+- How to use them.
+- What to do if they deploy or are handed out.
+- To put their own mask on before helping others.
+- That unusual feelings or behavior may indicate hypoxia.
+
+### Operating the Pressurization System
+
+For an installed system, the pilot should know:
+
+- How to set the pressurization controller.
+- Normal cabin altitude.
+- Normal cabin rate.
+- Maximum differential pressure.
+- Warning indications.
+- Manual or automatic modes.
+- Dump function.
+- Emergency procedures.
+
+The exact operation comes from the AFM/POH.
+
+### System Monitoring
+
+During climb:
+
+- Verify cabin altitude increases at the expected rate.
+- Verify differential pressure behaves normally.
+
+At cruise:
+
+- Monitor cabin altitude.
+- Monitor differential pressure.
+- Verify the system is not approaching limits unexpectedly.
+
+During descent:
+
+- Manage cabin descent rate.
+- Avoid arriving with cabin pressure significantly different from field elevation.
+
+### Landing and Cabin Pressure
+
+The cabin should normally be near ambient pressure before landing.
+
+If the cabin remains pressurized:
+
+- Doors may be difficult or impossible to open.
+- Structural loads can result.
+
+The system should be managed according to the aircraft procedure.
+
+### Risk Management — High Altitude
+
+The basic hazard is:
+
+**the airplane can take the occupants to an altitude the human body cannot tolerate without support.**
+
+Mitigation:
+
+- Oxygen availability.
+- Pressurization monitoring.
+- Knowledge of TUC.
+- Conservative response.
+
+### Risk Management — Pressurization Malfunction
+
+The two major risks are:
+
+#### Slow Failure
+
+The crew may not notice until impairment has already begun.
+
+Mitigation:
+
+**monitor the instruments.**
+
+#### Rapid Failure
+
+The crew may have only seconds to respond.
+
+Mitigation:
+
+**mask first, then descend.**
+
+### ACS Standards — Task O
+
+The applicant should be able to explain:
+
+- Fundamental pressurization concepts.
+- Pressurization system components.
+- Pressurization failure modes.
+- High-altitude impairment.
+- Hypoxia symptoms.
+- Time of useful consciousness.
+- Effects of rapid decompression.
+
+The applicant should manage risks involving:
+
+- High-altitude flight.
+- Pressurization-system malfunction.
+
+Where installed, the applicant should be able to:
+
+- Operate the pressurization system.
+- Respond appropriately to a simulated pressurization malfunction.
+
+### Common Errors — Task O
+
+- Treating cabin altitude and aircraft altitude as the same thing.
+- Failing to understand differential pressure.
+- Thinking the system controls pressure only by adding air.
+- Failing to monitor cabin altitude.
+- Failing to monitor differential pressure.
+- Assuming a slow decompression will be obvious.
+- Troubleshooting before donning oxygen.
+- Failing to use the aircraft emergency-descent procedure.
+- Forgetting the §91.211(b) oxygen requirements.
+- Failing to brief passengers.
+- Exceeding airplane limitations during an emergency descent.
+- Failing to recognize that a pressurization failure is ultimately a hypoxia emergency.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **Pressurization keeps cabin altitude lower than aircraft altitude.**
+2. **The outflow valve controls cabin pressure by metering air out.**
+3. **Differential pressure is a structural limit.**
+4. **Cabin altitude, cabin rate, and differential pressure must be monitored.**
+5. **Slow decompression can quietly incapacitate the crew.**
+6. **Rapid decompression can reduce useful consciousness to seconds.**
+7. **§91.211(b) establishes oxygen requirements for pressurized aircraft.**
+8. **At high altitude, oxygen comes before troubleshooting.**
+9. **A rapid decompression requires oxygen and an emergency descent.**
+10. **The AFM/POH controls operation of the installed pressurization system.**
+
+### Close
+
+Pressurization is simple at the conceptual level:
+
+**The airplane is high. The cabin is kept lower.**
+
+That only works as long as the system maintains the required pressure difference.
+
+If it does not:
+
+**the problem becomes hypoxia.**
+
+The most important response is:
+
+**Mask on first. Then descend.**
 
 Teach pressurization as the system that lets an aircraft fly high while the occupants stay at a lower cabin altitude — and as a system whose failure, slow or sudden, is a hypoxia problem. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 

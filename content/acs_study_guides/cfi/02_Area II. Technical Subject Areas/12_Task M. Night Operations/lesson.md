@@ -123,6 +123,818 @@ Full dark adaptation takes up to 30 minutes — and one second of bright light c
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in night operations is that the airplane has not changed, but the pilot’s visual system and outside references have.**
+
+At night:
+
+- The eyes work differently.
+- Outside visual cues are reduced.
+- Optical illusions become more likely.
+- Terrain and clouds are harder to detect.
+- Airport orientation can become more difficult.
+- The pilot must rely more heavily on instruments and lighting.
+
+The goal is to preserve night vision, maintain orientation, recognize illusions early, and use procedures that account for reduced visual information.
+
+### What Counts as Night?
+
+For FAA purposes, the word **night** can mean different things depending on the rule being applied.
+
+Under **14 CFR §1.1**, night is the time between the end of evening civil twilight and the beginning of morning civil twilight.
+
+But some operating rules use different time references.
+
+For example:
+
+- **14 CFR §91.209** uses **sunset to sunrise** for required position lights.
+- **14 CFR §61.57(b)** uses the period beginning **1 hour after sunset and ending 1 hour before sunrise** for recent-experience requirements to carry passengers at night.
+
+So always identify:
+
+**Which regulation are we applying?**
+
+### Night Vision — Rods and Cones
+
+The retina contains two primary types of light-sensitive cells:
+
+- **Cones**
+- **Rods**
+
+#### Cones
+
+Cones are concentrated in the center of the retina, especially in the **fovea**.
+
+They provide:
+
+- Color.
+- Fine detail.
+- Sharp central vision.
+
+They work best in bright light.
+
+#### Rods
+
+Rods are concentrated outside the fovea.
+
+They provide:
+
+- Dim-light vision.
+- Peripheral vision.
+- Motion detection.
+
+They do not provide good color or fine detail.
+
+At night, rods become the primary visual receptors.
+
+### The Night Blind Spot
+
+Because the fovea contains very few rods, the center of vision becomes relatively ineffective in very low light.
+
+That creates the **night blind spot**.
+
+A dim object may disappear when you stare directly at it.
+
+The solution is:
+
+**Off-center viewing.**
+
+Look approximately 5–10° to one side of the object rather than directly at it.
+
+For traffic or a dim airport light:
+
+- Look slightly beside it.
+- Keep the eyes moving.
+- Use peripheral vision.
+
+### Dark Adaptation
+
+The eyes gradually become more sensitive in darkness.
+
+Full dark adaptation can take approximately **30 minutes**.
+
+Bright light can destroy much of that adaptation quickly.
+
+To preserve night vision:
+
+- Keep cockpit lighting as dim as practical.
+- Avoid unnecessary bright light.
+- Use off-center viewing.
+- Close one eye if exposure to a bright light is unavoidable.
+- Give the eyes time to readapt afterward.
+
+### Cockpit Lighting
+
+Cockpit lights should be bright enough to:
+
+- Read instruments.
+- Identify controls.
+- Read necessary information.
+
+but dim enough that they do not destroy outside night vision.
+
+Red lighting can help preserve rod sensitivity, but it also has disadvantages:
+
+- Some chart colors may disappear or become difficult to distinguish.
+- Fine detail may be harder to read.
+
+So the practical rule is:
+
+**Use the minimum lighting needed to do the task safely.**
+
+### Factors That Degrade Night Vision
+
+Night vision can be degraded by:
+
+- Hypoxia.
+- Carbon monoxide.
+- Fatigue.
+- Alcohol.
+- Certain medications.
+- Smoking.
+- Glare.
+- Bright cockpit lighting.
+- Dirty windshield.
+- Poor nutrition.
+- Illness.
+
+Hypoxia is especially important because the rods are highly sensitive to reduced oxygen.
+
+The FAA recommends considering supplemental oxygen at lower altitudes at night than during the day because night vision deteriorates before obvious hypoxia symptoms appear.
+
+The regulatory oxygen requirements remain those in **14 CFR §91.211**.
+
+### Night Illusions
+
+Night flight creates several important illusions.
+
+The correct defense is almost always:
+
+**Trust reliable instruments and established visual guidance, not the sensation.**
+
+### False Horizon
+
+At night, the real horizon may disappear.
+
+The pilot may mistake:
+
+- Sloping cloud formations.
+- City lights.
+- Stars.
+- Ground lighting.
+
+for the horizon.
+
+That can produce an unintended bank or pitch attitude.
+
+The correction is:
+
+**Use the attitude indicator and other reliable instruments.**
+
+### Autokinesis
+
+Autokinesis occurs when a pilot stares at a stationary light against a dark background.
+
+After several seconds, the light may appear to move.
+
+The pilot may then incorrectly maneuver the airplane to follow or avoid the apparent motion.
+
+Prevention:
+
+- Do not stare at a single light.
+- Keep the eyes moving.
+- Use off-center viewing.
+- Cross-check other references.
+
+### Featureless Terrain / Black-Hole Approach
+
+A black-hole approach occurs when the runway is visible but there are few or no surrounding ground references.
+
+Examples include approaches:
+
+- Over water.
+- Over dark terrain.
+- Into isolated airports.
+- Into sparsely populated areas.
+
+The lack of visual cues can make the pilot believe the airplane is higher than it actually is.
+
+That can produce a dangerously low approach.
+
+The defense is:
+
+- Fly a stabilized approach.
+- Use **VASI/PAPI**.
+- Use electronic glidepath information if available.
+- Monitor altitude and vertical speed.
+- Go around if the picture does not look right.
+
+### Ground Lighting Illusions
+
+Roads, highways, trains, or city lights can resemble:
+
+- Runways.
+- Approach lights.
+- Airport lighting.
+
+Bright runway lights may also make the runway appear closer than it is.
+
+Before descent:
+
+- Know what lighting to expect.
+- Know the runway orientation.
+- Compare heading with runway alignment.
+- Use GPS or navaid information to verify position.
+
+### Aircraft Position Lights
+
+Aircraft position lights help identify another airplane’s orientation.
+
+Standard position lights are:
+
+- **Red — left wingtip**
+- **Green — right wingtip**
+- **White — tail**
+
+If you see:
+
+- **Red and green together** — the aircraft is generally coming toward you.
+- **Red only** — you are seeing its left side.
+- **Green only** — you are seeing its right side.
+- **White only** — the aircraft is generally moving away.
+
+This helps determine relative direction, but it does not replace collision avoidance.
+
+### Aircraft Lighting Requirements — 14 CFR §91.209
+
+Under **14 CFR §91.209**:
+
+- Position lights must be lighted from **sunset to sunrise**.
+- If the aircraft is equipped with an approved anticollision light system, it generally must be operated unless the PIC determines that operating conditions make turning it off safer.
+
+Anticollision lights may be turned off when necessary to avoid creating a hazard, such as:
+
+- Blinding another pilot.
+- Creating distracting reflections in clouds or fog.
+
+### Night VFR Equipment — 14 CFR §91.205
+
+For VFR flight at night, **14 CFR §91.205(c)** requires the day-VFR equipment plus additional night equipment.
+
+The additional night equipment includes:
+
+- Approved position lights.
+- Approved aviation red or aviation white anticollision light system as applicable.
+- An adequate source of electrical energy for all installed electrical and radio equipment.
+- One spare set of fuses, or three spare fuses of each kind required, if the airplane uses replaceable fuses accessible in flight.
+
+A landing light is required only if the aircraft is **operated for hire**.
+
+Use the actual aircraft equipment list, AFM/POH, and §91.205.
+
+### Personal Equipment
+
+Useful personal equipment includes:
+
+- White flashlight for preflight.
+- Red or dimmable flashlight for cockpit use.
+- Spare batteries.
+- Current charts.
+- Airport diagram.
+- Backup light source.
+
+Organization matters more at night because searching for equipment with the head down increases workload and destroys outside scan.
+
+### Airport Beacons
+
+Airport beacons identify the type of airport.
+
+Common patterns include:
+
+- **White and green** — lighted civilian land airport.
+- **White and yellow** — lighted water airport.
+- **Two quick white flashes followed by green** — military airport.
+
+A beacon operating during daylight may indicate reduced weather conditions, but always verify actual weather.
+
+### Runway and Taxiway Lighting
+
+Common lighting includes:
+
+- **Runway edge lights — white**
+- **Taxiway edge lights — blue**
+- **Threshold lights — green**
+- **Runway end lights — red**
+
+Some runway systems transition to yellow near the departure end as a caution zone.
+
+Know the actual airport lighting from the Chart Supplement and airport diagram.
+
+### VASI and PAPI
+
+VASI and PAPI provide visual glidepath guidance.
+
+At night, these systems are especially valuable because outside depth perception is reduced.
+
+Use them to maintain a normal glidepath and reduce black-hole approach risk.
+
+### Pilot-Controlled Lighting
+
+At many non-towered airports, lighting can be controlled through the CTAF.
+
+A common system uses:
+
+- **7 microphone clicks — high intensity**
+- **5 clicks — medium**
+- **3 clicks — low**
+
+The exact airport system should be verified in the Chart Supplement.
+
+Do not assume every airport uses the same configuration.
+
+### Night Preflight
+
+Night preflight requires the same inspection as daytime, but reduced light makes defects easier to miss.
+
+Use a **white flashlight** so colors are visible.
+
+Check:
+
+- Fuel quantity.
+- Fuel color and contamination.
+- Oil.
+- Control surfaces.
+- Tires.
+- Leaks.
+- Obstacles around the airplane.
+- All required lights.
+
+Turn the aircraft lights on and verify actual operation.
+
+### Engine Start
+
+Before starting:
+
+- Ensure the propeller area is clear.
+- Use the appropriate exterior lights.
+- Call **“Clear prop.”**
+- Avoid unnecessary electrical load before the engine is running.
+
+At night, people and equipment are harder to see.
+
+Do not assume an apparently dark area is clear.
+
+### Night Taxi
+
+Taxi slower than you might during the day.
+
+Use:
+
+- Airport diagram.
+- Taxiway signs.
+- Taxiway markings.
+- Blue edge lights.
+- Taxi/landing light as appropriate.
+
+Do not let the landing light or strobes blind other pilots.
+
+At a hold-short line:
+
+**Stop, verify the runway, and visually clear both directions.**
+
+Night lighting can make taxiways and runways look similar.
+
+### Runway Incursion Risk
+
+Night increases runway-incursion risk because:
+
+- Signs are harder to interpret.
+- Runway geometry is less obvious.
+- Similar-looking light patterns can cause confusion.
+- The pilot may become heads-down on the airport diagram.
+
+The mitigation is:
+
+- Taxi slowly.
+- Keep the diagram available.
+- Verify every runway crossing.
+- Use progressive taxi if uncertain.
+- Stop if position is unclear.
+
+### Takeoff
+
+Before entering the runway:
+
+- Clear final.
+- Verify the runway designation.
+- Compare the runway heading to the heading indicator or HSI.
+
+On takeoff:
+
+- Maintain centerline.
+- Use outside references while available.
+- Increase instrument cross-check immediately after liftoff.
+
+Night takeoff can transition rapidly from runway-light references to darkness.
+
+### Climb
+
+Once airborne, judging height above terrain becomes difficult.
+
+Confirm the climb using:
+
+- Attitude indicator.
+- Airspeed.
+- Altimeter.
+- VSI.
+
+Avoid unnecessary turns until reaching a safe altitude.
+
+If outside references disappear:
+
+**transition fully to the instruments.**
+
+### Night Weather
+
+Night weather is harder to recognize visually.
+
+Clouds may be nearly invisible.
+
+Possible clues include:
+
+- Ground lights gradually disappearing.
+- Halos around lights.
+- Reflections from the landing light.
+- Loss of stars.
+- Loss of horizon.
+
+Do not continue toward an area simply because you cannot see a cloud.
+
+If visual references begin disappearing:
+
+**turn away early.**
+
+### Navigation at Night
+
+Useful night checkpoints include:
+
+- Cities.
+- Highways.
+- Airport beacons.
+- Large illuminated structures.
+
+But lights can create misleading patterns.
+
+Use:
+
+- GPS.
+- Navaids.
+- Heading.
+- Altitude.
+- Distance information.
+
+to confirm visual navigation.
+
+### Use of Instruments at Night
+
+Night flying requires greater instrument reliance.
+
+The pilot should use instruments to confirm:
+
+- Attitude.
+- Heading.
+- Airspeed.
+- Altitude.
+- Climb or descent.
+
+If the outside picture conflicts with the instruments:
+
+**trust the instruments.**
+
+This is especially important during:
+
+- Takeoff.
+- Climb.
+- Turns over dark terrain.
+- Approaches over water.
+- Night go-arounds.
+
+### Night Traffic Pattern
+
+Identify the airport and runway early.
+
+Confirm:
+
+- Runway orientation.
+- Wind.
+- Pattern direction.
+- Airport lighting.
+- Other traffic.
+
+Do not let city lights hide the airport.
+
+Fly a normal traffic pattern.
+
+Avoid:
+
+- Tight patterns.
+- Low approaches.
+- Excessive descent angles caused by visual misjudgment.
+
+### Night Approach
+
+Fly a stabilized approach.
+
+Use:
+
+- Airspeed indicator.
+- Altimeter.
+- VSI.
+- VASI/PAPI.
+- Electronic glidepath if available.
+
+Do not trust a black-hole visual picture.
+
+A low, shallow approach is especially dangerous at night.
+
+### Night Landing
+
+Height above the runway is harder to judge at night.
+
+With a landing light:
+
+- Runway texture and tire marks become visible as the airplane gets close to the surface.
+
+Without a landing light:
+
+- Use runway edge lights and the far end of the runway to judge perspective.
+
+Make a normal roundout and touchdown.
+
+Do not dive toward the runway to “find” the surface.
+
+### Go-Around
+
+At night, make the go-around decision early.
+
+Go around if:
+
+- The runway cannot be positively identified.
+- The approach is unstable.
+- Glidepath cannot be maintained.
+- Visual references are lost.
+- The airplane becomes disoriented.
+
+During the go-around:
+
+- Apply power.
+- Control pitch.
+- Maintain coordination.
+- Configure according to the POH.
+- Use a strong instrument cross-check.
+
+### Night Emergencies
+
+Night emergencies are more demanding because landing options are harder to evaluate.
+
+The first priorities remain:
+
+**Maintain aircraft control.**  
+**Use the checklist.**  
+**Communicate.**
+
+### Electrical Failure
+
+Electrical failure can remove:
+
+- Exterior lighting.
+- Navigation.
+- Communication.
+- Electronic flight instruments.
+- Flaps or other electrically operated systems, depending on the airplane.
+
+Use the aircraft checklist.
+
+Reduce electrical load as required.
+
+Know:
+
+- Battery endurance.
+- Backup instruments.
+- Backup lighting.
+- What equipment is electrically powered.
+
+Land before remaining electrical capability is exhausted.
+
+### Engine Failure
+
+At night:
+
+1. Establish best glide.
+2. Maintain aircraft control.
+3. Turn toward a known airport or suitable area if practical.
+4. Complete the restart/checklist procedure.
+5. Declare the emergency.
+6. Use all available navigation and lighting information.
+
+Landing-area selection is harder because darkness hides:
+
+- Trees.
+- Wires.
+- Terrain.
+- Water.
+
+A dark area is not automatically an open field.
+
+### Night Currency — 14 CFR §61.57(b)
+
+To act as PIC carrying passengers during the period beginning **1 hour after sunset and ending 1 hour before sunrise**, the pilot must have completed within the preceding **90 days**:
+
+- At least **3 takeoffs**
+- At least **3 landings**
+- Each landing to a **full stop**
+- During that same 1-hour-after-sunset to 1-hour-before-sunrise period
+- In an aircraft of the same category, class, and type if a type rating is required
+
+These takeoffs and landings must be made as the **sole manipulator of the flight controls**.
+
+### Currency vs. Proficiency
+
+Meeting §61.57(b) means the pilot is legally current to carry passengers at night.
+
+It does not prove proficiency.
+
+A pilot who has made three night landings in the last 90 days may still be uncomfortable with:
+
+- Night cross-country flight.
+- Black-hole approaches.
+- Unfamiliar airports.
+- Night emergencies.
+- Strong crosswinds.
+- Reduced visibility.
+
+The safer question is:
+
+**Am I proficient for this specific night flight?**
+
+### Risk Management
+
+#### Inoperative Equipment
+
+Before departure, determine whether any inoperative item affects:
+
+- Legality.
+- Night visibility.
+- Navigation.
+- Required lighting.
+- Backup capability.
+
+Use:
+
+- §91.205.
+- §91.209.
+- §91.213.
+- AFM/POH.
+
+#### Night Weather
+
+Be conservative with:
+
+- Haze.
+- Fog.
+- Low clouds.
+- Marginal visibility.
+- Moonless nights.
+
+Conditions that are easy to manage by day may eliminate the horizon at night.
+
+#### Collision Hazards
+
+Maintain an active outside scan.
+
+Use:
+
+- Off-center viewing.
+- Position lights.
+- ADS-B if available.
+- ATC advisories.
+- Exterior aircraft lights.
+
+#### Disorientation
+
+If orientation becomes uncertain:
+
+**Stop trusting the visual sensation and transition to the instruments.**
+
+#### Visual Illusions
+
+Anticipate:
+
+- False horizon.
+- Autokinesis.
+- Black-hole approach.
+
+Do not wait until the illusion has already changed the airplane's flightpath.
+
+#### Runway Incursion
+
+Taxi slowly, verify position, and stop when uncertain.
+
+Night is not the time to guess.
+
+### ACS Standards — Night Operations
+
+The applicant should be able to teach:
+
+- Physiological aspects of night vision.
+- Airport, runway, taxiway, obstruction, and pilot-controlled lighting.
+- Aircraft equipment and lighting requirements.
+- Personal equipment.
+- Night orientation and navigation.
+- Chart-reading techniques.
+- Maintaining night vision.
+- Use of instruments to verify attitude.
+- Night visual illusions.
+- Night taxi operations.
+- Interpretation of aircraft direction from position lights.
+
+The applicant should manage risks involving:
+
+- Inoperative equipment.
+- Night weather.
+- Collision hazards.
+- Distraction.
+- Loss of situational awareness.
+- Disorientation.
+- Night illusions.
+- Runway incursions.
+- Currency versus proficiency.
+
+The ACS skill requirement is to:
+
+**Teach at least one of the knowledge elements.**
+
+### Common Errors — Night Operations
+
+- Staring directly at a dim object.
+- Failing to allow dark adaptation.
+- Using cockpit lighting that is too bright.
+- Overreliance on red lighting for chart reading.
+- Failing to recognize disappearing ground lights as a possible weather warning.
+- Trusting an apparent horizon rather than the instruments.
+- Fixating on a single light and experiencing autokinesis.
+- Flying a low black-hole approach.
+- Failing to use VASI/PAPI when available.
+- Misidentifying runway or taxiway lighting.
+- Taxiing too quickly.
+- Losing position on the airport.
+- Failing to verify runway heading before takeoff.
+- Relying too heavily on outside references after liftoff.
+- Failing to maintain instrument cross-check in dark areas.
+- Continuing an unstable approach rather than going around.
+- Assuming a dark area is a suitable emergency landing field.
+- Confusing legal night currency with actual night proficiency.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **Rods provide most night vision; cones provide central detail and color.**
+2. **Use off-center viewing because the fovea creates a night blind spot.**
+3. **Dark adaptation takes time and bright light can destroy it quickly.**
+4. **§91.205 and §91.209 establish key night equipment and lighting requirements.**
+5. **The instruments become more important as outside references disappear.**
+6. **False horizon, autokinesis, and black-hole approaches can produce dangerous control errors.**
+7. **Airport lighting should confirm—not replace—position awareness.**
+8. **Night weather can become invisible before the pilot realizes it.**
+9. **§61.57(b) defines night passenger currency, but currency is not proficiency.**
+10. **At night, when visual information becomes unreliable, trust the instruments and go around early when in doubt.**
+
+### Close
+
+Night flying is not simply daytime flying in the dark.
+
+The airplane is the same.
+
+The pilot's visual system is not.
+
+The safe night pilot compensates by:
+
+**Protecting night vision.**  
+**Using off-center scanning.**  
+**Trusting the instruments.**  
+**Using lighting intelligently.**  
+**Anticipating illusions.**  
+**Maintaining larger margins.**
+
+The most important rule is:
+
+**When the outside picture becomes uncertain, believe the instruments.**
 
 Teach night operations as a physiology problem before a procedures problem: the eye is built for daylight, so night flight demands preserving what little night vision the rods provide, compensating with the instruments and the lights, and flying procedures that assume fewer outside references. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 

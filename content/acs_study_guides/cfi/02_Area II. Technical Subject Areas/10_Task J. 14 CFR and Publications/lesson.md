@@ -130,6 +130,578 @@ Regulation Tells You What — the Handbook Tells You How |
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in Task J is that a flight instructor does not need to memorize every regulation or publication — but must know which source controls the question and how to find the current answer.**
+
+The key distinction is:
+
+- **14 CFR tells us what is legally required.**
+- **FAA publications explain procedures, standards, and accepted guidance.**
+- **The POH/AFM governs the specific airplane.**
+- **The ACS or PTS defines what must be demonstrated on the practical test.**
+
+A good instructor teaches students to go to the authoritative source instead of relying on memory or a summary.
+
+### 14 CFR Part 1 — Definitions and Abbreviations
+
+**14 CFR Part 1** contains the definitions, abbreviations, and rules of construction used throughout the regulations.
+
+This matters because many regulatory questions turn on the exact meaning of a word.
+
+Examples include:
+
+- **Night**
+- **Cross-country time**
+- **Category**
+- **Class**
+- **Pilot in command**
+
+If the meaning of a regulatory term matters:
+
+**look at Part 1 before interpreting the rule that uses it.**
+
+For example, **§1.1** contains the regulatory definition of *night*.
+
+### 14 CFR Part 61 — Certification of Pilots and Flight Instructors
+
+**14 CFR Part 61** governs certification of:
+
+- Pilots.
+- Flight instructors.
+- Ground instructors.
+
+It covers:
+
+- Eligibility.
+- Aeronautical knowledge.
+- Flight proficiency.
+- Aeronautical experience.
+- Logging flight time.
+- Recent flight experience.
+- Flight reviews.
+- Instrument currency.
+- Instructor privileges and limitations.
+- Endorsements.
+- Certificate and rating requirements.
+
+For a CFI, Part 61 is one of the primary regulations used every day.
+
+Common examples include:
+
+- **§61.23** — medical certificates.
+- **§61.31** — additional training and endorsements.
+- **§61.51** — logging flight time.
+- **§61.56** — flight review.
+- **§61.57** — recent flight experience.
+- **§61.87** — student pilot solo requirements.
+- **§61.93** — student solo cross-country requirements.
+- **§61.107 / §61.109** — private pilot proficiency and experience.
+- **§61.127 / §61.129** — commercial pilot proficiency and experience.
+- **§61.183 through §61.199** — flight instructor requirements, privileges, limitations, and recent experience.
+
+The practical teaching point is:
+
+**If the question is about who may act, log, train, endorse, or exercise certificate privileges, start in Part 61.**
+
+### 14 CFR Part 91 — General Operating and Flight Rules
+
+**14 CFR Part 91** governs how civil aircraft are operated.
+
+It contains the rules used on nearly every flight.
+
+Examples include:
+
+- **§91.3** — PIC responsibility and authority.
+- **§91.7** — civil aircraft airworthiness.
+- **§91.9** — compliance with operating limitations.
+- **§91.103** — preflight action.
+- **§91.113** — right-of-way and see-and-avoid.
+- **§91.117** — aircraft speed limits.
+- **§91.119** — minimum safe altitudes.
+- **§91.123** — compliance with ATC clearances and instructions.
+- **§91.126 through §91.135** — airspace operating rules.
+- **§91.151** — VFR fuel requirements.
+- **§91.155** — basic VFR weather minimums.
+- **§91.157** — Special VFR.
+- **§91.159** — VFR cruising altitude or flight level.
+- **§91.205** — required instruments and equipment.
+- **§91.209** — aircraft lights.
+- **§91.211** — supplemental oxygen.
+- **§91.213** — inoperative instruments and equipment.
+
+A useful distinction is:
+
+**Part 61 governs the person. Part 91 governs the operation.**
+
+### 49 CFR Part 830 — NTSB Notification and Reporting
+
+**49 CFR Part 830** is an NTSB regulation, not an FAA regulation.
+
+It covers:
+
+- Definitions of aircraft accidents and certain incidents.
+- Immediate notification requirements.
+- Information that must be provided.
+- Preservation of wreckage and records.
+- Formal reporting requirements.
+
+#### Aircraft Accident
+
+An aircraft accident generally involves an occurrence associated with aircraft operation in which:
+
+- A person suffers death or serious injury, or
+- The aircraft receives substantial damage.
+
+The exact definitions are in **§830.2**.
+
+#### Immediate Notification
+
+**§830.5** identifies accidents and certain serious incidents that require immediate notification to the NTSB.
+
+Examples include:
+
+- Flight-control malfunction or failure.
+- Inability of a required crewmember to perform duties because of injury or illness.
+- In-flight fire.
+- Midair collision.
+- Certain propeller failures.
+- Certain display failures and other listed serious incidents.
+
+The important point is:
+
+**Not every event requires the same kind of report, so use Part 830 rather than guessing from the severity of the event.**
+
+#### Preservation of Wreckage
+
+**§830.10** addresses preservation of:
+
+- Aircraft wreckage.
+- Mail.
+- Cargo.
+- Records.
+
+Do not disturb wreckage except as necessary to:
+
+- Remove persons.
+- Protect the wreckage from further damage.
+- Protect the public.
+
+### Advisory Circulars
+
+**Advisory Circulars, or ACs, are FAA guidance documents.**
+
+They are generally **not regulations**.
+
+They may provide:
+
+- Explanations.
+- Recommended practices.
+- Acceptable methods of compliance.
+- Standardized procedures.
+- Safety guidance.
+
+Examples commonly used by instructors include:
+
+- **AC 61-65K** — certification, pilot and instructor endorsements.
+- **AC 61-67C** — stall and spin awareness training.
+- **AC 61-98** — flight review guidance.
+- **AC 90-66C** — non-towered airport flight operations.
+
+An AC can be extremely important without itself being a regulation.
+
+The teaching distinction is:
+
+**CFR = mandatory rule.  
+AC = FAA guidance unless incorporated or required by a regulation or approval.**
+
+### Information for Operators — InFOs
+
+**Information for Operators, or InFOs,** provide information that may help operators meet:
+
+- Administrative requirements.
+- Regulatory requirements.
+- Operational requirements.
+
+They generally address matters of relatively lower urgency than a safety alert.
+
+They are informational, not regulations.
+
+### Safety Alerts for Operators — SAFOs
+
+**Safety Alerts for Operators, or SAFOs,** distribute important safety information.
+
+They may:
+
+- Describe an emerging safety concern.
+- Recommend actions.
+- Highlight operational risks.
+
+They are guidance rather than regulations, but they may identify issues that deserve immediate operational attention.
+
+### ACS and PTS
+
+The **Airman Certification Standards, or ACS**, define what an applicant must demonstrate on a practical test.
+
+The ACS integrates:
+
+- **Knowledge**
+- **Risk Management**
+- **Skill**
+
+into individual Tasks.
+
+A Task identifies:
+
+- The objective.
+- Applicable references.
+- Knowledge elements.
+- Risk Management elements.
+- Skill elements.
+
+For example:
+
+**AI.II.J.K1**
+
+means:
+
+- Airplane CFI.
+- Area II.
+- Task J.
+- Knowledge element 1.
+
+The ACS tells the instructor:
+
+**what must be taught and evaluated.**
+
+### Practical Test Standards
+
+The **PTS** is the older practical-test format still used where an ACS has not replaced it.
+
+Like the ACS, it establishes the standards used on the practical test.
+
+When preparing a student:
+
+**Use the current ACS or PTS that applies to that certificate or rating.**
+
+Do not build a training program from an old version just because it is familiar.
+
+### POH and AFM
+
+The **Pilot's Operating Handbook** and **Airplane Flight Manual** contain aircraft-specific information.
+
+They typically include:
+
+1. General.
+2. Limitations.
+3. Emergency Procedures.
+4. Normal Procedures.
+5. Performance.
+6. Weight and Balance.
+7. Systems Description.
+8. Handling, Service, and Maintenance.
+9. Supplements.
+
+The exact document and approval status depend on the aircraft.
+
+### Why the POH/AFM Matters
+
+Under **14 CFR §91.9**, the pilot must comply with the operating limitations specified in:
+
+- The approved AFM.
+- Markings.
+- Placards.
+
+That makes aircraft limitations different from general guidance.
+
+The AFM/POH is where the pilot should go for:
+
+- V-speeds.
+- Weight limitations.
+- CG limits.
+- System limitations.
+- Normal procedures.
+- Emergency procedures.
+- Performance charts.
+- Aircraft-specific equipment information.
+
+### Current Aircraft-Specific Information
+
+Use the manual and supplements applicable to the actual aircraft.
+
+Do not assume a generic owner's manual for the same model contains the exact:
+
+- Empty weight.
+- Installed equipment.
+- Supplements.
+- Limitations.
+
+required for the airplane being flown.
+
+### Aeronautical Information Manual — AIM
+
+The **Aeronautical Information Manual** is the FAA's official guide to basic flight information and ATC procedures in the National Airspace System.
+
+The AIM is:
+
+**guidance, not regulation.**
+
+But it is the primary operational reference for many procedures that pilots use every day.
+
+### AIM Organization
+
+#### Chapter 1 — Air Navigation
+
+Includes:
+
+- Navigation systems.
+- NAVAIDs.
+- RNAV.
+- GPS.
+- PBN.
+
+#### Chapter 2 — Aeronautical Lighting and Airport Visual Aids
+
+Includes:
+
+- Airport lighting.
+- Obstruction lighting.
+- Airport markings.
+- Signs.
+
+#### Chapter 3 — Airspace
+
+Includes:
+
+- Controlled airspace.
+- Class G.
+- Special use airspace.
+- Other airspace areas.
+
+#### Chapter 4 — Air Traffic Control
+
+Includes:
+
+- ATC services.
+- Communication procedures.
+- Phraseology.
+- Airport operations.
+
+#### Chapter 5 — Air Traffic Procedures
+
+Includes:
+
+- Preflight procedures.
+- Departure.
+- En route.
+- Arrival.
+- Pilot/controller responsibilities.
+
+#### Chapter 6 — Emergency Procedures
+
+Includes:
+
+- Emergency services.
+- Distress and urgency procedures.
+- Communications failures.
+- Search and rescue information.
+
+#### Chapter 7 — Safety of Flight
+
+Includes:
+
+- Wake turbulence.
+- Flight hazards.
+- Altimeter considerations.
+- Safety information.
+
+#### Chapter 8 — Medical Facts for Pilots
+
+Includes aeromedical and fitness-for-flight information.
+
+#### Chapter 9 — Aeronautical Charts and Related Publications
+
+Describes the charts and publications available to pilots.
+
+### Regulation vs. Guidance
+
+A common CFI error is treating everything published by the FAA as legally equivalent.
+
+It is not.
+
+If the question is:
+
+**“Is this legally required?”**
+
+go to:
+
+- 14 CFR.
+- The applicable approved aircraft limitation.
+
+If the question is:
+
+**“How does the FAA recommend that I perform this procedure?”**
+
+the answer may be in:
+
+- AIM.
+- Advisory Circular.
+- FAA handbook.
+
+The instructor should identify which type of source is being used.
+
+### Currency of Publications
+
+The ACS specifically identifies the risk of using:
+
+**expired charts, manuals, or publications without current updates.**
+
+That matters because regulations, procedures, airspace, and standards change.
+
+Before relying on a publication:
+
+- Check the revision date.
+- Check the effective date.
+- Verify that it is the current version.
+- Check for applicable updates or supplements.
+
+Do not assume:
+
+**“It's in my binder, so it must still be current.”**
+
+### Keeping Regulations Current
+
+Electronic CFR sources are updated as regulations change.
+
+A printed FAR/AIM can become outdated.
+
+For a legal or endorsement question:
+
+**verify the current regulation before teaching or endorsing.**
+
+This matters especially in Part 61 because:
+
+- Endorsement requirements change.
+- Certificate rules change.
+- Currency rules may change.
+- Instructor privileges and recent-experience requirements may change.
+
+### Keeping the ACS Current
+
+Always use the current FAA ACS or PTS for the practical test being prepared.
+
+A superseded ACS may have:
+
+- Different Tasks.
+- Different element codes.
+- Different standards.
+- Different references.
+
+Training to an obsolete standard creates unnecessary checkride risk.
+
+### Keeping the POH/AFM Current
+
+For the actual airplane, verify:
+
+- Correct serial number.
+- Current supplements.
+- Current weight-and-balance data.
+- Installed equipment.
+- Applicable limitations.
+
+A generic manual is useful for study.
+
+It is not a substitute for the aircraft's actual approved information.
+
+### Risk Management — Expired or Outdated Publications
+
+The risk is simple:
+
+**The pilot or instructor acts on information that used to be correct.**
+
+Examples include:
+
+- Teaching an old endorsement requirement.
+- Using an outdated ACS.
+- Using an obsolete operating procedure.
+- Flying with an expired chart.
+- Using a POH that does not reflect installed equipment or supplements.
+
+The mitigation is:
+
+**Verify the current authoritative source before acting.**
+
+### ACS Standards — Task J
+
+The applicant should be able to teach the purpose, content, and availability of:
+
+- **14 CFR Parts 1, 61, and 91.**
+- **49 CFR Part 830.**
+- **Advisory Circulars, InFOs, and SAFOs.**
+- **ACS or PTS documents.**
+- **POH or flight manuals.**
+- **The AIM.**
+
+The applicant should manage the risk associated with:
+
+- Using expired charts.
+- Using expired manuals.
+- Using publications without current updates.
+
+The ACS skill requirement is to:
+
+**Teach at least one of K1 through K6.**
+
+### Common Errors — Task J
+
+- Treating the AIM as regulation.
+- Treating every AC as mandatory.
+- Quoting a rule from memory instead of checking the CFR.
+- Confusing Part 61 and Part 91.
+- Calling NTSB Part 830 an FAA regulation.
+- Failing to distinguish an accident from an incident under Part 830.
+- Using an old ACS.
+- Using a generic POH as though it were aircraft-specific.
+- Failing to check supplements or revision dates.
+- Teaching from an online summary instead of the authoritative source.
+- Assuming a printed FAR/AIM is automatically current.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **Part 1 defines the terms.**
+2. **Part 61 governs pilot and instructor certification, privileges, training, and currency.**
+3. **Part 91 governs aircraft operations.**
+4. **49 CFR Part 830 governs NTSB accident and incident notification and reporting.**
+5. **ACs, InFOs, and SAFOs are guidance rather than regulations.**
+6. **The ACS or PTS defines the practical-test standard.**
+7. **The POH/AFM governs the specific airplane and §91.9 requires compliance with its operating limitations.**
+8. **The AIM explains NAS procedures and ATC operations but is not itself regulation.**
+9. **Expired information is a real operational and instructional risk.**
+10. **A CFI should know where to find the current answer rather than pretend to know every answer from memory.**
+
+### Close
+
+Task J is really about knowing where the answer lives.
+
+If the question is about:
+
+**A definition — Part 1.**  
+**Pilot or instructor privileges — Part 61.**  
+**Operating the flight — Part 91.**  
+**Accident or incident reporting — Part 830.**  
+**The practical test — ACS or PTS.**  
+**The airplane — POH/AFM.**  
+**NAS procedures — AIM.**
+
+The most important rule is:
+
+**Use the current authoritative source.**
 
 Teach the library of FAA documents as a hierarchy of authority: the regulations say **what** is required, the advisory material explains **how**, and the aircraft's own documents govern that specific airplane. The instructor's job is to know which document answers which question and whether that answer is mandatory. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would present it.
 

@@ -121,6 +121,931 @@ TFRs are not on the printed sectional because they are temporary. Check NOTAMs b
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in the National Airspace System is that every piece of airspace has rules attached to it.**
+
+Before entering any airspace, the pilot should be able to answer:
+
+- **What airspace is this?**
+- **Where does it begin and end?**
+- **What weather minimums apply?**
+- **What communication or clearance is required?**
+- **What equipment is required?**
+- **Are there any special restrictions or temporary changes?**
+
+The sectional tells us where the airspace is.
+
+The regulations tell us what we have to do inside it.
+
+### Describing Airspace
+
+Any airspace can be described by three basic dimensions:
+
+- **Lateral boundaries** — where it exists horizontally.
+- **Floor** — where it begins vertically.
+- **Ceiling** — where it ends vertically.
+
+The important distinction is whether an altitude is expressed in:
+
+- **MSL** — mean sea level.
+- **AGL** — above ground level.
+- **Flight level** — pressure altitude referenced to 29.92.
+
+Misreading MSL and AGL can put the airplane into controlled airspace without the pilot realizing it.
+
+### Controlled and Uncontrolled Airspace
+
+**Controlled airspace** is Class:
+
+- A
+- B
+- C
+- D
+- E
+
+Within controlled airspace, ATC provides services appropriate to the airspace classification.
+
+**Class G** is uncontrolled airspace.
+
+Uncontrolled does **not** mean unregulated.
+
+VFR:
+
+- Weather minimums.
+- Minimum safe altitudes.
+- Right-of-way rules.
+- Other Part 91 requirements.
+
+still apply.
+
+### Class A — 14 CFR §91.135
+
+Class A generally begins at:
+
+**18,000 feet MSL**
+
+and extends through:
+
+**FL600**
+
+It also includes the applicable airspace over the waters within 12 NM of the coast of the contiguous United States and Alaska.
+
+Class A is:
+
+**IFR only.**
+
+Requirements include:
+
+- Instrument-rated pilot.
+- IFR flight plan.
+- ATC clearance.
+- IFR-equipped aircraft.
+
+There are no basic VFR operations in Class A.
+
+Class A is not depicted as a boundary on the VFR sectional because its limits are standardized.
+
+### Class B — 14 CFR §91.131
+
+Class B surrounds the nation's busiest airports.
+
+It is individually designed and usually resembles an upside-down wedding cake.
+
+The most important entry requirement is:
+
+**You must receive an explicit ATC clearance before entering.**
+
+Simply establishing radio communication is not enough.
+
+The pilot needs to hear words that actually clear the aircraft into the Class B.
+
+Typical requirements include:
+
+- ATC clearance before entry.
+- Two-way radio.
+- Appropriate pilot qualification.
+- Transponder equipment as required by **§91.215**.
+- ADS-B Out where required by **§91.225**.
+
+Student-pilot operations require the training and endorsement required by **§61.95**, and some Class B primary airports have additional student-pilot restrictions.
+
+Class B is depicted by:
+
+**Solid blue lines.**
+
+Shelf altitudes are shown in hundreds of feet MSL.
+
+### Class C — 14 CFR §91.130
+
+Class C normally surrounds an airport with:
+
+- An operating control tower.
+- Radar approach control.
+- A qualifying level of operations.
+
+The standard arrangement is generally:
+
+- Surface area approximately 5 NM in radius.
+- Outer shelf approximately 10 NM in radius.
+- Top approximately 4,000 feet above airport elevation, charted in MSL.
+
+The important entry requirement is:
+
+**Two-way radio communication must be established before entry.**
+
+That means ATC must respond using the aircraft's call sign.
+
+If you call:
+
+“Approach, Skyhawk 12345…”
+
+and ATC responds:
+
+“Aircraft calling, standby,”
+
+communication has **not** been established.
+
+If ATC says:
+
+“Skyhawk 12345, standby,”
+
+two-way communication has been established.
+
+Equipment requirements include the applicable:
+
+- Two-way radio.
+- Transponder under **§91.215**.
+- ADS-B Out under **§91.225**.
+
+Class C is depicted by:
+
+**Solid magenta lines.**
+
+### Class D — 14 CFR §91.129
+
+Class D normally surrounds an airport with an operating control tower.
+
+It is individually tailored but is commonly:
+
+- About 4 NM in radius.
+- About 2,500 feet above airport elevation.
+
+The ceiling is charted in hundreds of feet MSL.
+
+The important entry requirement is:
+
+**Establish two-way radio communication with the tower before entering.**
+
+Class D is depicted by:
+
+**Dashed blue lines.**
+
+A two-way radio is required.
+
+#### Part-Time Class C and Class D
+
+Some Class C and Class D surface areas are not continuously in effect because the control tower operates only part time.
+
+When the surface area is not in effect, it may change to:
+
+- **Class E surface airspace**, or
+- **Class G airspace**.
+
+Do not assume the airspace simply becomes Class G when the tower closes.
+
+Check the **Chart Supplement** for the airport's airspace entry, which will identify the airspace in effect during the hours the tower is closed.
+
+### Class E
+
+Class E is controlled airspace that is not Class A, B, C, or D.
+
+For VFR pilots, no ATC communication or clearance is normally required simply to operate in Class E.
+
+Class E may begin:
+
+- At the surface.
+- At 700 feet AGL.
+- At 1,200 feet AGL.
+- At another charted altitude.
+- At 14,500 feet MSL in applicable areas.
+
+and normally extends to, but does not include, 18,000 feet MSL.
+
+Airspace above FL600 is also Class E.
+
+Common sectional depictions include:
+
+- **Dashed magenta** — Class E begins at the surface.
+- **Fuzzy magenta shading** — Class E begins at 700 feet AGL.
+
+If no lower Class E boundary is shown, the pilot must understand the normal Class E/Class G structure for that area.
+
+#### Types of Class E Airspace
+
+Class E is easier to understand when we connect each type to its purpose.
+
+**Surface area designated for an airport**
+
+Class E may begin at the surface around an airport to contain instrument procedures.
+
+**Extension to a surface area**
+
+Class E may extend outward from a Class C, Class D, or Class E surface area to protect instrument approach or departure paths.
+
+For a VFR airplane, that extension does **not** create a Class D-style communications requirement simply because it begins at the surface.
+
+**Transition areas**
+
+Class E commonly begins at:
+
+- **700 feet AGL**, or
+- **1,200 feet AGL**
+
+to provide controlled airspace for aircraft transitioning between the terminal and en route environments.
+
+These transition areas remain in effect regardless of whether a nearby control tower is open.
+
+**Federal airways and low-altitude RNAV routes**
+
+Unless otherwise specified, Federal airways and low-altitude RNAV routes are Class E airspace beginning at **1,200 feet AGL** and extending to, but not including, **18,000 feet MSL**.
+
+**En route domestic areas**
+
+Class E may also begin at a specified altitude where controlled airspace is needed for IFR en route operations but the airway structure alone is inadequate.
+
+The important teaching point is:
+
+**Class E is not one shape or one floor. Its purpose determines where it begins.**
+
+### Class G
+
+Class G is uncontrolled airspace.
+
+It extends from the surface to the base of the overlying controlled airspace.
+
+Class G normally has:
+
+- No ATC entry clearance requirement.
+- No ATC communication requirement simply because the airplane is in Class G.
+
+But:
+
+**VFR weather minimums still apply.**
+
+Class G itself is not outlined on the sectional.
+
+You identify it by determining where controlled airspace does **not** begin at the surface.
+
+### Basic VFR Weather Minimums — 14 CFR §91.155
+
+VFR weather minimums depend on:
+
+- Airspace class.
+- Altitude.
+- Day or night.
+
+#### Class B
+
+- **3 statute miles visibility**
+- **Clear of clouds**
+
+#### Class C, D, and E Below 10,000 Feet MSL
+
+- **3 statute miles**
+- **500 feet below**
+- **1,000 feet above**
+- **2,000 feet horizontal**
+
+A common memory relationship is:
+
+**3 — 152**
+
+meaning:
+
+- 3 SM.
+- 1,000 above.
+- 500 below.
+- 2,000 horizontal.
+
+#### Class E at or Above 10,000 Feet MSL
+
+- **5 statute miles**
+- **1,000 feet below**
+- **1,000 feet above**
+- **1 statute mile horizontal**
+
+#### Class G
+
+Class G varies by:
+
+- Height above the surface.
+- MSL altitude.
+- Day versus night.
+
+At **1,200 feet AGL or less**:
+
+**Day**
+- 1 statute mile.
+- Clear of clouds.
+
+**Night**
+- 3 statute miles.
+- 500 feet below.
+- 1,000 feet above.
+- 2,000 feet horizontal.
+
+More than **1,200 feet AGL but below 10,000 feet MSL**:
+
+**Day**
+- 1 statute mile.
+- 500 feet below.
+- 1,000 feet above.
+- 2,000 feet horizontal.
+
+**Night**
+- 3 statute miles.
+- 500 feet below.
+- 1,000 feet above.
+- 2,000 feet horizontal.
+
+More than **1,200 feet AGL and at or above 10,000 feet MSL**:
+
+- 5 statute miles.
+- 1,000 feet below.
+- 1,000 feet above.
+- 1 statute mile horizontal.
+
+There are specific exceptions in **§91.155**, so teach the learner to verify the regulation rather than treating this as the only possible Class G scenario.
+
+### VFR Cruising Altitudes — 14 CFR §91.159
+
+When cruising VFR more than **3,000 feet above the surface** and below 18,000 feet MSL:
+
+For magnetic courses **0° through 179°**:
+
+- Odd thousands + 500 feet.
+
+For magnetic courses **180° through 359°**:
+
+- Even thousands + 500 feet.
+
+Example:
+
+Eastbound magnetic course:
+
+**5,500 feet**
+
+Westbound magnetic course:
+
+**6,500 feet**
+
+### Aircraft Speed Limits — 14 CFR §91.117
+
+Unless otherwise authorized:
+
+Below 10,000 feet MSL:
+
+**250 knots indicated airspeed maximum.**
+
+At or below 2,500 feet AGL within 4 NM of the primary airport of Class C or Class D airspace:
+
+**200 knots maximum.**
+
+In the airspace underlying Class B or in a VFR corridor through Class B:
+
+**200 knots maximum.**
+
+The aircraft's own limitations may of course be lower.
+
+### Transponder Requirements — 14 CFR §91.215
+
+A Mode C altitude-reporting transponder is generally required:
+
+- In Class A, B, and C airspace.
+- Above Class B and Class C airspace up to 10,000 feet MSL.
+- Within the **30 NM Mode C veil** surrounding the primary airport of Class B airspace.
+- Above 10,000 feet MSL, excluding airspace at and below 2,500 feet AGL.
+
+There are exceptions in the regulation.
+
+Teach the learner to verify the actual requirement rather than memorize only:
+
+**“B and C need a transponder.”**
+
+### ADS-B Out — 14 CFR §91.225
+
+ADS-B Out is generally required in much of the same airspace where Mode C transponder requirements apply, including:
+
+- Class A.
+- Class B.
+- Class C.
+- The 30 NM veil around Class B primary airports.
+- Above Class B and C airspace within the specified limits.
+- Certain airspace above 10,000 feet MSL.
+
+The exact rule is in **§91.225**.
+
+ADS-B **In** is different.
+
+ADS-B In is not the equipment that satisfies the ADS-B Out operating requirement.
+
+### Sectional Chart Symbols
+
+The pilot should identify airspace directly from a current chart.
+
+#### Class B
+
+**Solid blue**
+
+with shelf altitudes in hundreds of feet MSL.
+
+#### Class C
+
+**Solid magenta**
+
+with floors and ceilings in hundreds of feet MSL.
+
+#### Class D
+
+**Dashed blue**
+
+with ceiling shown in hundreds of feet MSL.
+
+#### Class E Surface Area
+
+**Dashed magenta**
+
+#### Class E Beginning at 700 Feet AGL
+
+**Magenta vignette or fuzzy magenta shading**
+
+#### Class G
+
+Not specifically outlined.
+
+The pilot identifies it from the absence of controlled airspace extending to the surface.
+
+### Special Use Airspace
+
+Special use airspace exists because certain activities:
+
+- Restrict other aircraft.
+- Create hazards.
+- Require additional caution.
+
+The major types are:
+
+- Prohibited areas.
+- Restricted areas.
+- Warning areas.
+- Military Operations Areas.
+- Alert areas.
+- Controlled Firing Areas.
+
+### Prohibited Areas — 14 CFR §91.133
+
+Prohibited areas contain airspace in which flight is prohibited for:
+
+- Security.
+- National welfare.
+- Other specified reasons.
+
+They are identified with:
+
+**P-###**
+
+Example:
+
+**P-40**
+
+The operating rule is straightforward:
+
+**Do not enter unless specifically authorized.**
+
+### Restricted Areas — 14 CFR §91.133
+
+Restricted areas contain unusual and often invisible hazards such as:
+
+- Artillery.
+- Aerial gunnery.
+- Missiles.
+- Other military activities.
+
+They are identified with:
+
+**R-####**
+
+Unlike prohibited airspace, a restricted area may not always be active.
+
+Before entry:
+
+- Determine whether it is active.
+- Contact the controlling agency or ATC as appropriate.
+- Obtain authorization when required.
+
+### Warning Areas
+
+Warning areas contain activity that may be hazardous to nonparticipating aircraft over waters where the United States does not have sole jurisdiction.
+
+They are identified with:
+
+**W-###**
+
+A warning area is advisory in nature, but the hazards can be very real.
+
+### Military Operations Areas
+
+MOAs separate certain military training activity from IFR traffic.
+
+VFR pilots are not automatically prohibited from entering an active MOA.
+
+But when active, the pilot should expect:
+
+- High-speed military aircraft.
+- Abrupt maneuvering.
+- Rapid altitude changes.
+
+Before crossing a MOA:
+
+**Check its status and consider avoiding it when active.**
+
+### Alert Areas
+
+Alert areas identify locations with:
+
+- High pilot-training volume.
+- Unusual aerial activity.
+
+They are identified with:
+
+**A-###**
+
+All pilots remain responsible for collision avoidance.
+
+### Controlled Firing Areas
+
+Controlled Firing Areas contain hazardous activities.
+
+Unlike most other SUA:
+
+**They are not charted.**
+
+The activity is stopped when nonparticipating aircraft approach.
+
+### Military Training Routes
+
+Military Training Routes permit military aircraft to conduct low-level, high-speed training.
+
+They are identified as:
+
+- **IR** routes.
+- **VR** routes.
+
+Three-digit and four-digit route numbers help indicate whether portions extend above 1,500 feet AGL.
+
+The important operational point is:
+
+**Military aircraft may be traveling very fast and very low.**
+
+Cross an active route with heightened vigilance.
+
+### Published VFR Routes
+
+Published VFR routes help pilots transition around or through complex terminal airspace.
+
+Examples include:
+
+- **VFR flyways**
+- **VFR corridors**
+- **Class B VFR transition routes**
+- **Terminal-area VFR routes**
+
+The name matters because the operating requirements are not identical.
+
+A **VFR flyway** generally helps a pilot remain clear of Class B.
+
+A **VFR corridor** is a passage through Class B in which the surrounding Class B does not apply inside the corridor.
+
+A **Class B VFR transition route** passes through Class B and normally requires an ATC clearance.
+
+Use the sectional, TAC, and applicable chart notes rather than assuming that every published VFR route works the same way.
+
+### Parachute Jump Areas
+
+Frequently used parachute-jump locations may be depicted on sectional charts, with additional information published in the Chart Supplement.
+
+When operating near an active jump area:
+
+- Maintain increased visual vigilance.
+- Monitor appropriate frequencies when practical.
+- Avoid crossing directly over the jump area when activity is underway.
+
+### Terminal Radar Service Areas
+
+A TRSA provides additional radar service around certain terminal areas.
+
+Participation by VFR aircraft is generally:
+
+**Voluntary.**
+
+TRSA boundaries are charted, but the airspace classification underneath remains whatever class is otherwise designated.
+
+### National Security Areas
+
+National Security Areas are established where increased security and safety are desired.
+
+Pilots are requested to avoid them.
+
+Flight may be temporarily prohibited by NOTAM when additional security is necessary.
+
+### Air Defense Identification Zone
+
+An **ADIZ** is airspace in which aircraft identification, position, and control requirements apply for national-security purposes.
+
+A VFR operation entering or crossing an ADIZ may require:
+
+- A **DVFR flight plan**.
+- Position reporting.
+- Appropriate transponder operation.
+- Compliance with the applicable Part 99 procedures.
+
+This is not ordinary domestic VFR airspace. Review the applicable procedures before operating near or through an ADIZ.
+
+### Local Airport Advisory
+
+At certain airports without an operating control tower, Flight Service may provide a **Local Airport Advisory** when the facility and service are available.
+
+It can include:
+
+- Wind.
+- Runway.
+- Traffic.
+- Known local conditions.
+
+It is advisory information and does not convert the airport into controlled-tower operations.
+
+### Wildlife, Wilderness, and National Park Areas
+
+Pilots should be aware of noise-sensitive areas and published requests to maintain appropriate altitude above:
+
+- National parks.
+- Wildlife refuges.
+- Wilderness areas.
+- Other noise-sensitive locations.
+
+Check the chart, Chart Supplement, NOTAMs, and applicable published guidance for the area being flown.
+
+### Special Flight Rules Areas and Special Air Traffic Rules
+
+Some areas have special operating rules contained in **14 CFR Part 93**.
+
+Examples include:
+
+- Washington, D.C. SFRA.
+- Certain special flight-rule corridors or areas.
+
+Do not assume normal Class B, C, D, or E rules are the only requirements.
+
+When a route touches a special-rules area:
+
+**Read the specific Part 93 rule before operating there.**
+
+### Washington, D.C. Special Awareness Training — §91.161
+
+Pilots operating VFR within the prescribed area around Washington, D.C. must comply with the applicable special-awareness training requirement in **§91.161**.
+
+This is separate from actually obtaining authorization to enter the Washington SFRA or FRZ.
+
+### Temporary Flight Restrictions
+
+TFRs are temporary.
+
+That means:
+
+**They may not exist on the printed chart in front of you.**
+
+A TFR is normally issued through an **FDC NOTAM**.
+
+The pilot must check current NOTAM information before flight.
+
+Common TFR authorities include:
+
+- **§91.137** — disaster or hazard areas.
+- **§91.138** — national disaster areas in Hawaii.
+- **§91.141** — Presidential and other public-figure movements.
+- **§91.143** — space flight operations.
+- **§91.145** — aerial demonstrations and major sporting events.
+
+Do not simply ask:
+
+**“Are there any TFRs at my destination?”**
+
+Check:
+
+- Departure.
+- Route.
+- Destination.
+- Alternate areas.
+
+### Publication Currency
+
+Airspace information changes.
+
+Use current publications.
+
+Current FAA publication cycles include:
+
+- **Sectional charts — 56 days**
+- **Terminal Area Charts — 56 days**
+- **Chart Supplements — 56 days**
+- **Digital Terminal Procedures Publication — 28 days**
+
+Paper TPP volumes are generally published on a **56-day cycle**, with a **28-day Change Notice** during the cycle.
+
+Even a current chart does not replace a NOTAM check.
+
+TFRs and other changes can become effective between chart editions.
+
+### Special VFR — 14 CFR §91.157
+
+Special VFR allows operation below basic VFR weather minimums in certain controlled airspace designated to the surface.
+
+Under **§91.157**, airplane SVFR is conducted:
+
+- **Below 10,000 feet MSL**.
+- Within the lateral boundaries of controlled airspace designated to the surface for an airport.
+- With an **ATC clearance**.
+- **Clear of clouds**.
+- With at least **1 statute mile flight visibility**.
+
+For takeoff or landing, an airplane also needs at least:
+
+- **1 statute mile ground visibility**, or
+- If ground visibility is not reported, at least **1 statute mile flight visibility** under the conditions permitted by the regulation.
+
+At night, for an airplane:
+
+- The pilot must meet the applicable instrument-flight requirements of Part 61.
+- The aircraft must be equipped as required by **§91.205(d)**.
+
+SVFR is not available at the airports excluded by **Part 91, Appendix D, Section 3**.
+
+SVFR is not simply:
+
+**“VFR with bad weather.”**
+
+It is a specific ATC clearance with specific regulatory requirements.
+
+### Airspace Entry — What Changes Between Classes?
+
+A practical way to compare the classes is by the increasing ATC requirement.
+
+#### Class G
+
+No communication required simply for entry.
+
+#### Class E
+
+No communication required for ordinary VFR entry.
+
+#### Class D
+
+**Establish two-way communication.**
+
+#### Class C
+
+**Establish two-way communication**, with the required equipment.
+
+#### Class B
+
+**Receive an explicit clearance.**
+
+#### Class A
+
+**IFR only — ATC clearance required.**
+
+The distinction between:
+
+**communication**
+
+and:
+
+**clearance**
+
+is critical.
+
+### Airspace Risk Management
+
+The major airspace risks are usually not complicated.
+
+They are mistakes such as:
+
+- Misreading the sectional.
+- Confusing MSL and AGL.
+- Entering a Class B without clearance.
+- Entering Class C or D before establishing communication.
+- Missing a transponder or ADS-B requirement.
+- Flying through an active restricted area.
+- Entering a TFR that was never checked.
+- Using an expired chart.
+- Applying the wrong VFR weather minimum.
+
+The defense is to brief the route before flight.
+
+For every airspace along the route, identify:
+
+- Class or type.
+- Floor.
+- Ceiling.
+- Communication requirement.
+- Clearance requirement.
+- Equipment requirement.
+- Weather minimum.
+- Any special operating rule.
+
+### ACS Standards — National Airspace System
+
+The applicant should be able to teach:
+
+- Airspace classes and associated requirements and limitations.
+- Chart symbols.
+- Special use airspace.
+- Special Flight Rules Areas.
+- Temporary Flight Restrictions.
+- Other airspace areas.
+- Currency of publications.
+- Special VFR requirements.
+
+The applicant should be able to:
+
+- Identify the airspace on a current chart.
+- Apply the proper VFR weather minimums.
+- Comply with communication and equipment requirements.
+- Identify SUA and TFR requirements.
+- Identify and comply with SATR and SFRA rules where applicable.
+
+### Common Errors — National Airspace System
+
+- Confusing AGL and MSL.
+- Treating Class G as though no regulations apply.
+- Entering Class B after only establishing radio communication.
+- Entering Class C or D before two-way communication is established.
+- Assuming a response of “aircraft calling, standby” establishes communication.
+- Forgetting Class B student-pilot restrictions.
+- Confusing Mode C transponder and ADS-B requirements.
+- Assuming ADS-B In satisfies ADS-B Out requirements.
+- Applying 3-152 everywhere.
+- Forgetting Class E weather minimum changes at 10,000 feet MSL.
+- Treating a MOA like a restricted area.
+- Treating a restricted area as always inactive.
+- Assuming a part-time Class D automatically becomes Class G when the tower closes.
+- Confusing a Class E surface extension with a Class D-style communication requirement.
+- Treating every published VFR route as though it has the same entry requirements.
+- Assuming an EFB display replaces checking current NOTAMs.
+- Using an expired chart.
+- Forgetting special Part 93 rules.
+- Treating SVFR as ordinary VFR with lower weather minimums.
+- Forgetting the nighttime instrument requirements for airplane SVFR.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **Every flight is in some type of airspace.**
+2. **Read lateral boundaries, floor, and ceiling before discussing requirements.**
+3. **Class D and C require communication; Class B requires clearance.**
+4. **Class A is IFR only.**
+5. **§91.155 establishes the basic VFR weather minimums.**
+6. **§91.117 establishes the major regulatory speed limits.**
+7. **§91.215 and §91.225 establish transponder and ADS-B requirements.**
+8. **Class E can serve several purposes, and part-time terminal airspace can change when a tower closes.**
+9. **SUA status, special-use rules, and TFRs must be checked before flight.**
+10. **§91.157 governs Special VFR, and a current sectional still must be supplemented by current NOTAM information.**
+
+### Close
+
+Airspace does not need to be memorized as a collection of disconnected colors and numbers.
+
+For every area on the chart, ask:
+
+**Where is it?**  
+**What class or type is it?**  
+**What do I need before entering?**  
+**What weather minimums apply?**  
+**What equipment applies?**  
+**Is anything temporarily changing the rules?**
+
+The goal is simple:
+
+**Know the airspace before you enter it.**
+
+
+
 
 Teach the airspace system element by element, in the ACS order: the airspace classes and their requirements, the chart symbols, the special use and other airspace, the currency of publications, and special VFR. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each Knowledge element once, in order.
 

@@ -111,6 +111,799 @@ The learner uses the appropriate AFM/POH performance data, computes weight and b
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in performance and limitations is that the airplane can only safely do what the actual conditions, loading, configuration, and published data allow it to do.**
+
+A performance calculation is not just a math exercise.
+
+It answers practical questions:
+
+- Can we take off?
+- Can we clear the obstacle?
+- Can we climb?
+- Can we carry this load?
+- Can we land and stop?
+- Do we have enough fuel?
+- Are we still within the airplane's limitations?
+
+The AFM/POH gives us the starting point.
+
+The pilot still has to apply:
+
+- The correct conditions.
+- The correct assumptions.
+- The correct technique.
+- A realistic safety margin.
+
+### Regulatory Foundation
+
+Under **14 CFR §91.9**, no person may operate a civil aircraft without complying with the operating limitations specified in the approved AFM, markings, and placards.
+
+So:
+
+**Published limitations are boundaries, not suggestions.**
+
+Under **14 CFR §91.103**, before beginning a flight, the PIC must become familiar with all available information concerning that flight.
+
+For flights not in the vicinity of an airport, that includes:
+
+- Weather.
+- Fuel requirements.
+- Alternatives if the flight cannot be completed.
+- Known ATC delays.
+- Runway lengths at airports of intended use.
+- Takeoff and landing distance information contained in the approved AFM/POH for the aircraft.
+
+That makes performance planning a regulatory responsibility as well as a safety responsibility.
+
+### Start With the AFM/POH
+
+Performance planning begins with the correct aircraft data.
+
+For the airplane being flown, use:
+
+- **Section 2 — Limitations**
+- **Section 5 — Performance**
+- **Section 6 — Weight and Balance / Equipment**
+
+Do not use:
+
+- Another airplane's numbers.
+- An old worksheet.
+- A remembered chart.
+- A generic internet example.
+
+The question is always:
+
+**What does this specific airplane's current AFM/POH say?**
+
+### Performance Charts
+
+Performance charts may provide data for:
+
+- Takeoff.
+- Climb.
+- Cruise.
+- Range.
+- Endurance.
+- Fuel burn.
+- Descent.
+- Landing.
+
+Before using a chart, identify:
+
+- Aircraft weight.
+- Configuration.
+- Pressure altitude.
+- Temperature.
+- Wind.
+- Runway surface.
+- Runway slope.
+- Obstacle basis.
+- Technique assumed.
+- Any chart notes or correction factors.
+
+A chart result is only valid if the inputs and assumptions are valid.
+
+### Ground Roll vs. Distance Over an Obstacle
+
+Do not confuse:
+
+- **Ground roll**
+- **Total distance over a 50-foot obstacle**
+
+Ground roll is only the distance traveled on the runway.
+
+Distance over a 50-foot obstacle includes:
+
+- Ground roll.
+- Rotation.
+- Liftoff.
+- Initial climb.
+
+For obstacle-limited operations:
+
+**the obstacle distance is the number that matters.**
+
+### Pressure Altitude
+
+**Pressure altitude is the altitude shown when the altimeter is set to 29.92 inches Hg.**
+
+It is the altitude referenced to the standard pressure plane.
+
+Pressure altitude is used in many performance charts because it standardizes atmospheric pressure.
+
+### Density Altitude
+
+**Density altitude is pressure altitude corrected for nonstandard temperature.**
+
+It tells us how the airplane will perform relative to standard atmospheric conditions.
+
+Higher density altitude means lower air density.
+
+That reduces:
+
+- Engine power.
+- Propeller efficiency.
+- Wing performance.
+- Climb performance.
+
+The airplane behaves as though it were operating at a higher altitude.
+
+### What Increases Density Altitude?
+
+Density altitude increases with:
+
+- Higher elevation.
+- Lower atmospheric pressure.
+- Higher temperature.
+- Higher humidity.
+
+The biggest practical driver is often temperature.
+
+A hot day at a high-elevation airport can dramatically reduce performance.
+
+### Why High Density Altitude Matters
+
+At high density altitude:
+
+- Takeoff roll increases.
+- Acceleration decreases.
+- Climb rate decreases.
+- Climb angle decreases.
+- True airspeed is higher for the same indicated airspeed.
+- Groundspeed during takeoff and landing is higher.
+
+The airplane may indicate the same liftoff speed, but it must move faster over the ground to achieve that indicated airspeed.
+
+That is why takeoff and landing distance increase.
+
+### Wind
+
+Wind directly affects takeoff and landing performance.
+
+A headwind:
+
+- Reduces groundspeed.
+- Usually reduces takeoff and landing distance.
+
+A tailwind:
+
+- Increases groundspeed.
+- Increases takeoff and landing distance.
+
+Use the AFM/POH correction when one is provided.
+
+Do not assume a forecast headwind will actually exist at the runway.
+
+### Runway Surface
+
+Performance data is often based on:
+
+- Paved.
+- Level.
+- Dry.
+- Smooth.
+
+Actual conditions may be different.
+
+Examples include:
+
+- Grass.
+- Gravel.
+- Soft field.
+- Wet pavement.
+- Standing water.
+- Snow.
+- Ice.
+- Slush.
+
+These conditions can affect:
+
+- Rolling resistance.
+- Acceleration.
+- Braking.
+- Directional control.
+
+If the manufacturer does not provide a correction:
+
+**do not invent one and treat it as certified performance.**
+
+### Runway Slope
+
+An uphill runway generally:
+
+- Increases takeoff distance.
+- Reduces acceleration.
+
+A downhill runway generally:
+
+- Decreases takeoff distance.
+- Increases landing roll.
+
+Slope must be considered together with wind, obstacles, and runway condition.
+
+### Pilot Technique
+
+Published data assumes the specified procedure is flown correctly.
+
+Performance can be worse when the pilot:
+
+- Rotates too early.
+- Rotates too late.
+- Uses the wrong airspeed.
+- Mismanages mixture.
+- Uses the wrong flap setting.
+- Delays braking.
+- Touches down long.
+- Flies an unstable approach.
+
+A perfect calculation cannot compensate for poor technique.
+
+### Airplane Configuration
+
+Configuration matters.
+
+Performance data may depend on:
+
+- Flap setting.
+- Gear position.
+- Mixture.
+- Cowl flap position.
+- Propeller setting.
+- Power setting.
+
+The chart applies only to the stated configuration.
+
+Always read:
+
+- Chart title.
+- Notes.
+- Footnotes.
+- Conditions.
+
+before accepting the result.
+
+### Weight
+
+More weight requires more lift.
+
+That affects almost every area of performance.
+
+As weight increases:
+
+- Takeoff distance increases.
+- Climb performance decreases.
+- Stall speed increases.
+- Maneuverability decreases.
+- Landing distance increases.
+- Approach speed may increase.
+- Fuel burn may increase.
+- Range may decrease.
+
+An overweight airplane may still physically fly.
+
+That does not make it legal or safe.
+
+### Weight and Structure
+
+The airplane's structure is designed around approved load limits.
+
+Exceeding maximum weight:
+
+- Reduces performance.
+- Increases structural loading.
+- Invalidates published performance assumptions.
+
+Under **14 CFR §91.9**, the pilot must comply with the approved operating limitations.
+
+### Weight-and-Balance Terms
+
+#### Basic Empty Weight
+
+The weight of the airplane with:
+
+- Standard equipment.
+- Optional equipment.
+- Unusable fuel.
+- Full operating fluids as defined by the aircraft records.
+
+Use the airplane's **current approved value**.
+
+#### Maximum Gross Weight
+
+The maximum approved airplane weight for the applicable operation.
+
+#### Useful Load
+
+**Maximum gross weight − basic empty weight**
+
+Useful load includes:
+
+- Usable fuel.
+- Occupants.
+- Baggage.
+- Cargo.
+
+#### Payload
+
+Payload generally refers to:
+
+- Occupants.
+- Baggage.
+- Cargo.
+
+after the selected fuel load is accounted for.
+
+#### Reference Datum
+
+An imaginary vertical plane selected by the manufacturer from which horizontal distances are measured.
+
+#### Arm
+
+The horizontal distance from the datum to an item.
+
+#### Moment
+
+**Moment = Weight × Arm**
+
+#### Center of Gravity
+
+The point at which the airplane would balance if suspended.
+
+The basic calculation is:
+
+**CG = Total Moment ÷ Total Weight**
+
+#### CG Limits
+
+The approved forward and aft boundaries within which the CG must remain.
+
+The limits may change with:
+
+- Weight.
+- Operating category.
+
+### Forward CG
+
+A forward CG generally:
+
+- Increases longitudinal stability.
+- Increases control forces.
+- Requires more tail-down force.
+- Requires more wing lift.
+- Increases drag.
+- Can increase stall speed.
+- Can make rotation and flare more difficult.
+
+At an extreme forward CG:
+
+**the pilot may not have enough elevator authority to raise the nose when required.**
+
+### Aft CG
+
+An aft CG generally:
+
+- Reduces longitudinal stability.
+- Reduces pitch-control forces.
+- Reduces the natural nose-down stall-recovery tendency.
+- Makes stall and spin recovery more difficult.
+
+An aft CG may reduce stall speed slightly, but that is not an advantage worth trading for reduced stability and recovery capability.
+
+### Lateral Loading
+
+Unequal loading left to right can result from:
+
+- Fuel imbalance.
+- Passengers.
+- Baggage.
+
+The pilot may need constant control pressure or trim to compensate.
+
+That creates extra drag and reduces efficiency.
+
+### Computing Weight and Balance
+
+The basic process is:
+
+1. Start with the current basic empty weight and moment.
+2. Add:
+    - Pilot.
+    - Passengers.
+    - Fuel.
+    - Baggage.
+    - Cargo.
+3. Determine each item's arm.
+4. Calculate each moment.
+5. Add total weight.
+6. Add total moment.
+7. Calculate CG.
+8. Compare the result with the correct loading envelope.
+
+Do not stop at:
+
+**"We're under max gross."**
+
+You must verify both:
+
+- Total weight.
+- CG location.
+
+### Weight × Arm = Moment
+
+The basic relationship is:
+
+**Weight × Arm = Moment**
+
+Then:
+
+**Total Moment ÷ Total Weight = CG**
+
+If the manufacturer uses:
+
+- Moment index.
+- Loading graph.
+- Envelope chart.
+
+use the method specified in the AFM/POH.
+
+### Changing the Load
+
+A loading problem may be corrected by:
+
+- Removing weight.
+- Adding allowable weight.
+- Moving weight.
+- Reducing fuel.
+- Moving baggage.
+- Changing passengers.
+
+But every proposed change has to be recalculated.
+
+Do not guess.
+
+### Shifting Weight
+
+Moving weight changes the CG without changing total airplane weight.
+
+Moving weight aft:
+
+**moves the CG aft.**
+
+Moving weight forward:
+
+**moves the CG forward.**
+
+The effect depends on:
+
+- Amount of weight moved.
+- Distance moved.
+- Total airplane weight.
+
+### Adding or Removing Weight
+
+Adding or removing weight changes:
+
+- Total weight.
+- Total moment.
+- CG.
+
+Removing fuel may:
+
+- Solve an overweight problem.
+- Change CG.
+- Create a fuel-planning problem.
+
+One fix can create another problem.
+
+### Fuel Burn and CG
+
+Weight and balance is not always a single preflight condition.
+
+Fuel burn can move the CG.
+
+Depending on tank location, fuel burn may move the CG:
+
+- Forward.
+- Aft.
+- Very little.
+
+So verify:
+
+- Takeoff condition.
+- En route condition when appropriate.
+- Landing condition.
+
+### Aerodynamics and Weight
+
+Higher weight requires more lift.
+
+To produce that lift:
+
+- AOA may increase.
+- Induced drag increases.
+- Stall speed increases.
+
+This is why heavier airplanes have poorer:
+
+- Takeoff performance.
+- Climb performance.
+- Landing performance.
+
+### Stall Speed and Weight
+
+Stall speed increases as weight increases.
+
+A heavier airplane must produce more lift at the same airspeed.
+
+That means it reaches critical AOA at a higher speed.
+
+So published stall speeds are tied to a specified:
+
+- Weight.
+- Configuration.
+- Load factor.
+
+### Load Factor and Performance
+
+Banking increases load factor when altitude is maintained.
+
+Higher load factor:
+
+- Increases required lift.
+- Increases stall speed.
+- Increases structural load.
+
+That connects performance planning directly to aircraft limitations.
+
+### V-Speeds
+
+Know the V-speeds applicable to the airplane.
+
+Examples may include:
+
+- **VS0** — stall speed in landing configuration.
+- **VS1** — stall speed in a specified configuration.
+- **VX** — best angle of climb.
+- **VY** — best rate of climb.
+- **VFE** — maximum flap-extended speed.
+- **VA** — maneuvering speed.
+- **VNO** — maximum structural cruising speed.
+- **VNE** — never-exceed speed.
+
+Use the airplane's AFM/POH.
+
+Do not assume another model's value applies.
+
+### Maneuvering Speed
+
+VA changes with weight.
+
+At lower weight:
+
+**VA is lower.**
+
+That is because less aerodynamic force is required to reach the structural limit.
+
+Use the aircraft's published guidance.
+
+VA is not a universal protection against:
+
+- Multiple abrupt control inputs.
+- Rapid alternating inputs.
+- Severe turbulence.
+- Combined control inputs.
+
+### Maximum Demonstrated Crosswind
+
+**Maximum demonstrated crosswind is not automatically an operating limitation.**
+
+It is the highest crosswind component demonstrated during certification testing.
+
+The pilot still has to consider:
+
+- Aircraft capability.
+- Runway condition.
+- Pilot proficiency.
+- Gusts.
+- Personal minimums.
+
+### Calculated vs. Actual Performance
+
+This is one of the most important risk-management concepts in the task.
+
+The chart result may be correct.
+
+Actual performance can still be worse.
+
+Why?
+
+- Wind changes.
+- Temperature changes.
+- Aircraft condition.
+- Runway contamination.
+- Pilot technique.
+- Incorrect leaning.
+- Surface roughness.
+- Brake condition.
+- Engine performance.
+- Measurement uncertainty.
+
+So:
+
+**Calculated performance should never consume the entire available margin.**
+
+### Safety Margin
+
+The AFM/POH gives the performance result.
+
+The pilot decides how much margin is enough.
+
+Examples of added margin may include:
+
+- More runway.
+- Lower weight.
+- Cooler departure time.
+- Less baggage.
+- Different airport.
+- Different runway.
+- Delaying the flight.
+- Not going.
+
+The point is not to find the smallest number that technically fits.
+
+The point is:
+
+**Build a plan that still works when conditions are slightly worse than expected.**
+
+### Example — Hot, Heavy, Short Runway
+
+Suppose we have:
+
+- High-elevation airport.
+- Hot afternoon.
+- Short runway.
+- Slight upslope.
+- Two passengers.
+- More baggage than planned.
+
+Before deciding to depart:
+
+1. Determine pressure altitude.
+2. Determine density altitude.
+3. Verify actual weight and CG.
+4. Check takeoff distance.
+5. Check obstacle clearance.
+6. Check climb performance.
+7. Verify runway surface and slope.
+8. Check wind.
+9. Compare required performance with what is available.
+10. Add a safety margin.
+
+If the margin is poor:
+
+**change the plan.**
+
+Possible solutions include:
+
+- Reduce baggage.
+- Reduce fuel only if legal reserves and mission allow.
+- Leave a passenger.
+- Depart earlier when cooler.
+- Use a longer runway.
+- Use another airport.
+- Do not depart.
+
+### ACS Standards — Performance and Limitations
+
+The applicant should be able to explain and apply:
+
+- Performance charts, tables, and data.
+- Atmospheric effects on performance.
+- Pilot technique.
+- Airplane configuration.
+- Airport environment.
+- Loading and weight and balance.
+- Weight-and-balance terminology.
+- Methods for computing CG.
+- Aerodynamics related to performance and limitations.
+
+The applicant should manage risks associated with:
+
+- Incorrect use of charts.
+- Airplane limitations.
+- Differences between calculated and actual performance.
+- Exceeding weight limits.
+- Operating outside CG limits.
+- Shifting, adding, or removing weight.
+
+The applicant should demonstrate the ability to:
+
+- Use appropriate performance data.
+- Compute weight and balance.
+- Correct an out-of-limit CG condition.
+- Determine whether weight and balance remain within limits throughout the flight.
+
+### Common Errors — Performance and Limitations
+
+- Using the wrong chart.
+- Using the wrong airplane's data.
+- Failing to read chart notes.
+- Confusing pressure altitude and density altitude.
+- Ignoring temperature.
+- Ignoring runway slope.
+- Ignoring runway surface.
+- Confusing ground roll with obstacle distance.
+- Using forecast wind as guaranteed wind.
+- Assuming calculated performance equals actual performance.
+- Failing to add a safety margin.
+- Checking only total weight and not CG.
+- Checking takeoff CG but not landing CG.
+- Ignoring fuel-burn effects on CG.
+- Using outdated empty-weight data.
+- Guessing at a loading correction.
+- Moving baggage without recomputing.
+- Assuming maximum demonstrated crosswind is a hard limitation.
+- Using maximum-gross-weight VA when the airplane is lighter.
+- Treating operating limitations as performance targets.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **The AFM/POH is the source for aircraft-specific performance and limitations.**
+2. **§91.9 requires compliance with those limitations.**
+3. **§91.103 makes performance planning part of required preflight action.**
+4. **Pressure altitude and density altitude are not the same thing.**
+5. **High density altitude degrades takeoff, climb, and landing performance.**
+6. **Weight and CG must both be within limits.**
+7. **Fuel burn can change CG during the flight.**
+8. **Calculated performance is not guaranteed actual performance.**
+9. **A chart is only as good as its inputs and assumptions.**
+10. **Good performance planning always preserves a margin.**
+
+### Close
+
+Performance planning is really a sequence of questions:
+
+**What does the airplane weigh?**  
+**Where is the CG?**  
+**What are the atmospheric conditions?**  
+**What runway and obstacle environment do we have?**  
+**What does the AFM/POH predict?**  
+**What margin remains if actual performance is worse?**
+
+The most important rule is:
+
+**Use the book, use the real conditions, and leave yourself margin.**
+
+
 ## AI.II.F.K1 — Performance Data, Charts, and Limitations
 
 The **AFM/POH performance section** contains the data for takeoff, climb, range, endurance, descent, and landing. Manufacturers present it in tables or graphs and may base it on standard atmospheric conditions, **pressure altitude**, or **density altitude**. The chart is useful only when the pilot understands its basis, uses the correct inputs, applies its notes and corrections, and remains within the aircraft’s published limitations.

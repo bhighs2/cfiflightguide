@@ -132,6 +132,871 @@ GPS, VOR, pilotage, and dead reckoning cross-check each other. Never rely on one
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in navigation systems and radar services is that every navigation source has strengths, limitations, and failure modes.**
+
+A pilot should understand:
+
+- What the system is telling them.
+- How the system gets that information.
+- What can make the information unreliable.
+- How to recognize a failure or loss of integrity.
+- How to cross-check position using another source.
+
+This Task covers:
+
+- Ground-based navigation.
+- Satellite-based navigation.
+- Radar assistance to VFR aircraft.
+- Transponders.
+- ADS-B.
+
+### Ground-Based Navigation — VOR
+
+A **VHF Omnidirectional Range, or VOR**, is a ground-based radio navigation facility that transmits courses called **radials** in all directions from the station.
+
+A radial is:
+
+**a magnetic bearing extending outward FROM the VOR station.**
+
+Think of the station as the hub of a wheel and the radials as spokes extending away from it.
+
+Radials are numbered:
+
+**001 through 360**
+
+and are referenced to magnetic north.
+
+### VOR Frequency and Signal
+
+VORs operate in the VHF navigation band:
+
+**108.0 through 117.95 MHz.**
+
+Because VOR uses VHF:
+
+**the signal is primarily line-of-sight.**
+
+Terrain, altitude, distance, and obstructions can affect reception.
+
+A higher airplane can generally receive the signal farther away because there is a better line of sight to the station.
+
+### VOR Service Volumes
+
+FAA VORs have published **Standard Service Volumes**, or SSVs.
+
+The service volume defines the airspace in which the FAA protects the signal for:
+
+- Adequate signal strength.
+- Course quality.
+- Freedom from interference from other NAVAIDs on similar frequencies.
+
+The current VOR system includes:
+
+- Legacy service volumes where still applicable.
+- Expanded service volumes associated with the **VOR Minimum Operational Network, or MON**.
+
+Do not rely on an old memorized T/L/H mileage table.
+
+Use:
+
+- The current AIM.
+- The Chart Supplement.
+- Published route or procedure information.
+
+Terrain can still block a signal even inside a published service volume.
+
+### VOR MON
+
+The FAA is reducing the number of VORs as satellite navigation becomes dominant.
+
+The **VOR Minimum Operational Network** preserves enough conventional navigation capability to provide a backup if GPS becomes unavailable.
+
+The MON is intended to support:
+
+- VOR station-to-station navigation.
+- Access to airports with conventional approaches.
+- Recovery from a widespread GPS outage.
+
+For a VFR pilot, the important point is:
+
+**VOR remains a valuable independent backup to GPS.**
+
+### Types of VOR Facilities
+
+#### VOR
+
+Provides azimuth information.
+
+#### VOR/DME
+
+Provides:
+
+- VOR azimuth.
+- DME distance.
+
+#### VORTAC
+
+Combines:
+
+- Civil VOR.
+- Military TACAN.
+
+A VORTAC also provides DME capability to properly equipped civil aircraft.
+
+### VOR Aircraft Equipment
+
+The airplane generally needs:
+
+- VOR antenna.
+- Receiver.
+- Navigation display.
+
+The display may be:
+
+- CDI.
+- HSI.
+- Integrated electronic flight display.
+
+### OBS
+
+The **Omnibearing Selector, or OBS**, selects the desired course.
+
+The selected course is shown on the instrument.
+
+### CDI
+
+The **Course Deviation Indicator, or CDI**, shows whether the selected course is:
+
+- Left.
+- Right.
+- Centered.
+
+The important point is:
+
+**The needle shows the location of the selected course relative to the airplane.**
+
+If the needle is left:
+
+**the selected course is left.**
+
+If the needle is right:
+
+**the selected course is right.**
+
+### TO/FROM Indicator
+
+The TO/FROM indication tells the pilot whether the selected course would take the airplane generally:
+
+- **TO** the station.
+- **FROM** the station.
+
+It does **not** tell you which direction the nose is pointing.
+
+An airplane can be:
+
+- Heading away from the VOR with a TO indication.
+- Heading toward the VOR with a FROM indication.
+
+The indication is based on:
+
+**aircraft position and selected course**
+
+not simply aircraft heading.
+
+### Determine the Radial
+
+To determine the radial the airplane is on:
+
+1. Tune the VOR.
+2. Identify the station.
+3. Rotate the OBS until the CDI centers with a **FROM** indication.
+4. Read the selected course.
+
+That selected course is approximately the radial the airplane is on.
+
+### Flying TO the Station
+
+To track toward the station:
+
+1. Tune.
+2. Identify.
+3. Select the desired inbound course.
+4. Confirm a **TO** indication.
+5. Intercept the course.
+6. Track it using an appropriate wind correction.
+
+Do not continuously turn toward the needle.
+
+Establish a correction and evaluate what the CDI does.
+
+### Flying FROM the Station
+
+To track outbound:
+
+1. Select the desired outbound radial.
+2. Confirm a **FROM** indication.
+3. Intercept the radial.
+4. Track it with wind correction.
+
+### Reverse Sensing
+
+With a conventional CDI, the indications can become confusing when the selected course and aircraft position do not match the intended direction of flight.
+
+A practical rule is:
+
+**If tracking TO the station, use the desired inbound course with a TO indication.**
+
+**If tracking FROM the station, use the desired outbound course with a FROM indication.**
+
+An HSI reduces this particular presentation problem because the course display rotates with the aircraft heading.
+
+### VOR Identification
+
+Before using a VOR for navigation:
+
+**positively identify the station.**
+
+Identification is normally by:
+
+- Morse code identifier.
+- Recorded voice identification when provided for that purpose.
+
+If the coded identifier is removed:
+
+**do not use the facility for navigation.**
+
+Do not assume that receiving a frequency means the correct station is usable.
+
+### VOR Accuracy Checks — 14 CFR §91.171
+
+**14 CFR §91.171** applies when operating **under IFR using the VOR system for navigation.**
+
+It does not require a VOR accuracy check merely for VFR flight.
+
+Approved methods include:
+
+- VOT.
+- Designated ground checkpoint.
+- Designated airborne checkpoint.
+- Dual-receiver check.
+
+For IFR use, the regulation establishes the allowable error for the applicable check.
+
+The CFI teaching point is:
+
+**Know whether a requirement applies to VFR or IFR before quoting it.**
+
+### Station Passage
+
+Near the VOR:
+
+- CDI indications become increasingly sensitive and unstable.
+- The TO/FROM indicator may fluctuate.
+- The indication changes from TO to FROM after passage.
+
+Do not chase the needle in the cone of confusion.
+
+Recognize station passage and continue the planned course.
+
+### Position From VOR
+
+One VOR radial gives:
+
+**a line of position.**
+
+It tells us what radial we are on but not exactly where along the radial.
+
+Position can be refined using:
+
+- DME.
+- A second VOR.
+- GPS.
+- Pilotage.
+
+### DME — Distance Measuring Equipment
+
+DME provides:
+
+**slant-range distance**
+
+between the airplane and a DME ground facility.
+
+The airborne unit sends an interrogation.
+
+The ground station replies.
+
+The airplane measures the elapsed time and converts it to distance.
+
+### DME Slant Range
+
+DME distance is not always the same as horizontal ground distance.
+
+It measures the straight-line distance from the airplane to the station.
+
+That is **slant range**.
+
+The error is greatest when:
+
+- The airplane is high.
+- The airplane is close to or directly over the station.
+
+Directly over a DME station:
+
+the indication is approximately the airplane's distance **above** the station rather than zero.
+
+At long distances relative to altitude:
+
+slant-range error becomes small.
+
+### DME Groundspeed and Time
+
+Some DME units calculate:
+
+- Groundspeed.
+- Time to station.
+
+Those values are most meaningful when the airplane is tracking directly:
+
+- Toward the station.
+- Away from the station.
+
+If flying across or around the station:
+
+the calculated groundspeed and time can be misleading.
+
+### Satellite Navigation — GPS
+
+The **Global Positioning System** determines aircraft position from satellite signals.
+
+The receiver uses timing information from multiple satellites to determine:
+
+- Latitude.
+- Longitude.
+- Altitude.
+- Ground track.
+- Groundspeed.
+- Time.
+
+A three-dimensional GPS position normally requires at least:
+
+**four satellites.**
+
+### GPS Antenna
+
+The installed GPS antenna is normally placed where it has a clear view of the sky.
+
+Signal reception can be degraded by:
+
+- Airframe shielding.
+- Poor antenna installation.
+- Interference.
+- Satellite geometry.
+- Equipment failure.
+
+Portable GPS and tablet receivers may be more vulnerable to antenna blockage depending on cockpit position.
+
+### GPS Integrity — RAIM
+
+**Receiver Autonomous Integrity Monitoring, or RAIM**, is a method by which a GPS receiver checks whether the satellite information being used is sufficiently consistent.
+
+RAIM is especially important in IFR operations.
+
+For the CFI lesson, the important concept is:
+
+**GPS accuracy and GPS integrity are not the same thing.**
+
+The display may show a precise-looking position.
+
+The pilot must still know whether the equipment has the integrity monitoring required for the intended operation.
+
+### WAAS
+
+**Wide Area Augmentation System, or WAAS**, improves GPS:
+
+- Accuracy.
+- Integrity.
+- Availability.
+
+WAAS uses a network of ground reference stations to monitor GPS signals and generate correction and integrity information.
+
+For appropriately approved equipment, WAAS supports:
+
+- En route navigation.
+- Terminal navigation.
+- GPS approaches with vertical guidance.
+
+### GPS CDI Sensitivity
+
+Unlike a VOR, where angular deviation means the same angle becomes a smaller physical distance as the aircraft approaches the station, GPS course deviation is based on cross-track distance.
+
+Approved GPS equipment can change CDI sensitivity depending on the phase of operation.
+
+The practical lesson is:
+
+**Know what navigation mode and sensitivity the receiver is using.**
+
+### GPS Databases
+
+For VFR navigation, a current database may not be legally required in every situation.
+
+But using an outdated database can create serious errors involving:
+
+- Airspace.
+- Airports.
+- Frequencies.
+- Waypoints.
+- Procedures.
+
+Do not use an expired moving-map depiction as the sole source for a critical airspace decision.
+
+Cross-check with:
+
+- Current sectional.
+- Chart Supplement.
+- Current NOTAM information.
+
+### Using GPS Correctly
+
+Before using a GPS route:
+
+- Verify the waypoint.
+- Verify the waypoint sequence.
+- Verify the active leg.
+- Verify the course.
+- Confirm the airplane is going where intended.
+
+The most dangerous navigation error can be:
+
+**accurately navigating to the wrong waypoint.**
+
+### Automation and Navigation
+
+When automation is coupled to navigation:
+
+the pilot must know:
+
+- What source is selected.
+- What mode is active.
+- What mode is armed.
+- What waypoint is active.
+- What the system should do next.
+
+If automation does something unexpected:
+
+**disconnect or simplify it and regain direct control.**
+
+### Loss of GPS
+
+If GPS becomes unavailable:
+
+- Maintain aircraft control.
+- Continue using pilotage and dead reckoning.
+- Use VOR or another available navigation source.
+- Request ATC assistance if needed.
+
+Do not allow the loss of one electronic system to become a loss of situational awareness.
+
+### Radar Assistance to VFR Aircraft
+
+ATC can provide radar assistance to VFR aircraft when:
+
+- Communication can be established.
+- The aircraft is within surveillance coverage.
+- ATC can identify the aircraft.
+- Controller workload permits the service.
+
+The service commonly called **VFR flight following** can provide:
+
+- Safety alerts.
+- Traffic advisories.
+- Radar assistance or vectors when appropriate.
+- Sequencing in applicable terminal areas.
+
+Flight following is an aid.
+
+It does not make the flight IFR.
+
+### Requesting Flight Following
+
+A practical request includes:
+
+- Facility being called.
+- Aircraft identification.
+- Aircraft type when appropriate.
+- Position.
+- Altitude.
+- Destination or route.
+- Request.
+
+Example:
+
+**“Houston Approach, Skyhawk 12345, five miles north of Conroe, three thousand five hundred, VFR to College Station, request flight following.”**
+
+ATC may respond with:
+
+- Squawk code.
+- Altimeter.
+- Radar identification.
+- Traffic information.
+- Other instructions or advisories.
+
+### Pilot Responsibilities on Flight Following
+
+The pilot remains responsible for:
+
+- Aircraft control.
+- Navigation.
+- Terrain and obstruction clearance.
+- Maintaining VFR weather minimums.
+- See and avoid.
+- Compliance with applicable airspace rules.
+
+Flight following does not transfer PIC responsibility to ATC.
+
+### Traffic Advisories
+
+ATC traffic information may include:
+
+- Clock position.
+- Distance.
+- Direction of movement.
+- Aircraft type.
+- Altitude.
+
+Example:
+
+**“Traffic, ten o'clock, five miles, opposite direction, altitude indicates three thousand.”**
+
+The pilot should:
+
+- Look for the traffic.
+- Report **traffic in sight** when acquired.
+- Advise **negative contact** when appropriate.
+- Continue see-and-avoid.
+
+### Safety Alerts
+
+ATC may issue a safety alert when the controller believes an aircraft is in unsafe proximity to:
+
+- Terrain.
+- Obstruction.
+- Another aircraft.
+
+A safety alert deserves immediate attention.
+
+### Limitations of Radar Services
+
+Radar assistance has limits.
+
+ATC may be limited by:
+
+- Surveillance coverage.
+- Terrain.
+- Workload.
+- Communications.
+- Equipment capability.
+- Aircraft equipment.
+
+Traffic advisories are not guaranteed to identify every aircraft.
+
+The pilot must continue:
+
+**see and avoid.**
+
+### Weather Information From ATC
+
+ATC can provide useful weather information and precipitation information from available surveillance systems.
+
+But ATC radar is not a complete airborne-weather-avoidance system.
+
+It may not depict:
+
+- All clouds.
+- Turbulence.
+- Icing.
+- Every hazardous weather feature.
+
+Do not use ATC weather information as a substitute for:
+
+- Preflight weather planning.
+- Onboard weather equipment.
+- Visual avoidance.
+- Proper deviation decisions.
+
+### Transponder
+
+A transponder responds to interrogation from ATC surveillance systems.
+
+It allows ATC to receive information beyond a basic primary-radar return.
+
+### Mode A
+
+**Mode A** provides:
+
+- Aircraft transponder code.
+
+### Mode C
+
+**Mode C** provides:
+
+- Mode A code.
+- Pressure-altitude information from the encoding source.
+
+The altitude transmitted is referenced to standard pressure.
+
+ATC systems apply the local altimeter correction as appropriate for display.
+
+### Mode S
+
+**Mode S** provides:
+
+- Selective addressing.
+- Aircraft identification capability.
+- Altitude and surveillance information.
+- Support for 1090ES ADS-B installations.
+
+### Common Transponder Codes
+
+Common codes include:
+
+- **1200** — VFR in the United States unless otherwise assigned.
+- **7500** — unlawful interference/hijacking.
+- **7600** — radio communication failure.
+- **7700** — emergency.
+
+Use a discrete code assigned by ATC when provided.
+
+### IDENT
+
+When ATC says:
+
+**“Ident.”**
+
+Press the IDENT button once.
+
+It highlights or enhances the aircraft's return for controller identification.
+
+Do not repeatedly press IDENT unless requested.
+
+### Transponder Requirements — 14 CFR §91.215
+
+**14 CFR §91.215** establishes where the applicable transponder and altitude-reporting equipment is required.
+
+Common areas include:
+
+- Class A.
+- Class B.
+- Class C.
+- The 30-NM Mode C veil around listed Class B primary airports.
+- Above specified altitudes and airspace as defined by the regulation.
+
+Use the actual regulation for exceptions and details.
+
+### ADS-B
+
+**Automatic Dependent Surveillance–Broadcast** broadcasts aircraft surveillance information derived from onboard navigation sources.
+
+The name describes the system:
+
+- **Automatic** — transmits without pilot interrogation.
+- **Dependent** — depends on onboard position information.
+- **Surveillance** — supports aircraft tracking.
+- **Broadcast** — transmits information for properly equipped receivers.
+
+### ADS-B Out
+
+ADS-B Out broadcasts information such as:
+
+- Position.
+- Altitude.
+- Ground track.
+- Groundspeed.
+- Aircraft identification.
+
+**14 CFR §91.225** establishes where ADS-B Out is required.
+
+**14 CFR §91.227** establishes applicable ADS-B Out equipment performance requirements.
+
+ADS-B Out equipment in the United States commonly uses:
+
+- **1090ES**
+- **978 UAT**
+
+Above FL180, the required ADS-B link is 1090ES.
+
+Below FL180 in applicable U.S. rule airspace, either approved 1090ES or approved UAT equipment may be used as permitted.
+
+### ADS-B In
+
+ADS-B In receives traffic and flight-information products.
+
+It is not the same as ADS-B Out.
+
+A pilot may have:
+
+- ADS-B Out without an ADS-B In display.
+- ADS-B In without compliant ADS-B Out.
+- Both.
+
+Having ADS-B In does **not** satisfy an ADS-B Out requirement.
+
+### TIS-B
+
+**Traffic Information Service–Broadcast, or TIS-B**, provides traffic information derived from surveillance sources to appropriately equipped aircraft.
+
+Important limitation:
+
+**Not every aircraft will necessarily appear.**
+
+Continue visual scanning.
+
+### FIS-B
+
+**Flight Information Service–Broadcast, or FIS-B**, is available through 978 UAT and provides certain weather and aeronautical information.
+
+Examples can include:
+
+- METARs.
+- TAFs.
+- NEXRAD products.
+- NOTAM-related information.
+- Other flight-information products.
+
+The information is valuable for strategic planning.
+
+It is not appropriate for close-in tactical thunderstorm penetration.
+
+### EFB Use
+
+Electronic flight bags are extremely useful for:
+
+- Charts.
+- Airport information.
+- Weather.
+- Traffic.
+- Flight planning.
+
+Risks include:
+
+- Battery failure.
+- Overheating.
+- Loss of GPS.
+- Expired data.
+- Screen failure.
+- Distraction.
+- Fixation.
+
+Mitigation:
+
+- Keep databases current.
+- Maintain power.
+- Have an appropriate backup.
+- Know how to continue without the device.
+- Minimize heads-down programming in flight.
+
+### ACS Standards — Navigation Systems and Radar Services
+
+The applicant should be able to explain:
+
+- Ground-based navigation:
+    - Identification.
+    - Orientation.
+    - Course determination.
+    - Equipment.
+    - Tests and regulations.
+    - Interference.
+    - Navigation-data use.
+    - Signal integrity.
+- Satellite-based navigation:
+    - Equipment.
+    - Regulations.
+    - Database use.
+    - RAIM.
+- Radar assistance to VFR aircraft:
+    - Operations.
+    - Equipment.
+    - Available services.
+    - Traffic advisories.
+- Transponders:
+    - Modes A, C, and S.
+- ADS-B.
+
+The applicant should manage risks associated with:
+
+- Automated navigation and autoflight systems.
+- Distraction and task prioritization.
+- Loss of situational awareness.
+- Navigation-system limitations.
+- Loss of navigation signal.
+- EFB use.
+
+The applicant should be able to:
+
+- Use an airborne electronic navigation system.
+- Determine the airplane's position.
+- Intercept and track a course, radial, or bearing.
+- Recognize station or waypoint passage.
+- Use proper communication procedures for radar services.
+
+### Common Errors — Navigation Systems and Radar Services
+
+- Using a VOR without identifying it.
+- Confusing a radial with a course TO the station.
+- Misreading TO/FROM.
+- Chasing the CDI.
+- Failing to account for wind when tracking.
+- Treating DME as horizontal ground distance close to the station.
+- Using DME groundspeed or time while not tracking directly to or from the station.
+- Assuming GPS precision guarantees GPS integrity.
+- Entering the wrong GPS waypoint and failing to verify it.
+- Trusting an expired moving-map database for airspace.
+- Becoming heads-down while programming.
+- Failing to recognize loss of GPS or VOR integrity.
+- Treating flight following as positive VFR separation everywhere.
+- Stopping the outside traffic scan because ATC is providing advisories.
+- Assuming ATC weather information shows every hazard.
+- Confusing Mode C with ADS-B.
+- Assuming ADS-B In satisfies ADS-B Out requirements.
+- Assuming every aircraft will appear on an ADS-B traffic display.
+- Using FIS-B weather tactically near thunderstorms.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **A VOR radial always extends FROM the station.**
+2. **Tune, identify, then use the VOR.**
+3. **§91.171 VOR-check requirements apply to IFR operations using VOR—not ordinary VFR use.**
+4. **DME gives slant-range distance.**
+5. **GPS position, integrity, database currency, and navigation mode are separate issues.**
+6. **RAIM and WAAS address integrity and capability in different ways.**
+7. **Flight following helps, but PIC responsibility and see-and-avoid remain with the pilot.**
+8. **Mode A identifies the code; Mode C adds altitude; Mode S adds selective surveillance capabilities.**
+9. **§91.215 governs transponder requirements; §§91.225 and 91.227 govern ADS-B Out use and performance.**
+10. **No navigation system should be used without understanding its limitations and a backup plan.**
+
+### Close
+
+Navigation systems are tools.
+
+The pilot's job is to understand:
+
+**What is the source?**  
+**Is it valid?**  
+**What is it telling me?**  
+**What are its limitations?**  
+**What will I use if it fails?**
+
+The safest pilot does not simply follow the magenta line.
+
+**The safest pilot knows why the line is there and can continue when it disappears.**
+
 Teach each navigation system as three things: how it works, what antenna and receiver the pilot uses, and how the pilot reads and applies the result. Then teach the transponder, ADS-B, and ATC radar services that surround them. Throughout, connect each system to its limitation and to the discipline of never relying on a single source. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would present it.
 
 ## AI.II.H.K1 — Ground-Based Navigation: VOR

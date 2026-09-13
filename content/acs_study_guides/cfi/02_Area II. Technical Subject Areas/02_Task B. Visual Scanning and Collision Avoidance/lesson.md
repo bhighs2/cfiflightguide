@@ -126,6 +126,523 @@ The applicant can explain visual scanning and collision avoidance, teach the ass
 [[mnemonic: High Wing: Raise · Low Wing: Lower | Move the wing that blocks the intended turn, then look before turning.]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in visual scanning and collision avoidance is that see-and-avoid is an active pilot responsibility.**
+
+Traffic avoidance is not something we outsource to:
+
+- ATC.
+- ADS-B.
+- Traffic displays.
+- Another crewmember.
+
+Those resources help, but the pilot still has to maintain an effective outside scan.
+
+The key principle is:
+
+**Scan deliberately. Clear before maneuvering. Recheck whenever attention comes back inside.**
+
+### Why Collision Avoidance Matters
+
+Aircraft can close on each other very quickly.
+
+At high closure rates, the time between first detection and impact may be only seconds.
+
+That means collision avoidance depends on:
+
+- Detecting traffic early.
+- Recognizing whether it is a threat.
+- Acting before the situation becomes urgent.
+
+Most midair collisions and near-midair encounters do not require bad weather.
+
+They often occur in good visibility, where pilots assume they will see each other.
+
+### See and Avoid
+
+Under **14 CFR §91.113**, when weather conditions permit, each person operating an aircraft must maintain vigilance to **see and avoid other aircraft**.
+
+That applies whether operating:
+
+- VFR.
+- IFR.
+- With ATC services.
+- Without ATC services.
+
+ATC traffic advisories do not remove the pilot's responsibility to see and avoid.
+
+The rule also establishes right-of-way requirements.
+
+Examples include:
+
+- **Head-on or nearly head-on:** both aircraft alter course to the right.
+- **Overtaking:** the overtaking aircraft alters course to the right and passes well clear.
+- **Converging:** the aircraft to the other's right generally has the right-of-way.
+- **Aircraft in distress:** has right-of-way over all other air traffic.
+
+But the most important point is:
+
+**Having the right-of-way does not justify allowing a collision to occur.**
+
+If another aircraft is too close:
+
+**avoid it.**
+
+### How We Actually See Traffic
+
+The eye does not see the entire sky with equal clarity.
+
+The small central portion of the retina called the **fovea** provides the sharpest detail during daylight.
+
+That means effective scanning requires moving the eyes so different portions of the sky come through central vision.
+
+A good daytime scan uses:
+
+- Short eye movements.
+- Small sectors.
+- A deliberate pause in each sector.
+
+A commonly taught FAA technique is:
+
+- Move the eyes no more than about **10° at a time**.
+- Pause for at least **one second** in each area.
+
+The point is not to mechanically count seconds.
+
+The point is:
+
+**Move → pause → focus → move again.**
+
+### Peripheral Vision
+
+Peripheral vision is good at detecting **movement**.
+
+That makes it useful for noticing traffic that was not directly in the center of the scan.
+
+Once movement is detected:
+
+- Shift central vision to the object.
+- Identify it.
+- Determine whether it is a threat.
+
+At night, peripheral vision becomes even more important because central night vision is relatively poor.
+
+For dim objects, use **off-center viewing** rather than staring directly at them.
+
+### Relaxed Intermediate Focal Distance
+
+One major scanning problem is looking outside without actually focusing on distant objects.
+
+When the visual field is empty or hazy, the eyes may naturally focus only a short distance ahead.
+
+This is sometimes called **relaxed intermediate focal distance** or empty-field myopia.
+
+The result is that the pilot may think they are scanning for traffic while the eyes are not focused far enough away to detect it effectively.
+
+The correction is deliberate:
+
+- Focus on distant terrain.
+- Focus on clouds.
+- Focus on distant light sources at night.
+- Then continue scanning the sky.
+
+### Environmental Conditions That Degrade Vision
+
+Traffic detection becomes more difficult with:
+
+- Haze.
+- Smoke.
+- Dust.
+- Rain.
+- Fog.
+- Glare.
+- Flying toward the sun.
+- Darkness.
+- Poor contrast.
+- Dirty or bug-covered windshields.
+
+Pilot condition matters too.
+
+Vision and scanning degrade with:
+
+- Fatigue.
+- Hypoxia.
+- Alcohol.
+- Certain medications.
+- Illness.
+- Stress.
+- Poor nutrition.
+
+A clean windshield, proper sunglasses, good cockpit lighting, and an alert pilot materially improve the chance of seeing traffic.
+
+### Aircraft Blind Spots
+
+Aircraft structure creates blind areas.
+
+Examples include:
+
+- Wings.
+- Windshield posts.
+- Engine cowling.
+- Door posts.
+- Sun visors.
+
+Before turning, actively clear the blind spot.
+
+For a **high-wing airplane**:
+
+**Raise the wing in the direction of the intended turn and look beneath it before turning.**
+
+For a **low-wing airplane**:
+
+**Lower the wing in the direction of the intended turn and look above it before turning.**
+
+The exact technique depends on the airplane.
+
+The principle is:
+
+**Move the obstruction so you can see the area you are about to enter.**
+
+### Clearing Procedures
+
+Clearing is not just two ceremonial clearing turns before a maneuver.
+
+It is a continuous process.
+
+#### Before Takeoff
+
+Before entering the runway:
+
+- Scan final approach.
+- Check for aircraft on base or final.
+- Check for aircraft departing or crossing.
+- Verify the runway environment is clear.
+
+#### Before Turns and Maneuvers
+
+Before changing direction or beginning a training maneuver:
+
+- Clear left.
+- Clear right.
+- Clear above.
+- Clear below.
+
+During instruction, verbalizing this helps build the habit.
+
+#### Climbs and Descents
+
+A straight climb or descent can hide traffic behind the nose.
+
+Use shallow clearing turns or gentle banks as appropriate to improve the view.
+
+#### Straight-and-Level Flight
+
+Continue a deliberate outside scan.
+
+Do not allow cruise flight to become heads-down time.
+
+### Visual Cue of a Collision Course
+
+The classic collision-course cue is:
+
+**No relative movement + increasing size**
+
+If another aircraft appears stationary in the windshield but keeps getting larger:
+
+**you are likely on a collision course.**
+
+An aircraft that moves steadily across the windshield is less likely to be on a direct collision course.
+
+But continue monitoring it.
+
+If there is doubt:
+
+**take early evasive action.**
+
+### High-Risk Collision Environments
+
+Collision risk is greatest where aircraft tend to converge.
+
+Examples include:
+
+- Traffic patterns.
+- Non-towered airports.
+- Practice areas.
+- Navigation fixes.
+- VORs.
+- Intersections.
+- Arrival and departure corridors.
+- Areas around Class B, C, and D airspace.
+- Climbs and descents.
+
+Traffic-pattern operations deserve special attention because:
+
+- Workload is high.
+- Aircraft are close together.
+- Speed differences may be significant.
+- Some aircraft may not have radios.
+- Some traffic may not appear on ADS-B.
+
+### Non-Towered Airport Operations
+
+At non-towered airports, maintaining visual awareness is especially important.
+
+Under **14 CFR §91.126**, when approaching to land at an airport in Class G airspace:
+
+- Airplanes normally make **left turns** in the traffic pattern unless airport markings or approved visual signals indicate right turns.
+- Pilots should conform to the established traffic flow.
+
+Under **14 CFR §91.127**, Class E airport operations generally follow the same traffic-flow requirements unless otherwise authorized or required.
+
+From a collision-avoidance standpoint:
+
+- Enter at pattern altitude.
+- Scan before joining.
+- Watch for aircraft already established.
+- Do not descend blindly into the pattern.
+- Do not assume every aircraft is making radio calls.
+
+### Traffic Systems and ADS-B
+
+Electronic traffic systems are extremely useful.
+
+They can help with:
+
+- Traffic awareness.
+- Relative altitude.
+- Trend information.
+- Position awareness.
+
+But they have limitations.
+
+Not every aircraft will necessarily appear on the display.
+
+Traffic information may be:
+
+- Delayed.
+- Incomplete.
+- Dependent on equipment and reception.
+- Misinterpreted.
+
+So the correct use is:
+
+**Traffic display → cue the eyes outside**
+
+not:
+
+**Traffic display → replace the outside scan**
+
+Use:
+
+- ADS-B In.
+- ATC traffic advisories.
+- Flight following.
+- CTAF calls.
+
+as supplements to visual scanning.
+
+### Aircraft Lighting
+
+Lighting can improve conspicuity.
+
+Under **14 CFR §91.209**:
+
+- Position lights are required from **sunset to sunrise**.
+- An installed anticollision light system generally must be operated when the aircraft is operated, subject to the PIC's authority to turn it off when operating conditions make that safer.
+
+Even when not strictly required, appropriate exterior lighting can help other pilots see the airplane.
+
+### Division of Attention
+
+The cockpit competes constantly with the outside scan.
+
+Common distractions include:
+
+- GPS programming.
+- Tablets.
+- Charts.
+- Checklists.
+- Radios.
+- Passengers.
+- Autopilot management.
+- Instrument fixation.
+
+The solution is to keep inside tasks short.
+
+A useful habit is:
+
+**Inside briefly → outside again**
+
+Before a high-workload phase:
+
+- Prepare frequencies early.
+- Brief the approach early.
+- Organize charts and tablets.
+- Configure before workload spikes.
+
+The less time spent heads-down, the more time available for traffic detection.
+
+### Safety Pilot
+
+During simulated instrument flight, the manipulating pilot may have little or no outside visibility.
+
+The safety pilot's primary job is to maintain the traffic lookout and protect collision avoidance.
+
+Do not let:
+
+- Conversation.
+- Instruction.
+- Navigation.
+- Electronics.
+
+distract the safety pilot from the outside scan.
+
+### Vestibular and Visual Illusions
+
+Visual scanning also depends on understanding when the senses can be misleading.
+
+When outside references are unreliable, the vestibular and visual systems can produce false sensations.
+
+Examples include:
+
+- The leans.
+- Coriolis illusion.
+- Graveyard spiral.
+- Somatogravic illusion.
+- False horizon.
+- Autokinesis.
+
+The response is:
+
+**Trust reliable flight instruments, not bodily sensation.**
+
+### Landing Illusions
+
+Landing illusions can distort perceived height, distance, and approach angle.
+
+#### Runway Width
+
+A **narrow runway** can make the airplane appear higher than it actually is.
+
+That can lead to a **low approach**.
+
+A **wide runway** can make the airplane appear lower than it actually is.
+
+That can lead to a **high approach**.
+
+#### Runway Slope
+
+An **upsloping runway** can create the impression of being high.
+
+A **downsloping runway** can create the impression of being low.
+
+#### Featureless Terrain
+
+Dark terrain, water, snow, or other featureless areas can make the pilot feel higher than actual.
+
+That can lead to a dangerously low approach.
+
+#### Haze and Rain
+
+Haze can make objects appear farther away.
+
+Rain and fog can distort height and pitch perception.
+
+The defense is to:
+
+- Anticipate the illusion.
+- Use normal sight pictures.
+- Cross-check altitude.
+- Use PAPI/VASI or other glidepath information when available.
+
+### ACS Standards — Visual Scanning and Collision Avoidance
+
+The applicant should be able to explain:
+
+- Environmental conditions that degrade vision.
+- Vestibular and visual illusions.
+- See-and-avoid responsibilities.
+- Proper visual scanning techniques.
+- The importance of peripheral vision.
+- Aircraft blind spots.
+- Clearing procedures.
+- Visual cues of an impending midair collision.
+- Situations that create the greatest collision risk.
+- Division of attention inside and outside the aircraft.
+
+The applicant should manage risks associated with:
+
+- Distractions to visual scanning.
+- Relaxed intermediate focal distance.
+- High-volume operational environments.
+- Collision reaction time.
+- Use of a safety pilot.
+
+The applicant should demonstrate:
+
+- Short, regularly spaced eye movements.
+- Scanning around physical obstructions.
+- Appropriate visual scanning techniques.
+- Effective use of electronic traffic systems when available.
+
+### Common Errors — Visual Scanning and Collision Avoidance
+
+- Looking outside without actually focusing at distance.
+- Staring in one direction too long.
+- Moving the eyes too quickly to detect traffic.
+- Fixating on instruments.
+- Fixating on a tablet or traffic display.
+- Assuming ATC will keep traffic separated.
+- Assuming ADS-B shows every aircraft.
+- Failing to clear before turns or maneuvers.
+- Failing to account for wing or structural blind spots.
+- Descending into a traffic pattern without adequate visual clearing.
+- Failing to recognize a stationary, growing traffic target.
+- Poor division of attention between cockpit tasks and outside scanning.
+- Allowing dirty windshield or glare to degrade visibility.
+- Failure to anticipate night-vision limitations.
+- Failure to take timely evasive action.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **See-and-avoid remains the pilot's responsibility under 14 CFR §91.113.**
+2. **ATC and ADS-B support the scan; they do not replace it.**
+3. **Use short eye movements and pause long enough to actually see.**
+4. **Peripheral vision is important for detecting movement.**
+5. **A stationary target that grows larger is a collision warning.**
+6. **Clear blind spots before turning.**
+7. **Traffic risk is highest where aircraft converge and workload is high.**
+8. **§91.126 and §91.127 govern traffic-flow expectations at many non-towered airports.**
+9. **§91.209 establishes aircraft-light requirements that also support conspicuity.**
+10. **Collision avoidance is a continuous flight-control task, not an occasional scan.**
+
+### Close
+
+Collision avoidance comes down to a disciplined habit:
+
+**Scan → Clear → Recheck**
+
+Use the available tools:
+
+- Your eyes.
+- ATC.
+- ADS-B.
+- CTAF.
+- Exterior lights.
+- Safety pilots.
+
+But never let any of them replace the basic responsibility:
+
+**Look outside and see the traffic before it becomes a threat.**
+
+
 
 ## AI.II.B.K1 — Environmental Conditions That Degrade Vision
 

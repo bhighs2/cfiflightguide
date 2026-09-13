@@ -142,6 +142,1116 @@ TC ± WCA = TH ± Variation = MH ± Deviation = CH. Apply wind, then variation, 
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in cross-country planning is turning a route on the chart into a safe, legal, and realistic flight plan.**
+
+The pilot has to answer:
+
+- Where am I going?
+- What route am I taking?
+- What altitude makes sense?
+- What heading will I actually fly?
+- How long will it take?
+- How much fuel will it require?
+- What weather, airspace, terrain, or airport risks affect the plan?
+- What will I do if the actual flight does not match the plan?
+
+A good cross-country plan is not just a navigation log.
+
+It is a complete decision about whether the flight should be made and how it will be conducted.
+
+### Preflight Planning — 14 CFR §91.103
+
+Under **14 CFR §91.103**, the pilot in command must become familiar with all available information concerning the flight.
+
+For a cross-country flight, that includes applicable information such as:
+
+- Weather reports and forecasts.
+- Fuel requirements.
+- Alternatives if the planned flight cannot be completed.
+- Known ATC delays.
+- Runway lengths at airports of intended use.
+- Takeoff and landing performance information when applicable.
+
+So cross-country planning is not optional preparation.
+
+It is part of the PIC's regulatory responsibility.
+
+### Route Planning
+
+Start with the departure and destination.
+
+Then determine whether a direct route actually makes sense.
+
+Consider:
+
+- Airspace.
+- Special use airspace.
+- TFRs.
+- Terrain.
+- Obstacles.
+- Weather.
+- Navigation facilities.
+- Communication coverage.
+- Emergency landing options.
+- Fuel availability.
+- Suitable alternates.
+
+A straight line may be the shortest route.
+
+It is not always the best route.
+
+### Current Charts and Publications
+
+Use current:
+
+- Sectional or TAC.
+- Chart Supplement.
+- NOTAM information.
+- Airport diagrams.
+- Aircraft POH/AFM.
+- Navigation databases and EFB data where used.
+
+Do not let an EFB replace the chart-reading knowledge required to verify what it is displaying.
+
+### Chart Symbols
+
+The sectional communicates:
+
+- Airports.
+- Airspace.
+- Obstructions.
+- Terrain.
+- Navaids.
+- Special use airspace.
+- Frequencies.
+- Maximum elevation figures.
+- Other hazards and operating information.
+
+If a symbol is unfamiliar:
+
+**use the chart legend or Aeronautical Chart User's Guide.**
+
+Do not guess.
+
+### Latitude and Longitude
+
+Latitude and longitude identify positions on the earth.
+
+**Latitude** is measured north or south of the equator.
+
+Lines of latitude:
+
+- Run east and west.
+- Are called parallels.
+
+**Longitude** is measured east or west of the Prime Meridian.
+
+Lines of longitude:
+
+- Run north and south.
+- Are called meridians.
+
+For ordinary VFR planning, the most important use is being able to locate and verify positions accurately on the chart or navigation equipment.
+
+### Plotting the Course
+
+Plot the intended route on the chart.
+
+For each leg:
+
+1. Draw or identify the course line.
+2. Measure the **true course**.
+3. Measure the distance.
+4. Identify checkpoints.
+5. Identify terrain and obstacles.
+6. Identify airspace and SUA.
+7. Note useful navigation and communication facilities.
+
+If the route changes around airspace or terrain:
+
+treat each portion as a separate leg.
+
+### True Course
+
+**True course** is the intended direction of travel over the ground measured from true north.
+
+It is the line drawn on the chart.
+
+True course is not necessarily:
+
+- Aircraft heading.
+- Magnetic heading.
+- Compass heading.
+
+Wind and magnetic corrections still have to be applied.
+
+### Course, Heading, and Track
+
+These three terms need to stay separate.
+
+**Course** is the intended path over the ground.
+
+**Heading** is the direction the airplane's nose points.
+
+**Track** is the actual path the airplane follows over the ground.
+
+With no wind:
+
+heading and track may be the same.
+
+With a crosswind:
+
+the airplane normally points into the wind so the track remains on the desired course.
+
+### Wind Correction Angle
+
+A crosswind causes drift.
+
+The pilot applies a **wind correction angle**, or WCA, to the course.
+
+If the wind is from the right:
+
+the airplane must point right of the desired course.
+
+If the wind is from the left:
+
+the airplane must point left.
+
+The required correction depends on:
+
+- Wind direction.
+- Wind speed.
+- True airspeed.
+- Course.
+
+Use an E6B, electronic flight computer, or properly configured EFB to solve the wind triangle.
+
+### True Heading
+
+Apply the wind correction to true course:
+
+**True Course ± Wind Correction Angle = True Heading**
+
+The exact sign depends on which side of the course the wind is coming from.
+
+Do not simply memorize plus or minus.
+
+Ask:
+
+**Which way do I have to point the nose to stop the drift?**
+
+### Magnetic Variation
+
+The chart is referenced to true north.
+
+The magnetic compass responds to magnetic north.
+
+The difference is **variation**.
+
+Variation is shown by **isogonic lines** on the sectional.
+
+To convert true heading to magnetic heading:
+
+- **East variation — subtract**
+- **West variation — add**
+
+Common memory aid:
+
+**East is least. West is best.**
+
+### Compass Deviation
+
+The airplane itself creates magnetic interference.
+
+That error is **deviation**.
+
+Sources include:
+
+- Electrical systems.
+- Radios.
+- Metal in the airplane.
+- Other magnetic influences.
+
+Use the aircraft's **compass correction card**.
+
+Apply deviation to magnetic heading to determine the actual compass heading to fly.
+
+### True to Compass
+
+The full sequence is:
+
+**True Course**  
+then apply **wind correction**  
+to obtain **True Heading**.
+
+Then apply:
+
+- Variation.
+- Deviation.
+
+to obtain the compass heading.
+
+The student should understand what each correction represents rather than simply reciting a formula.
+
+### Magnetic Compass Errors
+
+The magnetic compass also has operating errors.
+
+These include:
+
+- Variation.
+- Deviation.
+- Magnetic dip effects.
+- Turning errors.
+- Acceleration and deceleration errors.
+
+In the Northern Hemisphere:
+
+**ANDS**
+
+- Accelerate — indication tends toward North.
+- Decelerate — indication tends toward South.
+
+And:
+
+**UNOS**
+
+- Undershoot North.
+- Overshoot South.
+
+These errors are most important when using the magnetic compass as a primary heading reference.
+
+### Altitude Selection
+
+Cruising altitude is not selected only from the VFR hemispheric rule.
+
+Consider:
+
+- Terrain.
+- Obstacles.
+- Wind.
+- Clouds.
+- Airspace.
+- Glide distance.
+- Aircraft performance.
+- Oxygen needs.
+- Communication and navigation reception.
+
+A higher altitude may provide:
+
+- Better glide range.
+- Better radar/radio coverage.
+- Better visibility.
+- Better winds.
+
+But it may also create:
+
+- Stronger headwinds.
+- Oxygen considerations.
+- Cloud conflicts.
+- Performance limitations.
+
+### VFR Cruising Altitudes — 14 CFR §91.159
+
+When operating VFR in level cruising flight more than **3,000 feet above the surface** and below 18,000 feet MSL:
+
+For magnetic courses **0° through 179°**:
+
+- Odd thousands plus 500 feet.
+
+Examples:
+
+- 3,500.
+- 5,500.
+- 7,500.
+
+For magnetic courses **180° through 359°**:
+
+- Even thousands plus 500 feet.
+
+Examples:
+
+- 4,500.
+- 6,500.
+- 8,500.
+
+The rule is based on:
+
+**magnetic course**
+
+not heading.
+
+### Terrain and Obstacles
+
+Identify:
+
+- Highest terrain.
+- Obstructions near the route.
+- Mountainous areas.
+- Towers.
+- Areas with limited emergency landing options.
+
+Do not plan only for legal minimum altitude.
+
+Ask whether the altitude provides enough margin for:
+
+- Navigation error.
+- Turbulence.
+- Downdrafts.
+- Engine failure.
+- Night operations.
+
+### Glide Distance
+
+Altitude creates options after an engine failure.
+
+When choosing altitude, consider:
+
+- Aircraft glide ratio.
+- Terrain.
+- Airports along the route.
+- Water.
+- Forested or built-up areas.
+
+A legal altitude may still leave very poor emergency options.
+
+### Power Setting
+
+Select cruise power using the aircraft POH/AFM.
+
+Consider:
+
+- Desired speed.
+- Fuel burn.
+- Engine limitations.
+- Altitude.
+- Temperature.
+- Range.
+- Endurance.
+
+Use the performance chart for the actual airplane.
+
+Do not use a generic fuel-burn estimate when accurate POH data is available.
+
+### True Airspeed and Groundspeed
+
+**True airspeed** is the airplane's speed through the air mass.
+
+**Groundspeed** is speed over the ground.
+
+Wind changes groundspeed.
+
+A tailwind:
+
+- Increases groundspeed.
+
+A headwind:
+
+- Decreases groundspeed.
+
+Time and fuel planning must therefore use:
+
+**groundspeed**
+
+not true airspeed.
+
+### Time, Speed, and Distance
+
+The basic relationships are:
+
+**Time = Distance ÷ Groundspeed**
+
+**Distance = Groundspeed × Time**
+
+**Groundspeed = Distance ÷ Time**
+
+Keep units consistent.
+
+If using knots:
+
+- Distance should be in nautical miles.
+- Time should be in hours.
+
+### Fuel Calculation
+
+Fuel required for a leg is:
+
+**Fuel flow × Time**
+
+But total fuel planning must also account for:
+
+- Start.
+- Taxi.
+- Run-up.
+- Climb.
+- Cruise.
+- Descent where appropriate.
+- Expected delays.
+- Reserve.
+
+The POH performance data should be the basis for the planned burn.
+
+### VFR Fuel Requirements — 14 CFR §91.151
+
+No person may begin a VFR flight unless, considering wind and forecast weather conditions, there is enough fuel to fly to the first point of intended landing and then, assuming normal cruising fuel consumption:
+
+**Day: at least 30 minutes**
+
+**Night: at least 45 minutes**
+
+Those are legal minimum reserves.
+
+Personal minimums may be higher.
+
+The important planning question is not:
+
+**“Can I land with exactly 30 minutes left?”**
+
+It is:
+
+**“How much fuel margin do I want if the wind, route, or delay is worse than planned?”**
+
+### Climb and Descent
+
+A complete cross-country plan accounts for the climb.
+
+Use the POH to determine:
+
+- Time to climb.
+- Fuel to climb.
+- Distance to climb.
+
+If descent materially affects time or fuel, account for that as well.
+
+Do not treat the entire trip as though it is flown at cruise power and cruise groundspeed.
+
+### Estimated Time En Route
+
+For each leg:
+
+- Determine distance.
+- Determine groundspeed.
+- Calculate time.
+
+Add the legs to determine total estimated time en route.
+
+Compare this against:
+
+- Fuel.
+- Daylight if relevant.
+- Weather timing.
+- Airport operating hours.
+- Passenger considerations.
+
+### ETA and UTC
+
+Aviation weather, NOTAMs, flight plans, and many operational products use **UTC**, or Zulu time.
+
+The pilot should be able to convert between:
+
+- Local time.
+- UTC.
+
+Do not rely on a memorized UTC offset without accounting for daylight saving time.
+
+Use the current local offset.
+
+### Pilotage
+
+**Pilotage** is navigation by visual reference to landmarks.
+
+Good checkpoints are:
+
+- Easy to identify.
+- Unique.
+- Visible from the planned altitude.
+- Reasonably close to the course.
+- Spaced so progress can be checked regularly.
+
+Examples include:
+
+- Cities.
+- Lakes.
+- Major highways.
+- Railroad intersections.
+- Large rivers.
+- Airports.
+- Distinctive terrain features.
+
+Avoid checkpoints that are difficult to distinguish from similar nearby features.
+
+### Dead Reckoning
+
+**Dead reckoning** determines position based on:
+
+- Course.
+- Heading.
+- Airspeed.
+- Wind.
+- Time.
+- Distance.
+
+Pilotage tells us:
+
+**what we see.**
+
+Dead reckoning tells us:
+
+**where we should be.**
+
+Using them together lets the pilot recognize early when the flight is not matching the plan.
+
+### Navigation Log
+
+The navigation log ties the entire plan together.
+
+For each leg, it may contain:
+
+- Checkpoint.
+- True course.
+- Wind correction.
+- True heading.
+- Variation.
+- Magnetic heading.
+- Deviation.
+- Compass heading.
+- Distance.
+- Groundspeed.
+- ETE.
+- Fuel.
+- Planned arrival time.
+- Actual arrival time.
+
+The purpose is not paperwork.
+
+The nav log gives the pilot a way to compare:
+
+**planned performance with actual performance.**
+
+### Planned vs. Actual
+
+Once airborne:
+
+compare actual results with the plan.
+
+Check:
+
+- Actual groundspeed.
+- Actual checkpoint time.
+- Fuel burn.
+- Wind effect.
+- Position.
+
+If the airplane reaches a checkpoint later than planned:
+
+possible causes include:
+
+- Stronger headwind.
+- Incorrect course.
+- Lower groundspeed.
+- Climb taking longer than expected.
+
+Update the remaining:
+
+- Time.
+- Fuel.
+- ETA.
+
+Do not continue using numbers that the airplane has already proven wrong.
+
+### Weather and Go/No-Go Decision
+
+Weather planning is not simply collecting reports.
+
+The pilot must correlate the information with the planned flight.
+
+Consider:
+
+- Ceiling.
+- Visibility.
+- Winds.
+- Crosswind.
+- Convective activity.
+- Turbulence.
+- Icing risk where relevant.
+- Mountain obscuration.
+- Temperature/dew point.
+- Weather trend.
+- Destination and alternate conditions.
+
+Then compare the conditions against:
+
+- Legal requirements.
+- Pilot proficiency.
+- Personal minimums.
+- Aircraft capability.
+- Terrain and route.
+
+A weather briefing does not make the go/no-go decision.
+
+**The pilot does.**
+
+### NOTAMs
+
+Review NOTAMs that affect:
+
+- Departure.
+- Route.
+- Destination.
+- Alternate airports.
+
+Look for:
+
+- Runway closures.
+- Taxiway closures.
+- Navaid outages.
+- Lighting outages.
+- TFRs.
+- Airport restrictions.
+
+Do not stop at weather.
+
+A perfect-weather flight can still be disrupted by an unusable runway or closed airport.
+
+### VFR Flight Plan
+
+A VFR flight plan is generally not required for ordinary domestic VFR flight in the continental United States.
+
+It is strongly recommended because an **activated** VFR flight plan provides search-and-rescue information if the flight becomes overdue.
+
+A VFR flight plan is separate from VFR radar flight following.
+
+They serve different purposes.
+
+### Filing a VFR Flight Plan
+
+A VFR flight plan may be filed through:
+
+- Flight Service.
+- An approved flight-plan service provider.
+- Electronic means.
+
+Current FAA guidance uses the **ICAO flight plan format** for normal civil filing.
+
+The pilot should understand the information required by the filing service, including:
+
+- Aircraft identification.
+- Aircraft type and equipment.
+- Departure.
+- Proposed departure time.
+- Route.
+- Destination.
+- Cruising altitude.
+- Estimated elapsed time.
+- Fuel endurance.
+- Persons on board.
+- Other required information.
+
+The goal is not to memorize every form block.
+
+The goal is to provide accurate information that can support the flight and search and rescue.
+
+### Activating a VFR Flight Plan
+
+**Filing does not automatically activate the plan.**
+
+The pilot is responsible for activation.
+
+Current FAA guidance allows activation through Flight Service by:
+
+- Radio.
+- Other electronic means.
+- An arranged assumed departure time when supported by the filing service.
+
+Control towers do **not** routinely activate VFR flight plans.
+
+If an assumed departure time is used:
+
+the pilot remains responsible for updating the actual departure or ETA if the plan changes.
+
+### Closing a VFR Flight Plan
+
+The pilot is responsible for ensuring the flight plan is closed.
+
+Close through:
+
+- Flight Service.
+- A capable flight-plan service provider.
+- Or have ATC relay the cancellation to Flight Service when appropriate.
+
+Do not assume:
+
+- Tower.
+- Approach.
+- Flight following.
+
+automatically closes a VFR flight plan.
+
+An overdue active flight plan can trigger search-and-rescue action.
+
+### Flight Following Is Not a VFR Flight Plan
+
+Flight following provides radar services such as:
+
+- Traffic advisories.
+- Safety alerts.
+- Radar assistance when available.
+
+A VFR flight plan provides:
+
+- Search-and-rescue information.
+
+They are different services.
+
+Using one does not automatically provide the function of the other.
+
+### Diversion
+
+If the destination becomes unsuitable because of:
+
+- Weather.
+- Fuel.
+- Mechanical concerns.
+- Passenger issues.
+- Airport closure.
+
+divert early.
+
+The diversion priorities are:
+
+- Maintain aircraft control.
+- Select a suitable alternate.
+- Turn toward it.
+- Determine approximate course.
+- Determine distance.
+- Estimate time.
+- Estimate fuel.
+- Obtain airport information.
+- Update ATC or Flight Service as appropriate.
+
+In flight, the diversion calculation does not have to be as precise as the original preflight plan.
+
+It has to be:
+
+**timely and safe.**
+
+### Lost Procedures
+
+If position becomes uncertain:
+
+First:
+
+**keep flying the airplane.**
+
+Then use available resources to determine position.
+
+Options include:
+
+- Pilotage.
+- GPS.
+- VOR.
+- DME.
+- EFB.
+- ATC radar assistance.
+- Flight Service.
+
+Climbing may improve:
+
+- Radio reception.
+- Radar coverage.
+- Visual range.
+
+but only if weather, airspace, and terrain permit.
+
+If assistance is needed:
+
+**ask for it early.**
+
+### Radar Assistance When Lost
+
+ATC may be able to:
+
+- Radar identify the airplane.
+- Provide position information.
+- Provide vectors.
+- Help locate an airport.
+
+Do not delay a radio call because of embarrassment.
+
+Being uncertain of position is manageable.
+
+Continuing silently until fuel or weather becomes critical is not.
+
+### Inflight Intercept Procedures
+
+The pilot should know that interception procedures are published in the AIM.
+
+If intercepted:
+
+- Remain predictable.
+- Follow the intercepting aircraft's signals.
+- Attempt communication on **121.5 MHz**.
+- Follow applicable ATC instructions.
+- Use the transponder as directed or as required by the applicable intercept procedures.
+
+This is a subject to reference from the AIM rather than improvise from memory.
+
+### Electronic Flight Bags
+
+An EFB can perform much of the planning quickly.
+
+It may provide:
+
+- Route planning.
+- Winds.
+- Time.
+- Fuel estimates.
+- Weather.
+- NOTAMs.
+- Airport information.
+- Charts.
+
+But the EFB is only as accurate as:
+
+- Aircraft performance data entered.
+- Fuel burn entered.
+- Winds used.
+- Route entered.
+- Database currency.
+
+Always verify:
+
+- Route.
+- Altitude.
+- Fuel.
+- Airspace.
+- Performance.
+
+against the authoritative sources.
+
+### EFB Failure
+
+Plan for:
+
+- Dead battery.
+- Overheating.
+- GPS failure.
+- App crash.
+- Loss of internet before departure.
+- Database issue.
+
+Have a reasonable backup appropriate to the operation.
+
+The pilot should still be able to:
+
+- Identify position.
+- Navigate.
+- Find airport information.
+- Continue or divert safely.
+
+### Risk Management — Pilot
+
+Consider:
+
+- Experience.
+- Currency.
+- Fatigue.
+- Stress.
+- Night experience.
+- Weather experience.
+- Cross-country proficiency.
+
+A technically legal pilot may still be a poor match for the planned flight.
+
+### Risk Management — Aircraft
+
+Consider:
+
+- Fuel capacity.
+- Performance.
+- Weight and balance.
+- Equipment.
+- Navigation capability.
+- Maintenance condition.
+
+Do not create a route that requires capability the airplane does not have.
+
+### Risk Management — Environment
+
+Consider:
+
+- Weather.
+- Terrain.
+- Obstacles.
+- Airports.
+- Airspace.
+- SUA.
+- TFRs.
+- Night conditions.
+
+The route must work in the actual environment, not just on the planning screen.
+
+### Risk Management — External Pressures
+
+Cross-country flights create strong external pressures.
+
+Examples:
+
+- Passengers waiting.
+- Hotel reservations.
+- Work schedule.
+- Returning home.
+- Fear of disappointing someone.
+
+A good plan includes:
+
+**permission to change the plan.**
+
+### Risk Management — ATC Limitations
+
+ATC can help with:
+
+- Traffic.
+- Radar assistance.
+- Airspace.
+- Vectors.
+
+But ATC does not replace:
+
+- Navigation.
+- VFR weather avoidance.
+- Terrain clearance.
+- Fuel planning.
+- PIC decision-making.
+
+### Risk Management — Fuel
+
+Fuel planning must include:
+
+- Planned burn.
+- Reserve.
+- Wind uncertainty.
+- Potential reroute.
+- Possible delay.
+
+Monitor actual fuel consumption in flight.
+
+If actual fuel burn or groundspeed is worse than planned:
+
+**recalculate before the reserve disappears.**
+
+### ACS Standards — Navigation and Cross-Country Flight Planning
+
+The applicant should be able to explain and teach:
+
+- Route planning.
+- Airspace and SUA considerations.
+- Selection of navigation and communication systems.
+- Altitude selection.
+- Terrain and obstacle clearance.
+- Glide distance.
+- VFR cruising altitudes.
+- Wind effects.
+- Course plotting.
+- Power setting.
+- Time, distance, course, heading, airspeed, and groundspeed calculations.
+- ETA and UTC conversion.
+- Fuel requirements and reserve.
+- VFR flight-plan elements.
+- Weather correlation and go/no-go decision.
+- Flight-plan activation and closing.
+- Magnetic compass errors.
+- Pilotage.
+- Dead reckoning.
+- Planned versus actual performance.
+- Diversion and lost procedures.
+- Inflight intercept procedures.
+- EFB use.
+- Chart symbols.
+
+The applicant should manage risks involving:
+
+- Pilot.
+- Aircraft.
+- Environment.
+- External pressures.
+- ATC limitations.
+- Fuel planning.
+
+The applicant should be able to:
+
+- Prepare, present, and explain an assigned cross-country plan through the first fuel stop.
+- Apply current charts, Chart Supplements, NOTAMs, and other appropriate publications.
+- Create a navigation plan and simulate filing a VFR flight plan.
+- Recalculate fuel reserves for an evaluator-provided scenario.
+
+### Common Errors — Cross-Country Planning
+
+- Selecting a route without considering airspace or terrain.
+- Using an expired sectional or database.
+- Confusing course, heading, and track.
+- Applying variation in the wrong direction.
+- Ignoring compass deviation.
+- Choosing altitude based only on the hemispheric rule.
+- Using TAS instead of groundspeed for time calculations.
+- Ignoring climb fuel.
+- Planning exactly to the legal fuel reserve.
+- Selecting poor checkpoints.
+- Failing to compare actual checkpoint times with planned times.
+- Continuing a flight plan after the actual winds have proven it wrong.
+- Treating an EFB calculation as unquestionable.
+- Assuming a filed VFR flight plan is automatically active.
+- Assuming ATC or a tower automatically closes the flight plan.
+- Confusing flight following with a VFR flight plan.
+- Waiting too long to divert.
+- Being reluctant to tell ATC that position is uncertain.
+- Allowing external pressure to override the go/no-go decision.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **§91.103 makes cross-country preflight planning a PIC responsibility.**
+2. **The route has to account for airspace, terrain, weather, airports, and emergency options.**
+3. **Course, heading, and track are different.**
+4. **Wind correction, variation, and deviation turn the chart course into the heading actually flown.**
+5. **§91.159 establishes VFR cruising-altitude requirements above 3,000 feet AGL.**
+6. **Time and fuel planning use groundspeed, not true airspeed.**
+7. **§91.151 establishes the minimum VFR fuel reserve.**
+8. **The pilot must compare actual performance with the plan and update the remaining time and fuel.**
+9. **A VFR flight plan and flight following provide different services.**
+10. **A safe cross-country plan always includes a way to change the plan.**
+
+### Close
+
+A cross-country plan starts as a line on a chart.
+
+The pilot turns that line into:
+
+- A route.
+- An altitude.
+- A heading.
+- A groundspeed.
+- A time.
+- A fuel requirement.
+- A weather decision.
+- A backup plan.
+
+Then, once airborne:
+
+**compare the airplane against the plan and correct the plan when reality changes.**
+
+The objective is not to make the original plan come true.
+
+**The objective is to arrive safely.**
+
+
 
 Teach cross-country planning element by element, in the ACS order: route planning, altitude selection, plotting the course, power setting, the calculations, the flight plan, the weather decision, the flight-plan activation, compass errors, pilotage and dead reckoning, planned-versus-actual, diversion and lost procedures, intercepts, the EFB, and chart symbols. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each Knowledge element once, in order.
 

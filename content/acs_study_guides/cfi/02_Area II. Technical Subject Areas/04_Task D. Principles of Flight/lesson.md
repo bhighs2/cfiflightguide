@@ -101,6 +101,703 @@ The applicant can deliver instruction on at least three Knowledge elements from 
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in principles of flight is that the airplane behaves the way it does because of the forces acting on it, the shape and design of the airplane, and the way the pilot changes angle of attack, power, and bank.**
+
+This lesson connects the theory to what the pilot actually feels and controls.
+
+The core ideas are:
+
+- **Angle of attack controls the wing's relationship to the relative wind.**
+- **Lift, drag, thrust, and weight determine the flightpath.**
+- **Aircraft design determines stability and controllability.**
+- **Power and propeller effects create turning tendencies.**
+- **Bank and maneuvering increase load factor.**
+- **Every lifting wing creates wake vortices.**
+
+### Airfoil Design
+
+An **airfoil** is a shape designed to produce a useful aerodynamic force as air flows around it.
+
+The basic parts are:
+
+- **Leading edge** — the front of the airfoil.
+- **Trailing edge** — the rear of the airfoil.
+- **Chord line** — the straight line connecting the leading and trailing edges.
+- **Camber** — the curvature of the airfoil.
+- **Thickness** — the distance between the upper and lower surfaces.
+- **Span** — wingtip to wingtip.
+- **Aspect ratio** — wingspan compared with average chord.
+
+The airplane's airfoil and wing planform are selected based on the airplane's purpose.
+
+A trainer is designed differently from:
+
+- A fighter.
+- A glider.
+- A transport airplane.
+- An aerobatic airplane.
+
+That design choice affects:
+
+- Lift.
+- Drag.
+- Stability.
+- Stall behavior.
+- Maneuverability.
+- Efficiency.
+
+### Angle of Attack
+
+**Angle of attack, or AOA, is the acute angle between the wing's chord line and the relative wind.**
+
+This is one of the most important concepts in aviation.
+
+As AOA increases:
+
+- Lift generally increases.
+- Induced drag increases.
+- The wing gets closer to its critical AOA.
+
+Once the wing exceeds its **critical AOA**:
+
+**the wing stalls.**
+
+A stall can therefore occur at:
+
+- Any airspeed.
+- Any pitch attitude.
+- Any power setting.
+
+The stall is caused by:
+
+**exceeding critical AOA**
+
+not by reaching one particular airspeed.
+
+### How Lift Is Produced
+
+Lift is produced by the interaction between the wing and the air.
+
+Two useful ways to describe it are:
+
+#### Pressure Difference
+
+Airflow around the airfoil creates a pressure distribution.
+
+Generally:
+
+- Pressure is lower over much of the upper surface.
+- Pressure is higher beneath the wing.
+
+The resulting pressure difference contributes to lift.
+
+#### Downwash and Newton's Third Law
+
+The wing also turns the airflow downward.
+
+If the wing accelerates air downward:
+
+**the air exerts an upward reaction on the wing.**
+
+These are not competing explanations.
+
+They describe different parts of the same aerodynamic process.
+
+### Lift
+
+Lift depends on several factors:
+
+- Air density.
+- Airspeed.
+- Wing area.
+- Coefficient of lift.
+
+The coefficient of lift changes primarily with:
+
+- AOA.
+- Airfoil shape.
+- Configuration.
+
+The practical pilot takeaway is:
+
+**To maintain lift as airspeed decreases, AOA normally has to increase.**
+
+That is why slow flight brings us closer to the critical AOA.
+
+### Drag
+
+**Drag acts opposite the airplane's movement through the air.**
+
+There are two broad categories:
+
+#### Parasite Drag
+
+Parasite drag includes:
+
+- Form drag.
+- Skin-friction drag.
+- Interference drag.
+
+Parasite drag increases as airspeed increases.
+
+#### Induced Drag
+
+Induced drag is a byproduct of producing lift.
+
+It is greatest when:
+
+- Airspeed is low.
+- AOA is high.
+- The wing is producing a large amount of lift.
+
+So:
+
+**Low speed → higher AOA → more induced drag**
+
+and:
+
+**High speed → more parasite drag**
+
+The point where total drag is lowest corresponds closely to **maximum lift-to-drag ratio**.
+
+### Flaps
+
+Flaps change the shape of the wing.
+
+Depending on the design and extension, flaps generally:
+
+- Increase camber.
+- Increase lift.
+- Increase drag.
+- Change stall characteristics.
+- Change pitching moment.
+
+That lets the airplane fly slower while still producing the required lift.
+
+The tradeoff is additional drag.
+
+### Wing Planform
+
+Wing planform is the shape of the wing viewed from above.
+
+Common designs include:
+
+- Rectangular.
+- Tapered.
+- Elliptical.
+- Swept.
+
+Different planforms affect:
+
+- Efficiency.
+- Stall progression.
+- Structural design.
+- Maneuverability.
+- Stability.
+
+A rectangular wing tends to stall at the root before the tip.
+
+That is useful because it helps preserve:
+
+- Aileron effectiveness.
+- Controllability.
+
+near the stall.
+
+### Aspect Ratio
+
+**Aspect ratio is wingspan divided by average chord.**
+
+A long, narrow wing has a high aspect ratio.
+
+High aspect ratio generally means:
+
+- Lower induced drag.
+- Greater efficiency.
+
+That is why gliders typically have long, slender wings.
+
+Airplanes designed for maneuverability and structural strength may use lower aspect ratios.
+
+### The Four Forces
+
+The four forces are:
+
+**Lift. Weight. Thrust. Drag.**
+
+#### Lift
+
+Lift acts generally perpendicular to the relative wind.
+
+#### Weight
+
+Weight acts vertically downward through the center of gravity.
+
+#### Thrust
+
+Thrust acts generally forward and comes from the propulsion system.
+
+#### Drag
+
+Drag acts opposite the airplane's motion through the air.
+
+### Straight-and-Level Flight
+
+In unaccelerated straight-and-level flight:
+
+**Lift equals weight.**  
+**Thrust equals drag.**
+
+That does not mean the airplane stops moving.
+
+It means the forces are balanced, so there is no acceleration.
+
+The airplane continues forward at a constant velocity.
+
+### Climbs and Descents
+
+In a climb or descent, the force relationships are different from straight-and-level flight because the flightpath is angled.
+
+In a steady climb:
+
+- The airplane is still in equilibrium.
+- Thrust must overcome drag plus part of the airplane's weight.
+
+In a steady descent:
+
+- Weight has a component acting along the flightpath.
+- Power may be reduced while the airplane maintains airspeed.
+
+The important point is:
+
+**Steady flight means the relevant force components are balanced—not that all four forces are equal.**
+
+### Turns
+
+In a coordinated turn, banking tilts the lift vector.
+
+That creates:
+
+- A **vertical component of lift** supporting weight.
+- A **horizontal component of lift** turning the airplane.
+
+As bank increases, the vertical component becomes smaller unless total lift increases.
+
+To maintain altitude:
+
+**the pilot increases AOA and total lift.**
+
+That is why bank angle, load factor, and stall speed are connected.
+
+### Stability, Maneuverability, and Controllability
+
+These terms are related, but they do not mean the same thing.
+
+#### Stability
+
+**Stability is the airplane's tendency after it is disturbed from equilibrium.**
+
+#### Maneuverability
+
+**Maneuverability is the airplane's ability to change its flightpath and withstand the associated stresses.**
+
+#### Controllability
+
+**Controllability is the airplane's ability to respond to pilot control inputs.**
+
+An airplane can be:
+
+- Very stable but less maneuverable.
+- Very maneuverable but less stable.
+
+Aircraft design balances those characteristics for the airplane's mission.
+
+### Static and Dynamic Stability
+
+**Static stability** describes the airplane's initial response after a disturbance.
+
+- **Positive static stability:** initially moves back toward equilibrium.
+- **Neutral static stability:** initially remains in the new position.
+- **Negative static stability:** initially moves farther away.
+
+**Dynamic stability** describes what happens over time.
+
+With positive dynamic stability, the oscillations gradually decrease and the airplane returns toward equilibrium.
+
+### Longitudinal Stability
+
+Longitudinal stability is stability in **pitch**, around the lateral axis.
+
+It is strongly affected by:
+
+- CG location.
+- Wing position.
+- Horizontal tail.
+
+In a typical airplane, the CG is ahead of the aerodynamic center and the tail produces a stabilizing force.
+
+A **forward CG** generally:
+
+- Increases longitudinal stability.
+- Requires greater tail-down force.
+- Increases control forces.
+- Can increase stall speed.
+
+An **aft CG** generally:
+
+- Reduces longitudinal stability.
+- Reduces pitch-control margin.
+- Makes stall and spin recovery more difficult.
+
+That is why CG limits matter.
+
+### Lateral Stability
+
+Lateral stability is stability in **roll**, around the longitudinal axis.
+
+Contributors include:
+
+- Dihedral.
+- Sweepback.
+- Keel effect.
+- Weight distribution.
+
+With dihedral, a sideslip changes the AOA of the wings differently.
+
+The lower wing tends to develop more lift, helping return the airplane toward wings level.
+
+### Directional Stability
+
+Directional stability is stability in **yaw**, around the vertical axis.
+
+The vertical stabilizer and fuselage area behind the CG act like a weather vane.
+
+If the airplane yaws:
+
+- Relative wind strikes the side of the tail.
+- The restoring force tends to align the nose with the relative wind.
+
+### Left-Turning Tendencies
+
+A conventional single-engine airplane with a clockwise-turning propeller, viewed from the cockpit, typically experiences four major left-turning tendencies:
+
+- **Torque**
+- **Spiraling slipstream**
+- **P-factor**
+- **Gyroscopic precession**
+
+These effects vary with:
+
+- Power.
+- Airspeed.
+- AOA.
+- Aircraft design.
+
+They are usually strongest during:
+
+**high-power, low-speed, high-AOA flight.**
+
+### Torque
+
+Newton's third law tells us:
+
+**For every action, there is an equal and opposite reaction.**
+
+If the engine and propeller rotate clockwise:
+
+the airplane tends to roll counterclockwise.
+
+That creates a left-rolling tendency.
+
+During the takeoff roll, that can also increase loading on the left main wheel and contribute to a left-turning tendency.
+
+### Spiraling Slipstream
+
+The propeller creates a spiraling airflow around the fuselage.
+
+At high power and low airspeed, that spiraling flow can strike the left side of the vertical stabilizer.
+
+That pushes the tail right and yaws the nose left.
+
+The effect becomes less pronounced as forward speed increases.
+
+### P-Factor
+
+At positive AOA, the descending propeller blade has a higher effective AOA and produces more thrust than the ascending blade.
+
+That shifts the center of thrust to the right side of the propeller disc.
+
+The result is a yawing tendency to the left.
+
+P-factor is most noticeable at:
+
+- High power.
+- High AOA.
+- Low airspeed.
+
+### Gyroscopic Precession
+
+The spinning propeller behaves like a gyroscope.
+
+A force applied to the rotating propeller disc produces a reaction approximately **90° ahead in the direction of rotation**.
+
+This is especially noticeable in tailwheel airplanes when the tail is raised during takeoff.
+
+It can also appear whenever the plane of the propeller is changed rapidly.
+
+### Coordination
+
+The practical solution to all of these tendencies is:
+
+**Use the rudder required to keep the airplane coordinated.**
+
+Do not memorize a fixed amount.
+
+The required rudder changes continuously with:
+
+- Power.
+- Airspeed.
+- Pitch.
+- Bank.
+- Configuration.
+
+### Load Factor
+
+**Load factor is the ratio of the total load supported by the airplane to the airplane's weight.**
+
+It is expressed in **Gs**.
+
+At 1G:
+
+- A 200-pound pilot effectively weighs 200 pounds.
+
+At 2G:
+
+- That pilot effectively weighs 400 pounds.
+
+At 3G:
+
+- 600 pounds.
+
+The airplane structure experiences the same multiplication of load.
+
+### Load Factor in Turns
+
+In a coordinated level turn, load factor increases as bank angle increases.
+
+At approximately:
+
+- **45° bank → 1.4G**
+- **60° bank → 2G**
+
+As bank gets steeper, the increase becomes rapid.
+
+This matters for two reasons:
+
+1. **Structural load increases.**
+2. **Stall speed increases.**
+
+### Load Factor and Stall Speed
+
+Stall speed increases with the square root of load factor.
+
+So if the airplane is loaded to 2G:
+
+**stall speed is about 1.41 times the 1G stall speed.**
+
+That means an airplane can stall at a surprisingly high airspeed during:
+
+- Steep turns.
+- Abrupt pull-ups.
+- Aggressive recovery from a descent.
+
+This is an **accelerated stall**.
+
+### Maneuvering Speed — VA
+
+**VA is the design maneuvering speed.**
+
+Use the aircraft POH/AFM for the actual value.
+
+VA decreases as weight decreases.
+
+At or below the appropriate VA, under the design assumptions, a full abrupt control input in one axis should cause the airplane to stall before exceeding the positive limit load.
+
+But VA is not a guarantee against all structural damage.
+
+VA does **not** protect against:
+
+- Multiple simultaneous full-control inputs.
+- Rapid alternating control inputs.
+- Every turbulence load.
+- Exceeding other limitations.
+
+The practical rule is:
+
+**Slow down and use smooth control inputs when the airplane may be heavily loaded.**
+
+### Vg Diagram
+
+The **Vg diagram** shows the relationship between:
+
+- Airspeed.
+- Load factor.
+- Stall limits.
+- Structural limits.
+
+The curved lines represent aerodynamic stall boundaries.
+
+The horizontal limits represent structural load limits.
+
+The airplane should be operated inside the envelope.
+
+Outside the envelope:
+
+- The wing may stall.
+- The structure may be overloaded.
+
+### Wingtip Vortices
+
+Whenever a wing produces lift, a pressure difference exists between:
+
+- Higher pressure below the wing.
+- Lower pressure above the wing.
+
+Air flows around the wingtip from the high-pressure area toward the low-pressure area.
+
+That creates a rotating vortex behind each wingtip.
+
+The same process contributes to **induced drag**.
+
+### When Vortices Are Strongest
+
+Wake vortices are strongest when the generating aircraft is:
+
+**Heavy. Clean. Slow.**
+
+Why?
+
+- **Heavy:** more lift required.
+- **Clean:** greater AOA required than in a high-lift configuration.
+- **Slow:** greater AOA required.
+
+Higher AOA creates a stronger pressure differential and stronger vortices.
+
+### Wake Behavior
+
+Vortices:
+
+- Trail behind the airplane.
+- Sink below the generating aircraft's flightpath.
+- Move laterally with the wind.
+- Gradually weaken over time.
+
+A crosswind can move one vortex toward a runway or flightpath.
+
+A light tailwind can keep wake near the touchdown or rotation area longer than expected.
+
+### Wake Turbulence Avoidance
+
+When departing behind a larger aircraft:
+
+- Rotate **before** its rotation point.
+- Climb above or upwind of its flightpath when practical.
+
+When landing behind a larger aircraft:
+
+- Stay above its flightpath.
+- Touch down **beyond** its touchdown point.
+
+When operating behind another aircraft enroute:
+
+- Avoid its exact flightpath.
+- Use appropriate vertical and lateral separation.
+
+The key idea is:
+
+**Avoid the generating aircraft's wake—not just the airplane itself.**
+
+### ACS Standards — Principles of Flight
+
+The applicant should be able to teach at least three of the following ACS knowledge elements:
+
+- Airfoil design characteristics.
+- Airplane stability, maneuverability, and controllability.
+- Turning tendencies.
+- Forces acting on an airplane.
+- Load factors in airplane design.
+- Wingtip vortices and appropriate precautions.
+
+The applicant should also manage the risks associated with the basic aerodynamic principles of flight.
+
+### Common Errors — Principles of Flight
+
+- Treating stall speed as one fixed number.
+- Confusing pitch attitude with AOA.
+- Teaching Bernoulli or Newton as mutually exclusive explanations of lift.
+- Saying lift always equals weight in every phase of flight.
+- Saying all four forces are equal in a climb or descent.
+- Confusing stability with controllability.
+- Confusing maneuverability with stability.
+- Treating the four left-turning tendencies as identical.
+- Ignoring the effect of power and airspeed on rudder demand.
+- Underestimating load-factor increase in steep turns.
+- Assuming VA is always the maximum-gross-weight value.
+- Treating VA as protection against every control input or turbulence encounter.
+- Failing to connect higher load factor with higher stall speed.
+- Failing to account for wind when avoiding wake turbulence.
+- Crossing below the flightpath of a heavier aircraft without adequate wake separation.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **AOA is the common thread connecting lift, drag, and stalls.**
+2. **Lift comes from the wing changing the pressure and momentum of the airflow.**
+3. **The four forces determine the airplane's flightpath.**
+4. **Stability is not the same thing as controllability or maneuverability.**
+5. **Torque, slipstream, P-factor, and gyroscopic precession create turning tendencies.**
+6. **Higher bank means higher load factor if altitude is maintained.**
+7. **Higher load factor means higher stall speed.**
+8. **VA must come from the actual aircraft POH/AFM and changes with weight.**
+9. **Wake vortices are strongest when the generating aircraft is heavy, clean, and slow.**
+10. **A pilot should understand enough aerodynamics to predict what the airplane will do before it becomes a surprise.**
+
+### Close
+
+Principles of flight are really about understanding cause and effect.
+
+If we change:
+
+- AOA.
+- Power.
+- Bank.
+- Airspeed.
+- Configuration.
+
+the forces acting on the airplane change.
+
+Those changes affect:
+
+- Lift.
+- Drag.
+- Stability.
+- Load factor.
+- Stall margin.
+- Coordination.
+- Wake.
+
+The most important takeaway is:
+
+**Understand what force you are changing, why you are changing it, and what the airplane will do next.**
+
+
 ## AI.II.D.K1 — Airfoil Design Characteristics
 
 An **airfoil** is a surface designed to produce lift. Its key features include the **leading edge, trailing edge, chord line, camber, thickness, span, and aspect ratio**. **Angle of attack (AOA)** is the acute angle between the chord line and relative wind.

@@ -105,6 +105,494 @@ The first sign of hypoxia can be a carefree, euphoric feeling — the pilot feel
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+**The main idea in high-altitude operations with supplemental oxygen is that altitude reduces the partial pressure of oxygen, the brain may become impaired before the pilot recognizes it, and supplemental oxygen is the defense.**
+
+This lesson is about four things:
+
+- When oxygen is required.
+- What hypoxia does to the pilot.
+- How the oxygen system works.
+- How to use and manage the system safely.
+
+### Regulatory Requirements — 14 CFR §91.211
+
+The regulation is based on **cabin pressure altitude**.
+
+For unpressurized aircraft:
+
+- **Above 12,500 feet MSL through 14,000 feet MSL:** the required minimum flight crew must be provided with and use supplemental oxygen for the portion of the flight at those altitudes that exceeds **30 minutes**.
+- **Above 14,000 feet MSL:** the required minimum flight crew must be provided with and use supplemental oxygen during the entire time at those altitudes.
+- **Above 15,000 feet MSL:** each occupant must be **provided** supplemental oxygen.
+
+A simple way to state the legal minimums is:
+
+**12.5 for 30 — 14 crew — 15 all.**
+
+These are regulatory minimums.
+
+The FAA recommends considering oxygen at lower altitudes because impairment can begin before the regulation requires use.
+
+### Why Altitude Causes Hypoxia
+
+The percentage of oxygen in the atmosphere stays about the same as altitude increases.
+
+What changes is:
+
+**atmospheric pressure.**
+
+As pressure decreases:
+
+- Oxygen partial pressure decreases.
+- Less oxygen moves from the lungs into the blood.
+- The brain and other tissues receive less usable oxygen.
+
+That is **hypoxic hypoxia**.
+
+### The Four Types of Hypoxia
+
+#### Hypoxic Hypoxia
+
+Not enough oxygen pressure is available to the lungs.
+
+The aviation example is:
+
+**altitude.**
+
+#### Hypemic Hypoxia
+
+The blood cannot carry enough oxygen.
+
+Causes include:
+
+- Carbon monoxide.
+- Anemia.
+- Blood loss.
+
+Carbon monoxide is especially important because it binds to hemoglobin and prevents oxygen transport.
+
+#### Stagnant Hypoxia
+
+Oxygenated blood is not circulating adequately.
+
+Causes include:
+
+- Shock.
+- Cold.
+- Reduced cardiac output.
+- High G loading.
+
+#### Histotoxic Hypoxia
+
+The oxygen reaches the tissue, but the cells cannot use it effectively.
+
+Causes include:
+
+- Alcohol.
+- Certain drugs.
+
+### Hypoxia Symptoms
+
+Symptoms vary between individuals.
+
+Common signs include:
+
+- Euphoria.
+- Headache.
+- Impaired judgment.
+- Increased reaction time.
+- Visual impairment.
+- Drowsiness.
+- Lightheadedness.
+- Tingling.
+- Numbness.
+- Cyanosis.
+
+The dangerous part is that:
+
+**euphoria can make the pilot feel good while judgment is getting worse.**
+
+Do not wait until the symptoms feel severe.
+
+### Corrective Action for Hypoxia
+
+If hypoxia is suspected:
+
+1. **Use supplemental oxygen immediately.**
+2. Verify oxygen flow and equipment.
+3. **Descend to a lower altitude.**
+4. Continue monitoring yourself and other occupants.
+
+At altitude:
+
+**oxygen first.**
+
+### Time of Useful Consciousness
+
+**Time of useful consciousness, or TUC, is the amount of time a person can still make and carry out rational decisions after losing adequate oxygen.**
+
+TUC decreases dramatically as altitude increases.
+
+Approximate values include:
+
+- **20,000 feet:** 30 minutes or more.
+- **25,000 feet:** 3–5 minutes.
+- **30,000 feet:** 1–2 minutes.
+- **35,000 feet:** 30–60 seconds.
+- **40,000 feet:** 15–20 seconds.
+- **45,000 feet:** 9–15 seconds.
+
+The important lesson is not memorizing every number.
+
+It is:
+
+**At very high altitude, there may be only seconds to act.**
+
+### Hyperventilation
+
+**Hyperventilation is breathing too rapidly or deeply and removing too much carbon dioxide from the body.**
+
+Symptoms can resemble hypoxia:
+
+- Dizziness.
+- Tingling.
+- Visual disturbance.
+- Lightheadedness.
+- Muscle spasms.
+- Possible unconsciousness.
+
+If symptoms occur at altitude:
+
+- Verify the oxygen system first.
+- Use oxygen if appropriate.
+- Slow and normalize breathing.
+
+Hypoxia and hyperventilation can look alike.
+
+Do not diagnose by guesswork.
+
+### Night Vision and Oxygen
+
+Night vision is especially sensitive to reduced oxygen.
+
+Even before a pilot feels obviously hypoxic:
+
+- Rod function can deteriorate.
+- Peripheral vision can degrade.
+- Traffic and terrain become harder to detect.
+
+That is why FAA guidance recommends supplemental oxygen at lower altitudes at night than during the day.
+
+### Continuous-Flow Oxygen
+
+A continuous-flow system delivers oxygen continuously whether the user is inhaling or exhaling.
+
+It is common in:
+
+- General aviation.
+- Passenger systems.
+
+Many continuous-flow systems use a reservoir bag that collects oxygen during exhalation for use during the next inhalation.
+
+Advantages:
+
+- Simple.
+- Reliable.
+
+Disadvantage:
+
+- Uses oxygen continuously and therefore less efficiently.
+
+### Diluter-Demand Oxygen
+
+A diluter-demand system supplies oxygen only when the user inhales.
+
+The system can mix:
+
+- Cabin air.
+- Oxygen.
+
+The oxygen concentration increases as altitude increases.
+
+This conserves oxygen and provides more efficient delivery than continuous flow.
+
+### Pressure-Demand Oxygen
+
+Pressure-demand systems also deliver oxygen during inhalation.
+
+At very high altitudes:
+
+- Oxygen is supplied under positive pressure.
+- The system helps force oxygen into the lungs.
+
+This is required for safe operation at altitudes where simply breathing 100% oxygen at ambient pressure may not provide enough oxygen transfer.
+
+### Pulse-Demand Systems
+
+Electronic pulse-demand systems detect the start of inhalation and deliver a measured pulse of oxygen.
+
+Advantages include:
+
+- Reduced oxygen consumption.
+- Longer bottle duration.
+- Automatic altitude compensation on many systems.
+
+Use the installed system according to its instructions and limitations.
+
+### Cannula vs. Mask
+
+Cannulas are:
+
+- Comfortable.
+- Convenient.
+- Common with continuous-flow systems.
+
+Masks provide a more controlled oxygen supply and are appropriate at higher altitudes.
+
+For an aircraft certificated for operations **above 18,000 feet**, the installed oxygen system must use masks rather than cannulas.
+
+Always use the equipment approved for the system and altitude.
+
+### Aviator's Breathing Oxygen
+
+Use **aviator's breathing oxygen**.
+
+The reason is purity and moisture control.
+
+Excess moisture in oxygen can freeze at altitude and block:
+
+- Regulators.
+- Lines.
+- Valves.
+
+Do not assume industrial or medical oxygen is interchangeable with aviation oxygen.
+
+### Oxygen-System Fire Hazard
+
+Oxygen does not itself burn.
+
+But it greatly accelerates combustion.
+
+Materials that may be difficult to ignite in normal air can burn violently in an oxygen-rich environment.
+
+Never allow:
+
+- Oil.
+- Grease.
+- Petroleum products.
+
+on oxygen-system fittings.
+
+No smoking around oxygen equipment.
+
+### High-Pressure Cylinders
+
+Portable oxygen is commonly stored in high-pressure cylinders.
+
+Treat the bottle as:
+
+- A high-energy pressure vessel.
+- A fire-sensitive system.
+
+Secure it properly.
+
+Protect the valve.
+
+Do not allow the cylinder to become a loose object in the cabin.
+
+### Temperature and Bottle Pressure
+
+Cylinder pressure changes with temperature.
+
+A bottle stored in a cold area may show a lower pressure even though oxygen has not leaked out.
+
+That does not mean pressure should be ignored.
+
+It means:
+
+**interpret pressure in context and verify actual supply according to the system instructions.**
+
+### Preflight Inspection
+
+Before flight, check:
+
+- Bottle quantity.
+- Cylinder security.
+- Valve condition.
+- Regulator.
+- Tubing.
+- Mask or cannula.
+- Flow indicators.
+- Leaks or damage.
+- Accessibility.
+
+Operate the system before it is needed.
+
+Do not discover at altitude that the mask does not fit or the oxygen does not flow.
+
+### Passenger / Crew Briefing
+
+A proper briefing should include:
+
+- Where the oxygen equipment is located.
+- How to don the mask or cannula.
+- How to turn the system on.
+- How to verify flow.
+- What hypoxia symptoms may feel like.
+- What to do if the system stops working.
+- Fire precautions.
+
+The goal is for the occupant to be able to use the equipment without waiting for a detailed explanation during an emergency.
+
+### Determining Oxygen Quantity
+
+The ACS requires the applicant to determine the amount of oxygen needed for a scenario.
+
+The process is:
+
+1. Determine the planned altitude.
+2. Determine which occupants must use or be provided oxygen.
+3. Determine duration at altitude.
+4. Determine the flow rate for the installed system.
+5. Multiply flow by users and time.
+6. Verify bottle capacity is adequate.
+7. Leave a reserve.
+
+Use the actual equipment's:
+
+- Flow chart.
+- Duration table.
+- Manufacturer data.
+
+Do not estimate from another system.
+
+### Risk Management — High Altitude
+
+The core risk is:
+
+**the pilot may become impaired without realizing it.**
+
+Mitigation:
+
+- Use oxygen by altitude and procedure.
+- Know personal hypoxia symptoms.
+- Monitor the oxygen system.
+- Do not wait for impairment.
+
+### Risk Management — Supplemental Oxygen
+
+System risks include:
+
+- Empty bottle.
+- Poor fit.
+- Disconnected tubing.
+- Incorrect flow.
+- Inaccessible equipment.
+
+Mitigation:
+
+**Inspect it, test it, and brief it before takeoff.**
+
+### Risk Management — Compressed Gas
+
+A cylinder can become hazardous if:
+
+- Damaged.
+- Improperly secured.
+- Exposed to excessive heat.
+- Mishandled during servicing.
+
+Secure and protect the cylinder.
+
+### Risk Management — Combustion
+
+Oxygen-rich environments increase fire risk.
+
+Keep:
+
+- Oil.
+- Grease.
+- Open flames.
+- Smoking materials.
+
+away from oxygen equipment.
+
+### ACS Standards — Task N
+
+The applicant should be able to explain:
+
+- Regulatory oxygen requirements.
+- High-altitude impairment.
+- Hypoxia symptoms.
+- Time of useful consciousness.
+- Continuous-flow oxygen systems.
+- Demand systems.
+- Pressure-demand systems.
+- Aviator's breathing oxygen.
+- Oxygen-system precautions.
+
+The applicant should manage risks involving:
+
+- High-altitude flight.
+- Supplemental oxygen.
+- Compressed-gas containers.
+- Oxygen-rich combustion hazards.
+
+The applicant should be able to:
+
+- Brief the oxygen equipment.
+- Operate or simulate the equipment.
+- Determine the oxygen quantity needed for a scenario.
+
+### Common Errors — Task N
+
+- Waiting for hypoxia symptoms before using oxygen.
+- Using indicated altitude instead of cabin pressure altitude when applying §91.211.
+- Confusing hypoxia and hyperventilation.
+- Failing to verify oxygen flow.
+- Using a cannula beyond its limitations.
+- Using non-approved oxygen.
+- Allowing petroleum contamination on fittings.
+- Failing to secure the cylinder.
+- Misinterpreting a cold-cylinder pressure indication.
+- Failing to calculate oxygen duration for all required users.
+- Planning to use the entire oxygen supply with no reserve.
+
+### Instructor Emphasis
+
+The learner should leave the lesson understanding:
+
+1. **§91.211 establishes the legal oxygen minimums.**
+2. **Hypoxia can degrade judgment before the pilot recognizes it.**
+3. **Euphoria at altitude can be a warning sign.**
+4. **TUC collapses rapidly as altitude increases.**
+5. **Continuous-flow, demand, pressure-demand, and pulse-demand systems deliver oxygen differently.**
+6. **Use aviator's breathing oxygen.**
+7. **Oil, grease, and oxygen do not mix.**
+8. **Inspect and operate the equipment before it is needed.**
+9. **Brief occupants before flight.**
+10. **Calculate the required quantity and leave a reserve.**
+
+### Close
+
+High-altitude oxygen use comes down to one simple principle:
+
+**Do not wait until the brain tells you it needs oxygen—the brain may already be the thing that is failing.**
+
+Use oxygen by:
+
+- Regulation.
+- Procedure.
+- Personal minimum.
+
+And if hypoxia is suspected:
+
+**Oxygen on. Descend.**
 
 Teach high-altitude operations as a physiology-first subject: the air at altitude cannot feed the brain, the symptoms deceive the pilot, and the regulations and the oxygen equipment are the defense. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in ACS knowledge-element order.
 
