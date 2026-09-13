@@ -122,490 +122,621 @@ The applicant can teach and assess risk identification, assessment, mitigation, 
 [[mnemonic: I-A-M | Identify · Assess · Mitigate — repeat throughout planning and flight.]]
 
 # Teach
-
 ## Instructor Notes
 
 <div class="lesson-section-toolbar instructor-notes-toolbar">
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**Lecture through-line:** Risk management is a continuous decision-making process. The learner must be able to **recognize hazards, determine the risk those hazards create, and take appropriate action to manage that risk**. We can organize that entire process with the FAA **3P model: Perceive → Process → Perform**.
+**There is one main idea in this lesson:** risk management should become a normal part of how a pilot thinks before, during, and after every flight.
 
-**The basic flow is:**
+The learner needs to be able to **identify hazards, assess the risk those hazards create, take action to manage the risk, and reassess as conditions change.**
 
-**PERCEIVE — What hazards do we have?**
-**PROCESS — What do those hazards mean to us?**
-**PERFORM — What are we going to do about them?**
+The FAA gives us a practical way to organize that process:
 
-Then, as conditions change, we repeat the process.
+**PERCEIVE → PROCESS → PERFORM**
 
-**Governing instructor principle:** **Teach the decision process, not simply the checklist.** PAVE, CARE, TEAM, risk matrices, and FRATs organize the learner’s thinking. The goal is a learner who can recognize changing hazards, assess their significance, choose an appropriate response, and reassess when the situation changes.
+or simply:
 
-### 1. Teaching Risk Identification, Assessment, and Mitigation — 3P
+**What hazards do I have? → What do they mean? → What am I going to do about them?**
 
-- **Risk management begins by identifying operational hazards, assessing the risk they create, and determining what can be done to reduce that risk.**
-- **A hazard is a real or potential condition that can cause injury, illness, death, damage, loss, or degradation.**
-    - **Aviation example:** A strong crosswind is a hazard. So are fatigue, deteriorating weather, unfamiliar avionics, an aircraft discrepancy, or pressure to reach the destination.
-- **Once we identify a hazard, we assess the risk by looking at likelihood and severity.**
-    - **Likelihood:** How likely is the undesirable outcome?
+The instructor's job is not merely to teach a checklist. The goal is to help the learner develop risk management as a **habit** that eventually becomes part of normal aeronautical decision-making.
+
+**So we start with the most basic question: what is the learner actually doing when they manage risk?**
+
+### 1. Teaching Risk Identification, Assessment, and Mitigation
+
+- **Risk management starts with identifying hazards.**
+- A hazard is a real or potential condition that can lead to injury, damage, loss, or reduced safety.
+- In aviation, hazards might include:
+    - Fatigue.
+    - Deteriorating weather.
+    - Limited fuel.
+    - Unfamiliar avionics.
+    - High density altitude.
+    - A learner performing a maneuver incorrectly.
+    - External pressure to complete the flight.
+
+- **Once we identify a hazard, we assess the risk it creates.**
+- The FAA risk-management process considers two basic questions:
+    - **Likelihood:** How likely is the unwanted outcome?
     - **Severity:** How serious would the consequences be?
+
 - **Then we mitigate the risk.**
-    - Reduce the likelihood.
-    - Reduce the severity.
-    - Eliminate the hazard.
-    - Transfer the risk.
-    - Or consciously accept the remaining risk when appropriate.
-- **Risk management is cyclic.** We do not make one decision during preflight and assume it remains valid for the rest of the flight.
-- **The 3P model gives us a simple way to teach that continuous process:**
+- Mitigation reduces:
+    - The likelihood that the event will happen.
+    - The severity of the consequences.
+    - Or both.
+
+- **Risk management is continuous.**
+- A decision made during preflight does not remain valid automatically for the rest of the flight.
+- Weather changes.
+- The learner becomes fatigued.
+- Traffic increases.
+- An aircraft discrepancy appears.
+- A new hazard may require a new decision.
+
+- **The FAA's 3P model organizes that continuous process:**
+
 **Perceive → Process → Perform**
 
----
+- **Perceive:** Identify the hazards.
+- **Process:** Determine the risk those hazards create.
+- **Perform:** Take action to manage the risk.
 
-#### PERCEIVE — PAVE
+- **And then repeat the process as the situation changes.**
 
-- **Perceive means identify the hazards before they surprise us.**
-- **PAVE gives us four broad categories to systematically search for them:**
-**Pilot · Aircraft · enVironment · External Pressures**
+- **So the basic process is simple: identify the hazard, determine what risk it creates, take action, and then reassess. The next problem is making sure the learner can do that systematically without overlooking an entire category of risk. That is where the FAA's risk-management tools come in.**
 
-##### P — Pilot
+### 2. Teaching Risk Management Tools — PAVE, CARE, TEAM, Risk Matrices, and FRATs
 
-- **Pilot means the condition and capability of the people operating the aircraft.**
-- During dual instruction, that includes **both the learner and the instructor.**
-- Consider:
-    - Qualification
-    - Currency
-    - Proficiency
-    - Aeromedical condition
-- **IMSAFE helps us examine the aeromedical side:**
-**Illness · Medication · Stress · Alcohol · Fatigue · Emotion**
-- **Aviation example:** The learner may be rested and ready, but the instructor may be fatigued after several lessons. That is still a Pilot hazard.
-- **IMSAFE is only part of Pilot.** We also have to ask whether we are qualified, current, and proficient for the operation being attempted.
+- **PERCEIVE — PAVE**
 
-##### A — Aircraft
+    **PAVE helps us identify hazards in four broad categories:**
 
-- **Aircraft means more than asking whether the airplane can legally fly.** We need to determine whether it is suitable and capable for this particular operation.
-- **Use DIE to organize the Aircraft review:**
-**Documents · Inspections · Equipment**
-- **Documents → SARROW**
-    - Use SARROW to verify the required aircraft documents.
-- **Inspections → GA AV1ATES**
-    - Use GA AV1ATES to review the required inspections and aircraft status.
-- **Equipment**
-    - Is the required equipment installed?
-    - Is it operative?
-    - Is the equipment appropriate for the planned operation?
-    - Are there discrepancies or limitations we need to consider?
-- **Then look beyond legal airworthiness.**
-    - Performance
-    - Fuel
-    - Weight and balance
-    - Payload
-    - Aircraft capability
-    - Familiarity with systems and avionics
-- **Aviation example:** The airplane may be legally airworthy, but a high-density-altitude departure near maximum gross weight may still create unacceptable performance risk.
-- **So the Aircraft question is not simply, “Is it legal?” It is, “What aircraft-related hazards exist for this flight?”**
+    **Pilot · Aircraft · enVironment · External Pressures**
 
-##### V — enVironment
+    - **Pilot**
 
-- **Environment includes everything around the operation.**
-- **Use NW KRAFT as the preflight-information sweep.**
-- Then consider the broader operational environment:
-    - Weather
-    - Airports and runways
-    - Terrain
-    - Airspace
-    - Traffic
-    - Night operations
-- **Aviation example:** A 10-knot wind may not sound significant until we discover it is a direct crosswind on a narrow runway for a learner with little crosswind experience.
-- **The environment is therefore more than weather.** It is the complete set of conditions in which we intend to operate.
+        - **Pilot risk includes both qualification and aeromedical condition.**
+        - During dual instruction, the Pilot category includes **both the learner and the instructor.**
+        - Consider:
+            - Qualification.
+            - Currency.
+            - Proficiency.
+            - Familiarity with the aircraft and avionics.
+            - Physical and mental condition.
 
-##### E — External Pressures
+        - **IMSAFE is an FAA tool for assessing physical and mental readiness:**
 
-- **External pressures are influences that push us toward completing the flight even when the risk picture suggests we should change the plan.**
-- **Get-there-itis is the classic example.**
-    - Someone is waiting.
-    - We want to get home.
-    - We want to complete the lesson.
-    - A checkride is approaching.
-    - We do not want to disappoint passengers.
-- **Aviation example:** Weather is deteriorating, but the learner says, “We’re already almost there.”
-- Nothing about the weather improved. **The pressure to complete the flight is now influencing the decision.**
-- **Get-there-itis becomes dangerous when the goal begins driving the risk analysis instead of the risk analysis driving the decision.**
-- **PAVE answers the Perceive question: what hazards do we have? But finding a hazard does not tell us how significant it is. Now we have to Process it.**
+            **Illness · Medication · Stress · Alcohol · Fatigue · Emotion**
 
----
+        - **Aviation example:** The learner may be rested and ready, but the instructor may be fatigued after several lessons. That is still a Pilot hazard.
+        - **IMSAFE is only part of the Pilot assessment.**
+        - We also have to ask whether both people are qualified, current, proficient, and familiar with the operation being attempted.
 
-#### PROCESS — CARE
+    - **Aircraft**
 
-- **Process means evaluate the hazards we perceived and determine what they mean to this particular flight.**
-- **CARE gives us a way to work through that analysis:**
-**Consequences · Alternatives · Reality · External Pressures**
+        - **Aircraft risk asks whether the airplane is appropriate and capable for this flight.**
+        - Consider:
+            - Airworthiness.
+            - Equipment.
+            - Aircraft limitations.
+            - Performance.
+            - Fuel.
+            - Payload.
+            - Weight and balance.
+            - Familiarity with systems and avionics.
 
-##### Consequences
+        - **Aviation example:** An airplane may be airworthy but still have limited performance for a high-density-altitude departure near maximum weight.
+        - **The question is not only, "Can the airplane legally fly?"**
+        - It is also, **"What risk does this aircraft create for this particular operation?"**
 
-- **What could happen if this hazard develops into an undesirable event?**
-- Think about severity.
-- **Aviation example:** A stronger-than-forecast headwind may mean arriving late. Continuing until fuel reserves become critically low has much more serious consequences.
+    - **enVironment**
 
-##### Alternatives
+        - **Environment includes the conditions in which the flight will operate.**
+        - Consider:
+            - Weather.
+            - Terrain.
+            - Airports and runways.
+            - Airspace.
+            - Traffic.
+            - Visibility.
+            - Night conditions.
+            - Other environmental factors that affect the operation.
 
-- **What other choices are available?**
-    - Delay.
-    - Divert.
-    - Change runways.
-    - Change route.
-    - Change altitude.
-    - Add fuel.
-    - Cancel.
-- **Good risk management usually improves when the learner recognizes that there is more than one possible course of action.**
+        - **Aviation example:** A crosswind may be acceptable for an experienced instructor but create substantial risk for a presolo learner with little crosswind experience.
 
-##### Reality
+    - **External Pressures**
 
-- **What is actually happening—not what we expected or hoped would happen?**
-    - What are the current conditions?
-    - Is the weather actually improving?
-    - Is the learner performing at the level expected?
-    - Is the aircraft behaving as anticipated?
-- **Aviation example:** The forecast called for improving visibility, but every observation along the route is getting worse. The decision should be based on the actual trend, not the original expectation.
+        - **External pressures are influences that encourage continuation even when the risk picture is deteriorating.**
+        - Examples include:
+            - Schedule pressure.
+            - Passengers waiting.
+            - A desire to get home.
+            - A checkride approaching.
+            - Work or family commitments.
+            - Financial concerns.
 
-##### External Pressures
+        - **The danger is allowing the desired outcome to drive the decision instead of allowing the risk assessment to drive the decision.**
 
-- **Ask again whether pressure is distorting the analysis.**
-    - “I need to get home.”
-    - “The checkride is next week.”
-    - “The passengers are waiting.”
-    - “We already paid for the airplane.”
-- External pressure appears in both the **Perceive and Process** portions because we first recognize that the pressure exists and then ask how much it is influencing our judgment.
-- **A risk matrix can help us Process the risk by considering likelihood and severity.**
-- The matrix helps organize the thinking, but the learner still has to exercise judgment.
-- **The score or category is not the decision.** It helps us understand the risk so we can make the decision.
-- **Now we have identified the hazard and determined what it means. The next question becomes: what are we actually going to do about it?**
+    - **PAVE gives us the inventory of hazards, but simply identifying a hazard does not tell us whether it is minor, significant, or unacceptable. Once we know what is present, the learner has to decide what those hazards actually mean for this flight. That moves us from Perceive to Process.**
 
----
+- **PROCESS — CARE**
 
-#### PERFORM — TEAM
+    **CARE supports the Process step:**
 
-- **Perform means take action to manage the risk.**
-- **TEAM gives us four broad responses:**
-**Transfer · Eliminate · Accept · Mitigate**
+    **Consequences · Alternatives · Reality · External Pressures**
 
-##### Transfer
+    - **Consequences**
+        - What could happen if this hazard leads to an unwanted outcome?
 
-- **Move the risk to another person, operation, or method better equipped to handle it.**
-- **Aviation example:** Conditions exceed what is reasonable for the planned GA flight, so use another form of transportation.
+    - **Alternatives**
+        - What other choices are available?
 
-##### Eliminate
+    - **Reality**
+        - What are the actual conditions right now?
 
-- **Remove the hazard or stop the activity creating the risk.**
-- **Aviation example:** The ceiling does not provide adequate altitude for the planned maneuver, so do not perform the maneuver.
+    - **External Pressures**
+        - Is pressure to complete the flight affecting the decision?
 
-##### Accept
+    - **Aviation example:** The forecast called for improving visibility, but observations along the route continue to deteriorate.
+        - **Consequences:** What happens if visibility continues to worsen?
+        - **Alternatives:** Divert, delay, land, or change the plan.
+        - **Reality:** The actual trend is worse than forecast.
+        - **External Pressures:** Are we continuing mainly because we want to reach the destination?
 
-- **Consciously accept the remaining risk after it has been identified and assessed.**
-- Acceptance is not:
-    - Ignoring the hazard.
-    - Failing to consider alternatives.
-    - Continuing because “it will probably be fine.”
-- **Acceptance comes after analysis.**
+    - **A risk assessment matrix can also help organize the Process step by comparing likelihood and severity.**
+        - The matrix supports judgment; it does not replace judgment.
 
-##### Mitigate
+    - **At this point the learner should understand both the hazard and its significance. But risk management is incomplete until that analysis changes what we actually do. That takes us to Perform.**
 
-- **Reduce either the likelihood or severity of the risk.**
-    - Change route.
-    - Wait for better weather.
-    - Add fuel.
-    - Reduce payload.
-    - Use another runway.
-    - Take an instructor.
-    - Increase altitude or maneuvering margin.
-- **Aviation example:** Crosswind conditions are challenging but manageable if we use the longer runway more closely aligned with the wind.
-- **And after we Perform, we do not stop thinking. Conditions change, so we return to Perceive and run the process again.**
-**PERCEIVE — PAVE → PROCESS — CARE → PERFORM — TEAM → Repeat**
+- **PERFORM — TEAM**
 
-- **That gives the learner the risk-management process. The next ACS knowledge element asks us to look more closely at the tools that support that process.**
+    **TEAM supports the Perform step:**
 
----
+    **Transfer · Eliminate · Accept · Mitigate**
 
-### 2. Teaching Risk Management Tools — PAVE, Risk Matrices, and FRATs
+    - **Transfer**
+        - Move the risk to another person, operation, or method better equipped to handle it.
+        - Examples:
+            - Use another form of transportation.
+            - Use a more capable pilot or aircraft when appropriate.
 
-- **Risk-management tools help organize the process; they do not replace judgment.**
-- **PAVE supports Perceive.**
-    - It helps make sure broad hazard categories are not overlooked.
-- **CARE supports Process.**
-    - It helps evaluate what the identified hazards mean.
-- **TEAM supports Perform.**
-    - It helps select an appropriate response.
-- **A risk matrix supports Process by organizing likelihood and severity.**
+    - **Eliminate**
+        - Remove the hazard or stop the activity.
+        - Examples:
+            - Cancel the flight.
+            - Do not perform a maneuver when adequate safety margins do not exist.
 
-#### FRAT
+    - **Accept**
+        - Consciously accept the remaining risk after it has been identified and assessed.
+        - Acceptance is **not** ignoring the hazard.
 
-- **A Flight Risk Assessment Tool records hazards and associated risk during planning.**
-- A **numerical FRAT** may assign values and establish thresholds for:
-    - Additional scrutiny
-    - Additional mitigation
-    - Management approval
-- **But a low total score does not automatically mean the flight is safe.**
-    - One severe hazard may dominate the risk picture.
-    - A hazard may not even appear on the form.
-- **Aviation example:** Nearly every FRAT item may score low, but an extreme weather hazard across the route does not become acceptable because the total score is still below a numerical threshold.
-- **A narrative FRAT focuses directly on:**
-    - Hazard
-    - Risk
-    - Likelihood
-    - Severity
-    - Mitigation
-- **The value of the FRAT is structured analysis—not the number at the bottom.**
-- **A learner who completes a form but cannot explain the hazards, consequences, and mitigations has completed paperwork, not risk management.**
-- **Now that the learner has the process and tools, the next ACS question is when we should begin teaching risk management. The answer is: before the first flight.**
+    - **Mitigate**
+        - Reduce likelihood or severity.
+        - Examples:
+            - Delay.
+            - Change route.
+            - Add fuel.
+            - Use another runway.
+            - Increase altitude or operating margin.
 
----
+    - **The decision is not the end of the process. Once we act, we watch the result and ask whether the new plan actually produced an acceptable risk picture. If anything changes, we begin again.**
 
-### 3. When and How to Introduce Risk Management — Start at the Beginning
+    **PERCEIVE — PAVE → PROCESS — CARE → PERFORM — TEAM → Repeat**
 
-- **Risk management should be introduced before the first instructional flight and integrated into every flight thereafter.**
-- It should not exist only as a separate ground-school subject.
+- **Flight Risk Assessment Tools — FRATs**
+
+    - **PAVE, CARE, and TEAM organize the pilot's thinking. A FRAT gives us another way to document and structure that same analysis, especially as the operation becomes more complex.**
+
+    - **A FRAT provides a more structured way to identify and assess risk.**
+    - A FRAT may be:
+        - Numerical.
+        - Non-numerical or narrative.
+
+    - **The FAA warns against treating a numerical score as the decision itself.**
+        - One significant hazard may still require mitigation even if the total score remains below a threshold.
+        - A hazard may also exist that is not listed on the form.
+
+    - **The value of the FRAT is the structured analysis—not merely the number at the bottom.**
+    - **A learner who completes the form but cannot explain the hazards, risks, and mitigations has completed paperwork, not effective risk management.**
+
+- **Knowing the tools is only useful if they become part of normal flight behavior. So the next question is not what tool comes next—it is when the learner should start using this process. The FAA's answer is from the very beginning.**
+
+### 3. When and How to Introduce Risk Management
+
+- **Risk management should be introduced before the first flight lesson.**
+- It should be integrated into:
+    - Ground instruction.
+    - Preflight briefings.
+    - Flight instruction.
+    - Postflight briefings.
+
 - **Before flight:**
-    - What hazards exist today?
-    - Which ones matter?
+    - What hazards exist?
+    - What risk do they create?
     - What are we going to do about them?
+
 - **During flight:**
     - What changed?
     - Did a new hazard appear?
-    - Has the risk increased?
-    - Does the original decision still make sense?
+    - Has the likelihood or severity changed?
+    - Does the original plan still make sense?
+
 - **After flight:**
     - What hazards did we identify correctly?
     - What did we miss?
-    - Was the mitigation effective?
-    - What would we do differently next time?
-- **Aviation example:** Before a local lesson, discuss wind, density altitude, learner fatigue, traffic, and aircraft status. If the wind increases or the learner becomes overloaded during flight, reassess rather than relying on the original preflight decision.
-- **Learner participation should increase with experience.**
-    - Early training: instructor leads the discussion.
-    - Later training: learner increasingly identifies, assesses, and explains the risks.
-- **Risk-management training continues after initial certification.**
-    - Transition training
-    - Recurrent training
-    - Flight reviews
-    - Instrument proficiency
-    - Currency training
-- **The objective is to make 3P normal flight thinking—not a special exercise performed only when an instructor asks for it.**
-- **But we do not expect a beginning learner to perform the entire process independently. Like every other aviation skill, risk-management responsibility should increase as experience and proficiency increase.**
+    - Was our mitigation effective?
+    - What should we do differently next time?
 
----
+- **Learner participation should increase as experience increases.**
+    - Early in training, the instructor demonstrates and guides the process.
+    - Later, the learner increasingly identifies hazards, assesses risk, and explains decisions.
 
-### 4. Risk Management Teaching Techniques by Phase of Instruction — Transfer Responsibility Gradually
+- **Risk-management training does not end at certification.**
+- It should continue during:
+    - Recurrent training.
+    - Transition training.
+    - Flight reviews.
+    - Instrument proficiency checks.
+    - Other proficiency and currency events.
 
-- **Use a building-block approach.**
+- **The FAA's goal is for risk management to become intuitive and continuous—not a special exercise performed only when an instructor asks for it.**
 
-#### Before Solo
+- **That does not mean a first-hour learner should manage risk at the same level as a cross-country student or an instrument pilot. Just like aircraft control, risk management is taught progressively. The instructor carries more of the process early, then transfers responsibility as the learner becomes capable.**
 
-- **Instructor-led and guided.**
-    - Explain the process.
-    - Demonstrate the analysis.
-    - Ask the learner to participate.
-    - Introduce a simple, non-numerical FRAT or similar method.
-- **Aviation example:** “The winds are 12 gusting 20. Where does that appear in PAVE, and what concerns does it create for us?”
+### 4. Risk Management Teaching Techniques by Phase of Instruction
 
-#### By First Solo
+- **The Aviation Instructor's Handbook recommends a building-block approach.**
 
-- **The learner should be able to conduct a basic risk analysis.**
-- The instructor still reviews it and determines whether the flight is appropriate.
+- **Pre-Solo**
 
-#### After Solo
+    - **Risk management is instructor-led and guided.**
+    - It should be part of every preflight and postflight briefing.
+    - The learner should be introduced to a **non-numerical FRAT** or similar structured analysis.
+    - The instructor demonstrates how to use it during the first flights.
+    - **By first solo, the learner should be able to conduct a basic risk-management analysis.**
 
-- **The learner assumes more responsibility.**
-    - Conduct the analysis.
-    - Explain the decision.
-    - Review the risk-management aspects of the flight afterward.
-- The instructor uses the debrief to identify hazards the learner recognized or missed.
+- **Post-Solo Before Cross-Country**
 
-#### Cross-Country Training
+    - **The learner should increasingly perform the risk analysis with only occasional coaching.**
+    - The instructor reviews risk analysis for solo flights.
+    - After the flight, the learner should debrief the risk-management aspects of the operation.
 
-- **Require a more complete analysis for both dual and solo cross-country flights.**
-- The learner now has to account for additional complexity:
-    - Weather
-    - Fuel
-    - Terrain
-    - Unfamiliar airports
-    - Airspace
-    - Distance
-    - Alternate options
-    - External pressures
+- **Cross-Country Training**
 
-#### Transition, Instrument, Recurrent, and Proficiency Training
+    - **The learner should perform a more complete risk analysis.**
+    - Cross-country risk may include:
+        - Weather.
+        - Terrain.
+        - Fuel.
+        - Unfamiliar airports.
+        - Complex airspace.
+        - Night operations.
+        - External pressures.
 
-- **Build scenarios around the pilot’s actual operating profile.**
-    - New airplane
-    - More complex systems
-    - New avionics
-    - IFR
-    - Higher speeds
-    - More challenging airspace
-- **Scale the amount of analysis to the complexity of the flight.**
-    - Local flight: perhaps an abbreviated PAVE review.
-    - Complex cross-country: potentially a full FRAT.
-- **The progression is:**
-**Instructor demonstrates → Instructor guides → Learner leads → Instructor reviews**
-- **So far we have been teaching the learner how to manage the risks of flying. But flight instruction itself creates additional hazards because the instructor is intentionally allowing a less-proficient person to operate the aircraft.**
+    - The FAA recommends a full analysis for dual and solo cross-country flights, using a FRAT or another structured method.
 
----
+- **Instrument, Transition, Recurrent, and Proficiency Training**
+
+    - **Risk-management scenarios should match the pilot's actual or intended operating profile.**
+    - Instrument training should address the additional hazards associated with IMC and complex weather.
+    - Transition training should address:
+        - New aircraft systems.
+        - Avionics.
+        - Different performance.
+        - Abnormal and emergency procedures.
+        - Automation management.
+        - Workload management.
+        - Situational awareness.
+
+    - Recurrent and proficiency training should use realistic scenarios that reflect how the pilot actually operates.
+
+- **The level of formal analysis should match the complexity of the flight.**
+    - A local flight may use an abbreviated PAVE review.
+    - A more complex flight may justify a complete FRAT.
+
+- **The progression is simple:**
+
+    **Instructor demonstrates → Instructor guides → Learner leads → Instructor reviews**
+
+- **Up to this point, the emphasis has been on developing the learner's ability to manage the risks of a flight. But instructional flying creates a second problem: while the learner is learning to manage risk, the instructor is deliberately allowing a less-proficient pilot to manipulate the aircraft. The instructor therefore has to manage the risk of the training environment at the same time.**
 
 ### 5. Managing Risk During Flight Instruction
 
-#### Common Flight-Instruction Risks
+- **The same risk-management process applies during instruction, but some hazards are unique to the instructional environment.**
 
-- **The same PAVE process applies to the instructional operation, but now the learner’s actions themselves are also a hazard the instructor has to manage.**
-- A learner may:
-    - Make an incorrect control input.
-    - Mismanage configuration.
-    - Misunderstand an instruction.
-    - Fixate.
-    - Freeze.
-    - Apply the wrong procedure.
-    - Allow aircraft state to deteriorate.
-- **Pilot**
-    - Learner and instructor qualifications
-    - Currency
-    - Proficiency
-    - IMSAFE
-    - Anxiety
-    - Fatigue
-    - Workload
-- **Aircraft**
-    - Airworthiness
-    - Performance
-    - Payload
-    - Fuel
-    - Equipment
-    - Familiarity with avionics and systems
-- **Environment**
-    - Weather
-    - Terrain
-    - Night
-    - Airport
-    - Airspace
-    - Traffic
-- **External pressures**
-    - Finishing the lesson
-    - Reaching solo
-    - Upcoming checkride
-    - Scheduling
-    - Financial considerations
-- **Aviation example:** A learner arrives for an important presolo lesson after very little sleep. Weather and aircraft may be excellent, but the Pilot portion of PAVE has changed significantly.
+- The FAA identifies several basic ways to reduce instructional risk:
+    - Give appropriate training before asking the learner to perform the maneuver.
+    - Choose practice locations that provide safe options.
+    - Use sufficient altitude.
+    - Stay alert for unexpected learner actions and external hazards.
+    - Be prepared to take control of the aircraft.
 
-#### Best Practices
+- **The instructor must maintain situational awareness of both the flight and the learner.**
+    - What is the aircraft doing?
+    - What is the learner doing?
+    - What is the learner planning to do?
+    - Where is the aircraft?
+    - What is the traffic doing?
+    - What is the weather doing?
+    - What is happening in the surrounding airspace and environment?
 
-- **Conduct a risk analysis before providing flight instruction and include the learner in it.**
-- Choose:
-    - Appropriate practice area
-    - Adequate altitude
-    - Adequate maneuvering room
-    - Appropriate conditions for the task
-- **Before flight, verify aircraft airworthiness and review discrepancies.**
-- Resolve maintenance questions when necessary.
-- **During flight, continuously monitor:**
-    - Learner actions
-    - Learner cognitive and physiological state
-    - Aircraft state
-    - Weather
-    - Traffic
-    - Airspace
-    - Terrain
-    - Changing conditions
-- **Be prepared to take the controls.**
-- **Observe enough to identify the learning need, but intervene when safety requires it.**
-- **Aviation example:** A learner begins making an incorrect stall recovery at a safe altitude. The instructor may allow enough time to see whether the learner recognizes and corrects the problem—but not enough time to allow an unsafe condition to develop.
-- **The goal is learning with an appropriate safety margin, not creating danger just to see what the learner will do.**
+- **Common Flight-Instruction Risks**
 
-#### Special Considerations During Takeoffs and Landings
+    - **Pilot Risks**
 
-- **Takeoffs and landings deserve additional attention because they combine low altitude, low speed, traffic, configuration changes, and high workload.**
-- **Brief complex information before entering the runway.**
-    - Rotation
-    - Crosswind correction
-    - Expected performance
-    - Abort considerations
-    - Initial climb
-- **Once the takeoff begins, protect aircraft control and runway clearance.**
-- **Do not attempt to give a long lecture during the takeoff roll.**
-- **During approach and landing, use concise cues.**
-    - “Airspeed.”
-    - “Alignment.”
-    - “Right rudder.”
-- Detailed explanations can wait until workload is lower.
-- **Excessive instruction during high-workload phases can interfere with:**
-    - Aircraft control
-    - Collision avoidance
-    - Radio communication
-    - Situational awareness
-- **Teach the learner to respond to actual conditions rather than mechanically repeat the maneuver.**
-    - Current wind
-    - Runway
-    - Aircraft
-    - Environment
-    - Expected performance
-- **Maintain adequate spacing and anticipate likely learner errors.**
-- **Flight instruction therefore creates two simultaneous risk-management tasks: the learner is learning to manage the risk of the flight, while the instructor is managing the additional risk created by the instructional environment itself.**
-- **The final ACS knowledge element asks us to turn all of this hazard identification and risk mitigation into actual aeronautical decisions.**
+        - **Pilot risk includes both the learner and the instructor.**
+        - The learner will normally be less proficient than the instructor.
+        - The instructor may also have:
+            - Currency issues.
+            - Proficiency issues.
+            - Aircraft or avionics unfamiliarity.
+            - Aeromedical concerns.
 
----
+        - **The instructor should continuously monitor personal fitness using IMSAFE and remain alert to the learner's physical and mental condition.**
+        - **The learner may make mistakes.**
+        - The instructor must provide enough:
+            - Time.
+            - Altitude.
+            - Distance.
+            - Maneuvering space.
+          to allow practice while preserving enough margin to intervene safely.
 
-### 6. Aeronautical Decision-Making, CRM, and SRM — Put Risk Management Into Action
+    - **Aircraft Risks**
 
-- **ADM is where the risk-management process becomes an operational decision.**
-- **Scenario-Based Training gives the learner realistic opportunities to make those decisions.**
-- The learner should:
+        - **Training aircraft can create risks related to:**
+            - Inoperative equipment.
+            - Overdue inspections.
+            - Maintenance discrepancies.
+            - Limited payload.
+            - Reduced fuel caused by payload limits.
+            - Marginal high-density-altitude performance.
+
+        - **The instructor should know the aircraft's airworthiness status and resolve questions before flight.**
+        - The learner should be included in that process when practical.
+
+    - **Environmental Risks**
+
+        - **Training environments may introduce risk from:**
+            - Congested practice areas.
+            - Reduced visibility.
+            - Complex or restricted airspace.
+            - Terrain.
+            - Weather.
+            - Concentrations of aircraft on common practice or approach paths.
+
+        - Certain training events themselves create additional hazards:
+            - Full stalls may result in inadvertent spins.
+            - Simulated engine failures can become real emergencies if poorly managed.
+            - Practice approaches may concentrate traffic.
+
+    - **External Pressure Risks**
+
+        - **Learners may face pressure from:**
+            - Scheduling.
+            - Aircraft availability.
+            - Weather delays.
+            - Work.
+            - Family.
+            - Finances.
+            - Training milestones.
+
+        - These pressures may produce:
+            - Distraction.
+            - Anxiety.
+            - Reduced performance.
+
+- **Best Practices**
+
+    - **Conduct a risk analysis before providing instruction.**
+    - **Include the learner in the risk-management process during dual instruction.**
+    - Both instructor and learner should understand their role in:
+        - Collision avoidance.
+        - Aircraft airworthiness.
+        - Weather decisions.
+        - NOTAMs and TFRs.
+        - Airspace awareness.
+        - Other operational risks.
+
+    - **The instructor should be familiar with the aircraft and avionics before teaching in them.**
+    - **Aircraft discrepancies should be reviewed and unresolved airworthiness questions addressed before flight.**
+
+    - **During flight, maintain awareness of:**
+        - Learner actions.
+        - Learner cognitive and physiological state.
+        - Aircraft state.
+        - Traffic.
+        - Weather.
+        - Airspace.
+        - Terrain.
+        - Unexpected events.
+
+    - **Observe enough to allow learning, but intervene when safety requires it.**
+    - **The objective is not to see how far the learner can let a situation deteriorate.**
+    - The objective is meaningful practice with an adequate margin for safe instructor intervention.
+
+- **Special Considerations While Teaching Takeoffs and Landings**
+
+    - **Takeoffs and landings create additional risk because they occur close to the ground with limited time and reduced margins.**
+
+    - During takeoff instruction:
+        - Teach and brief complex information before entering the high-workload phase.
+        - Maintain awareness of aircraft control, runway environment, traffic, and collision avoidance.
+        - Be prepared for unexpected learner control inputs.
+
+    - **Avoid excessive teaching while the learner is performing a high-workload takeoff or landing.**
+    - Too much instruction can reduce attention available for:
+        - Aircraft control.
+        - Collision avoidance.
+        - Radio communication.
+        - Situational awareness.
+
+    - **During approach and landing, use concise prompting when necessary.**
+    - Detailed teaching can occur before the approach or after workload decreases.
+
+    - **Do not teach landings mechanically.**
+    - The learner should make control, power, configuration, aiming-point, and touchdown-point decisions based on:
+        - What the aircraft is actually doing.
+        - The landing being attempted.
+        - Current environmental conditions.
+        - Expected aircraft performance.
+
+    - **The instructor should anticipate common learner errors and maintain enough margin to intervene safely.**
+
+- **Flight instruction therefore creates two simultaneous risk-management tasks:**
+    - The learner is learning to manage flight risk.
+    - The instructor is managing the additional risk created by the training environment itself.
+
+- **Many of those instructional hazards are not mechanical or environmental at all. They come from the way people think, react, divide attention, and make decisions under workload. So the next layer of instructional risk is human behavior and situational awareness.**
+
+### 6. Human Behavior, Situational Awareness, and Instructional Risk
+
+- **Human behavior can create or amplify risk.**
+- The ACS specifically requires recognition and management of hazards arising from human behavior, including hazardous attitudes.
+
+- The FAA identifies five hazardous attitudes:
+    - **Anti-authority**
+    - **Impulsivity**
+    - **Invulnerability**
+    - **Macho**
+    - **Resignation**
+
+- **The instructor should recognize when an attitude is influencing a decision and redirect the learner toward objective risk analysis and sound ADM.**
+
+- **Situational awareness is also central to instructional risk management.**
+- Obstacles include:
+    - Excessive instruction during high-workload phases.
+    - Unnecessary distractions.
+    - Fixation.
+    - Task overload.
+    - Failure to monitor the learner while teaching.
+    - Failure to monitor the aircraft or environment while watching the learner.
+
+- **The instructor must divide attention between teaching and operating safely.**
+- Instruction never removes the instructor's responsibility to maintain awareness of:
+    - Aircraft attitude and energy state.
+    - Position in space.
+    - Traffic.
+    - Weather.
+    - Airspace.
+    - Terrain.
+    - Learner actions.
+    - Changing circumstances.
+
+- **Recognizing those human-factor threats is important, but recognition by itself still does not produce a safe outcome. The learner has to turn awareness into an actual decision, use the resources available, and then apply that judgment in realistic situations. That is where risk management connects directly to ADM, CRM/SRM, and scenario-based training.**
+
+### 7. ADM, CRM, SRM, and Scenario-Based Training
+
+- **Aeronautical Decision-Making is the practical use of judgment to select a safe course of action.**
+- Risk management supports ADM by giving the pilot a repeatable way to identify hazards, assess risk, and choose controls.
+
+- **CRM applies resource-management principles in a crew environment.**
+- **SRM applies those same principles to single-pilot operations.**
+
+- Available resources may include:
+    - ATC.
+    - Automation.
+    - Avionics.
+    - Weather information.
+    - Checklists.
+    - Passengers.
+    - Other pilots.
+    - Outside assistance.
+
+- **The resource supports judgment; it does not replace judgment or situational awareness.**
+
+- **Scenario-Based Training should be used to teach and assess ADM and risk management.**
+- The scenario should be realistic and appropriate to the learner's level.
+
+- The learner should have to:
     - Identify hazards.
-    - Evaluate available options.
+    - Assess the risks.
+    - Consider alternatives.
     - Choose a course of action.
     - Explain the reasoning.
-    - Reassess when circumstances change.
-- **The 3P model fits directly into the scenario:**
-**PERCEIVE — PAVE**
-What hazards exist?
+    - Reassess when conditions change.
 
-**PROCESS — CARE**
-What do those hazards mean?
+- **Aviation example:** The destination weather is deteriorating and the fuel reserve is becoming less comfortable.
+    - **Perceive:** PAVE identifies weather, fuel, pilot, aircraft, and external-pressure hazards.
+    - **Process:** CARE examines consequences, alternatives, actual conditions, and external pressure.
+    - **Perform:** TEAM helps identify a practical risk-control action.
+    - **Reassess:** Determine whether the new plan actually reduced the risk to an acceptable level.
 
-**PERFORM — TEAM**
-What action will we take?
-
-- **Aviation example:** The destination weather is deteriorating and fuel reserves are becoming less comfortable.
-    - **Perceive:** PAVE identifies weather, fuel, and external-pressure hazards.
-    - **Process:** CARE considers the consequences of continuing, alternate airports, actual weather trends, and pressure to reach the destination.
-    - **Perform:** TEAM may lead to a diversion, fuel stop, route change, delay, or other mitigation.
-    - **Then reassess:** Did the action create an acceptable risk picture?
-- **Have the learner verbalize the risk decision when practical.**
+- **Have the learner verbalize the decision when practical:**
     - What hazard do you see?
-    - Why does it matter?
-    - What alternatives are available?
+    - What risk does it create?
+    - What alternatives do you have?
     - What are you going to do?
-    - What would cause you to change that decision?
-- **That final question is critical.** Good ADM is not simply making a decision. It includes recognizing when the original decision is no longer appropriate.
+    - What change would cause you to make a new decision?
 
-#### CRM and SRM
+- **The goal is not memorization of acronyms.**
+- The goal is a pilot who can recognize a changing situation and make a safe decision without waiting for the instructor to tell them what to do.
 
-- **CRM applies when multiple crewmembers are available to manage the flight and its resources.**
-- **SRM applies when a single pilot has to manage all available resources.**
-- Those resources may include:
-    - ATC
-    - Automation
-    - Avionics
-    - Weather information
-    - Checklists
-    - Passengers
-    - Outside assistance
-- **The resource supports judgment; it does not replace it.**
-- A GPS, autopilot, weather display, checklist, or FRAT is useful only if the pilot continues to maintain situational awareness and make appropriate decisions.
-- **As training progresses, the instructor gradually transfers planning and execution responsibility to the learner while continuing to protect safety.**
-- **And that brings the entire Task together:** risk management is not a checklist, a FRAT score, or a one-time go/no-go decision.
-- **The learner should be able to think:**
-**PERCEIVE — PAVE: What hazards do I have?**
-**PROCESS — CARE: What do those hazards mean?**
-**PERFORM — TEAM: What am I going to do about them?**
-- **Then repeat the process as conditions change.**
-- **The instructor’s job is to introduce that process from the beginning, demonstrate it, progressively transfer responsibility to the learner, practice and assess it through realistic scenarios, and simultaneously maintain enough awareness and control to keep the instructional operation safe.**
-- **The end goal is not a pilot who can recite PAVE, CARE, and TEAM.** It is a pilot who habitually recognizes hazards, evaluates their significance, acts appropriately, and recognizes when changing conditions require a new decision.
+- **But the instructor cannot teach that decision process credibly while failing to model safe operational behavior. The learner is watching how the instructor manages traffic, distractions, aircraft control, and situational awareness in real time. So the final piece of Task F is demonstrating the safety practices we expect the learner to adopt.**
+
+### 8. Model and Teach Safety Practices During Instruction
+
+- **The current CFI ACS explicitly requires the instructor to model and teach safety practices while simultaneously providing instruction.**
+
+- **Maintain collision avoidance while teaching.**
+    - Both instructor and learner remain responsible for lookout as appropriate.
+    - Do not allow teaching to consume the attention needed to see and avoid traffic.
+
+- **Avoid unnecessary distractions.**
+    - Distractions should serve a legitimate instructional purpose and should never degrade safety unnecessarily.
+
+- **Maintain coordinated flight.**
+    - Good instruction includes modeling correct aircraft control and coordination.
+
+- **Use positive exchange of flight controls.**
+    - Both instructor and learner should always know who is manipulating the controls.
+    - Use a clear verbal exchange and confirmation.
+
+- **Maintain continuous awareness of the aircraft's dynamic state and position in the National Airspace System.**
+    - Attitude.
+    - Airspeed.
+    - Altitude.
+    - Energy state.
+    - Geographic position.
+    - Airspace.
+    - Traffic.
+    - Weather.
+    - Terrain.
+    - Learner actions.
+
+- **Instruction does not suspend the instructor's responsibility to operate safely.**
+
+- **That brings the entire Task together. We started with a process for recognizing and managing risk, built tools around that process, introduced it progressively through training, applied it to the special hazards of flight instruction, connected it to human behavior and ADM, and finally required the instructor to model those same principles while teaching.**
+
+### Close
+
+- **Task F is not simply about teaching the learner to complete a PAVE checklist or calculate a FRAT score.**
+
+- The FAA expects the instructor to teach a complete risk-management process:
+
+**Identify → Assess → Mitigate → Reassess**
+
+- The FAA's 3P model gives us a practical way to apply it:
+
+**PERCEIVE — PAVE**  
+**PROCESS — CARE**  
+**PERFORM — TEAM**
+
+- Then repeat the process as conditions change.
+
+- **Teach risk management from the beginning.**
+- **Increase learner responsibility as proficiency develops.**
+- **Use scenarios to teach judgment and ADM.**
+- **Manage the unique risks created by flight instruction.**
+- **Maintain situational awareness while teaching.**
+- **Recognize human-factor hazards.**
+- **Model the safety practices you expect the learner to adopt.**
+
+- **The end goal is not a pilot who can recite the tools.**
+- It is a pilot who habitually recognizes hazards, understands the risk they create, takes appropriate action, and recognizes when changing conditions require a new decision.
+
 
 ## FI.I.F.K1 — Teaching Risk Identification, Assessment, and Mitigation
 
