@@ -103,6 +103,500 @@ A passenger briefing covers how to operate the doors and windows, the safety bel
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Purpose
+
+**Flight deck management is everything we do before and during the flight to keep the cockpit organized, the passengers managed, and the pilot ahead of the airplane.**
+
+The easiest way to teach it is in the same order we actually prepare for a flight:
+
+1. **Set up the pilot and cockpit.**
+2. **Secure the cabin and cargo.**
+3. **Brief the passengers.**
+4. **Prepare the information and automation.**
+5. **Use all available resources and manage distractions.**
+
+The goal is simple: by the time the engine starts, **nothing should be loose, nothing important should be out of reach, the passengers should know what is expected, and the pilot should already have the airplane and information set up for the departure.**
+
+---
+
+### Set Up the Pilot and Cockpit
+
+Before worrying about passengers or avionics, start with the pilot's position.
+
+The pilot needs to be able to:
+
+- See the required outside references.
+- Reach all primary controls.
+- Obtain full rudder travel.
+- Operate the brakes comfortably.
+- Maintain a consistent sight picture.
+
+If the seat is adjustable, **verify it is locked**. An unlocked seat can slide during acceleration and immediately create a control problem.
+
+If the rudder pedals are adjustable, set them so full rudder and brake travel are available without stretching.
+
+#### Pilot Restraints — §91.105
+
+Once the seat is set, secure the pilot.
+
+Under **§91.105**, a required flight crewmember must keep the **safety belt fastened while at the crewmember station**.
+
+During **takeoff and landing**, the required flight crewmember must also keep the **shoulder harness fastened**, if installed, unless it prevents performance of required duties.
+
+So before movement, make sure the restraints are:
+
+- **Fastened.**
+- **Snug.**
+- **Compatible with full control movement.**
+
+From there, organize the cockpit.
+
+### Arrange What You Need
+
+Put the items needed for the flight where they are **easy to reach and secure**.
+
+Typical items include:
+
+- Checklist.
+- Airport diagram.
+- Charts or EFB.
+- Pen.
+- Flashlight at night.
+- Headset.
+- View-limiting device when applicable.
+
+The question to ask is:
+
+**“Can I reach this without going heads-down or searching for it in flight?”**
+
+Do not place anything where it can:
+
+- Block an instrument.
+- Interfere with a control.
+- Fall into the rudder-pedal area.
+- Slide under a seat.
+- Become a projectile.
+
+**Do the organization on the ground so you are not searching for equipment in the air.**
+
+---
+
+### Secure the Cabin and Cargo
+
+Once the pilot area is organized, make sure everything else in the airplane is secure.
+
+The ACS specifically requires the applicant to **secure all items in the aircraft**.
+
+Check:
+
+- Bags.
+- Phones.
+- Tablets.
+- Water bottles.
+- Cameras.
+- Passenger belongings.
+- Loose charts.
+- Cargo.
+
+A loose item is not just untidy. It can:
+
+- **Jam a control.**
+- **Shift the CG.**
+- **Strike an occupant.**
+- **Distract the pilot.**
+
+Also confirm the actual loading agrees with the **weight-and-balance plan** and the baggage-compartment limitations.
+
+Now that the cockpit and cabin are physically ready, move to the people in it.
+
+---
+
+### Brief the Passengers
+
+The passenger briefing should be short enough to remember and specific enough to be useful.
+
+#### Identify the PIC — §91.3
+
+If more than one pilot is aboard, establish **who is PIC** before flight.
+
+That makes clear who has final responsibility and authority for the operation.
+
+Then brief the passengers on the things they may actually need to know.
+
+#### Safety Belts and Shoulder Harnesses — §91.107
+
+Before takeoff, the PIC must ensure each person aboard is **briefed on how to fasten and unfasten the safety belt and, if installed, shoulder harness**.
+
+Before:
+
+- **Surface movement**
+- **Takeoff**
+- **Landing**
+
+the PIC must ensure each person has been **notified to fasten** the required restraints.
+
+A natural briefing sounds like:
+
+**“Here is how the belt and shoulder harness work. Keep them fastened for taxi, takeoff, and landing, and whenever I ask you to.”**
+
+#### Doors and Windows
+
+Next, show them:
+
+- How the door closes and latches.
+- How to open it normally.
+- How to open it for emergency egress.
+- Window operation, if applicable.
+
+Do not assume a passenger can operate an unfamiliar aircraft door under stress.
+
+#### Passenger Conduct
+
+Then set expectations.
+
+Tell passengers:
+
+- **Keep hands and feet away from the flight controls.**
+- Keep feet clear of the rudder pedals.
+- Keep loose items secured.
+- Point out traffic when asked.
+- Tell the pilot about unusual smells, sounds, or symptoms.
+
+#### Sterile Flight Deck
+
+Also establish when you need quiet.
+
+For Part 91 operations, this is a **risk-management practice**, not a separate Part 91 sterile-cockpit regulation.
+
+Tell passengers that nonessential conversation stops during:
+
+- Taxi.
+- Takeoff.
+- Arrival.
+- Landing.
+- Abnormal or high-workload situations.
+
+The reason is simple:
+
+**when workload increases, the pilot's attention belongs to the airplane.**
+
+#### Propeller Safety
+
+Before anyone moves around the airplane, brief the propeller hazard.
+
+Tell passengers to:
+
+- Stay clear of the propeller.
+- Approach and leave the airplane only as directed.
+- Never walk through the propeller arc.
+- Treat the propeller as hazardous even when stationary.
+
+#### Emergency Procedures
+
+Finally, brief only what the passenger may actually need to do:
+
+- Release the restraint.
+- Open the door.
+- Exit the airplane.
+- Move away from the airplane.
+- Use emergency or survival equipment when applicable.
+
+Once the people are ready, prepare the information the pilot will need.
+
+---
+
+### Prepare the Information Before Engine Start
+
+The next goal is to eliminate avoidable setup work in flight.
+
+#### Checklists
+
+Use the appropriate checklist throughout the operation.
+
+Keep it:
+
+- **Accessible.**
+- **Secure.**
+- **Easy to read.**
+
+The checklist should reduce workload, not become another item the pilot has to search for.
+
+#### Current and Appropriate Navigation Data
+
+The ACS requires **current and appropriate navigation data**.
+
+Before flight, verify that the information needed for the operation is current and available:
+
+- Charts.
+- Airport diagrams.
+- Chart Supplement information.
+- NOTAMs.
+- Navigation databases when applicable.
+- EFB data.
+
+Also ensure the pilot has the preflight information required by **§91.103** for the planned flight.
+
+A moving map may look precise while still displaying outdated information.
+
+#### EFB Setup
+
+If using an EFB, set up as much as practical before engine start:
+
+- Route.
+- Airport diagrams.
+- Charts.
+- Frequencies.
+- Weather.
+- Weight and balance, if used.
+- Performance data, if used.
+
+Then verify:
+
+- Battery condition.
+- External power if needed.
+- Screen brightness.
+- Secure mounting or storage.
+- Backup source.
+
+**Avoid major reprogramming during high-workload phases.**
+
+Now that the information is ready, set up the automation.
+
+---
+
+### Set Up and Manage Automation
+
+The ACS requires the applicant to **properly program and manage the aircraft's automation, as applicable**.
+
+Before using it, know:
+
+- What system is installed.
+- What it can do.
+- What it cannot do.
+- How to engage it.
+- How to disconnect it.
+- Which navigation source is driving it.
+
+Before relying on the system, verify:
+
+- **Active mode.**
+- **Armed mode.**
+- **Navigation source.**
+- **Heading or course.**
+- **Altitude or vertical mode.**
+- **What the airplane should do next.**
+
+Then monitor it.
+
+If the automation does something unexpected:
+
+1. **Verify the mode.**
+2. **Simplify the system.**
+3. **Disconnect if necessary.**
+4. **Fly the airplane.**
+
+Automation should reduce workload.
+
+**If it increases workload, reduce the level of automation.**
+
+---
+
+### Portable Electronic Devices — §91.21
+
+Portable electronic devices belong in the same discussion because they can either help or distract.
+
+Under **§91.21**, for aircraft operating under IFR, PED use is restricted unless the device falls within an exception or the operator/PIC determines it will not interfere with navigation or communication systems.
+
+For practical cockpit management:
+
+- Secure the device.
+- Secure charging cables.
+- Prevent mount obstruction.
+- Keep it from becoming a heads-down distraction.
+- Have a backup if it is critical to the operation.
+
+---
+
+### Inoperative Equipment — §91.213
+
+If equipment is inoperative, do not simply ignore it or say:
+
+**“We don't need it today.”**
+
+Determine whether the airplane can be operated legally and safely under **§91.213** and the applicable:
+
+- Equipment list or KOEL.
+- POH/AFM.
+- Type-design requirements.
+- Operating rules.
+- Airworthiness Directives.
+
+If the item is not required and the airplane may legally operate without it, it still must be handled in accordance with the applicable inoperative-equipment requirements.
+
+Now the cockpit is organized, passengers are briefed, information is loaded, and the systems are set. The last part is using the resources around you.
+
+---
+
+### Use All Available Resources
+
+This is where flight deck management becomes **Single-Pilot Resource Management — SRM**.
+
+A single pilot should use all available resources rather than trying to solve every problem alone.
+
+#### Internal Resources
+
+Internal resources include:
+
+- POH/AFM.
+- Checklists.
+- EFB and charts.
+- Installed avionics.
+- Automation.
+- Passengers.
+- Other crewmembers.
+
+A passenger can help by:
+
+- Looking for traffic.
+- Reading a checklist when appropriate.
+- Reporting an unusual sound or smell.
+
+But the pilot remains responsible for:
+
+- **Aircraft control.**
+- **Decisions.**
+- **Verification.**
+
+#### External Resources
+
+External resources include:
+
+- ATC.
+- Flight Service.
+- Weather services.
+- Maintenance personnel.
+- Operations or dispatch support.
+- Other aircraft.
+- PIREPs.
+
+The point is not to use every resource.
+
+The point is to **recognize which resource can reduce risk or workload when needed.**
+
+---
+
+### Manage Passenger Distractions
+
+Passenger distraction is its own ACS risk item, so teach it directly.
+
+Passengers may create distraction through:
+
+- Conversation.
+- Questions.
+- Motion sickness.
+- Anxiety.
+- Children.
+- Photography.
+- Electronic devices.
+
+Manage this **before flight** through the briefing.
+
+If distraction becomes excessive:
+
+1. **Fly the airplane.**
+2. **Stop nonessential conversation.**
+3. **Deal with the passenger when workload permits.**
+
+The pilot sets the cockpit environment.
+
+---
+
+### Apply ADM and SRM
+
+The ACS requires the applicant to manage risk using **ADM, including SRM/CRM concepts**.
+
+The practical application is continuous:
+
+- **Identify the hazard.**
+- **Decide whether it is creating unacceptable risk.**
+- **Use the available resources.**
+- **Take action.**
+- **Reevaluate.**
+
+Examples:
+
+- EFB overheats → **use the backup.**
+- Autopilot behaves unexpectedly → **disconnect and hand fly.**
+- Passenger becomes distracting on final → **stop conversation and fly.**
+- Installed item is inoperative → **evaluate it before departure.**
+
+That brings the whole lesson back to the purpose:
+
+**good flight deck management preserves mental capacity for flying and decision-making.**
+
+---
+
+### Common Errors
+
+- Loose items or cargo not secured.
+- Essential equipment out of reach.
+- Cables interfering with controls.
+- Seat not locked.
+- Poor rudder-pedal adjustment.
+- Improper safety-belt or shoulder-harness use.
+- Incomplete passenger briefing.
+- Failing to identify the PIC when more than one pilot is aboard.
+- Passengers interfering with controls.
+- No sterile-flight-deck expectation.
+- Outdated navigation data.
+- Poor EFB battery or backup planning.
+- Poor automation setup.
+- Failing to monitor automation modes.
+- Continuing to troubleshoot automation instead of flying.
+- Departing with unresolved inoperative equipment.
+- Failing to use available resources.
+- Allowing passenger distraction to degrade aircraft control.
+
+### ACS Coverage — Area V, Task B
+
+**Knowledge**
+
+- **AI.V.B.K1 — Passenger briefing requirements:** PIC identification, restraints, doors, passenger conduct, sterile flight deck, propeller avoidance, emergency procedures, and §91.107.
+- **AI.V.B.K2 — Appropriate checklists:** selection, accessibility, and use.
+- **AI.V.B.K3 — Current and appropriate navigation data:** charts, airport information, NOTAMs, EFB/navigation databases, and §91.103 preflight information.
+- **AI.V.B.K4 — Securing items and cargo:** cockpit organization, loose items, baggage, and cargo security.
+
+**Risk Management**
+
+- **AI.V.B.R1 — Systems/equipment, automation, and portable electronic devices:** setup, monitoring, mode awareness, EFB/PED management, and §91.21.
+- **AI.V.B.R2 — Inoperative equipment:** evaluation and disposition under §91.213.
+- **AI.V.B.R3 — Passenger distractions:** brief expectations early and protect aircraft control during high-workload phases.
+
+**Skills**
+
+- **AI.V.B.S1 — Secure all items in the aircraft.**
+- **AI.V.B.S2 — Conduct an appropriate passenger briefing:** PIC, restraints, doors, passenger conduct, sterile flight deck, propeller avoidance, and emergency procedures.
+- **AI.V.B.S3 — Properly program and manage automation, as applicable.**
+- **AI.V.B.S4 — Manage risk using ADM, including SRM/CRM.**
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area V, Task B.
+- FAA-H-8083-3 — Airplane Flying Handbook.
+- FAA-H-8083-2 — Risk Management Handbook.
+- Aircraft POH/AFM and applicable checklist.
+- **14 CFR §91.3** — Responsibility and authority of the PIC.
+- **14 CFR §91.21** — Portable electronic devices.
+- **14 CFR §91.103** — Preflight action.
+- **14 CFR §91.105** — Flight crewmembers at stations.
+- **14 CFR §91.107** — Safety belts, shoulder harnesses, and child restraint systems.
+- **14 CFR §91.213** — Inoperative instruments and equipment.
 
 
 ## AI.V.B.K1 — Passenger Briefing Requirements

@@ -2971,6 +2971,26 @@ a.course-card:hover
         margin: 0.012in 0 !important;
     }
 
+    body.print-instructor-notes #instructor-notes-print-area figure {
+        margin: 0.08in 0 !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    body.print-instructor-notes #instructor-notes-print-area img {
+        display: block !important;
+        width: 50% !important;
+        max-width: 50% !important;
+        max-height: 8.7in;
+        height: auto !important;
+        margin: 0 auto !important;
+        object-fit: contain;
+    }
+
+    body.print-instructor-notes #instructor-notes-print-area figcaption {
+        margin-top: 0.03in;
+    }
+
     body.print-instructor-notes #instructor-notes-print-area .lesson-mnemonic {
         margin: 0 !important;
         padding: 0.055in 0.07in !important;

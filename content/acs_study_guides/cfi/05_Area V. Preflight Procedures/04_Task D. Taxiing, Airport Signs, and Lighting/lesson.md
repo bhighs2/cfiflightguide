@@ -129,227 +129,251 @@ Never cross a runway holding-position marking without a clearance. A wrong turn 
 
 ### Purpose
 
-Taxiing looks simple, but it combines aircraft control, radio communication, airport geometry, signs, markings, lighting, and runway-incursion avoidance.
+**Taxiing is not just moving the airplane on the ground.** It combines aircraft control, airport geometry, radio communication, signs, markings, lighting, and runway-incursion avoidance.
 
-The objective is to taxi the airplane safely while maintaining situational awareness and complying with:
+A good taxi lesson follows the same sequence the pilot actually uses:
 
-- Airport markings.
-- Airport signs.
-- Airport lighting.
-- ATC clearances and instructions.
-- Published airport information.
+1. **Plan the route before moving.**
+2. **Start moving and verify the brakes.**
+3. **Control the airplane and position the controls for wind.**
+4. **Use the airport diagram, signs, markings, and lights to maintain position awareness.**
+5. **Receive, read back, and execute the taxi clearance.**
+6. **Protect every runway crossing and hold-short position.**
+7. **Adjust the operation for night or low visibility.**
 
 The pilot should always know:
 
-- Where the airplane is.
-- Where the airplane is going.
-- What runway or taxiway is ahead.
-- What clearance or restriction applies next.
+- **Where am I?**
+- **Where am I going?**
+- **What runway or taxiway is ahead?**
+- **What clearance or restriction applies next?**
 
-### Safe Taxi Operations
+---
 
-Taxiing is the controlled movement of the airplane on the surface under its own power.
+### Plan the Taxi Before Moving
 
-The airplane should be moved:
+Before the airplane moves, reduce the workload.
 
-- At an appropriate speed.
-- Along the intended taxi route.
-- With positive directional control.
-- Without excessive brake use.
-- With continuous awareness of other aircraft, vehicles, personnel, and obstacles.
+Complete the appropriate checklist, then review:
 
-The airplane is designed primarily for flight, not ground maneuvering.
+- **Airport diagram.**
+- **Expected taxi route.**
+- **Hot Spots.**
+- **NOTAMs for closures, construction, or unusual routing.**
+- **Wind direction.**
 
-That creates some unique hazards:
+Do as much setup as possible while stopped.
 
-- Wide wingspan.
-- Limited forward or side visibility.
-- Propeller clearance.
-- Jet or prop blast.
-- Weathervaning.
-- Brake overheating.
-- Runway-incursion risk.
+Once taxi begins, the pilot's attention should be primarily **outside**.
 
-### Before Moving
+### Use the Airport Diagram
 
-Before taxi begins:
-
-- Complete the appropriate checklist.
-- Review the airport diagram.
-- Identify the planned taxi route.
-- Identify any published Hot Spots.
-- Review NOTAMs for closures or construction.
-- Verify the area around the airplane is clear.
-- Make sure the flight controls are positioned for the existing wind.
-
-Do as much setup as possible before the airplane moves.
-
-Once taxi begins:
-
-**the pilot's attention belongs primarily outside.**
-
-### Brake Check
-
-Immediately after the airplane begins moving:
-
-- Reduce power as appropriate.
-- Apply the brakes.
-- Confirm braking action is normal.
-
-If the brakes do not respond normally:
-
-**stop the airplane before continuing.**
-
-### Steering and Directional Control
-
-In most light airplanes, directional control on the ground is maintained through:
-
-- Rudder-pedal steering.
-- Nosewheel or tailwheel steering.
-- Differential braking when necessary.
-
-Use smooth inputs.
-
-Do not taxi faster than necessary.
-
-Reduce speed before turns.
-
-Avoid using power against the brakes to control taxi speed.
-
-### Flight Controls for Wind
-
-The flight controls should be positioned so the wind does not lift a wing or tail.
-
-For a quartering headwind:
-
-- Hold aileron into the wind.
-
-For a quartering tailwind:
-
-- Hold the aileron away from the wind.
-- Hold the elevator down as appropriate to the airplane.
-
-As wind direction changes during taxi:
-
-**reposition the controls.**
-
-The exact control position depends on:
-
-- Wind direction.
-- Aircraft configuration.
-- Whether the airplane is tricycle gear or tailwheel.
-
-### Airport Diagram
-
-Use the airport diagram before and during taxi.
-
-The diagram shows:
+The airport diagram shows:
 
 - Runways.
 - Taxiways.
-- Aprons.
-- Hold-short positions.
+- Ramps and aprons.
+- Hold-short locations.
 - Hot Spots.
 - Airport geometry.
 
-At an unfamiliar airport:
+At an unfamiliar airport, trace the expected route before moving and keep the diagram available during taxi.
 
-- Trace the expected route before moving.
-- Keep the diagram available.
-- Stop if position becomes uncertain.
+If position becomes uncertain:
+
+**stop the airplane and reestablish position before continuing.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Airport_Diagram_Hot_Spots.png" alt="David Wayne Hooks Memorial Airport diagram showing published Hot Spots" loading="lazy">
+    <figcaption>Airport diagram — brief the route and Hot Spots before moving. Use the diagram continuously during taxi.</figcaption>
+</figure>
 
 ### Hot Spots
 
-A Hot Spot is a location on an airport movement area with a history or potential risk of:
+A **Hot Spot** is a location on the airport movement area with a history or potential risk of collision or runway incursion.
 
-- Collision.
-- Runway incursion.
+Before taxi, know:
 
-Hot Spots should be briefed before taxi.
+- **Where it is.**
+- **Why it is hazardous.**
+- **What action will prevent confusion.**
 
-Know:
+Do not wait until the airplane reaches the Hot Spot to start figuring it out.
 
-- Where they are.
-- Why they are hazardous.
-- What action is needed to avoid confusion.
+---
 
-### Taxi Clearances
+### Start Moving — Then Check the Brakes
 
-At a towered airport:
+When ready to taxi:
 
-- Listen carefully.
-- Write down complex instructions if needed.
-- Read back runway assignments, hold-short instructions, and runway crossing clearances.
-- Do not move until the clearance is understood.
+- Clear the area.
+- Release the brakes.
+- Apply only enough power to begin moving.
 
-If the clearance does not match what was expected:
+As soon as the airplane begins to roll:
+
+1. Reduce power as appropriate.
+2. Apply the brakes.
+3. **Confirm normal braking action.**
+
+If the brakes do not respond normally:
+
+**stop before continuing.**
+
+The ACS specifically requires the brake check **after movement begins**.
+
+### Maintain Positive Directional and Speed Control
+
+Taxi at a speed that allows the airplane to be stopped promptly.
+
+Use:
+
+- Rudder-pedal or nosewheel steering.
+- Smooth rudder inputs.
+- Differential braking only as needed.
+
+Avoid:
+
+- Taxiing too fast.
+- Turning at excessive speed.
+- Riding the brakes.
+- Using power against the brakes continuously.
+
+The goal is **positive control without unnecessary brake use**.
+
+---
+
+### Position the Flight Controls for Wind
+
+As the airplane moves, position the controls so the wind does not lift a wing or tail.
+
+For a **quartering headwind**:
+
+- **Aileron into the wind.**
+- Elevator neutral or as appropriate for the airplane.
+
+For a **quartering tailwind**:
+
+- **Aileron away from the wind.**
+- **Elevator down** as appropriate for the airplane.
+
+As the airplane turns and the relative wind changes:
+
+**move the controls with the wind.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Taxi_Crosswind.png" alt="Taxi control positions for quartering headwinds and tailwinds" loading="lazy">
+    <figcaption>Taxi wind correction — climb into a headwind; dive away from a tailwind.</figcaption>
+</figure>
+
+The exact control position depends on the airplane configuration, so the POH/AFH remains controlling.
+
+---
+
+### Receive and Understand the Taxi Clearance
+
+At a towered airport, do not move until the taxi clearance is understood.
+
+Listen for:
+
+- Runway assignment.
+- Taxi route.
+- Hold-short instructions.
+- Runway crossing clearances.
+
+Write down a complex clearance when useful.
+
+Read back the items ATC needs confirmed, especially:
+
+- **Runway assignments.**
+- **Hold-short instructions.**
+- **Runway crossing clearances.**
+
+If what ATC says does not match what you expected:
 
 **stop and clarify.**
 
-Expectation bias can cause a pilot to hear the clearance they expected rather than the clearance ATC actually issued.
-
-### Non-Towered Airports
+That protects against **expectation bias** — hearing what you expected instead of what was actually said.
 
 At a non-towered airport:
 
-- Monitor and transmit on the CTAF.
+- Monitor and transmit on CTAF.
 - Announce intentions.
-- Maintain visual awareness of traffic.
+- Maintain visual awareness.
 - Verify runways are clear before entering or crossing.
 
 There is no controller providing runway separation.
 
-The pilot is responsible for determining that movement is safe.
+---
 
-### Runway Crossing
+### Use Signs to Confirm Where You Are and Where You Are Going
 
-At a towered airport:
+Airport signs reinforce the airport diagram and taxi clearance.
 
-**do not cross or enter a runway without a specific clearance.**
+The easiest way to teach them is by what they answer.
 
-Before crossing:
+#### Red and White — **What must I obey?**
 
-- Confirm the runway.
-- Read back the clearance.
-- Look in both directions.
-- Verify the runway is clear.
+**Mandatory instruction signs** have a **red background with white inscription**.
 
-At a non-towered airport:
+Examples:
 
-- Look both ways.
-- Listen for traffic.
-- Make the appropriate CTAF call.
-- Cross only when safe.
+- Runway holding position.
+- Runway/runway intersection.
+- Runway approach area.
+- ILS critical area.
+- No entry.
 
-### Runway Incursion Avoidance
+A red sign means:
 
-A runway incursion can result from:
+**pay attention — a restriction or protected area is immediately associated with this location.**
 
-- Crossing a hold line without clearance.
-- Turning onto the wrong runway.
-- Misunderstanding a taxi clearance.
-- Losing position.
-- Distraction.
-- Continuing when unsure.
+#### Black and Yellow — **Where am I?**
 
-Prevention includes:
+**Location signs** have a **black background with yellow inscription and border**.
 
-- Using the airport diagram.
-- Reviewing Hot Spots.
-- Reading back clearances.
-- Maintaining a sterile cockpit.
-- Verifying every runway crossing.
-- Stopping when uncertain.
+They tell you your present location.
 
-If position is unclear:
+Example:
 
-**stop the airplane and ask.**
+**B** = you are on Taxiway B.
+
+#### Yellow and Black — **Where do I go?**
+
+**Direction and destination signs** have a **yellow background with black inscription**.
+
+They point toward:
+
+- Taxiways.
+- Runways.
+- Terminals.
+- FBOs.
+- Other destinations.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Airport_Signs.png" alt="Airport signs reference" loading="lazy">
+    <figcaption>Airport signs — red/white is mandatory; black/yellow tells where you are; yellow/black tells where to go.</figcaption>
+</figure>
+
+#### Runway Distance Remaining
+
+A runway distance remaining sign has:
+
+- **Black background.**
+- **White numeral.**
+
+The numeral gives remaining runway length in **thousands of feet**.
+
+---
+
+### Use Markings to Understand the Pavement
+
+A useful first distinction is:
+
+- **Runway markings are generally white.**
+- **Taxiway markings are generally yellow.**
 
 ### Runway Markings
-
-Runway markings are generally:
-
-**white.**
 
 Common runway markings include:
 
@@ -360,55 +384,33 @@ Common runway markings include:
 - Touchdown zone.
 - Side stripes.
 
-### Runway Designators
-
-Runway numbers correspond to the runway's magnetic direction rounded to the nearest 10 degrees, with the final zero omitted.
+Runway numbers correspond approximately to the runway's magnetic direction rounded to the nearest 10 degrees, with the final zero omitted.
 
 Example:
 
-- Runway 17 is approximately 170° magnetic.
-- Runway 35 is approximately 350° magnetic.
+- Runway 17 ≈ 170° magnetic.
+- Runway 35 ≈ 350° magnetic.
 
-Parallel runways may also use:
+Parallel runways use **L, C, or R** as applicable.
 
-- L — Left.
-- C — Center.
-- R — Right.
-
-### Runway Centerline
-
-The runway centerline is:
-
-- White.
-- Dashed.
-
-It provides alignment guidance for:
-
-- Takeoff.
-- Landing.
-
-### Threshold Markings
-
-The threshold identifies the beginning of the portion of runway available for landing.
-
-Threshold markings are:
-
-- White.
-- Longitudinal stripes.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Runway_Markings.png" alt="Visual and nonprecision runway markings" loading="lazy">
+    <figcaption>Runway markings — white markings identify the runway environment, including designation, threshold, centerline, and aiming points.</figcaption>
+</figure>
 
 ### Displaced Threshold
 
-A displaced threshold is located beyond the physical beginning of the runway.
+A displaced threshold is located beyond the physical beginning of the pavement.
 
-The pavement before a displaced threshold may normally be available for:
+The pavement before it may normally be available for:
 
 - Taxi.
 - Takeoff.
 - Landing rollout from the opposite direction.
 
-It is not available for touchdown from the displaced-threshold direction.
+It is **not available for touchdown from the displaced-threshold direction**.
 
-A displaced threshold is identified by:
+Look for:
 
 - White arrows.
 - Arrowheads.
@@ -416,9 +418,7 @@ A displaced threshold is identified by:
 
 ### Blast Pad / Stopway
 
-A blast pad or stopway is marked with:
-
-**yellow chevrons.**
+A blast pad or stopway is marked with **yellow chevrons**.
 
 It is not intended for normal:
 
@@ -426,355 +426,139 @@ It is not intended for normal:
 - Takeoff.
 - Landing.
 
-Do not confuse a paved surface with usable runway.
-
-### Closed Runway
-
-A closed runway is identified by:
-
-**yellow X markings.**
-
-Temporary closures may not always have every visual marking installed.
-
-Check:
-
-- NOTAMs.
-- ATIS.
-- Airport information.
-
 ### Taxiway Markings
 
-Taxiway markings are generally:
+The taxiway centerline is a **single continuous yellow line**.
 
-**yellow.**
+Taxi centered on it when practical.
 
-### Taxiway Centerline
+An **enhanced taxiway centerline** adds dashed yellow lines on both sides of the normal centerline to warn that a runway holding position is ahead.
 
-The taxiway centerline is:
+---
 
-- A single continuous yellow line.
+### Hold-Short Markings — Protect the Runway
 
-Taxi with the airplane centered on the line when practical.
+The standard runway holding-position marking consists of:
 
-### Enhanced Taxiway Centerline
+- **Two solid yellow lines.**
+- **Two dashed yellow lines.**
 
-An enhanced taxiway centerline warns that a runway holding position is ahead.
+Approaching the runway from the taxiway, the airplane is on the **solid-line side**.
 
-It consists of:
+At a towered airport:
 
-- The normal yellow centerline.
-- Additional dashed yellow lines on both sides.
+**do not allow any part of the airplane to cross the hold position without authorization.**
 
-Its purpose is to increase awareness before reaching a runway.
+Before entering or crossing any runway:
 
-### Taxiway Edge Markings
+1. Confirm the runway.
+2. Confirm the clearance.
+3. Look both ways.
+4. Verify the runway is clear.
 
-Taxiway edges may be identified by:
+At a non-towered airport:
 
-**double yellow lines.**
+- Look both ways.
+- Listen.
+- Make the appropriate CTAF call.
+- Cross only when safe.
 
-Continuous lines separate the taxiway from pavement not intended for aircraft use.
+### ILS Critical Area and Other Boundaries
 
-Dashed double yellow lines may separate the taxiway from adjoining pavement that aircraft may enter, such as an apron.
+An **ILS critical-area holding position** protects the ILS signal when ATC requires aircraft to remain clear.
 
-### Runway Holding Position Marking
+A **nonmovement-area boundary** separates ATC-controlled movement area from nonmovement area.
 
-The runway holding-position marking consists of:
+Recognize the marking before taxiing into an unfamiliar complex area.
 
-- Two solid yellow lines.
-- Two dashed yellow lines.
+---
 
-When approaching a runway from a taxiway:
+### Lighting — Use Color as Another Position Cue
 
-**hold on the solid-line side.**
+Lighting provides another layer of airport orientation.
 
-Do not allow any part of the airplane to cross the hold line until authorized at a towered airport.
+#### Taxiway Lights
 
-### ILS Critical Area Holding Position
+- **Taxiway edge lights — blue.**
+- **Taxiway centerline lights — green.**
 
-An ILS critical-area holding position is used when aircraft must remain clear so they do not interfere with ILS signals.
+#### Runway Lights
 
-The marking is different from a standard runway hold line.
+- **Runway edge lights — generally white.**
+- Near the departure end of certain instrument runways, runway edge lights become **yellow** as a caution.
+- **Threshold — green** when viewed from the approach side.
+- **Runway end — red** when viewed from the runway.
 
-When instructed to hold short of the ILS critical area:
+#### Runway Guard Lights
 
-**stop before the marking.**
+Runway guard lights warn that a runway holding position is immediately ahead.
 
-### Nonmovement Area Boundary
-
-The nonmovement-area boundary separates:
-
-- ATC-controlled movement area.
-- Nonmovement area.
-
-It consists of:
-
-- One solid yellow line.
-- One dashed yellow line.
-
-The solid side is on the nonmovement-area side.
-
-### Mandatory Instruction Signs
-
-Mandatory instruction signs have:
-
-- **Red background.**
-- **White inscription.**
-
-They identify locations where a pilot must comply with a restriction or clearance.
-
-Examples include:
-
-- Runway holding position.
-- ILS critical area.
-- Runway approach area.
-- No entry.
-
-A red sign requires immediate attention.
-
-### Location Signs
-
-Location signs have:
-
-- **Black background.**
-- **Yellow inscription and border.**
-
-They tell the pilot:
-
-**where the airplane is.**
-
-### Direction Signs
-
-Direction signs have:
-
-- **Yellow background.**
-- **Black inscription.**
-- Arrow.
-
-They identify the direction to an intersecting taxiway.
-
-### Destination Signs
-
-Destination signs have:
-
-- **Yellow background.**
-- **Black inscription.**
-- Arrow.
-
-They direct the pilot toward locations such as:
-
-- Runways.
-- Terminals.
-- FBOs.
-- Cargo areas.
-
-### Runway Distance Remaining Signs
-
-Runway distance remaining signs have:
-
-- **Black background.**
-- **White numeral.**
-
-The number represents:
-
-**thousands of feet of runway remaining.**
-
-### Runway Edge Lights
-
-Runway edge lights are generally:
-
-**white.**
-
-On certain instrument runways, the lights become:
-
-**yellow**
-
-near the departure end as a caution that the runway end is approaching.
-
-### Threshold and Runway-End Lights
-
-Threshold and runway-end light fixtures are directional.
-
-Toward the landing aircraft, the threshold appears:
-
-**green.**
-
-Toward an aircraft on the runway approaching the end, the runway end appears:
-
-**red.**
-
-### Taxiway Edge Lights
-
-Taxiway edge lights are:
-
-**blue.**
-
-### Taxiway Centerline Lights
-
-Taxiway centerline lights are:
-
-**green.**
-
-### Runway Guard Lights
-
-Runway guard lights increase awareness of a runway holding position.
-
-They may appear as:
+They may be:
 
 - Two elevated flashing yellow lights.
-- In-pavement flashing yellow lights across the taxiway.
+- In-pavement flashing yellow lights.
 
-They indicate:
+#### Stop Bars
 
-**a runway is immediately ahead.**
+Stop bars are **steady red lights across the taxiway**.
 
-### Stop Bar Lights
+**Do not cross an illuminated red stop bar.**
 
-Stop bars are:
-
-- Red.
-- Steady-burning.
-- Installed across the taxiway at some runway holding positions.
-
-Do not cross an illuminated red stop bar.
-
-If a clearance conflicts with an illuminated stop bar:
+If an ATC clearance appears to conflict with an illuminated stop bar:
 
 **stop and contact ATC.**
 
-### Clearance Bar Lights
+---
 
-Clearance bar lights are:
+### Runway Status Lights — Red Means Unsafe
 
-- Three steady-burning yellow lights.
+Runway Status Lights provide an automatic visual warning when the system detects a potential runway conflict.
 
-They help identify:
+**Takeoff Hold Lights (THLs)** are red in-pavement lights visible to an aircraft in takeoff position.
 
-- Holding positions.
-- Taxiway intersections.
+If illuminated:
 
-### Runway Centerline Lights
+**do not begin takeoff.**
 
-On runways equipped with runway centerline lighting:
+Runway Status Lights are **not an ATC clearance**. If the lights conflict with an ATC instruction, stop and advise ATC.
 
-- Lights are white initially.
-- They alternate red and white near the runway end.
-- They become all red for the final portion.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Hold_Lights.png" alt="Takeoff Hold Lights illuminated red on a runway" loading="lazy">
+    <figcaption>Takeoff Hold Lights — illuminated red THLs indicate that takeoff is unsafe. Do not take off over illuminated red lights.</figcaption>
+</figure>
 
-The color change gives the pilot another cue that the runway end is approaching.
+---
 
-### Touchdown Zone Lights
+### Other Airport Lighting
 
-Touchdown-zone lights are:
+Know the purpose rather than memorizing every installation.
 
-- White.
-- Installed in rows on each side of the runway centerline.
+- **REIL:** two synchronized flashing lights identifying the approach end of the runway.
+- **Approach Light System:** assists transition from instrument references to the runway environment.
+- **VASI:** typically white/white high, red/white on path, red/red low.
+- **PAPI:** typically 2 white / 2 red on path.
+- **Airport beacon:** identifies the airport type; civilian land airports normally use alternating white and green.
+- **Pilot-Controlled Lighting:** activate on the published frequency; common systems respond to 3, 5, or 7 microphone clicks, but verify the Chart Supplement.
 
-They help define the touchdown area in reduced visibility.
+### Visual Wind Indicators
 
-### Taxiway Lead-On and Lead-Off Lights
+Use:
 
-Lead-on and lead-off lights help guide aircraft between:
-
-- Runway.
-- Taxiway.
-
-They may use:
-
-- Green.
-- Alternating green and yellow.
-
-The color coding also helps indicate when the aircraft is still within the runway or protected area.
-
-### Approach Light Systems
-
-Approach light systems help transition from instrument references to the visual runway environment.
-
-They are located:
-
-- On or near the extended runway centerline.
-- Before the runway threshold.
-
-Their configuration depends on the installed system.
-
-### REIL
-
-**Runway End Identifier Lights** identify the approach end of a runway.
-
-They consist of:
-
-- Two synchronized flashing lights.
-- One on each side of the runway threshold.
-
-They are especially useful when the runway is difficult to distinguish from surrounding lights or terrain.
-
-### VASI
-
-A **Visual Approach Slope Indicator** provides visual glidepath information.
-
-A typical two-bar VASI displays:
-
-- White over white — high.
-- Red over white — on glidepath.
-- Red over red — low.
-
-### PAPI
-
-A **Precision Approach Path Indicator** typically uses four light units.
-
-Typical indications are:
-
-- Four white — high.
-- Three white / one red — slightly high.
-- Two white / two red — on glidepath.
-- One white / three red — slightly low.
-- Four red — low.
-
-### Airport Beacon
-
-Common airport beacon combinations include:
-
-- White and green — civilian land airport.
-- White and yellow — water airport.
-- Green, yellow, and white — heliport.
-- Two quick white flashes followed by green — military airport.
-
-A beacon operating during daylight at a controlled airport may indicate reduced weather conditions, but:
-
-**do not use the beacon as the sole source for determining whether conditions are VFR or IFR.**
-
-### Pilot-Controlled Lighting
-
-At some airports, the pilot can control airport lighting by keying the microphone on the published frequency.
-
-Common selections are:
-
-- **3 clicks** — lower intensity.
-- **5 clicks** — medium intensity.
-- **7 clicks** — highest intensity.
-
-The exact response depends on the installed lighting system.
-
-Verify the published frequency and installed lighting system in the Chart Supplement.
-
-### Wind Indicators
-
-Visual wind indicators may include:
-
-- Windsock.
-- Wind cone.
+- Windsock or wind cone.
 - Wind tee.
 - Tetrahedron where installed.
 
-Use them to determine:
+They help determine:
 
 - Wind direction.
 - Approximate wind strength.
 - Expected weathervaning.
 
+---
+
 ### Aircraft Lighting During Taxi
 
-Use aircraft lighting in a way that improves conspicuity without creating a hazard.
+Use aircraft lights to make the airplane visible without creating a hazard.
 
 Consider:
 
@@ -784,140 +568,119 @@ Consider:
 - Landing light.
 - Strobes.
 
-Avoid shining bright lights or strobes directly at other pilots when it would impair their vision.
+Avoid shining bright lights or strobes at other pilots when it could impair their vision.
 
-Use the aircraft checklist and operating procedures.
+Follow the aircraft checklist and local procedures.
 
-### Night Taxi
+---
 
-At night:
+### Night and Low-Visibility Taxi
 
-- Taxi slower.
-- Use the airport diagram.
-- Follow taxiway centerline lighting and signs.
-- Confirm every runway crossing.
-- Avoid fixation on bright lights.
-- Stop if position is uncertain.
+At night or in reduced visibility, all of the same rules apply — but the margins are smaller.
 
-### Low-Visibility Taxi
+Slow down.
 
-In low visibility:
+Use:
 
-- Reduce taxi speed.
-- Keep the airport diagram available.
-- Follow centerline markings and lighting closely.
-- Confirm every instruction.
-- Expect more restrictive routing.
-- Stop if unsure.
+- Airport diagram.
+- Centerline markings and lights.
+- Signs.
+- Hold positions.
+- ATC instructions.
 
-At airports using low-visibility surface-movement procedures:
+Confirm every runway crossing.
 
-follow the published procedure and ATC instructions.
+Avoid fixation on bright lights.
 
-### Common Errors
+If uncertain:
 
-Common errors include:
+**stop.**
 
-- Taxiing too fast.
-- Riding the brakes.
-- Failing to perform an initial brake check.
-- Improper flight-control positioning for wind.
-- Losing position on the airport.
-- Taxiing without the airport diagram available.
-- Missing a Hot Spot.
-- Misunderstanding a taxi clearance.
-- Failing to read back a hold-short instruction.
+At airports using low-visibility surface-movement procedures, follow the published procedure and ATC instructions.
+
+---
+
+### Runway Incursion Avoidance
+
+Everything in this lesson comes together at the runway boundary.
+
+Runway incursions commonly result from:
+
+- Losing position.
+- Misunderstanding a clearance.
+- Expectation bias.
+- Distraction.
 - Crossing a hold line without authorization.
-- Confusing a runway with a taxiway.
-- Misreading location and direction signs.
-- Failing to comply with lighting indications.
-- Continuing to taxi when unsure of position.
-- Allowing distraction during taxi.
+- Entering the wrong runway.
+- Continuing while uncertain.
 
-### ACS Standards — Taxiing, Airport Signs, and Lighting
+Prevent them by:
 
-The applicant should be able to teach:
+- Briefing the taxi route.
+- Reviewing Hot Spots.
+- Keeping the diagram available.
+- Reading back critical instructions.
+- Using sterile-cockpit discipline.
+- Confirming every runway crossing.
+- **Stopping whenever position or clearance is uncertain.**
 
-- Elements of safe taxi operations.
-- Current airport aeronautical references.
-- Taxi instructions and clearances.
-- Airport markings, signs, and lights.
-- Visual wind indicators.
-- Aircraft lighting.
-- Pre-taxi route planning and Hot Spots.
-- Towered and non-towered communications.
-- Entering and crossing runways.
-- Night taxi operations.
-- Low-visibility taxi operations.
+---
 
-The applicant should manage risks involving:
+### Supplemental Visual — ATC Light Gun Signals
 
-- Activities and distractions.
-- Confirmation and expectation bias.
-- Route or runway changes.
-- Runway incursions.
+Light gun signals are formally taught in **Area VI, Task A — Communications, Light Signals, and Runway Lighting Systems**, but this reference is useful during airport-surface training.
 
-The applicant should be able to:
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Light_Gun_Signals.png" alt="ATC light gun signal chart" loading="lazy">
+    <figcaption>ATC light gun signals — supplemental reference for lost-radio operations; formally covered in Area VI, Task A.</figcaption>
+</figure>
 
-- Receive and correctly read back taxi clearances and instructions.
-- Use the airport diagram during taxi.
-- Maintain situational awareness.
-- Position the flight controls for the wind.
-- Complete the appropriate checklist.
-- Perform the brake check after movement begins.
-- Maintain positive directional and speed control.
-- Comply with markings, signals, and ATC instructions.
-- Position the airplane correctly relative to hold lines.
+---
 
-### Instructor Demonstration
+### ACS Coverage — Area V, Task D
 
-During the demonstration:
+**Knowledge**
 
-- Review the airport diagram before moving.
-- Identify Hot Spots.
-- Clear the area.
-- Position controls for the wind.
-- Begin taxi slowly.
-- Perform the brake check.
-- Maintain the centerline.
-- Demonstrate proper speed control.
-- Identify signs and markings as they appear.
-- Verbalize runway-incursion considerations.
-- Read back applicable clearances.
-- Stop before the hold line.
-- Verify the runway before entering or crossing.
+- **AI.V.D.K1 — Safe taxi operations:** speed, directional control, braking, obstacle awareness.
+- **AI.V.D.K2 — Airport references:** airport diagram, Chart Supplement, NOTAMs, Hot Spots.
+- **AI.V.D.K3 — Taxi instructions and clearances:** understanding, readback, expectation bias, route changes.
+- **AI.V.D.K4 — Airport markings, signs, and lights:** runway/taxiway markings, mandatory/location/direction signs, hold positions, runway and taxiway lighting.
+- **AI.V.D.K5 — Visual wind indicators:** windsock, wind cone, wind tee, tetrahedron where installed.
+- **AI.V.D.K6 — Aircraft lighting:** appropriate use during ground operations.
+- **AI.V.D.K7a — Pre-taxi planning and Hot Spots.**
+- **AI.V.D.K7b — Towered and non-towered communications.**
+- **AI.V.D.K7c — Entering and crossing runways.**
+- **AI.V.D.K7d — Night taxi.**
+- **AI.V.D.K7e — Low-visibility taxi.**
 
-### Learner Practice
+**Risk Management**
 
-Have the learner:
+- **AI.V.D.R1 — Activities and distractions:** do setup while stopped; eyes outside while moving.
+- **AI.V.D.R2 — Confirmation and expectation bias:** verify what ATC actually said and what the signs/diagram show.
+- **AI.V.D.R3 — Route or runway changes:** stop, rebrief, and reorient before continuing.
+- **AI.V.D.R4 — Runway incursions:** protect hold positions and stop when uncertain.
 
-- Plan the taxi route.
-- Identify Hot Spots.
-- Read back the clearance.
-- Position the controls for wind.
-- Perform the brake check.
-- Taxi at a safe speed.
-- Maintain centerline.
-- Identify signs and markings.
-- Identify airport lights.
-- Hold correctly at runway boundaries.
-- Make appropriate CTAF calls at non-towered airports.
-- Stop and ask whenever unsure.
+**Skills**
 
-### Completion Standard
+- **AI.V.D.S1 — Receive and correctly read back taxi clearances and instructions.**
+- **AI.V.D.S2 — Use the airport diagram and maintain situational awareness.**
+- **AI.V.D.S3 — Position the flight controls for the wind.**
+- **AI.V.D.S4 — Complete the appropriate checklist.**
+- **AI.V.D.S5 — Perform the brake check after movement begins.**
+- **AI.V.D.S6 — Maintain positive directional and speed control.**
+- **AI.V.D.S7 — Comply with markings, signals, and ATC instructions.**
+- **AI.V.D.S8 — Position the airplane correctly relative to hold lines.**
 
-The learner can safely taxi the airplane while:
+### References
 
-- Using the appropriate airport references.
-- Understanding the taxi clearance.
-- Maintaining directional and speed control.
-- Positioning controls correctly for wind.
-- Complying with signs, markings, lighting, and hold-short requirements.
-- Maintaining situational awareness.
-- Avoiding runway incursions.
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area V, Task D.
+- FAA-H-8083-3 — Airplane Flying Handbook, Ground Operations.
+- FAA Aeronautical Information Manual — Airport Marking Aids and Signs; Airport Lighting Aids; Airport Operations.
+- FAA Airport Diagrams and Chart Supplement.
+- FAA Runway Safety / Runway Status Lights guidance.
+- Aircraft POH/AFM and checklist.
 
 
-Teach taxiing element by element, in the ACS order: the elements of safe taxi operations, the airport references, the taxi instructions and clearances, the markings/signs/lights, the wind indicators, the aircraft lighting, and the taxi procedures. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each Knowledge element once, in order.
 
 ## AI.V.D.K1 — Elements of Safe Taxi Operations
 

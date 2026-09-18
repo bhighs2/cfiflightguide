@@ -117,470 +117,468 @@ For an engine fire during start: mixture cutoff, throttle full, and keep crankin
 
 ### Purpose
 
-Engine starting is a normal procedure with several serious hazards:
+**Engine starting is a normal procedure with several high-consequence hazards.**
 
-- The propeller can injure or kill someone.
-- The airplane can move unexpectedly.
-- Incorrect priming can flood the engine or cause a fire.
-- Starter limits can be exceeded.
-- Abnormal oil pressure or other indications can reveal a problem immediately after start.
+The instructional story is simple:
 
-The objective is to start the engine safely, using the approved checklist and the procedure appropriate to the conditions.
+1. **Position the airplane safely and clear the propeller area.**
+2. **Use the correct checklist for the condition.**
+3. **Start the engine without exceeding engine or starter limitations.**
+4. **Confirm the engine and electrical system are operating normally.**
+5. **Know how the procedure changes for hot, flooded, or external-power starts.**
+6. **Know exactly what to do if a fire occurs during start.**
 
-### Before Starting
+The ACS is evaluating whether the applicant can teach **starting under various conditions, starting with external power, starting limitations, propeller safety, and use of the proper checklist**.
+
+---
+
+### Position the Airplane Before Starting
+
+Before touching the starter, first make sure the airplane is in a safe place to run an engine.
+
+Consider:
+
+- **Structures.**
+- **Other aircraft.**
+- **Wind.**
+- **People.**
+- **Vehicles and property.**
+
+Think about both the **propeller** and the **propeller blast**.
+
+Avoid starting where the blast can:
+
+- Blow debris into people or aircraft.
+- Damage property.
+- Blow into an open hangar.
+- Create a hazard behind the airplane.
+
+The ACS specifically requires the applicant to **position the airplane appropriately before engine start**.
+
+---
+
+### Clear the Propeller Area
+
+Once the airplane is positioned, clear the immediate hazard.
 
 Before engaging the starter:
 
-- Position the airplane so propeller blast will not endanger people, aircraft, vehicles, or buildings.
-- Verify the area around the propeller is clear.
-- Verify the area behind the airplane is clear.
-- Remove chocks, tow bar, and tiedowns as appropriate.
-- Set the brakes as directed by the POH.
-- Turn on the anti-collision beacon as appropriate.
-- Use position lights at night as appropriate.
-- Open the window or door as needed and call **“CLEAR PROP.”**
-- Pause long enough for anyone nearby to respond or move away.
+- Verify the area **around the propeller** is clear.
+- Verify the area **behind the airplane** is clear.
+- Set or hold the brakes as required.
+- Turn on the **flashing beacon** as required by the checklist.
+- Call **“CLEAR PROP.”**
+- Pause long enough for anyone nearby to respond or move.
 
-Do not assume the area is clear simply because no one was visible a few seconds earlier.
+Treat every propeller as though the ignition could be live.
 
-### Propeller Safety
+A stationary propeller is not a safe propeller.
 
-Treat every propeller as though the ignition system is live.
+---
 
-A stationary propeller can move if:
+### Use the Correct Checklist for the Condition
 
-- A magneto switch is faulty.
-- The ignition is unintentionally left on.
-- The engine fires unexpectedly.
+From here, use the **aircraft-specific POH/AFM checklist**.
 
-Never allow:
+Starting technique changes with:
 
-- Passengers.
-- Baggage.
-- Ground personnel.
-
-to move through the propeller arc.
-
-### Positioning the Airplane
-
-The ACS requires the airplane to be positioned with consideration for:
-
-- Structures.
-- Other aircraft.
-- Wind.
-- Nearby persons.
-- Property.
-
-Before starting, consider:
-
-- Propeller blast.
-- Loose debris.
-- Fuel spills.
-- Nearby vehicles.
-- Open hangars.
-- People walking on the ramp.
-
-Wind direction may also matter because it affects:
-
-- Propeller blast.
-- Engine cooling.
-- Smoke or fumes.
-
-### Use the Correct Checklist
-
-Use the engine-start checklist for the actual airplane.
-
-Starting procedures vary based on:
-
-- Carbureted versus fuel-injected engine.
-- Cold versus hot engine.
+- Cold engine.
+- Warm or hot engine.
 - Flooded engine.
-- External-power start.
-- Installed equipment.
+- External power.
+- Installed engine and fuel system.
 
-Do not substitute a remembered procedure from another airplane.
+For the **Cessna 172S**, the normal battery start is a fuel-injected start using the auxiliary fuel pump to prime as required.
 
-### Starting Under Normal Conditions
+---
 
-Set the engine controls according to the POH.
+### Normal Start — Cessna 172S, Battery
 
-Typical items may include:
+For a normal battery start:
 
-- Fuel selector.
-- Mixture.
-- Throttle.
-- Primer.
-- Carburetor heat.
-- Boost pump.
-- Propeller control.
-- Master switch.
-- Beacon.
+1. **Throttle — OPEN 1/4 INCH.**
+2. **Mixture — IDLE CUTOFF.**
+3. **Propeller Area — CLEAR.**
+4. **Master Switch — ON.**
+5. **Flashing Beacon — ON.**
 
-The exact sequence is aircraft-specific.
+If the engine is cold and priming is required:
 
-### Keep Control of the Throttle
+6. **Auxiliary Fuel Pump — ON.**
+7. **Mixture — FULL RICH** until stable fuel flow is indicated, generally **3–5 seconds**, then return to **IDLE CUTOFF**.
+8. **Auxiliary Fuel Pump — OFF.**
+9. **Ignition — START.**
+10. When the engine starts, **advance the mixture smoothly to RICH**.
+11. **Oil Pressure — CHECK.**
+12. **Navigation Lights — ON as required.**
+13. **Avionics Master — ON.**
+14. **Radios — ON.**
+15. **Flaps — RETRACT.**
 
-Maintain immediate access to the throttle during the start.
+The teaching point is not memorizing a generic start.
 
-When the engine fires:
+It is:
 
-- Set the RPM to the value specified by the POH.
-- Prevent an excessive initial RPM.
-- Keep the airplane from moving.
+**set the controls correctly, prime only as required, clear the propeller, start the engine, and immediately verify oil pressure.**
 
-Do not let the engine start at a high power setting.
+---
 
-### Preventing Aircraft Movement
+### Warm or Hot Engine
 
-During and immediately after start:
+A warm engine does not necessarily need the same amount of fuel as a cold engine.
 
-- Hold the brakes.
-- Monitor outside.
-- Verify the airplane is not creeping forward.
-- Avoid excessive heads-down time.
+On the **C172S**, the POH states that if the engine is warm, the priming steps may be omitted.
 
-A successful engine start does not help if the airplane rolls into:
+So the risk with a warm engine is often **adding too much fuel**.
 
-- Another aircraft.
-- A vehicle.
-- A person.
-- A building.
+Teach the learner:
 
-### Cold-Weather Starting
+**do not automatically prime just because that is what you did on the last start.**
 
-Cold weather can affect:
+Use the POH procedure for the actual engine condition.
 
-- Oil viscosity.
-- Battery output.
-- Starter performance.
-- Fuel vaporization.
-- Spark-plug performance.
+---
 
-Use the cold-start procedure in the POH.
+### Flooded Engine
 
-Preheat may be appropriate or required depending on:
+If too much fuel has been introduced, the engine may be flooded.
 
-- Temperature.
-- Aircraft guidance.
-- Oil grade.
+On the **C172S**, the POH procedure is:
 
-Cold-start risks include:
+- **Auxiliary Fuel Pump — OFF.**
+- **Mixture — IDLE CUTOFF.**
+- **Throttle — 1/2 to FULL OPEN.**
+- **Crank the engine.**
+- When the engine starts, **Mixture — FULL RICH** and **close the throttle promptly.**
 
-- Excessive starter use.
-- Overpriming.
-- Poor oil circulation.
-- Engine damage from operating before adequate lubrication is established.
+The teaching point is:
 
-### Hot-Weather / Hot-Engine Starting
+**a flooded engine already has too much fuel, so adding more prime makes the problem worse.**
 
-A hot engine may require a different procedure from a cold engine.
+---
 
-Fuel-injected engines may be particularly susceptible to:
+### Maintain Control During the Start
 
-- Fuel vaporization.
-- Vapor in the fuel lines.
-- Difficult hot starts.
+During the start:
 
-Use the POH hot-start procedure.
+- Keep the brakes applied.
+- Maintain immediate access to the throttle.
+- Watch outside.
+- Prevent the airplane from moving.
+- Be ready to reduce excessive RPM.
 
-Do not compensate for a difficult hot start by randomly adding more fuel.
+When the engine starts, control the throttle promptly.
 
-That may turn a difficult start into a flooded start.
+Do not allow the engine to start at an unnecessarily high RPM.
 
-### Flooded / Overprimed Engine
+---
 
-Too much fuel can flood the engine.
+### Immediately Check Oil Pressure
 
-Possible indications include:
+The start is not complete just because the engine is running.
 
-- Strong fuel smell.
-- Fuel draining from the induction system.
-- Repeated unsuccessful firing.
+Immediately verify **oil pressure**.
 
-Use the flooded-start procedure in the POH.
+If oil pressure does not rise as required by the POH:
 
-Do not continue adding prime.
+**shut the engine down.**
 
-Overpriming can also increase the risk of an engine fire during start.
+Then continue checking:
+
+- RPM.
+- Electrical indications.
+- Annunciators.
+- Abnormal noise.
+- Abnormal vibration.
+- Smoke or unusual smell.
+
+If something does not look, sound, or feel right:
+
+**stop and investigate.**
+
+---
 
 ### Starter Limitations
 
 The starter is not designed for unlimited continuous operation.
 
-Use the starter duty cycle specified in the POH or aircraft documentation.
+Use the starter duty cycle specified by the airplane or starter documentation.
 
-Excessive cranking can cause:
+If the engine does not start:
+
+- Stop cranking.
+- Allow the required cooling interval.
+- Reassess the condition.
+- Use the correct procedure rather than continuing to crank indefinitely.
+
+Excessive starter use can cause:
 
 - Starter overheating.
 - Electrical damage.
 - Battery depletion.
 - Starter failure.
 
-If the engine does not start:
+---
 
-- Stop cranking.
-- Allow the required cooling period.
-- Reassess the starting condition and procedure.
+### Starting With External Power — Cessna 172S
 
-Do not keep grinding the starter because the engine “almost started.”
+External power is not simply a battery start with a cable attached.
 
-### Engine Limitations During Start
+It has its own POH procedure and additional risks.
 
-The start is not complete when the engine begins running.
+For the **C172S**:
 
-Immediately monitor:
+1. **Throttle — OPEN 1/4 INCH.**
+2. **Mixture — IDLE CUTOFF.**
+3. **Propeller Area — CLEAR.**
+4. **Master Switch — OFF.**
+5. **External Power — CONNECT** to the airplane receptacle.
+6. **Master Switch — ON.**
+7. **Flashing Beacon — ON.**
 
-- Oil pressure.
-- RPM.
-- Electrical-system indications.
-- Other required engine instruments.
+If the engine is warm, the priming steps are omitted.
 
-If oil pressure does not rise as required by the POH:
+If priming is required:
 
-**shut the engine down.**
+8. **Auxiliary Fuel Pump — ON.**
+9. **Mixture — FULL RICH** until stable fuel flow is indicated, generally **3–5 seconds**, then **IDLE CUTOFF**.
+10. **Auxiliary Fuel Pump — OFF.**
+11. **Ignition — START.**
+12. When the engine starts, **Mixture — smoothly to RICH.**
+13. **Oil Pressure — CHECK.**
+14. **External Power — DISCONNECT** and secure the external-power door.
 
-Do not continue operating an engine without confirmed lubrication.
+Now there is one more important step:
 
-### After-Start Engine Indications
+**verify that the airplane's own electrical system is actually functioning.**
 
-After start:
+---
 
-- Set the specified RPM.
-- Confirm oil pressure.
-- Confirm electrical charging.
-- Check annunciators.
-- Listen for abnormal noises.
-- Feel for abnormal vibration.
-- Watch for smoke or unusual smell.
+### Verify the Electrical System After External-Power Start
 
-An abnormal indication is a reason to stop and investigate.
+The C172S POH includes an electrical-system check after external-power starting because an external source can start an airplane even when the airplane's own charging system is not functioning properly.
 
-### Engine Fire During Start
+The POH check is:
 
-An engine fire during start requires the **aircraft-specific POH/AFM emergency procedure**.
+- **Master Switch — OFF.**
+- **Taxi and Landing Lights — ON** to create an electrical load.
+- **Engine RPM — reduce to idle.**
+- **Master Switch — ON.**
 
-For many light piston airplanes, the procedure attempts to draw the fire into the engine by continuing to crank.
+At idle, alternator output should be low enough that the battery supplies part of the load and the **ammeter indicates in the negative direction**.
 
-A typical sequence may involve:
+Then:
 
-- Mixture idle cutoff.
-- Throttle open.
-- Continued cranking.
+- Increase RPM to approximately **1500 RPM**.
 
-But:
+As alternator output increases:
 
-**use the actual POH procedure for the airplane.**
+- The **ammeter should indicate positive**.
+- The **LOW VOLTAGE annunciator should not be illuminated**.
 
-If the fire does not extinguish:
+If the expected indications do not occur:
 
-- Shut down.
-- Turn off fuel and electrical sources as directed.
-- Evacuate.
-- Use a fire extinguisher if appropriate and safe.
-- Obtain assistance.
+**the electrical system is not functioning properly and corrective maintenance is required before flight.**
 
-Do not teach one generic fire-on-start sequence as universal.
+That is the key teaching point of the external-power start:
 
-### External Power Starting
+**getting the engine running does not prove the airplane's electrical system is healthy.**
 
-An external power unit may be used when approved by the airplane manufacturer.
+---
 
-Use:
+### External-Power Risks
 
-- Correct voltage.
-- Correct connector.
-- Correct polarity.
-- Correct connection sequence.
-- Correct disconnection procedure.
+External power adds several hazards:
 
-Follow the POH/AFM supplement.
-
-External power introduces risks including:
-
-- Electrical-system damage.
-- Arcing.
+- Wrong voltage.
 - Incorrect connection.
+- Arcing.
+- Electrical-system damage.
 - Ground personnel near the propeller.
+- Failure to detect the reason the battery was discharged.
 
-Coordinate clearly with the ground crew.
+Mitigate those risks by:
 
-### External Power Is Not a Shortcut Around Maintenance
+- Using approved equipment.
+- Following the exact POH sequence.
+- Coordinating with ground personnel.
+- Keeping everyone clear of the propeller.
+- Verifying the aircraft electrical system after start.
 
-A discharged battery may have an identifiable cause.
+A dead battery may represent a maintenance problem.
 
-Before using external power, consider whether the battery condition indicates:
+**External power gets the engine started; it does not diagnose or fix the cause of the dead battery.**
 
-- Electrical-system fault.
-- Charging-system problem.
-- Maintenance issue.
+---
 
-Starting the engine does not fix the underlying problem.
+### Engine Fire During Start — Cessna 172S
+
+A start fire is one of the reasons engine-start procedures must be learned exactly.
+
+For the **C172S**, the first action is:
+
+**Ignition — START; continue cranking to obtain a start and draw the flames and accumulated fuel into the engine.**
+
+#### If the Engine Starts
+
+- **Power — 1800 RPM for a few minutes.**
+- **Engine — SHUT DOWN.**
+- Inspect for fire damage before further flight.
+
+#### If the Engine Does Not Start
+
+Continue with the POH sequence:
+
+- **Throttle — FULL OPEN.**
+- **Mixture — IDLE CUTOFF.**
+- **Cranking — CONTINUE.**
+- **Fuel Shutoff Valve — OFF.**
+- **Auxiliary Fuel Pump — OFF.**
+- **Fire Extinguisher — ACTIVATE.**
+- **Master Switch — OFF.**
+- **Ignition Switch — OFF.**
+- **Parking Brake — RELEASE.**
+- **Evacuate the airplane.**
+- **Extinguish the fire** using appropriate available means.
+- Inspect and repair all fire damage before another flight.
+
+The counterintuitive part is important:
+
+**do not automatically stop cranking at the first sign of fire.**
+
+In the C172S, continued cranking is part of the POH procedure because the goal is to pull the accumulated fuel and flames into the engine.
+
+---
 
 ### Hand Propping
 
-Hand propping is hazardous and should only be performed:
+Hand propping is a separate high-risk starting method.
 
-- When appropriate for the aircraft.
+It should only be performed:
+
+- When appropriate for the airplane.
 - By people trained in the procedure.
-- In accordance with the POH/AFM.
+- In accordance with the aircraft guidance.
 
-The risks include:
+Hazards include:
 
 - Unexpected engine start.
+- Propeller contact.
 - Loss of balance.
-- Contact with the propeller.
-- Airplane movement after start.
+- Aircraft movement after start.
 
-### Hand-Propping Precautions
+For an airplane equipped with a normal electric starter, an inoperative starter is generally a **maintenance problem**, not an invitation to improvise a hand-prop start.
 
-If hand propping is appropriate and authorized:
+---
 
-- Use trained personnel.
-- Establish clear verbal commands.
-- Ensure the brakes are set.
-- Use chocks or other securing methods as appropriate.
-- Use a stable, debris-free surface.
-- Verify ignition status before moving the propeller.
-- Never place an untrained person at the controls.
+### Risk Management
 
-For an airplane equipped with a normal electric starter:
+#### Propeller Safety — AI.V.C.R1
 
-an inoperative starter is normally a maintenance issue, not a reason to improvise a hand-prop start.
-
-### Risk Management — Propeller Safety
-
-The propeller hazard exists:
-
-- Before start.
-- During start.
-- After start.
+The propeller hazard exists before, during, and after start.
 
 Mitigate it by:
 
+- Positioning the airplane correctly.
 - Clearing the area.
-- Calling “clear prop.”
-- Using the beacon appropriately.
-- Treating the prop as live.
-- Preventing people from approaching the propeller arc.
+- Calling **“CLEAR PROP.”**
+- Using the beacon as required.
+- Treating the propeller as live.
+- Keeping passengers and ground personnel out of the propeller arc.
 
-### Risk Management — External Power
+#### External Power — AI.V.C.R2
 
 External power adds:
 
 - Electrical hazards.
 - Ground-personnel coordination.
 - Propeller exposure.
+- The possibility of masking an underlying electrical-system problem.
 
-Mitigation:
+Mitigate those risks by following the **POH procedure exactly** and verifying electrical-system operation after start.
 
-- Use approved equipment.
-- Follow the exact procedure.
-- Coordinate before start.
-- Keep everyone clear of the propeller.
-
-### Risk Management — Starting Limitations
+#### Starting Limitations — AI.V.C.R3
 
 Starting limitations include:
 
 - Starter duty cycle.
 - Priming limits.
+- Engine RPM.
 - Oil-pressure requirements.
-- RPM limits.
-- Electrical limitations.
+- Electrical indications.
 
-Mitigation is simple:
+Know the limits before starting and **stop when an indication is abnormal**.
 
-**know the limits before starting and stop when an indication is abnormal.**
+---
 
 ### Common Errors
 
-Common errors include:
-
-- Failing to use the proper checklist.
-- Starting without clearing the propeller.
-- Failing to check the area behind the airplane.
+- Failing to use the correct checklist.
+- Starting without properly clearing the propeller.
+- Failing to consider propeller blast.
 - Inadequate brake application.
 - Excessive throttle during start.
 - Incorrect priming.
-- Overpriming.
-- Using the wrong hot- or cold-start procedure.
-- Exceeding starter duty-cycle limitations.
+- Overpriming a warm engine.
+- Failing to use the flooded-start procedure.
+- Exceeding starter limitations.
 - Ignoring low or absent oil pressure.
 - Failing to monitor outside after start.
-- Improper use of external power.
+- Improper external-power connection or sequence.
+- Failing to verify electrical-system operation after an external-power start.
+- Stopping the cranking prematurely during a C172S start fire.
 - Improvised hand propping.
-- Failing to follow the POH for an engine fire during start.
 
-### ACS Standards — Engine Starting
+---
 
-The applicant should be able to explain:
+### ACS Coverage — Area V, Task C
 
-- Starting under various conditions.
-- Starting with external power.
-- Engine limitations related to starting.
+**Knowledge**
 
-The applicant should manage risks involving:
+- **AI.V.C.K1 — Starting under various conditions:** normal, warm/hot, flooded, and other conditions using the applicable POH procedure.
+- **AI.V.C.K2 — Starting by use of external power:** connection, start sequence, disconnection, and post-start electrical-system verification.
+- **AI.V.C.K3 — Engine limitations as they relate to starting:** priming, starter limitations, RPM, oil pressure, and abnormal indications.
 
-- Propeller safety.
-- External power.
-- Starting limitations.
+**Risk Management**
 
-The applicant should be able to:
+- **AI.V.C.R1 — Propeller safety:** airplane positioning, propeller clearance, propeller blast, beacon, and clear-prop call.
+- **AI.V.C.R2 — External power:** electrical hazards, ground personnel, connection/disconnection, and underlying electrical faults.
+- **AI.V.C.R3 — Limitations during starting:** starter, priming, RPM, oil-pressure, and electrical limitations.
 
-- Position the airplane properly considering people, property, wind, structures, and other aircraft.
-- Complete the appropriate checklist.
+**Skills**
+
+- **AI.V.C.S1 — Position the airplane properly** considering structures, other aircraft, wind, and nearby persons and property.
+- **AI.V.C.S2 — Complete the appropriate checklist(s)** for the actual starting condition.
+
+---
 
 ### Instructor Demonstration
 
-During the demonstration:
+Teach the start in the same order the pilot actually performs it:
 
-- Position the airplane appropriately.
-- Verify the area around and behind the airplane is clear.
-- Complete the before-start checklist.
-- Call “clear prop.”
-- Maintain brake pressure.
-- Start the engine using the POH procedure.
-- Control the throttle immediately after start.
-- Verify oil pressure and other indications.
-- Explain what would require a shutdown.
-- Discuss how the procedure changes for cold, hot, and flooded starts.
-- Discuss external power and hand-propping hazards.
-- Review the engine-fire-during-start procedure from the POH.
+1. **Position the airplane safely.**
+2. **Clear the propeller and blast area.**
+3. **Select the correct start checklist.**
+4. **Set throttle and mixture.**
+5. **Prime only as required for the engine condition.**
+6. **Call “CLEAR PROP.” and start.**
+7. **Control RPM and aircraft movement.**
+8. **Check oil pressure immediately.**
+9. **Verify the remaining engine and electrical indications.**
+10. Explain how the procedure changes for a **warm or flooded engine**.
+11. Explain and demonstrate the **external-power sequence** as appropriate.
+12. Review the **fire-during-start procedure** directly from the POH.
 
-### Learner Practice
+### References
 
-Have the learner:
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area V, Task C.
+- FAA-H-8083-3 — Airplane Flying Handbook, Engine Starting and Hand Propping.
+- Cessna 172S Pilot's Operating Handbook:
+    - Section 4 — **Starting Engine (With Battery)**
+    - Section 4 — **Starting Engine (With External Power)**
+    - Section 3 — **Fire During Start on Ground**
+- Aircraft checklist and applicable POH/AFM.
 
-- Select a safe start location.
-- Explain the propeller hazard.
-- Complete the checklist.
-- Call “clear prop.”
-- Maintain brake control.
-- Start the engine correctly.
-- Set the proper RPM.
-- Verify oil pressure.
-- Identify abnormal indications.
-- Explain hot, cold, and flooded-start differences.
-- Explain external-power precautions.
-- Explain the hand-propping hazards.
-- Explain the engine-fire-during-start procedure.
-
-### Completion Standard
-
-The learner can safely perform and explain the engine-start procedure while:
-
-- Positioning the airplane appropriately.
-- Clearing the propeller area.
-- Using the correct checklist.
-- Adjusting controls for the actual starting condition.
-- Preventing aircraft movement.
-- Respecting starter and engine limitations.
-- Verifying normal indications after start.
-- Managing external-power and hand-propping hazards.
-- Responding correctly to an engine fire during start using the POH/AFM.
-
-
-Teach engine starting as a hazard-management task, not a button-push: the propeller is lethal, the start has a defined checklist, the engine has limitations, and a fire on the start has a specific, counterintuitive response. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would perform a start.
 
 ## AI.V.C.K1 — Starting Under Various Conditions
 
