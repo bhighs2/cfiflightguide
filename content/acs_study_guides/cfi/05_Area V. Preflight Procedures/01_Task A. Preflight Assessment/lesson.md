@@ -121,8 +121,582 @@ IMSAFE — Am I Fit to Fly? |
 ]]
 
 # Teach
+## Instructor Notes
 
-Teach the preflight assessment as the decision that happens before the engine starts: the pilot, the airplane, the environment, and the plan must all be right, and the walkaround is how the pilot verifies the airplane. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would perform a real preflight.
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Purpose
+
+Preflight assessment answers one question:
+
+**Can this flight be conducted safely with this pilot, this airplane, and these conditions?**
+
+Use **PAVE** to tell the story:
+
+- **P — Pilot**
+- **A — Aircraft**
+- **V — enVironment**
+- **E — External pressures**
+
+Then consider **aviation security** before departure.
+
+---
+
+### P — Pilot
+
+Start with the pilot.
+
+Use **IMSAFE**:
+
+- **I — Illness:** Am I sick or recovering?
+- **M — Medication:** Am I taking anything that could impair me?
+- **S — Stress:** Is stress affecting concentration or judgment?
+- **A — Alcohol:** Am I fully free of its effects and within the regulation?
+- **F — Fatigue:** Did I get enough sleep, and am I alert?
+- **E — Emotion:** Am I angry, anxious, distracted, or emotionally preoccupied?
+
+Then ask:
+
+- Am I current?
+- Am I proficient for this airplane and these conditions?
+- Am I within my personal minimums?
+
+Being legal does not automatically mean being fit for this flight.
+
+---
+
+### A — Aircraft
+
+Now determine whether the airplane is:
+
+1. Appropriate for the mission.
+2. Legally airworthy.
+3. Properly equipped.
+4. Physically in condition for safe flight.
+
+### Is the Airplane Appropriate?
+
+Consider:
+
+- Occupants and baggage.
+- Weight and balance.
+- Fuel capacity.
+- Runway length.
+- Density altitude.
+- Terrain.
+- Weather.
+- Required navigation and communication equipment.
+
+An airplane may be airworthy and still be inappropriate for the mission.
+
+### Airworthiness — §91.7
+
+The PIC is responsible for determining that the aircraft is in condition for safe flight.
+
+Airworthiness requires that the airplane:
+
+- Conform to its approved type design or properly altered configuration.
+- Be in condition for safe operation.
+
+### Required Inspections — AV1ATE
+
+Use **AV1ATE** to organize recurring inspections and checks:
+
+- **A — Annual:** within the preceding 12 calendar months. **§91.409**
+- **V — VOR:** checked within the preceding 30 days when used for IFR navigation. **§91.171**
+- **1 — 100-hour:** when required by **§91.409(b)**
+- **A — Altimeter/static:** within 24 calendar months for the applicable IFR operation. **§91.411**
+- **T — Transponder:** within 24 calendar months when required. **§91.413**
+- **E — ELT:** inspection and battery requirements. **§91.207**
+
+The mnemonic helps organize the review; the regulation determines whether each item applies.
+
+### Required Equipment — §91.205
+
+For **day VFR**, use **A TOMATO FLAMES**:
+
+- **A — Airspeed indicator**
+- **T — Tachometer** for each engine
+- **O — Oil pressure gauge** for each engine using a pressure system
+- **M — Manifold pressure gauge** for each altitude engine
+- **A — Altimeter**
+- **T — Temperature gauge** for each liquid-cooled engine
+- **O — Oil temperature gauge** for each air-cooled engine
+- **F — Fuel quantity gauge** for each tank
+- **L — Landing gear position indicator**, if retractable
+- **A — Anti-collision light system**, when required
+- **M — Magnetic direction indicator**
+- **E — ELT**, when required
+- **S — Safety belts and shoulder harnesses**, as applicable
+
+Then ask whether additional equipment is required by:
+
+- Night VFR.
+- IFR.
+- POH/AFM.
+- KOEL or equipment list.
+- Type design.
+- AD.
+- Other operating rules.
+
+### Inoperative Equipment — §91.213
+
+If something is inoperative, determine whether the flight may legally and safely continue.
+
+Check whether the item is required by:
+
+- §91.205.
+- Type design.
+- POH/AFM or KOEL.
+- AD.
+- Other operating rule.
+
+If it is required, resolve the discrepancy before flight.
+
+### Documents in the Airplane
+
+Verify the documents actually required for the operation:
+
+- **Airworthiness certificate** — displayed at the cabin or cockpit entrance so it is legible to passengers or crew. **§91.203**
+- **Registration certificate** — current and aboard. **§91.203**
+- **Operating limitations** — approved AFM/POH, markings, and placards applicable to the airplane. **§91.9**
+- **Current weight-and-balance information** — applicable to the aircraft configuration.
+- **FCC radio station license** — when required for international operations.
+
+Maintenance records are normally **not carried in the airplane**; review them or an appropriate status summary before flight when determining inspection and airworthiness status.
+
+---
+
+### Physical Preflight Inspection
+
+Now answer a different question:
+
+**The paperwork is good—but is the airplane physically safe to fly today?**
+
+Use the **aircraft-specific POH/AFM checklist**.
+
+For each item, teach:
+
+- What am I checking?
+- Why does it matter?
+- What defect am I looking for?
+
+### Start While Approaching the Airplane
+
+Look at the whole airplane before touching it.
+
+Look for:
+
+- Flat or low tire.
+- Uneven landing gear.
+- Fluid beneath the airplane.
+- Structural distortion.
+- Open panels or doors.
+- Wind or ground-handling damage.
+- Signs of tampering.
+
+### Cabin
+
+Verify:
+
+- Airworthiness certificate.
+- Registration.
+- POH/AFM and required placards.
+- Current weight-and-balance information.
+- Control lock removed.
+- Ignition and electrical switches positioned as required by the checklist.
+- Fuel selector positioned as required.
+- Circuit breakers or fuses appear normal.
+- Seats and seat rails secure.
+- Safety belts and shoulder harnesses serviceable.
+- Doors and windows secure and serviceable.
+- Required emergency or survival equipment aboard, when applicable.
+
+### Ground Equipment
+
+Remove or account for:
+
+- Tie-downs.
+- Chocks.
+- Control locks.
+- Pitot cover.
+- Engine or inlet plugs.
+- Tow bar.
+- Protective covers.
+
+### Flight Controls
+
+Inspect:
+
+- Ailerons.
+- Elevator or stabilator.
+- Rudder.
+- Trim tabs.
+- Flaps.
+- Hinges.
+- Control rods, cables, and attachment hardware.
+
+Look for:
+
+- Free and correct movement.
+- Binding.
+- Excessive play.
+- Missing hardware.
+- Cracks.
+- Bent or damaged surfaces.
+
+### Structure
+
+Look for:
+
+- Dents.
+- Cracks.
+- Wrinkles.
+- Buckling.
+- Loose or missing fasteners.
+- Separation or delamination.
+- Unusual staining.
+
+If a defect is not understood, stop and get qualified help.
+
+### Propeller and Engine
+
+Inspect the propeller for:
+
+- Nicks.
+- Cracks.
+- Dents.
+- Erosion.
+- Spinner security.
+- Oil leakage, if applicable.
+
+Inspect accessible engine items for:
+
+- Oil or fuel leaks.
+- Damaged hoses.
+- Loose components.
+- Belt condition.
+- Air-filter condition.
+- Exhaust damage.
+- Foreign material.
+- Cowling security.
+
+### Oil
+
+Verify:
+
+- Quantity per the POH.
+- Correct grade/type.
+- Cap or dipstick secure.
+- No unexplained leakage.
+
+### Fuel
+
+Verify **quantity, grade, and quality**.
+
+#### Quantity
+
+Use the approved method for the airplane:
+
+- Visual check.
+- Calibrated dipstick.
+- Known fuel load.
+- Gauges as supporting information.
+
+#### Grade
+
+Confirm the fuel is approved for the airplane.
+
+Do not rely only on:
+
+- Truck location.
+- Line-service assumption.
+- Color.
+
+#### Quality
+
+Drain the required sumps and strainer in the POH sequence.
+
+Look for:
+
+- Water.
+- Sediment.
+- Debris.
+- Wrong fuel.
+- Unusual appearance.
+
+If contamination persists:
+
+**do not fly until the cause is resolved.**
+
+Also verify:
+
+- Fuel caps secure.
+- Fuel vents clear.
+
+### Landing Gear and Brakes
+
+Inspect:
+
+- Tire inflation.
+- Tread.
+- Cuts or bulges.
+- Exposed cord.
+- Struts.
+- Brake condition.
+- Hydraulic leaks.
+- Wheel hardware.
+
+### Pitot-Static System
+
+Verify:
+
+- Pitot cover removed.
+- Pitot opening clear.
+- Static ports unobstructed.
+- Drains clear when applicable.
+
+### Lights and Antennas
+
+Inspect applicable:
+
+- Position lights.
+- Anti-collision lights.
+- Landing light.
+- Taxi light.
+- Antennas.
+
+Determine whether any inoperative item affects legal or safe operation.
+
+### Ice, Frost, and Snow
+
+Do not depart with contamination that makes the airplane unsafe.
+
+Ice, frost, or snow can:
+
+- Reduce lift.
+- Increase drag.
+- Increase stall speed.
+- Degrade control.
+
+Remove contamination in accordance with the aircraft guidance.
+
+### Baggage and Cargo
+
+Verify:
+
+- Actual loading matches the weight-and-balance plan.
+- Cargo is in the intended compartment.
+- Everything is secured.
+- Nothing can interfere with the flight controls.
+
+### Oxygen System
+
+If installed and applicable:
+
+verify:
+
+- Quantity or pressure.
+- Masks or cannulas.
+- Hoses and connections.
+- General condition.
+
+---
+
+### V — enVironment
+
+Now ask:
+
+**Can this pilot and airplane safely operate in today's environment?**
+
+Assess:
+
+- Weather.
+- Airports.
+- Airspace.
+- Terrain.
+- Obstacles.
+- Route.
+- Runway conditions.
+- NOTAMs.
+
+### Weather
+
+Consider:
+
+- Ceiling.
+- Visibility.
+- Surface wind and gusts.
+- Winds aloft.
+- Convective activity.
+- Turbulence.
+- Icing risk.
+- Temperature and density altitude.
+- Weather trend.
+
+### Terrain, Route, and Obstacles
+
+Review:
+
+- Terrain elevation.
+- Towers and obstructions.
+- Emergency landing options.
+- Airspace.
+- Suitable airports.
+- Fuel stops.
+- Weather along the route.
+
+The shortest route is not always the safest route.
+
+### Continue the Assessment
+
+The ACS requires the environment to be assessed **continuously**.
+
+After departure, continue monitoring:
+
+- Weather.
+- Wind.
+- Fuel.
+- Airport status.
+- Runway availability.
+- Airspace.
+- Aircraft performance.
+
+If the environment changes, change the plan.
+
+---
+
+### E — External Pressures
+
+Identify pressures before they influence the decision:
+
+- Schedule.
+- Passenger expectations.
+- Work obligations.
+- Reservations.
+- Cost.
+- Desire to get home.
+
+Ask:
+
+**Would I make the same decision if nobody were waiting on me?**
+
+If not, external pressure is affecting the decision.
+
+---
+
+### Aviation Security
+
+Before flight, look for:
+
+- Evidence of tampering.
+- Unauthorized access.
+- Missing or disturbed equipment.
+- Unexplained damage.
+- Suspicious activity around the airplane.
+
+Investigate anything unexplained before departure.
+
+---
+
+### Distractions During the Preflight
+
+If interrupted during the walkaround:
+
+- Return to a known point in the checklist.
+- Repeat enough of the sequence to know nothing was missed.
+
+Do not guess where you left off.
+
+---
+
+### Go / No-Go Decision
+
+Finish by bringing PAVE back together.
+
+**Pilot**
+- Am I fit and proficient?
+
+**Aircraft**
+- Is it appropriate?
+- Are inspections current?
+- Is required equipment installed and operable?
+- Are inoperative items properly resolved?
+- Did it pass the physical inspection?
+
+**Environment**
+- Are weather, airports, airspace, terrain, route, and obstacles acceptable?
+
+**External pressures**
+- Am I being pushed toward a decision I would not otherwise make?
+
+**Security**
+- Is there any unexplained concern?
+
+If an important question remains unresolved:
+
+**do not depart until it is resolved.**
+
+---
+
+### Common Errors
+
+- Skipping pilot self-assessment.
+- Treating PAVE as a recitation instead of a decision tool.
+- Forgetting which AV1ATE items apply.
+- Treating A TOMATO FLAMES as the entire airworthiness determination.
+- Failing to resolve inoperative equipment under §91.213.
+- Using the wrong checklist.
+- Rushing or interrupting the preflight sequence.
+- Failing to recognize abnormal conditions.
+- Trusting fuel gauges without verification.
+- Failing to verify fuel grade or contamination.
+- Missing control locks, pitot covers, tiedowns, or chocks.
+- Accepting ice or frost.
+- Failing to secure baggage and cargo.
+- Ignoring an unexplained discrepancy.
+- Allowing external pressure to influence the decision.
+- Treating assessment as complete after takeoff.
+
+### ACS Coverage — Area V, Task A
+
+**Knowledge**
+
+- **AI.V.A.K1 — Pilot self-assessment:** IMSAFE, currency, proficiency, personal minimums.
+- **AI.V.A.K2 — Appropriate and airworthy airplane:** mission suitability, §91.7, AV1ATE, §91.205, §91.213, required documents.
+- **AI.V.A.K3a — Items inspected:** cabin, controls, structure, propeller, engine, oil, fuel, gear, pitot/static, lights, antennas, contamination, cargo, oxygen when applicable.
+- **AI.V.A.K3b — Reasons for checking:** each section explains the hazard or system function being verified.
+- **AI.V.A.K3c — Detecting defects:** specific abnormal conditions are identified throughout the inspection.
+- **AI.V.A.K3d — Associated regulations:** §§91.7, 91.9, 91.171, 91.203, 91.205, 91.207, 91.213, 91.409, 91.411, and 91.413 as applicable.
+- **AI.V.A.K4 — Environmental factors:** weather, terrain, route selection, and obstructions.
+
+**Risk Management**
+
+- **AI.V.A.R1 — Pilot:** IMSAFE, currency, proficiency, personal minimums.
+- **AI.V.A.R2 — Aircraft:** airworthiness, equipment, maintenance status, fuel, loading, and physical condition.
+- **AI.V.A.R3 — Environment:** weather, airports, airspace, terrain, and obstacles.
+- **AI.V.A.R4 — External pressures:** schedule, passengers, obligations, cost, and get-there pressure.
+- **AI.V.A.R5 — Aviation security:** tampering, unauthorized access, disturbed equipment, and suspicious activity.
+
+**Skills**
+
+- **AI.V.A.S1 — Inspect with an appropriate checklist:** use the aircraft-specific POH/AFM checklist.
+- **AI.V.A.S2 — Verify condition for safe flight and conformity:** legal status plus the physical inspection.
+- **AI.V.A.S3 — Perform self-assessment:** IMSAFE and proficiency assessment.
+- **AI.V.A.S4 — Continue assessing the environment:** monitor conditions after departure and change the plan when necessary.
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area V, Task A.
+- FAA-H-8083-3 — Airplane Flying Handbook, Preflight Assessment and Ground Operations.
+- FAA-H-8083-2 — Risk Management Handbook.
+- FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge.
+- Aircraft POH/AFM.
+- 14 CFR §§3.5, 91.7, 91.9, 91.171, 91.203, 91.205, 91.207, 91.213, 91.409, 91.411, 91.413.
+
+
 
 ## AI.V.A.K1 — Pilot Self-Assessment
 

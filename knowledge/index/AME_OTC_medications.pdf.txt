@@ -1,0 +1,110 @@
+DOCUMENT_TITLE: AME_OTC_medications
+SOURCE_FILE: AME_OTC_medications.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AME_OTC_medications.pdf>>>
+========================================
+
+OVER-THE-COUNTER (OTC) MEDICATIONS 
+ (Updated 05/29/2024)  
+ 
+I. CODE OF FEDERAL REGULATIONS 
+67.113(c); 67.213(c) and 67.313(c)   
+II. MEDICAL HISTORY: Item 48. General Systemic    
+The use of OTC medication may be acceptable if there are no side effects (localized or systemic), which 
+could interfere with aviation safety and the applicant is otherwise qualified.    
+ 
+III. AEROMEDICAL DECISION CONSIDERATIONS: 
+See Item 48. General Systemic  
+ 
+IV. PROTOCOL: None 
+ 
+V. PHARMACEUTICAL CONSIDERATIONS 
+The use of over-the-counter medications (e.g., antihistamines, cold medications, etc.), some 
+food and/or nutritional supplements, and concentrated herbal medications may cause 
+drowsiness or other adverse side effects which could be hazardous to aviation safety. 
+ 
+•   The following serves as a general guidance for OTC medications.  
+• Prescription medications may have longer observation times. Follow the underlying 
+condition’s medication guidance. 
+• For specific medication questions for Pilots: Contact AMCD or RFS;  ATCS - Report to 
+RFS, according to 3930.3C.  
+ 
+A. SIDE EFFECTS*: Below are examples of common side effects and how they may be 
+presented on a medication label.  Also review the label for active ingredients, warnings, 
+and dosing directions. 
+CONCERNING SIDE EFFECTS LABEL WARNING MAY SAY FOUND IN 
+Fatigue, drowsiness “Drowsiness may occur” 
+ 
+“Be careful when driving a motor 
+vehicle or operating machinery” 
+• Anti-diarrheal 
+• Antiemetic (N/V) 
+• Cough and cold 
+• Motion sickness 
+• Sleep-aid 
+Increase heart rate “Nervousness, dizziness, or 
+sleeplessness occurs” 
+• Nasal decongestant 
+Vision disturbance “Changes in vision may occur” • Eye drops** 
+Heart symptoms “May cause nervousness, irritability, 
+sleeplessness, rapid heartbeat” 
+ 
+“May cause serious heart problems” 
+• Anti-diarrheal 
+• Caffeine 
+• Nasal decongestant 
+ 
+* Examples given are not all-inclusive. 
+** Eye drops may cause blurry vision immediately after use.  DO NOT USE IMMEDIATELY PRIOR 
+TO FLIGHT.  For more information see the Eye Medication page.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:AME_OTC_medications.pdf>>>
+========================================
+
+B. OBSERVATION TIMES: There are two types used for medication safety:  
+  
+1. INITIAL observation time (also known as “ground trial”): 
+ 48 hours after taking a new medication for the first time  
+ If the ground trial time has passed but symptoms or side effects are noted or 
+persist, DO NOT FLY OR PERFORM SAFETY-RELATED DUTIES. 
+ 
+2. POST-DOSE observation time (also known as “no fly time”): 
+ Not needed for all medications. 
+ “NO GO” medications will likely have a post-dose observation time which 
+allows the medication effects to dissipate, reducing the potential risk to 
+aviation safety.   
+ In general, post-dose observation time is: 
+o 5-times the maximal pharmacologic half-life of the medication OR  
+o 5-times the maximal hour-dose interval if the pharmacologic half-life 
+information is not available. 
+o Sample calculations can be found at: www.faa.gov/go/pilotmeds  
+ Exceptions with longer initial observation times (where half-life is longer 
+than the dosing interval): 
+o Sedating antihistamine (e.g., diphenhydramine [Benadryl] or 
+chlorpheniramine [Coricidin; ChlorTrimeton]).  See Allergy – 
+Antihistamine & Immunotherapy Medication. 
+ 
+C. TIPS FOR READING MEDICATION LABELS FOR AVIATION SAFETY: 
+ 
+1. Identify the active ingredient(s). Verify the medication has been previously taken 
+with no side effects. (Single-ingredient products are preferred over combination 
+products because it is easier to spot disqualifying ingredients.) 
+ 
+2. Review the “Warnings” section to identify potentially aeromedically concerning side 
+effects. 
+ 
+3. Read carefully “Directions” of product to calculate any post-observation time to 
+mitigate aeromedically concerning risks, if needed. 
+ 
+For more information, see: 
+• Over-the-Counter (OTC) Medications Reference Guide - What Over-the-Counter (OTC) 
+Medications Can I Take and Still be Safe to Fly? 
+ 
+• Medications and Flying Brochure – Do Not Issue, Do Not Fly

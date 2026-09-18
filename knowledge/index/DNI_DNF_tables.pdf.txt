@@ -1,0 +1,178 @@
+DOCUMENT_TITLE: DNI_DNF_tables
+SOURCE_FILE: DNI_DNF_tables.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:DNI_DNF_tables.pdf>>>
+========================================
+
+DO NOT ISSUE (DNI) MEDICATIONS 
+(Updated 06/28/2023) 
+ 
+If the applicant is taking any of the following medications, AMEs should DEFER the exam.  
+DO NOT issue a medical certificate to applicants who are using any of the following drug 
+classes or medications for any condition: 
+ 
+DO NOT ISSUE 
+ 
+ANGINA MEDICATIONS 
+ 
+• nitrates (nitroglycerin, isosorbide dinitrate [Imdur]) 
+• ranolazine (Ranexa) 
+ANTICHOLINERGICS 
+(ORAL) 
+ 
+• atropine 
+• Over-active bladder (OAB) medications with tertiary structure that carry strong 
+warnings about potential for sedation and impaired cognition:  
+o tolterodine (Detrol) 
+o oxybutynin (Ditropan) 
+o solifenacin (Vesicare)  
+• Parkinsonism 
+o benztropine (Cogentin) 
+CANCER TREATMENTS Including many chemotherapy, radiation therapy, and immunotherapy 
+medications, whether used for induction, maintenance, or suppressive therapy.   
+CONTROLLED 
+SUBSTANCES 
+(SCHEDULES I – V) 
+• Including medical marijuana, even if legally allowed or prescribed under 
+state law. 
+• Any open prescription for chronic use of any drug or substance with no 
+resolution. (If short-term use, see “pain medication” and “anti-anxiety” in DNF 
+section.) 
+DIABETIC MEDICATION   • pramlintide (Symlin)   
+ 
+Most diabetes medications are allowed. See Acceptable Combinations of 
+Diabetes Medications. 
+DOPAMINE AGONISTS • Used for Parkinson’s disease or other medical conditions: 
+o bromocriptine (Cycloset, Parlodel) 
+o pramipexole (Mirapex), ropinirole (Requip)  
+o rotigotine (NeuPro) 
+HYPERTENSIVE 
+(CENTRALLY ACTING) 
+• Including but not limited to:  
+o clonidine 
+o guanabenz, methyldopa, reserpine 
+MALARIA MEDICATION • mefloquine (Lariam) 
+ 
+Most other malaria medications are allowed.  
+PSYCHIATRIC OR 
+PSYCHOTROPIC 
+MEDICATIONS 
+• Even when used for conditions other than mental health. Including but not 
+limited to:  
+o Antidepressants (some are allowed - see SSRI guidance)  
+o Anti-anxiety (some are DNF - see that section) 
+o Antipsychotics 
+o Attention deficit disorder (ADD) or attention deficit hyperactivity disorder 
+(ADHD) medications  
+o Mood stabilizers  
+o Stimulants 
+o Tranquilizers 
+SEIZURE MEDICATIONS Even if used for non-seizure conditions (e.g., migraines) 
+STEROIDS, HIGH DOSE Greater than 20 mg prednisone or prednisone equivalent per day. 
+WEIGHT LOSS 
+ 
+• Sympathomimetic (such as phentermine [Adipex]) 
+• bupropion + naltrexone (Contrave) 
+ 
+Note:  Smoking cessation aid varenicline (Chantix) is allowed.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:DNI_DNF_tables.pdf>>>
+========================================
+
+DO NOT FLY (DNF) MEDICATIONS 
+(Updated 06/28/2023) 
+ 
+The following medications have aeromedically concerning safety profiles.  All medications 
+listed below may cause sedation or drowsiness, impairing cognitive function and seriously 
+degrading pilot performance.  Impairment can occur even when the individual feels alert and 
+is apparently functioning normally.  The pilot can be “unaware of impair.”  
+ 
+AMEs should caution pilots on use and provide additional No Fly wait times where 
+applicable.  If applicant is using the following medications routinely, AMEs should 
+DEFER. 
+ 
+DO NOT FLY 
+ 
+ALLERGY MEDICATIONS 
+(1st GENERATION) 
+Sedating Antihistamines: 
+• Found in many over-the counter (OTC) allergy and other types of 
+medications, as single agent or in any combination product. 
+• Applies to nasal, ophthalmic, AND oral formulations. 
+o diphenhydramine (Benadryl) 
+o chlorpheniramine (Coricidin; ChlorTrimeton) 
+ 
+See pharmaceutical, Allergy – Antihistamine & Immunotherapy Medication 
+ANTI-ANXIETY • Including but not limited to: 
+o alprazolam (Xanax) 
+o lorazepam (Ativan) 
+o temazepam (Restoril) 
+o triazolam (Halcion) 
+MUSCLE RELAXANTS • Including but not limited to: 
+o carisoprodol (Soma) 
+o cyclobenzaprine (Flexeril) 
+OTC ACTIVE DIETARY 
+SUPPLEMENTS 
+• Including but not limited to: 
+o Kava-Kava 
+o Kratom 
+o Valerian 
+PAIN MEDICATION • May be used occasionally for time-limited conditions that are either single 
+episode or recurrent episodes with resolution. 
+• Annotate Block 60 if use is temporary for a medical procedure or for a 
+medical condition and the medication has been discontinued.  
+• Annotate the start and stop dates and reason for use. 
+• Narcotic pain relievers including but not limited to morphine, codeine, 
+oxycodone (Percodan, Oxycontin), and hydrocodone (Lortab, Vicodin, etc.).  
+• Non-narcotic pain relievers (e.g., tramadol [Ultram]). 
+PRE-MEDICATION OR  
+PRE-PROCEDURE 
+DRUGS 
+All medications used as an aid to outpatient surgical or dental procedures. 
+SEDATIVES/SLEEP AIDS • All currently available sleep aids, both prescription and  OTC, can cause 
+impairment of mental processes and reaction times, even when the 
+individual feels fully awake. See Sleep Aid and wait times for currently 
+available prescription sleep aids. 
+• Diphenhydramine (Benadryl) - Many OTC sleep aids contain 
+diphenhydramine as the active ingredient (see sedating antihistamines 
+above). 
+o The wait time after diphenhydramine is 60 hours (based on maximum 
+pharmacologic half-life)
+
+
+========================================
+<<<PDF_PAGE:3>>>
+<<<SOURCE_FILE:DNI_DNF_tables.pdf>>>
+========================================
+
+GENERAL NO FLY WAIT TIMES 
+(Updated 06/28/2023) 
+ 
+For Aviation safety, pilots should not fly following the last dose of any medications until 
+a period of time has elapsed equal to:  
+ 
+A. 5-times the maximum pharmacologic half-life of the medication (preferred); or 
+ 
+B. 5-times the maximum hour dose interval if pharmacologic half-life information is not 
+available.  For example, there is a 30-hour wait time for a medication that is taken 
+every 4 to 6 hours.  If there is a range, calculate by using the higher number (e.g., 6 
+hours x 5 = 30 hours No Fly wait time). 
+ 
+LABEL WARNINGS: 
+ 
+Do not fly or perform safety-related duties while using any medication (prescription or OTC) 
+that carries a label precaution or warning that it may cause drowsiness or advises the 
+user to “be careful when driving a motor vehicle or operating machinery.”  This 
+applies even if label states, “until you know how the medication affects you” and even if the 
+medication has been used before with no apparent adverse effect.  Such medications can 
+cause impairment even when the individual feels alert and unimpaired (see “unaware of 
+impair” above). 
+ 
+For more information, see Pharmaceuticals, Over-the-Counter Medications.

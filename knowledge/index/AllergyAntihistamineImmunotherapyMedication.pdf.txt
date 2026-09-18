@@ -1,0 +1,129 @@
+DOCUMENT_TITLE: AllergyAntihistamineImmunotherapyMedication
+SOURCE_FILE: AllergyAntihistamineImmunotherapyMedication.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:AllergyAntihistamineImmunotherapyMedication.pdf>>>
+========================================
+
+ALLERGY – ANTIHISTAMINE & IMMUNOTHERAPY MEDICATION 
+(Updated 10/26/2022) 
+ 
+I. CODE OF FEDERAL REGULATIONS 
+First-Class Airman Medical Certificate: 67.105(b) & (c); 67.113(c) 
+Second-Class Airman Medical Certificate: 67.205(b) & (c); 67.213(c) 
+Third-Class Airman Medical Certificate: 67.305(b) & (c); 67.313(c) 
+ 
+II. MEDICAL HISTORY: Item 18.e. Hay fever or allergy 
+The applicant must report frequency and duration of symptoms, any incapacitation by the 
+condition, treatment, and side effects. The AME must inquire whether the applicant has ever 
+experienced any barotitis (‘ear block’), barosinusitis (‘sinus block’), alternobaric vertigo 
+(‘dizziness’), difficulty breathing, rashes, or any other localized or systemic symptoms that could 
+interfere with aviation safety.  
+ 
+III. AEROMEDICAL DECISION CONSIDERATIONS: 
+See Item 26. Nose 
+See Item 35. Lungs and Chest 
+ 
+IV. PROTOCOL: See Disease Protocols – Allergies, Severe 
+ 
+V. PHARMACEUTICAL CONSIDERATIONS: Airmen who are exhibiting symptoms, regardless 
+of the treatment used, must not fly.  AME must warn that flight/safety-related duties are 
+prohibited until after any applicable post-dose observation time.  In all situations, the AME must 
+notate the evaluation data in Block 60.  
+ 
+• New medications: 
+o Symptoms must be controlled without adverse side effects. 
+o Post-dose observation time: Mandatory 48-hour ground trial required after initial use. 
+• Acceptable medications: 
+o Do not instill antihistamine eye drops immediately before or during flight/safety related duties, as 
+it is common to develop temporary blurred vision each time the drops are applied. 
+o Post-dose observation time: Not required for acceptable medications (see chart below). 
+• Conditionally acceptable medications: 
+o May be used occasionally (1-2 times a week) with the stipulation that the airman not exercise the 
+privileges of airman certificate while taking the medication.  
+o Daily use is NOT acceptable. 
+o Post-dose observation time: Required to mitigate central nervous system risk, either as noted 
+in the table below or 5x the half-life or maximal dosing interval after the last dose. 
+AMEs are encouraged to look up the dosing intervals and half-life.  
+• For more information, see: “What Over-the-Counter (OTC) Medications Can I Take and Still Be 
+Safe to Fly?” 
+ 
+Immunotherapy:  Airman must confirm with their treating physician that no other medication is 
+being taken which would impair the effectiveness of epinephrine (should it be needed) or 
+increases the risk of heart rhythm disturbances. 
+ 
+• Allergy injections: Acceptable for conditions controlled by desensitization. 
+• Sublingual immunotherapy (SLIT): Acceptable for allergic rhinitis, however, prohibited for airmen 
+65 or older who have an asthma diagnosis that does not meet CACI criteria (See Lungs and 
+Chest).  
+• Post-dose observation time: 48-hour no-fly after the first dose AND 4-hour no-fly after each 
+subsequent dose.
+
+
+========================================
+<<<PDF_PAGE:2>>>
+<<<SOURCE_FILE:AllergyAntihistamineImmunotherapyMedication.pdf>>>
+========================================
+
+ACCEPTABLE* (Non-Sedating) Antihistamine and Allergy Medications 
+May be used as a single agent or in any combination product, if other certification criteria are met. 
+ Oral: Most Second-Generation Histamine-H1 receptor 
+antagonist  
+• desloratadine (Clarinex) 
+• loratadine (Claritin) 
+• fexofenadine (Allegra) 
+ Oral/Nasal: Decongestants 
+• pseudoephedrine (Sudafed) 
+• oxymetazoline (Afrin) nasal 
+spray 
+ Nasal spray: Histamine-H1 receptor antagonist  
+• azelastine (Astepro; Astelin) nasal spray 
+• olopatadine nasal spray (requires longer initial ground 
+trial of 7 days)  
+ Nasal spray: Corticosteroid 
+ Eye drops: All Second-Generation Histamine-H1 receptor 
+antagonist  
+• alcaftadine (Lastacaft) ophthalmic 
+• azelastine (Optivar) ophthalmic 
+• bepotastine (Bepreve) ophthalmic 
+• cetirizine (Zerviate) ophthalmic 
+• ketotifen (Alaway ; Zaditor) ophthalmic 
+• olopatadine (Pataday; Patanol; Pazeo) ophthalmic 
+ Oral: montelukast (Singulair) 
+ Immunotherapy (require 4 hours wait after each dose) 
+• Allergy injections 
+• Sublingual immunotherapy (SLIT) 
+ 
+* Airman are prohibited from flight/safety-related duties after initial use of a new medication until after a 48-hour 
+ground trial and no side effects are noted.  See Medications & Flying. 
+ 
+CONDITIONALLY ACCEPTABLE (Sedating) Antihistamine Medications 
+May be used occasionally (1-2 x per week) as a single agent or in any combination product, if other 
+certification criteria are met.  NOT FOR DAILY USE. 
+Medication Drug Class Post-dose observation 
+  Oral: All First-Generation Histamine- H1 receptor antagonist  
+• diphenhydramine (Benadryl)** 
+• doxylamine (Unisom) 
+• chlorpheniramine (Coricidin; ChlorTrimeton) 
+clemastine (No brand) 
+ 
+60 hours 
+60 hours  
+5 days 
+5 days   
+ Oral: Some Second-Generation Histamine- H1 receptor antagonist 
+• cetirizine (Zyrtec)  
+• levocetirizine (Xyzal) 
+ 
+48 hours 
+48 hours 
+** Diphenhydramine is the most common medication seen on autopsy in aircraft accidents.  It is found in many 
+over-the-counter products and in some combination prescription medications. 
+ 
+UNACCEPTABLE (Sedating) Antihistamine Medications 
+Use prohibited as a single agent or in any combination product. 
+ᴓ Some Second-Generation Histamine- H1 receptor antagonist  
+• astemizole (Hismanal)

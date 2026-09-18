@@ -103,7 +103,7 @@ A passenger briefing covers how to operate the doors and windows, the safety bel
 
 # Teach
 
-Teach flight deck management as the work done on the ground that makes the flight safer in the air: a secured cabin, briefed passengers, and a managed workload free the pilot to fly. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach the material once, in the order an instructor would prepare a flight.
+
 
 ## AI.V.B.K1 — Passenger Briefing Requirements
 

@@ -1,0 +1,57 @@
+DOCUMENT_TITLE: Antidepressant_Medications
+SOURCE_FILE: Antidepressant_Medications.pdf
+SOURCE_TYPE: authoritative
+
+
+========================================
+<<<PDF_PAGE:1>>>
+<<<SOURCE_FILE:Antidepressant_Medications.pdf>>>
+========================================
+
+ANTIDEPRESSANT MEDICATIONS 
+(Updated 08/27/2025) 
+ 
+CONDITIONALLY Acceptable Antidepressant Medications with SI 
+(Used as a single agent, if otherwise qualified.) 
+ 
+Selective serotonin reuptake inhibitors 
+(SSRI): 
+• citalopram (Celexa) 
+• escitalopram (Lexapro) 
+• fluoxetine (Prozac; Sarafem)  
+• sertraline (Zoloft) 
+Serotonin and norepinephrine reuptake 
+inhibitors (SNRI): 
+• desvenlafaxine (Pristiq)  
+• duloxetine (Cymbalta) 
+• venlafaxine (Effexor)  
+Dopamine/norepinephrine-reuptake 
+inhibitor (NDRI): 
+• buproprion (Wellbutrin) SR/ER 
+formulations ONLY 
+Selective Serotonin Reuptake Inhibitor/ 
+5-HT1A Receptor Partial Agonist: 
+• vilazodone (Viibryd)  
+  
+ 
+ 
+UNACCEPTABLE Antidepressant Medications 
+(Used as a single agent or in any combination product.) 
+ 
+Selective Serotonin Reuptake Inhibitor 
+(SSRI): 
+• fluvoxamine (Luvox)  
+• paroxetine (Paxil) 
+Serotonin and norepinephrine reuptake 
+inhibitors (SNRI): 
+• levomilnacipran (Fetzima) 
+Dopamine/Norepinephrine-Reuptake 
+Inhibitor (NDRI): 
+• buproprion (Wellbutrin) IR 
+formulations 
+ 
+Selective Serotonin Reuptake Inhibitor/ 
+5-HT1A Receptor Partial Agonist: 
+• vortioxetine (Trintellix)  
+esketamine (Spravato) All tricyclic antidepressants (TCAs) 
+All monoamine oxidase inhibitors (MAO-I)

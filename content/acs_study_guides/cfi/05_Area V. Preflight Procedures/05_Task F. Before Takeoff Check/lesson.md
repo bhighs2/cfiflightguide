@@ -108,6 +108,634 @@ The takeoff briefing answers the engine-out question before it happens: reject b
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Purpose
+
+The before-takeoff check is the last systematic opportunity to find a problem before committing the airplane to flight.
+
+The purpose is to verify that:
+
+- The engine is operating normally.
+- The flight controls are free and correct.
+- The instruments and systems are functioning.
+- The airplane is configured for takeoff.
+- Takeoff performance is acceptable.
+- The pilot has a plan for the departure and for an abnormal event.
+
+The checklist is not a ritual.
+
+Every item should answer:
+
+**What am I checking, and what would make me stop the takeoff?**
+
+### Use the Aircraft Checklist
+
+Use the checklist applicable to the actual airplane.
+
+Do not rely solely on memory.
+
+The checklist exists to:
+
+- Put the checks in a logical order.
+- Reduce omission.
+- Standardize the procedure.
+- Catch abnormal conditions before takeoff.
+
+Read each item, perform the action, and verify the expected result.
+
+### Position the Airplane for Run-Up
+
+Choose a run-up position that considers:
+
+- Wind.
+- Other aircraft.
+- Buildings.
+- Vehicles.
+- People.
+- Loose debris.
+- Surface condition.
+
+Whenever practical:
+
+- Use a firm surface.
+- Avoid loose gravel or debris.
+- Avoid directing propeller blast toward aircraft, people, buildings, or vehicles.
+- Position into the wind when practical for improved engine cooling.
+
+After stopping:
+
+- Set the brakes as appropriate.
+- Make sure the airplane is stable.
+- Keep monitoring outside during the run-up.
+
+### Division of Attention
+
+The before-takeoff check requires attention both:
+
+- Inside the cockpit.
+- Outside the airplane.
+
+Do not become so focused on the checklist or engine instruments that you fail to notice:
+
+- The airplane creeping forward.
+- Another airplane taxiing behind you.
+- A vehicle entering the area.
+- A change in runway activity.
+
+Move through the checklist deliberately while continuing an outside scan.
+
+### Engine Temperatures and Pressures
+
+Before applying run-up power, verify the engine has reached the operating condition specified by the manufacturer.
+
+Check the applicable:
+
+- Oil temperature.
+- Oil pressure.
+- Cylinder-head temperature, if installed.
+- Fuel pressure or fuel flow, if applicable.
+- Other engine indications.
+
+Do not accept an abnormal indication simply because it is close to a limit.
+
+If the indication is unexpected:
+
+**stop and determine why before flight.**
+
+### Engine Run-Up
+
+Perform the run-up exactly as specified in the POH/AFM.
+
+The purpose is to confirm that the engine and supporting systems respond normally before takeoff power is required.
+
+Depending on the airplane, the run-up may include:
+
+- Magnetos or ignition system.
+- Carburetor heat.
+- Propeller governor.
+- Engine instruments.
+- Electrical-system indications.
+- Vacuum or pressure system.
+- Annunciators.
+- Idle check.
+
+Teach the learner to observe the **result**, not simply move the control.
+
+### Magneto / Ignition Check
+
+For a conventional dual-magneto system:
+
+- Select each magneto individually.
+- Observe the RPM drop.
+- Compare the drop with the POH limit.
+- Compare the difference between the two magnetos.
+- Listen for roughness.
+
+An abnormal result may include:
+
+- Excessive RPM drop.
+- No RPM drop.
+- Excessive difference between magnetos.
+- Persistent engine roughness.
+
+A run-up that does not meet the manufacturer's limits is not acceptable for takeoff.
+
+### Carburetor Heat Check
+
+If equipped with a carburetor:
+
+- Apply carburetor heat according to the POH.
+- Verify the expected RPM response.
+- Listen for roughness that may indicate existing carburetor ice.
+- Return the system to the required takeoff position.
+
+The exact indication depends on the airplane and propeller system.
+
+### Propeller Check
+
+If equipped with a constant-speed propeller:
+
+- Exercise the propeller control according to the POH.
+- Verify the expected RPM/manifold-pressure response.
+- Observe oil-pressure response where applicable.
+
+Do not add a propeller check to an airplane that does not have one.
+
+### Electrical System
+
+Verify the electrical system is operating normally.
+
+Depending on the airplane, check:
+
+- Voltage.
+- Ammeter.
+- Loadmeter.
+- Alternator or generator indication.
+- Annunciators.
+
+The objective is to confirm:
+
+- The alternator or generator is online.
+- The battery is charging or the system is carrying the expected load.
+- No abnormal electrical indication is present.
+
+### Vacuum / Pressure System
+
+If the airplane uses a vacuum or pressure system:
+
+- Verify the system is within the manufacturer's operating range.
+- Confirm the associated instruments are operating normally.
+
+If the airplane uses electronic flight displays instead:
+
+verify the appropriate:
+
+- AHRS.
+- ADC.
+- Backup instruments.
+- Annunciations.
+
+Teach the installed system.
+
+### Flight Instruments
+
+Before takeoff, verify the flight instruments are:
+
+- Set.
+- Reasonable.
+- Operating.
+
+Check as applicable:
+
+- Altimeter.
+- Heading indicator or HSI.
+- Magnetic compass comparison.
+- Attitude indicator.
+- Airspeed indicator.
+- Turn coordinator.
+- Vertical-speed indicator.
+
+Any instrument that should have responded during taxi or turns should be checked for proper movement.
+
+### Flight-Control Check
+
+Move the flight controls through their full appropriate range.
+
+Verify:
+
+- Free movement.
+- Correct movement.
+- Correct direction.
+
+For a conventional airplane:
+
+- Yoke or stick right — right aileron up, left aileron down.
+- Yoke or stick left — left aileron up, right aileron down.
+- Yoke or stick aft — elevator up.
+- Yoke or stick forward — elevator down.
+- Rudder pedals — rudder moves in the commanded direction.
+
+Look outside when practical.
+
+Do not merely move the controls mechanically without confirming the surfaces.
+
+### Trim and Configuration
+
+Set the airplane for takeoff according to the POH.
+
+Verify:
+
+- Elevator trim.
+- Rudder or aileron trim, if installed.
+- Flaps.
+- Fuel selector.
+- Mixture.
+- Propeller.
+- Cowl flaps.
+- Other configuration items applicable to the airplane.
+
+The goal is for the airplane to be completely configured before entering the runway.
+
+### Avionics and Navigation
+
+Set up the avionics before takeoff so the pilot is not programming during a high-workload climb.
+
+Verify as applicable:
+
+- Departure frequency.
+- Navigation source.
+- GPS flight plan.
+- Initial course.
+- Heading bug.
+- Transponder code.
+- ADS-B status.
+- Autopilot or flight-director settings.
+
+Confirm the active navigation source is the one intended for departure.
+
+### Idle Check
+
+If the POH requires an idle check:
+
+- Reduce the throttle as specified.
+- Verify the engine continues to run smoothly at the expected idle range.
+- Return power to the appropriate setting.
+
+An engine that will not idle normally may create a problem during landing or power reduction.
+
+### Takeoff Performance
+
+Before takeoff, review the performance for the actual conditions.
+
+Consider:
+
+- Aircraft weight.
+- Density altitude.
+- Runway length.
+- Runway surface.
+- Runway slope.
+- Wind.
+- Obstacles.
+- Temperature.
+
+Know:
+
+- Expected takeoff distance.
+- Expected climb performance.
+- Available runway.
+- Available obstacle clearance.
+
+Do not assume yesterday's performance applies today.
+
+### V-Speeds
+
+Review the takeoff speeds applicable to the airplane and operation.
+
+Examples may include:
+
+- Rotation speed.
+- VX.
+- VY.
+- Other manufacturer-defined speeds.
+
+Use the POH/AFM.
+
+Do not use memorized speeds from another airplane.
+
+### Departure Briefing
+
+Before takeoff, brief the departure.
+
+A useful briefing covers:
+
+- Runway.
+- Available runway.
+- Wind.
+- Takeoff configuration.
+- Initial departure path.
+- Relevant V-speeds.
+- Expected climb.
+- Emergency actions.
+
+The purpose is to make the important decisions **before** the airplane accelerates.
+
+### Engine Failure on the Takeoff Roll
+
+Brief the action before beginning the roll.
+
+If a serious malfunction occurs before liftoff:
+
+- Maintain directional control.
+- Reduce power.
+- Stop on the available runway.
+- Use braking as appropriate.
+
+The exact procedure follows the POH/AFM.
+
+### Engine Failure After Liftoff
+
+The plan depends on:
+
+- Altitude.
+- Remaining runway.
+- Terrain.
+- Wind.
+- Aircraft performance.
+- Airport environment.
+
+The safest response at low altitude is usually:
+
+- Maintain aircraft control.
+- Establish the appropriate glide attitude.
+- Land generally ahead within the available area.
+
+Do not teach a fixed turn-back altitude as a universal rule.
+
+Any return-to-runway plan must be:
+
+- Aircraft-specific.
+- Airport-specific.
+- Condition-specific.
+- Based on training and demonstrated performance.
+
+### Unexpected Runway Change
+
+If ATC changes the runway:
+
+**the takeoff plan changes.**
+
+Before accepting and using the new runway:
+
+- Review runway length.
+- Review wind.
+- Review takeoff performance.
+- Review obstacles.
+- Review taxi route.
+- Re-brief the departure.
+
+Do not carry the old runway's assumptions onto the new runway.
+
+### Wake Turbulence
+
+Before takeoff, consider aircraft that have:
+
+- Departed ahead.
+- Landed ahead.
+- Conducted a low approach.
+- Crossed the runway.
+
+Wake can:
+
+- Sink.
+- Drift.
+- Remain near the runway.
+
+If wake separation is questionable:
+
+**wait.**
+
+A takeoff clearance does not require the pilot to accept an unsafe wake-turbulence condition.
+
+### Pre-Lineup Check
+
+Before entering the runway:
+
+- Verify the clearance at a towered airport.
+- Make the appropriate CTAF call at a nontowered airport.
+- Verify the runway designation.
+- Verify the runway is clear.
+- Clear the final approach.
+- Confirm traffic.
+- Confirm no hold-short restriction remains.
+
+At night or low visibility:
+
+take extra care to verify the correct runway.
+
+### Runway Incursion Avoidance
+
+Before crossing the hold line:
+
+- Know exactly which runway you are entering.
+- Verify the clearance.
+- Look both ways.
+- Confirm final is clear.
+- Monitor other traffic.
+
+If anything does not make sense:
+
+**stop and ask.**
+
+### Go / No-Go Decision
+
+The before-takeoff check ends with a decision.
+
+Ask:
+
+- Is the engine operating normally?
+- Are the systems functioning normally?
+- Is the airplane configured correctly?
+- Is the performance adequate?
+- Is the runway appropriate?
+- Is the departure path acceptable?
+- Am I comfortable taking this airplane into the air?
+
+If not:
+
+**do not take off.**
+
+### Marginal Engine Performance
+
+Do not accept:
+
+- Rough engine operation.
+- Abnormal RPM drop.
+- Abnormal oil pressure.
+- High temperature.
+- Low voltage.
+- Unexplained vibration.
+- Unexpected sound.
+- Any indication outside the POH limits.
+
+Even an indication technically inside a limit deserves attention if it is significantly different from normal.
+
+### Risk Management — Division of Attention
+
+The pilot must divide attention between:
+
+- Checklist.
+- Instruments.
+- Outside environment.
+
+Avoid:
+
+- Heads-down fixation.
+- Unnoticed airplane movement.
+- Prop blast hazards.
+- Missing traffic.
+
+### Risk Management — Runway Change
+
+A runway change creates a risk of:
+
+- Wrong runway.
+- Incorrect performance assumption.
+- Incorrect departure route.
+- Wrong heading or navigation setup.
+
+Re-brief before moving onto the runway.
+
+### Risk Management — Wake Turbulence
+
+Consider:
+
+- Aircraft size.
+- Wind.
+- Time since departure or landing.
+- Rotation or touchdown point.
+
+Do not let schedule pressure or ATC sequencing force an unsafe departure.
+
+### Risk Management — Powerplant Failure
+
+The before-takeoff check cannot guarantee the engine will continue running.
+
+But it can:
+
+- Identify obvious problems.
+- Confirm normal operation.
+- Ensure the pilot has an immediate response plan.
+
+The departure briefing should account for:
+
+- Airplane characteristics.
+- Runway length.
+- Surface condition.
+- Environment.
+- Obstacles.
+- Available landing areas.
+
+### Common Errors
+
+Common errors include:
+
+- Using memory instead of the checklist.
+- Rushing the run-up.
+- Improper run-up positioning.
+- Prop blasting aircraft or people.
+- Fixating inside the cockpit.
+- Failing to verify engine temperatures and pressures.
+- Accepting marginal engine performance.
+- Improper magneto or ignition check.
+- Improper carburetor-heat check.
+- Incomplete flight-control check.
+- Failing to verify correct control direction.
+- Failing to configure the airplane for takeoff.
+- Failing to review takeoff performance.
+- Failing to brief emergencies.
+- Using a universal turn-back altitude.
+- Failing to re-brief after a runway change.
+- Failing to consider wake turbulence.
+- Entering the runway without verifying the clearance and final approach.
+- Continuing despite an unexplained abnormal indication.
+
+### ACS Standards — Before Takeoff Check
+
+The applicant should be able to explain:
+
+- Why each checklist item is performed.
+- How the check detects malfunctions.
+- How the check confirms safe operating condition.
+
+The applicant should manage risks associated with:
+
+- Division of attention.
+- Unexpected runway changes.
+- Wake turbulence.
+- Powerplant failure or other malfunction during takeoff.
+
+The applicant should be able to:
+
+- Review takeoff performance.
+- Complete the appropriate checklist.
+- Position the airplane appropriately.
+- Divide attention inside and outside.
+- Verify engine parameters and airplane configuration.
+
+### Instructor Demonstration
+
+During the demonstration:
+
+- Position the airplane safely.
+- Explain why the location was selected.
+- Keep an outside scan during the entire check.
+- Use the actual checklist.
+- Explain what each item is checking.
+- Point out the expected indication.
+- Explain what abnormal result would stop the flight.
+- Complete the flight-control check visually.
+- Review takeoff performance.
+- Conduct the departure briefing.
+- Verify the runway and traffic before entering.
+
+### Learner Practice
+
+Have the learner:
+
+- Select the run-up position.
+- Complete the checklist without assistance.
+- Explain each engine check.
+- Identify normal and abnormal indications.
+- Complete a full flight-control check.
+- Configure the airplane.
+- Review takeoff performance.
+- State the V-speeds.
+- Brief an engine failure during the roll.
+- Brief an engine failure after liftoff.
+- Re-brief after a simulated runway change.
+- Identify wake-turbulence concerns.
+- Complete the pre-lineup check.
+
+### Completion Standard
+
+The learner can perform and explain the before-takeoff check while:
+
+- Using the correct checklist.
+- Positioning the airplane safely.
+- Dividing attention appropriately.
+- Detecting abnormal engine or system indications.
+- Verifying the controls and configuration.
+- Reviewing takeoff performance.
+- Briefing the departure and emergency plan.
+- Managing runway, wake, and traffic risks.
+- Making a sound go/no-go decision.
+
+
 Teach the before-takeoff check as the last chance to catch a malfunction before committing to the takeoff roll. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each element once, in ACS order. This Task has a single Knowledge element (K1) with three sub-elements — teach each.
 
 ## AI.V.F.K1 — Purpose of the Before-Takeoff Checklist Items
