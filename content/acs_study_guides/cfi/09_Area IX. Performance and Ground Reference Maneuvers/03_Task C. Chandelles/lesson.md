@@ -99,455 +99,447 @@ The applicant establishes approximately **30° bank**, completes a smooth consta
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**The main idea in a chandelle is that it is a maximum-performance 180° climbing turn.**
+### Objective
 
-The airplane should gain as much altitude as practical for the selected bank and power setting **without stalling**.
+**Teach the learner to perform and teach a chandelle: a maximum performance climbing 180° turn that begins from straight-and-level flight and ends at the completion of 180° of heading change with the airplane just above a stall speed, in coordinated flight, at the highest practical pitch attitude, with wings level.**
 
-The maneuver is easiest to understand as two halves:
+---
 
-**First 90°: constant bank, increasing pitch.**  
-**Second 90°: constant pitch, decreasing bank.**
+### Visual Reference
 
-That is the core structure of the maneuver.
+![Chandelle Diagram](/knowledge/Chandelle.png)
 
-### Real-World Application — Maximum-Performance Climbing Turn
+---
 
-The chandelle is primarily an airmanship maneuver.
+### Equipment / References
 
-It develops:
+- Cessna 172S POH/AFM
+- Commercial Pilot Airplane ACS
+- Flight Instructor Airplane ACS
+- FAA Airplane Flying Handbook
+- FAA Pilot’s Handbook of Aeronautical Knowledge
 
-- Coordination.
-- Planning.
-- Energy management.
-- Pitch control.
-- Bank control.
-- Rudder use.
-- Awareness of changing control effectiveness.
-- Maximum-performance climb technique.
+---
 
-A practical way to think about it is:
+### POH / Aircraft Considerations
 
-**We are converting airspeed into altitude while turning 180°.**
+For the Cessna 172S, the POH places chandelles in the **Normal Category** and lists a **recommended entry speed of 105 knots**. The POH also states that **abrupt use of the controls is prohibited above 105 KIAS**.
 
-Unlike a lazy eight, we are not trading the energy back.
+That gives us two important teaching points:
 
-We finish:
+1. **Use the recommended entry speed.** For the 172S, that is 105 KTS.
+2. **Smooth control application matters.** A chandelle is a maximum performance maneuver, but it is not an abrupt maneuver.
 
-- Wings level.
-- Nose high.
-- Just above stall speed.
-- At the highest practical altitude reached during the maneuver.
+A practical training setup in the 172 is often:
 
-### What Is a Chandelle?
+- clearing turns complete,
+- approximately **105 KTS**,
+- about **2300 RPM** to hold altitude before entry,
+- clean configuration,
+- mixture appropriately set,
+- and an outside visual reference selected off the wing.
 
-A chandelle begins from straight-and-level flight and ends after a precise 180° climbing turn.
+---
 
-At the end:
+### Why We Teach Chandelles
 
-- Wings are level.
-- Pitch remains high momentarily.
-- Airspeed is just above stall.
-- The airplane has gained maximum practical altitude for the maneuver.
+The chandelle teaches the pilot to combine:
 
-The maneuver is flown smoothly and continuously.
+- precise pitch control,
+- precise bank control,
+- coordination,
+- energy management,
+- orientation,
+- and outside visual reference use.
 
-It is not a steep turn and it is not a stall exercise.
+It is a **maximum performance climbing turn**, not a steep turn and not a stall. The goal is to convert airspeed and power into altitude while turning 180° and arriving at the rollout point with the airplane just above a stall speed, but still fully under control.
 
-### The Two-Phase Concept
+A good opening line when teaching it is:
 
-The easiest way to teach a chandelle is:
+**“A chandelle is all about smoothly extracting the maximum climb performance the airplane can give while turning 180 degrees.”**
 
-**Bank–Pitch, then Pitch–Bank**
+---
 
-#### First 90°
+### FAR / Regulatory Considerations
 
-- Establish approximately **30° bank**.
-- Hold that bank constant.
-- Apply maximum allowable power.
-- Increase pitch continuously.
-- Airspeed decreases continuously.
+The chandelle itself is not specifically prescribed by a single FAR, but several regulations are relevant:
 
-#### Second 90°
+- **14 CFR §91.103** — The pilot must know the aircraft’s performance and limitations, including entry speeds and category limitations.
+- **14 CFR §91.113** — See and avoid applies. Clear the area before entry and continue scanning for traffic throughout the maneuver.
+- **14 CFR §91.119** — Operate at a safe altitude. In practice, this maneuver should be performed high enough to allow recovery from any errors without hazard.
+- **14 CFR §91.13** — Careless or reckless operation is prohibited. Abrupt or poorly planned maneuvering falls squarely into that concern.
 
-- Hold the pitch attitude constant.
-- Begin a smooth, constant-rate rollout.
-- Bank decreases continuously.
-- Airspeed continues decreasing.
-- Wings reach level at 180°.
+A practical teaching line is:
 
-If the learner remembers only one thing:
+**“Even though this is a commercial maneuver, it is still normal-category, coordinated, visual flying done within the airplane’s limits.”**
 
-**First half: bank stays, pitch changes.  
-Second half: pitch stays, bank changes.**
+---
 
-### Energy Management
+### ACS Teaching Framework
 
-The maneuver starts with more kinetic energy—airspeed.
+To fully cover the ACS, the lesson should address:
 
-As pitch increases:
+#### Knowledge
 
-- Airspeed decreases.
-- Altitude increases.
-- AOA increases.
-- Control effectiveness decreases.
+The learner should understand:
 
-The goal is to convert that airspeed into altitude efficiently without:
+- the purpose of the maneuver,
+- the relationship between pitch, bank, and rate of climb,
+- why the first 90° and second 90° are flown differently,
+- the importance of coordinated flight,
+- why visual references are primary,
+- and common errors.
 
-- Stalling.
-- Becoming uncoordinated.
-- Using excessive bank.
-- Reaching minimum speed too early.
+#### Risk Management
 
-### Entry
+The learner should identify and manage:
 
-Before starting:
+- traffic conflict risk,
+- stall/spin risk from poor coordination or excessive pitch,
+- disorientation,
+- altitude loss from poor energy management,
+- and exceeding airplane limitations.
 
-- Clear the area.
-- Select an altitude that allows completion no lower than **1,500 feet AGL**.
-- Make sure there is adequate airspace above.
-- Establish the appropriate configuration, power, and airspeed.
-- Remain at or below the applicable **VA**.
-- Select a 90° reference and a 180° rollout reference.
-- Note or bug the reciprocal heading if useful.
+#### Skills
 
-For the C172S training profile:
+The learner should be able to:
 
-- Clean configuration.
-- Approximately **105 KIAS**.
-- Approximately **2,300 RPM** before beginning.
+- clear the area,
+- select a visual reference,
+- enter at the proper airspeed,
+- establish and maintain approximately 30° of bank in the first half,
+- steadily increase pitch in the first 90°,
+- hold the maximum pitch attitude while gradually reducing bank in the second 90°,
+- roll out on the entry heading plus or minus 180°,
+- and complete the maneuver just above stall speed without stalling.
 
-### First 90° — Constant Bank, Increasing Pitch
+---
 
-Start by establishing approximately **30° of bank**.
+### Maneuver Description
 
-Once the bank is established:
+The chandelle has **two halves**, and each half has a different control emphasis.
 
-- Hold it constant.
-- Smoothly apply maximum allowable power.
-- Begin increasing pitch at a steady rate.
+#### First 90° of turn
 
-The goal is to reach the maximum pitch attitude at the **90° point**.
+- **Bank:** constant at about **30°**
+- **Pitch:** gradually increasing
+- **Power:** full throttle
+- **Coordination:** maintained throughout
 
-As the airplane slows:
+#### Second 90° of turn
 
-- Turn rate tends to increase.
-- Overbanking tendency becomes more noticeable.
-- Rudder effectiveness decreases.
-- Left-turning tendencies become more pronounced.
-
-So the pilot must continuously adjust:
-
-- Aileron to maintain 30° bank.
-- Rudder to maintain coordination.
-- Elevator to continue the pitch increase.
-
-Do not rush the pitch.
-
-If pitch is increased too quickly:
-
-- Airspeed decays too early.
-- Stall warning may occur before 180°.
-
-If pitch is increased too slowly:
-
-- The airplane finishes too fast.
-- Maximum performance is not achieved.
-
-### At the 90° Point
-
-At approximately **90° of turn**:
-
-- Bank remains approximately **30°**.
-- Pitch reaches its maximum nose-up attitude.
-- Airspeed has decreased significantly.
-- The airplane should still be coordinated.
-
-This is the transition point.
-
-From here:
-
-**Stop increasing pitch. Start decreasing bank.**
-
-### Second 90° — Constant Pitch, Decreasing Bank
-
-From 90° to 180°:
-
-- Hold the pitch attitude constant.
-- Roll out at a smooth, constant rate.
-- Maintain power.
-- Airspeed continues decreasing.
-
-As bank decreases:
-
-- Less horizontal lift is required.
-- More lift becomes available vertically.
-- The airplane continues climbing.
-
-The rollout should be timed so the wings become level exactly at the **180° point**.
-
-Do not lower the nose during this half.
-
-Do not keep increasing pitch.
-
-The challenge is to hold the pitch picture while smoothly decreasing bank.
-
-### Coordination and Rudder
-
-Coordination becomes more demanding as airspeed decreases.
-
-High power, high AOA, and low airspeed increase left-turning tendencies.
-
-Expect increasing **right rudder**.
-
-The exact amount differs between right and left chandelles.
-
-In a right chandelle, more right rudder may be required because right rudder is fighting:
-
-- P-factor.
-- Torque.
-- Spiraling slipstream.
-- Adverse yaw.
-
-In a left chandelle, some adverse yaw may partially offset the left-turning tendencies.
-
-The rule is not to memorize rudder pressure.
-
-The rule is:
-
-**Stay coordinated.**
-
-### Overbanking Tendency
-
-During the first 90°, bank should remain approximately 30°.
-
-As the airplane slows, turn radius decreases and overbanking tendency becomes more noticeable.
-
-If bank increases:
-
-- Turn rate increases.
-- The airplane reaches 90° too early.
-- Pitch schedule gets compressed.
-- Maximum-performance climb is degraded.
-
-Use appropriate aileron pressure to hold the bank constant.
-
-### Maneuvering Speed
-
-The entry should be no faster than the applicable **VA**.
-
-VA decreases as weight decreases.
-
-Do not assume the maximum-gross-weight VA always applies.
-
-This matters because the maneuver uses:
-
-- Significant pitch change.
-- Bank.
-- Increasing AOA.
-
-### Accelerated-Stall Risk
-
-Bank and back pressure increase load factor.
-
-As airspeed decreases, aggressive pitch or bank inputs can cause an accelerated stall.
-
-If stall warning or buffet occurs:
-
-**Reduce AOA immediately and recover.**
-
-Do not force the maneuver to completion.
-
-### Rollout at 180°
+- **Pitch:** held essentially constant at the maximum pitch attitude reached at the 90° point
+- **Bank:** gradually reduced to wings level
+- **Power:** remains full throttle
+- **Coordination:** maintained throughout
 
 At the **180° point**:
 
-- Wings should be level.
-- Heading should be within **±10°** of the reciprocal entry heading.
-- Airspeed should be just above stall.
-- The airplane should remain controlled and coordinated.
+- wings should be level,
+- the heading change should be complete,
+- the airspeed should be just above stall speed,
+- the airplane should not be stalled,
+- and the airplane should still be in coordinated flight.
 
-Hold the nose-high attitude momentarily to demonstrate control.
+That is the heart of the maneuver.
 
-Then:
+A concise teaching phrase is:
 
-- Lower pitch smoothly.
-- Allow the airplane to accelerate.
-- Resume straight-and-level flight.
-- Minimize altitude loss.
+**“First half: constant bank, increasing pitch. Second half: constant pitch, decreasing bank.”**
 
-### ACS Standards — Chandelles
+---
 
-- Clear the area.
-- Select an altitude that allows the maneuver to be performed no lower than **1,500 feet AGL**.
-- Establish the appropriate:
-    - Entry configuration.
-    - Power.
-    - Airspeed.
-- Establish approximately **30° bank**.
-- Simultaneously apply power and pitch.
-- From entry to **90°**:
-    - Maintain constant bank.
-    - Increase pitch continuously.
-    - Maintain coordinated flight.
-    - Allow airspeed to decrease continuously.
-- From **90° to 180°**:
-    - Maintain constant pitch.
-    - Begin a coordinated constant-rate rollout.
-    - Maintain power.
-    - Allow bank to decrease continuously.
-- At **180°**:
-    - Complete rollout **±10°**.
-    - Be just above stall speed.
-    - Maintain that airspeed momentarily without stalling.
-- Resume straight-and-level flight with minimum altitude loss.
-- Analyze and correct common errors.
+### Speakable Teaching Flow
 
-### Common Errors — Chandelles
+When I teach this maneuver, I usually say:
 
-- Failure to adequately clear the area.
-- Improper entry airspeed or configuration.
-- Entering above applicable VA.
-- Initial bank too shallow.
-- Initial bank too steep.
-- Allowing bank to increase during the first 90°.
-- Improper correction for overbanking.
-- Increasing pitch too rapidly.
-- Increasing pitch too slowly.
-- Failure to reach maximum pitch at 90°.
-- Failure to begin rollout at 90°.
-- Allowing pitch to increase during the second 90°.
-- Allowing pitch to decrease during the second 90°.
-- Rolling out too quickly.
-- Rolling out too slowly.
-- Wings level before 180°.
-- Wings not level by 180°.
-- Finishing with excessive airspeed.
-- Stalling during the maneuver.
-- Uncoordinated use of flight controls.
-- Improper rudder correction for left-turning tendencies.
-- Performing a steep turn instead of a maximum-performance climbing turn.
-- Fixating on instruments instead of outside references.
-- Failing to scan for traffic.
+**“We will begin from straight-and-level flight, clear the area, and choose a visual reference off the wing in the direction of the turn. We enter at 105 knots in the 172. Then we smoothly roll into approximately 30 degrees of bank and apply full throttle if not already there. During the first 90 degrees, I hold that bank angle constant while gradually increasing pitch. By the 90-degree point, I want to be at the maximum pitch attitude for the maneuver. From there, the second half begins: I keep the pitch essentially constant and gradually reduce the bank so that I arrive wings level exactly at the 180-degree point. At that completion point, the airplane should be just above a stall speed, coordinated, and still flying.”**
+
+That phrasing is usually easy for students to remember.
+
+---
+
+### Step-by-Step Procedure
+
+### 1. Clear the Area
+
+Complete **two 90° clearing turns** or an equivalent visual clearing procedure.
+
+Emphasize that the chandelle is a high-workload maneuver with large heading changes, so clearing the area is not optional.
+
+### 2. Establish Entry Conditions
+
+Stabilize the airplane at:
+
+- approximately **105 KTS**,
+- altitude maintained,
+- clean configuration,
+- and a normal cruise / maneuvering setup.
+
+Your local procedure uses approximately **2300 RPM** to hold level before beginning. That is reasonable as a setup condition. The key is to be stable before the maneuver begins.
+
+### 3. Choose a Visual Reference
+
+Select a reference point off the wing in the direction of the turn. That reference helps the student anticipate the 90° and 180° points.
+
+This is important because chandelles should be flown **primarily by outside reference**, not by staring at the flight instruments.
+
+### 4. Enter the Maneuver
+
+Smoothly roll into approximately **30° of bank**.
+
+As bank is established:
+
+- apply **full throttle** if not already there,
+- use right rudder as required,
+- and begin a smooth increase in pitch.
+
+A good teaching line is:
+
+**“Roll, coordinate, power, and begin the climb.”**
+
+### 5. First 90° of Turn
+
+The first half is where many students make the maneuver either too much like a steep turn or too much like an abrupt pull-up.
+
+In this half:
+
+- bank stays about constant at 30°,
+- pitch increases smoothly and continuously,
+- coordination is maintained,
+- and the student keeps scanning outside.
+
+By the time the airplane reaches the **90° point**, the pitch attitude should be at or near its maximum for the maneuver — commonly around **10° to 12° nose up** in the 172, depending on conditions.
+
+### 6. Second 90° of Turn
+
+At the 90° point, the control strategy changes.
+
+Now:
+
+- pitch is held essentially constant,
+- bank is gradually reduced,
+- the airplane continues turning,
+- and coordination remains positive.
+
+This is where the chandelle becomes a true maximum-performance maneuver. As the bank decreases but the pitch remains up, the airplane continues climbing while decelerating.
+
+A good speakable cue is:
+
+**“At 90 degrees, freeze the pitch and start unwinding the bank.”**
+
+### 7. Completion at the 180° Point
+
+At the rollout point:
+
+- the wings should reach level exactly at 180° of heading change,
+- the airspeed should be just above stall speed,
+- the airplane should not be stalled,
+- and the nose attitude should be as high as practical for the completion of the maneuver.
+
+This is the defining picture of a chandelle.
+
+If the airplane is wings level too early, the student reduced bank too quickly.
+
+If the airplane is fast at the end, the student probably did not achieve a sufficiently high pitch attitude.
+
+If the airplane stalls, the student either exceeded the airplane’s capability or mishandled coordination or pitch.
+
+### 8. Recovery / Return to Cruise
+
+After the maneuver is complete:
+
+- allow the airplane to accelerate,
+- maintain level-off altitude,
+- reduce power as appropriate,
+- retrim,
+- and complete the cruise checklist.
+
+---
+
+### Aerodynamic Explanation
+
+A chandelle is a maximum performance maneuver because it asks the airplane to produce the greatest practical climb performance during a coordinated 180° change in direction.
+
+Key aerodynamic ideas:
+
+- Increasing pitch increases angle of attack and reduces airspeed.
+- Maintaining a 30° bank in the first half still requires lift to be shared between vertical and horizontal components.
+- In the second half, reducing bank angle reduces the horizontal lift demand while the pitch remains high, which allows the airplane to continue climbing as it slows.
+- Because airspeed decreases continuously through the maneuver, the pilot must apply controls very smoothly to avoid an inadvertent stall.
+
+A useful teaching line is:
+
+**“The chandelle trades airspeed for altitude while managing a 180-degree change in direction.”**
+
+---
+
+### Division of Attention
+
+The chandelle is primarily an **outside-reference maneuver**.
+
+The student should use:
+
+- the horizon for pitch attitude,
+- wing / nose references for bank,
+- outside references for the 90° and 180° points,
+- and only quick supporting glances at the instruments.
+
+The most common instrument cross-checks are:
+
+- airspeed trend,
+- altitude trend,
+- and coordination.
+
+But the instruments are supporting actors, not the lead.
+
+A good teaching phrase is:
+
+**“See it outside, confirm it inside.”**
+
+---
 
 ### Risk Management
 
-#### Division of Attention
+#### 1. Traffic Avoidance
 
-The maneuver requires attention to:
+Because the maneuver covers 180° of heading change and requires focused attention, the pilot must clear carefully before entry and continue scanning throughout.
 
-- Pitch.
-- Bank.
-- Coordination.
-- Airspeed.
-- References.
-- Traffic.
+#### 2. Stall Awareness
 
-Use outside references as primary.
+The maneuver ends just above stall speed. That means the pilot must respect angle of attack, use smooth control pressure, and maintain coordination.
 
-Use instruments to verify performance.
+#### 3. Overcontrol / Abruptness
 
-#### Collision Hazards
+The POH specifically warns against abrupt control use above 105 KIAS. Entry and pitch changes must be smooth.
 
-This is a climbing maneuver.
+#### 4. Disorientation
 
-Clear:
+Without good outside references, students often lose track of the 90° and 180° points. That leads to late or early rollouts.
 
-- Ahead.
-- Around.
-- Above.
+#### 5. Exceeding Airplane Capability
 
-Maintain traffic scan throughout.
+If density altitude, weight, or technique reduce performance, the pilot cannot simply demand more than the airplane can give. The chandelle must still remain coordinated and below the stall.
 
-#### Low-Altitude Maneuvering
+---
 
-Complete no lower than **1,500 feet AGL**.
+### Common Errors and Corrections
 
-Provide enough altitude and airspace above for the climb.
+#### 1. Not clearing the area
 
-Do not conduct the maneuver where a stall, disorientation, or airspace conflict leaves inadequate margin.
+**Cause:** Rushing the setup.
 
-#### Uncoordinated Flight
+**Correction:** Always complete a deliberate clearing procedure before entry.
 
-The airplane becomes slow, nose high, and high power near the end.
+#### 2. Initial bank is too shallow resulting in a stall
 
-That makes yaw control critical.
+This error usually reflects poor sequencing or poor control harmony. Students may pitch up too aggressively with insufficient turning performance.
 
-**High AOA + yaw increases stall/spin risk.**
+**Correction:** Establish approximately 30° bank positively, then build pitch smoothly.
 
-Maintain coordination throughout.
+#### 3. Initial bank is too steep resulting in failure to gain maximum performance
 
-#### Energy Management
+Too much bank turns the maneuver into something closer to a steep climbing turn and reduces climb performance.
 
-Pitch too high:
+**Correction:** Standardize the entry at about 30°.
 
-- Airspeed decays too early.
-- Stall risk increases.
+#### 4. Allowing the bank angle to increase after initial establishment
 
-Pitch too low:
+This is very common. Students tend to let the bank creep steeper during the first half.
 
-- Airspeed remains too high.
-- Altitude gain is reduced.
+**Correction:** Emphasize “constant bank first 90.”
 
-Bank too high:
+#### 5. Not starting the recovery at the 90° point
 
-- Turn finishes too early.
-- Lift is directed away from the vertical.
+If the student misses the transition point, the whole second half becomes sloppy.
 
-Bank too low:
+**Correction:** Use a clear outside reference and brief the 90° point before entry.
 
-- Turn takes too long.
-- Airspeed may decay too much before 180°.
+#### 6. Allowing the pitch attitude to increase as the bank is rolled out during the second 90°
 
-Maximum performance comes from balancing pitch, bank, power, and coordination.
+Pitch should be essentially constant in the second half.
 
-#### Confined-Area Misapplication
+**Correction:** Teach “freeze the pitch, reduce the bank.”
 
-A chandelle is not a guaranteed terrain-escape maneuver.
+#### 7. Leveling the wings prior to the 180° point being reached
 
-Actual climb performance and turn radius depend on:
+This results from unloading the turn too early.
 
-- Weight.
-- Density altitude.
-- Wind.
-- Airplane performance.
-- Pilot technique.
+**Correction:** Smooth, progressive bank reduction timed to finish exactly at 180°.
 
-Do not improvise a chandelle near terrain and assume it guarantees clearance.
+#### 8. Pitch attitude is low on recovery resulting in airspeed well above stall speed
 
-### Instructor Emphasis
+The airplane finishes too fast, meaning the maneuver was not flown to maximum performance.
 
-The learner should leave the lesson understanding:
+**Correction:** Increase pitch more appropriately in the first half and hold it through the second half.
 
-1. **A chandelle is a maximum-performance 180° climbing turn.**
-2. **First 90°: constant bank, increasing pitch.**
-3. **Second 90°: constant pitch, decreasing bank.**
-4. **Approximately 30° bank is established and held through the first half.**
-5. **Maximum pitch is reached at 90°.**
-6. **Wings level at 180°.**
-7. **The airplane finishes just above stall speed without stalling.**
-8. **Coordination becomes more important as airspeed decreases.**
-9. **Overbanking must be controlled in the first half.**
-10. **Maximum performance comes from smooth timing—not aggressive inputs.**
+#### 9. Application of flight control pressures is not smooth
 
-### Close
+**Correction:** Emphasize pressure, not movement. Smooth, progressive inputs.
 
-The chandelle is really about converting airspeed into altitude while controlling the timing of pitch and bank.
+#### 10. Poor flight control coordination
 
-The flow is:
+**Correction:** Use coordinated rudder throughout, especially with full power and increasing pitch.
 
-**0–90°: bank stays constant → pitch increases → airspeed decreases**
+#### 11. Stalling at any point during the maneuver
 
-then:
+**Correction:** The chandelle finishes near a stall, not in a stall. If buffet or stall occurs, the maneuver is no longer correct.
 
-**90–180°: pitch stays constant → bank decreases → airspeed continues decreasing**
+#### 12. Execution of a steep turn instead of a climbing maneuver
 
-and at 180°:
+**Correction:** Keep the purpose clear — this is maximum climb performance during a turn.
 
-**wings level → nose high → just above stall → maximum practical altitude**
+#### 13. Not scanning for other traffic during the maneuver
 
-The most important rule is:
+**Correction:** Integrate scan throughout, not just before entry.
 
-**First 90°: bank–pitch. Second 90°: pitch–bank.**
+#### 14. Performing by reference to the instruments rather than visual references
+
+**Correction:** Eyes primarily outside, with quick supporting instrument checks.
+
+---
+
+### Instructor Demonstration Script
+
+**“I’ve cleared the area and selected a reference point off the wing in the direction of turn. Entry speed is 105 knots in the 172, clean configuration, and I’m stable. I’ll roll into about 30 degrees of bank, smoothly add full throttle, coordinate with rudder, and begin increasing pitch. Through the first 90 degrees, bank stays constant and pitch keeps increasing. At the 90-degree point, I’ve reached my maximum pitch attitude. Now I hold that pitch attitude and begin gradually reducing bank. The airplane continues turning and slowing. I want to arrive exactly at the 180-degree point with the wings level, coordinated, and just above a stall speed. Then I lower the nose as needed to accelerate, set cruise power, retrim, and complete the cruise checklist.”**
+
+---
+
+### Practical Teaching Tips
+
+- Have the student verbalize: **“constant bank, increasing pitch”** and then **“constant pitch, decreasing bank.”**
+- Use a clear outside reference for the 90° point.
+- Emphasize that the chandelle is smoother and more graceful than students expect.
+- If the student is consistently fast at the end, the pitch picture was too low.
+- If the student stalls or mushes, the pitch increase was excessive or coordination was poor.
+- If the student performs a steep turn instead of a chandelle, the bank probably dominated the maneuver.
+
+---
+
+### Completion Standards / ACS Emphasis
+
+For ACS-level performance, the student should demonstrate and teach the maneuver so that:
+
+- the area is cleared,
+- entry conditions are correct,
+- the maneuver is coordinated,
+- visual references are used effectively,
+- the first and second halves are flown with the proper control strategy,
+- the airplane reaches the completion point at the proper heading,
+- the airspeed is just above stall speed at completion,
+- and the maneuver remains smooth, controlled, and within aircraft limitations.
+
+For a CFI applicant, the standard is not just performance. It is the ability to **explain, demonstrate, analyze errors, and correct them** in a way that a learner can understand.
+
+---
+
+### Summary
+
+A chandelle is a maximum performance climbing 180° turn. The pilot starts from straight-and-level flight, uses approximately 30° of bank, increases pitch throughout the first 90°, then holds pitch while reducing bank through the second 90°, arriving wings level at the 180° point just above stall speed.
+
+The best summary line for the student is:
+
+**“A chandelle is a smooth, coordinated climbing turn where the first half builds pitch and the second half trades bank for climb, ending wings level just above stall speed.”**
 
 
 
@@ -647,19 +639,93 @@ Perform both phases smoothly and coordinated; establish approximately **30° ban
 
 ## Kneeboard
 
-<div class="kneeboard-header"><strong>CHANDELLE — CFI IX.C</strong><br>Objective: Maximum-performance 180° climbing turn.</div>
-<div class="kneeboard-layout">
-	<div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body">
-		<div class="kneeboard-item"><label><input type="checkbox"> Clear / configure</label><div class="kneeboard-detail"><strong>P:</strong> Two 90s; clean; 105 KIAS; ~2300 RPM; choose 90/180 references.</div><div class="kneeboard-detail"><strong>CE:</strong> Poor altitude or reference plan.</div></div>
-	</div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">0–90</div><div class="kneeboard-group-body">
-		<div class="kneeboard-item"><label><input type="checkbox"> Bank / pitch</label><div class="kneeboard-detail"><strong>P:</strong> 30° bank constant; full throttle; smoothly reach 15° nose-up at 90°.</div><div class="kneeboard-detail"><strong>CE:</strong> Bank changes or abrupt pitch.</div></div>
-	</div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">90–180</div><div class="kneeboard-group-body">
-		<div class="kneeboard-item"><label><input type="checkbox"> Pitch / rollout</label><div class="kneeboard-detail"><strong>P:</strong> Hold 15° nose-up; bank reduces; wings level at 180° just above stall.</div><div class="kneeboard-detail"><strong>CE:</strong> Pitch changes or wings level early.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Recover</label><div class="kneeboard-detail"><strong>P:</strong> Accelerate with minimum altitude loss; cruise checklist.</div><div class="kneeboard-detail"><strong>CE:</strong> Abrupt nose drop.</div></div>
-	</div></div>
+<div class="kneeboard-header">
+    <strong>CHANDELLE - CFI IX.C</strong>
 </div>
+
+<div class="kneeboard-layout">
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear area; choose 90° / 180° outside references.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Clean configuration; altitude sufficient for recovery; traffic scan.</div>
+                <div class="kneeboard-detail"><strong>POH:</strong> Entry <strong>105 KIAS</strong>; abrupt controls prohibited above 105 KIAS.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poor clearing, no visual reference, unstable entry.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ENTRY</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> 105 KIAS at ~2300 RPM; stabilize; roll smoothly to ~30° bank; then apply full throttle.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Coordinate with rudder; begin smooth pitch increase.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Bank too shallow/steep, abrupt pull, poor coordination.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">1ST 90°</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Constant ~30° bank; pitch increases continuously.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maintain full power, coordination, outside scan; smoothly increase to about <strong>15–18° nose-up</strong> by 90°.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Bank creeps steeper; pitch too fast/slow; maneuver becomes steep turn.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">2ND 90°</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Hold ~15–18° nose-up pitch; gradually reduce bank.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maintain that pitch attitude, keep coordinated, continue scan, and time rollout to finish exactly at 180°.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Pitch keeps increasing; wings level early/late; instrument fixation.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">180° / RECOVER</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Wings level at 180°; just above stall; no stall; coordinated.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Lower nose as needed, accelerate, set cruise power, retrim.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Stalls, ends fast, overshoots heading, poor coordination.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ACS</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Commercial/CFI: maximum-performance 180° climbing turn.</label>
+                <div class="kneeboard-detail"><strong>Standard:</strong> Smooth, coordinated, visual references primary, proper division of attention.</div>
+                <div class="kneeboard-detail"><strong>Finish:</strong> On prescribed heading, wings level, nose high, airspeed just above stall without stalling.</div>
+                <div class="kneeboard-detail"><strong>CFI:</strong> Explain, demonstrate, recognize errors, and correct them while maintaining safety.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">MEMORY</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>1st 90: 30° BANK / PITCH TO 15–18°.</strong></label>
+                <div class="kneeboard-detail"><strong>2nd 90:</strong> <strong>HOLD 15–18° PITCH / DECREASING BANK.</strong></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
 
 # Review
 

@@ -93,381 +93,506 @@ Watch for **pylon selection**, **45° downwind entry**, sight-line movement, pit
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**Eights on pylons teach us to hold a visual line-of-sight relationship with a point on the ground while groundspeed is continuously changing.**
+### Objective
 
-This is different from the other ground-reference maneuvers.
+**Fly around each pylon at the pivotal altitude. Pivotal altitude depends on groundspeed: the faster the groundspeed, the higher the pivotal altitude. Because groundspeed changes continuously around each pylon, altitude must also be varied continuously while maintaining coordinated flight and the pylon on the lateral sight reference.**
 
-In rectangular course, S-turns, and turns around a point, we were trying to preserve a **ground track or radius**.
+### Purpose
 
-In eights on pylons, we are **not trying to hold a constant radius**.
+Eights on pylons teach the pilot to control the airplane by reference to **outside visual cues** while understanding the relationship between **groundspeed, pivotal altitude, and pitch correction**.
 
-The goal is to keep the selected pylon stationary on a lateral sight line while we turn around it.
+Unlike other ground-reference maneuvers, this is **not** primarily a constant-radius or constant-ground-track maneuver.
 
-That means the key relationship is:
+The goal is to keep the selected pylon **stationary on a line parallel to the airplane’s lateral axis**.
 
-**Groundspeed changes → pivotal altitude changes → pitch changes**
+The teaching story is:
 
-Bank still matters, but it is used to establish the turn geometry and distance from the pylon.
+**clear the area → determine wind → calculate approximate pivotal altitude → select suitable pylons → enter on the proper side → keep the pylon fixed with pitch corrections → transition straight-and-level between pylons → repeat symmetrically around the second pylon → recover on the entry heading.**
 
-**Pitch is the primary correction for keeping the pylon on the line-of-sight reference.**
+---
 
-### Real-World Application — Aerial Observation / Photography
+### References
 
-A practical application is **orbiting a point so a passenger, photographer, or observer can keep a clear and stable view of a subject on the ground**.
+- **Flight Instructor Airplane ACS** — Area IX, Task F, Eights on Pylons
+- **Commercial Pilot Airplane ACS** — Ground reference / eights on pylons standards as applicable
+- **Airplane Flying Handbook** — Ground reference maneuvers / eights on pylons
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.119** — Minimum safe altitudes
+- **14 CFR §91.303** — Aerobatic flight awareness
 
-The maneuver originated from the need to maintain a consistent visual relationship with a ground target, and the same skill applies today to aerial photography and observation.
+---
 
-The pilot has to control the airplane precisely while keeping most of the attention outside.
+### Visual References
 
-### What Is Pivotal Altitude?
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Eights_On_Pylons.png" alt="Overview of eights on pylons showing groundspeed changes and pivotal altitude changes" loading="lazy">
+    <figcaption>Eights on pylons: higher groundspeed requires higher pivotal altitude; lower groundspeed requires lower pivotal altitude.</figcaption>
+</figure>
 
-**Pivotal altitude is the altitude at which, for a given groundspeed, the selected pylon appears stationary on a line parallel to the airplane’s lateral axis.**
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Eights_On_Pylons_Line_Of_Sight.png" alt="Line-of-sight references for eights on pylons showing too low and too high indications" loading="lazy">
+    <figcaption>The pylon must stay fixed on the lateral reference line. If the pylon moves ahead, you are too high. If it moves behind, you are too low.</figcaption>
+</figure>
 
-Think of an imaginary line running from your eyes, through the wing or another lateral reference, to the pylon.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Pivotal_Altitude_Table.png" alt="Pivotal altitude table by groundspeed" loading="lazy">
+    <figcaption>Use this table as a quick estimate of pivotal altitude, then refine in flight as groundspeed changes.</figcaption>
+</figure>
 
-If we are at the correct pivotal altitude, the pylon appears to stay fixed on that line as we turn.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Eights_On_Pylons_Line_Sight_Different_Altitudes.png" alt="Effect of being above or below pivotal altitude on line of sight" loading="lazy">
+    <figcaption>Too high makes the pylon move ahead of the lateral reference; too low makes it move behind.</figcaption>
+</figure>
 
-Pivotal altitude depends on **groundspeed**.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Eights_On_Pylons_Bank_PA.png" alt="Effect of bank angle and pivotal altitude line of sight in eights on pylons" loading="lazy">
+    <figcaption>Steeper bank shortens the apparent line-of-sight angle. Bank affects turn geometry; pitch changes hold the pivotal relationship.</figcaption>
+</figure>
 
-It does **not** depend on bank angle.
+---
 
-The approximate formula in knots is:
+### What the Maneuver Is
 
-**Pivotal Altitude (ft AGL) = Groundspeed² (kt) ÷ 11.3**
+Eights on pylons are an **advanced ground-reference maneuver**.
 
-where:
+The airplane flies a figure-eight pattern around two selected pylons while the pilot keeps each pylon fixed on a lateral visual reference, usually a wingtip or another reference line parallel to the **lateral axis**.
 
-- **PA** = pivotal altitude in feet AGL
-- **GS** = groundspeed in knots
+The airplane’s **altitude must change** during the maneuver because **groundspeed changes** around each turn.
 
-A few examples:
+That is the heart of the maneuver.
 
-| Groundspeed | Approx. Pivotal Altitude |
-|---:|---:|
-| **70 kt** | **434 ft AGL** |
-| **80 kt** | **566 ft AGL** |
-| **90 kt** | **717 ft AGL** |
-| **100 kt** | **885 ft AGL** |
+This maneuver teaches:
 
-The exact altitude will not stay constant during the maneuver because groundspeed will not stay constant.
+- outside visual orientation,
+- smooth control,
+- wind awareness,
+- coordination,
+- energy management,
+- and emergency-landing awareness.
 
-As the airplane turns from downwind toward upwind:
+---
 
-- Groundspeed decreases.
-- Pivotal altitude decreases.
-- We descend.
+### Safety and FAR Considerations
 
-As the airplane turns from upwind back toward downwind:
+Under **14 CFR §91.103**, the pilot must know the conditions before the maneuver, including wind, terrain, landmarks, and a suitable training area.
 
-- Groundspeed increases.
-- Pivotal altitude increases.
-- We climb.
+Under **14 CFR §91.119**, maintain a safe altitude. Eights on pylons are low-altitude maneuvers and must be conducted where they can be completed safely and legally.
 
-So the simple relationship is:
+For the CFI ACS, the maneuver must be completed **no lower than 600 feet AGL**.
 
-**Higher groundspeed → higher pivotal altitude**  
-**Lower groundspeed → lower pivotal altitude**
+**14 CFR §91.303** is useful as awareness: this is not an aerobatic maneuver, and it must be flown smoothly, not abruptly.
+
+Risk management here is serious because the maneuver combines:
+
+- relatively low altitude,
+- bank,
+- changing pitch,
+- visual fixation risk,
+- and the possibility of limited emergency-landing options.
+
+---
+
+### The Core Concept — Pivotal Altitude
+
+**Pivotal altitude** is the altitude at which a selected pylon appears stationary on a line parallel to the airplane’s lateral axis as the airplane turns.
+
+The approximate formula is:
+
+**Pivotal Altitude (feet AGL) = Groundspeed² ÷ 11.3**  
+*(when groundspeed is in knots)*
+
+Example estimates:
+
+- **80 knots** ≈ **566 feet AGL**
+- **90 knots** ≈ **717 feet AGL**
+- **100 knots** ≈ **885 feet AGL**
+
+The important point is this:
+
+**Pivotal altitude depends on groundspeed, not bank angle.**
+
+As groundspeed increases, pivotal altitude increases.
+
+As groundspeed decreases, pivotal altitude decreases.
+
+That means around each pylon:
+
+- **On the downwind side**, groundspeed is highest, so pivotal altitude is highest.
+- **On the upwind side**, groundspeed is lowest, so pivotal altitude is lowest.
+
+So the airplane must:
+
+- **climb** as groundspeed increases,
+- **descend** as groundspeed decreases.
+
+That is why the maneuver has a gentle climbing half and descending half around each pylon.
+
+---
 
 ### The Sight-Line Rule
 
-The easiest way to fly the maneuver is to watch what the pylon does relative to the lateral reference.
+The pylon should remain fixed on the selected lateral reference.
 
-**If the pylon moves forward toward the nose:**
-- Apply **forward pressure**.
-- Descend.
+The correction is made with **pitch**, not rudder.
 
-**If the pylon moves backward toward the tail:**
-- Apply **back pressure**.
-- Climb.
+Use this rule:
+
+- **If the pylon moves ahead of the reference line, you are too high → lower the nose and descend.**
+- **If the pylon moves behind the reference line, you are too low → raise the nose and climb.**
 
 A simple memory aid is:
 
-**Forward → Forward pressure**  
-**Back → Back pressure**
+**Pylon ahead = push ahead**  
+**Pylon behind = pull behind**
 
-The corrections should be **small, smooth, and continuous**.
+Those corrections should be:
 
-Do not make a large correction and hold it.
+- small,
+- smooth,
+- and continuous.
 
-Correct only enough to bring the pylon back to the lateral reference.
+Do not make one large correction.
 
-### Pitch vs. Bank vs. Rudder
+---
 
-This is the most important control distinction in the maneuver.
+### Pitch, Bank, and Rudder Roles
 
-**Pitch controls pivotal altitude and the fore-aft movement of the pylon.**
+This distinction matters.
 
-**Bank controls turn geometry and the airplane’s distance relationship to the pylon.**
+**Pitch** controls pivotal altitude and corrects the pylon’s fore-and-aft movement on the reference line.
 
-**Rudder maintains coordination.**
+**Bank** sets the turn geometry and the airplane’s relationship to the pylon.
 
-Do not use rudder to move the pylon forward or backward on the sight line.
+**Rudder** keeps the airplane coordinated.
 
-That creates an uncoordinated condition and does not correct pivotal altitude.
+Do **not** use rudder to keep the pylon on the line.
 
-The bank angle should be appropriate for the distance from the pylon and the wind conditions, but must not exceed **40°**.
+That creates a slip or skid and is specifically contrary to the task.
+
+The ACS requires the pilot to avoid slips and skids and to keep the airplane coordinated throughout.
+
+Bank must be appropriate for the conditions and **must not exceed 40°**.
+
+---
 
 ### Pylon Selection
 
-Select two pylons that:
+The two pylons should:
 
-- Are prominent and easy to identify.
-- Are approximately on a line **perpendicular to the wind**.
-- Allow a short straight-and-level transition between them.
-- Are over open terrain.
-- Have a suitable emergency landing area nearby.
-- Do not require excessive bank to complete the turns.
+- be prominent and easy to identify,
+- be approximately on a line **perpendicular to the wind**,
+- permit a **straight-and-level transition** between them,
+- be located over an area with a **suitable emergency landing site**,
+- not require excessive bank,
+- and allow safe maneuvering clear of obstacles, wires, towers, and congested areas.
 
-The pylons should be spaced so there is enough time to roll wings level, reorient, and set up the next turn without an excessively long transition.
+That suitable landing area matters.
 
-A practical target is approximately **3 to 5 seconds of straight-and-level flight** between pylons.
+Do not choose a pair of convenient visual pylons if the terrain below offers no practical forced-landing option.
 
-### Entry
+---
 
-- Clear the area.
-- Determine the wind.
-- Determine the approximate pivotal altitude from expected groundspeed.
-- Select the two pylons.
-- Establish the desired entry airspeed.
-- Enter on a **45° line to the downwind**, aimed toward the midpoint between the pylons.
-- The downwind entry places the airplane near:
-    - The **highest groundspeed**
-    - The **highest pivotal altitude**
-- Note the entry heading because the maneuver should recover on the same heading.
+### Procedure
 
-### Maneuver
+Use this practical sequence for the maneuver:
 
-1. **Enter 45° to the downwind toward the midpoint between the pylons.**
-2. Maintain straight-and-level flight until the first pylon reaches the selected lateral sight-line position.
-3. Roll into the turn around the first pylon using the bank required by the distance and conditions, **not exceeding 40°**.
-4. Keep the pylon on the lateral reference.
-5. As groundspeed decreases toward the upwind side:
-    - Pivotal altitude decreases.
-    - The pylon tends to move forward.
-    - Apply forward pressure and descend.
-6. As groundspeed increases back toward downwind:
-    - Pivotal altitude increases.
-    - The pylon tends to move backward.
-    - Apply back pressure and climb.
-7. Maintain coordinated flight throughout the turn.
-8. Roll out toward the second pylon.
-9. Establish straight-and-level flight for approximately **3 to 5 seconds**.
-10. Crab as necessary to correct for wind drift between pylons.
-11. Enter the second pylon in the opposite direction.
-12. Repeat the same pivotal-altitude corrections around the second pylon.
-13. Roll out and recover on the entry heading.
+1. **Determine pivotal altitude.**  
+   Use the expected groundspeed to calculate an approximate starting pivotal altitude.
 
-**The key is not to hold one altitude.**
+2. **Enter pivotal altitude.**  
+   Local C172 training reference: approximately **900 feet AGL at 110 MPH and about 2300 RPM**.
 
-The altitude has to change as groundspeed changes.
+3. **Perform two 90° clearing turns.**  
+   Clear above, below, and in the maneuvering area before committing to the maneuver.
 
-### ACS Standards — Eights on Pylons
+4. **Clean configuration flow.**  
+   Stabilize the airplane in a clean configuration before entry.
 
-- Clear the area.
-- Determine the approximate pivotal altitude.
-- Select suitable pylons that permit straight-and-level flight between the pylons.
-- Enter the maneuver in the correct direction and position using an appropriate altitude and airspeed.
-- Establish the correct bank angle for the conditions, **not to exceed 40°**.
-- Apply smooth and continuous corrections so the line-of-sight reference remains on the pylon.
-- Divide attention between:
-    - Accurate airplane control
-    - Coordination
-    - Outside visual references
-    - Traffic
-- Maintain pylon position using the appropriate pivotal altitude.
-- Avoid slips and skids.
-- Analyze and correct common errors.
+5. **Select two pylons.**  
+   Choose pylons that:
+   - are easy to identify,
+   - are approximately **2/3 to 3/4 mile apart**,
+   - permit approximately **3 to 5 seconds wings level** between them,
+   - are positioned to allow a practical 45° midpoint downwind entry,
+   - and keep a suitable emergency landing area available.
 
-### Common Errors — Eights on Pylons
+6. **Enter on a 45° midpoint downwind.**  
+   Aim toward the midpoint between the two pylons.
 
-- Faulty entry procedure.
-- Poor planning, orientation, or division of attention.
-- Incorrect pivotal-altitude determination.
-- Poor pylon selection.
-- Selecting pylons without a suitable emergency landing area.
-- Improper line-of-sight reference.
-- Using rudder to maintain the line-of-sight reference.
-- Uncoordinated flight.
-- Excessive or insufficient bank.
-- Bank greater than **40°**.
-- Large or abrupt pitch corrections.
-- Failure to anticipate groundspeed changes.
-- Improper planning for entry or rollout around each pylon.
-- Poor wind correction between pylons.
-- Loss of orientation between the first and second pylon.
+7. **Turn around the first pylon and continuously vary altitude with groundspeed.**  
+   Maintain coordinated flight at all times.
+
+8. **Maintain the line-of-sight reference with pitch.**  
+   The wingtip / lateral sight line should remain pointed at the pylon throughout the turn.
+
+   - If the point moves **toward the nose**, **pitch forward / descend**.
+   - If the point moves **toward the tail**, **pitch back / climb**.
+
+9. **Begin rollout so the airplane proceeds diagonally between the pylons at approximately a 45° angle.**  
+   Establish the planned **3 to 5 seconds wings level** between pylons and use wind correction as necessary.
+
+10. **Begin the second turn in the opposite direction.**  
+    Repeat the same pivotal-altitude and line-of-sight corrections around the second pylon.
+
+11. **Exit the maneuver on the entry heading.**
+
+12. **Complete the cruise checklist.**
+
+The visual cue throughout the turns is:
+
+**The wingtip / lateral reference should remain pointed at the pylon.**
+
+---
+
+### Why the Altitude Must Keep Changing
+
+This is the defining feature of the maneuver.
+
+The airplane is **not** trying to hold one altitude around the pylon.
+
+As groundspeed changes:
+
+- pivotal altitude changes,
+- the pylon begins to move on the sight line,
+- and we correct with pitch.
+
+From higher groundspeed toward lower groundspeed:
+
+**pivotal altitude decreases → descend.**
+
+From lower groundspeed toward higher groundspeed:
+
+**pivotal altitude increases → climb.**
+
+The practical flow is:
+
+**Groundspeed changes → pivotal altitude changes → pylon moves → pitch corrects.**
+
+---
+
+### Pylon Sight-Line Correction
+
+Keep the selected lateral reference on the pylon.
+
+If the pylon starts moving **toward the nose**, the airplane is too high for the current groundspeed.
+
+**Pitch forward and descend.**
+
+If the pylon starts moving **toward the tail**, the airplane is too low for the current groundspeed.
+
+**Pitch back and climb.**
+
+Do not use rudder to make this correction.
+
+Rudder is only for **coordination**.
+
+---
+
+### Bank During the Turn
+
+Bank is used to maintain the desired turn geometry around the pylon.
+
+The ACS limit remains:
+
+**bank not to exceed 40°.**
+
+The bank will not necessarily remain constant because wind and groundspeed affect the ground path.
+
+But the pylon-position correction itself is made with **pitch**, not bank or rudder.
+
+
+### Wind Effect
+
+Wind matters in two ways.
+
+First, it changes **groundspeed**, which changes pivotal altitude.
+
+Second, it changes the shape of the ground track and the required bank angle around the pylons.
+
+Because of the wind:
+
+- bank is usually steeper on the side requiring a tighter ground path,
+- shallower where groundspeed and radius relationship require less turn rate,
+- and the altitude changes should follow groundspeed change, not a fixed visual guess.
+
+The maneuver is not flown at one altitude and not flown at one bank angle.
+
+It is continuously adjusted.
+
+---
+
+### What “Correct” Looks Like
+
+A correct eights-on-pylons maneuver will show:
+
+- proper entry,
+- safe pylon selection,
+- visible straight-and-level transition between pylons,
+- coordinated flight,
+- bank angles appropriate to conditions and **not greater than 40°**,
+- smooth pitch changes,
+- pylons remaining nearly stationary on the lateral reference,
+- good traffic scan,
+- and safe recovery on the entry heading.
+
+It should look smooth, deliberate, and organized.
+
+---
+
+### Common Errors and Corrections
+
+#### Faulty Entry
+
+If the entry is poorly positioned, the entire maneuver becomes rushed.
+
+**Correction:** Set up the 45° downwind midpoint entry carefully.
+
+#### Incorrect Pivotal Altitude
+
+If the starting pivotal altitude estimate is poor, the corrections become excessive.
+
+**Correction:** Calculate an approximate value before entry and refine in flight.
+
+#### Using Rudder To Move the Pylon
+
+This is one of the most common and important errors.
+
+**Correction:** Rudder maintains coordination only. Pitch corrects the pylon position.
+
+#### Slips and Skids
+
+Uncoordinated flight destroys the maneuver and increases stall/spin risk.
+
+**Correction:** Maintain coordinated aileron and rudder throughout.
+
+#### Excessive Bank
+
+More than 40° exceeds the ACS standard and usually signals poor pylon spacing or poor planning.
+
+**Correction:** Reposition or choose better pylons.
+
+#### Abrupt Pitch Corrections
+
+Large corrections make the maneuver unstable.
+
+**Correction:** Use small, continuous pitch corrections.
+
+#### Poor Pylon Selection
+
+Bad pylons create poor geometry and poor emergency options.
+
+**Correction:** Choose prominent pylons with safe terrain nearby.
+
+#### No Straight-and-Level Transition
+
+If there is no level transition between pylons, the setup is wrong.
+
+**Correction:** Reposition or reselect pylons that permit a brief straight segment.
+
+#### Loss of Orientation or Division of Attention
+
+Fixation on the pylon can cause loss of traffic scan, altitude awareness, or heading awareness.
+
+**Correction:** Keep an organized outside scan and discontinue if situational awareness degrades.
+
+---
 
 ### Risk Management
 
-#### Division of Attention
+#### Division of Attention — AI.IX.F.R1
 
-The pilot has to divide attention between:
+The pilot must divide attention between:
 
-- Pylon position.
-- Aircraft control.
-- Traffic.
-- Terrain.
-- The next phase of the maneuver.
+- keeping the pylon on the sight line,
+- aircraft control,
+- wind correction,
+- terrain,
+- and traffic avoidance.
 
-Fixating on the pylon can cause loss of airspeed awareness, traffic scan, or orientation.
+#### Collision Hazards — AI.IX.F.R2
 
-#### Collision Hazards
+Clear the area before entry and continue scanning. Other traffic may also be maneuvering in the practice area.
 
-Clear the area before entry and continue scanning throughout the maneuver.
+#### Low Altitude Maneuvering — AI.IX.F.R3
 
-These maneuvers are flown at relatively low altitude and may be conducted in common training areas.
+This maneuver is performed relatively low to the ground. Avoid steep banks, low airspeed, and distraction.
 
-**Traffic avoidance always takes priority over keeping the pylon on the sight line.**
+#### Distractions / Disorientation — AI.IX.F.R4
 
-#### Low-Altitude Maneuvering — Stall, Spin, and CFIT
+If you become task-saturated or lose orientation, level the wings, climb if needed, and reset.
 
-The airplane is banked and changing pitch relatively close to the ground.
+#### Uncoordinated Flight — AI.IX.F.R5
 
-Avoid:
+Slips and skids are unacceptable. Coordination must be maintained continuously.
 
-- Excessive bank.
-- Excessive pitch-up.
-- Low airspeed.
-- Skidding turns.
-- Terrain and obstacles.
+#### Energy Management — AI.IX.F.R6
 
-If the maneuver begins to require unsafe control inputs, discontinue and reposition.
+Pitch corrections also affect airspeed and load factor awareness. Avoid large control movements.
 
-#### Distraction, Task Prioritization, Loss of Situational Awareness, or Disorientation
+#### Emergency Landing Considerations — AI.IX.F.R7
 
-The pilot can become fixated on one pylon and lose track of:
+Always choose pylons where a forced landing remains practical.
 
-- The next pylon.
-- The transition.
-- Entry and exit heading.
-- Traffic.
-- Terrain.
+---
 
-If orientation is lost, level the wings and reestablish situational awareness.
+### Instructor Demonstration Flow
 
-#### Uncoordinated Flight
+Teach and demonstrate it in this exact sequence:
 
-**Rudder maintains coordination.**
+1. Determine approximate pivotal altitude.
+2. Enter approximately **900 feet AGL at 110 MPH / 2300 RPM** using the local training profile.
+3. Perform **two 90° clearing turns**.
+4. Complete the **clean configuration flow**.
+5. Select two pylons approximately **2/3–3/4 mile apart** that allow **3–5 seconds wings level** between them and preserve a suitable emergency landing area.
+6. Enter on a **45° midpoint downwind**.
+7. Turn around the first pylon with bank appropriate to the geometry and **≤40°**.
+8. Keep the wingtip / lateral sight reference on the pylon:
+   - pylon toward nose → **pitch forward / descend**
+   - pylon toward tail → **pitch back / climb**
+9. Maintain coordinated flight at all times.
+10. Roll out diagonally between pylons at approximately **45°** and hold wings level for **3–5 seconds**.
+11. Enter the second pylon in the opposite direction and repeat.
+12. Exit on the **entry heading**.
+13. Complete the **cruise checklist**.
 
-Do not use rudder to move the pylon forward or backward on the sight line.
+A concise teaching flow is:
 
-#### Energy Management
+**“PA — 900 AGL / 110 MPH — two 90s — clean — pylons — 45° midpoint downwind — pitch for the pylon — 3 to 5 seconds wings level — opposite turn — exit heading — cruise checklist.”**
 
-Pitch corrections affect airspeed and energy.
 
-Large pitch-up corrections can reduce airspeed and stall margin.
+### ACS Coverage — Area IX, Task F
 
-Large pitch-down corrections can increase airspeed and reduce terrain clearance.
+**Knowledge**
 
-Use **small, smooth corrections**.
+- **AI.IX.F.K1** — Purpose of and procedures for eights on pylons
+- **AI.IX.F.K2** — Aerodynamics associated with eights on pylons, including coordinated and uncoordinated flight
+- **AI.IX.F.K3** — Pivotal altitude and factors that affect it
+- **AI.IX.F.K4** — Effect of wind on ground track
+- **AI.IX.F.K5** — Phases of the maneuver from entry to recovery
+- **AI.IX.F.K6** — Common errors
 
-#### Emergency Landing Considerations
+**Risk Management**
 
-Pylons should be selected only where a suitable emergency landing area remains available.
+- **AI.IX.F.R1** — Division of attention between aircraft control and orientation
+- **AI.IX.F.R2** — Collision hazards
+- **AI.IX.F.R3** — Low altitude maneuvering, including stall, spin, or CFIT
+- **AI.IX.F.R4** — Distractions, task prioritization, loss of situational awareness, or disorientation
+- **AI.IX.F.R5** — Uncoordinated flight
+- **AI.IX.F.R6** — Energy management
+- **AI.IX.F.R7** — Emergency landing considerations
 
-Do not choose visually convenient pylons if the surrounding terrain removes a safe forced-landing option.
+**Skills**
 
-### Instructor Emphasis
+- **AI.IX.F.S1** — Clear the area
+- **AI.IX.F.S2** — Determine the approximate pivotal altitude
+- **AI.IX.F.S3** — Select suitable pylons that permit straight-and-level flight between the pylons
+- **AI.IX.F.S4** — Enter the maneuver in the correct direction and position using an appropriate altitude and airspeed
+- **AI.IX.F.S5** — Establish the correct bank angle for the conditions, not to exceed **40°**
+- **AI.IX.F.S6** — Apply smooth and continuous corrections so that the line-of-sight reference remains on the pylon
+- **AI.IX.F.S7** — Divide attention between accurate, coordinated airplane control and outside visual references
+- **AI.IX.F.S8** — Maintain pylon position using appropriate pivotal altitude, avoiding slips and skids
+- **AI.IX.F.S9** — Analyze and correct common errors related to this task
 
-The learner should leave the ground lesson understanding five things:
-
-1. **Pivotal altitude depends on groundspeed.**
-2. **Higher groundspeed means higher pivotal altitude.**
-3. **If the pylon moves forward, apply forward pressure.**
-4. **If the pylon moves backward, apply back pressure.**
-5. **Rudder maintains coordination; it does not hold the pylon.**
-
-The control relationship is:
-
-**Groundspeed → pivotal altitude → pylon movement → pitch correction**
-
-Bank is used for the turn geometry and must remain appropriate to the conditions and **≤40°**.
-
-### Close
-
-Eights on pylons are not a constant-radius maneuver.
-
-The goal is to keep the pylon stationary on the lateral sight line while groundspeed changes around the turn.
-
-That requires us to:
-
-- Determine approximate pivotal altitude.
-- Select good pylons.
-- Enter correctly.
-- Use the proper bank.
-- Change altitude smoothly as groundspeed changes.
-- Remain coordinated.
-- Manage traffic, terrain, energy, and emergency options.
-
-The final rule is simple:
-
-**Point moves forward → forward pressure**  
-**Point moves backward → back pressure**
-
-**Pitch holds the pivotal relationship. Rudder keeps us coordinated.**
-
-
-## K1 — Purpose and Procedures
-
-Select two pylons on a line approximately **perpendicular to the wind**. Enter the maneuver on a **45° midpoint downwind** at approximate pivotal altitude, turn around the first while maintaining the pylon on a wing reference, roll out diagonally between pylons, transition wings level for approximately **3–5 seconds**, then turn oppositely around the second and exit on the entry heading.
-
-## K2 — Aerodynamics and Coordination
-
-Bank determines the turn geometry for the chosen pylon distance, while pitch changes altitude and groundspeed. Use coordinated aileron/rudder for every bank change. **Never move the pylon with rudder**; that creates a slip/skid and does not correct pivotal altitude.
-
-## K3 — Pivotal Altitude
-
-Pivotal altitude, $h_p$ in feet AGL, is the altitude at which the selected pylon appears stationary along a line parallel to the airplane’s lateral axis during the turn. It varies with **groundspeed**, $GS$ in knots, squared, not bank angle:
-
-$$
-h_p = \frac{GS^2}{11.3}
-$$
-
-| Groundspeed | Approx. pivotal altitude |
-|---:|---:|
-| **70 kt** | **434 ft AGL** |
-| **80 kt** | **566 ft AGL** |
-| **90 kt** | **717 ft AGL** |
-| **100 kt** | **885 ft AGL** |
-
-Use the calculated value as an estimate. Actual groundspeed changes around each pylon, so altitude must change continuously.
-
-[[mnemonic:
-Ahead—Descend; Behind—Climb |
-If the pylon moves **ahead toward the nose**, lower the nose and descend. If it moves **behind toward the tail**, raise the nose and climb. Use pitch, not rudder.
-]]
-
-## K4 — Effect of Wind on Ground Track
-
-Enter on a **45° line through the midpoint, downwind**, near the highest groundspeed and pivotal altitude. Groundspeed falls while turning upwind, requiring a descent to the lower pivotal altitude; it rises returning downwind, requiring a climb. Apply wind correction between pylons to arrive at the second at the proper distance.
-
-## K5 — Phases from Entry to Recovery
-
-1. **Plan:** Wind, altitude, two pylons roughly **2/3–3/4 mile apart on a line perpendicular to the wind**, emergency field, and wing reference.
-2. **Enter:** Enter the maneuver on a **45° midpoint downwind**, about **100 KIAS / 2,300 RPM** for the local C172 profile, near **900 feet AGL** when groundspeed is about 100 knots.
-3. **First pylon:** Bank for distance, no more than **40°**; pitch to hold sight line.
-4. **Transition:** Roll out diagonally, wings level **3–5 seconds**, correct wind and position.
-5. **Second pylon:** Turn opposite and repeat.
-6. **Exit:** Roll out on the entry heading and restore cruise.
-
-## K6 — Common Errors
-
-Diagnose whether the error is **altitude (pitch)**, **distance (bank/position)**, **wind/entry planning**, or **coordination**. Rudder is never the pylon-position correction.
-
-## Risk Management
-
-### Low Altitude / Stall-Spin / CFIT
-**Hazard:** Banked flight near terrain with changing pitch and speed. **Recognition:** low speed, excessive bank, skid, rising obstacles. **Consequence:** stall/spin or CFIT. **Mitigation:** open area, safe pivotal-altitude range, **≤40° bank**, coordination, and early termination.
-
-### Collision / Fixation
-**Hazard:** Staring at the pylon. **Recognition:** traffic and altitude scan disappear. **Consequence:** collision or loss of orientation. **Mitigation:** pylon glance, attitude, traffic, instruments, next pylon; repeat.
-
-### Energy / Emergency Landing
-**Hazard:** Excessive pitch correction or no suitable landing area. **Recognition:** speed decays/builds or emergency options disappear. **Consequence:** stall, overspeed, or no forced-landing margin. **Mitigation:** smooth corrections, suitable terrain, stable entry, and discontinue before margins erode.
-
-## Scenario Application
-
-**Situation:** The pylon moves toward the nose and the learner applies inside rudder.  
-**Desired outcome:** Remove rudder, restore coordination, lower the nose to descend toward the higher pivotal altitude associated with increasing groundspeed, and reassess distance/bank.
 
 # Fly
 
@@ -514,12 +639,161 @@ Determine approximate pivotal altitude; select suitable pylons; enter correctly;
 
 ## Kneeboard
 
-<div class="kneeboard-header"><strong>EIGHTS ON PYLONS — CFI IX.F</strong><br><strong>PA = GS<sup>2</sup> ÷ 11.3</strong> (knots to feet AGL)</div>
-<div class="kneeboard-layout">
-	<div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> PA / clear / pylons</label><div class="kneeboard-detail"><strong>P:</strong> Pylons 2/3–3/4 mi on a line perpendicular to wind; 3–5 sec transition.</div><div class="kneeboard-detail"><strong>CE:</strong> Poor spacing, alignment, or emergency terrain.</div></div><table class="kneeboard-reference-table"><thead><tr><th>GS</th><th>70 kt</th><th>80 kt</th><th>90 kt</th><th>100 kt</th></tr></thead><tbody><tr><th>PA</th><td>434 ft</td><td>566 ft</td><td>717 ft</td><td>885 ft</td></tr></tbody></table><div class="kneeboard-item"><label><input type="checkbox"> Wind-relative entry</label><div class="kneeboard-detail"><strong>P:</strong> Enter maneuver on a 45° midpoint downwind; clean; ~100 KIAS / 2300 RPM.</div><div class="kneeboard-detail"><strong>CE:</strong> Wrong entry side, angle, or distance.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">PYLON</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Sight line</label><div class="kneeboard-detail"><strong>P:</strong> Ahead/nose → descend. Behind/tail → climb. Bank ≤40°.</div><div class="kneeboard-detail"><strong>CE:</strong> Ruddering the pylon.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">TRANSFER</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Wings level</label><div class="kneeboard-detail"><strong>P:</strong> 3–5 sec; wind correction; opposite turn; exit entry heading.</div><div class="kneeboard-detail"><strong>CE:</strong> Drifting too close/far.</div></div></div></div>
+<div class="kneeboard-header">
+    <strong>EIGHTS ON PYLONS — CFI IX.F</strong><br>
+    <strong>Pivotal altitude changes with groundspeed.</strong>
 </div>
+
+<div class="kneeboard-layout">
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">PA TABLE</div>
+        <div class="kneeboard-group-body">
+
+            <table class="kneeboard-reference-table">
+                <thead>
+                    <tr>
+                        <th>GS (kt)</th>
+                        <th>GS (MPH)</th>
+                        <th>Approx. PA (ft AGL)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>87</td><td>100</td><td>670</td></tr>
+                    <tr><td>91</td><td>105</td><td>735</td></tr>
+                    <tr><td>96</td><td>110</td><td>810</td></tr>
+                    <tr><td>100</td><td>115</td><td>885</td></tr>
+                    <tr><td>104</td><td>120</td><td>960</td></tr>
+                    <tr><td>109</td><td>125</td><td>1,050</td></tr>
+                </tbody>
+            </table>
+
+            <div class="kneeboard-item">
+                <div class="kneeboard-detail"><strong>Rule:</strong> Faster groundspeed → higher pivotal altitude. Slower groundspeed → lower pivotal altitude.</div>
+                <div class="kneeboard-detail"><strong>Note:</strong> 110 MPH corresponds to approximately <strong>810 ft AGL</strong> on this FAA-style table; approximately 900 ft is closer to 115 MPH / 100 kt.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Determine approximate pivotal altitude.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Use expected groundspeed and table above.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Treating pivotal altitude as one fixed altitude for the entire maneuver.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Enter approximate pivotal altitude / local training profile.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> About 2300 RPM; stabilize before maneuver.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Entering unstable or at an altitude inconsistent with groundspeed.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Two 90° clearing turns → clean configuration flow.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Clear above, below, and throughout maneuver area.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Fixating on pylons before clearing is complete.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">PYLONS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Select 2 pylons about <strong>2/3–3/4 mile apart</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Allow <strong>3–5 sec wings level</strong> between pylons; suitable emergency landing area nearby.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poor spacing, poor visual references, or no safe forced-landing option.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Enter on a <strong>45° midpoint downwind</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Note entry heading for recovery.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Wrong entry side, angle, or distance.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">FIRST PYLON</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Turn around pylon; bank appropriate to geometry, <strong>≤40°</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Wingtip / lateral reference stays pointed at pylon.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Using rudder to hold pylon or excessive bank.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Maintain line of sight with <strong>PITCH</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Pylon toward <strong>nose</strong> → pitch forward / descend.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Pylon toward <strong>tail</strong> → pitch back / climb.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Large pitch changes or uncoordinated correction.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TRANSFER</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Roll out diagonally between pylons at about <strong>45°</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Hold <strong>3–5 sec wings level</strong>; apply wind correction as needed.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Drifting too close / far or rushing second pylon.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SECOND PYLON</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Begin second turn in the <strong>opposite direction</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Same sight-line / pitch corrections; stay coordinated.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Losing orientation or changing correction logic.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">EXIT</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Exit on <strong>entry heading</strong> → cruise checklist.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Reestablish straight-and-level and normal cruise configuration.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Ending maneuver disorganized or off heading.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ACS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear / PA / suitable pylons / correct entry / coordinated / sight line maintained.</label>
+                <div class="kneeboard-detail"><strong>STD:</strong> Bank appropriate to conditions, <strong>not over 40°</strong>.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Smooth continuous corrections; avoid slips/skids; divide attention between pylon, aircraft, traffic, and terrain.</div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
 
 # Review
 

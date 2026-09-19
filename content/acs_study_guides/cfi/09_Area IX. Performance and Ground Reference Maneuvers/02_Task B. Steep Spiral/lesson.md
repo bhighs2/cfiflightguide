@@ -100,382 +100,482 @@ Watch for **wind-based bank changes**, **constant airspeed and radius**, engine 
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**There is one main idea in this lesson:** a steep spiral is a **power-off, constant-radius descent around a selected ground point** that lets the pilot dissipate altitude while keeping a potential landing area continuously in view.
+### Objective
 
-What makes the maneuver useful is also what makes it demanding. The airplane is descending, the wind is changing the groundspeed around the circle, the bank has to change to preserve the radius, and the pilot still has to maintain airspeed, coordination, orientation, traffic awareness, and a safe altitude margin.
+**Teach the learner to perform and teach a steep spiral by simulating an engine-out emergency descent to a selected landing area while maintaining best glide, coordinated flight, proper wind correction, constant radius turns, situational awareness, and a rollout on the planned heading or key reference.**
 
-So rather than teaching it as a three-turn procedure to memorize, we are going to connect the lesson through:
+---
 
-**Emergency application → Constant radius → Wind correction → Airspeed and bank → Engine considerations → Risk → Common errors**
+### Why We Teach Steep Spirals
 
-### 1. What Is a Steep Spiral and Why Do We Use It?
+A steep spiral is not just a descending turn. It is an **emergency-approach planning maneuver**.
 
-- **A steep spiral is a gliding turn around a surface reference point while maintaining a constant radius.**
-- The Airplane Flying Handbook describes it as a maneuver for **rapidly dissipating substantial altitude while remaining over a selected spot**.
-- The maneuver consists of **at least three 360° turns**.
+The purpose is to teach the pilot how to manage:
 
-- **Its practical connection is emergency landing planning.**
-- If we are high over a suitable landing area, a steep spiral can help us lose altitude while:
-    - Keeping the landing area in sight.
-    - Remaining close enough to continue evaluating it.
-    - Maintaining orientation to the field.
-    - Transitioning from excess altitude toward a normal landing pattern.
+- an engine-out glide,
+- a selected landing area,
+- wind drift,
+- energy management,
+- and division of attention.
 
-- **But a steep spiral is not the emergency landing procedure itself.**
-- It does not replace:
-    - Best-glide management.
-    - The emergency checklist.
-    - Landing-site evaluation.
-    - Wind analysis.
-    - Pattern planning.
-    - The final approach and landing.
+The student is learning how to descend from excess altitude to a landing position **without using power** and without losing control, coordination, or situational awareness.
 
-- It is simply one tool for managing **excess altitude** while staying oriented to the selected area.
+So when I teach this maneuver, I frame it this way:
 
-- **That immediately leads to the defining skill of the maneuver: if we are circling a point while the wind changes our groundspeed, how do we keep the same distance from that point?**
+**“This is a forced-landing planning maneuver. We are learning how to get from too high to in position, while always remaining in control and within gliding distance of the selected field.”**
 
-### 2. Constant Radius — The Ground Track Is the Maneuver
+---
 
-- **The steep spiral is judged by the ground track, not by holding one fixed bank angle.**
-- The airplane should remain approximately the same distance from the selected reference point throughout each turn.
+### ACS / Maneuver Purpose
 
-- That means the pilot has to separate two jobs:
+For the Commercial and Flight Instructor standards, the maneuver requires the pilot to:
 
-    - **Pitch controls the desired gliding airspeed.**
-    - **Bank is adjusted to control the ground-track radius.**
+- select a suitable ground reference point associated with a simulated forced landing area,
+- establish a stabilized power-off glide,
+- maintain coordinated descending turns,
+- complete at least **three constant-radius turns** around the point,
+- correct continuously for wind,
+- divide attention between airplane control, ground track, and traffic,
+- clear the engine at appropriate intervals,
+- and roll out on the specified heading or reference while maintaining control.
 
-- **Do not pull back to tighten the circle.**
-- Increasing back pressure to make the airplane turn tighter:
-    - Increases angle of attack.
-    - Increases load factor.
-    - Increases stall speed.
-    - Can reduce airspeed.
-    - Does not address the actual reason the ground track is changing.
+This is primarily a **visual maneuver**. The pilot uses the outside picture, not the instruments, as the primary means of control and spacing.
 
-- If the radius is wrong because of wind, the correction should primarily be made with **bank**, while maintaining the desired glide airspeed with pitch.
+---
 
-- **The learner should be looking outside and asking one simple question: is my distance from the point staying approximately constant?**
+### FAR / Regulatory Considerations
 
-- If the point appears to move farther away, the radius is expanding.
-- If the point appears to move closer, the radius is shrinking.
+Several regulations are directly relevant.
 
-- **And the reason that radius constantly wants to change is wind.**
+- **14 CFR §91.103** — The pilot must become familiar with performance and limitations. That includes knowing the airplane’s best glide speed and how wind affects glide planning.
+- **14 CFR §91.113** — See-and-avoid still applies. Clear the area before entry and keep scanning throughout the maneuver.
+- **14 CFR §91.119** — Minimum safe altitudes matter. This is a training maneuver, so it must be started with enough altitude to complete it safely.
+- **14 CFR §91.13** — Careless or reckless operation is prohibited. That includes trying to “salvage” a bad spiral with aggressive control use.
 
-### 3. Wind Correction — Why the Bank Cannot Stay Constant
+A practical teaching line is:
 
-- **Wind changes the airplane's groundspeed as it moves around the circle.**
-- The airspeed may remain constant while groundspeed changes significantly.
+**“This is an emergency simulation, not an emergency excuse. We still fly it safely, clear for traffic, and stay within the airplane’s limits.”**
 
-- Groundspeed is generally:
-    - **Highest on the downwind portion.**
-    - **Lowest on the upwind portion.**
+---
 
-- **At higher groundspeed, the airplane covers more distance across the ground for a given amount of turning.**
-- Without correction, the radius expands.
+### POH Guidance — Cessna 172S
 
-- So on the downwind side we need a **steeper bank** to increase turn rate and hold the radius.
+For the Cessna 172S, the POH best glide guidance is:
 
-- **At lower groundspeed, the airplane covers less ground.**
-- Without correction, the radius contracts.
+- **Best Glide Speed: 68 KIAS**
+- **Flaps Up**
+- **Zero Wind**
+- **Propeller Windmilling**
 
-- So on the upwind side we use a **shallower bank**.
+That is the speed we should establish and protect during the steep spiral unless a different speed is required for a specific aircraft, loading, or safety reason.
 
-- The relationship is:
+That is also why your note matters:
 
-**Higher groundspeed → steeper bank**  
-**Lower groundspeed → shallower bank**
+**Yes — we need to establish best glide.**
 
-- **The bank change is continuous.**
-- We should not think of the maneuver as four separate bank settings.
-- Wind direction and velocity act continuously, so the pilot should continuously adjust bank to preserve the same ground-track radius.
+If the pilot enters the maneuver too fast, the spiral becomes wider and flatter, and it becomes harder to fit three circles in the available altitude. A slower glide speed — specifically **best glide** — gives a tighter turn radius and usually a faster rate of turn for a given bank angle, which helps make the maneuver workable.
 
-- **The steepest bank should not exceed 60°.**
-- If maintaining the selected radius would require more than 60° of bank, the correct response is not to skid, pull harder, or exceed the limit.
+For a 172, that is one of the most practical teaching points in the entire maneuver.
 
-- **Change the plan.**
-    - Widen the radius.
-    - Reposition.
-    - Select another point.
-    - Discontinue the maneuver.
+---
 
-- **That is an important instructional lesson: the ground track never justifies exceeding the airplane or ACS limit.**
+### Recommended Entry Altitude
 
-- **Wind tells us how much bank we need. But while bank is changing, the airplane is still descending power-off, so airspeed has to remain stable.**
+The maneuver should begin with enough altitude to safely complete at least three turns and recover with a safe margin.
 
-### 4. Airspeed, Bank, and Load Factor — Do Not Trade Safety Margin for Radius
+A practical training setup in a 172 is often:
 
-- **The ACS requires the specified airspeed to be maintained within ±10 knots.**
-- Pitch is the primary control used to maintain that gliding airspeed.
+- **preferred:** about **5,500 feet AGL**,
+- **minimum practical training entry:** high enough to complete the maneuver and recover safely,
+- and always planned so the maneuver is completed **well above the surface** and within the ACS safety expectations.
 
-- Bank is being changed for the ground track, but increasing bank also increases load factor.
+Using 5,500 AGL gives the student time to stabilize, plan, correct for wind, and complete three circles without rushing.
 
-- **As load factor increases, stall speed increases.**
-- That makes excessive bank and excessive back pressure particularly important during a power-off descending maneuver.
+A good instructor line is:
 
-- The learner should understand:
+**“The spiral should feel organized, not squeezed.”**
 
-**More bank → more load factor → higher stall speed**
+---
 
-- **That is why we do not tighten the spiral with rudder or elevator.**
-- A skidding, high-angle-of-attack turn is exactly the condition we want to avoid.
+### Maneuver Setup
 
-- Maintain:
-    - The specified glide airspeed.
-    - Coordinated flight.
-    - Bank appropriate for the wind.
-    - Bank never exceeding 60°.
+A good setup is:
 
-- **If the airplane is getting too close to the point, too far from the point, or approaching the bank limit, fix the plan—not by sacrificing airspeed or coordination.**
+1. climb to the planned entry altitude,
+2. complete **two 90° clearing turns** or equivalent area clearing,
+3. stabilize at about **90 KIAS** and about **1800 RPM** if that is your preferred setup,
+4. complete a clean-configuration flow,
+5. choose a suitable landing site and a precise reference point,
+6. then smoothly reduce power to idle,
+7. establish **best glide at 68 KIAS**,
+8. and begin the spiral.
 
-- **Because the maneuver is power-off for an extended period, there is another system consideration we need to manage: the engine.**
+The key point is that **best glide is established before the pilot starts trying to perfect the circles**.
 
-### 5. Engine Considerations During the Glide
+First control the airplane. Then control the ground track.
 
-- **A steep spiral may keep the engine at idle for a prolonged period.**
-- The Airplane Flying Handbook notes that extended idle operation may contribute to:
-    - Excessive engine cooling.
-    - Spark-plug fouling.
-    - Carburetor ice in susceptible airplanes.
+---
 
-- **The engine should therefore be managed in accordance with the aircraft's POH/AFM and operating procedure.**
-- The AFH recommends periodically advancing the throttle for a few seconds during prolonged idle operation.
+### Reference Point Selection
 
-- Where available, engine indications such as cylinder-head temperature can provide additional information about engine cooling.
+The reference point should be:
 
-- **The important teaching point is not to memorize one universal interval.**
-- The pilot should understand why the engine may need attention and follow the procedure appropriate to the airplane being flown.
+- easy to see,
+- distinct,
+- near the intended touchdown area or a useful aiming point,
+- and positioned so the pilot can remain within gliding distance throughout the maneuver.
 
-- **Now we have the core maneuver: hold airspeed with pitch, vary bank for wind, maintain radius, and manage the engine. The next question is how all of this ties back to an actual emergency landing.**
+For teaching, I usually describe the reference as:
 
-### 6. Relationship to Emergency Landing Procedures — Lose Altitude Without Losing the Landing Plan
+**“Pick the point you would orbit if you were trying to arrive at a normal key position for an emergency landing.”**
 
-- **The selected ground reference should be suitable for the intended training objective and, when teaching the emergency application, should support a realistic landing plan.**
+That could be:
 
-- Before beginning the descent, the pilot should already have a mental picture of:
-    - Wind.
-    - Landing direction.
-    - Terrain and obstacles.
-    - The intended pattern or approach.
-    - The altitude at which the spiral must end.
+- the touchdown end of a runway,
+- a threshold,
+- a corner of a field,
+- or another unmistakable point.
 
-- **The spiral should simplify the landing problem, not create a new one.**
+---
 
-- We do not want to finish:
-    - Too low.
-    - Too close.
-    - On the wrong side of the field.
-    - With excessive airspeed.
-    - Without a clear transition to the approach.
+### Practical 172 Sight Picture
 
-- **The ACS requires the maneuver to be completed no lower than 1,500 feet AGL.**
-- That completion altitude preserves a margin to transition out of the maneuver rather than spiraling all the way to the ground.
+Your question about a 172 is a good one.
 
-- **The learner should always know where the spiral is taking them next.**
-- The purpose is not merely to count three revolutions.
-- The purpose is to arrive at a useful altitude and position while keeping the landing area available.
+In a high-wing Cessna, many pilots use a practical initial sight picture where the ground reference sits roughly beneath or just outside the wing / strut / wheel picture when the first bank is established.
 
-- **That is also why orientation and division of attention are such major risk-management items in this task.**
+So yes — using the **wheel over the ground reference** can be a useful **starting technique** for finding a workable radius and bank angle.
 
-### 7. Risk Management — Descending Does Not Mean Looking Down
+But it is only a starting picture.
 
-#### Division of Attention
+The real rule is:
 
-- **The learner has to divide attention among:**
-    - Airplane control.
-    - Ground-track radius.
-    - Traffic.
-    - Altitude.
-    - Wind correction.
-    - Orientation to the landing area.
+**If the point is moving away from the airplane, change bank for wind correction.**
 
-- Point fixation is a common problem.
-- The learner may stare at the reference point and stop noticing:
-    - Airspeed.
-    - Traffic.
-    - Altitude.
-    - Bank.
-    - The rest of the landing environment.
+That means:
 
-- **The scan should remain outside dominant, but it cannot become point-fixated.**
+- don’t fixate on a single wing or wheel sight picture,
+- use it to start,
+- then adjust continuously based on what the point is doing.
 
-#### Collision Hazards
+A good speakable explanation is:
 
-- **Clear the area before beginning the maneuver and continue scanning throughout it.**
-- A descending spiral may pass through multiple altitudes while the pilot's attention is heavily occupied.
+**“In a 172, I can start with the point near the wheel or just outside the wing picture, but then I fly the movement of the point, not the memorized picture.”**
 
-- Traffic may be:
-    - Above.
-    - Below.
-    - Entering the same practice area.
-    - Operating near the selected field.
+---
 
-- **The maneuver does not create right-of-way or protected airspace around the reference point.**
+### Wind Correction — The Core of the Maneuver
 
-#### Low Altitude, Stall/Spin, and CFIT
+The heart of the steep spiral is wind correction.
 
-- **The airplane is continuously descending.**
-- That means altitude is not just another performance parameter—it is a diminishing resource.
+Without wind correction, the circle will not remain constant radius.
 
-- The pilot has to remain aware of:
-    - Terrain.
-    - Obstacles.
-    - Bank.
-    - Airspeed.
-    - Coordination.
-    - Minimum completion altitude.
+Because the airplane’s groundspeed changes continuously around the turn, the bank angle must also change continuously.
 
-- Excessive bank, excessive back pressure, or uncoordinated flight can create an accelerated stall or spin risk.
+#### On the downwind side:
 
-- **If the maneuver cannot be continued within safe altitude, airspeed, coordination, or bank limits, discontinue it.**
+- groundspeed is highest,
+- the airplane covers the most ground,
+- so the pilot generally needs the **steepest bank**.
 
-#### Distraction, Task Prioritization, and Disorientation
+#### On the upwind side:
 
-- **Teaching while spiraling creates additional workload.**
-- The CFI applicant is trying to:
-    - Fly.
-    - Explain.
-    - Track the point.
-    - Watch traffic.
-    - Track altitude.
-    - Count revolutions.
+- groundspeed is lowest,
+- the airplane covers less ground,
+- so the pilot generally uses the **shallowest bank**.
 
-- If the explanation begins interfering with aircraft control or situational awareness:
+#### On the crosswind portions:
 
-**Aviate first.**
+- the bank is usually between those two extremes.
 
-- Pause the teaching.
-- Reestablish control and orientation.
-- Resume only when stable.
+This is the teaching centerpiece.
 
-#### Uncoordinated Flight
+A good line is:
 
-- **Do not use rudder to salvage the ground track.**
-- A skidding turn combined with low airspeed and increased load factor can rapidly become a stall/spin event.
+**“The radius stays constant only because the bank angle changes with the wind.”**
 
-- Keep the maneuver coordinated and use bank—not yaw—to control the radius.
+And another:
 
-#### Wind
+**“Steepest bank on downwind, shallowest bank on upwind.”**
 
-- **Wind is not a disturbance added to the maneuver; wind correction is the maneuver.**
-- If the learner is not continuously adjusting for wind, they are not maintaining the required ground track.
+The bank must remain within airplane and maneuver limits. In your procedure, that is:
 
-- Strong or changing wind can also make the originally selected point or radius inappropriate.
+- **bank angle adjusted for winds**
+- **not to exceed 60°**
 
-- **If the required correction approaches the 60° bank limit, change the plan.**
+That is consistent with good steep-spiral teaching.
 
-#### Airframe and Airspeed Limitations
+---
 
-- **The maneuver must remain within the POH/AFM and ACS limitations.**
-- Never exceed 60° bank for the ACS maneuver.
-- Maintain the specified airspeed.
-- Do not let pursuit of the ground track override aircraft limitations.
+### Airspeed Control
 
-- **Those risks explain nearly every common error we see in the maneuver. So rather than memorizing the error list, we want to understand what caused each one.**
+The airspeed objective is simple:
 
-### 8. Common Errors — Diagnose the Cause
+- establish **best glide**, and
+- hold it with pitch.
 
-#### Not Clearing or Not Scanning
+For the 172S steep spiral, that means **68 KIAS**.
 
-- **What we see:** The learner focuses on the point and stops looking for traffic.
-- **Why it happens:** The ground reference becomes the center of attention.
-- **Correction:** Restore a deliberate outside scan that includes traffic, not just the point.
+Throttle is already at idle, so pitch becomes the primary airspeed control.
 
-#### Poor Airspeed Control
+If the student chases the point with pitch, airspeed control will suffer.
 
-- **What we see:** Airspeed varies more than desired.
-- **Why it happens:** The learner uses pitch to fix the radius or fails to maintain a stable glide attitude.
-- **Correction:** Reestablish the proper glide attitude and use pitch for airspeed.
+If the student chases the airspeed indicator, the ground reference control will suffer.
 
-#### Failure to Correct for Wind
+So teach the correct hierarchy:
 
-- **What we see:** The radius expands downwind or contracts upwind.
-- **Why it happens:** The learner holds a constant bank instead of responding to changing groundspeed.
-- **Correction:** Steepen bank as groundspeed increases and shallow it as groundspeed decreases.
+1. **pitch for airspeed**,
+2. **bank for radius**,
+3. **rudder for coordination**.
 
-#### Poor Coordination
+A concise teaching line is:
 
-- **What we see:** Slip or skid.
-- **Why it happens:** The learner tries to move the airplane toward the point with rudder or does not coordinate changing bank.
-- **Correction:** Restore coordinated aileron and rudder; never tighten the radius with rudder.
+**“Pitch holds best glide. Bank holds the circle. Rudder keeps it coordinated.”**
 
-#### Excessive Bank
+---
 
-- **What we see:** Bank approaches or exceeds 60° while trying to preserve the radius.
-- **Why it happens:** The selected radius is too small for the current wind and groundspeed.
-- **Correction:** Widen, reposition, or discontinue. Do not exceed the limit to save the track.
+### Coordination
 
-#### Ineffective Use of Trim
+The turn must remain coordinated.
 
-- **What we see:** Heavy control pressure or continuing airspeed drift.
-- **Why it happens:** The airplane was trimmed before the glide attitude stabilized, or changing conditions are being ignored.
-- **Correction:** Stabilize first, then trim as appropriate while remaining ready to make corrections.
+Steep spirals are not slipping maneuvers. The pilot is not trying to dump altitude with a slip. The descent rate comes from the **power-off glide** and the descending turn.
 
-#### Disorientation or Lost Turn Count
+Poor coordination creates several problems:
 
-- **What we see:** The learner no longer knows the number of revolutions, rollout reference, or orientation to the field.
-- **Why it happens:** Attention narrowed to one element of the maneuver.
-- **Correction:** Use clear outside references and deliberate orientation cues. If orientation is lost, level and reestablish situational awareness.
+- less efficient glide,
+- sloppy radius control,
+- reduced situational awareness,
+- and unnecessary stall/spin risk if mishandled.
 
-#### Instrument Fixation
+That is why the rudder must be used properly throughout the turn.
 
-- **What we see:** Prolonged heads-down instrument reference.
-- **Why it happens:** The learner is trying to control numeric indications instead of using outside references.
-- **Correction:** Return to the outside picture; use instruments to verify performance.
+---
 
-#### Missed Rollout Reference
+### Trim Use
 
-- **What we see:** The learner rolls out late or on the wrong heading/reference.
-- **Why it happens:** The rollout was not identified in advance or the learner became consumed by the spiral.
-- **Correction:** Select the rollout reference before beginning and maintain awareness of it throughout the maneuver.
+Trim helps reduce workload.
 
-- **The instructor's job is not simply to announce that the circle got too wide or the airspeed changed.**
-- The instructor should help the learner identify **why** it happened—wind, pitch, bank, coordination, fixation, or poor planning—so the next correction addresses the cause.
+Once the airplane is stabilized at best glide, a small trim correction can help the student hold airspeed without fighting the control wheel.
 
-### 9. Instructor Emphasis — What Should Be Clear Before We Fly?
+Trim should support the maneuver, not replace active flying.
 
-- Before moving into the Fly section, the learner should understand:
+A common problem is failing to trim at all, then making large pitch corrections due to fatigue. Another is over-trimming and then chasing the airplane.
 
-    - Why the maneuver is useful for dissipating excess altitude.
-    - Why it can support an emergency landing plan.
-    - Why the ground track—not a fixed bank angle—defines the maneuver.
-    - Why groundspeed changes around the circle.
-    - Why bank is steepest downwind and shallowest upwind.
-    - Why pitch controls the gliding airspeed.
-    - Why pulling or skidding to tighten the circle is unsafe.
-    - Why bank must never exceed 60°.
-    - Why altitude, traffic, and orientation remain continuous priorities.
-    - Why prolonged idle operation requires aircraft-appropriate engine management.
+---
 
-- **During the demonstration, emphasize relationships rather than narrating every control movement.**
+### Engine Clearing
 
-- The learner should be able to connect:
+The engine should be cleared at appropriate intervals.
 
-**Wind changes groundspeed → groundspeed changes required turn rate → bank changes to preserve radius**
+Your procedure says:
 
-and:
+- **clear engine once every 360° turn**.
 
-**Pitch → airspeed**  
-**Bank → radius**  
-**Coordination → safety**
+That is a good practical standard.
 
-- **At this point the learner understands why the spiral changes around the circle, how it supports an emergency landing plan, what risks have to be managed, and what errors to expect. The Fly section can now focus purely on applying those relationships to the actual maneuver.**
+The point of clearing the engine is to:
 
-### Close
+- reduce the chance of engine cooling issues,
+- verify engine response,
+- and keep the simulation connected to real-world emergency management.
 
-- **The steep spiral is really an exercise in managing altitude, wind, and geometry at the same time.**
+This should be done smoothly and briefly, without losing control of the maneuver.
 
-**Keep the landing area in view.**  
-**Hold the desired glide airspeed with pitch.**  
-**Vary bank continuously for wind.**  
-**Maintain a constant-radius ground track.**  
-**Stay coordinated and within limitations.**  
-**Preserve enough altitude to transition to the landing plan.**
+A good teaching phrase is:
 
-- For the CFI applicant, there is one additional layer:
-  **teach those relationships while maintaining aircraft control, traffic awareness, orientation, and a safe completion altitude.**
+**“Clear the engine without sacrificing the spiral.”**
 
-- **The end goal is not merely three circles around a point.**
-- It is a learner who understands how to use wind correction, bank, airspeed, and altitude together to manage excess altitude without losing the landing option.
+---
+
+### Rollout / Recovery
+
+At the completion of the planned turns, the pilot should roll out on the specified heading or reference.
+
+Recovery priorities are:
+
+1. coordinated rollout,
+2. airspeed control,
+3. heading / visual reference alignment,
+4. smooth transition back to cruise,
+5. reset heading system if needed,
+6. accomplish cruise checklist.
+
+Your note is also good:
+
+- **The DG/HSI may precess during the maneuver.**
+- **Rely on visual references.**
+- Then **adjust DG/HSI to the compass** after recovery.
+
+That is especially important because this maneuver is outside-referenced. If the student tries to fly it off the heading indicator, the maneuver usually degrades.
+
+---
+
+### Commercial / CFI Emphasis
+
+This is a maneuver where Commercial and CFI teaching should emphasize:
+
+- judgment,
+- sight picture,
+- wind correction,
+- and energy management.
+
+The student should not be taught merely to “draw three circles.”
+
+The real lesson is:
+
+**“Can I stay within gliding distance, manage energy, and arrive in position for a forced landing?”**
+
+---
+
+### Common Errors and Corrections
+
+#### 1. Not Clearing the Area
+
+**Error:** Entering the maneuver without a proper traffic scan.
+
+**Correction:** Clear before entry and continue scanning throughout.
+
+#### 2. Inadequate Pitch Control on Entry or Rollout
+
+**Error:** Diving into the maneuver or ballooning during recovery.
+
+**Correction:** Establish best glide first, then recover smoothly.
+
+#### 3. Not Correcting Bank for Wind
+
+**Error:** Same bank all the way around.
+
+**Correction:** Teach steepest bank downwind, shallowest bank upwind.
+
+#### 4. Poor Coordination
+
+**Error:** Sloppy rudder use or skidding/slipping.
+
+**Correction:** Coordinate every bank change.
+
+#### 5. Ineffective Use of Trim
+
+**Error:** Excessive control-force workload.
+
+**Correction:** Trim once stabilized at best glide.
+
+#### 6. Inadequate Airspeed Control
+
+**Error:** Airspeed varies because the student is chasing the point with pitch.
+
+**Correction:** Pitch for airspeed, bank for radius.
+
+#### 7. Becoming Disoriented
+
+**Error:** Losing track of heading, wind position, or turn count.
+
+**Correction:** Use a repeatable scan and verbalize the phases of the turn.
+
+#### 8. Performing by Instruments Rather than Outside References
+
+**Error:** Student stares inside.
+
+**Correction:** Use the instruments as support only. The maneuver is visual.
+
+#### 9. Not Scanning for Other Traffic
+
+**Error:** Tunnel vision on the point.
+
+**Correction:** Continue an outside scan throughout the maneuver.
+
+#### 10. Not Completing the Turn on the Designated Heading or Reference
+
+**Error:** Sloppy rollout.
+
+**Correction:** Anticipate rollout and keep the maneuver organized.
+
+---
+
+### Risk Management Discussion
+
+A complete ACS-level lesson should include the major risks.
+
+#### 1. Stall / Spin Awareness
+
+The steep spiral is a gliding turn. The pilot must avoid trying to “stretch” the glide or forcing the turn tighter with excessive back pressure.
+
+#### 2. Distraction / Task Saturation
+
+Students often become fixated on either the point or the airspeed. They must learn to divide attention.
+
+#### 3. Traffic Collision Risk
+
+Because the maneuver involves repeated turns in a relatively confined area, clearing and scanning are essential.
+
+#### 4. Loss of Landing Option
+
+If the pilot lets the spiral get too wide, too far, or too low, the forced-landing option degrades quickly. The maneuver should teach the student to remain **within gliding distance** and **always preserve the landing plan**.
+
+---
+
+### Speakable Demonstration Script
+
+**“I’ve cleared the area, selected a landing site and a clear reference point, and I’m setting up clean. I’ll bring the power to idle and establish best glide at 68 knots. From here, pitch controls airspeed, bank controls radius, and rudder keeps me coordinated. I want at least three constant-radius turns around the reference point. Because of wind, I’ll use the steepest bank on the downwind side and the shallowest bank on the upwind side. I’m staying within gliding distance of the landing area the whole time, and I’ll clear the engine once each 360. I’m flying this primarily by outside reference, not by staring at the instruments. At the end of the maneuver, I’ll roll out on the designated heading or reference, recover smoothly, then reset the DG or HSI and complete the cruise flow.”**
+
+---
+
+### Practical Teaching Notes for the 172
+
+For the 172, these practical points help students a lot:
+
+- **Best glide matters.** If you fly faster than best glide, the maneuver gets wider and harder to finish.
+- **Starting around 5,500 AGL is helpful.** It gives enough room to learn the wind corrections.
+- **Use a wing / strut / wheel picture as a starting cue only.** Then adjust by how the point moves.
+- **If you are not going to get three circles, the usual causes are too much airspeed, too large a radius, or too little altitude.**
+
+---
+
+### ACS Coverage Summary
+
+This lesson covers all ACS elements by addressing:
+
+#### Knowledge
+
+- purpose of the maneuver,
+- best glide,
+- wind correction,
+- constant radius control,
+- engine clearing,
+- visual references,
+- common errors.
+
+#### Risk Management
+
+- traffic avoidance,
+- distraction and task saturation,
+- stall/spin awareness,
+- preserving a usable landing plan,
+- safe maneuver altitude.
+
+#### Skills
+
+- setup,
+- selecting a landing area/reference,
+- establishing best glide,
+- maintaining coordination,
+- completing at least three constant-radius turns,
+- clearing the engine,
+- proper rollout and recovery.
+
+---
+
+### References
+
+- Cessna 172S POH/AFM — Best glide guidance
+- FAA Airplane Flying Handbook — Steep Spirals
+- FAA Pilot’s Handbook of Aeronautical Knowledge
+- Commercial Pilot Airplane ACS
+- Flight Instructor Airplane ACS
+- **14 CFR §91.103**
+- **14 CFR §91.113**
+- **14 CFR §91.119**
+- **14 CFR §91.13**
+
 
 
 ## K1 — Purpose and Procedures
@@ -577,20 +677,126 @@ Complete at least **three 360° turns**, hold constant radius with wind correcti
 
 ## Kneeboard
 
-<div class="kneeboard-header"><strong>STEEP SPIRAL — CFI IX.B</strong><br>Objective: Descend around a landing area through at least three constant-radius turns.</div>
-<div class="kneeboard-layout">
-  <div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body">
-    <div class="kneeboard-item"><label><input type="checkbox"> Altitude / clear</label><div class="kneeboard-detail"><strong>P:</strong> ≥3,000 AGL profile; two 90° clearing turns.</div><div class="kneeboard-detail"><strong>CE:</strong> Insufficient altitude or scan.</div></div>
-    <div class="kneeboard-item"><label><input type="checkbox"> Point / entry / speed</label><div class="kneeboard-detail"><strong>P:</strong> Identify wind; no required wind-relative entry; planned radius; clean; 90 KIAS; ~1,800 RPM; note rollout.</div><div class="kneeboard-detail"><strong>CE:</strong> Unsuitable point or wind plan.</div></div>
-  </div></div>
-  <div class="kneeboard-group"><div class="kneeboard-rail">SPIRAL</div><div class="kneeboard-group-body">
-    <div class="kneeboard-item"><label><input type="checkbox"> Idle / track</label><div class="kneeboard-detail"><strong>P:</strong> Pitch for speed; vary bank for wind; ≤60°; coordinated.</div><div class="kneeboard-detail"><strong>CE:</strong> Pulling or ruddering to the point.</div></div>
-    <div class="kneeboard-item"><label><input type="checkbox"> Three turns</label><div class="kneeboard-detail"><strong>P:</strong> Constant radius; clear engine each 360°; count and call altitude.</div><div class="kneeboard-detail"><strong>CE:</strong> Lost orientation or engine clearing.</div></div>
-  </div></div>
-  <div class="kneeboard-group"><div class="kneeboard-rail">RECOVER</div><div class="kneeboard-group-body">
-    <div class="kneeboard-item"><label><input type="checkbox"> Rollout</label><div class="kneeboard-detail"><strong>P:</strong> Visual heading ±10°; >1,500 AGL; cruise; DG/HSI check.</div><div class="kneeboard-detail"><strong>CE:</strong> Late rollout or low completion.</div></div>
-  </div></div>
+<div class="kneeboard-header">
+    <strong>STEEP SPIRAL — TASK B</strong>
 </div>
+
+<div class="kneeboard-layout">
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Preferred entry about <strong>5500' AGL</strong>; clear area with two 90° clearing turns.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Start high enough to complete at least 3 circles safely.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Starting low or without proper clearing.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> ~90 KTS / ~1800 RPM setup; clean configuration; select landing site + reference point.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Pick a distinct point tied to the simulated emergency landing area.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Vague point or poor landing-area selection.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ENTRY</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Throttle idle; establish <strong>BEST GLIDE 68 KIAS</strong> (POH, flaps up, zero wind, prop windmilling).</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Best glide first — then perfect the circle.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Entering too fast or chasing the point with pitch.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Start first turn using outside reference.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> In a 172, wheel / strut / wing picture may be a useful starting cue only.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Fixating on a memorized picture instead of the point’s movement.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CONTROL</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Pitch for airspeed, bank for radius, rudder for coordination.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Trim once stabilized at best glide.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Airspeed wandering because pitch is used to chase the ground track.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Complete at least <strong>3 constant-radius turns</strong> around the reference.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Slower airspeed / best glide helps keep radius tight enough to make 3 circles.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Wide circles from excessive speed or oversized radius.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">WIND</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Adjust bank continuously for wind; do not exceed <strong>60°</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Steepest bank on downwind side, shallowest on upwind side.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Holding the same bank all the way around.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Keep the point at a constant apparent distance from the airplane.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Fly the movement of the point, not the instruments.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Drifting too close downwind or too far upwind.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SCAN / ENGINE</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Continuous traffic scan; maneuver is primarily visual.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Instruments support — outside references lead.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Flying by heading indicator / HSI instead of outside picture.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear engine once every 360° turn.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Do it smoothly without sacrificing airspeed or radius control.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Missing engine-clearing or letting maneuver unravel while doing it.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">RECOVER</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Roll out on the specified heading / visual reference.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Anticipate rollout; stay coordinated; hold glide control through recovery.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late rollout, disorientation, or sloppy recovery.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Reset DG/HSI to compass; cruise checklist.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> DG/HSI precession is expected — rely on visual references during the maneuver.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Treating a precessed heading indication like the primary reference.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ACS</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Commercial:</strong> select suitable area, establish best glide, maintain coordination, divide attention, correct for wind, clear engine, complete at least 3 constant-radius turns, roll out on heading/reference.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Think “forced-landing planning maneuver.”</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Drawing circles without preserving a landing plan.</div>
+            </div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>CFI:</strong> demonstrate + teach + analyze errors while keeping maneuver organized and ACS-complete.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Must explain best glide, wind correction, point selection, and traffic scan.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Good demonstration but incomplete teaching.</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
 
 # Review
 

@@ -104,368 +104,548 @@ At **600–1,000 feet AGL**, select suitable references, plan the correct entry,
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**Ground reference maneuvers teach us to keep a desired ground track. That is the goal of all three maneuvers.**
+### Objective
 
-The shape changes—a rectangle, two semicircles, or a circle around a point—but the problem is the same: **the wind is continuously changing our drift and groundspeed, while we are trying to keep the ground track the same.**
+**Teach the learner to select a suitable ground reference and emergency landing area, determine the wind, and use coordinated bank, crab, and visual references to maintain the required ground track during rectangular course, S-turns, and turns around a point while maintaining altitude, airspeed, traffic awareness, and safe low-altitude judgment.**
 
-We are going to maintain altitude and airspeed within tolerance, so in the turning portions of these maneuvers our primary tool for changing turn rate and ground radius is **bank angle**.
+### Purpose
 
-On straight legs, we use **crab** to correct drift.
+Ground reference maneuvers are really one lesson:
 
-So the basic relationship is:
+**the wind is constantly changing our drift and groundspeed while we are trying to keep the ground track the same.**
 
-**Wind changes groundspeed → groundspeed changes the turn rate required → bank changes to preserve the ground track.**
+On straight segments, we correct drift with **crab**.
+
+In turns, we change **bank angle** because groundspeed changes as we move around the wind.
+
+So the teaching story is:
+
+**select a safe area → determine the wind → fly the ground track, not the heading → steepen bank as groundspeed increases → shallow bank as groundspeed decreases → stay coordinated → keep scanning → protect the emergency landing option.**
+
+---
+
+### Start With Area Selection
+
+Before we talk about the shape of the maneuver, pick the right place to do it.
+
+These are low-altitude maneuvers, so the reference is only useful if the surrounding area is safe.
+
+I want:
+
+- a clear, easy-to-identify road, point, or rectangular area,
+- enough room to maneuver,
+- open terrain when practical,
+- clearance from towers, wires, terrain, and congested areas,
+- separation from airport traffic and other known conflicts,
+- and most importantly, a **suitable emergency landing area within practical gliding distance**.
+
+A useful teaching line is:
+
+**“Never pick a ground reference that takes away your landing option.”**
+
+At **600–1,000 feet AGL**, gliding options disappear quickly.
+
+If the maneuver starts drifting toward poor terrain, obstacles, houses, traffic, or a bad forced-landing environment:
+
+**reposition or discontinue.**
+
+---
+
+### FAR / Regulatory Considerations
+
+Ground reference maneuvers are still normal VFR operations.
+
+Relevant regulations include:
+
+- **14 CFR §91.103** — know the wind, weather, terrain, and operating environment before the maneuver.
+- **14 CFR §91.113** — see-and-avoid and right-of-way responsibilities remain continuous.
+- **14 CFR §91.119** — minimum safe altitude requirements still apply.
+- **14 CFR §91.126 / §91.127** — if operating near an airport, comply with applicable traffic-pattern direction and airport-vicinity rules.
+- **14 CFR §91.13** — do not continue a maneuver that creates an unsafe condition.
+
+The reference shape never has priority over safety.
+
+---
 
 ### Heading vs. Ground Track
 
-**Heading is where the nose is pointed. Ground track is the actual path the airplane follows over the ground.**
+The first concept is the difference between **heading** and **ground track**.
 
-If the airplane is pointed north and the wind is also from the north or south with no crosswind component, heading and ground track may be the same.
+**Heading** is where the nose points.
 
-If we have a crosswind, they are different.
+**Ground track** is where the airplane actually moves over the earth.
 
-For example, if our desired ground track is north and the wind is from the west, the airplane will drift east unless we point the nose into the wind.
+With no wind, they may be the same.
 
-That is our **wind-correction angle, or crab**.
+With wind, they usually are not.
 
-The stronger the crosswind, the larger the crab required.
+If the wind is from the left and I point the nose straight along a road, the airplane will drift right.
 
-**The important distinction is that we are not trying to preserve heading. We are trying to preserve ground track.**
+So I point the nose into the wind enough to hold the desired track.
 
-### Groundspeed, Bank, Rate, and Radius
+That is the **wind-correction angle**, or crab.
 
-The other major relationship is between **groundspeed and bank**.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Wind_Effect.png" alt="Wind effect showing intended ground path compared with actual wind-drifted path" loading="lazy">
+    <figcaption>Wind changes the airplane's actual ground path. The pilot must anticipate drift and correct for it.</figcaption>
+</figure>
 
-If groundspeed is high, the airplane covers more ground while it is turning. For the same desired ground radius, we need a higher turn rate, which means a **steeper bank**.
+The teaching cue is:
 
-If groundspeed is low, we need less turn rate to maintain that same ground radius, so we use a **shallower bank**.
+**“Fly the track, not the heading.”**
+
+---
+
+### Groundspeed, Bank, Turn Rate, and Radius
+
+Now connect wind to the turn.
+
+When groundspeed is high, the airplane covers more ground during the same amount of time.
+
+If we want the same ground radius, we need a **higher turn rate**, which requires a **steeper bank**.
+
+When groundspeed is low, we need a lower turn rate, so the bank is **shallower**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Bank_Radius_Rate.png" alt="Effect of bank angle and airspeed on turn radius and turn rate" loading="lazy">
+    <figcaption>At the same airspeed, increasing bank decreases turn radius and increases turn rate. At the same bank, lower airspeed decreases turn radius.</figcaption>
+</figure>
 
 So:
 
-**Higher groundspeed → steeper bank**  
-**Lower groundspeed → shallower bank**
+**Higher groundspeed → steeper bank.**  
+**Lower groundspeed → shallower bank.**
 
-Where are we going to have the highest groundspeed?
+And because the wind changes our groundspeed as we move around the maneuver:
 
-**Downwind.**
+- **downwind = fastest groundspeed = steepest bank**
+- **upwind = slowest groundspeed = shallowest bank**
 
-That is where we need the steepest bank.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Turn_Radius.png" alt="Ground reference turn showing bank changes around the circle as groundspeed changes" loading="lazy">
+    <figcaption>Bank angle changes continuously through a ground-reference turn to preserve the desired radius as groundspeed changes.</figcaption>
+</figure>
 
-Where are we going to have the lowest groundspeed?
+Rudder does **not** pull the airplane around the reference.
 
-**Upwind.**
+**Bank changes turn rate. Rudder keeps the airplane coordinated.**
 
-That is where we need the shallowest bank.
+---
 
-We are going to stay coordinated through all of these maneuvers. **Rudder maintains coordination; it does not force the ground track.**
+### Coordination
 
-Every maneuver in this lesson is simply a different application of that same wind relationship.
+These maneuvers are flown relatively low, so coordination matters.
+
+Do not use rudder to force the airplane around the point or back onto the line.
+
+That produces a slip or skid and can create a stall/spin risk close to the ground.
+
+The control relationship is:
+
+- **ailerons establish bank**
+- **rudder coordinates**
+- **elevator maintains altitude**
+- **power maintains airspeed as required**
+
+If the ground track is wrong, correct the **bank, crab, or turn timing**.
+
+Do not correct it with a flat rudder turn.
+
+---
 
 ### Rectangular Course
 
-#### Real-World Application — Traffic Pattern
+Rectangular course is basically a traffic-pattern wind-correction exercise.
 
-**The rectangular course is the traffic pattern.**
-
-We are practicing the exact same skills we use around a runway:
-
-- Entering 45° to downwind.
-- Maintaining consistent spacing.
-- Correcting drift on the straight legs.
-- Adjusting turn timing and bank for changing groundspeed.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Rectangular_Course.png" alt="Rectangular course showing wind correction on each leg and changing bank in the turns" loading="lazy">
+    <figcaption>Rectangular course combines crab on the straight legs with changing bank and turn timing as groundspeed changes.</figcaption>
+</figure>
 
 #### Entry
 
-- Clear the area.
-- Select a suitable rectangular reference area.
-- Determine the wind direction.
-- Establish **600 to 1,000 feet AGL**. I would normally use about **1,000 feet AGL** when conditions permit.
-- Establish the desired maneuver airspeed.
-- Enter a left or right pattern **45° to the downwind leg**.
+Clear the area.
+
+Select a rectangular area with a **suitable emergency landing option**.
+
+Determine the wind.
+
+Establish **600–1,000 feet AGL** and an appropriate maneuvering airspeed.
+
+Enter a left or right pattern **45° to the downwind leg**.
 
 #### Maneuver
 
-1. **Enter the downwind on the 45°.**
-2. Maintain the desired spacing from the reference area.
-3. On the downwind side, groundspeed is highest.
-4. Turn toward the next leg using the steeper bank required by that higher groundspeed.
-5. On each straight crosswind leg, establish the crab required to remain parallel to the reference boundary.
-6. As groundspeed decreases toward the upwind side, progressively reduce bank.
-7. On the upwind side, groundspeed is lowest and the turns require the shallowest bank.
-8. As the airplane returns toward the downwind side and groundspeed increases, progressively increase bank again.
-9. Continue adjusting crab, turn timing, and bank so the **rectangle over the ground remains the same shape**.
+On downwind, groundspeed is highest.
 
-**The ground track is the objective.**
+So the turn away from downwind requires the **steeper bank**.
 
-On the straight legs:
-**crab controls drift.**
+Once established on the next straight leg, use a crab to remain parallel to the boundary.
 
-In the turns:
-**bank controls the turn rate required to preserve the ground track.**
+As the airplane moves toward the upwind side, groundspeed decreases, so the bank required in the turns becomes progressively shallower.
 
-#### ACS Standards — Rectangular Course
+On the upwind side, groundspeed is lowest.
 
-- Clear the area.
-- Select a suitable ground reference area.
-- Enter a left or right pattern:
-    - **600 to 1,000 feet AGL**
-    - At an appropriate distance from the reference area
-    - **45° to the downwind leg**
-- Apply adequate wind-drift correction during straight and turning flight to maintain a constant rectangular ground track.
-- Divide attention between:
-    - Airplane control
-    - Traffic avoidance
-    - Ground track
-- Maintain coordinated flight.
-- Maintain:
-    - **Altitude ±100 feet**
-    - **Airspeed ±10 knots**
-- Analyze and correct common errors.
+As we return toward the downwind side, groundspeed increases again, so bank becomes progressively steeper.
 
-#### Common Errors — Rectangular Course
+The goal is not to hold the same heading.
 
-- Failure to clear the area initially and throughout the maneuver.
-- Poor reference-area selection.
-- Failure to establish and maintain the proper altitude.
-- Failure to correctly assess wind direction.
-- Failure to establish the appropriate wind-correction angle.
-- Incorrect 45° entry or poor spacing.
-- Flying heading instead of ground track.
-- Holding the same bank while groundspeed changes.
-- Incorrect turn timing.
-- Rough or discontinuous control inputs.
-- Uncoordinated flight.
-- Poor division of attention between airplane control, traffic, and ground reference.
+The goal is to hold a **constant rectangular ground track**.
+
+A good teaching cue is:
+
+**“Crab the straights. Change bank in the turns.”**
+
+#### Relationship to the Traffic Pattern
+
+This is why the ACS specifically connects rectangular course to the airport traffic pattern.
+
+The same wind skills show up in the pattern:
+
+- ground-track control on downwind, base, and crosswind,
+- spacing from the runway,
+- varying groundspeed,
+- changing turn timing,
+- and crab to prevent drift.
+
+The maneuver is not teaching us to fly a square for its own sake.
+
+It is teaching us to control the airplane's **path over the ground** around an airport.
+
+#### Common Errors
+
+- poor 45° entry,
+- wrong spacing from the reference,
+- flying heading instead of ground track,
+- inadequate wind correction,
+- same bank at every corner,
+- poor turn timing,
+- fixation on the reference,
+- uncoordinated turns.
+
+---
 
 ### S-Turns
 
-#### Real-World Application — ATC Spacing
+S-turns make the changing-bank concept very obvious.
 
-**A realistic application is ATC asking you to make S-turns to increase spacing while remaining generally on the assigned path.**
+The goal is to fly **two equal-radius semicircles** on opposite sides of a reference line.
 
-That can happen in a busy traffic environment. The pilot needs to be able to turn smoothly to each side, control the amount of displacement, and return to the desired path where intended.
-
-The training maneuver gives us two **equal-radius semicircles** on opposite sides of a reference line.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/S_Turns.png" alt="S-turns across a reference line showing varying bank and reversal over the line" loading="lazy">
+    <figcaption>S-turns require equal-radius semicircles, changing bank with groundspeed, and turn reversal directly over the reference line.</figcaption>
+</figure>
 
 #### Entry
 
-- Clear the area.
-- Select a straight reference line approximately perpendicular to the wind.
-- Establish **600 to 1,000 feet AGL**.
-- Establish the desired maneuver airspeed.
-- Enter **perpendicular to the reference line**, preferably on the downwind heading so groundspeed is highest at the first crossing.
+Select a straight reference line with a suitable surrounding area and emergency landing option.
+
+Enter:
+
+- **600–1,000 feet AGL**
+- **perpendicular to the selected reference line**
 
 #### Maneuver
 
-1. **Cross the reference line perpendicular and downwind.**
-2. Begin the first turn immediately.
-3. Because groundspeed is highest, begin with the **steepest bank**.
-4. As the airplane turns toward the upwind side and groundspeed decreases, **continuously shallow the bank**.
-5. Arrive back over the reference line:
-    - Wings level.
-    - Perpendicular to the line.
-6. Reverse the turn directly over the line.
-7. Begin the second semicircle with the shallower bank appropriate to the lower groundspeed.
-8. As groundspeed increases toward downwind, **continuously increase bank**.
-9. Cross the line again wings level and perpendicular.
+As we cross the line, start the turn.
 
-**The goal is equal-radius semicircles over the ground.**
+If the first half begins on the high-groundspeed side, start with a steeper bank and progressively shallow it as groundspeed decreases.
 
-We do not judge that by time.
+At the next crossing:
 
-We judge it by the **actual ground track**.
+- be directly over the line,
+- perpendicular to it,
+- and wings level.
 
-Since altitude and airspeed are being maintained, **bank is the tool we use to change turn rate as groundspeed changes.**
+Then reverse the turn.
 
-#### ACS Standards — S-Turns
+Now the bank changes in the opposite progression.
 
-- Clear the area.
-- Select a suitable reference line.
-- Enter:
-    - **600 to 1,000 feet AGL**
-    - At an appropriate distance from the reference area
-    - **Perpendicular to the selected reference line**
-- Apply adequate wind-drift correction to maintain a constant-radius turn on each side of the selected line.
-- **Reverse the turn directly over the selected reference line.**
-- Divide attention between:
-    - Airplane control
-    - Traffic avoidance
-    - Ground track
-- Maintain coordinated flight.
-- Maintain:
-    - **Altitude ±100 feet**
-    - **Airspeed ±10 knots**
-- Analyze and correct common errors.
+The ACS-specific key is:
 
-#### Common Errors — S-Turns
+**reverse the turn directly over the reference line.**
 
-- Failure to clear the area initially and throughout the maneuver.
-- Poor reference-line selection.
-- Failure to establish and maintain the proper altitude.
-- Failure to correctly assess wind direction.
-- Incorrect entry or failure to cross perpendicular.
-- Holding constant bank while groundspeed changes.
-- Unequal-radius semicircles.
-- Early or late reversal.
-- Failure to reverse directly over the reference line.
-- Crossing the line while still banked.
-- Rough or discontinuous control inputs.
-- Uncoordinated flight.
-- Poor division of attention or fixation on the reference line.
+The teaching cue is:
+
+**“Steep-to-shallow on one side; shallow-to-steep on the other.”**
+
+The two semicircles should have the same approximate ground radius.
+
+#### Common Errors
+
+- entry not perpendicular to the line,
+- unequal semicircles,
+- reversal before or after the line,
+- crossing while still banked,
+- holding one bank angle,
+- poor wind correction,
+- fixation on the road.
+
+---
 
 ### Turns Around a Point
 
-#### Real-World Application — Sightseeing Around a Landmark
+Turns around a point use the same wind problem, but now the ground track is a circle.
 
-**Turns around a point are the sightseeing maneuver.**
-
-Think about circling a landmark while trying to maintain the same viewing distance from it.
-
-A real-world example is circling the **Statue of Liberty while operating in the New York Hudson River SFRA environment**, while complying with the applicable SFRA procedures, traffic flow, altitudes, and restrictions.
-
-You have passengers taking pictures, traffic around you, and you are trying to keep the landmark at the same distance throughout the turn.
-
-That is exactly the skill this maneuver teaches.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Turns_Around_Point.png" alt="Turns around a point showing shallow, moderate, and steep bank positions around the reference" loading="lazy">
+    <figcaption>Turns around a point: maintain a constant radius while continuously changing bank for changing groundspeed.</figcaption>
+</figure>
 
 #### Entry
 
-- Clear the area.
-- Select a prominent reference point.
-- Select a suitable area with adequate emergency landing options.
-- Establish **600 to 1,000 feet AGL**.
-- Establish the desired maneuver airspeed.
-- Determine the wind.
-- Enter at an appropriate distance from the point, preferably on the **downwind side**, where groundspeed is highest.
+Select a prominent point with:
+
+- open terrain,
+- adequate obstacle clearance,
+- and a suitable emergency landing area nearby.
+
+Enter at:
+
+- **600–1,000 feet AGL**
+- an appropriate distance from the point.
 
 #### Maneuver
 
-1. **Enter downwind abeam the point at the selected radius.**
-2. Begin the turn with the **steepest bank** because groundspeed is highest.
-3. As the airplane turns toward the upwind side and groundspeed decreases, **continuously shallow the bank**.
-4. At the upwind position, groundspeed is lowest and bank should be the shallowest.
-5. As the airplane continues back toward the downwind side and groundspeed increases, **continuously steepen the bank**.
-6. Return to the downwind position at approximately the same distance from the point.
-7. Continue the turn or exit as required.
+The point should remain the same distance from the airplane throughout the maneuver.
 
-**The goal is a constant-radius ground track around the point.**
+But the bank does **not** remain constant.
 
-If the airplane begins moving farther away from the point:
-- More turn rate is required.
-- Increase bank as appropriate.
+On the downwind side:
 
-If the airplane begins moving toward the point:
-- Less turn rate is required.
-- Reduce bank.
+**steepest bank.**
 
-**Do not use rudder to pull the airplane around the point.**
+As groundspeed decreases toward the upwind side:
 
-Rudder maintains coordination.
+**progressively shallow the bank.**
 
-**Bank is our tool to preserve the ground radius.**
+Directly upwind:
 
-#### ACS Standards — Turns Around a Point
+**shallowest bank.**
 
-- Clear the area.
-- Select a suitable reference point.
-- Enter:
-    - At an appropriate distance from the reference point
-    - **600 to 1,000 feet AGL**
-- Apply adequate wind-drift correction to maintain a constant-radius turn around the selected point.
-- Complete the turn or turns in the direction specified by the evaluator.
-- Divide attention between:
-    - Airplane control
-    - Traffic avoidance
-    - Ground track
-- Maintain coordinated flight.
-- Maintain:
-    - **Altitude ±100 feet**
-    - **Airspeed ±10 knots**
-- Analyze and correct common errors.
+As groundspeed increases again toward downwind:
 
-#### Common Errors — Turns Around a Point
+**progressively steepen the bank.**
 
-- Failure to clear the area initially and throughout the maneuver.
-- Poor reference-point or area selection.
-- Failure to establish and maintain the proper altitude.
-- Incorrect entry distance.
-- Failure to correctly assess wind direction.
-- Holding constant bank while groundspeed changes.
-- Failure to maintain a constant radius.
-- Insufficient bank on the high-groundspeed portion.
-- Excessive bank on the low-groundspeed portion.
-- Rough or discontinuous control inputs.
-- Using rudder to force the turn.
-- Uncoordinated flight.
-- Point fixation and poor traffic or terrain awareness.
+The teaching cue is:
 
-### Risk Management
+**“Constant radius, changing bank.”**
 
-#### Division of Attention
+If we drift away from the point, we need more turn rate.
 
-We need to divide attention between:
+If we drift toward the point, we need less turn rate.
 
-- Aircraft control.
-- Traffic.
-- Ground reference.
-- Position within the maneuver.
+Use **bank**, not rudder, to fix the radius.
 
-Fixating on the reference can cause altitude, airspeed, coordination, or traffic awareness to deteriorate.
+The evaluator may specify the direction of turns, so be able to perform them in either direction.
 
-#### Collision Hazards
+#### Common Errors
 
-Clear the area before every maneuver and continue scanning throughout it.
+- poor point selection,
+- no good forced-landing option,
+- wrong entry distance,
+- egg-shaped circle,
+- too little bank downwind,
+- too much bank upwind,
+- using rudder to force the turn,
+- altitude/airspeed drift,
+- fixation on the point.
 
-Ground reference maneuvers are performed at low altitude where other training aircraft, helicopters, agricultural aircraft, birds, and airport traffic may also be operating.
+---
 
-**Collision avoidance always takes priority over preserving the ground track.**
+### Division of Attention
 
-#### Low-Altitude Maneuvering — Stall, Spin, and CFIT
+The ACS specifically tests division of attention.
 
-We are maneuvering at **600 to 1,000 feet AGL**, so we do not have much recovery altitude.
+The pilot has to divide attention among:
 
-We need to avoid:
+- aircraft control,
+- ground track,
+- traffic,
+- terrain and obstacles,
+- wind effect,
+- and the emergency landing environment.
 
-- Excessive bank.
-- Low airspeed.
-- Skidding turns.
-- Terrain.
-- Towers and wires.
-- Other obstacles.
+A useful scan is:
 
-**If preserving the ground track begins to require unsafe control inputs, abandon the ground track—not the safety margin.**
+**reference → airplane → traffic → reference.**
 
-#### Distraction, Task Prioritization, Loss of Situational Awareness, or Disorientation
+If the airplane starts drifting in altitude, airspeed, or coordination:
 
-The maneuver shape is secondary to:
+**fix the airplane first.**
 
-- Aircraft control.
-- Traffic avoidance.
-- Terrain clearance.
-- Orientation.
+The shape is secondary.
 
-If any of those deteriorate, discontinue or reposition.
+---
 
-#### Uncoordinated Flight
+### Collision Avoidance
 
-**Rudder maintains coordination. Bank changes turn rate.**
+Under **§91.113**, clearing is continuous.
 
-Do not use rudder to make the airplane turn tighter around the reference.
+At these altitudes you may encounter:
 
-### Close
+- other training airplanes,
+- helicopters,
+- agricultural aircraft,
+- birds,
+- or airport traffic.
 
-**All three maneuvers teach the same thing in different shapes: preserve the ground track while the wind continuously changes around you.**
+Do not stare at the ground.
 
-- **Rectangular course:** traffic-pattern application; crab the straight legs and vary bank and turn timing.
-- **S-turns:** equal-radius semicircles with reversal directly over the line.
-- **Turns around a point:** constant radius around one point.
+If traffic avoidance requires abandoning the maneuver:
 
-The recurring relationship is:
+**abandon the maneuver.**
 
-**Wind changes groundspeed → groundspeed changes required turn rate → bank changes → ground track stays the same**
+---
 
-We maintain altitude and airspeed within tolerance, stay coordinated, maintain the traffic scan, and use bank as the primary tool for controlling the turning ground track.
+### Low-Altitude Risk
 
-**The goal is not memorizing three shapes. The goal is understanding what the wind is doing to the airplane and making the correction required to keep the desired path over the ground.**
+At **600–1,000 feet AGL**, there is little room for error.
+
+Avoid:
+
+- excessive bank,
+- low airspeed,
+- skidding turns,
+- fixation,
+- terrain,
+- wires,
+- towers,
+- and continued maneuvering into a deteriorating forced-landing environment.
+
+If maintaining the desired track requires an unsafe control input:
+
+**abandon the track, not the safety margin.**
+
+---
+
+### Instructor Demonstration
+
+Teach it in this order:
+
+1. Select a safe reference area with a **suitable emergency landing option**.
+2. Determine the wind direction and approximate strength.
+3. Clear the area.
+4. Establish **600–1,000 feet AGL** and an appropriate maneuvering speed.
+5. Explain:
+    - heading vs. ground track,
+    - crab,
+    - groundspeed,
+    - bank,
+    - turn rate,
+    - turn radius.
+6. Demonstrate rectangular course:
+    - 45° entry to downwind,
+    - crab on straight legs,
+    - changing bank in turns.
+7. Demonstrate S-turns:
+    - perpendicular entry,
+    - equal semicircles,
+    - reversal directly over the line.
+8. Demonstrate turns around a point:
+    - constant radius,
+    - steepest bank downwind,
+    - shallowest bank upwind.
+9. Maintain coordinated flight.
+10. Maintain traffic scan.
+11. Maintain altitude **±100 feet** and airspeed **±10 knots**.
+12. Stop or reposition if the maneuver compromises traffic separation, obstacle clearance, or the emergency landing option.
+
+A concise teaching flow is:
+
+**“Pick a safe area and a landing option. Find the wind. Fly the ground track, not the heading. Crab on the straight legs. Fast side, steeper bank; slow side, shallower bank. Keep it coordinated, keep scanning, and never let the maneuver take away your escape route.”**
+
+---
+
+### ACS Completion Standards
+
+#### CFI ACS — Area IX, Task E
+
+The instructor applicant must:
+
+- understand and teach the maneuver,
+- manage the associated risks,
+- demonstrate the evaluator-selected maneuver while providing effective instruction,
+- analyze and correct common errors,
+- clear the area,
+- select a suitable ground reference,
+- plan the appropriate entry,
+- apply adequate wind correction,
+- maintain the required ground track or radius,
+- divide attention effectively,
+- remain coordinated,
+- maintain altitude **±100 feet**,
+- maintain airspeed **±10 knots**.
+
+#### Private ACS — Area V, Task B
+
+The Private Pilot ACS uses the same basic maneuver geometry and tolerances:
+
+- clear the area,
+- select a suitable ground reference area, line, or point,
+- rectangular course: enter **45° to downwind** at **600–1,000 feet AGL**,
+- S-turns: enter **perpendicular to the line** at **600–1,000 feet AGL**,
+- turns around a point: enter at an appropriate distance at **600–1,000 feet AGL**,
+- apply adequate wind correction,
+- reverse S-turns directly over the line,
+- remain coordinated,
+- maintain altitude **±100 feet**,
+- maintain airspeed **±10 knots**.
+
+#### Commercial ACS
+
+**Rectangular course, S-turns, and turns around a point are not Commercial Pilot ACS tasks.**
+
+The Commercial ACS ground-reference maneuver is the **steep spiral**, which has different requirements and standards.
+
+So for these three maneuvers, use the **Private ACS performance standard** and the **CFI ACS instructional standard** rather than inventing a Commercial standard.
+
+---
+
+### ACS Coverage — Area IX, Task E
+
+**Knowledge**
+
+- **AI.IX.E.K1** — Purpose and procedures for ground reference maneuvers
+- **AI.IX.E.K2** — Effects of wind on ground track and relation to a ground reference
+- **AI.IX.E.K3** — Effects of bank angle and groundspeed on rate and radius of turn
+- **AI.IX.E.K4** — Relationship of rectangular course to airport traffic pattern
+- **AI.IX.E.K5** — Common errors
+
+**Risk Management**
+
+- **AI.IX.E.R1** — Division of attention between aircraft control and orientation
+- **AI.IX.E.R2** — Collision hazards
+- **AI.IX.E.R3** — Low-altitude maneuvering, including stall, spin, or CFIT
+- **AI.IX.E.R4** — Distractions, task prioritization, loss of situational awareness, or disorientation
+- **AI.IX.E.R5** — Uncoordinated flight
+
+**Skills**
+
+- **AI.IX.E.S1** — Clear the area
+- **AI.IX.E.S2** — Select a suitable ground reference area, line, or point
+- **AI.IX.E.S3** — Plan the maneuver:
+    - rectangular course: left/right pattern, **600–1,000 feet AGL**, **45° to downwind**
+    - S-turns: **perpendicular to reference line**, **600–1,000 feet AGL**
+    - turns around a point: appropriate distance, **600–1,000 feet AGL**
+- **AI.IX.E.S4** — Apply adequate wind-drift correction
+- **AI.IX.E.S5** — S-turn reversal directly over line / turns around point in evaluator-specified direction
+- **AI.IX.E.S6** — Divide attention while maintaining coordinated flight
+- **AI.IX.E.S7** — Altitude **±100 feet** / airspeed **±10 knots**
+- **AI.IX.E.S8** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area IX, Task E
+- FAA-S-ACS-6C — Private Pilot for Airplane Category ACS, Area V, Task B
+- FAA-S-ACS-7B — Commercial Pilot for Airplane Category ACS
+- FAA-H-8083-3 — Airplane Flying Handbook, Ground Reference Maneuvers
+- **14 CFR §91.103**
+- **14 CFR §91.113**
+- **14 CFR §91.119**
+- **14 CFR §91.126**
+- **14 CFR §91.127**
+- **14 CFR §91.13**
 
 
 
@@ -565,26 +745,60 @@ At **600–1,000 feet AGL**, perform the selected maneuver with correct entry, g
 ## Kneeboard
 
 <div class="kneeboard-header"><strong>GROUND REFERENCE — CFI IX.E</strong><br>Track, not heading. Steep downwind; shallow upwind.</div>
+
 <div class="kneeboard-layout">
-	<div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Clear / wind / area</label><div class="kneeboard-detail"><strong>P:</strong> 600–1,000 AGL; open area; forced-landing option; stable speed.</div><div class="kneeboard-detail"><strong>CE:</strong> Poor wind/reference selection.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">RECT</div><div class="kneeboard-group-body">
-		<div class="kneeboard-visual"><img src="/knowledge/Rectangular_Course.png" alt="Rectangular-course wind correction and 45-degree downwind entry"><div><strong>Wind / entry:</strong> Enter 45° to the downwind leg. Crab each straight leg into the wind.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Track rectangle</label><div class="kneeboard-detail"><strong>P:</strong> Crab into wind on straight legs; vary bank and turn timing for groundspeed; keep sides parallel.</div><div class="kneeboard-detail"><strong>CE:</strong> Flying heading instead of ground track.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Complete / exit</label><div class="kneeboard-detail"><strong>P:</strong> Maintain altitude ±100 ft, airspeed ±10 kt, coordination, spacing, and scan; exit as briefed.</div><div class="kneeboard-detail"><strong>CE:</strong> Fixation or unsquared corners.</div></div>
-	</div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">S-TURNS</div><div class="kneeboard-group-body">
-		<div class="kneeboard-visual"><img src="/knowledge/S_Turns.png" alt="S-turn wind correction and directly downwind perpendicular entry"><div><strong>Wind / entry:</strong> Enter directly downwind and perpendicular to the line. Steepest bank immediately after the downwind crossing.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Entry / first half</label><div class="kneeboard-detail"><strong>P:</strong> Cross perpendicular; begin steep; shallow continuously toward the upwind crossing.</div><div class="kneeboard-detail"><strong>CE:</strong> Crosswind entry or constant bank.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Reverse over line</label><div class="kneeboard-detail"><strong>P:</strong> Wings level directly over and perpendicular to the line; reverse smoothly.</div><div class="kneeboard-detail"><strong>CE:</strong> Early/late reversal or crossing angled.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Second half / exit</label><div class="kneeboard-detail"><strong>P:</strong> Begin shallow; steepen toward downwind; equal radius; cross wings level; exit as briefed.</div><div class="kneeboard-detail"><strong>CE:</strong> Unequal semicircles or lost scan.</div></div>
-	</div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">POINT</div><div class="kneeboard-group-body">
-		<div class="kneeboard-visual"><img src="/knowledge/Turns_Around_Point.png" alt="Turns-around-a-point wind correction and downwind abeam entry"><div><strong>Wind / entry:</strong> Enter directly downwind, abeam at the selected radius. Steepest bank downwind; shallowest upwind.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Entry / downwind half</label><div class="kneeboard-detail"><strong>P:</strong> Begin steepest bank abeam the point; shallow continuously while turning upwind.</div><div class="kneeboard-detail"><strong>CE:</strong> Wrong radius or bank too shallow downwind.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Upwind half</label><div class="kneeboard-detail"><strong>P:</strong> Shallowest bank upwind; steepen continuously while returning downwind.</div><div class="kneeboard-detail"><strong>CE:</strong> Constant bank, spiral, or skid.</div></div>
-		<div class="kneeboard-item"><label><input type="checkbox"> Complete / exit</label><div class="kneeboard-detail"><strong>P:</strong> Hold constant radius, altitude ±100 ft, airspeed ±10 kt, coordination, and scan; exit as briefed.</div><div class="kneeboard-detail"><strong>CE:</strong> Point fixation or drift toward hazards.</div></div>
-	</div></div>
+
+    <div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body">
+        <div class="kneeboard-item"><label><input type="checkbox"> Clear / wind / area</label><div class="kneeboard-detail"><strong>P:</strong> 600–1,000 AGL; open area; <strong>suitable emergency landing area</strong>; stable speed.</div><div class="kneeboard-detail"><strong>CE:</strong> Good reference but poor forced-landing option.</div></div>
+        <div class="kneeboard-item"><label><input type="checkbox"> Protect the landing option</label><div class="kneeboard-detail"><strong>P:</strong> Keep practical gliding access to a suitable field throughout the maneuver.</div><div class="kneeboard-detail"><strong>CE:</strong> Letting the maneuver drift toward wires, houses, terrain, traffic, or poor emergency terrain.</div></div>
+    </div></div>
+
+    <div class="kneeboard-group"><div class="kneeboard-rail">RECT</div><div class="kneeboard-group-body">
+
+        <div class="kneeboard-visual"><img src="/knowledge/Rectangular_Course.png" alt="Rectangular-course wind correction and 45-degree downwind entry"><div><strong>Wind / entry:</strong> Enter 45° to downwind. Crab straight legs into the wind.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Track rectangle</label><div class="kneeboard-detail"><strong>P:</strong> Crab on straight legs; vary bank/turn timing for groundspeed; keep sides parallel.</div><div class="kneeboard-detail"><strong>CE:</strong> Flying heading instead of ground track.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Complete / exit</label><div class="kneeboard-detail"><strong>P:</strong> Altitude ±100 ft, airspeed ±10 kt, coordination, spacing, scan; exit as briefed.</div><div class="kneeboard-detail"><strong>CE:</strong> Fixation or unsquared corners.</div></div>
+
+    </div></div>
+
+    <div class="kneeboard-group"><div class="kneeboard-rail">S-TURNS</div><div class="kneeboard-group-body">
+
+        <div class="kneeboard-visual"><img src="/knowledge/S_Turns.png" alt="S-turn wind correction and perpendicular entry"><div><strong>Wind / entry:</strong> Enter perpendicular to the line. Vary bank continuously with groundspeed.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Entry / first half</label><div class="kneeboard-detail"><strong>P:</strong> Cross perpendicular; vary bank continuously to hold an equal-radius semicircle.</div><div class="kneeboard-detail"><strong>CE:</strong> Angled crossing or constant bank.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Reverse over line</label><div class="kneeboard-detail"><strong>P:</strong> Wings level directly over and perpendicular to the line; reverse smoothly.</div><div class="kneeboard-detail"><strong>CE:</strong> Early/late reversal or crossing banked.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Second half / exit</label><div class="kneeboard-detail"><strong>P:</strong> Mirror the wind correction; equal radius; cross wings level.</div><div class="kneeboard-detail"><strong>CE:</strong> Unequal semicircles or lost scan.</div></div>
+
+    </div></div>
+
+    <div class="kneeboard-group"><div class="kneeboard-rail">POINT</div><div class="kneeboard-group-body">
+
+        <div class="kneeboard-visual"><img src="/knowledge/Turns_Around_Point.png" alt="Turns-around-a-point wind correction showing varying bank"><div><strong>Wind / bank:</strong> Constant radius. Steepest bank downwind; shallowest bank upwind.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Establish radius</label><div class="kneeboard-detail"><strong>P:</strong> Appropriate distance from point; change bank continuously with groundspeed.</div><div class="kneeboard-detail"><strong>CE:</strong> Wrong radius or holding constant bank.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Hold circle</label><div class="kneeboard-detail"><strong>P:</strong> Bank controls turn rate; rudder coordinates. Complete in evaluator-specified direction.</div><div class="kneeboard-detail"><strong>CE:</strong> Egg shape, spiral, skid, or point fixation.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> Complete / exit</label><div class="kneeboard-detail"><strong>P:</strong> Hold radius, altitude ±100 ft, airspeed ±10 kt, coordination, scan.</div><div class="kneeboard-detail"><strong>CE:</strong> Drift toward hazards or loss of emergency option.</div></div>
+
+    </div></div>
+
+    <div class="kneeboard-group"><div class="kneeboard-rail">ACS</div><div class="kneeboard-group-body">
+
+        <div class="kneeboard-item"><label><input type="checkbox"> <strong>CFI</strong></label><div class="kneeboard-detail"><strong>STD:</strong> 600–1,000 AGL | altitude <strong>±100 ft</strong> | airspeed <strong>±10 kt</strong> | coordinated | teach + analyze/correct.</div><div class="kneeboard-detail"><strong>P:</strong> Clear, proper reference/entry, wind correction, division of attention, low-altitude risk management.</div></div>
+
+        <div class="kneeboard-item"><label><input type="checkbox"> <strong>Private</strong></label><div class="kneeboard-detail"><strong>STD:</strong> 600–1,000 AGL | altitude <strong>±100 ft</strong> | airspeed <strong>±10 kt</strong> | proper track/radius | coordinated.</div><div class="kneeboard-detail"><strong>P:</strong> Rect 45° to downwind; S-turn perpendicular + reverse over line; point at appropriate distance.</div></div>
+
+    </div></div>
+
 </div>
+
+
+
 
 # Review
 

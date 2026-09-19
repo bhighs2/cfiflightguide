@@ -94,464 +94,556 @@ Maintain coordination and continuous pitch/roll/airspeed change; reach approxima
 </figure>
 
 # Teach
+
 ## Instructor Notes
 
 <div class="lesson-section-toolbar instructor-notes-toolbar">
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**The main idea in a lazy eight is that the airplane is constantly trading airspeed and altitude while pitch, bank, and control pressure are continuously changing.**
+### Objective
 
-Nothing in the maneuver is held for very long.
+**Teach the learner to select a suitable ground reference and emergency landing area, determine the wind, and use coordinated bank, crab, and visual references to maintain the required ground track during rectangular course, S-turns, and turns around a point while maintaining altitude, airspeed, traffic awareness, and safe low-altitude judgment.**
 
-That is what makes the lazy eight different from a steep turn or a chandelle.
+### Purpose
 
-The airplane should look like it is flowing through the maneuver.
+Ground reference maneuvers are really one lesson:
 
-The three ideas to keep in mind are:
+**the wind is constantly changing our drift and groundspeed while we are trying to keep the ground track the same.**
 
-**Energy transfer.**  
-**Constantly changing control pressures.**  
-**Symmetry.**
+On straight segments, we correct drift with **crab**.
 
-### Real-World Application — Energy Management and Airmanship
+In turns, we change **bank angle** because groundspeed changes as we move around the wind.
 
-The lazy eight is primarily an airmanship maneuver.
+So the teaching story is:
 
-It develops:
+**select a safe area → determine the wind → fly the ground track, not the heading → steepen bank as groundspeed increases → shallow bank as groundspeed decreases → stay coordinated → keep scanning → protect the emergency landing option.**
 
-- Coordination.
-- Timing.
-- Planning.
-- Outside-reference flying.
-- Energy management.
-- Smooth control use.
-- Awareness of changing airspeed and control effectiveness.
+---
 
-A useful way to visualize it is like moving through a **half pipe**.
+### Start With Area Selection
 
-As we climb:
+Before we talk about the shape of the maneuver, pick the right place to do it.
 
-**airspeed is traded for altitude.**
+These are low-altitude maneuvers, so the reference is only useful if the surrounding area is safe.
 
-As we descend:
+I want:
 
-**altitude is traded back for airspeed.**
+- a clear, easy-to-identify road, point, or rectangular area,
+- enough room to maneuver,
+- open terrain when practical,
+- clearance from towers, wires, terrain, and congested areas,
+- separation from airport traffic and other known conflicts,
+- and most importantly, a **suitable emergency landing area within practical gliding distance**.
 
-Power remains essentially constant, so the airplane's energy is being exchanged through pitch and flightpath rather than large power changes.
+A useful teaching line is:
 
-### What Is a Lazy Eight?
+**“Never pick a ground reference that takes away your landing option.”**
 
-A lazy eight consists of two opposite **180° climbing and descending turns**.
+At **600–1,000 feet AGL**, gliding options disappear quickly.
 
-Each half should be a mirror image of the other.
+If the maneuver starts drifting toward poor terrain, obstacles, houses, traffic, or a bad forced-landing environment:
 
-Throughout the maneuver:
+**reposition or discontinue.**
 
-- Pitch is changing.
-- Bank is changing.
-- Airspeed is changing.
-- Turn rate is changing.
-- Control pressures are changing.
+---
 
-There should be no abrupt stops at the checkpoints.
+### FAR / Regulatory Considerations
 
-The checkpoints tell us whether our timing is correct.
+Ground reference maneuvers are still normal VFR operations.
 
-They are not places where we freeze the airplane.
+Relevant regulations include:
 
-### Why Symmetry Matters
+- **14 CFR §91.103** — know the wind, weather, terrain, and operating environment before the maneuver.
+- **14 CFR §91.113** — see-and-avoid and right-of-way responsibilities remain continuous.
+- **14 CFR §91.119** — minimum safe altitude requirements still apply.
+- **14 CFR §91.126 / §91.127** — if operating near an airport, comply with applicable traffic-pattern direction and airport-vicinity rules.
+- **14 CFR §91.13** — do not continue a maneuver that creates an unsafe condition.
 
-The goal is for each 180° half of the maneuver to match the other.
+The reference shape never has priority over safety.
 
-At each 180° point, the airplane should return to approximately:
+---
 
-- Entry altitude.
-- Entry airspeed.
-- Reciprocal heading.
-- Wings level.
+### Heading vs. Ground Track
 
-If we arrive high, low, fast, slow, or off heading, the problem usually started much earlier in the maneuver.
+The first concept is the difference between **heading** and **ground track**.
 
-That is why lazy eights are a planning exercise as much as a control exercise.
+**Heading** is where the nose points.
 
-### Entry and Reference Points
+**Ground track** is where the airplane actually moves over the earth.
 
-Before starting:
+With no wind, they may be the same.
 
-- Clear the area.
-- Select an altitude that allows the maneuver to be performed no lower than **1,500 feet AGL**.
-- Establish the recommended configuration, power, and airspeed.
-- Select distant visual reference points at approximately:
-    - **45°**
-    - **90°**
-    - **135°**
-  in the direction of turn.
+With wind, they usually are not.
 
-The reference points should be:
+If the wind is from the left and I point the nose straight along a road, the airplane will drift right.
 
-- Easy to identify.
-- Far enough away to remain stable visually.
-- Near the horizon.
+So I point the nose into the wind enough to hold the desired track.
 
-Poor reference-point selection makes the entire maneuver harder.
+That is the **wind-correction angle**, or crab.
 
-### How the Energy Changes
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Wind_Effect.png" alt="Wind effect showing intended ground path compared with actual wind-drifted path" loading="lazy">
+    <figcaption>Wind changes the airplane's actual ground path. The pilot must anticipate drift and correct for it.</figcaption>
+</figure>
 
-As the airplane begins the climbing turn:
+The teaching cue is:
 
-- Pitch increases.
-- Bank increases.
-- Airspeed decreases.
-- Altitude increases.
+**“Fly the track, not the heading.”**
 
-As airspeed decreases:
+---
 
-- Control effectiveness changes.
-- Left-turning tendencies become more noticeable.
-- Rudder requirements change.
-- Turn rate changes.
+### Groundspeed, Bank, Turn Rate, and Radius
 
-After the high point, the airplane transitions smoothly into a descending turn:
+Now connect wind to the turn.
 
-- Pitch continues downward.
-- Bank begins to decrease.
-- Airspeed begins increasing.
-- Altitude begins decreasing.
+When groundspeed is high, the airplane covers more ground during the same amount of time.
 
-By 180°:
+If we want the same ground radius, we need a **higher turn rate**, which requires a **steeper bank**.
 
-- Wings are level.
-- Pitch is back to the horizon.
-- Airspeed is near the entry value.
-- Altitude is near the entry value.
+When groundspeed is low, we need a lower turn rate, so the bank is **shallower**.
 
-### The 45° Point
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Bank_Radius_Rate.png" alt="Effect of bank angle and airspeed on turn radius and turn rate" loading="lazy">
+    <figcaption>At the same airspeed, increasing bank decreases turn radius and increases turn rate. At the same bank, lower airspeed decreases turn radius.</figcaption>
+</figure>
 
-At approximately **45° of turn**:
+So:
 
-- Pitch reaches its **maximum nose-up attitude**.
-- Bank is approximately **15°**.
-- Airspeed is decreasing.
-- Bank continues increasing after this point.
-- Pitch begins decreasing toward the horizon.
+**Higher groundspeed → steeper bank.**  
+**Lower groundspeed → shallower bank.**
 
-The exact pitch attitude depends on the airplane and conditions.
+And because the wind changes our groundspeed as we move around the maneuver:
 
-The important point is:
+- **downwind = fastest groundspeed = steepest bank**
+- **upwind = slowest groundspeed = shallowest bank**
 
-**maximum pitch occurs before maximum bank.**
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Turn_Radius.png" alt="Ground reference turn showing bank changes around the circle as groundspeed changes" loading="lazy">
+    <figcaption>Bank angle changes continuously through a ground-reference turn to preserve the desired radius as groundspeed changes.</figcaption>
+</figure>
 
-Do not rush the bank.
+Rudder does **not** pull the airplane around the reference.
 
-If bank increases too quickly early in the maneuver, the airplane turns through the reference points before the pitch schedule can develop properly.
+**Bank changes turn rate. Rudder keeps the airplane coordinated.**
 
-### From 45° to 90°
+---
 
-From 45° to 90°:
+### Coordination
 
-- Pitch gradually decreases.
-- Bank continues increasing.
-- Airspeed continues decreasing.
-- Altitude continues increasing.
+These maneuvers are flown relatively low, so coordination matters.
 
-At the same time, coordination must be maintained as control effectiveness changes.
+Do not use rudder to force the airplane around the point or back onto the line.
 
-This portion should feel continuous.
+That produces a slip or skid and can create a stall/spin risk close to the ground.
 
-Do not hold the nose up and then suddenly release it.
+The control relationship is:
 
-### The 90° Point
+- **ailerons establish bank**
+- **rudder coordinates**
+- **elevator maintains altitude**
+- **power maintains airspeed as required**
 
-At approximately **90° of turn**:
+If the ground track is wrong, correct the **bank, crab, or turn timing**.
 
-- Pitch passes through the horizon.
-- Bank reaches its maximum of approximately **30°**.
-- Altitude is at its highest.
-- Airspeed is at its minimum.
+Do not correct it with a flat rudder turn.
 
-This is the slowest portion of the maneuver.
+---
 
-That means the stall margin is smallest here.
+### Rectangular Course
 
-The airplane must remain coordinated.
+Rectangular course is basically a traffic-pattern wind-correction exercise.
 
-If stall warning occurs:
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Rectangular_Course.png" alt="Rectangular course showing wind correction on each leg and changing bank in the turns" loading="lazy">
+    <figcaption>Rectangular course combines crab on the straight legs with changing bank and turn timing as groundspeed changes.</figcaption>
+</figure>
 
-**reduce AOA and recover.**
+#### Entry
 
-Do not continue the maneuver.
+Clear the area.
 
-### From 90° to 135°
+Select a rectangular area with a **suitable emergency landing option**.
 
-After 90°:
+Determine the wind.
 
-- The nose continues below the horizon.
-- Bank begins decreasing.
-- Airspeed begins increasing.
-- Altitude begins decreasing.
+Establish **600–1,000 feet AGL** and an appropriate maneuvering airspeed.
 
-The airplane should not be pushed into a dive.
+Enter a left or right pattern **45° to the downwind leg**.
 
-Guide the nose smoothly.
+#### Maneuver
 
-The rate of pitch change and bank change should remain progressive.
+On downwind, groundspeed is highest.
 
-### The 135° Point
+So the turn away from downwind requires the **steeper bank**.
 
-At approximately **135° of turn**:
+Once established on the next straight leg, use a crab to remain parallel to the boundary.
 
-- Pitch reaches its **maximum nose-down attitude**.
-- Bank has decreased to approximately **15°**.
-- Airspeed is increasing.
-- The airplane continues toward the 180° point.
+As the airplane moves toward the upwind side, groundspeed decreases, so the bank required in the turns becomes progressively shallower.
 
-After this point:
+On the upwind side, groundspeed is lowest.
 
-- Pitch begins returning toward the horizon.
-- Bank continues decreasing toward wings level.
+As we return toward the downwind side, groundspeed increases again, so bank becomes progressively steeper.
 
-### The 180° Point
+The goal is not to hold the same heading.
 
-At **180°**:
+The goal is to hold a **constant rectangular ground track**.
 
-- Wings should be level.
-- Pitch should be back on the horizon.
-- Altitude should be within **±100 feet** of entry altitude.
-- Airspeed should be within **±10 knots** of entry airspeed.
-- Heading should be within **±10°** of the reciprocal entry heading.
+A good teaching cue is:
 
-The next half begins immediately in the opposite direction.
+**“Crab the straights. Change bank in the turns.”**
 
-The second 180° should mirror the first as closely as possible.
+#### Relationship to the Traffic Pattern
 
-### Coordination and Rudder
+This is why the ACS specifically connects rectangular course to the airport traffic pattern.
 
-Rudder demand changes throughout the maneuver because:
+The same wind skills show up in the pattern:
 
-- Airspeed changes.
-- Pitch changes.
-- Bank changes.
-- Left-turning tendencies change.
-- Adverse yaw changes.
+- ground-track control on downwind, base, and crosswind,
+- spacing from the runway,
+- varying groundspeed,
+- changing turn timing,
+- and crab to prevent drift.
 
-Near the slowest portion of the maneuver, more rudder pressure may be required to maintain coordination.
+The maneuver is not teaching us to fly a square for its own sake.
 
-The right and left halves may not require identical rudder pressure.
+It is teaching us to control the airplane's **path over the ground** around an airport.
 
-That is normal.
+#### Common Errors
 
-The requirement is not equal rudder pressure.
+- poor 45° entry,
+- wrong spacing from the reference,
+- flying heading instead of ground track,
+- inadequate wind correction,
+- same bank at every corner,
+- poor turn timing,
+- fixation on the reference,
+- uncoordinated turns.
 
-The requirement is:
+---
 
-**coordinated flight.**
+### S-Turns
 
-### ACS Standards — Lazy Eights
+S-turns make the changing-bank concept very obvious.
 
-- Clear the area.
-- Select an altitude that allows the maneuver to be performed no lower than **1,500 feet AGL**.
-- Establish the recommended:
-    - Configuration.
-    - Power.
-    - Airspeed.
-- Maintain coordinated flight throughout.
-- Complete the maneuver with:
-    - Approximately **30° bank at the steepest point**.
-    - Constant change of pitch.
-    - Constant change of roll rate.
-    - Constant change of airspeed.
-- At each **180° point**, maintain:
-    - Altitude **±100 feet** from entry altitude.
-    - Airspeed **±10 knots** from entry airspeed.
-    - Heading **±10°**.
-- Continue through the number of symmetrical loops specified.
-- Resume straight-and-level flight.
-- Analyze and correct common errors.
+The goal is to fly **two equal-radius semicircles** on opposite sides of a reference line.
 
-### Common Errors — Lazy Eights
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/S_Turns.png" alt="S-turns across a reference line showing varying bank and reversal over the line" loading="lazy">
+    <figcaption>S-turns require equal-radius semicircles, changing bank with groundspeed, and turn reversal directly over the reference line.</figcaption>
+</figure>
 
-- Failure to adequately clear the area.
-- Poor selection of reference points.
-- Reference points selected too close to the airplane.
-- Abrupt pitch or bank changes.
-- Increasing bank too quickly during the first 45°.
-- Holding pitch too long near the top.
-- Allowing pitch to fall abruptly through the horizon.
-- Excessive bank.
-- Turning the maneuver into a steep turn instead of a climbing and descending maneuver.
-- Poor coordination.
-- Improper rudder correction for changing airspeed and left-turning tendencies.
-- Unsymmetrical loops.
-- Inconsistent airspeed at the 180° points.
-- Inconsistent altitude at the 180° points.
-- Excessive heading error at the 180° points.
-- Excessive pitch-down attitude.
-- Excessive airspeed during the descending portion.
-- Stall or stall warning near the slowest point.
-- Loss of orientation.
-- Fixation on instruments.
-- Excessive deviation from visual reference points.
+#### Entry
 
-### Risk Management
+Select a straight reference line with a suitable surrounding area and emergency landing option.
 
-#### Division of Attention
+Enter:
 
-The maneuver requires continuous attention to:
+- **600–1,000 feet AGL**
+- **perpendicular to the selected reference line**
 
-- Pitch.
-- Bank.
-- Coordination.
-- Airspeed.
-- Reference points.
-- Traffic.
+#### Maneuver
 
-Do not fixate on one checkpoint or instrument.
+As we cross the line, start the turn.
 
-Use outside references as primary and instruments to verify performance.
+If the first half begins on the high-groundspeed side, start with a steeper bank and progressively shallow it as groundspeed decreases.
 
-#### Collision Hazards
+At the next crossing:
 
-Clear before beginning and continue scanning throughout the maneuver.
+- be directly over the line,
+- perpendicular to it,
+- and wings level.
 
-The airplane is constantly changing heading and altitude.
+Then reverse the turn.
 
-Traffic awareness cannot stop just because the maneuver is complex.
+Now the bank changes in the opposite progression.
 
-#### Low-Altitude Maneuvering
+The ACS-specific key is:
 
-The maneuver must be completed no lower than **1,500 feet AGL**.
+**reverse the turn directly over the reference line.**
 
-Low altitude reduces the margin for:
+The teaching cue is:
 
-- Stall recovery.
-- Spin recovery.
-- Orientation errors.
-- CFIT avoidance.
+**“Steep-to-shallow on one side; shallow-to-steep on the other.”**
 
-#### Uncoordinated Flight
+The two semicircles should have the same approximate ground radius.
 
-The airplane becomes slower near the top of each half.
+#### Common Errors
 
-That reduces stall margin and increases the consequences of yaw.
+- entry not perpendicular to the line,
+- unequal semicircles,
+- reversal before or after the line,
+- crossing while still banked,
+- holding one bank angle,
+- poor wind correction,
+- fixation on the road.
 
-Maintain coordination throughout.
+---
 
-#### Energy Management
+### Turns Around a Point
 
-Too much pitch early causes:
+Turns around a point use the same wind problem, but now the ground track is a circle.
 
-- Excessive altitude gain.
-- Premature airspeed loss.
-- Stall risk.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Turns_Around_Point.png" alt="Turns around a point showing shallow, moderate, and steep bank positions around the reference" loading="lazy">
+    <figcaption>Turns around a point: maintain a constant radius while continuously changing bank for changing groundspeed.</figcaption>
+</figure>
 
-Too little pitch causes:
+#### Entry
 
-- Excessive speed.
-- Poor symmetry.
-- A flat maneuver.
+Select a prominent point with:
 
-Too much nose-down pitch after 90° causes:
+- open terrain,
+- adequate obstacle clearance,
+- and a suitable emergency landing area nearby.
 
-- Rapid airspeed buildup.
-- Overspeed risk.
-- Poor endpoint control.
+Enter at:
 
-The goal is a smooth exchange:
+- **600–1,000 feet AGL**
+- an appropriate distance from the point.
 
-**airspeed → altitude → airspeed**
+#### Maneuver
 
-#### Accelerated Stall
+The point should remain the same distance from the airplane throughout the maneuver.
 
-Bank and back pressure increase load factor.
+But the bank does **not** remain constant.
 
-Near minimum airspeed, aggressive control inputs can produce an accelerated stall.
+On the downwind side:
 
-Use smooth inputs and recover immediately at any stall warning.
+**steepest bank.**
 
-### Instructor Emphasis
+As groundspeed decreases toward the upwind side:
 
-The learner should leave the lesson understanding:
+**progressively shallow the bank.**
 
-1. **A lazy eight is a continuous maneuver, not four separate checkpoints.**
-2. **Pitch, bank, airspeed, and control pressures are always changing.**
-3. **The airplane trades airspeed for altitude and then altitude back for airspeed.**
-4. **Maximum pitch occurs near 45°.**
-5. **Maximum bank and minimum airspeed occur near 90°.**
-6. **Maximum nose-down pitch occurs near 135°.**
-7. **At 180°, altitude, airspeed, and heading should return to entry conditions.**
-8. **Each half should mirror the other.**
-9. **Coordination matters more than identical control pressures.**
-10. **The maneuver should look lazy and smooth.**
+Directly upwind:
 
-### Close
+**shallowest bank.**
 
-Lazy eights are really about timing and energy management.
+As groundspeed increases again toward downwind:
 
-The flow is:
+**progressively steepen the bank.**
 
-**Pitch and bank increase → airspeed decreases → altitude increases**
+The teaching cue is:
 
-then:
+**“Constant radius, changing bank.”**
 
-**Pitch decreases → bank peaks → airplane passes through the horizon**
+If we drift away from the point, we need more turn rate.
 
-then:
+If we drift toward the point, we need less turn rate.
 
-**Pitch goes below the horizon → bank decreases → airspeed increases**
+Use **bank**, not rudder, to fix the radius.
 
-and finally:
+The evaluator may specify the direction of turns, so be able to perform them in either direction.
 
-**Pitch returns to the horizon → wings level → entry conditions return**
+#### Common Errors
 
-The checkpoints are there to tell us whether the flow is working.
+- poor point selection,
+- no good forced-landing option,
+- wrong entry distance,
+- egg-shaped circle,
+- too little bank downwind,
+- too much bank upwind,
+- using rudder to force the turn,
+- altitude/airspeed drift,
+- fixation on the point.
 
-The most important rule is:
+---
 
-**Never chase the checkpoint. Fly the flow.**
+### Division of Attention
 
+The ACS specifically tests division of attention.
 
+The pilot has to divide attention among:
 
-## K1 — Purpose and Procedures
+- aircraft control,
+- ground track,
+- traffic,
+- terrain and obstacles,
+- wind effect,
+- and the emergency landing environment.
 
-Clear, stabilize, select distant **45°/90°/135°** points, and begin simultaneous gentle pitch and bank. Flow through one 180° arc, cross the reference line at entry altitude/airspeed/heading, and immediately repeat opposite. The maneuver must look **lazy**, not segmented.
+A useful scan is:
 
-## K2 — Aerodynamics and Coordination
+**reference → airplane → traffic → reference.**
 
-Climbing trades airspeed for altitude; descending trades altitude for airspeed. Turn rate and overbanking change as speed changes. Use coordinated aileron/rudder and changing elevator pressure. High power and angle of attack near the top increase left-turning tendencies, especially in the right-turning half.
+If the airplane starts drifting in altitude, airspeed, or coordination:
 
-## K3 — Performance and Airspeed Limitations
+**fix the airplane first.**
 
-Enter at the manufacturer’s recommended speed and never above applicable $V_A$. The C172S POH recommends **105 KIAS**. Protect the slow top from a stall and the descending segment from acceleration beyond limitations.
+The shape is secondary.
 
-## K4 — Phases from Entry to Recovery
+---
 
-- **45°:** maximum pitch-up, approximately **15–20° nose-up**, with approximately **15° bank**.
-- **90°:** highest altitude and minimum airspeed; pitch passes level; approximately **30° maximum bank**.
-- **135°:** maximum pitch-down, approximately **15–17° nose-down**, with bank reduced to approximately **15°**.
-- **180°:** wings level at entry heading, altitude, and airspeed; continue opposite.
+### Collision Avoidance
 
-All values are reached by **continuous change**, never by stopping at checkpoints.
+Under **§91.113**, clearing is continuous.
 
-## K5 — Common Errors
+At these altitudes you may encounter:
 
-The central diagnostic is symmetry. A poor 180° endpoint usually began with bad references, rushed pitch, excessive bank, or uncoordinated energy management earlier in the arc. Correct the **cause**, not merely the endpoint.
+- other training airplanes,
+- helicopters,
+- agricultural aircraft,
+- birds,
+- or airport traffic.
 
-## Risk Management
+Do not stare at the ground.
 
-### Accelerated Stall / Uncoordinated Flight
-**Hazard:** Slow, banked, high-AOA flight near 90°. **Recognition:** buffet, warning, yaw, control mushiness. **Consequence:** stall/spin. **Mitigation:** coordinated flight, modest bank, immediate AOA reduction at warning.
+If traffic avoidance requires abandoning the maneuver:
 
-### Energy and Limitations
-**Hazard:** Excessive pitch up or down. **Recognition:** near-stall too early or excessive descending speed. **Consequence:** stall, overspeed, asymmetry. **Mitigation:** slow continuous inputs and an early abort when energy does not match the checkpoint.
+**abandon the maneuver.**
 
-### Collision / Orientation
-**Hazard:** Reference or instrument fixation. **Recognition:** traffic scan stops or points are lost. **Consequence:** collision or disorientation. **Mitigation:** clear, use distant references, scan outside, and pause teaching to aviate.
+---
 
-## Scenario Application
+### Low-Altitude Risk
 
-**Situation:** At 90° the pitch drops abruptly through the horizon and speed builds early.  
-**Desired outcome:** Smooth the pitch rate before 90°, avoid holding the nose at the top, and let the airplane flow through the horizon while bank reaches its maximum.
+At **600–1,000 feet AGL**, there is little room for error.
+
+Avoid:
+
+- excessive bank,
+- low airspeed,
+- skidding turns,
+- fixation,
+- terrain,
+- wires,
+- towers,
+- and continued maneuvering into a deteriorating forced-landing environment.
+
+If maintaining the desired track requires an unsafe control input:
+
+**abandon the track, not the safety margin.**
+
+---
+
+### Instructor Demonstration
+
+Teach it in this order:
+
+1. Select a safe reference area with a **suitable emergency landing option**.
+2. Determine the wind direction and approximate strength.
+3. Clear the area.
+4. Establish **600–1,000 feet AGL** and an appropriate maneuvering speed.
+5. Explain:
+    - heading vs. ground track,
+    - crab,
+    - groundspeed,
+    - bank,
+    - turn rate,
+    - turn radius.
+6. Demonstrate rectangular course:
+    - 45° entry to downwind,
+    - crab on straight legs,
+    - changing bank in turns.
+7. Demonstrate S-turns:
+    - perpendicular entry,
+    - equal semicircles,
+    - reversal directly over the line.
+8. Demonstrate turns around a point:
+    - constant radius,
+    - steepest bank downwind,
+    - shallowest bank upwind.
+9. Maintain coordinated flight.
+10. Maintain traffic scan.
+11. Maintain altitude **±100 feet** and airspeed **±10 knots**.
+12. Stop or reposition if the maneuver compromises traffic separation, obstacle clearance, or the emergency landing option.
+
+A concise teaching flow is:
+
+**“Pick a safe area and a landing option. Find the wind. Fly the ground track, not the heading. Crab on the straight legs. Fast side, steeper bank; slow side, shallower bank. Keep it coordinated, keep scanning, and never let the maneuver take away your escape route.”**
+
+---
+
+### ACS Completion Standards
+
+#### CFI ACS — Area IX, Task E
+
+The instructor applicant must:
+
+- understand and teach the maneuver,
+- manage the associated risks,
+- demonstrate the evaluator-selected maneuver while providing effective instruction,
+- analyze and correct common errors,
+- clear the area,
+- select a suitable ground reference,
+- plan the appropriate entry,
+- apply adequate wind correction,
+- maintain the required ground track or radius,
+- divide attention effectively,
+- remain coordinated,
+- maintain altitude **±100 feet**,
+- maintain airspeed **±10 knots**.
+
+#### Private ACS — Area V, Task B
+
+The Private Pilot ACS uses the same basic maneuver geometry and tolerances:
+
+- clear the area,
+- select a suitable ground reference area, line, or point,
+- rectangular course: enter **45° to downwind** at **600–1,000 feet AGL**,
+- S-turns: enter **perpendicular to the line** at **600–1,000 feet AGL**,
+- turns around a point: enter at an appropriate distance at **600–1,000 feet AGL**,
+- apply adequate wind correction,
+- reverse S-turns directly over the line,
+- remain coordinated,
+- maintain altitude **±100 feet**,
+- maintain airspeed **±10 knots**.
+
+#### Commercial ACS
+
+**Rectangular course, S-turns, and turns around a point are not Commercial Pilot ACS tasks.**
+
+The Commercial ACS ground-reference maneuver is the **steep spiral**, which has different requirements and standards.
+
+So for these three maneuvers, use the **Private ACS performance standard** and the **CFI ACS instructional standard** rather than inventing a Commercial standard.
+
+---
+
+### ACS Coverage — Area IX, Task E
+
+**Knowledge**
+
+- **AI.IX.E.K1** — Purpose and procedures for ground reference maneuvers
+- **AI.IX.E.K2** — Effects of wind on ground track and relation to a ground reference
+- **AI.IX.E.K3** — Effects of bank angle and groundspeed on rate and radius of turn
+- **AI.IX.E.K4** — Relationship of rectangular course to airport traffic pattern
+- **AI.IX.E.K5** — Common errors
+
+**Risk Management**
+
+- **AI.IX.E.R1** — Division of attention between aircraft control and orientation
+- **AI.IX.E.R2** — Collision hazards
+- **AI.IX.E.R3** — Low-altitude maneuvering, including stall, spin, or CFIT
+- **AI.IX.E.R4** — Distractions, task prioritization, loss of situational awareness, or disorientation
+- **AI.IX.E.R5** — Uncoordinated flight
+
+**Skills**
+
+- **AI.IX.E.S1** — Clear the area
+- **AI.IX.E.S2** — Select a suitable ground reference area, line, or point
+- **AI.IX.E.S3** — Plan the maneuver:
+    - rectangular course: left/right pattern, **600–1,000 feet AGL**, **45° to downwind**
+    - S-turns: **perpendicular to reference line**, **600–1,000 feet AGL**
+    - turns around a point: appropriate distance, **600–1,000 feet AGL**
+- **AI.IX.E.S4** — Apply adequate wind-drift correction
+- **AI.IX.E.S5** — S-turn reversal directly over line / turns around point in evaluator-specified direction
+- **AI.IX.E.S6** — Divide attention while maintaining coordinated flight
+- **AI.IX.E.S7** — Altitude **±100 feet** / airspeed **±10 knots**
+- **AI.IX.E.S8** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area IX, Task E
+- FAA-S-ACS-6C — Private Pilot for Airplane Category ACS, Area V, Task B
+- FAA-S-ACS-7B — Commercial Pilot for Airplane Category ACS
+- FAA-H-8083-3 — Airplane Flying Handbook, Ground Reference Maneuvers
+- **14 CFR §91.103**
+- **14 CFR §91.113**
+- **14 CFR §91.119**
+- **14 CFR §91.126**
+- **14 CFR §91.127**
+- **14 CFR §91.13**
+
 
 # Fly
 
@@ -599,12 +691,134 @@ Maintain coordination and continuous change; approximately **30° maximum bank**
 
 ## Kneeboard
 
-<div class="kneeboard-header"><strong>LAZY EIGHTS — CFI IX.D</strong><br>Objective: Smooth, coordinated, symmetrical pitch-and-bank changes.</div>
-<div class="kneeboard-layout">
-	<div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Clear / configure</label><div class="kneeboard-detail"><strong>P:</strong> Two 90s; clean; 105 KIAS; ~2300 RPM; select 45/90/135.</div><div class="kneeboard-detail"><strong>CE:</strong> Poor references.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">CLIMB</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> 45°</label><div class="kneeboard-detail"><strong>P:</strong> Max pitch-up 15–20°; ~15° bank.</div><div class="kneeboard-detail"><strong>CE:</strong> Abrupt or steep-turn entry.</div></div><div class="kneeboard-item"><label><input type="checkbox"> 90°</label><div class="kneeboard-detail"><strong>P:</strong> Pitch level; ~30° bank; minimum speed.</div><div class="kneeboard-detail"><strong>CE:</strong> Stall or pitch drop.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">DESCEND</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> 135°</label><div class="kneeboard-detail"><strong>P:</strong> Max pitch-down 15–17°; ~15° bank.</div><div class="kneeboard-detail"><strong>CE:</strong> Speed builds early.</div></div><div class="kneeboard-item"><label><input type="checkbox"> 180° / reverse</label><div class="kneeboard-detail"><strong>P:</strong> Entry altitude, speed, heading; repeat opposite.</div><div class="kneeboard-detail"><strong>CE:</strong> Asymmetric endpoint.</div></div></div></div>
+<div class="kneeboard-header">
+    <strong>LAZY EIGHTS — TASK D</strong>
 </div>
+
+<div class="kneeboard-layout">
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear area; complete maneuver no lower than <strong>1,500' AGL</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Select distant references near the horizon at 45°, 90°, 135°.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poor/close references or weak traffic scan.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clean; ~<strong>2300 RPM</strong>;<strong>105 KIAS POH</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Trim straight-and-level; abrupt control use prohibited above 105 KIAS.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Unstable or rushed entry.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">0–45°</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Simultaneously increase <strong>pitch + bank</strong> — slowly.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At 45°: <strong>max pitch-up ~15–20°</strong>, bank ~15°.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Banking too fast or pitching too aggressively.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">45–90°</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Pitch gradually decreases; bank continues increasing.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At 90°: <strong>level pitch</strong>, <strong>~30° bank</strong>, max altitude, minimum airspeed.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Minimum speed about <strong>5–10 KTS above stall</strong>.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Holding pitch too long, overbanking, pausing at 90°, or stall warning.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">90–135°</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Continue through 90° — nose below horizon; bank begins decreasing.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At 135°: <strong>max pitch-down</strong>, bank ~15–17°.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Pushing into a dive or letting airspeed build excessively.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">135–180°</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Raise pitch toward horizon while continuing rollout to wings level.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At 180°: <strong>wings level, entry altitude, entry airspeed, reciprocal heading</strong>.</div>
+                <div class="kneeboard-detail"><strong>STD:</strong> Altitude ±100' | Airspeed ±10 KT | Heading ±10°.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Early rollout, poor symmetry, or missing entry conditions.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">COORD</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Maintain coordination through changing airspeed, pitch, and bank.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> More right rudder as airspeed decreases; especially rolling right at low speed/high power.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Near 90°, slight opposite aileron may be needed to prevent overbanking.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Same rudder pressure both directions or slip/skid near minimum speed.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">FLOW</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Never chase the checkpoint — fly the flow.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Pitch/bank increase → airspeed down → altitude up → pitch down → bank peaks → descend → bank out → entry conditions return.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Stopping at checkpoints, instrument fixation, or abrupt corrections.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Immediately repeat the maneuver in the opposite direction.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Second half should mirror the first.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Unsymmetrical loops or loss of orientation.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CFI ACS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Teach purpose, energy exchange, references, coordination, risks, and common errors.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Outside references primary; instruments verify only.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Recover immediately for stall warning or loss of coordination.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Good maneuver with incomplete instruction.</div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
 
 # Review
 
