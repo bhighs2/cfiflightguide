@@ -119,6 +119,584 @@ Bank starts and stops the turn. Elevator/pitch and power compensate for the loss
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to establish, maintain, and roll out of coordinated level turns using outside visual references, coordinated aileron and rudder, appropriate elevator and power, trim, and a brief instrument cross-check while maintaining altitude, airspeed, situational awareness, and traffic separation.**
+
+### Purpose
+
+A level turn teaches how an airplane actually changes direction.
+
+The airplane does **not** turn because we push rudder and point the nose somewhere else.
+
+It turns because we **bank the airplane**, which tilts the lift vector and creates a horizontal component of lift toward the center of the turn.
+
+So the teaching story is:
+
+**clear → bank and coordinate → compensate for lost vertical lift → hold the sight picture → monitor altitude and airspeed → lead the rollout → return to straight-and-level.**
+
+---
+
+### Start With the Aerodynamics — Why Does the Airplane Turn?
+
+In straight-and-level flight, lift acts essentially upward and opposes weight.
+
+When we bank the airplane, total lift tilts with the wings.
+
+That gives us two useful components:
+
+- a **vertical component** that continues to oppose weight,
+- and a **horizontal component** that pulls the airplane toward the center of the turn.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Level_Turn_Bank_Forces.png" alt="Lift components in straight-and-level flight and a banked level turn" loading="lazy">
+    <figcaption>Bank tilts total lift. The horizontal component turns the airplane, while the vertical component must still be large enough to support the airplane's weight.</figcaption>
+</figure>
+
+The important point is:
+
+**bank makes the turn. Rudder coordinates the turn.**
+
+Because some lift is now being used horizontally, less is available vertically.
+
+To stay level, the pilot must increase total lift.
+
+In practice, that usually means:
+
+**slight back pressure — and, if needed, a small power increase.**
+
+---
+
+### Bank, Load Factor, and Stall Speed
+
+As bank increases in a level turn, the airplane must produce more total lift to maintain altitude.
+
+That increases **load factor**.
+
+More load factor means:
+
+- more induced drag,
+- more back pressure,
+- potentially more power,
+- and a higher stall speed.
+
+The learner does not need to calculate load factor in every normal turn, but should understand the trend:
+
+**more bank → more load factor → more lift required → higher stall speed.**
+
+That is one reason we avoid steep, aggressive corrections close to the ground.
+
+---
+
+### Turn Rate and Turn Radius
+
+Bank angle and airspeed determine how quickly and how tightly the airplane turns.
+
+At the **same airspeed**:
+
+**more bank → higher turn rate → smaller turn radius.**
+
+At the **same bank angle**:
+
+**more airspeed → lower turn rate → larger turn radius.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Bank_Radius_Rate.png" alt="Effect of bank angle and airspeed on turn radius and turn rate" loading="lazy">
+    <figcaption>At constant airspeed, steeper bank tightens the radius and increases turn rate. At constant bank, higher airspeed increases radius and reduces turn rate.</figcaption>
+</figure>
+
+That relationship becomes important later in traffic patterns, steep turns, and ground-reference maneuvers.
+
+---
+
+### Adverse Yaw — Why Rudder Is Needed
+
+When we deflect the ailerons to enter a turn, the rising wing develops more lift — and more induced drag.
+
+That extra drag pulls the nose **opposite** the intended turn.
+
+That is **adverse yaw**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/LEvel_Turn_Adverse_Yaw.png" alt="Adverse yaw caused by differential aileron lift and drag" loading="lazy">
+    <figcaption>During roll-in, the rising wing produces more lift and induced drag. Coordinated rudder prevents the nose from yawing opposite the intended turn.</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Rudder_Oppose_Adverse_Yaw.png" alt="Rudder opposing adverse yaw during a turn" loading="lazy">
+    <figcaption>Rudder is applied with aileron to oppose adverse yaw and keep the airplane coordinated.</figcaption>
+</figure>
+
+So when rolling into a left turn:
+
+**left aileron + left rudder together.**
+
+When rolling into a right turn:
+
+**right aileron + right rudder together.**
+
+Once the bank is established, the ailerons return near neutral and rudder pressure relaxes to whatever is needed to stay coordinated.
+
+The rudder is **not** held simply because we are turning.
+
+---
+
+### Coordination — The Nose, Bank, and Ball Should Agree
+
+A coordinated turn means the airplane is neither slipping nor skidding.
+
+Use:
+
+- outside yaw cues,
+- seat pressure,
+- rudder feel,
+- and the slip/skid indication.
+
+A simple teaching cue is:
+
+**“Step on the ball.”**
+
+But the learner should eventually recognize coordination before needing the instrument.
+
+If the nose starts turning before the airplane banks:
+
+**too much or too-early rudder.**
+
+If the airplane banks but the nose initially yaws opposite the turn:
+
+**not enough rudder / adverse yaw.**
+
+The goal is:
+
+**bank and nose movement begin together.**
+
+---
+
+### Outside Visual Reference — Do Not Fly the Turn From the Panel
+
+For VFR level turns, the natural horizon remains the primary attitude reference.
+
+The panel/cowling and wing relationship to the horizon give the pilot the bank and pitch picture.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/LEvel_Turn_Reference_Angle.png" alt="Reference angle between the airplane panel and natural horizon during a level turn" loading="lazy">
+    <figcaption>Use the panel/horizon relationship to establish and maintain the desired bank angle; instruments briefly verify the result.</figcaption>
+</figure>
+
+The learner should establish the turn **outside**, then briefly verify:
+
+- bank,
+- altitude,
+- airspeed,
+- heading,
+- and coordination.
+
+Then eyes go back outside.
+
+---
+
+### Parallax — Why the Nose Can Fool You
+
+The pilot does not sit on the airplane's longitudinal axis.
+
+In a side-by-side airplane, the pilot sits left or right of the roll axis.
+
+That creates **parallax** during turns.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/LEvel_Turn_Parallax_View.png" alt="Parallax effect from pilot seating position during left and right turns" loading="lazy">
+    <figcaption>Because the pilot is offset from the roll axis, the nose may appear to rise or fall differently in left and right turns even when the true pitch attitude is correct.</figcaption>
+</figure>
+
+For a pilot in the **left seat**:
+
+- in a **left turn**, the pilot moves lower relative to the roll axis and the nose may appear to rise,
+- in a **right turn**, the pilot moves higher and the nose may appear to drop.
+
+So do not use the nose alone to judge pitch or bank.
+
+Use:
+
+**panel/horizon relationship + wing references + quick instrument confirmation.**
+
+And do not physically lean away from the turn to make the horizon “look level.”
+
+---
+
+### Roll Into the Turn
+
+Before turning:
+
+**clear in the direction of the turn.**
+
+Under **14 CFR §91.113**, collision avoidance remains a continuous responsibility.
+
+Then:
+
+1. apply coordinated aileron and rudder,
+2. establish the desired bank,
+3. increase back pressure as needed,
+4. add power if needed to maintain airspeed,
+5. neutralize the ailerons as the bank is reached.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Level_Turn_Left.png" alt="Control sequence for entering and maintaining a left level turn" loading="lazy">
+    <figcaption>Roll into the turn with coordinated controls, establish the desired bank, then hold the turn with the appropriate pitch, power, and coordination.</figcaption>
+</figure>
+
+The control relationship is:
+
+**aileron establishes bank → rudder coordinates → elevator holds altitude → power supports airspeed.**
+
+---
+
+### Hold the Turn
+
+Once the desired bank is established:
+
+**stop rolling.**
+
+That means the ailerons move back toward neutral.
+
+Now hold:
+
+- bank,
+- altitude,
+- airspeed,
+- and coordination.
+
+The outside picture should become stable.
+
+If altitude is dropping:
+
+**increase pitch slightly and add power if needed.**
+
+If altitude is climbing:
+
+**reduce pitch slightly.**
+
+If bank is changing:
+
+**make a small aileron correction and re-neutralize.**
+
+Do not continuously hold a large aileron input unless the bank tendency requires it.
+
+---
+
+### Overbanking Tendency
+
+At higher bank angles, the outside wing travels a larger radius than the inside wing.
+
+That means the outside wing moves faster and can produce more lift.
+
+The result is an **overbanking tendency**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Overbanking_Tendency.png" alt="Overbanking tendency caused by the outer wing traveling faster than the inner wing" loading="lazy">
+    <figcaption>At higher bank angles, the outer wing travels faster and can create more lift, tending to steepen the bank.</figcaption>
+</figure>
+
+In practical terms:
+
+- shallow turns may tend to return toward wings level,
+- medium-bank turns may remain fairly stable,
+- steeper turns may require **opposite aileron** to prevent further banking.
+
+So “neutral ailerons” is not an absolute rule.
+
+The rule is:
+
+**use only the pressure required to hold the selected bank.**
+
+---
+
+### Power and Airspeed
+
+A level turn creates more drag because total lift must increase.
+
+At shallow bank angles, the difference may be small.
+
+At greater bank angles, the airplane may begin to lose airspeed unless power is added.
+
+So:
+
+**set the bank → add the pitch needed for altitude → monitor airspeed → add power if needed.**
+
+Do not blindly add the same amount of power every time.
+
+Use the airplane's actual performance.
+
+---
+
+### Trim
+
+If the level turn requires sustained elevator pressure:
+
+**trim to relieve the pressure after the turn is stable.**
+
+The correct sequence is still:
+
+**Attitude → Power → Stabilize → Trim.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Elevator_Trim_Control.png" alt="Cessna elevator trim wheel and trim indicator" loading="lazy">
+    <figcaption>Use trim only after the desired bank, pitch, power, altitude, and airspeed are established.</figcaption>
+</figure>
+
+Do not use trim to establish the turn.
+
+And remember that if the maneuver is brief, extensive retrimming may create more workload than it removes.
+
+---
+
+### Integrated Flight Instruction
+
+The ACS requires integrated instruction.
+
+Teach the turn using:
+
+**outside attitude → quick instrument verification → outside.**
+
+The learner should be able to say:
+
+- what outside cue establishes the bank,
+- what outside cue establishes the pitch,
+- what instrument verifies bank,
+- what instrument verifies altitude,
+- what confirms coordination,
+- and what correction is needed if something begins to drift.
+
+The instructor should continue teaching without losing the traffic scan.
+
+---
+
+### Lead the Rollout
+
+The airplane continues turning as long as there is bank.
+
+So the rollout must begin **before** the desired heading.
+
+A useful starting rule is:
+
+**lead the rollout by approximately one-half the bank angle.**
+
+For a 30° bank:
+
+**start rolling out about 15° before the desired heading.**
+
+This is only a starting technique; actual lead changes with roll rate and turn rate.
+
+To roll out:
+
+1. apply coordinated aileron and rudder toward the high wing,
+2. progressively reduce back pressure as vertical lift returns,
+3. reduce any extra power that was added,
+4. level the wings,
+5. neutralize controls,
+6. return to the straight-and-level sight picture,
+7. retrim if necessary.
+
+---
+
+### Risk Management — Collision Avoidance
+
+The first error on the common-error list is failure to clear.
+
+That belongs at the front of the lesson.
+
+Before turning:
+
+**look where you are about to go.**
+
+During the turn:
+
+continue scanning:
+
+- through the turn,
+- over the raised wing when possible,
+- ahead,
+- and for converging traffic.
+
+Do not let instruction or instrument checking eliminate the outside scan.
+
+---
+
+### Risk Management — Distraction and Disorientation
+
+Turning while explaining, changing radios, or looking inside can quickly create:
+
+- altitude deviation,
+- bank drift,
+- loss of coordination,
+- or traffic conflict.
+
+If workload rises:
+
+**simplify.**
+
+Level the wings if necessary, restore situational awareness, then continue.
+
+Do not lean the body away from the turn.
+
+Remain seated normally and trust the airplane's outside references.
+
+---
+
+### Common Errors
+
+#### 1. Failure to Clear
+
+**Error:** Entering the turn without adequately clearing for traffic.
+
+**Correction:** Clear before the turn and keep scanning throughout.
+
+#### 2. Altitude Gain or Loss
+
+**Error:** Failing to compensate for reduced vertical lift.
+
+**Correction:** Adjust pitch promptly and add power as needed.
+
+#### 3. Bank Angle Not Constant
+
+**Error:** Letting the bank shallow or steepen.
+
+**Correction:** Use the outside reference and make small aileron corrections.
+
+#### 4. Instrument-Only Turn
+
+**Error:** Flying primarily from the panel.
+
+**Correction:** Establish attitude outside; use instruments only to verify performance.
+
+#### 5. Leaning Away From the Turn
+
+**Error:** Moving the body relative to the airplane to feel upright.
+
+**Correction:** Sit normally and use the true outside sight picture.
+
+#### 6. Poor Slip/Skid Feel
+
+**Error:** Unable to recognize uncoordinated flight without looking at the ball.
+
+**Correction:** Develop awareness of yaw, seat pressure, rudder pressure, and visual nose movement; verify with the ball.
+
+#### 7. Nose-Only Bank Reference
+
+**Error:** Trying to hold bank using only the nose.
+
+**Correction:** Use panel/horizon and wing references.
+
+#### 8. Flat Skidding Turn
+
+**Error:** Using rudder to turn without sufficient bank.
+
+**Correction:** Bank the airplane; rudder only coordinates.
+
+#### 9. Excessive Rudder
+
+**Error:** Holding too much rudder into the turn.
+
+**Correction:** Relax rudder once adverse yaw is corrected and maintain coordination.
+
+#### 10. Proficiency in Only One Direction
+
+**Error:** Comfortable turning one way but not the other.
+
+**Correction:** Practice equally left and right and discuss parallax differences.
+
+#### 11. Failure to Coordinate Controls
+
+**Error:** Aileron, rudder, elevator, and power inputs do not work together.
+
+**Correction:** Use smooth simultaneous inputs and understand the purpose of each control.
+
+---
+
+### Instructor Demonstration
+
+Teach the maneuver in this order:
+
+1. Establish straight-and-level flight at a practical airspeed.
+2. Identify the desired heading, bank, altitude, and airspeed.
+3. **Clear in the direction of turn.**
+4. Establish the outside bank and pitch references.
+5. Roll in with **coordinated aileron and rudder**.
+6. Add back pressure as the bank develops.
+7. Add power if needed to maintain airspeed.
+8. At the selected bank, return ailerons toward neutral.
+9. Hold the outside sight picture.
+10. Briefly verify:
+    - bank,
+    - altitude,
+    - airspeed,
+    - heading,
+    - coordination.
+11. Correct small deviations with measured pressure.
+12. Demonstrate adverse yaw and proper rudder timing.
+13. Point out parallax and why the nose picture differs left vs. right.
+14. Demonstrate overbanking tendency where appropriate.
+15. Lead the rollout by roughly **half the bank angle**.
+16. Roll wings level with coordinated opposite aileron/rudder.
+17. Relax excess back pressure and power as the wings level.
+18. Return to straight-and-level.
+19. Retrim if necessary.
+20. Repeat in the opposite direction.
+
+A concise teaching flow is:
+
+**“Clear. Bank and coordinate. Add the back pressure. Hold the sight picture. Check altitude, airspeed, and ball. Lead the rollout. Level the wings. Relax the pressure. Back to straight-and-level.”**
+
+---
+
+### ACS Completion Standards
+
+For the CFI practical, the instructor applicant should perform the maneuver at commercial-pilot proficiency while providing effective instruction.
+
+The current lesson source calls for:
+
+- rollout heading **±15°**
+- altitude **±100 ft**
+- airspeed **±10 kt**
+- coordinated flight
+- appropriate trim
+- continuous outside scan
+
+---
+
+### ACS Coverage — Area VIII, Task B
+
+**Knowledge**
+
+- **AI.VIII.B.K1** — Purpose and procedures for level turns
+- **AI.VIII.B.K2** — Flight control and trim use
+- **AI.VIII.B.K3** — Pilot visual references
+- **AI.VIII.B.K4** — Integrated flight instruction
+- **AI.VIII.B.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VIII.B.R1** — Distractions, task prioritization, loss of situational awareness, or disorientation
+- **AI.VIII.B.R2** — Collision hazards
+
+**Skills**
+
+- **AI.VIII.B.S1** — Establish, maintain, and roll out of a level turn
+- **AI.VIII.B.S2** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VIII, Task B
+- FAA-H-8083-3 — Airplane Flying Handbook, Level Turns / Integrated Flight Instruction
+- FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge, Turning Flight / Load Factor / Flight Controls
+- **14 CFR §91.113** — Right-of-way / see-and-avoid responsibilities
+
+
 ## AI.VIII.B.K1 - Purpose of and Procedures for Level Turns
 
 A level turn maintains **constant altitude and airspeed** while changing heading. The procedure is:
@@ -328,54 +906,91 @@ The applicant demonstrates while teaching level turns: clearing, coordinated ban
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>LEVEL TURNS - CFI AI.VIII.B</strong>
+    <strong>LEVEL TURNS — CFI AI.VIII.B</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">CLEAR</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Clear direction of turn; traffic/weather/terrain.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Brief heading, altitude, airspeed, bank, rollout.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Turning without clearing.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">TURN</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Bank; coordinate; compensate.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Aileron starts bank; rudder coordinates; elevator/power hold altitude/speed.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Flat skid, excessive rudder, altitude loss.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Heading / altitude / airspeed / bank selected → <strong>CLEAR turn direction.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Outside scan first; establish straight-and-level.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Turning without clearing or becoming head-down.</div>
+            </div>
+        </div>
+    </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">HOLD</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Hold bank/pitch; outside horizon/wingtips; brief instrument check.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Light grip; pressures not movements; scan traffic.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Nose-only reference, instrument chasing, overcontrol.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ROLL IN</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Aileron + rudder together → desired bank.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Rudder counters adverse yaw; bank makes the turn.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Rudder-only / flat skid / nose leading or lagging bank.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ROLL OUT</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Lead heading; opposite aileron; wings level; neutralize.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Recheck altitude/airspeed, then trim.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Late rollout or failure to coordinate.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Add back pressure as bank develops; power as needed.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> More bank = less vertical lift + more load factor/drag.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Altitude loss or airspeed decay.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">HOLD</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Ailerons near neutral → hold bank / pitch / coordination.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Outside panel/horizon + wing reference; brief instrument verify.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Nose-only reference, bank drift, instrument chasing.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Ball centered; light grip; small control pressures.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At steeper bank, opposite aileron may be needed for overbanking tendency.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Excess rudder, slip/skid, or overcontrol.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ROLL OUT</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Lead rollout ≈ <strong>½ bank angle</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Opposite aileron + rudder → wings level → relax back pressure/power → neutralize.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late rollout, heading overshoot, or poor coordination.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TRIM / VERIFY</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Stable attitude/power first → trim if sustained pressure remains.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Outside → bank / altitude / airspeed / heading / ball → outside.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Flying with trim or prolonged instrument fixation.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CFI ACS</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Demonstrate while instructing; analyze/correct errors.</label>
+                <div class="kneeboard-detail"><strong>STD:</strong> Heading ±15° | Altitude ±100 ft | Airspeed ±10 kt | coordinated.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Practice both directions; maintain outside scan and traffic awareness.</div>
+            </div>
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

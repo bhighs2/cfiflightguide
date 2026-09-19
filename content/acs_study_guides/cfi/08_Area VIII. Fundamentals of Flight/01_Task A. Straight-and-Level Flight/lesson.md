@@ -139,6 +139,417 @@ This cut covers the material directly relevant to this Task:
 - `Elevator_Trim_Control.png`
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to establish and maintain straight-and-level flight using outside visual references as the primary attitude reference, coordinated flight controls, appropriate power and trim, and a brief instrument cross-check while maintaining traffic awareness and making small, timely corrections.**
+
+### Purpose
+
+Straight-and-level flight is the foundation for almost everything else we do in the airplane.
+
+A turn, climb, descent, or maneuver is simply a deliberate departure from one stabilized condition and then a return to another.
+
+So the teaching story is:
+
+**set the sight picture → verify performance → coordinate the airplane → trim away pressure → keep looking outside → correct small deviations early.**
+
+Straight-and-level flight means:
+
+- **constant altitude**
+- **constant heading**
+
+The airplane does not stay there by itself. We continuously recognize small deviations and correct them before they become large ones.
+
+---
+
+### Start Outside — Attitude Comes Before Instruments
+
+For normal VFR flight, establish the airplane's attitude primarily with the **natural horizon**.
+
+The instruments are used to **verify** the performance that results.
+
+The basic scan is:
+
+**outside attitude and traffic → quick instrument check → back outside.**
+
+Do not stare at the altimeter and try to fly altitude directly.
+
+Do not stare at the heading display and try to fly heading directly.
+
+First put the airplane in the correct attitude outside, then confirm what that attitude is producing.
+
+---
+
+### Pitch — Use a Nose Reference
+
+For level flight, establish a repeatable relationship between the airplane's nose or glareshield and the natural horizon.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Straight_Level_Nose_Reference.png" alt="Straight-and-level flight using a nose reference against the natural horizon" loading="lazy">
+    <figcaption>Use a consistent nose-to-horizon relationship to establish and maintain pitch attitude, then verify the resulting altitude and airspeed with the instruments.</figcaption>
+</figure>
+
+The exact sight picture changes with seating position, loading, airspeed, power, and configuration.
+
+So the goal is not to memorize one universal picture.
+
+The goal is to recognize the correct sight picture for **this airplane in this flight condition**.
+
+If altitude begins to change:
+
+**correct the pitch attitude outside first.**
+
+Then verify the result with the altimeter, vertical-speed trend, and airspeed.
+
+---
+
+### Bank — Use the Wingtips
+
+Straight flight requires the wings to remain level.
+
+The wingtips give a longer visual reference than the nose and make small bank changes easier to see.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Straight_Level_Wing_Reference.png" alt="Straight-and-level flight using wingtip references against the horizon" loading="lazy">
+    <figcaption>Compare the wingtips to the natural horizon to detect small bank deviations before they become heading deviations.</figcaption>
+</figure>
+
+If one wing is low:
+
+**level the wings with coordinated aileron and rudder.**
+
+Do not hold heading against a bank using rudder alone.
+
+---
+
+### Pitch, Roll, and Yaw
+
+The primary controls work around three axes:
+
+- **Elevator → pitch**
+- **Ailerons → roll**
+- **Rudder → yaw / coordination**
+
+In straight-and-level flight:
+
+- elevator establishes the pitch attitude needed to maintain altitude,
+- ailerons correct bank,
+- rudder keeps the airplane coordinated.
+
+Use the control that fixes the actual attitude error.
+
+---
+
+### Power — Attitude and Power Work Together
+
+If power changes, the pitch attitude required to maintain altitude generally changes as well.
+
+- Increase power without a pitch correction and the airplane may accelerate and climb.
+- Reduce power without a pitch correction and the airplane may slow and descend.
+
+So after a meaningful power change:
+
+**set the new pitch attitude → let the airplane stabilize → verify altitude and airspeed → retrim.**
+
+---
+
+### The Four Forces
+
+In steady, unaccelerated straight-and-level flight:
+
+- **Lift equals weight**
+- **Thrust equals drag**
+
+A change in attitude or power changes that balance and produces a new performance condition.
+
+---
+
+### Trim — Remove Pressure, Don't Fly With It
+
+Trim is used to relieve continuous control pressure.
+
+The sequence is:
+
+**Attitude → Power → Stabilize → Trim**
+
+First establish the desired attitude with the primary controls. Then trim away the remaining pressure.
+
+For the C172S:
+
+- trim wheel forward → **nose-down trim**
+- trim wheel aft → **nose-up trim**
+
+Do not use trim to move the airplane to the desired attitude.
+
+---
+
+### Integrated Flight Instruction
+
+The ACS requires **integrated flight instruction**.
+
+Teach the learner to connect:
+
+- what they see outside,
+- what they feel,
+- and what the instruments confirm.
+
+The outside reference remains primary in VFR flight.
+
+A useful cross-check is:
+
+1. **Outside — pitch, bank, traffic**
+2. Altimeter / altitude trend
+3. Heading
+4. Airspeed
+5. Coordination
+6. **Back outside**
+
+The instruments answer:
+
+**“What performance is this attitude producing?”**
+
+---
+
+### Use Control Pressure, Not Mechanical Movements
+
+Fly with **small, smooth pressures**.
+
+Do not think:
+
+**“move the yoke two inches.”**
+
+Think:
+
+**“apply enough pressure to create the correction I need.”**
+
+Then relax the pressure as the airplane reaches the desired attitude.
+
+A tight grip makes this harder and reduces feel.
+
+---
+
+### Correct Small Deviations Early
+
+If altitude begins to drift:
+
+1. recognize the pitch deviation,
+2. make a small pitch correction,
+3. wait for the airplane to respond,
+4. verify the trend,
+5. return to the normal sight picture,
+6. retrim only if a sustained pressure remains.
+
+If heading begins to drift:
+
+1. check the wings,
+2. correct the bank with coordinated aileron and rudder,
+3. return the wings to level,
+4. verify heading,
+5. make a small coordinated correction if needed.
+
+**Small deviation → small correction.**
+
+---
+
+### Do Not Chase the Instruments
+
+A common learner pattern is:
+
+altimeter moves → pull  
+VSI moves → push  
+airspeed changes → pull again  
+heading changes → rudder
+
+That becomes instrument chasing.
+
+Instead:
+
+**hold a stable outside attitude long enough to see what the airplane is actually doing.**
+
+Then make one measured correction.
+
+---
+
+### Maintain Coordination
+
+Straight-and-level flight should be coordinated.
+
+If the airplane has one wing low and the learner holds heading with rudder, the airplane becomes cross-controlled.
+
+Correct the bank first.
+
+Use rudder to coordinate the aileron input and maintain proper yaw control.
+
+---
+
+### Risk Management — Distractions and Task Prioritization
+
+Straight-and-level flight is often when pilots start doing everything else:
+
+- radios,
+- navigation,
+- avionics,
+- checklists,
+- passengers.
+
+The priority remains:
+
+**Aviate → Navigate → Communicate.**
+
+If the airplane starts drifting while doing a secondary task:
+
+**stop the secondary task and fly the airplane.**
+
+Keep head-down time short.
+
+---
+
+### Risk Management — Collision Avoidance
+
+Under **14 CFR §91.113**, the pilot still has responsibility for seeing and avoiding other aircraft when weather conditions permit.
+
+Maintain an active outside scan for:
+
+- traffic,
+- weather,
+- terrain,
+- obstacles,
+- and changing visibility.
+
+This is especially important during instruction because both instructor and learner can become absorbed in the maneuver or instruments.
+
+---
+
+### Common Errors
+
+#### 1. Poor Pitch or Bank Reference
+
+**Error:** Using an inconsistent or ineffective nose/wing reference.
+
+**Correction:** Re-establish a clear nose reference for pitch and wingtip-to-horizon reference for bank.
+
+#### 2. Forgetting the Reference on Later Flights
+
+**Error:** Failing to remember the sight picture established previously.
+
+**Correction:** Deliberately identify the reference points each flight and account for seating, loading, speed, and power.
+
+#### 3. Flying Attitude From the Instruments
+
+**Error:** Looking inside to create the pitch or bank correction.
+
+**Correction:** Make the correction using the natural horizon, then verify with the instruments.
+
+#### 4. Chasing Instruments
+
+**Error:** Reacting continuously to every small instrument movement.
+
+**Correction:** Hold the outside attitude, allow the airplane to respond, then make a measured correction.
+
+#### 5. Mechanical Control Movements
+
+**Error:** Pushing or pulling by a memorized amount.
+
+**Correction:** Apply smooth pressure only until the desired response occurs.
+
+#### 6. Poor Outside Scan
+
+**Error:** Focusing on the panel and missing traffic, weather, or terrain.
+
+**Correction:** Keep the scan outside-dominant and instrument checks brief.
+
+#### 7. Tight Grip
+
+**Error:** Palm grip / white knuckles reduce feel.
+
+**Correction:** Relax the hand and use light pressure.
+
+#### 8. Overcontrolling
+
+**Error:** Large or rapid inputs create oscillation around the desired attitude.
+
+**Correction:** Recognize early and make smaller corrections.
+
+#### 9. One Wing Low / Rudder-Only Heading Control
+
+**Error:** Holding heading with rudder while remaining banked.
+
+**Correction:** Level the wings with coordinated aileron and rudder.
+
+#### 10. Late Corrections
+
+**Error:** Waiting for a large altitude or heading deviation.
+
+**Correction:** Correct the first trend with a timely, proportional input.
+
+#### 11. Ignoring Aircraft Feel
+
+**Error:** Depending only on vision/instruments and missing tactile or auditory cues.
+
+**Correction:** Notice control pressure, engine sound, airflow, seat pressure, and rudder feel while maintaining the outside scan.
+
+---
+
+### Instructor Demonstration
+
+Teach it in the order the learner actually uses it:
+
+1. Clear the area and establish a safe practice altitude.
+2. Select a heading and practical cruise condition.
+3. Establish the **nose-to-horizon reference** for pitch.
+4. Establish the **wingtip-to-horizon reference** for bank.
+5. Set appropriate power.
+6. Let the airplane stabilize.
+7. Check altitude, airspeed, heading, and coordination.
+8. Make small coordinated corrections as needed.
+9. Trim away sustained elevator pressure.
+10. Demonstrate the outside-dominant scan.
+11. Demonstrate a small altitude deviation and correction.
+12. Demonstrate a small bank/heading deviation and correction.
+13. Show the difference between smooth pressure, overcontrol, and rudder-only directional control.
+14. Add a simple cockpit task and demonstrate maintaining aircraft control while keeping head-down time short.
+15. Have the learner repeat the process while explaining the outside reference and instrument confirmation.
+
+A concise teaching flow is:
+
+**“Set the picture outside. Check what it gives you inside. Small correction. Let it work. Trim the pressure away. Then get your eyes back outside.”**
+
+---
+
+### ACS Coverage — Area VIII, Task A
+
+**Knowledge**
+
+- **AI.VIII.A.K1** — Purpose and procedures for straight-and-level flight
+- **AI.VIII.A.K2** — Flight control and trim use
+- **AI.VIII.A.K3** — Pilot visual references
+- **AI.VIII.A.K4** — Integrated flight instruction
+- **AI.VIII.A.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VIII.A.R1** — Distractions, task prioritization, loss of situational awareness, and disorientation
+- **AI.VIII.A.R2** — Collision hazards
+
+**Skills**
+
+- **AI.VIII.A.S1** — Establish and maintain straight-and-level flight while simultaneously providing effective instruction
+- **AI.VIII.A.S2** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VIII, Task A
+- FAA-H-8083-3 — Airplane Flying Handbook, Straight-and-Level Flight / Integrated Flight Instruction
+- FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge
+- **14 CFR §91.113** — Right-of-way / see-and-avoid responsibilities
+
+
 
 ## The Four Fundamentals
 
@@ -649,103 +1060,90 @@ The instructor applicant should be able to:
 ## Kneeboard
 
 <div class="kneeboard-header">
-    <strong>STRAIGHT-AND-LEVEL FLIGHT — CFI VIII.A</strong>
+    <strong>STRAIGHT-AND-LEVEL FLIGHT — CFI AI.VIII.A</strong>
 </div>
 
 <div class="kneeboard-layout">
 
-  <div class="kneeboard-group">
-    <div class="kneeboard-rail">SETUP</div>
-    <div class="kneeboard-group-body">
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Clear area / traffic</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Select altitude, heading, and desired flight condition.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Fixating on setup and losing outside scan.</div>
-      </div>
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Brief sight picture</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Identify nose reference for pitch and wingtips for bank.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Poor or inconsistent visual reference points.</div>
-      </div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">OUTSIDE</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Set <strong>nose reference</strong> for pitch and <strong>wingtip reference</strong> for bank.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Natural horizon establishes attitude; instruments verify performance.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Flying the attitude from instruments or forgetting the sight picture.</div>
+            </div>
+        </div>
     </div>
-  </div>
 
-  <div class="kneeboard-group">
-    <div class="kneeboard-rail">ATTITUDE</div>
-    <div class="kneeboard-group-body">
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Establish pitch outside</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Set nose/horizon relationship; verify altitude trend.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Establishing attitude with instruments.</div>
-      </div>
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Wings level</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Use wingtip/horizon relationship; coordinate aileron + rudder.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> One wing low / rudder-only heading control.</div>
-      </div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ATTITUDE / POWER</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Wings level → desired pitch → appropriate power.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Elevator = pitch | aileron = roll | rudder = coordination.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> One wing low, rudder-only heading control, or uncoordinated correction.</div>
+            </div>
+        </div>
     </div>
-  </div>
 
-  <div class="kneeboard-group">
-    <div class="kneeboard-rail">POWER</div>
-    <div class="kneeboard-group-body">
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Set power</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Select appropriate power; allow airplane to stabilize.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Chasing airspeed/altitude before performance stabilizes.</div>
-      </div>
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Verify performance</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Confirm altitude, heading, airspeed, coordination.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Large mechanical control movements.</div>
-      </div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">VERIFY</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Outside → altitude / heading / airspeed / coordination → outside.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Instruments confirm what the outside attitude is producing.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Instrument fixation or chasing every small indication.</div>
+            </div>
+        </div>
     </div>
-  </div>
 
-  <div class="kneeboard-group">
-    <div class="kneeboard-rail">TRIM</div>
-    <div class="kneeboard-group-body">
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Relieve pressure</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Attitude → Power → Stabilize → Trim.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Flying with trim or trimming before stabilized.</div>
-      </div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TRIM</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Attitude → Power → Stabilize → Trim.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Hold desired attitude first; trim away sustained pressure.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Flying the airplane with trim instead of primary controls.</div>
+            </div>
+        </div>
     </div>
-  </div>
 
-  <div class="kneeboard-group">
-    <div class="kneeboard-rail">X-CHECK</div>
-    <div class="kneeboard-group-body">
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Outside → inside → outside</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Outside attitude/traffic; instruments verify performance.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Head inside / chasing instruments.</div>
-      </div>
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Correct early</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Small deviation → small measured correction → neutralize.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Late correction / overcontrol.</div>
-      </div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CORRECT</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Detect trend early → small, smooth, coordinated correction.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Use control pressure; let airplane respond; re-establish sight picture.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late inputs, large movements, tight grip, or overcontrol.</div>
+            </div>
+        </div>
     </div>
-  </div>
 
-  <div class="kneeboard-group">
-    <div class="kneeboard-rail">TEACH</div>
-    <div class="kneeboard-group-body">
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Explain while demonstrating</label>
-        <div class="kneeboard-detail"><strong>P:</strong> What → Why → Outside cue → Expected response → Verify.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Talking so much that scan or aircraft control degrades.</div>
-      </div>
-      <div class="kneeboard-item">
-        <label><input type="checkbox"> Analyze learner errors</label>
-        <div class="kneeboard-detail"><strong>P:</strong> Identify cause; demonstrate or coach the specific correction.</div>
-        <div class="kneeboard-detail"><strong>CE:</strong> Correcting the symptom without identifying the cause.</div>
-      </div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SCAN</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Traffic / weather / terrain / obstacles remain primary.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Aviate → Navigate → Communicate; keep head-down time short.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Losing situational awareness while working inside.</div>
+            </div>
+        </div>
     </div>
-  </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CFI ACS</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Establish and maintain straight-and-level while <strong>simultaneously instructing</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Teach outside refs, controls/trim, integrated cross-check, risks, and corrections.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Demonstrating without explaining cue, response, and correction.</div>
+            </div>
+        </div>
+    </div>
 
 </div>
+
 
 # Review
 
