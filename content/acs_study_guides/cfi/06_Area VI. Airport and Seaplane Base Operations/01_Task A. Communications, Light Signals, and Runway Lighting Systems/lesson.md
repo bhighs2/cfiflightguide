@@ -128,6 +128,7 @@ When the radio goes quiet, fly the airplane first, navigate, then troubleshoot t
 ]]
 
 # Teach
+
 ## Instructor Notes
 
 <div class="lesson-section-toolbar instructor-notes-toolbar">
@@ -136,101 +137,244 @@ When the radio goes quiet, fly the airplane first, navigate, then troubleshoot t
 
 ### Purpose
 
-Communication is part of aircraft control.
+**Communication is part of aircraft control.**
 
-The objective is to communicate clearly, use the correct frequency and phraseology, comply with ATC instructions, recognize light signals and runway status lights, and know what to do when communication fails.
+Teach this Task as one continuous story:
 
-A good radio transmission should answer:
+1. **Know who you need to talk to.**
+2. **Find and select the correct frequency.**
+3. **Make the call using standard phraseology.**
+4. **Understand, acknowledge, and comply with ATC.**
+5. **Use the transponder and ADS-B correctly.**
+6. **Manage a communications failure.**
+7. **Use light-gun signals when the radio is unavailable.**
+8. **Use radar and ATC assistance early.**
+9. **Recognize when the situation has become an emergency.**
+10. **Recognize and respond correctly to Runway Status Lights.**
 
-- Who am I calling?
-- Who am I?
-- Where am I?
-- What do I want or intend to do?
+A good transmission normally answers:
 
-But the priority is always:
+**Who am I calling? → Who am I? → Where am I? → What do I want?**
 
-**understanding.**
+But the priority is always **understanding**.
 
-Brevity is useful only if both sides understand the message.
+---
 
-### Obtain the Correct Frequency
+### Know Who You Are Talking To
 
-Before flight, identify the frequencies likely to be used.
+Before choosing a frequency, understand what each service actually does.
+
+#### Control Tower — ATC
+
+A **control tower** provides air traffic control service for aircraft operating on the airport movement area and in the vicinity of the airport.
+
+The tower may issue:
+
+- Taxi instructions.
+- Runway crossing instructions.
+- Takeoff clearances.
+- Landing clearances.
+- Traffic sequencing and other ATC instructions.
+
+A tower is providing **ATC service**.
+
+#### CTAF — The Frequency
+
+**CTAF means Common Traffic Advisory Frequency.**
+
+CTAF is **not a facility**. It is the frequency designated for airport advisory practices when operating to or from an airport **without an operating control tower**.
+
+The CTAF may be:
+
+- A **UNICOM** frequency.
+- A **MULTICOM** frequency.
+- An **FSS** frequency.
+- The tower frequency when the tower is closed.
+
+So the distinction is:
+
+**CTAF tells you what frequency to use — it does not tell you who is necessarily listening.**
+
+#### UNICOM — A Nongovernment Station
+
+**UNICOM** is a nongovernment air-ground communication facility that may provide airport information.
+
+Depending on the airport, a UNICOM operator may provide information such as:
+
+- Wind.
+- Runway in use.
+- Airport conditions.
+- Fuel or FBO information.
+
+UNICOM is **not ATC** and does not issue clearances or provide separation.
+
+At many nontowered airports, the published UNICOM frequency is also the **CTAF** used by pilots for self-announcing.
+
+#### Flight Service Station — FSS
+
+**Flight Service is an FAA air traffic service, but it is not an ATC control facility.**
+
+FSS services include:
+
+- Pilot briefings.
+- Aviation weather information.
+- Pilot reports.
+- Flight plan processing.
+- Search and rescue services.
+- Assistance to lost aircraft.
+- Assistance to aircraft in emergencies.
+- Relaying ATC clearances and aeronautical information when applicable.
+
+Think of FSS as:
+
+**information, flight-plan, and assistance services — not aircraft separation or control.**
+
+#### Remote Communications Outlet — RCO
+
+An **RCO is the radio connection to Flight Service**, not a separate service.
+
+It is an unmanned remote transmitter/receiver that extends the range of an FSS.
+
+The pilot talks through the RCO; the Flight Service specialist may be located far away.
+
+So:
+
+- **FSS = the service.**
+- **RCO = one way you reach that service by radio.**
+
+---
+
+### Find the Correct Frequency
 
 Common sources include:
 
-- Chart Supplement.
-- Airport diagram.
-- Sectional.
-- Terminal Area Chart.
-- EFB.
-- ATIS or other published airport information.
+- **Sectional or Terminal Area Chart.**
+- **Chart Supplement.**
+- **Airport diagram.**
+- **EFB.**
+- Published airport information.
 
 Common frequencies include:
 
+- ATIS / ASOS / AWOS.
 - Clearance Delivery.
 - Ground.
 - Tower.
-- CTAF.
-- UNICOM.
-- ATIS.
-- ASOS/AWOS.
-- Approach.
-- Departure.
+- CTAF / UNICOM.
+- Approach / Departure.
 - Center.
-- Flight Service.
-- 121.5 MHz emergency frequency.
+- Flight Service / RCO.
+- **121.5 MHz — Guard / emergency.**
 
-Plan frequencies before the high-workload portions of the flight.
+Plan likely frequencies before the high-workload portion of the flight.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sectional_Chart_Legend.png" alt="Sectional chart legend showing airport data and communications frequencies" loading="lazy">
+    <figcaption>Sectional chart legend — airport data blocks identify frequencies such as tower, CTAF, ATIS, ASOS/AWOS, and UNICOM. Use the current chart and Chart Supplement for the actual airport.</figcaption>
+</figure>
+
+---
+
+### Flight Service Frequencies and RCOs
+
+Flight Service frequencies may be shown on the sectional near a NAVAID or listed in the Chart Supplement.
+
+Common FSS/RCO frequencies vary by area; examples include:
+
+- 122.2
+- 122.3
+- 122.4
+- 122.5
+- 122.6
+
+Use the **current chart or Chart Supplement**, not a memorized frequency.
+
+Sometimes the pilot transmits on a communications frequency but receives the FSS response over a VOR voice channel.
+
+A chart entry such as:
+
+**122.1R**
+
+means the facility **receives** the aircraft on 122.1 MHz.
+
+The associated VOR may be used for the FSS transmission back to the aircraft.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/FSS.png" alt="Sectional chart example showing an FSS frequency with an R suffix near a VOR" loading="lazy">
+    <figcaption>FSS frequency example — an “R” suffix means receive-only on that frequency. Consult the current chart and Chart Supplement for the associated transmit/receive arrangement.</figcaption>
+</figure>
+
+For a split-frequency arrangement:
+
+1. Tune the **COM** radio to the published FSS receive frequency.
+2. Tune the **NAV** radio to the associated VOR frequency.
+3. Select both audio sources as required by the installed audio panel.
+4. Enable VOR voice if the equipment requires it.
+5. On initial contact, tell Flight Service what you are transmitting and listening on.
+
+Example:
+
+**“Rancho Murieta Radio, Cessna One Two Three Alpha, transmitting one two two point one, listening Redding VOR, over.”**
+
+The specialist may be monitoring several frequencies, so the frequency information helps establish the connection quickly.
+
+---
+
+### 121.5 MHz — Guard
+
+**121.5 MHz is the civil VHF emergency frequency, commonly called Guard.**
+
+Use it when distress or urgency communications are necessary, or when normal communications cannot be established and using Guard is appropriate.
+
+Pilots are also encouraged to monitor **121.5** when radio capability and cockpit workload permit.
+
+Guard can provide access to:
+
+- ATC facilities.
+- Other aircraft.
+- Emergency communications.
+- Relays when normal frequencies fail.
+
+Do not treat Guard as a general-purpose chat frequency.
+
+---
 
 ### Listen Before Transmitting
 
+Once the frequency is selected:
+
+**listen first.**
+
 Before keying the microphone:
 
-- Listen to the frequency.
 - Make sure another transmission is not in progress.
 - Know what you intend to say.
 - Then transmit clearly.
 
-Do not change frequencies and immediately begin talking.
+Do not switch frequencies and immediately start talking.
 
-Give yourself enough time to hear whether the frequency is already in use.
+---
 
-### Radio Technique
+### Use the AIM Communication Standard
 
-Good radio technique includes:
+The primary procedural reference is the **Aeronautical Information Manual, Chapter 4, Section 2 — Radio Communications Phraseology and Techniques**.
 
-- Speak clearly.
-- Use normal conversational volume.
-- Hold the microphone close enough for clear audio.
-- Avoid long pauses while holding the microphone keyed.
-- Release the microphone when finished.
-- Use standard terms whenever possible.
-- Include the aircraft identification.
+The AIM emphasizes that the most important part of pilot-controller communication is:
 
-If unsure whether the transmission was received:
+**understanding.**
 
-wait briefly, then try again.
+Use standard phraseology when it communicates the message clearly, but if standard words are not enough:
 
-If the radio seems silent:
+**use plain language and make yourself understood.**
 
-check:
+### Make the Initial Call
 
-- Volume.
-- Squelch.
-- Correct frequency.
-- Audio-panel selection.
-- Headset connection.
-- Push-to-talk switch.
+For an initial contact:
 
-### Initial Contact
-
-A typical initial call contains:
-
-- Facility being called.
-- Aircraft identification.
-- Position or location.
-- Request or intention.
+- **Facility being called.**
+- **Aircraft identification.**
+- **Position or location.**
+- **Request or intention.**
 
 Example:
 
@@ -240,21 +384,27 @@ For flight following:
 
 **“Houston Approach, Skyhawk 12345, five miles north of Conroe, three thousand five hundred, VFR to College Station, request flight following.”**
 
-### Non-Towered Airport Calls
+---
 
-At a nontowered airport, calls should clearly identify:
+### Nontowered Airport Communications
 
-- Airport.
-- Aircraft.
-- Position.
-- Runway.
-- Intentions.
+At a nontowered airport, self-announce on the published **CTAF**.
 
-Example:
+A normal inbound sequence includes calls such as:
 
-**“Conroe Traffic, Skyhawk 12345, five miles west, one thousand five hundred, entering left downwind Runway 14, Conroe Traffic.”**
+- Approximately **10 miles out**.
+- Entering the traffic pattern.
+- Downwind.
+- Base.
+- Final.
+- Leaving the runway.
 
-Use the airport name at both the beginning and end when appropriate.
+Outbound calls normally include:
+
+- Before taxiing.
+- Before taxiing onto the runway for departure.
+
+Use the calls that are appropriate to the actual traffic situation without cluttering the frequency unnecessarily.
 
 Remember:
 
@@ -262,602 +412,496 @@ Remember:
 
 Aircraft without radios may also be operating.
 
-### Standard Phraseology
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Recommended_Communication_Procedures.png" alt="FAA summary of recommended communication procedures at airports without operating control towers" loading="lazy">
+    <figcaption>FAA recommended communication procedures — the applicable CTAF may be UNICOM, MULTICOM, FSS, or a tower frequency when the tower is not operating.</figcaption>
+</figure>
 
-Use the phraseology in:
+---
 
-- AIM.
-- Pilot/Controller Glossary.
+### Use Standard Phraseology — But Communicate Clearly
 
-Standard phraseology reduces ambiguity.
+Good technique includes:
 
-But if standard terminology does not communicate the message clearly:
+- Speak clearly.
+- Use normal conversational volume.
+- Hold the microphone close enough for clear audio.
+- Avoid long pauses while keyed.
+- Release the microphone when finished.
+- Use the aircraft identification.
 
-**use plain language.**
-
-The objective is accurate communication.
-
-### Phonetic Alphabet
-
-Use the ICAO phonetic alphabet for:
-
-- Call signs.
-- Taxiways.
-- Alphanumeric identifiers.
+Use the **ICAO phonetic alphabet** for letters.
 
 Examples:
 
-- N123AB — “November One Two Three Alpha Bravo.”
-- Taxiway B — “Taxiway Bravo.”
+- N123AB → **“November One Two Three Alpha Bravo.”**
+- Taxiway B → **“Taxiway Bravo.”**
+- Runway 17 → **“Runway One Seven.”**
 
-Runway numbers are spoken by individual digits:
+If standard phraseology is not enough:
 
-- Runway 17 — “Runway One Seven.”
-- Runway 35 — “Runway Three Five.”
+**use plain language.**
 
-### ATC Clearance vs. Instruction
+---
 
-An **ATC clearance** authorizes an aircraft to proceed under specified conditions.
+### Clearance, Instruction, and PIC Authority
+
+An **ATC clearance** authorizes the aircraft to proceed under specified conditions.
 
 An **ATC instruction** directs a specific action.
 
-Neither relieves the PIC of responsibility for:
-
-- Aircraft control.
-- Regulatory compliance.
-- Safe operation.
+Neither removes the PIC's responsibility for the aircraft.
 
 Under **14 CFR §91.3**, the PIC remains directly responsible for and the final authority as to the operation of the aircraft.
 
-### Compliance With ATC — 14 CFR §91.123
+If a clearance or instruction is:
 
-Once an ATC clearance has been accepted:
+- Unclear.
+- Unsafe.
+- Impossible to comply with.
+- Contrary to an aircraft limitation.
 
-the pilot may not deviate from it unless:
-
-- An amended clearance is obtained.
-- An emergency exists.
-- The deviation is in response to a TCAS resolution advisory, when applicable.
-
-If an instruction is unclear:
-
-**ask immediately.**
+**ask for clarification or say “unable.”**
 
 Do not guess.
 
-### Required and Important Readbacks
+---
 
-Read back items that are critical to safety and controller verification.
+### Comply With ATC — §91.123
 
-These include:
+Under **§91.123**, once an ATC clearance has been accepted, the pilot may not deviate from it except as allowed by the regulation, such as with an amended clearance or an emergency.
 
-- Runway assignments.
-- Runway crossing clearances.
-- Hold-short instructions.
-- Line-up-and-wait instructions.
-- Altitude assignments.
-- Heading or vector assignments.
+The practical lesson is:
+
+**understand before accepting, and clarify before acting.**
+
+### Read Back the Safety-Critical Parts
+
+Read back items where misunderstanding can create an immediate hazard:
+
+- **Runway assignments.**
+- **Hold-short instructions.**
+- **Runway crossing clearances.**
+- **Line-up-and-wait instructions.**
+- **Altitude assignments.**
+- **Heading or vector assignments.**
 - LAHSO clearances when accepted.
 
-Include the aircraft call sign in the readback.
+Include the call sign.
 
-Example:
-
-ATC:
-
-**“Skyhawk 12345, taxi Runway 14 via Alpha, hold short Runway 1.”**
-
-Pilot:
-
-**“Runway 14 via Alpha, hold short Runway 1, Skyhawk 12345.”**
-
-### Readback Is a Cross-Check
-
-A readback is not simply radio etiquette.
-
-It allows:
-
-- Pilot.
-- Controller.
-
-to compare what was issued with what was understood.
+A readback is a **cross-check**.
 
 If ATC corrects the readback:
 
-**accept the correction and restate the clearance correctly.**
+**repeat the corrected clearance.**
 
-### Unable
-
-The pilot may respond:
-
-**“Unable.”**
-
-when an ATC instruction or clearance cannot be safely or legally accepted.
-
-The pilot should then:
-
-- State the limitation when useful.
-- Request an alternative.
-
-Do not accept an unsafe clearance merely because ATC issued it.
+---
 
 ### Frequency Changes
 
-When ATC directs a frequency change:
+When ATC assigns a new frequency:
 
-- Acknowledge.
-- Note the frequency if necessary.
-- Change frequency.
-- Listen before transmitting.
+1. Acknowledge it.
+2. Write it down if needed.
+3. Change frequency.
+4. **Listen before transmitting.**
 
-If the new frequency does not respond:
+If no one responds:
 
 - Verify the frequency.
 - Try again.
 - Return to the previous controller if necessary.
 
-### Appropriate Use of the Transponder
+---
 
-Use the assigned transponder code when ATC provides one.
+### Use the Transponder Correctly — §91.215
 
-Common codes include:
+Use the assigned code when ATC provides one.
 
-- **1200** — VFR when no discrete code is assigned.
-- **7500** — unlawful interference.
-- **7600** — radio communication failure.
-- **7700** — emergency.
+Common codes are:
 
-Use altitude reporting when required.
+- **1200 — VFR**, when no discrete code is assigned.
+- **7500 — unlawful interference.**
+- **7600 — radio communications failure.**
+- **7700 — emergency.**
 
-When ATC says:
+When ATC says **“Squawk IDENT,”** press IDENT once.
 
-**“Squawk ident.”**
+**§91.215** establishes the transponder and altitude-reporting requirements for the applicable airspace and operations.
 
-press IDENT once.
+ADS-B did **not** eliminate the transponder requirement.
 
-### Lost Communication — First Actions
+---
 
-If communication is lost:
+### ADS-B — Surveillance Beyond the Transponder
 
-1. Maintain aircraft control.
-2. Continue navigation.
-3. Troubleshoot the communication system.
-4. Attempt alternate methods of communication.
-5. Use the transponder as appropriate.
-6. Watch for ATC light signals if operating near a towered airport.
+ADS-B and the transponder are related surveillance systems, but they are not the same requirement.
 
-Do not let a radio problem become an aircraft-control problem.
+**ADS-B Out** broadcasts information **from the aircraft** to ATC and other ADS-B users.
 
-### Troubleshooting Communication Failure
+**ADS-B In** receives information **into the cockpit**, such as traffic and available broadcast services.
 
-Check the simple items first:
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/ADSB_How_Works.png" alt="Diagram showing how ADS-B exchanges position information between aircraft and ground stations" loading="lazy">
+    <figcaption>ADS-B — the aircraft determines its position from an approved position source and ADS-B Out broadcasts surveillance information to the system.</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/ADSB_In_Vs_Out.png" alt="Comparison of ADS-B In and ADS-B Out" loading="lazy">
+    <figcaption>ADS-B Out transmits surveillance information; ADS-B In receives traffic and other available information. Only ADS-B Out is mandated by the ADS-B rule.</figcaption>
+</figure>
+
+### ADS-B Out — §91.225 and §91.227
+
+**§91.225** tells us **where ADS-B Out is required and what equipment standard applies**.
+
+ADS-B Out is generally required in:
+
+- **Class A airspace.**
+- **Class B airspace.**
+- **Class C airspace.**
+- Above the ceiling and within the lateral boundaries of Class B or C airspace up to **10,000 feet MSL**.
+- Within the **30 NM Mode C veil** around the listed Class B primary airports.
+- Class E airspace at and above **10,000 feet MSL**, excluding airspace at and below **2,500 feet AGL**.
+- Applicable Class E airspace over the Gulf within the limits specified by the regulation.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/ADSB_Airspace_Requirements.png" alt="ADS-B Out airspace requirements" loading="lazy">
+    <figcaption>ADS-B Out rule airspace — use §91.225 and current FAA guidance for the controlling requirements and exceptions.</figcaption>
+</figure>
+
+#### 1090ES vs. 978 UAT
+
+For **Class A / FL180 and above**:
+
+**1090 MHz Extended Squitter — 1090ES — is required.**
+
+Below 18,000 feet in U.S. ADS-B rule airspace:
+
+- **1090ES**, or
+- **978 MHz UAT**
+
+may satisfy the ADS-B Out rule when properly installed and compliant.
+
+A 978 UAT installation therefore does **not** satisfy the Class A requirement.
+
+### ADS-B In Is Optional
+
+The ADS-B rule mandates **ADS-B Out**, not ADS-B In.
+
+ADS-B In is valuable for receiving:
+
+- Traffic.
+- Weather and aeronautical information when available through the applicable system.
+
+But a portable ADS-B receiver in the cockpit does **not** satisfy an ADS-B Out requirement.
+
+### Why the Position Source Matters — §91.227
+
+**§91.227** establishes the ADS-B Out performance and broadcast requirements.
+
+The installed ADS-B Out system needs a compliant position source capable of meeting the required:
+
+- Accuracy.
+- Integrity.
+- Velocity.
+- Latency.
+- System-assurance performance.
+
+That is why:
+
+**a tablet or consumer GPS does not turn a noncompliant ADS-B Out installation into a compliant one.**
+
+The position source must be part of the compliant aircraft installation.
+
+### ADS-B Operating Requirement
+
+For an aircraft equipped with ADS-B Out, **§91.225 generally requires the equipment to operate in transmit mode at all times**, subject to the exceptions in the regulation.
+
+If ADS-B Out is inoperative or the aircraft is not equipped and an operation in rule airspace is desired:
+
+follow the ATC authorization provisions of **§91.225**.
+
+---
+
+### If Communication Is Lost
+
+If the radio stops working, do not let the communication problem become an aircraft-control problem.
+
+Use the same priority every time:
+
+1. **Fly the airplane.**
+2. Continue navigating.
+3. Troubleshoot.
+4. Try alternate communication methods.
+5. Use the transponder appropriately.
+6. Watch for light-gun signals near a towered airport.
+
+### Troubleshoot the Simple Things First
+
+Check:
 
 - Correct frequency.
 - Volume.
 - Squelch.
-- Audio panel.
+- Audio-panel selection.
 - Headset plugs.
-- Microphone or push-to-talk.
-- Radio selection.
-- Circuit breaker only as permitted by the aircraft procedure.
+- Microphone / push-to-talk.
+- Correct radio selected.
 - Electrical-system status.
 
 Try:
 
 - Another radio.
 - Another headset.
-- Another frequency.
-- 121.5 MHz.
+- Previous frequency.
+- **121.5 MHz Guard.**
 
-If receiving but unable to transmit:
+Use circuit breakers only in accordance with the aircraft procedure.
 
-ATC may be able to give instructions and ask for:
-
-- IDENT.
-- Specific transponder codes.
-- Predictable aircraft actions.
-
-### Transponder Code for Lost Communications
-
-If two-way communications cannot be restored:
+If two-way communication cannot be restored:
 
 **squawk 7600.**
 
-This alerts ATC to the communication failure.
+If you can receive but cannot transmit, continue listening. ATC may use:
 
-### 121.5 MHz
+- IDENT.
+- Transponder codes.
+- Predictable aircraft actions.
 
-121.5 MHz is the emergency frequency.
+to communicate indirectly.
 
-If normal communications fail:
+---
 
-attempt contact on 121.5 when appropriate.
+### Light-Gun Signals — §91.125
 
-Other aircraft or ATC facilities may relay the message.
+Near a towered airport, ATC can communicate with an aircraft using light signals when radio communication is unavailable.
 
-### ATC Light Signals — 14 CFR §91.125
+Under **§91.125**, the meaning depends on whether the aircraft is **in flight or on the ground**.
 
-A tower can communicate with an aircraft using a light gun when radio communication is unavailable.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Light_Gun_Signals.png" alt="FAA ATC light gun signal chart" loading="lazy">
+    <figcaption>ATC light-gun signals — distinguish the meaning for an aircraft on the ground from the meaning in flight.</figcaption>
+</figure>
 
-The meaning depends on whether the airplane is:
+### Know the Signals
 
-- In flight.
-- On the ground.
+**Steady green**
+- In flight → **cleared to land**
+- On ground → **cleared for takeoff**
 
-### Steady Green
+**Flashing green**
+- In flight → **return for landing**
+- On ground → **cleared to taxi**
 
-**In flight:**
-- Cleared to land.
+**Steady red**
+- In flight → **give way and continue circling**
+- On ground → **stop**
 
-**On the ground:**
-- Cleared for takeoff.
+**Flashing red**
+- In flight → **airport unsafe; do not land**
+- On ground → **taxi clear of runway in use**
 
-### Flashing Green
+**Flashing white**
+- On ground → **return to starting point on airport**
+- No normal airborne meaning in the standard table
 
-**In flight:**
-- Return for landing.
-- A steady green will normally follow when cleared to land.
+**Alternating red and green**
+- In flight or on ground → **exercise extreme caution**
 
-**On the ground:**
-- Cleared to taxi.
+Light signals communicate only a limited message. They do not replace traffic, runway, or pattern awareness.
 
-### Steady Red
+---
 
-**In flight:**
-- Give way to other aircraft and continue circling.
+### Use Radar Assistance Early
 
-**On the ground:**
-- Stop.
+ATC radar can assist a VFR pilot with:
 
-### Flashing Red
-
-**In flight:**
-- Airport unsafe.
-- Do not land.
-
-**On the ground:**
-- Taxi clear of the runway in use.
-
-### Flashing White
-
-**On the ground:**
-- Return to the starting point on the airport.
-
-There is no normal airborne meaning for flashing white in the standard light-gun table.
-
-### Alternating Red and Green
-
-**In flight or on the ground:**
-- Exercise extreme caution.
-
-### Acknowledging Light Signals
-
-During daylight, an aircraft in flight may acknowledge by:
-
-- Rocking the wings.
-
-On the ground, acknowledge as appropriate without creating a hazard.
-
-At night, acknowledgement may be made by:
-
-- Flashing landing lights.
-- Flashing navigation lights.
-
-The priority remains safe aircraft control.
-
-### Limitations of Light Signals
-
-Light signals are limited because they cannot communicate:
-
-- Complex instructions.
-- Explanations.
-- Detailed sequencing.
-
-The pilot still needs to:
-
-- Observe traffic.
-- Understand the airport flow.
-- Maintain situational awareness.
-
-### Radio Failure Near a Towered Airport
-
-If airborne and unable to communicate:
-
-- Determine runway and traffic flow.
-- Remain predictable.
-- Watch the tower for light signals.
-- Maintain visual separation.
-- Enter the pattern only when safe.
-
-If conditions or airport complexity make this unsafe:
-
-consider diverting to a suitable nontowered airport.
-
-### Radar Assistance
-
-ATC radar may assist a VFR pilot with:
-
-- Position identification.
-- Traffic advisories.
-- Vectors.
-- Assistance to an airport.
-- Emergency support.
+- **Position identification.**
+- **Traffic advisories.**
+- **Vectors.**
+- **Assistance toward an airport.**
+- **Emergency support.**
 
 If lost or uncertain of position:
 
 **ask early.**
 
-Do not wait until fuel, weather, or terrain turns uncertainty into an emergency.
+Do not wait until fuel, weather, terrain, or workload turns uncertainty into an emergency.
 
-### Declaring an Emergency
+---
 
-A pilot should declare an emergency when immediate assistance or priority is needed.
+### Know When to Declare an Emergency
+
+Communication problems do not automatically require an emergency declaration.
+
+The question is:
+
+**“Do I need priority or assistance to protect the flight?”**
 
 Examples may include:
 
-- Lost communications in difficult conditions.
-- Lost or disoriented flight near terrain or weather.
+- Lost or disoriented near terrain or weather.
+- Communications failure combined with deteriorating conditions.
 - Mechanical problem.
 - Fuel emergency.
 - Medical issue.
 
-Early declaration preserves options.
+If immediate assistance or priority is needed:
 
-Do not delay because of embarrassment or concern about paperwork.
+**declare early enough for ATC to help.**
 
-### Runway Status Light System
+---
 
-Runway Status Lights are automated red in-pavement lights that warn pilots and vehicle operators when a runway operation is unsafe.
+### Runway Status Lights
 
-The system uses airport surveillance information and activates independently of a controller's spoken clearance.
+**Runway Status Lights (RWSL)** are automated red in-pavement lights that warn when a runway is unsafe to enter, cross, or use for takeoff.
 
-The two primary components are:
+The system operates independently of a controller's spoken clearance.
 
-- **Runway Entrance Lights — REL**
-- **Takeoff Hold Lights — THL**
+The two components are:
 
-### Runway Entrance Lights
+- **RELs — Runway Entrance Lights**
+- **THLs — Takeoff Hold Lights**
 
-RELs are red in-pavement lights installed at runway entrances and crossings.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Runway_Status_Light_System.png" alt="FAA Runway Status Light system showing RELs and THLs" loading="lazy">
+    <figcaption>Runway Status Light System — RELs protect runway entrances and crossings; THLs protect aircraft positioned for takeoff.</figcaption>
+</figure>
 
-When illuminated, they indicate:
+### Runway Entrance Lights — RELs
 
-**it is unsafe to enter or cross the runway.**
+If the red RELs are illuminated:
 
-If the pilot has an ATC clearance but the RELs are illuminated:
+**STOP and remain clear of the runway.**
 
-- Stop.
-- Remain clear of the runway when possible.
-- Contact ATC and resolve the conflict.
+If an ATC clearance conflicts with the lights:
 
-Do not assume the clearance overrides the red lights.
+**do not cross the red lights — contact ATC and resolve the conflict.**
 
-### Takeoff Hold Lights
+### Takeoff Hold Lights — THLs
 
-THLs are red in-pavement lights visible to an aircraft positioned for departure.
+If THLs are illuminated while stopped:
 
-When illuminated, they indicate:
+**remain stopped and contact ATC.**
 
-**it is unsafe to begin or continue the takeoff because another aircraft or vehicle is occupying or about to occupy the runway.**
+If THLs illuminate after the takeoff roll has begun:
 
-If THLs illuminate before takeoff:
+**stop if safely feasible; if stopping is impractical, use best judgment and advise ATC as soon as possible.**
 
-- Remain stopped.
+### Lights Out Does Not Mean Cleared
 
-If they illuminate after the takeoff roll has begun:
+**Red means stop — but lights going out do not mean go.**
 
-- Use best judgment.
-- Stop if safely feasible.
-- Contact ATC.
-
-### Runway Status Lights Are Not a Clearance
-
-When RELs or THLs extinguish:
-
-**that does not constitute an ATC clearance.**
-
-The pilot still needs the appropriate ATC clearance to:
+When RELs or THLs extinguish, the pilot still needs the appropriate ATC clearance to:
 
 - Enter.
 - Cross.
 - Take off.
 
-The lights are an independent warning system.
+At RWSL-equipped airports, operate the transponder **ON with altitude reporting enabled** on taxiways and runways so the surveillance system can detect the aircraft.
 
-### Runway Edge Lights
-
-Runway edge lights identify the runway edges during darkness and reduced visibility.
-
-They are normally:
-
-**white.**
-
-On instrument runways:
-
-the final portion may show **yellow** edge lights as a caution that the runway end is approaching.
-
-### Threshold and Runway-End Lights
-
-Threshold and runway-end fixtures are directional.
-
-From the approach side:
-
-**green** identifies the runway threshold.
-
-From the runway looking toward the end:
-
-**red** identifies the runway end.
-
-### Runway Centerline Lights
-
-Runway centerline lights are white over most of the runway.
-
-Near the departure end:
-
-- White begins alternating with red.
-- The final portion becomes all red.
-
-This gives the pilot a visual indication of remaining runway.
-
-### Touchdown Zone Lights
-
-Touchdown-zone lights are white lights arranged on both sides of the runway centerline near the touchdown area.
-
-They improve:
-
-- Runway definition.
-- Depth perception.
-- Touchdown-zone identification.
-
-especially in reduced visibility.
-
-### Approach Lighting
-
-Approach lighting helps the pilot transition from:
-
-- Instrument references.
-- To the visual runway environment.
-
-The installed system varies by runway.
-
-This Task does not require memorizing every approach-light configuration.
-
-The pilot should recognize the system shown in the applicable chart and airport information.
-
-### VASI and PAPI
-
-Visual glidepath systems provide descent guidance.
-
-A typical **VASI** indication is:
-
-- White over white — high.
-- Red over white — on glidepath.
-- Red over red — low.
-
-A typical four-light **PAPI** indication is:
-
-- Four white — high.
-- Three white / one red — slightly high.
-- Two white / two red — on glidepath.
-- One white / three red — slightly low.
-- Four red — low.
+---
 
 ### Communication Risk Management
 
-Communication failures often begin before the radio actually fails.
+Most communication errors are not caused by total radio failure.
 
-Risks include:
+They begin with:
 
 - Wrong frequency.
 - Stepped-on transmission.
 - Similar call signs.
 - Expectation bias.
-- Failure to hear a clearance change.
+- Missed clearance change.
 - Incorrect readback.
 - Failure to challenge an unclear instruction.
 
-Mitigation includes:
+Mitigate them by:
 
-- Listen first.
-- Use the aircraft call sign.
+- **Listen first.**
+- Use the correct call sign.
 - Read back critical items.
-- Ask for clarification.
 - Write down complex clearances.
+- Ask for clarification.
 - Keep radio work secondary to aircraft control.
 
-### Similar Call Signs
+If similar call signs are on frequency:
 
-When aircraft on the same frequency have similar call signs:
+**do not act unless you are certain the clearance was intended for you.**
 
-- Listen closely.
-- Use the full call sign when necessary.
-- Do not act on a clearance unless you are certain it was intended for you.
-
-If uncertain:
-
-**verify with ATC.**
+---
 
 ### Common Errors
 
-Common errors include:
-
-- Using the wrong frequency.
+- Confusing **CTAF** with **UNICOM**.
+- Confusing an **RCO** with the Flight Service facility itself.
+- Selecting the wrong frequency.
 - Transmitting without listening first.
 - Poor microphone technique.
 - Omitting aircraft identification.
-- Nonstandard or ambiguous phraseology.
-- Failing to read back a hold-short instruction.
-- Reading back an incorrect runway or altitude.
+- Using ambiguous phraseology.
+- Failing to read back a hold-short or runway crossing instruction.
 - Acting on a clearance intended for another aircraft.
-- Failing to ask for clarification.
+- Failing to say **“unable”** when necessary.
 - Improper transponder use.
-- Forgetting 7600 during communication failure.
-- Not troubleshooting simple equipment issues.
+- Confusing **ADS-B In** with required **ADS-B Out**.
+- Assuming a portable GPS or ADS-B receiver satisfies §91.227.
+- Forgetting **7600** during a communications failure.
+- Failing to try **121.5** when appropriate.
 - Misinterpreting light-gun signals.
-- Crossing an illuminated REL.
-- Beginning takeoff with illuminated THLs.
-- Treating extinguished runway status lights as an ATC clearance.
-- Delaying an emergency declaration.
+- Crossing illuminated **RELs**.
+- Beginning takeoff with illuminated **THLs**.
+- Treating extinguished RWSL as a clearance.
+- Waiting too long to ask for radar assistance or declare an emergency.
 
-### ACS Standards — Communications, Light Signals, and Runway Lighting Systems
+---
 
-The applicant should be able to teach:
+### ACS Coverage — Area VI, Task A
 
-- How to obtain appropriate radio frequencies.
-- Proper radio procedures and ATC phraseology.
-- ATC light-signal recognition.
-- Appropriate transponder use.
-- Lost-communication procedures.
-- Equipment issues that can cause communication loss.
-- Radar assistance.
-- Runway Status Lighting Systems.
-- Common errors.
+**Knowledge**
 
-The applicant should manage risks associated with:
+- **AI.VI.A.K1 — Obtain appropriate radio frequencies:** sectional/TAC, Chart Supplement, airport diagram, EFB, tower, CTAF, UNICOM, FSS/RCO, and Guard.
+- **AI.VI.A.K2 — Proper radio communication procedures and ATC phraseology:** AIM Chapter 4 Section 2, initial contact, nontowered procedures, standard terminology, readbacks, frequency changes, clarification, and compliance.
+- **AI.VI.A.K3 — ATC light-signal recognition:** all standard ground and airborne light-gun meanings.
+- **AI.VI.A.K4 — Appropriate transponder use:** assigned codes, 1200/7500/7600/7700, IDENT, §91.215, and relationship to ADS-B Out.
+- **AI.VI.A.K5 — Lost-communication procedures:** aircraft control, troubleshooting, alternate radios/frequencies, Guard, 7600, and light signals.
+- **AI.VI.A.K6 — Equipment issues causing communication loss:** frequency, volume, squelch, audio panel, headset, PTT, radio selection, and electrical status.
+- **AI.VI.A.K7 — Radar assistance:** position identification, traffic advisories, vectors, airport assistance, and emergency support.
+- **AI.VI.A.K8 — Runway Status Lighting Systems:** RELs, THLs, pilot response, transponder use at equipped airports, and the fact that extinguished lights are not a clearance.
+- **AI.VI.A.K9 — Common errors:** addressed throughout and summarized above.
 
-- Communication.
-- Deciding whether and when to declare an emergency.
+**Risk Management**
 
-The applicant should be able to:
+- **AI.VI.A.R1 — Communication:** prevent misunderstanding through correct facility/frequency selection, clear phraseology, readback, call-sign discipline, and clarification.
+- **AI.VI.A.R2 — Deciding whether and when to declare an emergency:** request assistance or declare when the situation requires priority rather than allowing it to deteriorate.
 
-- Select and activate appropriate frequencies.
-- Transmit using standard phraseology.
-- Acknowledge communications.
-- Comply with ATC instructions.
-- Analyze and correct common errors.
+**Skills**
 
-### Instructor Demonstration
+- **AI.VI.A.S1 — Select and activate appropriate frequencies.**
+- **AI.VI.A.S2 — Transmit using standard AIM / Pilot-Controller Glossary phraseology.**
+- **AI.VI.A.S3 — Acknowledge communications and comply with ATC instructions.**
+- **AI.VI.A.S4 — Analyze and correct common communication errors.**
 
-Have the learner practice:
+### References
 
-- Finding frequencies on the airport diagram and Chart Supplement.
-- Making an initial ground call.
-- Reading back a taxi clearance with a hold-short instruction.
-- Making a tower takeoff call.
-- Making a CTAF arrival call.
-- Responding to a frequency change.
-- Correcting an inaccurate readback.
-- Explaining all light-gun signals.
-- Explaining REL and THL indications.
-- Walking through a lost-communications scenario.
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VI, Task A.
+- FAA Aeronautical Information Manual:
+    - Chapter 4, Section 1 — Services Available to Pilots.
+    - Chapter 4, Section 2 — Radio Communications Phraseology and Techniques.
+    - Traffic Advisory Practices at Airports Without Operating Control Towers.
+    - ATC Light Signals and Runway Status Lights.
+- FAA Pilot/Controller Glossary — CTAF, UNICOM, RCO.
+- FAA Chart User's Guide and Chart Supplement.
+- FAA Runway Status Lights Pilot Reference Guide.
+- FAA ADS-B guidance.
+- **14 CFR §91.3** — Responsibility and authority of the PIC.
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions.
+- **14 CFR §91.125** — ATC light signals.
+- **14 CFR §91.215** — ATC transponder and altitude-reporting equipment and use.
+- **14 CFR §91.225** — ADS-B Out equipment and use.
+- **14 CFR §91.227** — ADS-B Out equipment performance requirements.
 
-### Completion Standard
-
-The learner can communicate clearly and correctly while:
-
-- Selecting the proper frequency.
-- Using standard phraseology.
-- Understanding and reading back critical clearances.
-- Complying with ATC instructions.
-- Using the transponder correctly.
-- Recognizing and responding to light-gun signals.
-- Troubleshooting and managing lost communications.
-- Recognizing REL and THL warnings.
-- Declaring an emergency when appropriate.
-
-
-
-Teach communications element by element, in the ACS order: obtaining the frequencies, the phraseology, the light signals, the transponder, lost communications, the equipment issues, radar assistance, the runway status lights, and the common errors. The Overview maps the ACS knowledge, risk, and skill elements; the sections below teach each Knowledge element once, in order.
 
 ## AI.VI.A.K1 — Obtaining the Appropriate Radio Frequencies
 

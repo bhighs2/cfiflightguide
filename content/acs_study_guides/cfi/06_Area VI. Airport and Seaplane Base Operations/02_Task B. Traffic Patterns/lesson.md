@@ -151,742 +151,505 @@ Fly - Navigate - Communicate. Keep looking outside. If spacing or the approach i
 
 ### Purpose
 
-The traffic pattern creates a predictable flow of aircraft to and from the runway.
+**The traffic pattern exists to make airport operations predictable.**
 
-The pattern only works when pilots:
+This lesson should tell one simple story:
 
-- Use the correct runway and traffic direction.
-- Enter and depart predictably.
-- Maintain the published traffic pattern altitude.
-- Correct for wind to maintain the proper ground track.
-- Maintain spacing and see-and-avoid.
-- Follow ATC instructions or recommended nontowered procedures.
-- Go around rather than force an unsafe sequence.
+1. **Arrive prepared.**
+2. **Figure out the runway, pattern direction, weather, and traffic flow.**
+3. **Enter the pattern predictably.**
+4. **Fly a consistent, wind-corrected ground track.**
+5. **Maintain spacing, right-of-way, and see-and-avoid.**
+6. **Manage wake turbulence, windshear, and other low-altitude risks.**
+7. **Go around any time the pattern is no longer working.**
 
-The instructor should teach the learner to understand the pattern as a **ground track around the runway**, not merely a set of headings.
+The student should leave understanding that the traffic pattern is not just a set of headings. It is a **predictable ground track around a runway** that must be adjusted for **wind, traffic, and safety**.
 
-### Pattern Preparation
+---
 
-Before arrival or departure, determine:
+### Start Before You Ever Reach the Airport
 
-- Runway in use.
-- Traffic pattern direction.
-- Traffic pattern altitude.
-- Wind.
-- Airport elevation.
-- Tower status.
-- CTAF or tower frequency.
-- NOTAMs.
-- Special procedures.
-- Other traffic.
+**A good traffic pattern starts before you enter it.**
+
+Before arrival, I want to know enough about the airport that I am not trying to figure everything out while mixing with traffic.
+
+Under **§91.103**, the PIC is responsible for becoming familiar with the available information for the flight. For an airport arrival, that means I want to know the **runway, wind, temperature, altimeter setting, airport elevation, traffic pattern altitude, pattern direction, tower status, frequency, NOTAMs, and any special procedures** before I join the pattern.
+
+I can get that information from the **Chart Supplement, airport diagram, sectional or EFB, NOTAMs, and the airport weather source**.
+
+#### ATIS, AWOS, and ASOS
+
+At a towered airport, I will often start with **ATIS**. ATIS packages the current airport information into one broadcast and may include the **wind, runway in use, altimeter, weather, and operational remarks**.
+
+At other airports I may have **AWOS or ASOS**. Those are automated weather systems that give me the local weather observation—most importantly here, the **wind, temperature, altimeter, and available ceiling or visibility information**.
+
+So before I enter the pattern, I should already have a mental picture of what I expect to see.
+
+Then I confirm it visually.
+
+**The broadcast tells me what was reported; the windsock and traffic tell me what is actually happening when I arrive.**
+
+---
+
+### Determine the Wind and Runway
+
+Once you have airport information, the next question is:
+
+**Which runway and which traffic pattern make sense for the current conditions?**
+
+Look at the wind first. Wind affects:
+
+- Runway selection
+- Traffic pattern entry
+- Wind correction on every leg
+- Crosswind control
+- Wake drift
+- Pattern spacing
+
+Visual wind indicators may include:
+
+- **Windsock or wind cone**
+- **Wind tee**
+- **Tetrahedron**
+- **Segmented circle**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Airport_Wind_Identification.png" alt="Airport wind identification using a windsock, tetrahedron, and wind tee" loading="lazy">
+    <figcaption>Airport wind identification — use visual indicators to confirm wind direction and runway selection.</figcaption>
+</figure>
+
+Teach the student not to rely on one source alone. A windsock may differ from the last broadcast. Traffic may also reveal what runway is actually being used.
+
+---
+
+### Determine the Pattern Direction
+
+The default pattern direction is usually **left traffic**, but do not let the student turn that into a blind assumption.
+
+At an airport without an operating control tower:
+
+- **§91.126(b)(1)** — Class G: make **left turns** unless visual markings indicate right traffic.
+- **§91.127(b)(1)** — Class E surface area: same basic rule.
+
+At towered airports or in controlled airspace:
+
+- **§91.129**, **§91.130**, and **§91.131** require compliance with the traffic pattern established by ATC.
+
+So the practical rule is:
+
+**Left traffic unless published, marked, or assigned otherwise.**
 
 Use:
 
-- Chart Supplement.
-- Airport diagram.
-- Sectional or EFB.
-- ATIS, ASOS, or AWOS.
-- NOTAMs.
-- Visual wind indicators.
+- **Chart Supplement**
+- **Segmented circle / traffic pattern indicators**
+- **Airport markings**
+- **ATC instructions**
+- **Observed traffic**
 
-Do not arrive at the airport and begin deciding these items while already entering the traffic flow.
+---
+
+### Know the Shape of the Pattern
+
+Once I know the runway and pattern direction, I can picture the pattern around the runway.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Traffic_Pattern.png" alt="Left-hand and right-hand traffic patterns showing pattern legs" loading="lazy">
+    <figcaption>Traffic pattern overview — know the standard rectangular flow and whether the airport uses left or right traffic.</figcaption>
+</figure>
+
+I take off on the **departure leg**, turn **crosswind**, then fly **downwind** parallel to the runway in the opposite direction of landing. From there I turn **base**, then **final** back toward the runway.
+
+An **upwind leg** is different from the departure leg. Upwind is a separate leg flown parallel to the runway in the landing direction, generally on the opposite side from downwind.
+
+That distinction matters because I want the learner using the same language as the FAA and other pilots.
+
+---
+
+### Fly the Pattern by Ground Track, Not Heading
+
+This is the core flying lesson.
+
+**The goal is not to fly perfect headings. The goal is to fly the correct ground track.**
+
+Wind changes what heading is required on each leg. If the pilot flies fixed headings without correcting for drift:
+
+- downwind will not stay parallel,
+- base will not stay perpendicular,
+- final will not stay aligned,
+- spacing will fall apart.
+
+Teach it this way:
+
+- On **crosswind**, maintain a track roughly perpendicular to the runway.
+- On **downwind**, maintain a track parallel to the runway and proper lateral spacing.
+- On **base**, adjust for wind so the turn to final works.
+- On **final**, maintain runway centerline with proper crosswind correction.
+
+The student needs to see that **wind correction preserves the pattern**.
+
+---
 
 ### Traffic Pattern Altitude
 
-Use the **published traffic pattern altitude** when one is available.
+**Traffic pattern altitude is part of pattern discipline.**
 
-Traffic pattern altitude is normally expressed in:
+Use the published traffic pattern altitude whenever available. It is commonly published in **feet AGL**, while the altimeter reads **MSL**.
 
-**feet AGL**
+So the pilot must convert it correctly by adding airport elevation.
 
-but the altimeter displays:
+A common light-airplane traffic pattern altitude is approximately **1,000 feet AGL**, but that is only a general rule. Published airport information controls.
 
-**feet MSL.**
+The ACS tolerances are:
 
-Convert the published pattern height to the indicated altitude by adding airport elevation.
+- **Altitude: ±100 feet**
+- **Airspeed: ±10 knots**
 
-A common FAA recommendation for light airplanes is approximately:
+---
 
-**1,000 feet AGL**
+### Enter the Pattern Predictably
 
-unless otherwise established.
+Now that I know the pattern, I need to join it without surprising anyone.
 
-Published airport information controls.
+At a nontowered airport, the normal FAA-recommended entry is **45 degrees to the midfield downwind at traffic pattern altitude**.
 
-### Pattern Direction
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/TPA_Preferred_Entry.png" alt="Preferred traffic pattern entry at traffic pattern altitude using a 45-degree entry to downwind" loading="lazy">
+    <figcaption>Preferred pattern entry — approach clear of the pattern, descend outside it if needed, and enter on a 45° to midfield downwind at TPA.</figcaption>
+</figure>
 
-Under **14 CFR §91.126(b)(1)**, when approaching to land at an airport without an operating control tower in Class G airspace, turns are made to the **left** unless visual markings indicate that turns should be made to the right.
+The important idea is that I **join the flow; I do not drop into it**.
 
-Similar airport-vicinity operating rules apply in controlled airspace under the applicable Part 91 sections.
+If I arrive from the opposite side of the airport, I stay clear of pattern traffic, observe the airport, descend **outside the pattern**, and then join the 45 at TPA.
 
-Pattern direction may also be established by:
+If I am at a towered airport, ATC may put me on any leg that works for the sequence. I follow that instruction unless I cannot do it safely—in that case, I say **unable**.
 
-- Chart Supplement.
-- Segmented circle.
-- Traffic-pattern indicators.
-- ATC instructions.
+Either way, the goal is the same:
 
-Never assume every runway uses left traffic.
+**be predictable and blend with the traffic already there.**
 
-### Pattern Legs
+---
 
-A standard rectangular traffic pattern consists of:
+### Communications in the Pattern
 
-- Departure.
-- Crosswind.
-- Downwind.
-- Base.
-- Final.
+**The radio supports the pattern. It does not replace see-and-avoid.**
 
-An **upwind leg** is a separate leg flown parallel to the landing runway in the direction of landing, generally on the opposite side of the runway from downwind.
+At nontowered airports, use the published **CTAF** and follow FAA-recommended communication practices.
 
-The takeoff path immediately after liftoff is the **departure leg**.
+Typical self-announces include:
 
-### Departure Leg
+- before taxi,
+- before taxiing onto the runway,
+- about **10 miles out** inbound,
+- entering downwind,
+- base,
+- final,
+- leaving the runway.
 
-The departure leg begins after takeoff and continues along the extended runway centerline.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Recommended_Communication_Procedures.png" alt="FAA recommended communication procedures for nontowered airports" loading="lazy">
+    <figcaption>Recommended communication procedures — use CTAF to improve awareness, but do not confuse radio calls with separation.</figcaption>
+</figure>
 
-Maintain:
+At towered airports:
 
-- Runway alignment.
-- Appropriate climb speed.
-- Traffic awareness.
-- Wind correction as needed.
+- obtain the ATIS if available,
+- contact the proper ATC facility,
+- comply with clearances and sequencing,
+- read back safety-critical instructions.
 
-If remaining in the traffic pattern:
+The pattern still depends on **visual scanning and judgment**.
 
-- Continue beyond the departure end.
-- Turn crosswind when clear and appropriate.
-- Do not make an early turn that creates a conflict with traffic or the runway environment.
+---
 
-If departing the pattern:
+### Build and Protect Your Spacing
 
-- Follow the published or ATC-directed procedure.
-- At a nontowered airport, normally continue straight out or depart with an appropriate 45-degree turn in the direction of the pattern after reaching a safe altitude.
+Once I am established in the pattern, my next job is to protect my spacing.
 
-### Crosswind Leg
+I need enough room for the aircraft ahead to **land, clear the runway, or go around without forcing me into an unsafe sequence**.
 
-The crosswind leg is approximately perpendicular to the runway.
+If I am getting too close, I can:
 
-Its purpose is to transition from the departure leg to downwind.
+- extend downwind,
+- reduce speed when appropriate,
+- or go around and resequence.
 
-Correct for wind so the **ground track** remains approximately perpendicular to the runway.
+What I do **not** do is compress my pattern just because somebody behind me is faster or impatient.
 
-The crosswind turn should be made:
+**My spacing decision is based on the traffic ahead, not pressure from the traffic behind.**
 
-- After the airplane is safely beyond the departure end.
-- When traffic permits.
-- Without rushing to reach downwind.
+---
 
-### Downwind Leg
+### Right-of-Way Rules
 
-The downwind leg is flown:
+**Right-of-way matters, but it does not excuse poor judgment.**
 
-- Parallel to the runway.
-- Opposite the direction of landing.
-- At traffic pattern altitude until the planned descent point.
-
-Downwind is the primary planning leg.
-
-Use it to:
-
-- Identify traffic.
-- Establish spacing.
-- Complete the before-landing checklist.
-- Configure according to the POH and local training procedure.
-- Decide where the base turn should occur.
-
-Maintain a ground track parallel to the runway.
-
-Wind may require a crab toward or away from the runway.
-
-### Base Leg
-
-The base leg is approximately perpendicular to the runway.
-
-The base turn is adjusted for:
-
-- Wind.
-- Traffic.
-- Spacing.
-- Aircraft performance.
-
-A strong tailwind on base can rapidly carry the airplane through final.
-
-Recognize that setup early.
-
-Do not attempt to save an overshoot with:
-
-- Excessive bank.
-- Inside rudder.
-- A skidding turn.
-
-If the turn to final is no longer working:
-
-**go around.**
-
-### Final Approach
-
-Final is flown:
-
-- Aligned with the runway.
-- At the appropriate airspeed.
-- On a stable descent path.
-- With required landing configuration complete.
-
-Correct for crosswind while maintaining the runway centerline.
-
-The approach should be stabilized early enough that the pilot is not making large corrections close to the ground.
-
-### Wind Correction
-
-The goal is a rectangular **ground track**, not a rectangular series of headings.
-
-Wind affects each leg differently.
-
-On:
-
-- **Crosswind:** crab to remain perpendicular to the runway.
-- **Downwind:** crab to remain parallel.
-- **Base:** compensate for drift toward or away from final.
-- **Final:** maintain the extended centerline.
-
-The stronger the wind:
-
-the greater the difference between aircraft heading and ground track.
-
-### Pattern Spacing
-
-Maintain enough spacing that the aircraft ahead can:
-
-- Complete its landing.
-- Clear the runway.
-- Go around if necessary.
-
-Do not compress the pattern simply because another airplane is behind you.
-
-Spacing may be increased by:
-
-- Extending downwind.
-- Reducing speed when appropriate.
-- Going around.
-- Leaving and reentering the pattern if necessary.
-
-At a towered airport:
-
-follow ATC instructions.
-
-At a nontowered airport:
-
-coordinate visually and by CTAF while maintaining see-and-avoid.
-
-### Right-of-Way — 14 CFR §91.113
-
-Right-of-way rules apply in the pattern.
-
-Important principles include:
+Under **14 CFR §91.113**:
 
 - Aircraft in distress have priority.
-- When converging at approximately the same altitude, the aircraft to the other's right has right-of-way, subject to category priorities.
-- Head-on aircraft alter course to the right.
+- Converging aircraft: the aircraft to the other’s **right** generally has right-of-way, subject to category priorities.
+- Head-on aircraft alter course to the **right**.
 - An overtaking aircraft keeps clear.
-- Aircraft on final approach to land or while landing have right-of-way over other aircraft in flight or operating on the surface.
+- Aircraft on **final** or while **landing** have right-of-way over other aircraft in flight or on the surface.
+- When two or more aircraft are approaching to land, the lower aircraft generally has right-of-way, **but it may not cut in front of another aircraft on final**.
 
-When two or more aircraft are approaching to land:
+Teach the student this practical summary:
 
-the aircraft at the lower altitude generally has right-of-way.
+**Right-of-way rules help decision-making, but they do not permit creating a collision hazard.**
 
-But:
+---
 
-**a pilot may not use the lower-aircraft rule to cut in front of another aircraft on final.**
+### Collision Risk in the Pattern
 
-Right-of-way never justifies creating a collision hazard.
+The pattern is a high-collision-risk environment because many airplanes are converging at low altitude while pilots are also changing configuration, talking on the radio, and preparing to land.
 
-### See and Avoid
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Midair_Collisions_Distribution.png" alt="Distribution of midair collisions in the airport traffic pattern" loading="lazy">
+    <figcaption>Pattern collision risk — many midair collisions occur on final and near the runway, but downwind and short final are also significant conflict points.</figcaption>
+</figure>
 
-Even when ATC is providing sequencing:
+So my scan gets more deliberate at the places traffic tends to converge:
 
-**the pilot remains responsible for seeing and avoiding other aircraft when operating VFR.**
+**entry, crosswind-to-downwind, base-to-final, final, and the go-around path.**
 
-Use:
+Before every turn, I clear the area first.
 
-- Continuous visual scanning.
-- Radio calls.
-- ADS-B traffic when available.
-- ATC traffic advisories when available.
+And I never assume an airplane is where its last radio call said it was.
 
-These aids support the visual scan.
+**The radio helps me find traffic; my eyes keep me from hitting it.**
 
-They do not replace it.
+---
 
-### Towered Airport Operations
+### Towered vs. Nontowered Pattern Operations
 
-At a towered airport:
+At a **towered airport**, the pattern is controlled and sequenced by ATC. The pilot still needs to:
 
-- Obtain ATIS when available.
-- Establish the required communications.
-- Follow the assigned runway and pattern entry.
-- Comply with ATC sequencing and instructions.
-- Read back required instructions.
-- Ask when an instruction is unclear.
+- maintain runway orientation,
+- scan for traffic,
+- comply with instructions,
+- and refuse unsafe or impossible instructions.
 
-ATC may direct the pilot to:
+At a **nontowered airport**, the pilot must:
 
-- Enter a specific leg.
-- Extend downwind.
-- Make short approach.
-- Follow traffic.
-- Make a 360.
-- Go around.
+- determine runway and pattern direction,
+- monitor and use CTAF,
+- enter predictably,
+- conform to traffic already established,
+- and maintain see-and-avoid.
 
-Do not accept or attempt an instruction that cannot be performed safely.
+In both cases:
 
-### Nontowered Airport Operations
+**the pattern is still a flying problem first and a radio problem second.**
 
-At a nontowered airport:
+---
 
-- Review airport information before arrival.
-- Monitor and transmit on CTAF.
-- Observe wind and traffic.
-- Determine the pattern in use.
-- Enter predictably.
-- Conform to traffic already established.
+### Crosswind, Base, and Final Hazards
 
-Radio communication improves awareness.
+This is where the lesson should become very practical.
 
-It does not create separation.
+#### Base-to-Final Overshoot
 
-Aircraft without radios may also be operating.
+A tailwind on base can carry the airplane through final faster than expected.
 
-### Recommended Nontowered Entry
+That is dangerous because it tempts the pilot to “save it” with:
 
-FAA guidance recommends entering the pattern at:
+- excessive bank,
+- inside rudder,
+- or a skidding turn.
 
-**traffic pattern altitude**
+That is how stall-spin accidents happen close to the ground.
 
-and avoiding descent into established traffic.
+The teaching rule is:
 
-When appropriate, the normal entry is:
+**If the turn to final is no longer working, go around. Do not force it.**
 
-**45 degrees to the midfield downwind.**
+#### Unstable Final
 
-Before entering:
+If the student reaches final with:
 
-- Observe traffic.
-- Determine the runway and pattern direction.
-- Establish pattern altitude.
-- Adjust speed to blend with traffic.
+- poor alignment,
+- poor airspeed,
+- excessive sink,
+- poor spacing,
+- or confusion about traffic,
 
-If arriving from the opposite side:
-
-- Cross the airport only when safe and appropriate.
-- Remain well above pattern traffic while observing the airport.
-- Maneuver clear of the pattern.
-- Descend outside the pattern.
-- Join the normal 45-degree downwind entry at pattern altitude.
-
-Do not descend through the traffic pattern.
-
-### Straight-In Approaches at Nontowered Airports
-
-A straight-in approach is not automatically prohibited.
-
-But it should not disrupt aircraft already flying the established pattern.
-
-When pattern traffic exists:
-
-- Monitor the CTAF.
-- Identify the established sequence.
-- Do not force aircraft in the pattern to accommodate a conflicting straight-in.
-
-Predictability and collision avoidance are more important than saving time.
-
-### Automated Weather and Airport Information
-
-Use available:
-
-- ATIS.
-- ASOS.
-- AWOS.
-- Wind information.
-- Airport remarks.
-- NOTAMs.
-
-Use the information to determine:
-
-- Runway.
-- Wind direction and velocity.
-- Gusts.
-- Crosswind.
-- Pattern direction.
-- Airport conditions.
-
-Then verify what is actually happening outside.
-
-Automated information is advisory information.
-
-The wind sock, traffic, runway condition, and actual weather still matter.
-
-### Wind Indicators
-
-Visual indicators may include:
-
-- Windsock.
-- Wind cone.
-- Wind tee.
-- Tetrahedron.
-- Segmented circle.
-
-A tetrahedron primarily indicates:
-
-**landing direction**
-
-and should not be relied upon as the sole wind indicator.
-
-### Runway Orientation
-
-Remain oriented to the runway throughout the pattern.
-
-Useful checks include:
-
-- Departure leg approximately runway heading.
-- Downwind approximately reciprocal runway heading in no wind.
-- Base approximately 90 degrees to the runway in no wind.
-- Final aligned with runway heading.
-
-These are references only.
-
-Wind correction changes the actual heading required.
-
-### Airport Signs, Markings, and Lighting
-
-The ACS requires the applicant to identify and interpret the airport environment.
-
-Before entering the pattern, identify:
-
-- Correct runway.
-- Parallel-runway configuration.
-- Runway markings.
-- Lighting.
-- Taxiways.
-- Hot Spots.
-
-On final:
-
-**verify the landing surface.**
-
-Do not line up with:
-
-- Taxiway.
-- Wrong parallel runway.
-- Road.
-- Wrong airport.
-
-### Collision Hazards
-
-Collision risk is highest where aircraft converge.
-
-Important locations include:
-
-- Pattern entry.
-- Crosswind-to-downwind.
-- Base-to-final.
-- Final approach.
-- Go-around path.
-
-Clear before every turn.
-
-Do not assume traffic is where it last reported.
-
-If traffic position is uncertain:
-
-take the conservative action.
-
-### Distractions and Task Prioritization
-
-The traffic pattern combines:
-
-- Aircraft control.
-- Radio calls.
-- Traffic scan.
-- Checklists.
-- Configuration changes.
-- Wind correction.
-- Spacing decisions.
-
-At low altitude:
-
-**aircraft control and traffic avoidance come first.**
-
-If a radio call or checklist begins to degrade flying:
-
-return attention to the airplane.
-
-Complete landing checks early enough that base and final remain primarily:
-
-- Outside.
-- Stable.
-- Predictable.
-
-### Wake Turbulence
-
-Wake vortices are produced whenever an airplane is generating lift.
-
-The strongest vortices are generally produced by an aircraft that is:
-
-- Heavy.
-- Clean.
-- Slow.
-
-Vortices:
-
-- Trail behind the aircraft.
-- Sink below the generating aircraft.
-- Drift with the wind.
-- Dissipate over time.
-
-### Wake Avoidance — Landing
-
-When landing behind a larger aircraft on the same runway:
-
-- Stay at or above its approach path.
-- Land beyond its touchdown point.
-
-When landing behind a departing larger aircraft:
-
-- Land before its rotation point when safe and practical.
-
-Consider wind direction because wake can drift:
-
-- Across the runway.
-- Onto a parallel runway.
-- Into the final approach path.
-
-### Wake Avoidance — Departure
-
-When departing behind a larger aircraft:
-
-- Rotate before its rotation point.
-- Remain above its climb path.
-- Turn clear of the wake when appropriate.
-
-Do not accept a departure interval or intersection departure that creates an unacceptable wake hazard.
-
-### Windshear
-
-Windshear is a rapid change in:
-
-- Wind direction.
-- Wind speed.
-- Or both.
-
-Low-level windshear is especially hazardous because it can cause abrupt changes in:
-
-- Airspeed.
-- Lift.
-- Flightpath.
-
-Possible sources include:
-
-- Thunderstorms.
-- Microbursts.
-- Fronts.
-- Temperature inversions.
-- Strong winds aloft.
-
-### Microbursts
-
-A microburst can produce:
-
-- Strong downdrafts.
-- Rapid wind-direction changes.
-- Severe performance loss.
-
-A typical encounter may begin with:
-
-- Increasing headwind and performance.
-
-Then transition to:
-
-- Downdraft.
-
-Then:
-
-- Increasing tailwind and rapid performance loss.
-
-At pattern altitude, there may be little room to recover.
-
-Avoid known or suspected microburst activity.
-
-### Windshear Response
-
-If windshear makes the approach unstable:
+the answer is again:
 
 **go around early.**
 
-Use:
+---
 
-- Aircraft POH/AFM procedures.
-- Maximum appropriate power.
-- Appropriate pitch.
-- Configuration specified by the manufacturer.
+### Wake Turbulence
 
-Do not continue an approach simply because the runway is close.
+Once the traffic sequence is working, there is another hazard that may be invisible: **wake turbulence**.
 
-### Go-Around Decision
+The strongest wake normally comes from an airplane that is **heavy, clean, and slow**.
 
-A go-around is appropriate when:
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Wingtip_Vortices.png" alt="Wingtip vortices forming behind an aircraft" loading="lazy">
+    <figcaption>Wake formation — aircraft generating lift create trailing wingtip vortices behind the airplane.</figcaption>
+</figure>
 
-- Spacing becomes unsafe.
-- Runway is occupied.
-- Traffic position is uncertain.
-- Base-to-final overshoot develops.
-- Approach becomes unstable.
-- Windshear is encountered or suspected.
-- Wake turbulence cannot be avoided.
-- ATC directs it.
-- The pilot is uncomfortable with continuing.
+Those vortices:
 
-The decision should be made early.
+- trail behind the aircraft,
+- sink below it,
+- drift with the wind,
+- and dissipate over time.
 
-A go-around is a normal traffic-pattern maneuver.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Trailing_Vortices_Runway.png" alt="Wake turbulence hazard behind a larger aircraft on or near the runway" loading="lazy">
+    <figcaption>Wake hazard near the runway — a following aircraft must avoid the heavier aircraft’s flight path and touchdown / rotation area.</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Wake_Turbulence_Sink_Rate.png" alt="Wake turbulence sink rate and wake avoidance zone" loading="lazy">
+    <figcaption>Wake behavior — trailing vortices sink and drift, so the avoidance strategy is to stay above the larger aircraft’s path and land beyond or rotate before the key point when practical.</figcaption>
+</figure>
+
+The avoidance logic follows directly from how the wake moves.
+
+If I am **landing behind a larger airplane**, I stay **at or above its approach path** and plan to touch down **beyond its touchdown point**.
+
+If I am **departing behind one**, I want to rotate **before its rotation point**, remain **above its climb path**, and move clear of the wake when appropriate.
+
+Then I ask where the wind is carrying the vortices, because wake can drift onto **my final, a parallel runway, or an intersecting runway**.
+
+The rule is not “wait a magic number of seconds.”
+
+The rule is:
+
+**understand where the wake is and keep the airplane out of it.**
+
+---
+
+### Windshear and Microbursts
+
+The last major environmental hazard in the pattern is **windshear**—a rapid change in wind speed, direction, or both.
+
+At pattern altitude, that matters because there is very little altitude available to recover from a sudden loss of airspeed or lift.
+
+Windshear may be associated with **thunderstorms, microbursts, fronts, temperature inversions, or strong winds aloft**.
+
+A microburst can be especially deceptive. The airplane may first see an increasing headwind and appear to perform better, then encounter a downdraft, followed by a strong tailwind and rapid performance loss.
+
+So the decision rule is simple:
+
+**If windshear is suspected, avoid it. If it makes the approach unstable, go around early.**
+
+---
+
+### Departures From the Pattern
+
+The story ends with leaving the pattern just as predictably as we entered it.
+
+If remaining in the pattern after takeoff:
+
+- climb on the **departure leg**,
+- turn crosswind at the appropriate point,
+- maintain pattern altitude and spacing.
+
+If departing the airport environment:
+
+- follow ATC instructions or any published procedure,
+- or at a nontowered airport, depart in a predictable manner consistent with the traffic flow and safe altitude.
+
+Do not make an early turn that creates a conflict with traffic already operating in the pattern.
+
+---
+
+### Go-Arounds
+
+A go-around is not a failure. It is a normal traffic-pattern maneuver.
+
+Go around when:
+
+- spacing is unsafe,
+- the runway is occupied,
+- the approach is unstable,
+- the turn to final is not working,
+- wake turbulence is a concern,
+- windshear is encountered or suspected,
+- traffic position is uncertain,
+- or ATC directs it.
+
+The best go-arounds are the ones made **early**.
+
+---
 
 ### Common Errors
 
-Common errors include:
-
 - Entering at the wrong altitude.
-- Entering against the established traffic flow.
+- Entering on the wrong side or against the flow.
 - Descending into the pattern.
-- Failing to comply with ATC instructions.
-- Poor wind correction.
-- Flying headings instead of maintaining the proper ground track.
-- Inadequate spacing.
-- Losing sight of traffic.
-- Poor altitude control.
-- Poor airspeed control.
-- Turning base too early.
+- Failing to determine wind, runway, or pattern direction.
+- Poor communication planning.
+- Flying headings instead of the proper ground track.
+- Poor downwind spacing.
+- Turning base too early or too late.
 - Overshooting final.
-- Skidding the base-to-final turn.
-- Excessive bank close to the ground.
-- Checklist fixation.
-- Radio fixation.
+- Skidding from base to final.
+- Poor airspeed control.
+- Poor altitude control.
+- Checklist or radio fixation.
+- Losing sight of traffic.
+- Failing to apply right-of-way correctly.
+- Ignoring wake turbulence.
 - Continuing an unstable approach.
-- Failing to account for wake turbulence.
-- Continuing in windshear conditions.
+- Failing to go around early.
 
-### ACS Standards — Traffic Patterns
+---
 
-The applicant should be able to teach:
+### ACS Coverage — Area VI, Task B
 
-- Towered and nontowered airport operations.
-- Traffic pattern selection for current conditions.
-- Right-of-way rules.
-- Automated weather and airport information.
-- Common errors related to traffic patterns.
+**Knowledge**
 
-The applicant should manage risks involving:
+- **AI.VI.B.K1 — Procedures at airports with and without operating control towers:** towered vs. nontowered pattern operations and communications.
+- **AI.VI.B.K2 — Appropriate traffic pattern for existing conditions:** runway selection, wind, pattern direction, TPA, and traffic flow.
+- **AI.VI.B.K3 — Traffic pattern procedures / routes / markings / visual indicators:** pattern legs, segmented circle, wind indicators, and pattern entry.
+- **AI.VI.B.K4 — Right-of-way rules:** **§91.113** application in the pattern.
+- **AI.VI.B.K5 — Automated weather and airport information:** **ATIS, AWOS, ASOS**, and visual wind indicators.
+- **AI.VI.B.K6 — Common errors:** summarized above.
 
-- Collision hazards.
-- Distractions and task prioritization.
-- Loss of situational awareness or disorientation.
-- Windshear.
-- Wake turbulence.
+**Risk Management**
 
-The applicant should be able to:
+- **AI.VI.B.R1 — Collision hazards**
+- **AI.VI.B.R2 — Distractions, task management, and low-altitude workload**
+- **AI.VI.B.R3 — Windshear**
+- **AI.VI.B.R4 — Wake turbulence**
+- **AI.VI.B.R5 — Loss of situational awareness / disorientation in the pattern**
 
-- Identify and interpret runways, taxiways, markings, signs, and lighting.
-- Comply with recommended traffic pattern procedures.
-- Correct for wind drift.
+**Skills**
+
+The applicant should be able to teach and demonstrate how to:
+
+- Identify and interpret the **runway, taxiway, markings, signs, and lighting** relevant to the pattern environment.
+- Enter and operate in the correct traffic pattern.
+- Correct for wind drift to maintain the desired **ground track**.
 - Maintain runway orientation.
-- Maintain traffic pattern altitude within **±100 feet**.
-- Maintain appropriate airspeed within **±10 knots**.
-- Maintain situational awareness and proper spacing.
+- Maintain **traffic pattern altitude within ±100 feet**.
+- Maintain **airspeed within ±10 knots**.
+- Maintain spacing and sequencing.
 - Analyze and correct common errors.
+- Decide when to go around.
 
-### Instructor Demonstration
+---
 
-Before entering the pattern:
+### References
 
-- Brief runway.
-- Brief traffic direction.
-- Verify TPA.
-- Verify wind.
-- Identify traffic.
-- Review the entry or departure plan.
+- FAA-S-ACS-25 — Flight Instructor Airplane ACS, **Area VI, Task B**
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.113** — Right-of-way rules
+- **14 CFR §91.126** — Operating on or in the vicinity of an airport in Class G airspace
+- **14 CFR §91.127** — Operating on or in the vicinity of an airport in Class E airspace
+- **14 CFR §91.129** — Operations in Class D airspace
+- **14 CFR §91.130** — Operations in Class C airspace
+- **14 CFR §91.131** — Operations in Class B airspace
+- FAA Aeronautical Information Manual — Traffic patterns, airport operations, wake turbulence, and radio communications
+- FAA Airplane Flying Handbook
+- FAA Pilot’s Handbook of Aeronautical Knowledge
+- FAA Chart Supplement / Chart User’s Guide
 
-During the pattern:
-
-- Maintain the proper ground track.
-- Verbalize wind correction.
-- Maintain TPA and airspeed.
-- Identify traffic and spacing.
-- Complete the landing checklist on downwind.
-- Adjust the base turn for wind and traffic.
-- Maintain coordinated turns.
-- Stabilize final.
-- Go around when the pattern no longer supports a safe landing.
-
-### Learner Practice
-
-Have the learner:
-
-- Determine runway and pattern direction.
-- State the TPA.
-- Explain the intended entry.
-- Enter at the proper altitude.
-- Maintain a rectangular wind-corrected ground track.
-- Identify traffic.
-- Maintain spacing.
-- Maintain ±100 feet and ±10 knots.
-- Explain right-of-way decisions.
-- Complete the landing checklist without losing the traffic scan.
-- Recognize an overshoot early.
-- Go around rather than force the final turn.
-
-### Analyze and Correct
-
-If the learner loses the pattern picture:
-
-- Maintain aircraft control.
-- Re-establish runway orientation.
-- Identify traffic.
-- Rebuild spacing.
-- Leave and reenter the pattern if necessary.
-
-If the learner overshoots final:
-
-- Maintain coordination.
-- Do not skid back toward centerline.
-- Go around when necessary.
-
-If spacing becomes inadequate:
-
-- Extend.
-- Slow appropriately.
-- Go around.
-- Re-sequence.
-
-If workload becomes excessive:
-
-- Fly the airplane.
-- Maintain the traffic scan.
-- Defer nonessential tasks.
-
-### Completion Standard
-
-The learner can explain and demonstrate traffic-pattern operations while:
-
-- Using the correct runway and pattern.
-- Entering and departing predictably.
-- Maintaining the proper wind-corrected ground track.
-- Maintaining TPA within ±100 feet.
-- Maintaining appropriate airspeed within ±10 knots.
-- Maintaining runway orientation.
-- Maintaining traffic awareness and spacing.
-- Applying right-of-way rules.
-- Managing wake turbulence and windshear risks.
-- Correcting errors before they become hazards.
 
 
 ## AI.VI.B.K1 - Towered and Nontowered Airport Operations
