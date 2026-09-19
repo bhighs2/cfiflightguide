@@ -157,6 +157,617 @@ Aim at a point before the desired touchdown point. If that aiming point moves do
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to plan and fly a normal or crosswind approach and landing from runway selection through rollout, using a stabilized approach, correct energy and wind management, a defined touchdown point, and a timely go-around whenever the landing is no longer safe or within standards.**
+
+### Purpose
+
+A good landing is built **before the flare**.
+
+The teaching story is:
+
+**plan the landing → configure early → stabilize the approach → control the glidepath and wind drift → aim before the touchdown point → round out and flare → touch down on the mains with no side drift → keep flying through the rollout.**
+
+If that sequence stops working:
+
+**go around.**
+
+---
+
+### Start With the Landing Decision
+
+Before joining the pattern or committing to final, decide whether the runway and conditions make sense.
+
+Consider:
+
+- **Wind and gusts**
+- **Runway length, slope, and surface**
+- **Crosswind or tailwind**
+- **Obstacles**
+- **Wake turbulence**
+- **Landing performance**
+- **Pilot capability**
+- **Available touchdown and stopping distance**
+
+Under **§91.103**, the PIC is responsible for knowing the available information needed for the flight, including runway and landing-performance information when applicable.
+
+The question is not simply:
+
+**“Can I land there?”**
+
+It is:
+
+**“Can I fly a stabilized approach, touch down where I intend, and stop with margin?”**
+
+---
+
+### Configure Early — Do Not Chase the Airplane on Final
+
+Once the runway is selected, get the airplane ready early enough that final is used for **flying**, not catching up.
+
+For the **C172S approach checklist**:
+
+- **Power — as desired**
+- **Mixture — adjust for smooth operation; full rich for idle power**
+- **Altimeter — set**
+- **NAV/GPS switch — set**
+- **Fuel selector — BOTH**
+- **Flaps — as desired**
+    - **0°–10° below 110 KIAS**
+    - **10°–30° below 85 KIAS**
+
+Before landing:
+
+- **Seat backs — most upright**
+- **Seats and belts — secured and locked**
+- **Fuel selector — BOTH**
+- **Mixture — RICH**
+- **Landing/taxi lights — ON**
+- **Autopilot — OFF**, if installed
+
+The teaching point is:
+
+**Finish the checklist early enough to look outside and fly the approach.**
+
+---
+
+### Build a Stabilized Approach
+
+Now establish the landing picture.
+
+A stabilized approach has:
+
+- **Correct runway alignment**
+- **Correct glidepath**
+- **Correct airspeed**
+- **Landing configuration established**
+- **Trim set**
+- **Manageable descent rate**
+- **Only small corrections required**
+
+For the **C172S normal landing**:
+
+- **Flaps UP — 65–75 KIAS**
+- **Flaps DOWN — 60–70 KIAS**
+
+The ACS requires the manufacturer-published approach speed, or if none exists, no more than **1.3 V<sub>SO</sub>**, maintained within **±5 knots**, with gust factor applied as appropriate.
+
+A simple teaching relationship is:
+
+**Pitch for airspeed. Power for glidepath. Trim off the pressure.**
+
+Those controls interact, so every correction is coordinated.
+
+If low:
+
+**add power, then adjust pitch to preserve airspeed.**
+
+If high:
+
+**reduce power, then adjust pitch to preserve airspeed.**
+
+Do not try to stretch the glide with elevator alone.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Stabilized_Approach.png" alt="Stabilized landing approach" loading="lazy">
+    <figcaption>A stabilized approach has the correct path, alignment, airspeed, configuration, trim, and manageable descent rate.</figcaption>
+</figure>
+
+If the approach cannot be stabilized with small corrections:
+
+**go around.**
+
+---
+
+### Understand What Flaps Are Doing
+
+Flaps increase lift and drag and change the descent picture.
+
+At the same airspeed and power, more flap generally allows a **steeper descent angle**. Less flap gives a **flatter path** and can increase float.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Effect_Flaps.png" alt="Effect of flap setting on landing descent angle" loading="lazy">
+    <figcaption>Flap setting changes the descent angle and landing picture. Anticipate the pitch, drag, and trim change when flaps are extended.</figcaption>
+</figure>
+
+For the C172S:
+
+**Avoid steep slips with more than 20° flaps** because certain combinations of airspeed, sideslip, and CG may produce slight elevator oscillation.
+
+So if the approach is badly high:
+
+**do not use an aggressive last-second maneuver to save it. Go around.**
+
+---
+
+### Choose an Aiming Point — Then Understand Where You Will Touch Down
+
+The **aiming point** is where the airplane would reach the ground if the current glidepath continued without a flare.
+
+The **touchdown point** is farther down the runway because the roundout and flare carry the airplane forward.
+
+So:
+
+**aim before the desired touchdown point.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Runway_Sight_Picture.png" alt="Aiming point and touchdown point during landing" loading="lazy">
+    <figcaption>The aiming point is before the touchdown point because the roundout and flare carry the airplane farther down the runway.</figcaption>
+</figure>
+
+Watch the aiming point in the windshield:
+
+- If it stays **stationary**, the glidepath is stable.
+- If it moves **up** the windshield, you are trending **low / short**.
+- If it moves **down** the windshield, you are trending **high / long**.
+
+Make small corrections early.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Sight_Picture_High_Normal_Low.png" alt="High normal and low runway sight pictures" loading="lazy">
+    <figcaption>Learn the runway sight picture. A stable approach keeps the runway geometry predictable as it grows in the windshield.</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Too_High_Glidpath_Change.png" alt="Correction from a high landing glidepath" loading="lazy">
+    <figcaption>Recognize a high approach early. Large late corrections are a warning that the approach is becoming unstable.</figcaption>
+</figure>
+
+---
+
+### Manage Energy — Do Not Carry Excess Speed Into the Flare
+
+A landing airplane has to get rid of both **altitude** and **airspeed**.
+
+If you arrive at the runway with excess energy, the airplane will float.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Floating.png" alt="Landing float caused by excess energy" loading="lazy">
+    <figcaption>Float is usually created before the flare by excess airspeed or power. Do not force an energetic airplane onto the runway.</figcaption>
+</figure>
+
+That is why the stabilized approach matters.
+
+**Airspeed control on final controls how much runway you use after the aiming point.**
+
+If the airplane is going to float beyond the acceptable touchdown zone:
+
+**go around.**
+
+---
+
+### Correct the Wind Before It Becomes a Base-to-Final Problem
+
+Wind correction starts before final.
+
+On base, maintain the correct **ground track**. Do not let a tailwind or crosswind push you through final.
+
+If you overshoot:
+
+**do not skid the airplane back toward the runway.**
+
+A skidding base-to-final turn at low altitude creates a serious stall/spin risk.
+
+Instead:
+
+**maintain coordination and go around if the geometry is no longer working.**
+
+---
+
+### On Final — Track the Centerline
+
+With a crosswind, the first job is to keep the airplane tracking the **runway centerline**.
+
+That starts with drift correction on final.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Approach_Xwind.png" alt="Crosswind approach correction" loading="lazy">
+    <figcaption>In a crosswind approach, an uncorrected airplane drifts off the extended centerline. The corrected airplane maintains the proper ground track to the runway.</figcaption>
+</figure>
+
+---
+
+### Crab vs. Sideslip — Teach the Difference Clearly
+
+This is worth making explicit because students often blend the two together.
+
+A **crab** is used to maintain ground track. The airplane's wings may stay nearly level, but the **nose points into the wind** enough to keep the airplane moving straight down the extended centerline.
+
+A **sideslip** is used to land. In the sideslip, the pilot lowers the **upwind wing** enough to stop drift and applies **opposite rudder** to align the longitudinal axis with the runway.
+
+So the teaching flow is:
+
+**crab on final for tracking → transition to sideslip before touchdown for alignment and drift control.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Crab_v_Slip.png" alt="Crabbed approach versus sideslip approach" loading="lazy">
+    <figcaption>Crab maintains the correct ground track. Sideslip eliminates drift and aligns the airplane with the runway for touchdown.</figcaption>
+</figure>
+
+On final, I would explain it to the learner this way:
+
+- **Crab:** keeps us on the extended centerline.
+- **De-crab / transition:** begins as we move into the flare and touchdown phase.
+- **Sideslip:** wing low into the wind, opposite rudder to keep the nose straight, no sideways drift.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Crab_Decrab.png" alt="Transition from crab to de-crab during landing" loading="lazy">
+    <figcaption>On a crosswind landing, the airplane may be crabbed on approach, then de-crabbed and aligned with the runway just before touchdown.</figcaption>
+</figure>
+
+The touchdown goal does **not** change:
+
+- **No side drift**
+- **Longitudinal axis aligned with the runway**
+
+That normally means:
+
+**aileron into the wind + opposite rudder as required for alignment.**
+
+As the airplane slows, control effectiveness decreases, so the crosswind correction usually needs to **increase**, not disappear. Neutral controls are a common error.
+
+The upwind main wheel may touch first.
+
+The ACS landing standard is not simply “get it on the runway.”
+
+It is:
+
+**touch down on or within 200 feet beyond the specified point, with no side drift, and with the longitudinal axis aligned with the runway/landing path.**
+
+---
+
+### Roundout — Change From Approach to Landing
+
+As you reach the runway, shift your visual focus progressively **farther down the runway** and use peripheral vision to judge height.
+
+The roundout is the transition from the descent to a flightpath nearly parallel with the runway.
+
+Smoothly begin increasing back pressure while reducing power toward idle.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Roundout_Flare_Speeds.png" alt="Roundout and flare as airspeed decreases" loading="lazy">
+    <figcaption>During the roundout and flare, airspeed decreases while angle of attack is increased smoothly to arrest the descent and establish the landing attitude.</figcaption>
+</figure>
+
+Two visual errors are common:
+
+- **Looking too close** → tends to produce a **high roundout**
+- **Looking too far** → tends to produce a **low or late roundout**
+
+Once the roundout begins:
+
+**do not push the nose forward to force the airplane down.**
+
+Relax or hold back pressure as needed, but keep the landing attitude developing smoothly.
+
+---
+
+### Flare — Keep the Airplane Flying Until It Settles
+
+The flare is a continuing increase in pitch attitude as the airplane slows and lift decreases.
+
+The objective is to let the airplane settle onto the runway in the proper landing attitude at minimum practical touchdown speed.
+
+For the C172S POH:
+
+- **Touchdown — MAIN WHEELS FIRST**
+- **Actual touchdown — power OFF**
+- **Lower the nosewheel gently after speed decreases**
+- **Braking — minimum required**
+
+Do not force the airplane onto the runway.
+
+---
+
+### Recognize Ballooning, Bouncing, and Porpoising
+
+#### Ballooning
+
+A balloon usually comes from an overly aggressive pitch change in the flare.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Ballooning.png" alt="Ballooning during landing flare" loading="lazy">
+    <figcaption>Ballooning results from an excessive pitch change in the flare. A significant balloon should normally lead to a go-around.</figcaption>
+</figure>
+
+If it is minor and controllable, stabilize the attitude.
+
+If it is significant:
+
+**go around.**
+
+#### Bounce
+
+A bounce usually means the airplane contacted the runway with excessive descent rate, speed, or improper attitude.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Bounce.png" alt="Bounced landing sequence" loading="lazy">
+    <figcaption>Do not chase a bounce with abrupt pitch inputs. If the landing is no longer controlled, go around.</figcaption>
+</figure>
+
+Do not push forward after a bounce.
+
+If the bounce is significant or the landing is deteriorating:
+
+**go around.**
+
+#### Porpoising
+
+Porpoising is a pilot-induced oscillation that often begins with a nosewheel-first touchdown followed by improper control input.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Porpoise.png" alt="Porpoising after an improper landing" loading="lazy">
+    <figcaption>Porpoising can rapidly become destructive. Do not try to salvage the landing with repeated pitch corrections.</figcaption>
+</figure>
+
+The response is:
+
+**go around before the oscillation gets worse.**
+
+---
+
+### Keep Flying After Touchdown
+
+The landing is not finished when the mains touch.
+
+Maintain:
+
+- **Centerline**
+- **Crosswind correction**
+- **Back-elevator as appropriate**
+- **Directional control**
+- **Minimum braking necessary**
+
+As the airplane slows, increase aileron into the wind as needed because the controls are becoming less effective.
+
+Lower the nosewheel gently.
+
+Do not mentally “switch to taxi mode” until the airplane is actually under control at taxi speed.
+
+---
+
+### Know When to Go Around
+
+A go-around is built into every approach.
+
+Go around for:
+
+- Unstable airspeed or glidepath
+- Poor runway alignment
+- Excessive drift
+- Base-to-final overshoot
+- Runway or traffic conflict
+- Wake turbulence
+- Windshear
+- Significant balloon or bounce
+- Porpoising
+- Excessive float
+- Inability to meet the touchdown standard
+- Any condition that makes continuing unsafe
+
+The ACS specifically requires a **timely go-around** when the landing cannot be completed within standards or another unsafe condition exists.
+
+**Early is easy. Late is hard.**
+
+---
+
+### LAHSO — Decide Before You Accept
+
+A **Land and Hold Short Operations (LAHSO)** clearance requires the airplane to land and stop before a specified point such as:
+
+- An intersecting runway
+- An intersecting taxiway
+- A designated point on the runway
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/LAHSO.png" alt="Examples of land and hold short operations" loading="lazy">
+    <figcaption>LAHSO reduces the landing distance available. Accept only when aircraft performance, runway condition, wind, and pilot capability make compliance comfortable.</figcaption>
+</figure>
+
+The important instructor point:
+
+**LAHSO is optional for the pilot.**
+
+If you cannot comfortably comply:
+
+**“Unable LAHSO.”**
+
+Before accepting, consider:
+
+- Available landing distance
+- Aircraft performance
+- Wind and gusts
+- Runway condition
+- Braking action
+- Pilot proficiency
+
+Once accepted, **§91.123** requires compliance with the ATC clearance unless an exception applies.
+
+---
+
+### Risk Management Through the Whole Landing
+
+#### Runway / Surface / Touchdown Selection
+
+Select a runway, path, and touchdown area that fit:
+
+- Aircraft capability
+- Pilot capability
+- Wind
+- Available landing distance
+- Surface condition
+- Obstacles
+
+#### Crosswind / Tailwind / Windshear / Wake
+
+A tailwind increases groundspeed and landing distance.
+
+Windshear can change airspeed and sink rate rapidly.
+
+Wake turbulence can descend and drift across the approach path.
+
+If the margin is shrinking:
+
+**change the plan before final.**
+
+#### Collision Hazards
+
+Continue scanning for:
+
+- Traffic on final
+- Aircraft departing
+- Traffic on intersecting or parallel runways
+- Vehicles or personnel
+- Aircraft that may not be transmitting
+
+At a towered airport, verify you are cleared for the **correct runway**.
+
+At a nontowered airport, CTAF calls help, but they do not replace the outside scan.
+
+#### Low Altitude / Stall / Spin / CFIT
+
+The base-to-final area deserves special attention.
+
+Do not use excessive bank or inside rudder to save an overshoot.
+
+**Go around instead.**
+
+#### Distraction and Task Prioritization
+
+By final, the airplane should be configured and the cockpit should be quiet.
+
+Priority:
+
+**aircraft control → runway alignment → airspeed/glidepath → traffic**
+
+Do not let a checklist, radio, passenger, or avionics task destabilize the landing.
+
+---
+
+### Common Errors
+
+Teach these as recognizable causes, not just a list:
+
+- **Late checklist** — cockpit workload remains high on final
+- **Poor base drift correction** — leads to overshoot/undershoot
+- **Skidding base-to-final turn** — stall/spin risk
+- **Poor coordination**
+- **Failure to distinguish crab from sideslip** — airplane tracks the runway but is not aligned for touchdown
+- **Neutralizing crosswind controls in the flare or rollout**
+- **Unstable approach**
+- **Poor flap compensation**
+- **Poor trim**
+- **Trying to stretch the glide with elevator**
+- **Excess airspeed / float**
+- **Looking too close** — high roundout
+- **Looking too far** — low/late roundout
+- **Touching down before the landing attitude is established**
+- **Releasing back pressure too early**
+- **Excessive braking**
+- **Loss of directional control**
+- **Failure to go around when the approach is no longer working**
+
+---
+
+### Instructor Demonstration
+
+Teach the maneuver in the order it happens:
+
+1. **Select the runway and touchdown point** from wind, performance, surface, obstacles, and traffic.
+2. **Complete the checklist early.**
+3. Establish the C172S landing configuration and published approach speed.
+4. Trim for the desired airspeed.
+5. Maintain a stabilized glidepath with coordinated pitch and power.
+6. Correct wind drift on base and final.
+7. Verify the correct runway and scan for traffic/obstructions.
+8. Select an aiming point **before** the desired touchdown point.
+9. Maintain the aiming point and centerline with small corrections.
+10. Transition from crab to the required crosswind sideslip before touchdown.
+11. Shift the eyes down the runway and begin the roundout.
+12. Reduce power to idle and smoothly increase back pressure.
+13. Touch down **main wheels first**, on/within **200 feet beyond** the specified point, with no side drift and runway alignment.
+14. Lower the nosewheel gently.
+15. Maintain crosswind and directional control through rollout.
+16. Use minimum braking required.
+17. **Go around immediately** if the approach or landing stops meeting the standard.
+
+---
+
+### ACS Coverage — Area VII, Task B
+
+**Knowledge**
+
+- **AI.VII.B.K1** — Procedures for normal and crosswind approach and landing
+- **AI.VII.B.K2** — Stabilized approach and energy management
+- **AI.VII.B.K3** — Effects of atmospheric conditions, including wind, on approach and landing performance
+- **AI.VII.B.K4** — Wind correction techniques
+- **AI.VII.B.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VII.B.R1** — Runway/landing surface, approach path, touchdown area, performance, available distance, and wind
+- **AI.VII.B.R2** — Crosswind, windshear, tailwind, wake turbulence, and landing surface/condition
+- **AI.VII.B.R3** — Rejected landing/go-around and LAHSO
+- **AI.VII.B.R4** — Collision hazards
+- **AI.VII.B.R5** — Low-altitude maneuvering, stall, spin, and CFIT
+- **AI.VII.B.R6** — Distraction, task prioritization, loss of situational awareness, and disorientation
+
+**Skills**
+
+- **AI.VII.B.S1** — Complete checklist(s)
+- **AI.VII.B.S2** — Make radio calls as appropriate
+- **AI.VII.B.S3** — Align with the correct/assigned runway or landing surface
+- **AI.VII.B.S4** — Scan runway and adjoining area for traffic and obstructions
+- **AI.VII.B.S5** — Select and aim for a suitable touchdown point
+- **AI.VII.B.S6** — Establish configuration, airspeed, trim, pitch, and power for a stabilized approach
+- **AI.VII.B.S7** — Maintain published approach speed / 1.3 V<sub>SO</sub> standard within **±5 knots**
+- **AI.VII.B.S8** — Maintain directional control and crosswind correction
+- **AI.VII.B.S9** — Smooth, timely, correct roundout and touchdown control
+- **AI.VII.B.S10** — Touch down **on or within 200 feet beyond** the specified point, proper pitch attitude, no side drift, aligned with runway/landing path
+- **AI.VII.B.S11** — Execute a timely go-around when required
+- **AI.VII.B.S12** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task B
+- FAA-H-8083-3 — Airplane Flying Handbook, Approaches and Landings
+- FAA-H-8083-25 — Pilot’s Handbook of Aeronautical Knowledge
+- AIM — Airport Operations, Visual Glide Slope Indicators, LAHSO
+- Cessna 172S POH — Approach, Before Landing, Normal Landing
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.113** — Right-of-way rules
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+- **14 CFR §91.126 / §91.129** — Airport traffic operations, as applicable
+
+
+
 ## AI.VII.B.K1 - Procedures for Normal and Crosswind Approach and Landing
 
 ### Normal Approach and Landing
@@ -476,70 +1087,111 @@ The applicant demonstrates while teaching a normal/crosswind approach and landin
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>NORMAL APPROACH AND LANDING - CFI AI.VII.B</strong>
+    <strong>NORMAL APPROACH & LANDING — C172S — CFI AI.VII.B</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">BRIEF</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> POH/AFM: landing distance, speeds, flaps, limits, go-around.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Runway, wind, surface, touchdown point, wake, exit, go-around, LAHSO.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Landing from expectation instead of current conditions.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">DOWNWIND</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> TPA, spacing, scan, GUMPS, landing clearance/status.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Abeam: 1600 RPM, 10 degrees flaps, pitch/trim 80 KIAS; roughly 500 FPM toward 1,000 ft AGL.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Late checklist, poor spacing, or forgotten runway/traffic scan.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">PLAN</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Runway / wind / surface / touchdown point / wake / go-around.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Can I stabilize, touch down in the zone, and stop with margin?</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Accepting tailwind, crosswind, surface, or spacing without enough margin.</div>
+            </div>
+        </div>
+    </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">BASE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> At 45 degrees from landing point: turn base only with safe spacing.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Drift correction; coordinated turn; 20 degrees flaps; 70-75 KIAS; normally near 1,000 ft AGL in L3 flow.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Overshoot, skid, or rushed turn to final.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CONFIG</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Checklist early; fuel BOTH; mixture RICH; lights ON; AP OFF.</label>
+                <div class="kneeboard-detail"><strong>Flaps:</strong> 0°–10° &lt;110 KIAS | 10°–30° &lt;85 KIAS.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late checklist, rushed flap changes, poor trim.</div>
+            </div>
+        </div>
+    </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">FINAL</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Stable: path, alignment, speed, configuration, trim, descent, power.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Near 500 ft AGL: 30 degrees flaps; pitch/trim 65 KIAS; keep landing sight picture; crab for track.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Large corrections, elevator-only path control, or no hand on throttle.</div>
-			</div>
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Controls: pitch = speed; power = path; aileron = track; rudder = alignment.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Aim before touchdown; round out; flare; eliminate side drift; hold crosswind correction.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Crabbed touchdown, premature touchdown, or poor rollout control.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">FINAL</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Stable:</strong> path — alignment — speed — config — trim — descent.</label>
+                <div class="kneeboard-detail"><strong>C172S:</strong> Flaps UP 65–75 | Flaps DOWN 60–70 KIAS.</div>
+                <div class="kneeboard-detail"><strong>ACS:</strong> Published approach speed ±5 kt.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">GO AROUND</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Unstable, unsafe, runway conflict, or cannot make standards?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Power, pitch, configure, climb, compensate, then communicate.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Delaying to salvage a landing.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Aim <strong>before</strong> touchdown point; verify runway / traffic / clearance.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Aim point fixed = stable | moves UP = low | moves DOWN = high.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Elevator-only glide correction or excess speed / float.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">XWIND</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Crab for track → de-crab to sideslip for touchdown.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Wing low into wind, opposite rudder for alignment, no side drift.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Neutral controls, landing in a crab, side drift, or skidding base-to-final.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">FLARE</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Eyes down runway → roundout → power idle → smooth back pressure.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Main wheels first; proper landing attitude.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Looking too close = high roundout; too far = low/late roundout.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Touchdown:</strong> on / within 200 ft beyond point; no drift; aligned.</label>
+                <div class="kneeboard-detail"><strong>CE:</strong> Forcing it on, excessive float, balloon, bounce, or porpoise.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ROLLOUT</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Hold back pressure; nosewheel gently; XWind correction; minimum braking.</label>
+                <div class="kneeboard-detail"><strong>CE:</strong> Relaxing controls after touchdown, excessive braking, loss of centerline.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">GO AROUND</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Unstable / drift / conflict / float / balloon / bounce / porpoise → <strong>GO AROUND</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Early is easy. Do not salvage a deteriorating landing.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Continuing because “we’re already here.”</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">LAHSO</div>
+        <div class="kneeboard-group-body">
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Accept only if landing distance / wind / braking / proficiency support it.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Pilot may decline: “Unable LAHSO.”</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Accepting because ATC offered it.</div>
+            </div>
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

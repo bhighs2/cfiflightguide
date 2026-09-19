@@ -150,6 +150,578 @@ A **forward slip** preserves the intended ground track while the airplane's nose
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to understand and perform a forward or sideslip to a landing by deliberately cross-controlling the airplane, managing drag and energy, maintaining the desired ground track and airspeed, correlating slip direction with the wind, respecting C172S limitations, and transitioning to a properly aligned touchdown.**
+
+### Purpose
+
+A slip lets us make the airplane descend **more steeply without simply diving and gaining excessive airspeed**.
+
+There are two intentional slips:
+
+- **Forward slip** — primarily used to lose altitude.
+- **Sideslip** — primarily used to correct for crosswind and keep the airplane aligned with the runway.
+
+They use the same basic crossed-control idea, but they solve different problems.
+
+The teaching story is:
+
+**understand the difference → plan the approach → enter deliberately → control sink and ground track → respect the airplane’s limits → recover smoothly → transition to the correct landing attitude.**
+
+---
+
+### Start With the Big Difference — Forward Slip vs. Sideslip
+
+This is the first thing the learner has to understand.
+
+A **forward slip** is an **energy-management maneuver**.
+
+The airplane continues generally along the intended ground track, but the **nose points away from that flightpath**. The fuselage is presented more sideways to the relative wind, which creates drag and increases the descent rate.
+
+A **sideslip** is primarily a **crosswind-control maneuver**.
+
+The airplane’s **longitudinal axis stays aligned with the runway**, but the airplane is banked into the wind enough to stop drift.
+
+So the simple distinction is:
+
+**Forward slip = lose altitude.  
+Sideslip = correct crosswind.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Forward_Slip.png" alt="Forward slip showing bank and opposite rudder while maintaining the intended ground track" loading="lazy">
+    <figcaption>Forward slip — the nose is intentionally yawed away from the flightpath to create drag and increase descent rate while preserving the desired ground track.</figcaption>
+</figure>
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Sideslip.png" alt="Sideslip showing wing-low crosswind correction while keeping the longitudinal axis aligned with the runway" loading="lazy">
+    <figcaption>Sideslip — bank into the wind and use opposite rudder to keep the airplane aligned with the runway while stopping lateral drift.</figcaption>
+</figure>
+
+The controls are crossed in both maneuvers.
+
+What changes is **what we are trying to hold constant**.
+
+---
+
+### A Slip Is Not a Skid
+
+This distinction matters because both may be cross-controlled, but their risk is very different.
+
+In a **slip**, the bank is too great for the rate of turn.
+
+In a **skid**, the rate of turn is too great for the bank — usually because of excessive rudder in the direction of the turn.
+
+A skid close to the ground, especially base-to-final, is dangerous because it can produce an abrupt stall/spin.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Slipping_Skidding_Coordinated_Turns.png" alt="Comparison of slipping, skidding, and coordinated turns" loading="lazy">
+    <figcaption>A slip and skid are both uncoordinated, but a skid is especially hazardous near the ground because excessive rudder can drive a stall into a spin.</figcaption>
+</figure>
+
+So:
+
+**Do not use rudder to force a base-to-final overshoot back toward the runway.**
+
+If the turn is not working:
+
+**go around.**
+
+---
+
+### Why a Forward Slip Works
+
+A forward slip dramatically increases drag.
+
+The airplane is no longer streamlined into the relative wind. The fuselage and other surfaces are exposed at an angle, increasing parasite drag and reducing the efficiency of the glide.
+
+The result is:
+
+**more descent without the same airspeed increase you would get from simply lowering the nose.**
+
+This makes the maneuver useful for:
+
+- an engine-out approach,
+- a confined landing area,
+- clearing an obstacle,
+- or correcting an approach that is high when a safe go-around is not available or appropriate.
+
+But a slip is not a substitute for planning.
+
+If a normal stabilized approach or go-around is available:
+
+**use it.**
+
+---
+
+### Plan the Maneuver Before You Enter It
+
+Under **14 CFR §91.103**, the PIC must become familiar with the information necessary for the flight.
+
+For a slip to a landing, that means considering:
+
+- runway and touchdown area,
+- wind,
+- obstacles,
+- terrain,
+- landing distance,
+- aircraft limitations,
+- fuel state,
+- flap setting,
+- go-around options,
+- and the intended recovery point.
+
+The ACS specifically requires planning a flightpath to the landing area considering:
+
+**altitude, wind, terrain, and obstructions.**
+
+So before entering the slip, know:
+
+- where you are going,
+- which way you will bank,
+- how much altitude you need to lose,
+- where you will recover,
+- and whether you will transition to a normal landing or a sideslip.
+
+---
+
+### C172S POH — Slips, Fuel, and Flaps
+
+This is where airplane-specific knowledge matters.
+
+For the C172S:
+
+- **Steep slips should be avoided with flap settings greater than 20°** because a slight elevator oscillation may occur with certain combinations of airspeed, sideslip angle, and CG.
+- The fuel selector should be in **BOTH** for:
+    - takeoff,
+    - climb,
+    - landing,
+    - and maneuvers involving prolonged slips or skids over 30 seconds.
+- With one tank dry, maximum slip or skid duration is **30 seconds**.
+- If operating on LEFT or RIGHT with the selected tank at **1/4 full or less**, prolonged uncoordinated flight can uncover the fuel outlet.
+- Fuel quantity indications are **not reliable during slips, skids, or unusual attitudes**.
+
+The practical teaching point is:
+
+**do not enter the maneuver without knowing the flap configuration, fuel state, fuel-selector position, and POH limitations.**
+
+And remember the exact POH wording:
+
+**steep slips with more than 20° flap should be avoided — not prohibited.**
+
+---
+
+### Configure First — Then Slip
+
+A forward slip is not the first thing we do simply because we are high.
+
+The normal order is:
+
+1. Reduce power.
+2. Configure the airplane as appropriate.
+3. Establish the approach.
+4. Use the forward slip only if more descent is still needed.
+
+For the C172S, because steep slips should be avoided above 20° flap, the instructor needs to deliberately manage the flap/slip combination rather than automatically selecting full flaps and then applying a steep slip.
+
+Complete the checklist early.
+
+Make the radio calls.
+
+Select the touchdown point.
+
+Keep a hand available for the throttle because a go-around may still be required.
+
+---
+
+### Forward Slip Entry
+
+To enter the forward slip:
+
+1. **Reduce power**, normally toward idle if the purpose is to lose altitude.
+2. Lower one wing with **aileron**.
+3. Apply **opposite rudder**.
+4. Use pitch to maintain the desired airspeed/attitude.
+5. Adjust bank and rudder so the airplane continues along the desired ground track.
+
+The airplane is now intentionally cross-controlled.
+
+The key relationship is:
+
+**bank controls how much slip / sink we create.**
+
+More bank generally means:
+
+**more slip → more drag → steeper descent.**
+
+Opposite rudder keeps the airplane from simply turning with the bank.
+
+---
+
+### Which Wing Goes Down?
+
+When there is a crosswind:
+
+**lower the upwind wing.**
+
+That is important.
+
+If the wind is from the left:
+
+**left wing down, right rudder.**
+
+If the wind is from the right:
+
+**right wing down, left rudder.**
+
+Why?
+
+Because slipping **into the wind** makes it easier to preserve the runway ground track and makes the eventual transition to the landing sideslip cleaner.
+
+One of the common errors is slipping the wrong way relative to the crosswind.
+
+So the teaching cue is:
+
+**“Slip into the wind.”**
+
+---
+
+### Maintain the Ground Track
+
+The ACS is not asking for a dramatic slip.
+
+It is asking for a controlled slip that still gets the airplane where it needs to go.
+
+The ground track remains the priority.
+
+In a forward slip:
+
+- use **aileron/bank** to regulate the slip and descent,
+- use **rudder** to position the nose and prevent an unwanted turn,
+- and use **pitch** to protect airspeed.
+
+The nose may point well off the runway centerline while the airplane continues toward the runway.
+
+That is expected.
+
+Do not confuse **where the nose points** with **where the airplane is actually moving**.
+
+---
+
+### Practical Slip Limit
+
+As bank increases, more opposite rudder is required.
+
+Eventually, the pilot may reach full rudder.
+
+At that point, adding more bank will cause the airplane to start turning because there is not enough rudder authority left to oppose the bank.
+
+That is the **practical slip limit**.
+
+The lesson is:
+
+**more bank is not always available.**
+
+If full rudder is reached:
+
+- do not keep forcing the bank steeper,
+- preserve airspeed,
+- and reassess the approach.
+
+---
+
+### Airspeed Can Lie in a Slip
+
+In a slip, airflow across the pitot/static system may be distorted.
+
+That means the airspeed indicator may be inaccurate.
+
+The learner needs to know this before the maneuver, not discover it while close to the ground.
+
+Do not chase a strange airspeed indication with abrupt pitch changes.
+
+Cross-check:
+
+- pitch attitude,
+- sound,
+- control feel,
+- trim,
+- and the overall approach picture.
+
+The airplane should normally be trimmed appropriately before entering the slip.
+
+Once the slip is removed, the airplane tends to return toward the trimmed condition.
+
+The ACS specifically calls out **airspeed control** as a risk item in forward-slip operations.
+
+---
+
+### Energy Management — Do Not Add Power to Lose Altitude
+
+The purpose of a forward slip is to create drag and lose altitude.
+
+So using excess power while trying to descend defeats the point.
+
+Normally:
+
+**power idle or reduced → slip creates drag → bank controls sink → pitch protects airspeed.**
+
+If the descent is not sufficient:
+
+**increase the slip within the practical and aircraft limits.**
+
+If the airplane becomes too slow:
+
+**lower the nose enough to protect airspeed.**
+
+Do not raise the nose aggressively while already cross-controlled.
+
+---
+
+### Stall / Spin Awareness
+
+A properly flown slip is not the same thing as a skidding base-to-final turn.
+
+But a stall can still occur in a slip.
+
+The biggest protection is:
+
+**do not let the airspeed decay excessively.**
+
+Low altitude is not the place to discover that the slip has become unstable.
+
+If the airplane is:
+
+- too slow,
+- too steep,
+- erratic,
+- or the recovery is becoming rushed,
+
+**remove the slip and go around if possible.**
+
+Under **14 CFR §91.113**, collision avoidance remains the pilot’s responsibility even during this high-workload maneuver.
+
+---
+
+### Recovering From the Forward Slip
+
+The recovery should be smooth.
+
+Do not simply dump the rudder.
+
+Recover by:
+
+1. reducing the bank,
+2. simultaneously relaxing opposite rudder,
+3. returning to the normal glide attitude,
+4. rechecking airspeed and path,
+5. and transitioning to the landing configuration required.
+
+The nose will swing back toward the flightpath as the crossed controls are removed.
+
+If rudder is released abruptly, the nose can swing rapidly and the airplane may gain unwanted speed or overshoot alignment.
+
+The goal is:
+
+**smooth recovery with enough time remaining to establish the landing picture.**
+
+---
+
+### Transition to Sideslip for a Crosswind Landing
+
+If a crosswind exists, this is where the distinction between forward slip and sideslip becomes operationally important.
+
+The forward slip was used to lose altitude.
+
+Now the sideslip is used to land.
+
+So the sequence is:
+
+**forward slip for descent → recover → sideslip for crosswind touchdown.**
+
+In the sideslip:
+
+- **upwind wing down**
+- **opposite rudder**
+- keep the airplane over the runway centerline
+- keep the nose aligned with the runway
+
+Do not remove the sideslip just because you are over the runway.
+
+Maintain crosswind correction through touchdown.
+
+The upwind main wheel may touch first.
+
+---
+
+### Touchdown Standard
+
+The current ACS requires touchdown:
+
+- at the proper pitch attitude,
+- **on or within 400 feet beyond the specified point**,
+- with **no side drift**,
+- with the **longitudinal axis aligned**,
+- and with the ground track aligned with the runway centerline/landing path.
+
+A forward slip should be removed before touchdown.
+
+A sideslip may continue through touchdown because that is the crosswind correction.
+
+That distinction should be explicit:
+
+**Do not land in a forward slip.  
+Do land in a sideslip when crosswind correction requires it.**
+
+---
+
+### Go-Around and LAHSO
+
+A slip should never trap the pilot into continuing a bad landing.
+
+Go around if:
+
+- the approach becomes unstable,
+- airspeed or pitch is uncertain,
+- the slip cannot be recovered smoothly,
+- runway alignment is not established,
+- the touchdown area will be missed,
+- or the airplane reaches the flare still in an uncontrolled forward slip.
+
+If ATC offers LAHSO, the pilot may decline.
+
+Under **§91.123**, once an ATC clearance is accepted, the pilot must comply unless an exception applies.
+
+If the slip, wind, or available distance makes the hold-short requirement questionable:
+
+**“Unable LAHSO.”**
+
+---
+
+### Common Errors
+
+#### Pitch / Airspeed
+
+- **Incorrect pitch adjustment**
+- **Poor airspeed control**
+- **Reacting to erroneous airspeed indications**
+
+Correction:
+
+**use attitude, trim, sound, control feel, and a stable outside picture; do not chase the indicator.**
+
+#### Power / Glidepath
+
+- **Excess power while trying to lose altitude**
+- **Poor glidepath control**
+
+Correction:
+
+**reduce power, use bank to control slip/sink, and recover or go around if the path is not working.**
+
+#### Wind
+
+- **Slipping in the wrong direction relative to the crosswind**
+
+Correction:
+
+**bank into the wind.**
+
+#### Transition / Touchdown
+
+- **Late transition to a sideslip**
+- **Landing with the longitudinal axis not parallel to the runway**
+- **Landing off centerline**
+
+Correction:
+
+**recover earlier, establish the crosswind sideslip, align with rudder, and hold centerline with aileron.**
+
+---
+
+### Instructor Demonstration
+
+Teach it in this sequence:
+
+1. **Brief runway, wind, touchdown point, obstacle, recovery point, go-around, fuel state, flap setting, and POH limitations.**
+2. At altitude, demonstrate:
+    - coordinated flight,
+    - slip,
+    - skid,
+    - and why they are different.
+3. Demonstrate a **forward slip**:
+    - power reduced/idle,
+    - wing lowered,
+    - opposite rudder,
+    - nose slightly down,
+    - bank adjusted for descent,
+    - ground track maintained.
+4. Show the **practical slip limit** as rudder authority becomes the limiting factor.
+5. Show that the airspeed indicator may be unreliable and emphasize outside cues.
+6. Recover smoothly by reducing bank and rudder together.
+7. In the pattern, establish the airplane higher than the normal glidepath.
+8. Select the touchdown point and enter the forward slip.
+9. **Slip into the wind** when a crosswind exists.
+10. Use bank to manage sink and pitch/attitude to protect airspeed.
+11. Recover in time to establish:
+    - a normal landing if no crosswind, or
+    - a **sideslip** for crosswind touchdown.
+12. Touch down aligned, no side drift, within the ACS tolerance.
+13. Go around if the slip, recovery, or alignment is not stable.
+
+---
+
+### ACS Coverage — Area VII, Task M
+
+**Knowledge**
+
+- **AI.VII.M.K1** — Purpose and procedures for forward or side slip to a landing
+- **AI.VII.M.K2** — Energy management concepts
+- **AI.VII.M.K3** — Atmospheric and wind effects
+- **AI.VII.M.K4** — Wind correction techniques
+- **AI.VII.M.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VII.M.R1** — Runway/landing surface, approach path, touchdown area, capability, performance, distance, and wind
+- **AI.VII.M.R2** — Crosswind, windshear, tailwind, wake turbulence, and surface condition
+- **AI.VII.M.R3** — Rejected landing/go-around and LAHSO
+- **AI.VII.M.R4** — Collision hazards
+- **AI.VII.M.R5** — Low-altitude stall, spin, and CFIT risk
+- **AI.VII.M.R6** — Distraction, task prioritization, situational awareness, and disorientation
+- **AI.VII.M.R7** — Forward-slip risks including fuel flowage, flap/tail effects, and airspeed control
+- **AI.VII.M.R8** — Surface contact with longitudinal axis misaligned
+- **AI.VII.M.R9** — Unstable approach
+
+**Skills**
+
+- **AI.VII.M.S1** — Complete checklist(s)
+- **AI.VII.M.S2** — Make radio calls
+- **AI.VII.M.S3** — Plan and follow a flightpath considering altitude, wind, terrain, and obstructions
+- **AI.VII.M.S4** — Select touchdown point
+- **AI.VII.M.S5** — Position on downwind parallel to runway/landing area
+- **AI.VII.M.S6** — Configure airplane correctly
+- **AI.VII.M.S7** — Correlate crosswind with slip direction and transition to sideslip as appropriate
+- **AI.VII.M.S8** — Touch down within **400 feet beyond or on** the specified point, properly aligned and without side drift
+- **AI.VII.M.S9** — Maintain runway/landing-path ground track
+- **AI.VII.M.S10** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task M
+- FAA-H-8083-3 — Airplane Flying Handbook, Intentional Slips / Slip to a Landing
+- Cessna 172S POH — Fuel System / Normal Landing / Slip Limitations
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.113** — Right-of-way / see-and-avoid responsibilities
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+
+
 ## AI.VII.M.K1 - Purpose of and Procedures for Forward or Side Slip to a Landing
 
 A **forward slip** is used to dissipate altitude and increase descent rate without increasing airspeed. The airplane continues along its original ground path while the nose points away from that path. Aileron lowers one wing; opposite rudder prevents the airplane from turning.
@@ -329,65 +901,134 @@ The applicant demonstrates while teaching a slip to a landing: planning, checkli
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>SLIP TO A LANDING - CFI AI.VII.M</strong>
+    <strong>SLIP TO A LANDING — C172S — CFI AI.VII.M</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">BRIEF</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Touchdown, wind, obstacles, slip direction, recovery, go-around.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> POH/AFM limitations; C172S: flap &gt;20 steep-slip restriction; 30-second dry-tank limit; fuel selector BOTH.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> No recovery point or limitation brief.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ENTER</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Power idle; low wing; opposite rudder; nose below horizon.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Maintain intended ground track; bank toward wind.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Excess power, wrong direction, or airspeed decay.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">BRIEF</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">MAINTAIN</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Bank = descent; rudder = nose; attitude = airspeed; aileron = track.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Use sound/control feel/attitude; airspeed indicator may be unreliable.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Fixation on ASI or exceeding rudder authority.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Runway / touchdown point / wind / obstacle / recovery point / go-around.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Fuel BOTH; know flap / fuel / slip limits before entry.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Using a slip as a band-aid for a poor approach.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">RECOVER</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Wings level and rudder neutral together; normal glide; align.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Transition to crosswind sideslip as needed before touchdown.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Abrupt rudder release, nose misaligned, side drift.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Forward slip = lose altitude | Sideslip = crosswind correction.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Same crossed controls, different objective.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Confusing slip with skid or using rudder to force base-to-final.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">GO AROUND</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Slip/recovery unstable, runway/track unsafe, or alignment doubtful?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Power, pitch, configure, climb, compensate, communicate.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Continuing a cross-controlled approach that cannot be safely recovered.</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">C172S LIMITS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Avoid <strong>steep slips with flaps >20°</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Possible elevator oscillation with some airspeed / slip / CG combinations.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Treating the POH caution as if flap/slip combination does not matter.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> One tank dry → max slip/skid <strong>30 sec</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Fuel indicators may be unreliable in slip/skid; prolonged slips/landing → selector BOTH.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Relying on fuel gauges during uncoordinated flight.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ENTRY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Power reduced / idle → bank → opposite rudder → pitch for airspeed.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Keep desired ground track; nose may point away from runway.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Excess power, poor pitch control, or reacting to bad ASI indications.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Crosswind present? Slip INTO the wind.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Upwind wing down; opposite rudder.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Slipping away from the wind and creating a harder transition.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">MAINTAIN</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Bank controls sink; rudder controls nose; pitch protects airspeed.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Use attitude / sound / control feel — ASI may be erroneous.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Chasing airspeed or allowing airspeed to decay.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Maintain runway / landing-path ground track.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Stop adding bank when rudder authority is maxed — practical slip limit.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Erratic track, unstable slip, or excessive bank close to ground.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">RECOVER</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Reduce bank + rudder together → normal glide attitude.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Recover early enough to establish landing picture and recheck path / speed.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Abrupt rudder release, late recovery, or nose swinging through alignment.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Crosswind? <strong>Forward slip → transition to sideslip.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Upwind wing down; rudder aligns nose; no side drift.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Landing in a forward slip or removing crosswind correction before touchdown.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TOUCHDOWN</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Proper pitch; aligned; no side drift; centerline maintained.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> ACS: on or within <strong>400 ft beyond</strong> specified point.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Longitudinal axis misaligned or touchdown off centerline.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">GO-AROUND</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Unstable slip / bad airspeed picture / poor alignment / missed point?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Recover and go around early when available.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Continuing because the slip has already been started.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

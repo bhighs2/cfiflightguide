@@ -141,6 +141,599 @@ V<sub>X</sub> is the obstacle-clearance speed. V<sub>Y</sub> is the rate-of-clim
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to plan and perform a C172S short-field takeoff and maximum-performance climb using all available runway, the POH short-field configuration, precise liftoff and obstacle-clearance speeds, proper wind correction, and a deliberate transition from obstacle clearance to V<sub>Y</sub> and then cruise climb.**
+
+### Purpose
+
+A short-field takeoff is a **maximum-performance takeoff**.
+
+The problem is either:
+
+- **limited runway**,  
+- **an obstacle**,  
+- or both.
+
+So the goal is not simply to get airborne quickly.
+
+The goal is to:
+
+**use all available runway → reach full takeoff power before the roll → accelerate efficiently → lift off at the correct speed → climb at the obstacle-clearance speed → clear the obstacle → transition to V<sub>Y</sub> → configure → continue the climb.**
+
+The teaching story is:
+
+**plan it precisely, use every foot, don't rotate early, climb at the right speed, and do not reconfigure until the obstacle problem is solved.**
+
+---
+
+### Start With Performance — Can the Airplane Actually Do It?
+
+Before entering the runway, determine whether the takeoff is feasible.
+
+Under **14 CFR §91.103**, the PIC must become familiar with the available information necessary for the flight. For a short-field departure, that includes the runway, obstacles, wind, and takeoff performance information applicable to the airplane.
+
+Consider:
+
+- **Available runway**
+- **Runway slope**
+- **Surface**
+- **Obstacle height and location**
+- **Aircraft weight**
+- **Pressure altitude**
+- **Temperature / density altitude**
+- **Headwind / tailwind**
+- **Crosswind**
+- **Runway contamination**
+- **Pilot capability**
+- **Abort margin**
+
+The question is:
+
+**“Can I accelerate, lift off, clear the obstacle, and still retain a safe margin?”**
+
+If the answer depends on perfect technique with no margin:
+
+**that is not a good short-field takeoff plan.**
+
+---
+
+### Use the POH Performance Chart Correctly
+
+For the C172S short-field chart, the published conditions are:
+
+- **Flaps 10°**
+- **Full throttle prior to brake release**
+- **Paved, level, dry runway**
+- **Zero wind**
+
+At **2550 lb**:
+
+- **Lift off: 51 KIAS**
+- **Speed at 50 ft: 56 KIAS**
+
+Those numbers matter because the chart is tied to the exact short-field technique.
+
+The POH notes also require:
+
+- Above **3,000 ft field elevation**, lean in a full-throttle static runup to obtain **maximum RPM**.
+- Decrease chart distances **10% for each 9 knots of headwind**.
+- For tailwinds up to 10 knots, increase distance **10% for each 2 knots of tailwind**.
+- For a **dry grass runway**, increase the **ground-roll figure by 15%**.
+
+The performance chart is not a promise. It is only valid for the stated conditions, configuration, and technique.
+
+---
+
+### C172S Short-Field Procedure
+
+For the C172S:
+
+1. **Wing flaps — 10°**
+2. **Brakes — APPLY**
+3. **Throttle — FULL OPEN**
+4. **Mixture — RICH**
+    - Above **3,000 ft field elevation**, lean to obtain maximum RPM.
+5. **Brakes — RELEASE**
+6. **Elevator — SLIGHTLY TAIL LOW**
+7. **Climb speed — 56 KIAS until all obstacles are cleared**
+8. **Flaps — retract slowly after reaching 60 KIAS**
+
+The short-field technique is built around those exact steps.
+
+---
+
+### Use All Available Runway
+
+A short field is not the place to waste usable pavement.
+
+Before crossing the hold short line:
+
+- complete the checklist,
+- verify the **correct runway**,
+- determine the wind,
+- make the appropriate radio call,
+- clear final,
+- clear the runway,
+- and clear the departure path.
+
+At a towered airport, comply with the ATC clearance under **§91.123**.
+
+At a nontowered airport, CTAF calls improve awareness, but they do not guarantee the runway is clear.
+
+Use the **maximum available takeoff area**.
+
+That may mean:
+
+- entering at the runway end,
+- or back-taxiing when permitted and operationally appropriate.
+
+Then align precisely on centerline and stop.
+
+---
+
+### Wind Controls Still Matter
+
+Short-field technique does not replace normal crosswind control.
+
+Before brake release:
+
+**position the ailerons for the existing wind.**
+
+As the airplane accelerates:
+
+- use **rudder** for centerline,
+- use **aileron** to prevent lateral drift or wing rise,
+- and reduce aileron only as required as control effectiveness increases.
+
+A short runway is not an excuse to sacrifice directional control.
+
+---
+
+### Set Full Power Before Brake Release
+
+With the brakes held:
+
+**smoothly apply full throttle.**
+
+Before releasing the brakes, verify:
+
+- **Takeoff power**
+- **Engine indications normal**
+- **Flight instruments normal**
+- **No abnormal engine roughness**
+- **Runway and departure path still clear**
+
+This is one of the defining differences from a normal takeoff.
+
+The airplane begins rolling only after maximum available takeoff power is established.
+
+If indications are not normal:
+
+**do not release the brakes.**
+
+---
+
+### Brake Release — Accelerate With Minimum Drag
+
+Release the brakes and let the airplane accelerate.
+
+Maintain:
+
+- centerline,
+- wind correction,
+- and an efficient pitch attitude.
+
+Do not raise the nose early.
+
+Premature rotation:
+
+- increases angle of attack,
+- increases induced drag,
+- slows acceleration,
+- increases takeoff distance,
+- and may produce a premature liftoff below obstacle-clearance speed.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Short_Field_Effect_Premature_Lift_Off.png" alt="Effect of premature liftoff during short-field takeoff" loading="lazy">
+    <figcaption>Premature rotation increases drag and may produce liftoff before the airplane has enough speed to climb effectively, degrading obstacle clearance.</figcaption>
+</figure>
+
+The opposite error is also a problem:
+
+**do not hold the airplane on the runway with excessive forward elevator pressure.**
+
+That can increase nosewheel loading, create wheelbarrowing, and prevent the airplane from flying when it is ready.
+
+---
+
+### Liftoff — 51 KIAS at Maximum Weight
+
+At **2550 lb**, the C172S short-field chart shows:
+
+**Lift off — 51 KIAS.**
+
+The POH procedure then requires:
+
+**56 KIAS until all obstacles are cleared.**
+
+So the sequence is:
+
+**accelerate → liftoff near 51 KIAS → establish 56 KIAS → hold 56 until obstacle clear.**
+
+If the airplane becomes airborne before reaching 56 KIAS:
+
+**do not climb away below 56.**
+
+Instead:
+
+**keep the wheels just clear in ground effect, accelerate to 56 KIAS, then begin the obstacle-clearance climb.**
+
+Do not force the airplane back onto the runway.
+
+Do not continue climbing below the obstacle-clearance speed.
+
+---
+
+### Ground Effect Is Only a Transition Tool Here
+
+This is not a soft-field takeoff.
+
+You are **not trying to lift off early on purpose**.
+
+But if the airplane naturally becomes airborne below 56 KIAS:
+
+**use ground effect to accelerate to 56 KIAS before climbing away.**
+
+That distinction is important.
+
+Soft field:
+
+**lift off early by design, then accelerate in ground effect.**
+
+Short field:
+
+**accelerate on the runway to the recommended liftoff speed; only use ground effect if the airplane lifts off before obstacle-clearance speed.**
+
+---
+
+### Climb at 56 KIAS Until the Obstacle Is Clear
+
+Once 56 KIAS is established:
+
+**pitch to maintain 56 KIAS and climb.**
+
+This is the C172S obstacle-clearance speed for the short-field procedure.
+
+The ACS requires the recommended obstacle-clearance speed or V<sub>X</sub> within **±5 knots**.
+
+The instructor should teach the learner to:
+
+- set the pitch with an outside reference,
+- verify airspeed,
+- make small corrections,
+- maintain coordination,
+- and continue scanning the obstacle and departure path.
+
+Do not stare at the airspeed indicator.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Short_Field.png" alt="Short-field takeoff and obstacle-clearance climb profile" loading="lazy">
+    <figcaption>Use all available runway, establish the obstacle-clearance climb, maintain it until clear, then transition to the normal climb profile.</figcaption>
+</figure>
+
+---
+
+### Why Premature Liftoff Is Dangerous
+
+If the airplane lifts off too early and the pilot immediately tries to climb:
+
+- induced drag rises,
+- acceleration slows,
+- climb angle may flatten,
+- and the airplane may settle back toward the runway.
+
+The airplane can be airborne and still be unable to climb effectively.
+
+That is why:
+
+**liftoff is not the same as obstacle-clearance capability.**
+
+The speed must be established before asking the airplane for maximum climb performance.
+
+---
+
+### Clear the Obstacle — Then Transition to V<sub>Y</sub>
+
+Once the obstacle is cleared, or at the applicable **50-foot point** when simulating an obstacle:
+
+**lower the nose and accelerate to V<sub>Y</sub>.**
+
+For the C172S:
+
+- **V<sub>Y</sub> = 74 KIAS at sea level**
+- **V<sub>Y</sub> = 72 KIAS at 10,000 ft**
+
+The ACS requires the transition to V<sub>Y</sub> within **±5 knots**.
+
+Do not remain at 56 KIAS longer than necessary.
+
+V<sub>X</sub>/obstacle speed solves an **altitude-per-distance** problem.
+
+V<sub>Y</sub> solves an **altitude-per-time** problem.
+
+Once the obstacle is behind you:
+
+**the distance problem is over — transition to the rate-of-climb profile.**
+
+---
+
+### Retract Flaps at the Right Time
+
+The C172S POH says:
+
+**retract flaps slowly after reaching 60 KIAS.**
+
+And with 10° flaps used for takeoff, they should remain down until:
+
+- **all obstacles are cleared**, and
+- at least **60 KIAS** is reached.
+
+So the sequence is:
+
+**obstacle clear → accelerate through 60 KIAS → retract flaps slowly → continue accelerating toward V<sub>Y</sub>.**
+
+Do not retract early.
+
+Premature flap retraction can reduce lift and degrade the climb at the worst possible time.
+
+---
+
+### Transition to Cruise Climb at TPA
+
+After the short-field and obstacle-clearance portion is complete, continue the climb normally.
+
+At **TPA**, transition to **Cruise Climb**:
+
+- **70–85 KIAS**
+- **FULL THROTTLE**
+- **Mixture RICH**
+- Above **3,000 ft**, lean to obtain maximum RPM
+
+This moves the airplane out of the maximum-performance climb and into a more practical climb profile for visibility and cooling.
+
+---
+
+### Left-Turning Tendencies
+
+High power and low airspeed make left-turning tendencies pronounced.
+
+Expect:
+
+- torque,
+- spiraling slipstream,
+- P-factor,
+- and gyroscopic effects where applicable.
+
+Use the rudder necessary to maintain coordination and centerline/extended-centerline tracking.
+
+Do not memorize a fixed amount of rudder.
+
+Respond to the airplane.
+
+---
+
+### Rejected Takeoff
+
+Brief the abort before entering the runway.
+
+Reject for:
+
+- abnormal engine indications,
+- failure to achieve expected power,
+- inadequate acceleration,
+- loss of directional control,
+- runway or traffic conflict,
+- or any condition that makes continuation unsafe.
+
+The decision should be made **early**, while runway remains.
+
+If rejecting:
+
+**power idle → maintain directional control → brake as required.**
+
+---
+
+### Engine Failure After Liftoff
+
+If the engine fails after liftoff:
+
+**aircraft control first.**
+
+Immediately:
+
+- lower the nose,
+- protect airspeed,
+- maintain coordination,
+- and land toward the best available area, normally ahead.
+
+Do not try to preserve altitude by holding excessive pitch.
+
+A turnback is not the default response and requires prior training, sufficient altitude, and suitable conditions.
+
+---
+
+### Crosswind, Tailwind, Windshear, Wake, and Surface
+
+These risks matter even more on a maximum-performance departure.
+
+A **tailwind** can dramatically increase takeoff distance.
+
+A **crosswind** reduces directional-control margin.
+
+**Windshear** can erase climb performance immediately after liftoff.
+
+**Wake turbulence** can roll or sink the airplane during the low-altitude climb.
+
+A wet, contaminated, sloped, grass, or rough runway may not match the POH chart assumptions.
+
+If the combined margin is inadequate:
+
+**use another runway, reduce weight, wait, or do not depart.**
+
+---
+
+### Collision and Runway-Incursion Risk
+
+Before entering:
+
+- verify the correct runway,
+- clear final,
+- clear the runway,
+- clear intersecting runway paths,
+- and clear the departure area.
+
+Continue scanning after brake release and during the initial climb.
+
+A maximum-performance takeoff is high workload, but runway safety does not become secondary.
+
+---
+
+### Low-Altitude Risk
+
+The short-field climb is flown at a relatively low airspeed and high angle of attack.
+
+Avoid:
+
+- excessive pitch,
+- poor coordination,
+- early turns,
+- airspeed fixation,
+- or trying to out-climb the airplane's actual performance.
+
+If the airplane cannot maintain the required speed:
+
+**lower the pitch enough to preserve airspeed.**
+
+Airspeed and control come before obstacle anxiety.
+
+---
+
+### Common Errors
+
+#### Planning
+
+- **Failure to review POH/AFM and performance charts**
+- **Failure to adequately clear the area**
+- **Failure to use all available runway**
+- **Improper trim before takeoff**
+
+#### Takeoff Roll
+
+- **Premature rotation**
+- **Excessive forward elevator holding the airplane down**
+- Poor directional control
+- Failure to confirm power and engine indications
+
+#### Liftoff / Obstacle Climb
+
+- **Premature liftoff resulting in high drag**
+- **Inadequate rotation producing excessive speed**
+- **Failure to attain or maintain 56 KIAS**
+- **Climbing away below obstacle-clearance speed**
+- **Fixation on the airspeed indicator**
+
+#### Configuration / Transition
+
+- **Premature flap retraction**
+- Failure to accelerate after obstacle clearance
+- Staying at obstacle speed too long
+- Failure to transition to V<sub>Y</sub>
+
+---
+
+### Instructor Demonstration
+
+Teach the maneuver in the exact order it occurs:
+
+1. **Calculate performance** using weight, pressure altitude, temperature, wind, runway surface, and obstacles.
+2. **Brief the runway, obstacle, abort point, and engine-failure plan.**
+3. Set **flaps 10°**.
+4. Above **3,000 ft field elevation**, lean in a full-throttle static runup for **maximum RPM**.
+5. Use **all available runway** and align precisely on centerline.
+6. Set wind controls.
+7. **Brakes APPLY.**
+8. **Throttle FULL OPEN.**
+9. Confirm **power / gauges / instruments normal**.
+10. **Brakes RELEASE.**
+11. Maintain centerline and efficient acceleration.
+12. At maximum weight, lift off near **51 KIAS**.
+13. Establish **56 KIAS**.
+14. If airborne below 56, stay just above the runway in ground effect until **56 KIAS**.
+15. Climb at **56 KIAS ±5** until the obstacle is cleared.
+16. Once clear, lower pitch and accelerate.
+17. After reaching at least **60 KIAS**, retract flaps **slowly**.
+18. Continue accelerating to **V<sub>Y</sub> — 74 KIAS sea level / 72 KIAS at 10,000 ft**.
+19. Maintain V<sub>Y</sub> **±5 knots** to a safe maneuvering altitude.
+20. At **TPA**, transition to **Cruise Climb 70–85 KIAS**.
+21. Maintain directional control, wind correction, coordination, and outside scan throughout.
+
+---
+
+### ACS Coverage — Area VII, Task E
+
+**Knowledge**
+
+- **AI.VII.E.K1** — Purpose and procedures for short-field takeoff and maximum-performance climb
+- **AI.VII.E.K2** — Atmospheric and wind effects on performance
+- **AI.VII.E.K3** — V<sub>X</sub> and V<sub>Y</sub>
+- **AI.VII.E.K4** — Appropriate airplane configuration
+- **AI.VII.E.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VII.E.R1** — Runway selection, pilot capability, performance/limitations, distance, wind
+- **AI.VII.E.R2** — Crosswind, windshear, tailwind, wake turbulence, surface/condition
+- **AI.VII.E.R3** — Rejected takeoff and engine failure
+- **AI.VII.E.R4** — Collision hazards
+- **AI.VII.E.R5** — Low-altitude stall, spin, and CFIT risk
+- **AI.VII.E.R6** — Distraction, task prioritization, situational awareness, disorientation
+
+**Skills**
+
+- **AI.VII.E.S1** — Complete checklist(s)
+- **AI.VII.E.S2** — Make radio calls
+- **AI.VII.E.S3** — Verify correct runway
+- **AI.VII.E.S4** — Determine wind
+- **AI.VII.E.S5** — Position controls for wind
+- **AI.VII.E.S6** — Clear area and use maximum available runway
+- **AI.VII.E.S7** — Apply brakes while setting power
+- **AI.VII.E.S8** — Confirm takeoff power and indications before brake release/rotation
+- **AI.VII.E.S9** — Rotate/lift off at recommended airspeed and reach obstacle-clearance speed **±5 knots**
+- **AI.VII.E.S10** — Maintain obstacle-clearance speed **±5 knots** until clear or 50 ft
+- **AI.VII.E.S11** — Transition to V<sub>Y</sub> **±5 knots**
+- **AI.VII.E.S12** — Configure after positive rate / manufacturer guidance
+- **AI.VII.E.S13** — Maintain V<sub>Y</sub> **±5 knots** to safe maneuvering altitude
+- **AI.VII.E.S14** — Maintain directional control and wind-drift correction
+- **AI.VII.E.S15** — Comply with noise abatement as applicable
+- **AI.VII.E.S16** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task E
+- FAA-H-8083-3 — Airplane Flying Handbook, Short-Field Takeoff and Maximum-Performance Climb
+- FAA-H-8083-25 — Pilot’s Handbook of Aeronautical Knowledge
+- Cessna 172S POH — Short-Field Takeoff / Performance
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+
+
 
 ## AI.VII.E.K1 - Purpose of and Procedures for Short-Field Takeoff and Maximum Performance Climb
 
@@ -347,76 +940,134 @@ The applicant demonstrates while teaching a short-field takeoff and maximum-perf
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>SHORT-FIELD TAKEOFF - CFI AI.VII.E</strong>
+    <strong>SHORT-FIELD TAKEOFF & MAXIMUM PERFORMANCE CLIMB — C172S — CFI AI.VII.E</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">BRIEF</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> C172S POH: 10 degrees flaps; mixture rich; 56 KIAS obstacle speed.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Runway, all available area, obstacle, wind, surface, abort, engine failure, noise path.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> No performance calculation or obstacle plan.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">SETUP</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Checklist, clearance/status, final/runway/departure path clear.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Use all runway; centerline; wind controls; stop; brakes; full power; gauges.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Entering from expectation or releasing before indications are verified.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">BRIEF</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ROLL / ROTATE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Brakes release; centerline; slightly tail low; 56 KIAS obstacle speed.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Rudder for direction; aileron for wind; if airborne below 56, wheels just clear in ground effect.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Climbing below V<sub>X</sub> or forcing/holding the airplane on the runway.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Runway / obstacle / wind / surface / performance / abort / engine failure.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Use all available runway; verify POH chart assumptions and margin.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> No performance calculation, no obstacle plan, or wasting runway.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">OBSTACLE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> If airborne below 56 KIAS: ground effect; accelerate to 56.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Maintain 56 KIAS until obstacles clear; reach 60 KIAS; retract flaps slowly.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Climbing out before V<sub>X</sub>; forward pressure/wheelbarrowing; fixation on ASI.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>C172S:</strong> Flaps 10° | liftoff 51 KIAS @ 2550 lb | obstacle 56 KIAS.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Above 3,000 ft field elevation: lean at full-throttle static runup for max RPM.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Wrong configuration, wrong speed, or improper trim.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">TRANSITION</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Clear/50 ft: lower pitch; accelerate V<sub>Y</sub> +/-5.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Positive rate; configure per POH; maintain direction and wind correction.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Premature flap/gear retraction or failure to reach V<sub>Y</sub>.</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ABORT</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Abnormal power, acceleration, controls, runway, or traffic?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Reject while runway remains: power idle, directional control, braking per procedure.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Continuing to “see what happens.”</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Checklist; runway verified; final/runway/departure path clear.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Wind controls set; align at runway beginning; stop; brakes APPLY.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Entering without full scan or not using maximum available takeoff area.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">POWER / ROLL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Throttle FULL OPEN; verify power / gauges / instruments → RELEASE brakes.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Centerline with rudder; aileron for wind; accelerate with minimum drag.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature rotation, poor directional control, or missed engine check.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">LIFTOFF</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Lift off near <strong>51 KIAS</strong> @ 2550 lb → establish <strong>56 KIAS</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Slightly tail low; outside pitch reference; maintain coordination.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Inadequate rotation, excessive speed, or climbing below 56 KIAS.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> If airborne below 56 → <strong>stay in ground effect and accelerate to 56.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Do not force airplane back down or hold it on runway with forward pressure.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature liftoff / shallow climb / settling back to runway.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">OBSTACLE</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Maintain <strong>56 KIAS ±5</strong> until obstacle clear.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Outside scan; verify speed; maintain directional control and wind correction.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Airspeed fixation, poor coordination, or inability to maintain obstacle speed.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TRANSITION</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Obstacle clear / 50 ft → lower pitch and accelerate.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At ≥60 KIAS, retract flaps slowly.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature flap retraction or staying at 56 KIAS too long.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Establish <strong>V<sub>Y</sub>: 74 KIAS SL → 72 @ 10K</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maintain V<sub>Y</sub> ±5; coordinate; wind-correct; trim.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Failure to accelerate to V<sub>Y</sub> after obstacle clearance.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>At TPA → Cruise Climb:</strong> 70–85 KIAS, FULL THROTTLE.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Mixture RICH; above 3,000 ft, LEAN to obtain max RPM.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Staying at V<sub>Y</sub> unnecessarily after TPA.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ABORT</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Bad power / poor acceleration / control loss / runway conflict?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Reject early: power idle, directional control, braking as required.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Continuing to “see what happens.”</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Engine failure after liftoff?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Lower nose, protect airspeed, land best available.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Holding excessive pitch or forcing a turnback.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

@@ -141,6 +141,580 @@ If the safe completion of the landing is in doubt, **go around immediately**. A 
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to recognize when a landing should be discontinued and perform a prompt, controlled C172S go-around/rejected landing using the POH power, pitch, flap, airspeed, traffic, and communication sequence while maintaining directional control, obstacle clearance, and situational awareness.**
+
+### Purpose
+
+A go-around is not an emergency maneuver by default.
+
+It is a **normal landing option** whenever continuing the approach or landing is no longer the safest choice.
+
+The teaching story is:
+
+**recognize it → decide now → full power → control the pitch → configure per POH → establish the climb → avoid traffic and obstacles → communicate when safe.**
+
+The biggest danger is usually not the go-around itself.
+
+It is **waiting too long**.
+
+---
+
+### When Do We Go Around?
+
+The answer is simple:
+
+**whenever the safe completion of the landing is in doubt.**
+
+Examples include:
+
+- unstable approach,
+- too high or too low,
+- excessive sink,
+- excessive speed or float,
+- poor runway alignment,
+- crosswind drift that cannot be corrected,
+- windshear,
+- wake turbulence,
+- runway incursion,
+- vehicle, animal, or aircraft on the runway,
+- ATC instruction,
+- mechanical concern,
+- bounced landing,
+- porpoise,
+- loss of directional control,
+- or anything else that makes continuing unsafe.
+
+The ACS specifically tests the ability to make a **timely decision**.
+
+So I would tell the learner:
+
+**“If you are debating whether you need to go around, that is usually the cue to go around.”**
+
+Once the decision is made:
+
+**commit to it.**
+
+Do not add power and then change your mind because the runway suddenly looks usable again.
+
+---
+
+### The Four C’s
+
+A useful memory aid is:
+
+**Cram — Climb — Clean — Call**
+
+But it is only a memory aid.
+
+The **POH procedure controls the actual sequence**.
+
+For the C172S, flap reduction starts immediately after power application, so do not let the mnemonic delay the POH-required flap change.
+
+#### Cram
+
+**Full power — smoothly and immediately.**
+
+#### Climb
+
+Stop the descent, establish the proper climb attitude, and protect the airspeed.
+
+#### Clean
+
+Reduce drag **in accordance with the POH**, not all at once.
+
+#### Call
+
+Communicate only after the airplane is under control and safely climbing.
+
+---
+
+### C172S Balked Landing Procedure
+
+For the C172S, the POH procedure is:
+
+1. **Throttle — FULL OPEN**
+2. **Wing flaps — RETRACT TO 20°**
+3. **Climb speed — 60 KIAS**
+4. **Wing flaps — 10° until obstacles are cleared**
+5. **Retract remaining flaps after reaching a safe altitude and 65 KIAS**
+
+Above **3,000 feet**, lean the mixture to obtain maximum RPM.
+
+The POH narrative makes the sequence clear:
+
+- Full power first.
+- Reduce flaps to **20° immediately**.
+- Establish **60 KIAS**.
+- If obstacles must be cleared, reduce to **10°** and maintain a safe airspeed until clear.
+- After obstacles are clear, retract the remaining flaps as the airplane accelerates toward the normal flaps-up climb speed.
+
+This manufacturer guidance is important because the ACS says configuration changes occur after positive rate **or in accordance with manufacturer guidance**. fileciteturn71file0L56-L64
+
+---
+
+### Why the Decision Must Be Immediate
+
+At low altitude there is almost no time to waste.
+
+The airplane may still be:
+
+- descending,
+- slow,
+- highly configured,
+- nose-up trimmed,
+- close to obstacles,
+- and close to other traffic.
+
+Every second of indecision makes the problem harder.
+
+So the sequence begins with the decision:
+
+**“Go around.”**
+
+Then immediately:
+
+**full power.**
+
+Do not wait to make a radio call.
+
+Do not reach for the flap lever first.
+
+Do not start trimming first.
+
+**Power first.**
+
+---
+
+### Power — Smoothly to Full
+
+Once the go-around decision is made:
+
+**apply full throttle smoothly but promptly.**
+
+The ACS requires takeoff power **immediately**.
+
+The airplane may react strongly because we are typically:
+
+- at low airspeed,
+- at high angle of attack,
+- trimmed nose-up,
+- and adding a large amount of power.
+
+Expect:
+
+- nose-up pitching tendency,
+- left yaw,
+- torque,
+- spiraling slipstream,
+- and P-factor.
+
+So as power comes in:
+
+**forward pressure as needed + right rudder as needed.**
+
+Do not let the nose pitch up uncontrollably.
+
+Do not allow the airplane to yaw left.
+
+---
+
+### Pitch — Stop the Descent Before You Demand the Climb
+
+A common mistake is:
+
+**power full → immediately pull hard for climb.**
+
+That can lead to a power-on stall.
+
+The airplane may still have downward inertia.
+
+First:
+
+**stop the descent.**
+
+Then establish the climb attitude and let the airplane accelerate toward the target speed.
+
+The teaching cue is:
+
+**Power → arrest sink → establish climb attitude → protect airspeed.**
+
+Do not pitch so aggressively that airspeed decays.
+
+Do not remain nose-low and continue descending with full power.
+
+---
+
+### Trim — Expect a Strong Nose-Up Force
+
+The airplane may be heavily trimmed for the landing approach.
+
+When full power is added, that trim can produce substantial nose-up control pressure.
+
+This is the classic **elevator-trim stall risk**.
+
+The pilot may need significant forward pressure initially.
+
+Once the airplane is under control:
+
+**rough trim to relieve the pressure.**
+
+Then fine-tune the trim after the climb is stable.
+
+Do not become heads-down trimming while close to the ground.
+
+---
+
+### C172S Configuration — Do Not Dump the Flaps
+
+This is one of the most important pieces of the maneuver.
+
+The C172S POH does **not** say:
+
+**full power → flaps up.**
+
+It says:
+
+**full power → flaps 20°.**
+
+Why?
+
+Because full flap creates drag, but an abrupt complete retraction also removes lift.
+
+So the cleanup must be progressive.
+
+The C172S sequence is:
+
+**30° → 20° immediately → establish 60 KIAS → 10° for obstacle clearance → UP after safe altitude and 65 KIAS.**
+
+Do not rush the final flap retraction.
+
+---
+
+### Ground Effect — Do Not Climb Out Too Early
+
+Very close to the runway, ground effect reduces induced drag.
+
+That can make the airplane feel like it has more climb performance than it really does.
+
+If you pitch up and leave ground effect before the airplane has enough airspeed:
+
+- induced drag increases,
+- climb performance may disappear,
+- the airplane may settle,
+- or the airplane may stall.
+
+So:
+
+**do not try to force the airplane away from the runway before it is ready.**
+
+If the airplane is very low:
+
+**use the available ground effect, accelerate, then climb when the airspeed supports it.**
+
+The ACS specifically includes premature climb out of ground effect as a common error/risk.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Go_Around_Procedure.png" alt="Go-around sequence showing power application, pitch control, configuration changes, positive climb, and transition to cruise climb" loading="lazy">
+    <figcaption>Go-around sequence — make the decision early, apply power, control pitch and airspeed, clean up progressively, establish the climb, then communicate.</figcaption>
+</figure>
+
+---
+
+### Which Climb Speed?
+
+The ACS requires the applicant to establish **V<sub>X</sub> or V<sub>Y</sub> as appropriate, within ±5 knots**. fileciteturn71file0L56-L64
+
+For the C172S balked landing procedure itself:
+
+**60 KIAS** is the initial climb speed.
+
+Then:
+
+- obstacle present → maintain the POH obstacle-clearance profile,
+- obstacle clear → accelerate toward the normal climb profile.
+
+Your C172S speeds are:
+
+- **V<sub>X</sub>: 62 KIAS at sea level → 67 KIAS at 10,000 ft**
+- **V<sub>Y</sub>: 74 KIAS at sea level → 72 KIAS at 10,000 ft**
+- **Cruise Climb: 70–85 KIAS**
+
+So the practical flow is:
+
+**60 KIAS initial balked climb → clear obstacle/configure → V<sub>Y</sub> → Cruise Climb when appropriate.**
+
+---
+
+### Directional Control and Wind Correction
+
+A go-around is essentially a takeoff that begins from the landing configuration.
+
+That means all the takeoff control issues return immediately.
+
+Maintain:
+
+- runway centerline or assigned departure track,
+- appropriate crosswind correction,
+- coordination,
+- and outside reference.
+
+Expect strong left-turning tendencies because of:
+
+- high power,
+- low airspeed,
+- and high angle of attack.
+
+Use the rudder required to keep the airplane coordinated and tracking correctly.
+
+---
+
+### Traffic — Do Not Climb Into Somebody
+
+A go-around may be caused by conflicting traffic, and the go-around itself can create another conflict.
+
+The ACS specifically requires maneuvering to the **side of the runway/landing area when necessary to avoid conflicting traffic**. fileciteturn71file0L56-L64
+
+That does **not** mean automatically sidestepping every go-around.
+
+It means:
+
+**maintain the safest track based on traffic, parallel runways, obstacles, and ATC instructions.**
+
+Keep the conflicting airplane in sight if practical.
+
+Do not turn blindly across another runway or traffic path.
+
+Under **14 CFR §91.113**, collision avoidance remains the pilot’s responsibility.
+
+---
+
+### ATC and Radio Calls — Fly First
+
+If ATC tells you to go around:
+
+**go around immediately.**
+
+Under **14 CFR §91.123**, comply with ATC clearances and instructions unless an exception applies.
+
+But the radio still comes after aircraft control.
+
+The order is:
+
+**Aviate → Navigate → Communicate.**
+
+So:
+
+1. full power,
+2. pitch and airspeed,
+3. configuration,
+4. traffic/obstacle path,
+5. then radio.
+
+At a towered airport:
+
+**“Going around.”**
+
+At a nontowered airport:
+
+make the appropriate CTAF call after the airplane is safely climbing.
+
+---
+
+### LAHSO
+
+A go-around may still be required after accepting a LAHSO clearance.
+
+If the landing becomes unsafe:
+
+**do not force the landing just to comply with the hold-short point.**
+
+Go around.
+
+Then manage traffic and ATC instructions.
+
+The ACS specifically includes managing a go-around after accepting LAHSO as a risk item. fileciteturn71file0L44-L52
+
+---
+
+### Runway Incursion
+
+A runway incursion is one of the classic reasons for a go-around.
+
+That could be:
+
+- another airplane,
+- a vehicle,
+- an animal,
+- or an aircraft entering from an intersecting taxiway/runway.
+
+Do not become so focused on the go-around procedure that you stop looking outside.
+
+The runway conflict may continue to develop while you are climbing away.
+
+---
+
+### Windshear, Tailwind, Wake, and Density Altitude
+
+A go-around does not guarantee good climb performance.
+
+High density altitude means:
+
+- less engine/propeller performance,
+- less excess power,
+- longer acceleration,
+- and weaker climb.
+
+A tailwind increases groundspeed over obstacles.
+
+Windshear can remove airspeed or climb performance suddenly.
+
+Wake turbulence can roll the airplane during the initial climb.
+
+So after deciding to go around:
+
+**fly the airplane you actually have, not the climb performance you expected.**
+
+If the airplane will not climb at the pitch you selected:
+
+**lower the nose enough to preserve airspeed.**
+
+---
+
+### Common Errors
+
+#### Recognition / Decision
+
+- **Failure to recognize the need for a go-around**
+- **Indecision**
+- **Delayed initiation**
+
+Correction:
+
+**brief triggers before final and commit immediately when one occurs.**
+
+#### Power
+
+- **Failure to apply full power**
+- **Delayed power**
+- **Abrupt power application**
+
+Correction:
+
+**full power smoothly and promptly.**
+
+#### Pitch
+
+- **Improper pitch attitude**
+- **Overpitch**
+- **Failure to stop the descent**
+- **Premature climb out of ground effect**
+
+Correction:
+
+**control pitch first, protect airspeed, and climb only when performance supports it.**
+
+#### Configuration
+
+- **Failure to configure correctly**
+- **Premature flap retraction**
+
+Correction:
+
+**follow the C172S sequence: 20° → 60 KIAS → 10° obstacle clearance → UP after safe altitude and 65 KIAS.**
+
+#### Directional Control
+
+- **Failure to compensate for torque/P-factor**
+- **Loss of directional control**
+
+Correction:
+
+**right rudder as required, wind correction, outside reference, maintain track.**
+
+---
+
+### Instructor Demonstration
+
+Teach it exactly as it happens:
+
+1. Establish a normal stabilized approach.
+2. Identify a reason to discontinue the landing.
+3. **Announce: “Go around.”**
+4. **Throttle FULL OPEN — smoothly and immediately.**
+5. Apply **forward pressure** as needed to prevent overpitch.
+6. Apply **right rudder** as needed for left-turning tendencies.
+7. **Flaps → 20° immediately** per POH.
+8. Stop the descent and establish the climb attitude.
+9. Establish **60 KIAS**.
+10. If obstacles exist, **flaps → 10°** and maintain the required obstacle-clearance profile.
+11. Maintain runway/departure track and wind correction.
+12. Maneuver to the side only if necessary to avoid traffic or obstacles.
+13. Once obstacles are clear and at a safe altitude, accelerate.
+14. At **65 KIAS**, retract remaining flaps.
+15. Accelerate toward **V<sub>Y</sub>** and continue to a safe maneuvering altitude.
+16. Transition to **Cruise Climb 70–85 KIAS** when appropriate.
+17. Trim once the airplane is stable.
+18. **Then communicate.**
+19. Complete the climb checklist.
+20. Re-enter the pattern or continue as instructed.
+
+A simple verbal flow is:
+
+**“Go around — full power — forward pressure — right rudder — flaps 20 — 60 knots — obstacle clear, flaps 10 — safe altitude and 65, flaps up — VY — then call.”**
+
+---
+
+### ACS Coverage — Area VII, Task N
+
+**Knowledge**
+
+- **AI.VII.N.K1** — Purpose and procedures for go-around/rejected landing
+- **AI.VII.N.K2** — Stabilized approach and energy management
+- **AI.VII.N.K3** — Atmospheric effects including wind and density altitude
+- **AI.VII.N.K4** — Wind correction techniques
+- **AI.VII.N.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VII.N.R1** — Delayed recognition
+- **AI.VII.N.R2** — Delayed performance at low altitude
+- **AI.VII.N.R3** — Power application
+- **AI.VII.N.R4** — Configuration
+- **AI.VII.N.R5** — Collision hazards
+- **AI.VII.N.R6** — Low-altitude stall, spin, or CFIT
+- **AI.VII.N.R7** — Distraction, task prioritization, SA, disorientation
+- **AI.VII.N.R8** — Go-around after accepting LAHSO
+- **AI.VII.N.R9** — Runway incursion
+
+**Skills**
+
+- **AI.VII.N.S1** — Complete checklist(s)
+- **AI.VII.N.S2** — Make radio calls as appropriate
+- **AI.VII.N.S3** — Make a timely go-around decision
+- **AI.VII.N.S4** — Apply takeoff power immediately and establish V<sub>X</sub>/V<sub>Y</sub> as appropriate **±5 knots**
+- **AI.VII.N.S5** — Configure after positive rate or per manufacturer guidance
+- **AI.VII.N.S6** — Maneuver to the side when necessary to avoid conflicting traffic
+- **AI.VII.N.S7** — Maintain V<sub>Y</sub> **±5 knots** to a safe maneuvering altitude
+- **AI.VII.N.S8** — Maintain directional control and wind-drift correction
+- **AI.VII.N.S9** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task N
+- FAA-H-8083-3 — Airplane Flying Handbook, Go-Arounds / Rejected Landings
+- Cessna 172S POH — Balked Landing
+- **14 CFR §91.113** — Right-of-way / collision avoidance
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+
+
 ## AI.VII.N.K1 - Purpose of and Procedures for Go-Around or Rejected Landing
 
 A go-around is a **normal maneuver** used when landing parameters deviate from expectations or continuation is hazardous. Decide early and commit: **apply maximum allowable power immediately**, establish the correct climb pitch, maintain directional control, configure after positive rate, and communicate when safe.
@@ -316,65 +890,115 @@ The applicant demonstrates while teaching a go-around/rejected landing: timely r
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>GO-AROUND / REJECTED LANDING - CFI AI.VII.N</strong>
+    <strong>GO-AROUND / REJECTED LANDING — C172S — CFI AI.VII.N</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">DECIDE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Unsafe, unstable, runway/traffic hazard, windshear, bounce, or doubt?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Commit early; do not salvage a bad landing.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Delay or indecision.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">POWER / PITCH</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Full throttle; forward pressure; climb attitude; right rudder.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Control pitch and airspeed; expect nose-up trim reaction.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Overpitch, torque/P-factor yaw, power-on stall.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">DECIDE</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">C172S BALKED</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Flaps 20; climb 60 KIAS; flaps 10 until obstacles clear.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Retract flaps after safe altitude and 65 KIAS.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Premature retraction or loss of airspeed.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Unsafe / unstable / runway conflict / windshear / bounce / doubt?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Decide early and commit — do not try to salvage it.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Failure to recognize, indecision, or delayed go-around.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">CLIMB / TRACK</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Positive rate; V<sub>X</sub>/V<sub>Y</sub>; outside scan; clear traffic/obstacles.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Move to side of runway when necessary; maintain wind correction.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Early turn, runway/traffic conflict, head-down fixation.</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">COMMUNICATE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Safe climb and traffic picture established.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Report go-around, complete climb checklist, rejoin as instructed.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Talking before aircraft control is secure.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CRAM</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Throttle FULL OPEN</strong> — smoothly and immediately.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Forward pressure as needed; right rudder for left-turning tendencies.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Partial/delayed power, abrupt application, overpitch, or yaw.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CLIMB</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Stop descent → establish climb attitude → protect airspeed.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Do not pitch out of ground effect before the airplane can sustain the climb.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature climb, elevator-trim stall, or continuing descent with full power.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>C172S initial balked climb: 60 KIAS.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Obstacle / traffic / wind correction / runway track remain primary.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Airspeed fixation or loss of directional control.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CLEAN</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Flaps → 20° immediately</strong> after full power.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> POH controls — do not dump flaps UP.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Improper flap sequencing or abrupt full retraction.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Obstacle present? <strong>Flaps → 10°</strong> until clear.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maintain safe airspeed / required obstacle-clearance profile.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Cleaning up before obstacle problem is solved.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Safe altitude + <strong>65 KIAS</strong> → retract remaining flaps.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Accelerate to V<sub>Y</sub> 74 KIAS SL → 72 @ 10K.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature final flap retraction or staying slow too long.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>At TPA → Cruise Climb:</strong> 70–85 KIAS, FULL THROTTLE.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Mixture RICH; above 3,000 ft, LEAN to obtain max RPM.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Staying at V<sub>Y</sub> unnecessarily after TPA.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TRACK</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Maintain runway / departure track and wind correction.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maneuver to side only when needed to avoid traffic / obstacles.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Early blind turn, traffic conflict, or poor wind correction.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CALL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Safe climb established → then communicate.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> “Going around” / CTAF call; complete climb checklist when workload permits.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Talking or checklist work before aircraft control is secure.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

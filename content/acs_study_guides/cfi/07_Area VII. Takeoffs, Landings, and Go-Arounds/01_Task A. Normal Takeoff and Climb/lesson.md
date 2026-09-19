@@ -149,6 +149,893 @@ Stop before the hold-short line unless authorized to cross. At a towered airport
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to plan, perform, and evaluate a normal or crosswind takeoff and climb while maintaining directional control, using the correct performance data and configuration, managing the major takeoff risks, and recognizing when the takeoff should be rejected.**
+
+### Purpose
+
+A takeoff looks simple because the airplane starts on the ground and accelerates until it flies.
+
+But the real lesson is broader:
+
+**Can I safely use this runway, accelerate normally, lift off under control, and establish a safe climb with enough margin for the conditions?**
+
+Teach it as one continuous sequence:
+
+1. **Decide whether the takeoff is workable.**
+2. **Configure and brief before entering the runway.**
+3. **Verify the runway, wind, traffic, and takeoff path.**
+4. **Apply power smoothly and confirm the airplane is performing normally.**
+5. **Maintain centerline and correct for wind.**
+6. **Rotate and let the airplane fly when it is ready.**
+7. **Accelerate to the appropriate climb speed and establish the departure path.**
+8. **Manage crosswind, density altitude, wake, obstacles, and abnormal events.**
+9. **Analyze any error and correct it before the next takeoff.**
+
+---
+
+### Start With the Performance Decision
+
+Before entering the runway, answer:
+
+**“Can this airplane safely take off from this runway, in these conditions, today?”**
+
+Under **14 CFR §91.103**, the PIC must know the runway length and use takeoff-distance information appropriate to the airplane and expected conditions.
+
+Use the **actual POH/AFM**, not remembered numbers.
+
+Consider:
+
+- **Aircraft weight**
+- **Pressure / density altitude**
+- **Temperature**
+- **Wind**
+- **Runway length**
+- **Runway slope**
+- **Runway surface and condition**
+- **Obstacles**
+- **Available climb performance**
+- **Pilot capability**
+
+A legal runway can still be a poor operational choice.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Performance.png" alt="Takeoff distance and climb performance decreasing as density altitude increases" loading="lazy">
+    <figcaption>Takeoff performance — as density altitude increases, takeoff distance increases and climb performance decreases.</figcaption>
+</figure>
+
+The planning question is not:
+
+**“Will it probably get off the ground?”**
+
+It is:
+
+**“Do I have enough runway and climb margin if actual performance is worse than the book number?”**
+
+---
+
+### High Density Altitude — Performance and Mixture
+
+High density altitude reduces:
+
+- **Engine power**
+- **Propeller thrust**
+- **Wing performance for a given groundspeed**
+- **Rate of climb**
+
+It also increases the **true airspeed and groundspeed** associated with a given indicated airspeed, so the airplane uses more runway and covers more ground while climbing.
+
+At high density altitude, do not assume **full rich** automatically produces maximum power.
+
+Use the airplane's **POH/AFM leaning procedure**.
+
+For a normally aspirated airplane, the technique may require leaning before takeoff to obtain maximum available power. FAA guidance specifically recommends following the aircraft procedure for high-altitude takeoffs.
+
+For the **C172S**, the POH is more specific:
+
+**Prior to takeoff from fields above 3,000 feet elevation, lean the mixture during a full-throttle static run-up to obtain maximum RPM.**
+
+That is an aircraft-specific procedure, not a universal rule for every airplane.
+
+So the teaching point is:
+
+**High density altitude is both a performance problem and, in some airplanes, a mixture-setting problem. A pilot should receive actual instruction in the high-DA leaning procedure before needing it operationally.**
+
+---
+
+### Know the Climb Speeds Before You Roll
+
+Before takeoff, identify the speeds that matter for the actual airplane.
+
+**V<sub>X</sub> — Best Angle of Climb**
+
+- Greatest altitude gain for a given **horizontal distance**
+- Used when **obstacle clearance** is the controlling problem
+
+**V<sub>Y</sub> — Best Rate of Climb**
+
+- Greatest altitude gain in the **shortest time**
+- Normal climb target after a standard takeoff unless another procedure applies
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Vx_Vy_Speeds.png" alt="Comparison of best angle of climb Vx and best rate of climb Vy" loading="lazy">
+    <figcaption>V<sub>X</sub> solves a distance problem; V<sub>Y</sub> solves a time problem. Use the POH/AFM values for the actual airplane.</figcaption>
+</figure>
+
+Do not teach V<sub>X</sub> and V<sub>Y</sub> as fixed numbers across airplanes.
+
+They may vary with:
+
+- Weight
+- Altitude
+- Configuration
+- Aircraft model
+
+The POH/AFM controls.
+
+---
+
+### Configure and Brief Before the Runway
+
+Complete the appropriate **before-takeoff checklist** before entering the runway.
+
+Verify the manufacturer-required:
+
+- Flap setting
+- Trim
+- Mixture
+- Propeller control, if applicable
+- Fuel selector
+- Cowl flaps, if applicable
+- Flight controls
+- Avionics / navigation setup
+- Doors and windows
+- Takeoff power configuration
+
+Then make the departure brief.
+
+At minimum, know:
+
+- **Runway**
+- **Wind**
+- **Takeoff performance**
+- **V-speeds**
+- **Obstacles**
+- **Departure path**
+- **Rejected-takeoff plan**
+- **Engine-failure plan**
+- **Wake-turbulence concern**
+- **Noise-abatement procedure, if applicable**
+
+The purpose is to make the important decisions **before acceleration begins**.
+
+### C172S Takeoff Configuration
+
+For the **C172S**, the POH permits **0°–10° flaps for normal takeoff**.
+
+- Flaps greater than **10° are not approved for takeoff**.
+- Using **10° flaps** reduces ground roll and total distance over a 50-foot obstacle by approximately **10 percent**.
+- If 10° flaps are used, leave them extended until obstacles are cleared and at least **60 KIAS** is reached before retracting.
+
+The short-field **56 KIAS obstacle-clearance technique** and soft-field technique belong in their respective Tasks, but the learner should recognize why the flap setting changes with the mission.
+
+For a **strong crosswind**, the C172S POH recommends using the **minimum flap setting necessary for the available field length** to minimize the drift angle immediately after liftoff.
+
+---
+
+### Verify the Runway and Takeoff Path
+
+Before crossing the hold-short line or entering the takeoff path:
+
+- Make the appropriate radio call.
+- Verify the **assigned or intended runway**.
+- Check the runway designation and heading.
+- Clear final approach.
+- Clear the runway.
+- Clear the departure path.
+- Confirm no conflicting aircraft, vehicle, or person is present.
+
+At a towered airport, comply with the applicable ATC clearance.
+
+At a nontowered airport, a CTAF transmission improves awareness but **does not prove the runway is clear**.
+
+This is where **runway-incursion avoidance** becomes part of the takeoff maneuver.
+
+If anything is uncertain:
+
+**stop before entering the runway.**
+
+---
+
+### Determine the Wind Before You Add Power
+
+Know the wind from:
+
+- ATIS / AWOS / ASOS
+- Windsock
+- Other visual indicators
+- Reported traffic conditions
+
+Then position the flight controls before beginning the roll.
+
+With no meaningful crosswind, ailerons may be approximately neutral.
+
+With a crosswind:
+
+**start with aileron into the wind.**
+
+The amount of input changes as speed increases and the controls become more effective.
+
+---
+
+### Align on Centerline and Establish the Sight Picture
+
+Taxi into position and align the airplane:
+
+- On the **runway centerline**
+- Nosewheel straight
+- Longitudinal axis aligned with the runway
+
+Look well down the runway and establish a distant reference.
+
+The learner should understand what the airplane looks like when it is actually centered.
+
+Do not let the takeoff become an instrument exercise.
+
+**The primary directional picture is outside.**
+
+---
+
+### Apply Takeoff Power Smoothly
+
+Release the brakes as appropriate and advance the throttle **smoothly and continuously** to takeoff power.
+
+Do not slam the throttle forward.
+
+Abrupt power application can produce a sharp yaw and makes directional control more difficult.
+
+As power comes in, expect the airplane's **left-turning tendencies** to increase.
+
+The important ones are:
+
+- Torque reaction
+- Spiraling slipstream
+- P-factor
+- Gyroscopic precession, when applicable
+
+The practical correction is not a memorized rudder pressure.
+
+It is:
+
+**use the rudder required to keep the airplane aligned with the runway.**
+
+Be ready for right rudder in a typical single-engine propeller airplane, but do not overcorrect.
+
+---
+
+### Confirm the Airplane Is Performing Normally
+
+The first part of the takeoff roll is also a **power and systems check**.
+
+Before rotation, confirm:
+
+- **Takeoff power is achieved**
+- **Engine indications are normal**
+- **Airspeed is alive**
+- **Acceleration looks and feels reasonable**
+- **Directional control is normal**
+
+For the **C172S**, the POH specifically says to check **full-throttle engine operation early in the takeoff roll**.
+
+Any sign of:
+
+- **Rough engine operation**
+- **Sluggish engine acceleration**
+- Abnormal engine indication
+
+is good reason to **discontinue the takeoff**.
+
+If that occurs, the POH recommends a thorough full-throttle static run-up before another takeoff attempt. The engine should run smoothly and, with the mixture leaned for maximum RPM, produce approximately **2300–2400 RPM** during that static check.
+
+This supports **AI.VII.A.S8** directly: apply power smoothly and confirm proper engine and flight-instrument indications **before rotation**.
+
+If:
+
+- power is low,
+- the engine is rough,
+- acceleration is sluggish,
+- airspeed is not responding,
+- directional control is questionable,
+- or the runway becomes unsafe,
+
+**reject the takeoff while the problem is still on the ground.**
+
+---
+
+### Maintain Directional Control During Acceleration
+
+As speed increases:
+
+- Keep the nose tracking the centerline.
+- Use smooth rudder corrections.
+- Keep unnecessary brake pressure off.
+- Keep the wings controlled with aileron.
+- Maintain an outside scan.
+
+The airplane transitions from being **taxied** to being **flown** as aerodynamic control effectiveness increases.
+
+That means control inputs should become more precise as speed builds.
+
+---
+
+### Crosswind Takeoff — Same Takeoff, More Control
+
+A crosswind takeoff follows the same overall sequence, but wind correction becomes a continuous control task.
+
+Start the roll with **aileron into the wind**.
+
+Use rudder to keep the airplane:
+
+- Pointed straight
+- On the runway centerline
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Crosswind.png" alt="Crosswind takeoff control inputs from the takeoff roll through the climb" loading="lazy">
+    <figcaption>Crosswind takeoff — begin with aileron into the wind, use rudder for runway alignment, and transition to the appropriate crab after liftoff.</figcaption>
+</figure>
+
+As the airplane accelerates, the ailerons become more effective.
+
+So:
+
+**reduce aileron deflection as necessary, but do not remove the wind correction mechanically.**
+
+Judge the required control input from what the airplane is actually doing.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Crosswind_Effect.png" alt="Effect of wind without and with proper crosswind control correction" loading="lazy">
+    <figcaption>Crosswind effect — use enough aileron to prevent the upwind wing from lifting and enough rudder to preserve runway alignment.</figcaption>
+</figure>
+
+Do not allow:
+
+- The upwind wing to rise
+- The airplane to weathervane off centerline
+- Side-skipping
+- Excessive bank at liftoff
+
+In a significant crosswind, the **C172S POH** calls for the airplane to accelerate to a speed **slightly higher than normal** and then be **pulled off briskly** to prevent settling back onto the runway while drifting.
+
+That does **not** mean inventing a fixed extra number of knots.
+
+Use the actual airplane's POH procedure, maintain sufficient aileron into the wind, and avoid premature liftoff or side-skipping.
+
+---
+
+### Rotate — Do Not Force the Airplane Into the Air
+
+At the **manufacturer-recommended rotation speed**, apply smooth elevator pressure and establish the proper takeoff attitude.
+
+The goal is not to “pull the airplane off.”
+
+The goal is to place it in an attitude that allows it to **lift off normally**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Attitude.png" alt="Initial takeoff roll and takeoff attitude at rotation" loading="lazy">
+    <figcaption>Takeoff attitude — rotate smoothly to the aircraft-specific attitude rather than forcing the airplane into the air.</figcaption>
+</figure>
+
+If pitch is too aggressive:
+
+- the airplane may lift off before it has adequate energy,
+- settle back,
+- or approach a stall.
+
+If pitch is insufficient:
+
+- the airplane may remain on the runway unnecessarily,
+- or lift off and settle back because the attitude is not maintained.
+
+Use the outside horizon as the primary pitch reference, then **cross-check airspeed**.
+
+Do not chase the airspeed indicator with constant pitch changes.
+
+---
+
+### Ground Effect — Why the Airplane May Fly Before It Is Ready to Climb
+
+As the airplane lifts off, it enters **ground effect**.
+
+Near the surface, induced drag is reduced. That means the airplane may become airborne at a speed at which it is not yet ready to climb efficiently out of ground effect.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Ground_Effect.png" alt="Airplane accelerating in ground effect before climbing" loading="lazy">
+    <figcaption>Ground effect — the airplane may become airborne before reaching the speed needed for an effective climb. Allow it to accelerate before climbing away.</figcaption>
+</figure>
+
+So if the airplane lifts off slightly early:
+
+**do not force a steep climb.**
+
+Maintain control, stay in ground effect as appropriate, and allow the airplane to accelerate to the required climb speed.
+
+This is especially important when:
+
+- density altitude is high,
+- the airplane is heavy,
+- the runway is soft,
+- or the airplane was lifted off prematurely.
+
+---
+
+### Establish the Initial Climb
+
+Once airborne, transition from liftoff to climb.
+
+The sequence is:
+
+**pitch → accelerate → verify → trim**
+
+Establish the pitch attitude that produces the manufacturer's recommended climb speed or **V<sub>Y</sub>**.
+
+Maintain:
+
+- **V<sub>Y</sub> ±5 knots**
+- Coordinated flight
+- Directional control
+- Wind-drift correction
+- Outside traffic scan
+
+For the **C172S**, this is the **initial climb** portion of the departure. Once safely established and clear of the immediate takeoff environment, the POH's normal **enroute climb** is normally flown **5–10 knots faster than best-rate speed** for a better combination of **visibility, engine cooling, and performance**.
+
+For maximum rate of climb, use the POH's published **V<sub>Y</sub>** schedule. If obstacle clearance requires the steepest climb angle, use **V<sub>X</sub>**, flaps up, and maximum power as specified by the POH.
+
+So teach the transition clearly:
+
+**initial takeoff climb at the ACS-required / manufacturer-recommended speed → then, when appropriate, transition to the POH enroute climb speed.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Climb.png" alt="Normal takeoff progressing from takeoff roll through initial and en route climb" loading="lazy">
+    <figcaption>Takeoff and climb — move from takeoff power and liftoff to the appropriate climb speed, then transition to the manufacturer-recommended en route climb when appropriate.</figcaption>
+</figure>
+
+Set the attitude with the horizon, hold it long enough for the airspeed to respond, then cross-check the instrument.
+
+**Do not chase V<sub>Y</sub> with constant pitch changes.**
+
+After the climb is stable:
+
+**trim off sustained control pressure.**
+
+---
+
+### Correct for Wind After Liftoff
+
+During a crosswind takeoff, the ground roll is normally flown with a **sideslip-type correction**:
+
+- Aileron into wind
+- Rudder to maintain runway alignment
+
+After the airplane is safely airborne and clear of side-loading concerns, transition to coordinated flight and establish the **crab required to maintain the extended runway centerline or assigned departure path**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Crosswind_Flightpath.png" alt="Crosswind takeoff flight path showing drift correction after liftoff" loading="lazy">
+    <figcaption>Crosswind departure path — after liftoff, establish the wind-correction angle required to maintain the intended ground track.</figcaption>
+</figure>
+
+Do not let the airplane drift toward:
+
+- a parallel runway,
+- obstacles,
+- or another departure path.
+
+---
+
+### V<sub>X</sub>, V<sub>Y</sub>, and the Departure Problem
+
+A normal takeoff generally transitions toward **V<sub>Y</sub>**.
+
+But if an obstacle makes horizontal distance the limiting factor, the POH/AFM may call for **V<sub>X</sub>** or another obstacle-clearance procedure.
+
+The difference is visual:
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Vx_Vy_Speeds.png" alt="Best angle and best rate climb paths" loading="lazy">
+    <figcaption>Use V<sub>X</sub> when the problem is altitude per distance; use V<sub>Y</sub> when the problem is altitude per time.</figcaption>
+</figure>
+
+Once the obstacle is no longer the controlling problem:
+
+**transition to the manufacturer-recommended climb speed.**
+
+---
+
+### Configure the Airplane as the Manufacturer Directs
+
+After liftoff, do not rush configuration changes.
+
+First establish:
+
+- Aircraft control
+- Positive climb
+- Correct airspeed
+- Safe flightpath
+
+Then configure the airplane in accordance with the POH/AFM.
+
+For the **C172S**:
+
+- Normal takeoff flaps may be **0°–10°**.
+- If **10° flaps** were used, leave them down until obstacles are cleared and at least **60 KIAS** is reached.
+- Normal enroute climb is with **flaps UP and full throttle**.
+- The mixture is **full rich below 3,000 feet** and may be leaned above 3,000 feet for smoother operation or to obtain maximum RPM, according to the POH.
+
+Other airplanes may require different:
+
+- Flap retraction
+- Gear retraction
+- Mixture adjustment
+- Propeller / power adjustment
+- Cowl-flap changes
+
+The sequence is airplane-specific.
+
+Do not retract flaps early simply because the airplane is airborne.
+
+---
+
+### Continue to a Safe Maneuvering Altitude
+
+Maintain the manufacturer's recommended climb speed or **V<sub>Y</sub> ±5 knots** to a safe maneuvering altitude.
+
+Continue:
+
+- Wind-drift correction
+- Coordination
+- Traffic scan
+- Engine-instrument monitoring
+- Runway / departure-path orientation
+
+Do not bury the pilot's attention in a checklist immediately after liftoff.
+
+**Aviate first.**
+
+Complete after-takeoff / climb items when aircraft control and altitude permit.
+
+---
+
+### Wake Turbulence
+
+Before takeoff, consider the aircraft that departed ahead.
+
+A larger aircraft can leave vortices that:
+
+- Trail behind it
+- Sink
+- Drift with the wind
+
+For a departure behind a larger aircraft:
+
+- Consider delaying the takeoff.
+- Rotate before its rotation point when appropriate.
+- Remain above its departure path.
+- Turn clear of the wake when safe.
+
+Do not accept an intersection departure or immediate departure if the wake risk is unacceptable.
+
+---
+
+### Windshear and Tailwind
+
+A tailwind:
+
+- Increases groundspeed for a given indicated airspeed
+- Increases takeoff distance
+- Reduces runway margin
+
+Windshear may rapidly change:
+
+- Airspeed
+- Lift
+- Climb performance
+- Flightpath
+
+If conditions suggest that the departure cannot be performed safely:
+
+**do not attempt to salvage the plan with technique. Change the runway, wait, or do not depart.**
+
+---
+
+### Takeoff Surface and Condition
+
+Runway surface affects both acceleration and stopping capability.
+
+Consider:
+
+- Wet pavement
+- Standing water
+- Snow / ice
+- Grass
+- Soft ground
+- Rough surface
+- Gravel
+- Slope
+
+Use POH/AFM corrections when they are published.
+
+For the **C172S on gravel**, the POH specifically warns that full-throttle run-ups over loose gravel can damage propeller tips. When a gravel takeoff is unavoidable, **advance the throttle slowly enough to let the airplane begin rolling before high RPM develops**, reducing the tendency to pull gravel into the propeller.
+
+Do not invent a performance correction when the manufacturer does not provide one.
+
+---
+
+### Rejected Takeoff
+
+Before adding power, know what would make you reject.
+
+Examples include:
+
+- Abnormal engine indication
+- Insufficient power
+- Airspeed not alive
+- Inadequate acceleration
+- Directional-control problem
+- Runway incursion
+- Traffic conflict
+- Door or configuration problem
+- Any condition that makes continuing less safe than stopping
+
+If the rejection occurs while adequate runway remains:
+
+1. **Reduce power**
+2. **Maintain directional control**
+3. **Brake as appropriate**
+4. **Stop the airplane**
+5. **Do not rush to exit until control is assured**
+
+The important principle is:
+
+**A problem detected on the runway is usually best kept on the runway.**
+
+---
+
+### Engine Failure After Liftoff
+
+The takeoff brief should already answer:
+
+**“What am I going to do if the engine quits?”**
+
+The first priority is always:
+
+**maintain aircraft control.**
+
+Immediately:
+
+- Lower the nose as needed to protect airspeed.
+- Establish the appropriate glide attitude.
+- Maintain coordination.
+- Choose the best available landing area.
+
+At low altitude, that normally means a landing area generally ahead or within a limited arc.
+
+Do not teach a universal turn-back altitude.
+
+A return to the runway is only appropriate when supported by:
+
+- Training
+- Aircraft performance
+- Actual altitude
+- Wind
+- Runway geometry
+- Conditions
+
+---
+
+### Collision Hazards
+
+Takeoff occurs in a high-convergence environment.
+
+Before and during the roll, scan for:
+
+- Aircraft on final
+- Aircraft on the runway
+- Aircraft on intersecting or parallel runways
+- Vehicles or personnel
+- Aircraft that may not be transmitting
+
+After liftoff, continue scanning.
+
+Do not let the climb attitude restrict the entire scan to the area directly over the nose.
+
+---
+
+### Low-Altitude Risk — Stall, Spin, and CFIT
+
+The first few hundred feet leave little margin for error.
+
+Avoid:
+
+- Excessive pitch
+- Uncoordinated climb
+- Abrupt low-altitude turns
+- Fixation on an instrument
+- Allowing drift toward terrain or obstacles
+
+If power is lost:
+
+**lower the nose immediately enough to preserve airspeed.**
+
+Do not try to preserve altitude at the expense of angle of attack.
+
+---
+
+### Distraction and Task Prioritization
+
+Takeoff is not the time to:
+
+- Reprogram an EFB
+- Fix a radio
+- Reconfigure navigation
+- Search for a checklist
+- Discuss a nonessential passenger issue
+
+Complete setup before entering the runway.
+
+Once the takeoff begins:
+
+**aircraft control → directional control → performance → traffic**
+
+Everything else can wait.
+
+---
+
+### Noise Abatement
+
+If published noise-abatement procedures apply:
+
+- Review them before takeoff.
+- Incorporate them into the departure brief.
+- Comply when practical.
+
+But noise abatement never takes priority over:
+
+- Aircraft control
+- Obstacle clearance
+- ATC instructions
+- Emergency needs
+
+---
+
+### Common Errors — Normal Takeoff and Climb
+
+Watch for these errors and correct the **reason**, not just the symptom:
+
+- **Failure to review POH/AFM performance data**
+- **Failure to clear the runway and approach area**
+- **Abrupt throttle application**
+- **Failure to verify engine instruments after takeoff power**
+- **Failure to anticipate left-turning tendency**
+- **Overcorrecting left-turning tendency**
+- **Fixating on the airspeed indicator**
+- **Improper liftoff attitude**
+- **Poor coordination during initial climb**
+- **Overcontrolling pitch**
+- **Failure to trim**
+- **Narrow visual scan after liftoff**
+- **Failure to attain or maintain V<sub>Y</sub> / desired climb speed**
+- **Chasing airspeed rather than using attitude flying**
+
+### Common Errors — Crosswind Takeoff
+
+- **Failure to evaluate crosswind and performance before takeoff**
+- **Failure to clear the runway**
+- **Insufficient initial aileron into the wind**
+- **Mechanical aileron use instead of responding to aircraft drift**
+- **Side-skipping**
+- **Inadequate rudder for centerline alignment**
+- **Excessive aileron near liftoff**
+- **Inadequate drift correction after liftoff**
+
+---
+
+### Instructor Demonstration
+
+Teach the maneuver in the same sequence the pilot flies it:
+
+1. Review **performance, density altitude, wind, runway, and obstacles**.
+2. Identify **V<sub>R</sub>, V<sub>X</sub>, V<sub>Y</sub>**, and aircraft configuration from the POH/AFM.
+3. Demonstrate the **high-density-altitude leaning procedure** when applicable to the airplane.
+4. Complete the checklist and departure brief.
+5. Verify runway, wind, traffic, clearance/status, and departure path.
+6. Position flight controls for the wind.
+7. Align on centerline.
+8. Apply power smoothly.
+9. Call the expected indications: **power normal, gauges normal, airspeed alive**.
+10. Maintain centerline with rudder and wind correction with aileron.
+11. Rotate smoothly at the recommended speed.
+12. Allow the airplane to fly; explain **ground effect** if it lifts off before climb speed.
+13. Establish the appropriate climb attitude and accelerate to **V<sub>Y</sub>** or required obstacle speed.
+14. Maintain coordination and departure-path wind correction.
+15. Configure per the POH/AFM.
+16. Maintain climb speed within **±5 knots** to a safe maneuvering altitude.
+17. Analyze any error and explain the correction.
+
+---
+
+### ACS Coverage — Area VII, Task A
+
+**Knowledge**
+
+- **AI.VII.A.K1 — Procedures for normal and crosswind takeoff:** complete sequence from runway entry through climb, including crosswind control.
+- **AI.VII.A.K2 — Effects of atmospheric conditions, including wind, on takeoff and climb performance:** density altitude, temperature, headwind/tailwind, crosswind, windshear, surface, and high-DA leaning when applicable.
+- **AI.VII.A.K3 — V<sub>X</sub> and V<sub>Y</sub>:** purpose, use, and POH/AFM values.
+- **AI.VII.A.K4 — Appropriate airplane configuration:** checklist and manufacturer configuration before, during, and after liftoff.
+- **AI.VII.A.K5 — Common errors:** normal and crosswind errors addressed above.
+
+**Risk Management**
+
+- **AI.VII.A.R1 — Runway selection:** pilot capability, airplane performance/limitations, available distance, and wind.
+- **AI.VII.A.R2 — Crosswind, windshear, tailwind, wake turbulence, and takeoff surface/condition.**
+- **AI.VII.A.R3 — Abnormal operations:** rejected takeoff and engine failure during takeoff/climb.
+- **AI.VII.A.R4 — Collision hazards.**
+- **AI.VII.A.R5 — Low-altitude maneuvering:** stall, spin, and CFIT risk.
+- **AI.VII.A.R6 — Distractions, task prioritization, loss of situational awareness, and disorientation.**
+- **AI.VII.A.R7 — Runway incursion.**
+
+**Skills**
+
+- **AI.VII.A.S1 — Complete the appropriate checklist(s).**
+- **AI.VII.A.S2 — Make radio calls as appropriate.**
+- **AI.VII.A.S3 — Verify assigned/correct runway or takeoff path.**
+- **AI.VII.A.S4 — Determine wind direction with or without visible wind indicators.**
+- **AI.VII.A.S5 — Position flight controls for the existing wind.**
+- **AI.VII.A.S6 — Clear the area, taxi into position, and align on centerline.**
+- **AI.VII.A.S8 — Advance throttle smoothly to takeoff power and verify engine / flight-instrument indications before rotation.**
+- **AI.VII.A.S11 — Rotate and lift off at the recommended airspeed and accelerate to V<sub>Y</sub>.**
+- **AI.VII.A.S12 — Establish the pitch attitude for the manufacturer's recommended climb speed or V<sub>Y</sub>, ±5 knots.**
+- **AI.VII.A.S13 — Configure the airplane in accordance with manufacturer guidance.**
+- **AI.VII.A.S14 — Maintain V<sub>Y</sub> ±5 knots to a safe maneuvering altitude.**
+- **AI.VII.A.S15 — Maintain directional control and proper wind-drift correction throughout takeoff and climb.**
+- **AI.VII.A.S16 — Comply with noise-abatement procedures, as applicable.**
+- **AI.VII.A.S17 — Analyze and correct common errors.**
+
+### Completion Standard
+
+The learner can teach and demonstrate a normal or crosswind takeoff and climb while:
+
+- Making a sound runway and performance decision.
+- Using the correct POH/AFM data and configuration.
+- Applying the appropriate high-density-altitude mixture procedure when required.
+- Maintaining runway centerline and wind correction.
+- Recognizing normal and abnormal engine / aircraft indications.
+- Rotating at the recommended speed without forcing liftoff.
+- Managing ground effect correctly.
+- Establishing and maintaining the correct climb speed within **±5 knots**.
+- Maintaining coordination and departure-path alignment.
+- Managing wake, windshear, surface, collision, and runway-incursion risk.
+- Rejecting the takeoff or responding to an engine failure when appropriate.
+- Recognizing and correcting common errors before they become hazards.
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task A.
+- FAA-H-8083-3 — Airplane Flying Handbook, Normal and Crosswind Takeoffs and Climbs.
+- FAA-H-8083-25 — Pilot's Handbook of Aeronautical Knowledge, Aircraft Performance and Left-Turning Tendencies.
+- Aircraft POH/AFM — Normal Takeoff, Crosswind Takeoff, Climb, Performance, and Limitations.
+- **14 CFR §91.103 — Preflight action:** runway lengths and takeoff performance information appropriate to expected conditions.
+- **14 CFR §91.123 — Compliance with ATC clearances and instructions**, when operating under ATC control.
+- **14 CFR §91.126 / §91.127 / §91.129**, as applicable to airport traffic operations and traffic flow.
+- Cessna 172S POH, Section 4 — Takeoff Power Check, Wing Flap Settings, Crosswind Takeoff, and Enroute Climb.
+- FAA guidance on density altitude and mixture leaning for high-altitude operations.
+
+
 ## AI.VII.A.K1 - Procedures for Normal and Crosswind Takeoff
 
 ### Normal Takeoff
@@ -368,75 +1255,110 @@ The applicant demonstrates while teaching the normal/crosswind takeoff and climb
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>NORMAL TAKEOFF AND CLIMB - CFI AI.VII.A</strong>
+    <strong>NORMAL TAKEOFF AND CLIMB — C172S — CFI AI.VII.A</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">BRIEF</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> POH: V<sub>R</sub> / V<sub>X</sub> / V<sub>Y</sub>, configuration, distance, limits.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Runway, wind, obstacles, surface, traffic, abort point, engine-failure plan.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Remembered speeds or no performance margin.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">RUNWAY</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Checklist complete; runway, clearance/status, final, and departure path verified.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Stop short until authorized/clear; align exactly on centerline.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Taxi clearance assumed to be a takeoff clearance.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">BRIEF</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ROLL / LIFTOFF</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Wind controls set; smooth full power; engine gauges; centerline.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Right rudder as required; look far ahead; aileron into crosswind.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Abrupt power, brake steering, or overcorrecting left yaw.</div>
-			</div>
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Rotate at V<sub>R</sub>; attitude; accelerate to V<sub>Y</sub>.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Coordinate, trim, maintain runway/extended-centerline track.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Early liftoff, pitch-up, or ASI chasing.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>POH / Performance:</strong> runway, wind, DA, surface, obstacles, wake.</label>
+                <div class="kneeboard-detail"><strong>Normal:</strong> Flaps 0°–10° | Lift nose 55 KIAS | Climb 70–80 KIAS.</div>
+                <div class="kneeboard-detail"><strong>V<sub>Y</sub>:</strong> 74 KIAS SL → 72 KIAS @ 10,000 ft | <strong>V<sub>X</sub>:</strong> 62 → 67 KIAS.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">DEPARTURE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Fly assigned/published path; comply with noise abatement.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Closed traffic: straight ahead past departure end; XWind within 300 ft of TPA, then wind-corrected downwind.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Early turn toward downwind; drift into traffic or obstacles.</div>
-			</div>
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Abnormal before liftoff?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Reject: power idle, directional control, brake per procedure.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Continuing to “see what happens.”</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Mixture:</strong> RICH; above 3,000 ft, LEAN for maximum RPM.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> High DA — verify takeoff distance and climb margin.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">LEFT TURN</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Torque - Precession - Slipstream - P-factor.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Anticipate with the controls the airplane needs; maintain coordination and outside scan.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Treating every yaw as the same force or using rote inputs.</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">RUNWAY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Checklist complete; correct runway; final/departure clear; centerline.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Wind controls set; clearance/status verified.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ROLL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>FULL POWER smoothly</strong> — centerline — gauges normal — airspeed alive.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> C172S — rough engine or sluggish acceleration = <strong>REJECT</strong>.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Continuing with abnormal power, sluggish acceleration, or abnormal indications.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Crosswind:</strong> aileron into wind; rudder for centerline.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Strong XW — minimum flap required; slightly higher liftoff speed per POH.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Neutral controls, inadequate aileron into the wind, side-skipping, or loss of centerline.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">LIFTOFF / CLIMB</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>55 KIAS:</strong> lift nose → establish takeoff attitude → accelerate.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Do not force liftoff; if airborne early, accelerate in ground effect.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Over-rotation, premature liftoff, or trying to climb before adequate airspeed.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Initial climb:</strong> V<sub>Y</sub> — 74 KIAS sea level / 72 KIAS at 10,000 ft.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maintain coordination, wind-corrected track, outside scan; ACS ±5 kt.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Chasing airspeed, poor trim, or uncoordinated climb.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Obstacle:</strong> V<sub>X</sub> — 62 KIAS sea level / 67 KIAS at 10,000 ft.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Use only as needed for obstacle clearance, then transition to V<sub>Y</sub>.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Remaining at V<sub>X</sub> longer than necessary.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>At TPA → Cruise Climb:</strong> 70–85 KIAS, FULL THROTTLE.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Mixture RICH; above 3,000 ft, LEAN to obtain maximum RPM.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Staying at V<sub>Y</sub> unnecessarily after reaching TPA or forgetting mixture as altitude increases.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ABNORMAL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Before liftoff:</strong> abnormal power / acceleration / control → REJECT.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Power idle, directional control, braking.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>After liftoff:</strong> engine failure → lower nose, protect airspeed, land best available.</label>
+                <div class="kneeboard-detail"><strong>CE:</strong> Delayed pitch-down or forced turnback.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

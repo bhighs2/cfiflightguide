@@ -137,6 +137,570 @@ The downwind key and base key are **planning references, not fixed landmarks**. 
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to plan and perform a power-off 180° accuracy approach and landing by managing glide energy, wind, pattern geometry, configuration, and drag from the downwind key position to a precise touchdown — without using power to make the landing point and without sacrificing a safe, stabilized landing.**
+
+### Purpose
+
+The power-off 180 is a **judgment and energy-management maneuver**.
+
+We begin abeam a selected touchdown point on downwind, bring the throttle to idle, and then manage the airplane’s remaining energy all the way to touchdown.
+
+There is no normal power adjustment available to fix the glidepath.
+
+So the entire maneuver becomes:
+
+**touchdown point → power idle → best glide → evaluate constantly → adjust geometry → add drag only when assured → stabilize final → touch down on the point.**
+
+The key lesson is:
+
+**This is not a memorized pattern. It is a continuous energy judgment problem.**
+
+---
+
+### Start With the Landing Area
+
+Before beginning the maneuver, decide where you are actually going to land.
+
+Under **14 CFR §91.103**, the PIC must become familiar with the available information necessary for the flight. For this maneuver, that means considering:
+
+- runway length and surface,
+- wind,
+- obstacles,
+- terrain,
+- landing distance,
+- aircraft limitations,
+- traffic,
+- and the go-around plan.
+
+Choose a runway that gives a manageable wind and enough room to safely complete the maneuver.
+
+Then select a **specific touchdown point**.
+
+A good touchdown point is:
+
+- easy to identify from downwind,
+- not so close to the threshold that an undershoot becomes dangerous,
+- and followed by enough runway to stop safely.
+
+The Commercial ACS touchdown standard is:
+
+**touch down on or within 200 feet beyond the specified point, with no side drift, minimum float, and the longitudinal axis aligned with the runway centerline.**
+
+That means:
+
+**never land short of the selected point.**
+
+---
+
+### Touchdown Point vs. Aiming Point
+
+The touchdown point is where the wheels should touch.
+
+The **aiming point is before the touchdown point**, because the airplane continues forward through the roundout and flare.
+
+Do not aim directly at the touchdown point.
+
+If you do, the airplane will normally land beyond it.
+
+So teach:
+
+**aim before it → flare → touch down on it.**
+
+---
+
+### The Downwind Key Position
+
+The maneuver begins on downwind, parallel to the runway, at normal pattern altitude and **below V<sub>A</sub>**.
+
+Complete the before-landing checklist before beginning the maneuver.
+
+Abeam the selected touchdown point:
+
+**throttle IDLE.**
+
+That is the **downwind key position**.
+
+Then:
+
+1. establish the airplane’s **POH best-glide speed**,
+2. trim,
+3. begin the descent,
+4. and immediately evaluate whether the glide is short, long, or workable.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Power_Off_180.png" alt="Power-off 180 accuracy approach showing downwind key, base key, configuration, and final approach" loading="lazy">
+    <figcaption>Power-off 180° accuracy approach — close the throttle at the downwind key, continuously judge the glide through base and final, and use geometry and drag to arrive at the selected touchdown point.</figcaption>
+</figure>
+
+The key position is a **reference**, not a command to fly a fixed pattern.
+
+---
+
+### Best Glide Is the Starting Energy State
+
+Once the throttle is at idle:
+
+**pitch for best glide and trim.**
+
+Best glide gives the airplane the greatest distance for the altitude available in still air.
+
+That gives us the most flexibility.
+
+If the glide is short, there is no power available to rescue it without abandoning the maneuver.
+
+If the glide is long, we still have tools available to dissipate energy.
+
+So the philosophy is:
+
+**preserve energy first; spend it later.**
+
+Do not immediately add flaps just because you normally do at that point in the pattern.
+
+---
+
+### Wind Changes Everything
+
+Wind determines the shape of the power-off pattern.
+
+A stronger headwind on final means:
+
+- less ground distance for the same altitude loss,
+- less float,
+- and a need to keep the pattern **closer**.
+
+A tailwind on downwind can make the airplane travel farther than expected before the base turn.
+
+A crosswind affects both the downwind spacing and the base-leg ground track.
+
+So do not say:
+
+**“I always turn base at this exact landmark.”**
+
+Instead ask:
+
+**“Given my altitude, distance, and wind, when do I need to turn?”**
+
+That is the skill the maneuver is testing.
+
+---
+
+### The Base Turn — Geometry Is Your Biggest Tool
+
+Once the power is idle, the pilot’s most powerful glidepath tool is **pattern geometry**.
+
+If you are getting low:
+
+- turn base earlier,
+- shorten the path,
+- use a dogleg rather than squaring the corner,
+- delay flap extension,
+- and preserve best glide.
+
+If you are high:
+
+- extend the path,
+- square the pattern,
+- use additional drag later,
+- or use a forward slip when appropriate.
+
+A medium or slightly steeper coordinated bank may be appropriate.
+
+But:
+
+**never use rudder to force the airplane around the corner.**
+
+That creates a skid and can lead to a base-to-final stall/spin.
+
+Under **14 CFR §91.113**, collision avoidance still applies throughout the maneuver. Continue the outside scan while managing the glide.
+
+---
+
+### The Base Key Position
+
+The **base key position** is approximately 45° from the selected touchdown point.
+
+Use it as another judgment checkpoint:
+
+**Am I high, low, or on energy?**
+
+If the glide is assured, this is where configuration may begin.
+
+But flap timing is not mechanical.
+
+The rule is:
+
+**do not add drag you may later wish you had back.**
+
+If you are low:
+
+**delay configuration.**
+
+If you are high:
+
+**configuration can begin earlier.**
+
+---
+
+### What Tools Do We Have With Power at Idle?
+
+Once power is removed, glidepath is managed with:
+
+1. **Pattern geometry**
+2. **Airspeed**
+3. **Flaps / configuration**
+4. **Forward slip**
+5. **S-turns when appropriate and safe**
+
+Power is **not** one of the normal correction tools.
+
+The throttle may be used as necessary to **clear the engine**, but not to extend the glide and still call the maneuver a power-off accuracy landing.
+
+If safety requires power:
+
+**use it and go around.**
+
+A safe go-around is always better than forcing the maneuver.
+
+---
+
+### Do Not Stretch the Glide
+
+If you are low, the natural temptation is to raise the nose.
+
+That does not create energy.
+
+It trades airspeed for a momentary reduction in descent angle, then produces:
+
+- slower airspeed,
+- increased sink,
+- reduced control margin,
+- and possible stall.
+
+So:
+
+**never stretch the glide.**
+
+If you are short:
+
+**maintain safe airspeed and shorten the flightpath.**
+
+If the runway cannot be safely reached in training:
+
+**go around.**
+
+---
+
+### Do Not Dive at an Overshoot
+
+If you are high, simply pushing the nose down creates more airspeed.
+
+Then you arrive at the runway with excess energy and float past the point.
+
+Instead:
+
+**dissipate excess energy deliberately.**
+
+Use:
+
+- longer geometry,
+- flaps when assured,
+- a forward slip,
+- or S-turns when safe.
+
+The goal is to arrive on final with the excess energy already managed.
+
+---
+
+### Forward Slip — Spend Excess Energy
+
+A forward slip is one of the most useful tools when the airplane is high.
+
+Use it to:
+
+**increase descent rate without building excessive airspeed.**
+
+If a crosswind exists:
+
+**slip into the wind.**
+
+That means:
+
+- upwind wing down,
+- opposite rudder,
+- ground track maintained.
+
+Recover before touchdown and transition to a sideslip if crosswind correction is required.
+
+Remember the C172S POH guidance from Task M:
+
+- avoid **steep slips with flaps greater than 20°**,
+- fuel selector BOTH for landing/prolonged slips,
+- and respect fuel/slip limitations.
+
+Do not skid to increase the rate of turn.
+
+---
+
+### Aiming-Point Movement Tells You the Glide
+
+On base and final, watch the aiming point in the windshield.
+
+If the aiming point stays fixed:
+
+**the glide is taking you toward it.**
+
+If the aiming point moves **UP** in the windshield:
+
+**you are getting LOW / SHORT.**
+
+If it moves **DOWN** in the windshield:
+
+**you are getting HIGH / LONG.**
+
+Make corrections early.
+
+Small corrections preserve a stabilized approach.
+
+Late, large corrections create unstable energy and usually ruin the accuracy landing.
+
+---
+
+### Final — Configure Only When Landing Is Assured
+
+As final is established:
+
+- align with the runway,
+- continue to evaluate the aiming point,
+- maintain a safe approach speed,
+- and add remaining flaps only when the runway and touchdown point are assured.
+
+The maneuver should become more stable as the airplane gets lower — not less.
+
+By final, you should no longer be inventing a solution.
+
+You should be refining one.
+
+If crosswind correction is required:
+
+**crab for track → transition to sideslip before touchdown.**
+
+---
+
+### Stabilized Does Not Mean Powered
+
+A stabilized power-off approach still has:
+
+- predictable airspeed,
+- predictable glidepath,
+- correct runway alignment,
+- controlled descent,
+- coordinated turns,
+- and a clear touchdown plan.
+
+The fact that the throttle is idle does not mean the approach should be improvised.
+
+The ACS specifically requires knowledge of a **stabilized approach and energy management**. fileciteturn72file1L34-L40
+
+---
+
+### Roundout and Touchdown
+
+Now accuracy matters — but safety matters more.
+
+The Commercial ACS requires touchdown:
+
+**on or within 200 feet beyond the specified point.**
+
+At touchdown:
+
+- proper pitch attitude,
+- **minimum float**,
+- no side drift,
+- longitudinal axis aligned,
+- over the runway centerline.
+
+Do not force the airplane onto the runway just to hit the point.
+
+Do not dive at the runway.
+
+Do not stretch the glide.
+
+If you have excess energy and are safely over the runway, use the roundout and ground effect appropriately.
+
+But if the maneuver cannot be completed safely:
+
+**go around.**
+
+A safe miss is better than an unsafe “accuracy” landing.
+
+---
+
+### After Touchdown
+
+Continue to fly the airplane.
+
+Maintain:
+
+- directional control,
+- crosswind correction,
+- appropriate back-elevator pressure,
+- and braking appropriate for the runway and conditions.
+
+Do not become fixated on whether you hit the point and neglect the rollout.
+
+After clearing the runway, complete the after-landing checklist.
+
+---
+
+### LAHSO
+
+If LAHSO is involved, the power-off 180 does not override the accepted hold-short restriction.
+
+The pilot may decline LAHSO before accepting it.
+
+If the maneuver or landing cannot safely satisfy the clearance:
+
+**go around.**
+
+Under **14 CFR §91.123**, an accepted ATC clearance must be complied with unless an exception applies.
+
+Accuracy training never justifies forcing a landing.
+
+---
+
+### Common Errors
+
+#### Pattern / Wind
+
+- **Downwind too far from the runway**
+- **Overextending downwind because of a tailwind**
+- **Inadequate wind correction on base**
+
+Correction:
+
+**adjust the pattern geometry early based on actual wind and energy.**
+
+#### Coordination
+
+- **Skidding turns to increase gliding distance or tighten the turn**
+
+Correction:
+
+**stay coordinated; shorten the path with geometry, not rudder.**
+
+#### Configuration
+
+- **Premature flap extension**
+- **Premature gear extension in retractable airplanes**
+- **Failure to lower the gear in retractable airplanes**
+
+Correction:
+
+**configure only when the glide is assured, but complete the landing configuration before touchdown.**
+
+#### Energy
+
+- **Attempting to stretch the glide**
+- **Using throttle to increase glide distance rather than only clearing the engine**
+- **Flying too fast and creating excess float**
+
+Correction:
+
+**protect best glide, use geometry first, then spend excess energy with drag.**
+
+#### Touchdown
+
+- **Forcing the airplane onto the runway to avoid overshooting**
+
+Correction:
+
+**make a normal flare and touchdown; go around rather than force an unsafe landing.**
+
+---
+
+### Instructor Demonstration
+
+Teach the maneuver in this order:
+
+1. Select the runway and a clearly identifiable touchdown point.
+2. Brief wind, obstacles, traffic, go-around, and available runway.
+3. Complete the before-landing checklist.
+4. Establish downwind parallel to the runway at normal pattern altitude and **below V<sub>A</sub>**.
+5. Abeam the touchdown point — **THROTTLE IDLE**.
+6. Establish **POH best glide** and trim.
+7. Immediately evaluate: **short, long, or workable?**
+8. Adjust the **base-turn timing and geometry** for altitude and wind.
+9. At the base key, evaluate again.
+10. **Delay drag if low; add drag if high.**
+11. Maintain coordinated turns — **never skid**.
+12. Use flaps, geometry, or a **forward slip into the wind** as needed.
+13. On final, use the aiming point to verify the glide:
+    - moving **UP = low**
+    - moving **DOWN = high**
+14. Add remaining configuration only when the landing is assured.
+15. Establish a stable final with proper crosswind correction.
+16. Round out normally and minimize float.
+17. Touch down **on or within 200 feet beyond** the selected point.
+18. Maintain no side drift, runway alignment, and directional control.
+19. If the landing cannot be completed safely, **go around rather than force the point**.
+
+A concise teaching flow is:
+
+**“Abeam — idle — best glide — trim — judge. Turn based on wind and energy. Low: shorten and stay clean. High: spend energy with geometry, flaps, or slip. Final: stabilize, aim before the point, then touch down on or within 200 feet beyond.”**
+
+---
+
+### ACS Coverage — Area VII, Task O
+
+**Knowledge**
+
+- **AI.VII.O.K1** — Purpose and procedures for the 180° accuracy approach and landing
+- **AI.VII.O.K2** — Stabilized approach and energy management
+- **AI.VII.O.K3** — Atmospheric conditions, including wind
+- **AI.VII.O.K4** — Wind correction techniques
+- **AI.VII.O.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VII.O.R1** — Runway/surface, approach path, touchdown area, capability, performance, distance, and wind
+- **AI.VII.O.R2** — Crosswind, windshear, tailwind, wake turbulence, and surface condition
+- **AI.VII.O.R3** — Rejected landing/go-around and LAHSO
+- **AI.VII.O.R4** — Collision hazards
+- **AI.VII.O.R5** — Low-altitude stall, spin, and CFIT risk
+- **AI.VII.O.R6** — Distraction, task prioritization, situational awareness, and disorientation
+- **AI.VII.O.R7** — Forward-slip risks including fuel flowage, flap/tail effects, and airspeed control
+
+**Skills**
+
+- **AI.VII.O.S1** — Complete checklist(s)
+- **AI.VII.O.S2** — Make radio calls
+- **AI.VII.O.S3** — Plan and follow flightpath considering altitude, wind, terrain, and obstructions
+- **AI.VII.O.S4** — Select suitable touchdown point
+- **AI.VII.O.S5** — Position airplane parallel to runway on downwind
+- **AI.VII.O.S6** — Configure correctly
+- **AI.VII.O.S7** — Correlate crosswind with forward-slip direction and transition to sideslip as needed
+- **AI.VII.O.S8** — Touch down on or within **200 feet beyond** specified point, proper attitude, no side drift, longitudinal-axis alignment
+- **AI.VII.O.S9** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task O
+- FAA-S-ACS-7 — Commercial Pilot Airplane ACS, Power-Off 180° Accuracy Approach and Landing
+- FAA-H-8083-3 — Airplane Flying Handbook, Power-Off Accuracy Approaches
+- Cessna 172S POH
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.113** — Right-of-way / collision avoidance
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+
+
 ## AI.VII.O.K1 - Purpose of and Procedures for Proper 180° Accuracy Approach and Landing
 
 The **180° power-off approach** is executed by gliding with idle power from a point on downwind to a preselected landing spot. It extends the 90° power-off approach by requiring the pilot to judge the glide through a 90° turn to base and then continue to final.
@@ -320,54 +884,122 @@ The applicant demonstrates while teaching a power-off 180: checklist/radio, runw
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>POWER-OFF 180 - CFI AI.VII.O</strong>
+    <strong>POWER-OFF 180° ACCURACY APPROACH & LANDING — COMMERCIAL / CFI AI.VII.O</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">PLAN</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Runway, touchdown point, wind, obstacles, key, go-around.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Checklist before power reduction; below V<sub>A</sub>; best glide/POH.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Fixed landmark or no landing option.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">DOWNWIND KEY</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Abeam point: throttle idle; best glide; trim; assess.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Use actual altitude/wind/distance; base geometry is adjustable.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Late power reduction or failure to identify key.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">PLAN</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">BASE / FINAL</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Medium/slightly steeper turn; wind/geometry; aim point.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Configure late when assured; use geometry/slip/flaps; no skid; no stretch.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Chasing key, low airspeed, or turning uncoordinated.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Runway / wind / touchdown point / obstacles / traffic / go-around.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Checklist complete; normal downwind; below V<sub>A</sub>.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> No clear point, downwind too wide, or fixed-landmark thinking.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">LAND / DECIDE</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Stable, aligned, point reachable, safe stop?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Round out, proper attitude, aerodynamic/wheel braking; go around if unsafe.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Forcing the spot instead of making a safe landing.</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">DOWNWIND KEY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Abeam touchdown point → <strong>THROTTLE IDLE → BEST GLIDE → TRIM.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Immediately judge: short / long / workable.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late power reduction or premature flap extension.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">GEOMETRY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Turn base based on <strong>altitude + wind + distance</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Low = shorten path / stay clean. High = lengthen path / add drag later.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Tailwind overextension, poor base wind correction, or chasing a fixed key.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Base key ≈ 45° from touchdown point → reassess.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Geometry first; configure only when landing is assured.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Adding drag too early and creating an undershoot.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ENERGY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>LOW?</strong> Best glide; shorten path; delay flaps.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Never stretch glide with pitch.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Raising nose, slowing, increasing sink, or using throttle to make point.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>HIGH?</strong> Geometry → flaps → forward slip / S-turn as appropriate.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Slip into wind; remain coordinated except intentional slip.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Skid, dive, excessive airspeed, or late drag correction.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">FINAL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Align runway; aiming point before touchdown point; stabilize.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Aim point UP windshield = LOW | DOWN = HIGH.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Large late corrections, unstable final, or premature full flaps.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Crosswind? Forward slip as needed → <strong>sideslip before touchdown.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> No side drift; longitudinal axis aligned.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Landing misaligned or in a forward slip.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">COMMERCIAL ACS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Touchdown: ON or within 200 FT BEYOND specified point.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Proper pitch attitude | minimum float | no side drift | aligned over centerline.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Landing short or forcing airplane down to avoid going long.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">DECIDE</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Safe approach / landing no longer assured?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Add power and go around — safety beats the point.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Continuing an unsafe maneuver just to meet accuracy standard.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

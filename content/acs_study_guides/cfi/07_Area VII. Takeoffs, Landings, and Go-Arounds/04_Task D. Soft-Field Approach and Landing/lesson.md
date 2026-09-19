@@ -164,6 +164,529 @@ On soft-field final, use the POH/AFM speed and configuration. A small amount of 
 
 # Teach
 
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to plan and fly a soft-field approach and landing using a stabilized, on-speed approach; manage energy and wind; touch down on the main wheels at minimum sink with no side drift; protect the nosewheel; and maintain control and momentum throughout the soft-surface rollout and taxi.**
+
+### Purpose
+
+A soft-field landing is about **transferring the airplane's weight from the wings to the wheels as gently as possible**.
+
+On grass, mud, sand, snow, or rough terrain, the surface can add drag, damage the landing gear, or let the nosewheel dig in.
+
+So the landing story is:
+
+**assess the field → stabilize the approach → manage energy → enter ground effect → cushion the flare → touch down softly on the mains → power off → hold the nosewheel off → keep the airplane moving and under control.**
+
+The key idea is:
+
+**keep the wings carrying the airplane as long as practical.**
+
+---
+
+### Start With the Field — Is It Suitable?
+
+Before worrying about the flare, decide whether the surface is suitable for landing.
+
+Under **14 CFR §91.103**, the PIC must become familiar with the available information necessary for the flight. For a soft-field landing, that means considering more than runway length.
+
+Evaluate:
+
+- **Surface firmness**
+- **Grass length**
+- **Mud / sand / snow**
+- **Standing water**
+- **Ruts / potholes / rocks / debris**
+- **Slope**
+- **Usable landing distance**
+- **Obstacles**
+- **Wind and gusts**
+- **Crosswind / tailwind**
+- **Density altitude**
+- **Aircraft performance**
+- **Taxi-out path after touchdown**
+
+The planning question is:
+
+**“Can I make a stabilized approach, touch down softly in a suitable area, keep the nosewheel protected, and keep moving without becoming stuck?”**
+
+A soft field that is also short requires both problems to be solved.
+
+**Soft-field technique protects the airplane and manages the surface. Short-field technique manages limited distance and obstacles.**
+
+In practical operations, the two often occur together, but do not blend the procedures casually. Use the POH/AFM procedure that fits the actual runway, obstacle, and surface conditions.
+
+---
+
+### Select the Touchdown Area Before Final
+
+Choose a touchdown area that is:
+
+- firm enough to support the airplane,
+- free of obvious hazards,
+- aligned with the landing path,
+- and followed by enough usable surface to slow and taxi safely.
+
+The ACS requires selecting and aiming for a suitable touchdown point considering **wind, surface, and obstructions**.
+
+Aim **before** the desired touchdown area because the roundout and flare carry the airplane forward.
+
+If the surface or touchdown area becomes questionable:
+
+**go around.**
+
+---
+
+### Configure Early and Stabilize
+
+A soft-field landing starts like a good normal landing:
+
+**configured early, trimmed, on speed, aligned, and stable.**
+
+For the C172S:
+
+- **Normal approach, flaps UP: 65–75 KIAS**
+- **Normal approach, flaps 30°: 60–70 KIAS**
+- Flaps:
+    - **0°–10° below 110 KIAS**
+    - **10°–30° below 85 KIAS**
+
+For a typical soft-field approach in the C172S, use the POH-recommended landing configuration and fly the appropriate published approach speed.
+
+The ACS requires the published approach speed, or if none exists no more than 1.3 V<sub>SO</sub>, within **±5 knots**, with gust factor applied as appropriate.
+
+A stabilized approach means:
+
+- **Correct runway alignment**
+- **Correct glidepath**
+- **Correct airspeed**
+- **Landing configuration established**
+- **Trim set**
+- **Manageable descent rate**
+- **Only small corrections required**
+
+The teaching relationship is:
+
+**pitch for airspeed → power for glidepath → trim off pressure.**
+
+Do not try to stretch a low approach with elevator alone.
+
+If the approach is unstable:
+
+**go around.**
+
+---
+
+### Manage Energy — Soft Does Not Mean Slow and Unstable
+
+The soft-field touchdown should be gentle, but the approach must still have enough energy to remain controllable.
+
+Too much speed creates:
+
+- excess float,
+- longer exposure in ground effect,
+- and less certainty about the touchdown area.
+
+Too little speed or excessive sink creates:
+
+- hard touchdown risk,
+- stall risk,
+- and poor control authority.
+
+So the goal is:
+
+**arrive in ground effect on speed, with a low and controlled sink rate.**
+
+We will save the detailed **power-curve / reverse-command discussion** for the short-field lesson. For this task, the practical point is simply:
+
+**if low, add power; if high, reduce power; preserve the target airspeed with pitch and trim.**
+
+---
+
+### Wind Correction Begins Before Final
+
+Wind correction starts in the pattern.
+
+On base:
+
+- maintain the desired ground track,
+- anticipate a tailwind or crosswind,
+- and do not allow the airplane to overshoot final.
+
+If you overshoot:
+
+**do not skid the airplane back toward the runway.**
+
+Maintain coordination and go around if necessary.
+
+On final, use a **crab** as needed to maintain the extended centerline.
+
+Before touchdown, transition to the correction needed for:
+
+- **No side drift**
+- **Longitudinal axis aligned with the runway**
+
+That means:
+
+**aileron into the wind + opposite rudder as required for alignment.**
+
+Continue increasing crosswind correction as the airplane slows and the controls become less effective.
+
+---
+
+### Enter Ground Effect — Now Change the Goal
+
+As the airplane enters ground effect, the goal changes from descending toward the runway to **holding the airplane just off the surface and dissipating the remaining energy gently**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Landing_Soft_Field.png" alt="Soft-field landing showing transition in ground effect, soft touchdown, and protected nosewheel" loading="lazy">
+    <figcaption>Soft-field landing — transition into ground effect, reduce sink, touch down softly on the main wheels, then keep the nosewheel protected.</figcaption>
+</figure>
+
+Begin the roundout normally.
+
+Then:
+
+**hold the airplane just above the surface in ground effect and let the airspeed decay.**
+
+The objective is not to float indefinitely.
+
+The objective is to:
+
+**reduce the sink rate and let the main wheels touch as softly as practical.**
+
+---
+
+### Add a Little Power in the Flare
+
+As the airplane settles in the flare:
+
+**add or retain a small amount of power as needed to cushion the touchdown.**
+
+This is not a substitute for a stabilized approach.
+
+It is a small energy adjustment that helps reduce the final sink rate and allows the wings to support the airplane slightly longer.
+
+Think:
+
+**small power → soften the sink → hold the landing attitude.**
+
+Too much power creates excessive float.
+
+Too little power combined with excessive sink creates a hard touchdown.
+
+If the airplane balloons, floats excessively, or the touchdown area is no longer assured:
+
+**go around.**
+
+---
+
+### Touchdown — Mains First, Minimum Sink
+
+The touchdown should occur:
+
+- **Main wheels first**
+- **Nose-high landing attitude**
+- **Minimum sink rate**
+- **No side drift**
+- **Longitudinal axis aligned with the runway**
+
+As the mains touch:
+
+**POWER OFF.**
+
+Then:
+
+**hold full aft elevator.**
+
+This accomplishes the central soft-field objective:
+
+**keep aerodynamic lift supporting as much of the airplane's weight as practical instead of immediately transferring all of it to the wheels.**
+
+Do not push the airplane onto the runway.
+
+Do not relax the elevator simply because the mains have touched.
+
+---
+
+### Keep the Nosewheel Off
+
+After main-wheel touchdown:
+
+**hold the nosewheel off the surface as long as elevator effectiveness permits.**
+
+The nosewheel is especially vulnerable on a soft or rough surface.
+
+As the airplane slows:
+
+- continue increasing back-elevator as needed,
+- maintain directional control with rudder,
+- maintain crosswind correction with aileron,
+- and allow the nosewheel to descend **under control**.
+
+Do not let it fall.
+
+One of the major common errors is allowing the nosewheel to drop abruptly as lift disappears.
+
+The teaching cue is:
+
+**mains down → power off → full aft → hold the nosewheel off → lower it gently when elevator effectiveness is lost.**
+
+---
+
+### Keep Flying During the Rollout
+
+The landing is not over when the wheels touch.
+
+Maintain:
+
+- **Full aft elevator as appropriate**
+- **Crosswind correction**
+- **Directional control**
+- **Outside scan**
+- **Sufficient momentum to prevent sinking or bogging down**
+
+Avoid unnecessary braking.
+
+On a genuinely soft surface, braking can transfer more weight to the nosewheel and increase the chance of digging in.
+
+The surface itself may provide substantial deceleration.
+
+If power is needed to keep the airplane moving:
+
+**use enough power to maintain safe momentum without accelerating excessively.**
+
+The ACS specifically requires exiting the soft area at a speed that precludes sinking into the surface.
+
+---
+
+### Taxi on the Soft Surface
+
+Continue the same soft-field discipline after landing:
+
+- **Elevator aft**
+- **Wind controls appropriate**
+- **Keep moving when practical**
+- **Minimal braking**
+- **Avoid sharp turns**
+- **Use enough power to avoid bogging down**
+
+Do not become head-down with the checklist while still managing the soft surface.
+
+Aircraft control comes first.
+
+---
+
+### Go Around Early
+
+A go-around is always available until the airplane is safely committed to the landing.
+
+Go around for:
+
+- Unstable airspeed or glidepath
+- Excessive sink
+- Excessive float
+- Poor runway alignment
+- Unsafe crosswind drift
+- Surface uncertainty
+- Traffic or runway conflict
+- Wake turbulence
+- Windshear
+- Ballooning or bounce
+- Touchdown area no longer assured
+- Any condition that makes the landing unsafe
+
+The ACS requires a **timely go-around** when the approach cannot be completed within tolerance or becomes unsafe.
+
+Do not force a soft-field landing simply because you are already in the flare.
+
+---
+
+### LAHSO
+
+Soft-field conditions deserve extra caution with **Land and Hold Short Operations**.
+
+Before accepting LAHSO, consider:
+
+- available landing distance,
+- field/surface condition,
+- braking effectiveness,
+- wind,
+- airplane performance,
+- and pilot capability.
+
+The pilot may decline:
+
+**“Unable LAHSO.”**
+
+Once accepted, **§91.123** requires compliance with the ATC clearance unless an exception applies.
+
+A soft or uncertain surface may make LAHSO inappropriate even when the published distance looks adequate.
+
+---
+
+### Collision and Obstruction Risk
+
+Continue scanning for:
+
+- traffic on final,
+- aircraft on the runway,
+- vehicles,
+- people,
+- animals,
+- obstructions,
+- and aircraft that may not be transmitting.
+
+A radio call or tower clearance does not replace the outside scan.
+
+At a towered airport, verify the **correct runway** and comply with ATC instructions.
+
+At a nontowered airport, use appropriate CTAF procedures and visually confirm the landing area is clear.
+
+---
+
+### Low-Altitude Risk
+
+The base-to-final and flare portions occur close to the ground with little room for recovery.
+
+Avoid:
+
+- skidding turns,
+- excessive bank,
+- abrupt pitch inputs,
+- trying to stretch the glide,
+- or forcing the airplane onto the surface.
+
+If the geometry or energy is wrong:
+
+**go around.**
+
+---
+
+### Common Errors
+
+#### Final Approach
+
+- **Excessive descent rate**
+- **Excessive airspeed**
+- **Unstable approach**
+
+Correction:
+
+**stabilize early, trim, control airspeed with pitch, and use power to control the glidepath and sink.**
+
+#### Roundout and Flare
+
+- **Roundout too high**
+- **Poor power management**
+- **Hard touchdown**
+
+Correction:
+
+**enter ground effect smoothly, hold the landing attitude, and use only enough power to soften the sink.**
+
+#### Touchdown and Weight Transfer
+
+- **Transferring weight from wings to wheels too quickly**
+- **Relaxing back-elevator after touchdown**
+- **Allowing the nosewheel to fall onto the surface**
+
+Correction:
+
+**mains first → power off → full aft elevator → keep the nosewheel off → lower it gently only as elevator effectiveness is lost.**
+
+#### Rollout
+
+- Poor directional control
+- Neutral crosswind controls
+- Excessive braking
+- Slowing so much that the airplane becomes stuck
+
+Correction:
+
+**keep flying the airplane, keep the controls positioned, and preserve enough momentum to leave the soft area safely.**
+
+---
+
+### Instructor Demonstration
+
+Teach the maneuver in the order it occurs:
+
+1. **Assess the surface, runway, wind, performance, obstacles, touchdown area, and taxi-out plan.**
+2. Complete the checklist and verify the correct runway.
+3. Scan the runway and adjoining area for traffic and obstructions.
+4. Configure the C172S for landing and establish **60–70 KIAS with flaps 30°** when using that normal landing configuration.
+5. Trim and establish a stabilized approach.
+6. Use pitch for airspeed and power for glidepath.
+7. Maintain the correct ground track and transition from crab to the required crosswind sideslip before touchdown.
+8. Aim before the desired touchdown area.
+9. Enter ground effect and begin the roundout.
+10. **Hold the airplane just off the surface and let speed decay.**
+11. **Add or retain a small amount of power as needed to cushion the flare.**
+12. Touch down softly on the **main wheels** with minimum sink and no side drift.
+13. **At touchdown — POWER OFF.**
+14. **Hold FULL AFT elevator.**
+15. Keep the nosewheel off until elevator effectiveness is lost.
+16. Lower the nosewheel gently.
+17. Maintain directional control and increasing crosswind correction as the airplane slows.
+18. Avoid unnecessary braking.
+19. Maintain enough momentum to prevent sinking or bogging down.
+20. Continue soft-field taxi technique until clear of the soft surface.
+
+---
+
+### ACS Coverage — Area VII, Task D
+
+**Knowledge**
+
+- **AI.VII.D.K1** — Purpose and procedures for soft-field approach and landing
+- **AI.VII.D.K2** — Stabilized approach and energy management
+- **AI.VII.D.K3** — Atmospheric conditions, including wind, affecting approach and landing performance
+- **AI.VII.D.K4** — Wind correction techniques
+- **AI.VII.D.K5** — Common errors
+
+**Risk Management**
+
+- **AI.VII.D.R1** — Runway selection based on pilot capability, aircraft performance/limitations, available distance, and wind
+- **AI.VII.D.R2** — Crosswind, windshear, tailwind, wake turbulence, and runway surface/condition
+- **AI.VII.D.R3** — Go-around/rejected landing and LAHSO
+- **AI.VII.D.R4** — Collision hazards
+- **AI.VII.D.R5** — Low-altitude stall, spin, and CFIT risk
+- **AI.VII.D.R6** — Distraction, task prioritization, situational awareness, and disorientation
+
+**Skills**
+
+- **AI.VII.D.S1** — Complete checklist(s)
+- **AI.VII.D.S2** — Make radio calls as appropriate
+- **AI.VII.D.S3** — Verify correct/assigned runway
+- **AI.VII.D.S4** — Scan runway and adjoining area for traffic/obstructions
+- **AI.VII.D.S5** — Select and aim for a suitable touchdown point
+- **AI.VII.D.S6** — Establish configuration, airspeed, trim, and stabilized pitch/power
+- **AI.VII.D.S7** — Maintain published approach speed **±5 knots**, with gust factor as appropriate
+- **AI.VII.D.S8** — Maintain directional control and crosswind correction
+- **AI.VII.D.S9** — Smooth/timely roundout and touchdown; keep nosewheel off
+- **AI.VII.D.S10** — Proper pitch attitude, minimum sink, no side drift, longitudinal-axis alignment
+- **AI.VII.D.S11** — Maintain elevator per manufacturer and exit soft area without sinking
+- **AI.VII.D.S12** — Timely go-around
+- **AI.VII.D.S13** — Proper control position and sufficient taxi speed on soft surface
+- **AI.VII.D.S14** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task D
+- FAA-H-8083-3 — Airplane Flying Handbook, Soft/Rough-Field Approach and Landing
+- FAA-H-8083-25 — Pilot’s Handbook of Aeronautical Knowledge
+- Cessna 172S POH — Normal Landing / Airspeeds / Flap Limitations
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+
+
 ## AI.VII.D.K1 - Purpose of and Procedures for Soft-Field Approach and Landing
 
 Soft-field landing technique is used on **grass, mud, sand, snow, and rough or unprepared surfaces** to reduce sink, minimize landing-gear stress, and prevent the nosewheel from digging in. Inspect the field when possible; a low approach may reveal ruts, soft spots, standing water, debris, or obstacles not apparent from a distance.
@@ -407,70 +930,129 @@ The applicant demonstrates while teaching a soft-field approach and landing: sur
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>SOFT-FIELD APPROACH AND LANDING - CFI AI.VII.D</strong>
+    <strong>SOFT-FIELD APPROACH AND LANDING — C172S — CFI AI.VII.D</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ASSESS</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Surface, wind, obstacles, usable area, touchdown, exit/taxi route, go-around.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> POH/AFM landing distance, flaps, speed, limits, and soft-surface procedure.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Landing from expectation, without a surface or float margin.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">FINAL</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Stable: path, alignment, speed, full flaps per POH, trim, sink, power.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> C172S/L3 flow: full flaps; 65 KIAS; power as needed, often more than a familiar normal approach.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Excess speed/sink, no throttle hand, or pulling to stretch a low final.</div>
-			</div>
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Wind correction and runway/field clear.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Crab for track; transition to aileron into wind/rudder for alignment before touchdown.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Side drift, misalignment, or skid to salvage final.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ASSESS</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">FLARE / TOUCH</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Ground effect: round out, flare, minimum sink, mains first.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Very small power add in flare only to soften; maintain back elevator the whole time.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> High roundout, balloon, hard landing, bounce, or nosewheel drop.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Surface / wind / usable distance / obstacles / touchdown area / taxi-out.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Soft field may also be short — solve both problems separately.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Accepting an uncertain surface or inadequate stopping/taxi margin.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ROLLOUT / TAXI</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Hold back elevator; directional control; wind controls.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Minimal braking if any; keep enough taxi momentum to exit soft area; back elevator into taxi until shutdown.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Nosewheel falls, excessive braking, stopping/bogging down.</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">GO AROUND</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Unstable, excessive float/sink, unsafe surface, drift, or traffic conflict?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Power, pitch, configure, climb, compensate, then communicate.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Continuing a soft-field landing that no longer has a safe margin.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">APPROACH</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Checklist early; runway verified; traffic / obstructions clear.</label>
+                <div class="kneeboard-detail"><strong>C172S:</strong> Flaps 30° → 60–70 KIAS | ACS: published speed ±5 kt.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late configuration, excessive descent rate, excessive airspeed, unstable approach.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Aim before touchdown area; stabilize path / speed / trim / alignment.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Pitch for airspeed; power for glidepath; trim off pressure.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Stretching a low approach with elevator or carrying excess speed into ground effect.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">XWIND</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Crab for track → sideslip before touchdown.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Aileron into wind + opposite rudder; no side drift; aligned with runway.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Neutral controls, landing in a crab, or skidding base-to-final.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">FLARE</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Enter ground effect → hold off → let speed decay.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Add / retain a little power as needed to soften sink.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Roundout too high, poor power management, balloon, float, or hard touchdown.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TOUCHDOWN</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Mains first — minimum sink — no drift — aligned.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> At touchdown → <strong>POWER OFF → FULL AFT ELEVATOR.</strong></div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Hard touchdown or transferring weight to wheels too quickly.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Hold nosewheel off until elevator effectiveness is lost.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Lower nosewheel gently; keep crosswind correction in.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Letting nosewheel fall to surface.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ROLLOUT / TAXI</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Full aft as appropriate; rudder for direction; aileron into wind.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Minimal braking; keep enough momentum to avoid sinking / bogging down.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Excessive braking, neutral controls, poor directional control, or stopping on soft surface.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">GO AROUND</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Unstable / excessive sink / float / drift / conflict / unsafe surface?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Go around early — power, pitch, configure per POH, control first.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Forcing the landing because “we’re already here.”</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">LAHSO</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Accept only if surface / distance / wind / braking / proficiency support it.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Pilot may decline: “Unable LAHSO.”</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Accepting because ATC offered it despite soft-surface uncertainty.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

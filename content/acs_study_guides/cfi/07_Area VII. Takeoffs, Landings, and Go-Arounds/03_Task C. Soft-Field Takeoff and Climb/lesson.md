@@ -146,6 +146,596 @@ Core Distinction |
 ]]
 
 # Teach
+## Instructor Notes
+
+<div class="lesson-section-toolbar instructor-notes-toolbar">
+    <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
+</div>
+
+### Objective
+
+**Teach the learner to safely plan and perform a soft-field takeoff and climb by protecting the landing gear, transferring weight from the wheels to the wings as early as practical, lifting off at the lowest practical airspeed, accelerating in ground effect, and then climbing at V<sub>X</sub> or V<sub>Y</sub> as appropriate while maintaining directional control and wind correction.**
+
+### Purpose
+
+A soft-field takeoff solves a different problem than a normal or short-field takeoff.
+
+On a soft or rough surface, the airplane may be fighting:
+
+- grass,
+- mud,
+- sand,
+- snow,
+- ruts,
+- standing water,
+- or uneven terrain.
+
+Those conditions increase rolling resistance and can damage or bog down the landing gear.
+
+So the goal is:
+
+**get the weight off the wheels and onto the wings as early as practical — but do not climb away until the airplane has enough airspeed.**
+
+That gives us the instructional story:
+
+**inspect and plan → keep moving → protect the nosewheel → transfer weight to the wings → lift off early → stay in ground effect → accelerate → climb at V<sub>X</sub> or V<sub>Y</sub> → configure and continue the departure.**
+
+---
+
+### Start With the Surface — Is This Takeoff Even a Good Idea?
+
+Before the technique matters, decide whether the surface is suitable.
+
+Under **14 CFR §91.103**, the PIC must become familiar with the available information necessary for the flight. For a soft-field departure, that means looking beyond runway length and considering the actual condition of the surface.
+
+Inspect or evaluate:
+
+- **Firmness**
+- **Grass length**
+- **Mud / snow / sand**
+- **Standing water**
+- **Ruts / potholes**
+- **Rocks / debris**
+- **Slope**
+- **Usable length**
+- **Obstacles**
+- **Wind**
+- **Density altitude**
+- **Aircraft weight**
+
+A soft field can dramatically increase takeoff distance, and the published paved-runway number may not represent what the airplane will actually do on grass, mud, or another unprepared surface.
+
+The planning question is:
+
+**“Can I accelerate, lift off, remain in ground effect, and still have enough room and performance to climb safely?”**
+
+If the answer is uncertain:
+
+**do not use technique to compensate for an unsafe surface.**
+
+---
+
+### Soft Field Is Not Short Field
+
+Make this distinction early.
+
+A **short-field takeoff** is about **minimum distance and obstacle clearance**.
+
+A **soft-field takeoff** is about **reducing wheel loading and rolling resistance**, then using ground effect to accelerate.
+
+The techniques can overlap, especially when a soft field also has an obstacle, but the purpose is different.
+
+For soft field:
+
+**get light on the wheels → fly off early → accelerate in ground effect → then climb.**
+
+---
+
+### C172S Airspeeds Used in This Lesson
+
+Use these POH values unless the aircraft-specific POH in use says otherwise:
+
+- **Normal climb out:** 75–85 KIAS
+- **V<sub>Y</sub> — Best rate:** 74 KIAS sea level → 72 KIAS at 10,000 ft
+- **V<sub>X</sub> — Best angle:** 62 KIAS sea level → 67 KIAS at 10,000 ft
+- **Short-field takeoff, flaps 10°, at 50 ft:** 56 KIAS
+- **Normal approach, flaps up:** 65–75 KIAS
+- **Normal approach, flaps 30°:** 60–70 KIAS
+- **Short-field approach, flaps 30°:** 61 KIAS
+- **Balked landing, max power, flaps 20°:** 60 KIAS
+- **Maximum demonstrated crosswind:** 15 knots
+
+---
+
+### C172S Configuration
+
+For the **C172S**, the POH calls for:
+
+- **10° flaps** for soft or rough field takeoffs.
+- Lift off **as soon as practical** in a **slightly tail-low attitude**.
+- If no obstacle is ahead, **level off immediately** and accelerate to a higher climb speed.
+- If 10° flaps are used, leave them down until:
+    - obstacles are clear, and
+    - at least **60 KIAS** is reached before retracting.
+- With an **aft CG**, the POH recommends adjusting elevator trim somewhat **nose-down** to give more comfortable control forces during the initial climb.
+
+Flaps greater than **10° are not approved for takeoff**.
+
+The POH controls the airplane-specific technique.
+
+---
+
+### Keep the Airplane Moving
+
+The soft-field technique begins before the takeoff roll.
+
+Stopping on a soft surface may let the wheels sink or bog down.
+
+So, when conditions permit:
+
+**maintain continuous motion.**
+
+That means:
+
+- Use only the braking you actually need.
+- Keep turns shallow.
+- Keep the nosewheel light.
+- Plan the lineup so you do not stop unnecessarily on the takeoff surface.
+
+This directly supports the ACS requirement to taxi into takeoff position and align on centerline **without stopping** while maintaining the required control inputs.
+
+---
+
+### Protect the Nosewheel
+
+In a tricycle-gear airplane, the nosewheel is usually the most vulnerable gear component on a soft surface.
+
+Use **back-elevator pressure** to reduce nosewheel loading while taxiing and during the beginning of the takeoff roll.
+
+The goal is not to drag the tail.
+
+The goal is to:
+
+**increase angle of attack enough to transfer weight from the wheels to the wings as lift develops.**
+
+That weight transfer is a core ACS knowledge item.
+
+As speed increases and the elevator becomes more effective, adjust back pressure so the nosewheel stays light without creating an excessive pitch attitude.
+
+---
+
+### Wind Controls Still Apply
+
+Soft-field technique does not replace crosswind technique.
+
+Before the roll:
+
+**position the flight controls for the existing wind.**
+
+With a crosswind:
+
+- Start with **aileron into the wind**.
+- Use **rudder** to maintain centerline.
+- Reduce aileron only as needed as control effectiveness increases.
+
+Do not let the desire to get airborne early cause:
+
+- side-skipping,
+- loss of centerline,
+- or the upwind wing to lift.
+
+---
+
+### Align Without Stopping — Then Add Power Smoothly
+
+Once the runway or takeoff path is clear:
+
+- make the appropriate radio call,
+- verify the correct runway,
+- clear final and the departure path,
+- and align on centerline **without stopping** when safe and practical.
+
+Advance the throttle **smoothly to takeoff power**.
+
+As power comes in, verify:
+
+- **Takeoff power**
+- **Engine indications normal**
+- **Airspeed alive**
+- **Acceleration reasonable**
+- **Directional control maintained**
+
+If the engine is rough, acceleration is abnormal, or directional control is deteriorating:
+
+**reject the takeoff while stopping is still the safer option.**
+
+---
+
+### Anticipate Left-Turning Tendencies
+
+Soft-field takeoff combines:
+
+- high power,
+- low airspeed,
+- relatively high angle of attack.
+
+That makes left-turning tendencies more noticeable.
+
+Expect:
+
+- torque,
+- spiraling slipstream,
+- P-factor,
+- gyroscopic effects where applicable.
+
+The correction is not a memorized amount of right rudder.
+
+It is:
+
+**use the rudder required to keep the airplane aligned and coordinated.**
+
+---
+
+### Transfer Weight From the Wheels to the Wings
+
+As the airplane accelerates, maintain a pitch attitude that gets the nosewheel light and progressively transfers weight from the landing gear to the wings.
+
+This is the heart of the maneuver.
+
+The airplane should feel lighter on the surface as lift builds.
+
+Do not:
+
+- hold so little back pressure that the nosewheel stays heavily loaded,
+- or hold so much that the airplane develops excessive drag or an extreme nose-high attitude.
+
+The ACS skill is to establish the pitch attitude that transfers the weight **as rapidly as practical** from wheels to wings.
+
+---
+
+### Let the Airplane Lift Off Early — Then Stay in Ground Effect
+
+The airplane may become airborne **before normal rotation speed**.
+
+That is expected.
+
+The C172S POH says to lift off as soon as practical in a **slightly tail-low attitude**.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Takeoff_Soft_Field.png" alt="Soft-field takeoff showing early nosewheel lift, liftoff, ground-effect acceleration, and climb" loading="lazy">
+    <figcaption>Soft-field takeoff — lift off early, remain in ground effect while accelerating, and only then begin the climb at the selected V<sub>X</sub> or V<sub>Y</sub>.</figcaption>
+</figure>
+
+This is the key sequence:
+
+**lift off early → stay low in ground effect → accelerate to V<sub>X</sub> or V<sub>Y</sub> → then pitch for the climb and climb away.**
+
+Do **not** lift off and immediately begin climbing.
+
+The airplane may be airborne only because ground effect has reduced induced drag. Until it reaches the selected climb speed, it may not have enough performance to climb safely away from the surface.
+
+---
+
+### Ground Effect — Accelerate First, Climb Second
+
+Once the main wheels leave the surface:
+
+**briskly but smoothly reduce backpressure enough to hold the airplane in ground effect — about 10 feet AGL in this training technique — and accelerate.**
+
+The sequence is deliberate:
+
+1. **Main wheels lift off.**
+2. **Lower the nose enough to stay in ground effect.**
+3. **Hold the airplane low while airspeed builds.**
+4. **Wait until the selected V<sub>X</sub> or V<sub>Y</sub> is reached.**
+5. **Only then establish the climb attitude and climb out of ground effect.**
+
+Do not push abruptly.
+
+Do not climb several feet and then force the airplane back toward the surface.
+
+The goal is a smooth, level-ish acceleration phase close to the runway.
+
+Ground effect reduces induced drag close to the surface, allowing the airplane to accelerate more efficiently than it could while still rolling through a high-drag surface.
+
+If the airplane climbs out of ground effect **before reaching the selected climb speed**:
+
+- induced drag increases,
+- climb performance may disappear,
+- the airplane may **mush or settle**,
+- or it may stall.
+
+The teaching phrase should be:
+
+**“Fly off early, stay low, accelerate, then climb.”**
+
+---
+
+### V<sub>X</sub> or V<sub>Y</sub>?
+
+The next question is:
+
+**“Which speed am I accelerating to before I climb out of ground effect?”**
+
+If an obstacle controls the departure:
+
+**stay in ground effect until V<sub>X</sub>, then pitch for V<sub>X</sub> and climb.**
+
+For the C172S, V<sub>X</sub> is **62 KIAS at sea level**, increasing to **67 KIAS at 10,000 feet**.
+
+If obstacles are clear:
+
+**stay in ground effect until V<sub>Y</sub>, then pitch for V<sub>Y</sub> and climb.**
+
+For the C172S, V<sub>Y</sub> is **74 KIAS at sea level**, decreasing to **72 KIAS at 10,000 feet**.
+
+Remember:
+
+- **V<sub>X</sub>** = greatest altitude gain per horizontal distance
+- **V<sub>Y</sub>** = greatest altitude gain per unit of time
+
+Maintain the selected speed within **±5 knots**.
+
+Once the obstacle is clear:
+
+**transition from V<sub>X</sub> to V<sub>Y</sub> or the manufacturer-recommended climb speed.**
+
+---
+
+### Leaving Ground Effect
+
+As the airplane climbs out of ground effect, induced drag increases.
+
+That means the airplane may require:
+
+- a slightly different pitch attitude,
+- continued full power,
+- and deliberate airspeed control.
+
+One common error is failing to anticipate the pitch/drag change as ground effect disappears.
+
+Teach the learner to:
+
+**set the climb attitude, verify the airspeed, and trim — do not chase the airspeed indicator.**
+
+---
+
+### Configure After Positive Climb / POH Point
+
+Do not rush flap retraction.
+
+For the C172S with 10° flaps:
+
+- leave the flaps down until obstacles are clear,
+- and at least **60 KIAS** before retracting.
+
+The ACS requires configuration after a positive rate or in accordance with manufacturer guidance.
+
+So the order is:
+
+**aircraft control → climb established → obstacle clear / POH condition met → configure.**
+
+---
+
+### Continue to a Safe Maneuvering Altitude
+
+After the airplane is established in the climb:
+
+- maintain **V<sub>X</sub> or V<sub>Y</sub> ±5 knots** as appropriate,
+- maintain coordination,
+- correct for wind drift,
+- continue the outside scan,
+- and follow the intended departure/noise-abatement path.
+
+Do not let the unusual soft-field sequence cause checklist or navigation items to be missed.
+
+---
+
+### Abnormal Operations — Reject Early
+
+A soft field reduces the margin for indecision.
+
+Reject for:
+
+- **Abnormal engine indications**
+- **Sluggish or inadequate acceleration**
+- **Loss of directional control**
+- **Unexpectedly soft/rough surface**
+- **Runway or traffic conflict**
+- **Any condition that makes continued takeoff unsafe**
+
+The best time to reject is while the airplane still has room to stop.
+
+---
+
+### Engine Failure After Liftoff
+
+If the engine fails after liftoff:
+
+**aircraft control first.**
+
+Immediately:
+
+- lower the nose enough to protect airspeed,
+- maintain coordination,
+- select the best available landing area,
+- and use the POH emergency procedure as time permits.
+
+Do not try to preserve altitude by holding the nose up.
+
+Do not attempt a turnback unless prior training, altitude, wind, runway geometry, and actual conditions support it.
+
+---
+
+### Collision and Runway-Incursion Risk
+
+The soft-field technique creates extra workload, but runway safety does not change.
+
+Before entering the runway:
+
+- verify the **correct runway**,
+- clear final,
+- clear the runway,
+- clear the departure path,
+- and make the appropriate radio call.
+
+At a towered airport, comply with the ATC clearance under **§91.123**.
+
+At a nontowered airport, a CTAF call improves awareness but does not guarantee the runway is clear.
+
+Continue scanning during ground-effect acceleration and initial climb.
+
+---
+
+### Crosswind, Tailwind, Windshear, Wake, and Surface
+
+These risks compound the soft-field problem.
+
+A **tailwind** increases ground roll and may make the departure unacceptable.
+
+A **crosswind** increases directional-control demands while the airplane is light on the wheels.
+
+**Windshear** can change airspeed and climb performance immediately after liftoff.
+
+**Wake turbulence** may drift across the runway or departure path.
+
+And surface condition may change along the runway.
+
+If the combined risk is too high:
+
+**use another runway, wait, reduce weight, or do not depart.**
+
+---
+
+### Low-Altitude Risk
+
+The airplane may be airborne at very low airspeed.
+
+That makes low-altitude pitch and coordination especially important.
+
+Avoid:
+
+- abrupt elevator inputs,
+- excessive pitch,
+- uncoordinated climb,
+- early turns,
+- or climbing out of ground effect before the airplane has enough energy.
+
+A soft-field takeoff should look **smooth**, not dramatic.
+
+---
+
+### Common Errors
+
+#### Planning / Setup
+
+- **Failure to review POH/AFM and performance charts**
+- **Failure to adequately clear the area**
+- Poor surface assessment
+- Failure to brief obstacle/no-obstacle climb plan
+
+#### Takeoff Roll
+
+- **Insufficient back-elevator pressure**
+- **Failure to check engine instruments after applying power**
+- **Poor directional control**
+- Neutral or inadequate crosswind correction
+- Excessive pitch causing drag or tail-strike risk
+
+#### Liftoff / Ground Effect
+
+- **Climbing too high after liftoff**
+- **Abrupt or excessive elevator input while leveling**
+- **Mushing or settling back onto the surface**
+- **Climbing out of ground effect before reaching sufficient climb speed**
+
+#### Initial Climb
+
+- **Failure to anticipate the change as the airplane leaves ground effect**
+- Wrong V<sub>X</sub>/V<sub>Y</sub> selection
+- Poor coordination
+- Premature configuration change
+- Failure to maintain selected airspeed within tolerance
+
+---
+
+### Instructor Demonstration
+
+Teach it in the exact order the airplane experiences it:
+
+1. **Inspect and brief the surface** — condition, wind, performance, obstacle, abort plan.
+2. **Configure per POH** — C172S: **10° flaps** for soft/rough field.
+3. Maintain **continuous motion** and keep the **nosewheel light**.
+4. Verify runway, traffic, wind, and departure path.
+5. Align on centerline **without stopping** when safe.
+6. Apply **smooth takeoff power**.
+7. Call: **power normal — gauges normal — airspeed alive**.
+8. Maintain centerline with rudder and wind correction with aileron.
+9. Use enough back pressure to transfer weight to the wings and let the nosewheel lift.
+10. Let the airplane **fly off at the lowest practical speed**.
+11. With the wheels clear, **lower the nose enough to hold about 10 feet AGL in ground effect**.
+12. **Remain in ground effect and accelerate** to:
+    - **V<sub>X</sub>** if an obstacle controls, or
+    - **V<sub>Y</sub>** if clear.
+13. **Only after reaching that speed**, establish the climb attitude and climb out of ground effect, maintaining selected speed **±5 knots**.
+14. Maintain coordination, directional control, and wind-drift correction.
+15. Configure per POH after positive climb / obstacle-clearance criteria are met.
+16. Continue to a safe maneuvering altitude.
+17. Debrief the **first cue of any error** and the correction.
+
+---
+
+### ACS Coverage — Area VII, Task C
+
+**Knowledge**
+
+- **AI.VII.C.K1** — Purpose and procedures for soft-field takeoff and climb
+- **AI.VII.C.K2** — Effects of atmospheric conditions, including wind, on takeoff and climb performance
+- **AI.VII.C.K3** — V<sub>X</sub> and V<sub>Y</sub>
+- **AI.VII.C.K4** — Appropriate airplane configuration
+- **AI.VII.C.K5** — Ground effect
+- **AI.VII.C.K6** — Importance of transferring weight from wheels to wings
+- **AI.VII.C.K7** — Left-turning tendencies
+- **AI.VII.C.K8** — Common errors
+
+**Risk Management**
+
+- **AI.VII.C.R1** — Runway selection based on pilot capability, airplane performance/limitations, distance, and wind
+- **AI.VII.C.R2** — Crosswind, windshear, tailwind, wake turbulence, and runway surface/condition
+- **AI.VII.C.R3** — Rejected takeoff and engine failure during takeoff/climb
+- **AI.VII.C.R4** — Collision hazards
+- **AI.VII.C.R5** — Low-altitude stall, spin, and CFIT risk
+- **AI.VII.C.R6** — Distractions, task prioritization, situational awareness, and disorientation
+
+**Skills**
+
+- **AI.VII.C.S1** — Complete checklist(s)
+- **AI.VII.C.S2** — Make radio calls as appropriate
+- **AI.VII.C.S3** — Verify correct/assigned runway
+- **AI.VII.C.S4** — Determine wind direction
+- **AI.VII.C.S5** — Position flight controls for wind
+- **AI.VII.C.S6** — Clear area, maintain control inputs, align without stopping, and smoothly advance throttle
+- **AI.VII.C.S7** — Confirm takeoff power and proper indications
+- **AI.VII.C.S8** — Establish pitch to transfer weight from wheels to wings as rapidly as practical
+- **AI.VII.C.S9** — Lift off at lowest possible airspeed and remain in ground effect to V<sub>X</sub>/V<sub>Y</sub>
+- **AI.VII.C.S10** — Establish V<sub>X</sub>/V<sub>Y</sub> pitch attitude and maintain selected airspeed **±5 knots**
+- **AI.VII.C.S11** — Configure after positive climb or per manufacturer guidance
+- **AI.VII.C.S12** — Maintain selected climb speed **±5 knots** to safe maneuvering altitude
+- **AI.VII.C.S13** — Maintain directional control and wind-drift correction
+- **AI.VII.C.S14** — Comply with noise abatement, as applicable
+- **AI.VII.C.S15** — Analyze and correct common errors
+
+### References
+
+- FAA-S-ACS-25 — Flight Instructor for Airplane Category ACS, Area VII, Task C
+- FAA-H-8083-3 — Airplane Flying Handbook, Soft/Rough-Field Takeoff and Climb
+- FAA-H-8083-25 — Pilot’s Handbook of Aeronautical Knowledge
+- Cessna 172S POH — Wing Flap Settings / Soft or Rough Field Takeoff
+- **14 CFR §91.103** — Preflight action
+- **14 CFR §91.123** — Compliance with ATC clearances and instructions
+- **14 CFR §91.126 / §91.129** — Airport traffic operations, as applicable
+
+
 
 ## AI.VII.C.K1 - Purpose of and Procedures for Soft-Field Takeoff and Climb
 
@@ -350,75 +940,124 @@ The applicant demonstrates while teaching a soft-field takeoff and climb: suitab
 ## Kneeboard
 
 <div class="kneeboard-header">
-		<strong>SOFT-FIELD TAKEOFF AND CLIMB - CFI AI.VII.C</strong>
+    <strong>SOFT-FIELD TAKEOFF AND CLIMB — C172S — CFI AI.VII.C</strong>
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ASSESS</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Surface: firm, dry, clear, usable distance; wind, obstacles, abort.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> POH/AFM flaps, V<sub>X</sub>, V<sub>Y</sub>, performance, limits.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Using paved-runway performance without soft-surface margin.</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">TAXI / LINEUP</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Checklist, runway, clearance/status, final/runway/departure path clear.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Keep moving; nose light; minimal braking; wind controls; align without stopping.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Stopping/bogging down or entering without a positive scan.</div>
-			</div>
-		</div>
-	</div>
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ASSESS</div>
+        <div class="kneeboard-group-body">
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ROLL / LIFTOFF</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Smooth power; gauges; positive AOA; transfer weight to wings.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Rudder for centerline; aileron into wind; look far ahead.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Insufficient back-elevator, poor directional control, or missed engine check.</div>
-			</div>
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Lowest-speed liftoff; wheels clear; gently lower nose.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Stay in ground effect and accelerate.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Climbing early, mush, or inadvertent touchdown.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Surface, wind, usable distance, obstacles, wake, abort plan.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Soft surface = more drag; verify POH performance and margin.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Using paved-runway numbers without soft-surface margin.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">CLIMB</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> V<sub>X</sub> for obstacle; V<sub>Y</sub> when clear.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Pitch/trim; track; coordinate; selected speed +/-5 knots.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Leaving ground effect before sufficient speed.</div>
-			</div>
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Positive rate / POH point: configure; safe altitude; departure path.</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Comply with noise abatement; continue outside scan.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Premature flap/gear retraction or early turn.</div>
-			</div>
-		</div>
-	</div>
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>C172S:</strong> Flaps 10° | V<sub>X</sub> 62 KIAS SL → 67 @ 10K | V<sub>Y</sub> 74 KIAS SL → 72 @ 10K.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Aft CG — trim slightly nose-down as needed for comfortable initial-climb forces.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Wrong flap setting, wrong climb speed, or no obstacle/no-obstacle plan.</div>
+            </div>
 
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ABORT</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item">
-				<label><input type="checkbox"> Inadequate acceleration, bad gauges, control loss, conflict, unsafe surface?</label>
-				<div class="kneeboard-detail"><strong>P:</strong> Reject while runway remains: power idle, directional control, brake per procedure.</div>
-				<div class="kneeboard-detail"><strong>CE:</strong> Continuing to “see what happens.”</div>
-			</div>
-		</div>
-	</div>
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">TAXI / LINEUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Flaps 10°.</strong> Taxi with elevator <strong>FULL AFT</strong>; keep rolling if possible.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Minimum braking; wind controls set; runway/final/departure path clear; align without stopping.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Stopping/bogging down, neutral wind controls, or relaxing elevator too early.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ROLL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Line up and smoothly apply <strong>FULL POWER</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Hold backpressure to keep the nosewheel just off the ground; rudder for centerline; aileron into wind.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Insufficient back-elevator, poor directional control, or missed engine/gauge check.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">LIFTOFF</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Main gear lifts off → <strong>briskly reduce backpressure</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Hold about <strong>10 ft AGL in ground effect</strong> — do NOT climb yet.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Climbing immediately after liftoff, over-controlling pitch, or settling back.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Stay in ground effect and accelerate to V<sub>X</sub> or V<sub>Y</sub>.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Obstacle = V<sub>X</sub> 62 KIAS SL → 67 @ 10K; no obstacle = V<sub>Y</sub> 74 KIAS SL → 72 @ 10K.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Leaving ground effect before reaching selected climb speed.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CLIMB</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>At V<sub>X</sub>/V<sub>Y</sub> → pitch for climb and leave ground effect.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Maintain selected speed <strong>±5 kt</strong>; coordinate, wind-correct, trim.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Starting climb before target speed or chasing airspeed after climb begins.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>C172S flaps:</strong> keep 10° until obstacles clear and at least 60 KIAS.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Then retract per POH and continue initial climb.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature flap retraction or early turn.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>At TPA → Cruise Climb:</strong> 70–85 KIAS, FULL THROTTLE.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Mixture RICH; above 3,000 ft, LEAN to obtain maximum RPM.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Staying at V<sub>Y</sub> unnecessarily after TPA or forgetting mixture as altitude increases.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ABORT</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Bad power / poor acceleration / control loss / unsafe surface / conflict?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Reject early: power idle, directional control, braking as required.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Continuing to “see what happens.”</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Engine failure after liftoff?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Lower nose, protect airspeed, land best available.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Holding the nose up or forcing a turnback.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
+
+
+
 
 # Review
 
