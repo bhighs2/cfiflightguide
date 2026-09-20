@@ -90,334 +90,385 @@ Clear; complete above **3,000 feet AGL**; close the throttle; establish normal g
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**The main idea in a cross-controlled stall is that the airplane is stalled while the controls are crossed and the airplane is yawing.**
+### Objective
 
-The classic error chain is:
+**Teach the learner to recognize, avoid, and recover from a cross-controlled stall by understanding the overshot base-to-final scenario, the aerodynamics of the skid, the cues of an approaching stall and incipient spin, and the correct recovery sequence: reduce angle of attack, stop the yaw, level the wings, add power as appropriate, and return to coordinated flight.**
 
-**Overshoot final → inside rudder → opposite aileron → back pressure → inside-wing stall → spin risk**
+### Purpose
 
-This is one of the most dangerous stall scenarios because it usually happens:
+This lesson is not about teaching a student how to “save” an overshot final.
 
-- Close to the ground.
-- At low airspeed.
-- In a descending turn.
-- With yaw already present.
+It is the opposite.
 
-### Real-World Application — Overshot Base-to-Final
+This lesson teaches why trying to save an overshot base-to-final turn with rudder is dangerous.
 
-The classic scenario is an overshoot from base to final.
+The real teaching story is simple:
 
-The pilot sees the airplane drifting through final and does not want to increase bank.
+**overshoot final → add inside rudder → hold bank with opposite aileron → pull to stop the nose from dropping → exceed critical AOA → inside wing stalls first → spin risk.**
 
-So the pilot adds **inside rudder** to force the nose toward the runway.
+The prevention story is even simpler:
 
-That rudder input causes additional yaw and roll.
+**stay coordinated, accept the overshoot, and go around.**
 
-To keep the bank from increasing, the pilot adds **opposite aileron**.
+---
+
+### Applicable FARs
+
+No regulation tells you how to perform a cross-controlled stall demonstration step by step, but several regulations absolutely govern how we set it up and conduct it:
+
+- **14 CFR § 61.195** — a flight instructor is responsible for providing training in a safe and competent manner.
+- **14 CFR § 91.9** — comply with the airplane’s operating limitations and approved procedures in the POH/AFM.
+- **14 CFR § 91.103** — preflight planning still applies: aircraft performance, weight and balance, weather, and the practice area matter.
+- **14 CFR § 91.113** — see and avoid is continuous; this maneuver requires aggressive clearing before and during the setup.
+- **14 CFR § 91.119** — select an altitude that provides safe recovery margin.
+- **14 CFR § 91.126 / § 91.127 / § 91.129** — pattern operations must remain coordinated and safe; in the real world this lesson directly applies to traffic pattern judgment.
+
+For training, I want a generous margin. I brief starting **at least 3,500 feet AGL**, so the maneuver and recovery remain safely above the practical floor.
+
+---
+
+### The Story — The Overshot Base-to-Final Turn
+
+Picture the student turning from base to final.
+
+There is a little tailwind on base, so the airplane drifts through the extended centerline. The runway starts sliding away. The student does not want to steepen the bank, because steep feels uncomfortable near the ground.
+
+So the student pushes **bottom rudder** to drag the nose back toward the runway.
+
+Now the nose starts coming around, but the bank also wants to increase.
+
+To stop the bank from increasing, the student adds **opposite aileron**.
 
 Now the controls are crossed.
 
-At the same time, the nose tends to drop, so the pilot adds **back pressure** to maintain the flightpath.
+Because the airplane is descending, the student adds **back pressure** to keep the nose from dropping.
 
-Now we have:
+Now the angle of attack keeps increasing while the airplane is yawed and uncoordinated.
 
-- Excess inside rudder.
-- Opposite aileron.
-- Increasing AOA.
-- Low airspeed.
-- A skid.
-- High spin potential.
+That is the trap.
 
-The correct real-world response is:
+A cross-controlled stall is not some abstract maneuver. It is the exact setup that kills people in the traffic pattern.
 
-**Go around.**
+The teaching point is this:
 
-Do not force the airplane back to the runway with rudder.
+**the right answer to an overshoot is a go-around, not more rudder.**
 
-### What Is a Cross-Controlled Stall?
+---
 
-A cross-controlled stall occurs when the airplane exceeds critical AOA while:
+### Coordination First — Slip, Skid, and Coordinated Flight
 
-- Rudder is applied in one direction.
-- Aileron is applied in the opposite direction.
+Before I teach the stall, I make sure the learner understands what the ball is telling us.
 
-That produces uncoordinated flight.
+A coordinated airplane has the ball centered.
 
-In the base-to-final scenario, the airplane is usually **skidding**, not slipping.
+A slip means there is **not enough rudder** for the bank.
 
-That distinction matters.
+A skid means there is **too much rudder** for the bank.
 
-The dangerous setup is:
+And the dangerous one in the base-to-final scenario is the **skid**.
 
-**Excess rudder into the turn + opposite aileron holding the bank**
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Slipping_Skidding_Coordinated_Turns.png" alt="Slipping, skidding, and coordinated turn indications" loading="lazy">
+    <figcaption>Start here: the ball tells the story. A cross-controlled stall in the traffic pattern is usually a skidding turn, not a slipping turn.</figcaption>
+</figure>
 
-### Why the Inside Wing Stalls First
+When I teach it out loud, I say:
 
-Suppose we are turning left.
+**“A slip is fixable. A skid is dangerous. A skid near a stall is where the spin lives.”**
 
-The pilot applies excessive **left rudder**.
+---
 
-That yaws the airplane left.
+### What Makes the Skid So Dangerous
 
-The right wing moves forward faster and the left wing moves slower.
+In the skidding turn, the pilot is holding the turn together with excessive rudder while using opposite aileron to keep the bank from steepening.
 
-The airplane tends to roll farther left.
+That means the wings are no longer seeing the same effective angle of attack.
 
-To stop the bank from increasing, the pilot applies **right aileron**.
+The inside wing is already at a disadvantage. It is traveling the shorter path, it is more deeply affected by the yaw, and the down aileron can increase its local angle of attack even more.
 
-Right aileron means:
+So when back pressure is added, the **inside wing tends to stall first**.
 
-- Right aileron moves up.
-- Left aileron moves down.
+When that inside wing stalls first, the airplane rolls and yaws hard toward the inside of the turn.
 
-The downward-deflected aileron on the left wing increases that wing's effective AOA.
+That is why a cross-controlled stall can become an incipient spin very quickly.
 
-So now the inside, left wing already has:
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Skidding_Turn.png" alt="Skidding turn showing inside rudder, opposite aileron, and higher angle of attack on one wing" loading="lazy">
+    <figcaption>In a skidding turn, excessive rudder and opposite aileron create unequal wing loading and unequal angle of attack. That is the start of the problem.</figcaption>
+</figure>
 
-- Lower relative speed.
-- Higher AOA.
-- Increasing back pressure.
-- Additional AOA from the down aileron.
+There is another effect I want the learner to understand. In the skid, the fuselage can partially disturb or blanket airflow over the inside wing root. That further degrades the wing’s margin and makes the break sharper.
 
-That wing reaches critical AOA first.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Skidding_Turn_Fuselage_Blocking_Effect.png" alt="Fuselage blanketing effect in a skidding turn" loading="lazy">
+    <figcaption>The fuselage blanketing effect helps explain why the inside wing can quit first and why the break can be abrupt.</figcaption>
+</figure>
 
-When it stalls:
+---
 
-- Lift drops sharply on the inside wing.
-- Drag increases on the inside wing.
-- The airplane rolls and yaws rapidly toward that wing.
+### Slip Versus Skid — Why We Care
 
-That can become a spin almost immediately.
+A lot of students hear “uncoordinated” and think a slip and a skid are basically the same thing. They are not.
 
-### Why the Natural Reaction Makes It Worse
+A forward slip may be uncoordinated, but it is not the same trap we see in the overshot turn. In the cross-controlled stall lesson, the special danger is the **skid** because the yaw is in the direction of turn and that sets up the rapid inside-wing stall and spin entry.
 
-When the inside wing suddenly drops, the instinctive response is often:
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Slipping_Turn.png" alt="Slipping turn diagram" loading="lazy">
+    <figcaption>A slip and a skid are not interchangeable. The cross-controlled stall lesson centers on the skidding base-to-final turn.</figcaption>
+</figure>
 
-- More opposite aileron to raise the wing.
-- More back pressure because the ground is coming up.
+That distinction covers an important ACS idea:
 
-Both can make the situation worse.
+- **K1 Aerodynamics** — how crossed controls change wing loading and stall behavior.
+- **K2 Flight Situations** — especially overshooting final.
+- **K3 Recognition** — knowing from the control pressures and the ball what condition you are entering.
 
-More opposite aileron can further increase AOA on the already-stalled inside wing.
+---
 
-More back pressure increases AOA on both wings.
+### Recognition — What the Learner Must Notice
 
-So the intuitive reaction can deepen the stall and accelerate the roll.
+The learner needs to recognize the problem before the break.
 
-The correct reaction is:
+I want the learner scanning outside first, not buried in instruments.
 
-**Reduce AOA first.**
+This is a visual maneuver.
 
-### Stall + Yaw = Spin
+The cues are:
 
-A cross-controlled stall already contains the two ingredients for a spin:
+- overshooting the runway centerline,
+- bottom rudder pressure,
+- opposite aileron,
+- ball displaced to the outside of the turn,
+- increasing back pressure,
+- low airspeed,
+- descending turn,
+- buffet,
+- horn,
+- and an abrupt inside-wing drop.
 
-- Stall.
-- Yaw.
+The most important cue is not the horn.
 
-That is why the maneuver can transition to a spin so quickly.
+The most important cue is the **control combination**:
 
-The best prevention is:
-
-**Stay coordinated.**
-
-And if the final approach is being overshot:
-
-**Go around.**
-
-### Recognition
-
-Cross-controlled stalls may provide less warning than a coordinated stall.
-
-Because of the sideslip/skid and disturbed airflow:
-
-- Stall warning may be delayed or inconsistent.
-- Buffet may be weak or occur very late.
-- The wing drop may be sudden.
-
-Recognition cues include:
-
-- Excessive rudder pressure.
-- Opposite aileron.
-- Ball displaced to the outside of the turn.
-- Increasing back pressure.
-- Increasing yaw.
-- Rapid bank increase.
-- Stall horn.
-- Buffet.
-- Sudden inside-wing drop.
-
-The most important cue is the **control combination itself**.
+**inside rudder + opposite aileron + back pressure.**
 
-If you see:
+If the learner can identify that combination, the lesson is working.
 
-**Inside rudder + opposite aileron + back pressure**
+---
 
-you are already in the danger zone.
+### Entry and Setup
 
-### Entry
+Now I teach the maneuver setup.
 
-- Clear the area.
-- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
-- Configure the airplane as specified.
-- Close the throttle.
-- Establish normal glide airspeed.
-- Trim the airplane.
-- Establish a medium-bank descending turn to simulate base to final.
-- Apply excess rudder **in the direction of the turn**.
-- Hold bank constant with **opposite aileron**.
-- Add elevator pressure to keep the nose from lowering.
-- Continue until the first stall indication or as otherwise directed by the evaluator.
-- Recover immediately as directed.
+This is where I tie in the ACS skill and risk management items.
 
-### Recovery
+1. **Clear the area** thoroughly — above, below, and around. Because of the scenario, I also clear below the airplane before entry.
+2. Select an entry altitude that leaves a large safety buffer. I brief **at least 3,500 feet AGL**.
+3. Complete a pre-maneuver checklist. Because the scenario simulates an approach to landing, I may also brief or run the relevant pre-landing flow.
+4. Choose a suitable **linear ground reference** — a road, canal, shoreline, or similar feature — to represent the runway.
+5. Configure the airplane in the **clean configuration**. In the 172S, gear is fixed, but flaps remain up. That avoids flap overspeed if the maneuver gets sloppy and helps preserve margin if rotation develops.
+6. Reduce power to begin a normal approach-type descent.
+7. Establish a normal approach airspeed and a descending base leg toward the selected reference.
+8. Intentionally allow the airplane to **overshoot** the normal final.
+9. Roll into a normal pattern bank, usually about **20° to 30°**.
+10. Once established in the descending turn, apply **excess rudder in the direction of turn**, then hold the bank from increasing with **opposite aileron**.
+11. Add elevator pressure so the nose does not simply fall through.
+12. Acknowledge the first indication of stall, or continue to the evaluator-directed recovery point.
 
-The recovery priority is:
+That covers the core ACS skill flow:
 
-**Reduce AOA and remove the pro-spin yaw.**
+- **S1** clear the area,
+- **S2** select adequate entry altitude,
+- **S3–S5** configure, glide, trim, enter the turn, and create the cross-controlled condition,
+- **S6–S7** acknowledge the stall cue and recover at the proper point.
 
-1. **Reduce AOA immediately.**
-2. Release the excessive rudder input.
-3. Apply appropriate anti-yaw rudder as necessary.
-4. Do not aggressively level the wings with aileron while the wing is stalled.
-5. After the stall breaks, level the wings with coordinated controls.
-6. Add power as required.
-7. Configure as appropriate.
-8. Return to the desired flightpath.
+---
 
-If autorotation develops into a spin:
+### Recovery — What I Say and What I Do
 
-**Transition immediately to the airplane-approved spin-recovery procedure.**
+The recovery is not complicated, but the priorities must be exact.
 
-### ACS Standards — Cross-Controlled Stall Demonstration
+I teach it this way:
 
-- Clear the area.
-- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
-- Configure the airplane with the landing gear down, as applicable.
-- Close the throttle.
-- Establish a normal glide airspeed.
-- Trim the airplane.
-- Roll into a **medium-banked turn**.
-- Apply excess rudder in the direction of the turn.
-- Hold bank constant with **opposite aileron**.
-- Add elevator pressure to keep the nose from lowering.
-- Acknowledge the cues at the **first indication of a stall**.
-- Recover:
-    - At the first indication, or
-    - After a full stall,
-    - As specified by the evaluator.
-- Describe and demonstrate the conditions that lead to a cross-controlled stall for future avoidance.
-- Analyze and correct common errors.
+**reduce AOA → stop the yaw → level the wings → add power → climb away.**
 
-### Common Errors — Cross-Controlled Stall Demonstration
+Out loud, my script is:
 
-- Failure to adequately clear the area.
-- Failure to establish the selected configuration before entry.
-- Performing the maneuver without adequate altitude.
-- Failure to establish the normal glide and trim.
-- Failure to establish a representative cross-controlled condition.
-- Inadequate excess rudder.
-- Inadequate opposite aileron.
-- Failure to add sufficient elevator to demonstrate the hazard.
-- Failure to recognize the developing skid.
-- Failure to recognize the first stall indication.
-- Improper or delayed AOA reduction.
-- Attempting to level the wings aggressively with aileron before reducing AOA.
-- Failure to remove the pro-spin rudder.
-- Poor coordination during recovery.
-- Delayed recognition of spin entry.
-- Failure to transition to spin recovery if rotation develops.
-- Failure to explain the base-to-final hazard.
-- Failure to emphasize the go-around decision.
-- Loss of situational awareness after recovery.
+1. **Reduce angle of attack immediately.** That is always first.
+2. **Remove the excessive rudder** and apply the appropriate rudder as needed to stop the yaw and wing drop.
+3. **Do not try to pick up the stalled wing with aggressive aileron** while it is still stalled.
+4. Once the stall breaks and the wing is flying again, **level the wings with coordinated controls**.
+5. Apply power as required and recover to a normal pitch attitude.
+6. Regain flying airspeed, then establish a climb at **V<sub>X</sub> or V<sub>Y</sub>**, as appropriate for the situation.
+7. Return to the assigned altitude, heading, and airspeed.
 
-### Risk Management
+If rotation develops beyond the intended demonstration, I transition immediately to the airplane-approved **spin recovery** procedure.
 
-#### Spin Entry
+That directly addresses:
 
-This maneuver deliberately creates:
+- **K5 Recovery procedure**
+- **R1 Stall recovery procedure**
+- **S7 Recover at the directed point**
 
-- High AOA.
-- Yaw.
-- Crossed controls.
+---
 
-That is very close to the spin-entry condition.
+### Risk Management — What Can Make It Worse
 
-Maintain a conservative recovery point and discontinue immediately if rotation begins unexpectedly.
+This lesson carries real risk, so I teach the risk management items directly.
 
-#### Environment
+#### Stall / Spin Risk
 
-Turbulence can change AOA and yaw.
+This maneuver is essentially a spin entry demonstration stopped early.
 
-Wind can make a base-to-final overshoot more likely.
+We are intentionally combining:
 
-High density altitude reduces recovery performance.
+- high angle of attack,
+- yaw,
+- crossed controls,
+- and low airspeed.
 
-Use suitable conditions and adequate altitude.
+So I guard the controls closely and keep the margin large.
+
+#### Environmental Factors
+
+Turbulence can change angle of attack abruptly.
+
+A gust can push the airplane closer to the stall than expected.
+
+Density altitude reduces performance and recovery margin.
+
+A tailwind on base is part of the real-world story because it often causes the overshoot in the first place.
 
 #### Collision Hazards
 
-Clear:
+The maneuver is practiced at altitude, but the real-world scenario happens in the pattern.
 
-- Above.
-- Below.
-- Around.
-
-The maneuver covers a large vertical and lateral area.
+That means the student must keep scanning outside, keep situational awareness, and never fixate on the ball or the reference point.
 
 #### Aircraft Limitations
 
-Respect:
+Stay within POH limitations and the training brief.
 
-- Airspeed limitations.
-- Configuration limits.
-- Flap limitations.
-- POH/AFM procedures.
+This is not a maneuver to improvise.
 
-Do not allow the maneuver to progress into an uncontrolled spin or overspeed condition.
+#### Distraction, Startle, and Disorientation
 
-#### Distraction and Startle
+The wing can break sharply.
 
-The sudden wing drop can cause fixation and an instinctive pull or aileron response.
+The learner may instinctively pull or add more aileron.
 
-Brief the expected sequence before entry:
+So I brief the recovery before entry and I guard against the wrong instinctive response.
 
-**AOA → Rudder → Wings → Power**
+That covers:
 
-### Instructor Emphasis
+- **R2 environmental effects**
+- **R3 collision hazards**
+- **R4 aircraft limitations**
+- **R5 distraction, task prioritization, and disorientation**
 
-The learner should leave the lesson understanding:
+---
 
-1. **The real-world scenario is an overshot base-to-final turn.**
-2. **The dangerous condition is a skid created by excess inside rudder.**
-3. **Opposite aileron holds the bank but increases AOA on the inside wing.**
-4. **Back pressure raises AOA further.**
-5. **The inside wing tends to stall first.**
-6. **The airplane can roll rapidly into a spin.**
-7. **Opposite aileron and back pressure can make the stall worse.**
-8. **Recovery begins with reducing AOA and removing pro-spin yaw.**
-9. **The maneuver must be completed no lower than 3,000 feet AGL.**
-10. **The real-world answer to an overshot final is a go-around.**
+### Common Errors
+
+This is where I cover both **K6** and **S9**.
+
+Common errors include:
+
+- inadequate clearing,
+- beginning too low,
+- poor setup or failure to select a realistic runway reference,
+- entering too aggressively,
+- failing to actually demonstrate the crossed-control condition,
+- confusing a slip with a skid,
+- looking inside too much,
+- failing to recognize the control combination that produces the stall,
+- delaying recovery,
+- using aileron aggressively before unloading the wing,
+- failing to stop the yaw,
+- failing to brief the go-around decision,
+- and failing to explain that this is primarily an **avoidance lesson**, not a maneuver to be used in actual pattern work.
+
+When I debrief, I come back to one main question:
+
+**Did the learner understand why this happens and how to avoid it?**
+
+If the answer is yes, the lesson succeeded.
+
+---
+
+### Instructor Teaching Flow
+
+If I were teaching this in front of an examiner, I would say it this way:
+
+> “This demonstration teaches the learner why a skidding base-to-final turn is so dangerous. The airplane overshoots final, the pilot adds bottom rudder to pull the nose around, then opposite aileron to keep from overbanking, and then back pressure to keep the nose up. That creates a crossed-control condition at high angle of attack. The inside wing reaches critical angle of attack first, stalls first, and the airplane can roll and yaw into a spin. So the instructional goal is recognition, avoidance, and prompt recovery. In the real world, the correct answer is a coordinated correction or, more often, a go-around.”
+
+That one paragraph tells the whole story.
+
+---
+
+### Completion Standards / ACS Review
+
+By the end of the lesson, the learner should be able to:
+
+- explain the aerodynamics of a cross-controlled stall,
+- identify flight situations in which it may occur,
+- recognize the developing skid and stall cues,
+- describe the correct entry and recovery,
+- manage the associated risks,
+- demonstrate the setup and recovery safely,
+- explain the conditions that lead to the stall,
+- and analyze and correct common errors.
+
+That is the full ACS picture:
+
+#### Knowledge
+
+- **K1** — aerodynamics of cross-controlled stalls.
+- **K2** — situations where they occur.
+- **K3** — recognition.
+- **K4** — entry procedure and minimum entry altitude.
+- **K5** — recovery procedure.
+- **K6** — common errors.
+
+#### Risk Management
+
+- **R1** — stall recovery procedure.
+- **R2** — environmental elements affecting performance and risk.
+- **R3** — collision hazards.
+- **R4** — aircraft limitations.
+- **R5** — distractions, task prioritization, situational awareness, and disorientation.
+
+#### Skills
+
+- **S1** — clear the area.
+- **S2** — select adequate altitude.
+- **S3** — configure the airplane appropriately.
+- **S4** — establish a normal glide airspeed and trim.
+- **S5** — roll into a medium-bank turn and apply rudder, opposite aileron, and elevator as required.
+- **S6** — acknowledge the first indication of stall.
+- **S7** — recover at the evaluator-directed point.
+- **S8** — describe and demonstrate the conditions that lead to the stall for future avoidance.
+- **S9** — analyze and correct common errors.
+
+---
 
 ### Close
 
-The cross-controlled stall is really a lesson in judgment.
+I close the lesson by bringing it back to judgment.
 
-The hazard chain is:
+The cross-controlled stall is not just a stall lesson.
 
-**Overshoot → inside rudder → opposite aileron → back pressure → inside-wing stall → spin**
+It is a pattern judgment lesson.
 
-The prevention chain is much simpler:
+The real danger chain is:
 
-**Stay coordinated → accept the overshoot → go around**
+**overshoot → skid → stall → spin.**
 
-And if the stall begins:
+And the real prevention chain is:
 
-**Reduce AOA → remove yaw → wings level after the stall breaks → power**
+**recognize the overshoot → stay coordinated → go around.**
 
-The most important rule is:
-
-**Never skid the base-to-final turn.**
+That is what I want the learner to remember when this lesson is over.
 
 
 
@@ -511,12 +562,142 @@ Demonstrate the cross-controlled condition and its cues, recover as directed abo
 
 ## Kneeboard
 
-<div class="kneeboard-header"><div class="kneeboard-title">CROSS-CONTROLLED STALL — CFI X.F</div><div class="kneeboard-target"><strong>Demonstration only:</strong> Overshot final → skid → inside-wing stall/spin risk · Floor 3,000 AGL</div></div>
-<div class="kneeboard-layout">
-	<div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Clear / configure / glide</label><div class="kneeboard-detail"><strong>P:</strong> Start ≥3,500 AGL; finish &gt;3,000; fixed gear; flaps UP; throttle closed; trim 68 KIAS.</div><div class="kneeboard-detail"><strong>CE:</strong> Low entry or flap overspeed exposure.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">SCENARIO</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Overshoot / skid</label><div class="kneeboard-detail"><strong>P:</strong> Simulated base; medium bank; inside rudder; opposite aileron; back pressure.</div><div class="kneeboard-detail"><strong>CE:</strong> Poorly demonstrated cross-control chain.</div></div><div class="kneeboard-item"><label><input type="checkbox"> Call first cue</label><div class="kneeboard-detail"><strong>P:</strong> Identify skid/yaw/horn/buffet/wing drop; recover as directed.</div><div class="kneeboard-detail"><strong>CE:</strong> Delayed recognition or developed spin.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">RECOVER</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> AOA / rudder / wings</label><div class="kneeboard-detail"><strong>P:</strong> REDUCE AOA → remove pro-spin rudder/apply anti-yaw → wings level after stall breaks → power.</div><div class="kneeboard-detail"><strong>CE:</strong> Aileron or power before unload/yaw correction.</div></div><div class="kneeboard-item"><label><input type="checkbox"> Climb / teach avoidance</label><div class="kneeboard-detail"><strong>P:</strong> V<sub>X</sub>/V<sub>Y</sub>; return; overshot final = coordinated correction or GO AROUND.</div><div class="kneeboard-detail"><strong>CE:</strong> Treating skid as a usable pattern technique.</div></div></div></div>
+<div class="kneeboard-header">
+    <strong>CROSS-CONTROLLED STALL — C172S — CFI X.F</strong><br>
+    Overshot base-to-final skid · <strong>DEMONSTRATION ONLY</strong> · Stay coordinated / go around
 </div>
+
+<div class="kneeboard-layout">
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SCENARIO</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Simulate an overshot base-to-final turn.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Tailwind / poor spacing causes overshoot; the unsafe reaction is inside rudder to force alignment.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Treating skid as a usable pattern correction.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear above / below / around.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Start about <strong>3,500' AGL or higher</strong>; complete maneuver above <strong>3,000' AGL</strong>.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poor clearing or inadequate altitude.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Pre-maneuver / landing flow complete.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Select linear ground reference as simulated runway.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Entering without deliberate setup or recovery brief.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">CONFIGURE</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>Flaps UP / throttle CLOSED.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> C172S fixed gear; clean configuration.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Wrong configuration or flap overspeed exposure.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Establish normal glide airspeed / trim.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Stabilize descending base before creating skid.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Entering unstable or too fast.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">STALL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Overshoot final → turn toward runway at <strong>20°–30° bank</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Normal pattern-type bank.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Excessive bank or abrupt roll-in.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Add <strong>inside rudder</strong> + hold bank with <strong>opposite aileron</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Establish the skid / cross-controlled condition.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poorly demonstrated skid or loss of bank control.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Add <strong>back pressure</strong> to keep nose from lowering.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> AOA rises; inside wing approaches critical AOA first.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Abrupt pull or failing to explain spin risk.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>CALL FIRST INDICATION OF STALL.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Horn / buffet / wing-drop tendency; recover at evaluator-directed point.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Delayed recognition or allowing uncontrolled autorotation.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">RECOVER</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>AOA ↓ → STOP YAW → WINGS LEVEL → POWER.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Unload first; remove pro-spin rudder / apply appropriate opposite rudder; level after stall breaks.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Pulling, aggressive aileron, or power before unloading / stopping yaw.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Regain airspeed → <strong>V<sub>X</sub>/V<sub>Y</sub></strong> → return assigned flightpath.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Reestablish altitude, heading, airspeed, and coordination.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Secondary stall or incomplete recovery.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">IF SPIN</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Autorotation develops → <strong>PARE</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> <strong>P</strong>ower IDLE → <strong>A</strong>ilerons NEUTRAL → <strong>R</strong>udder FULL OPPOSITE rotation → <strong>E</strong>levator BRISKLY FORWARD.</div>
+                <div class="kneeboard-detail"><strong>Then:</strong> When rotation stops, neutralize rudder and recover smoothly from the dive.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ACS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>CFI — AI.X.F</strong></label>
+                <div class="kneeboard-detail"><strong>Clear area · complete ≥3,000' AGL · gear down as applicable / throttle closed · normal glide + trim · medium-bank turn · excess rudder + opposite aileron + elevator · acknowledge first stall cue · recover at first indication or full stall as evaluator specifies · describe/demonstrate causal conditions · analyze/correct common errors.</strong></div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+
 
 # Review
 

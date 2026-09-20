@@ -119,316 +119,573 @@ Watch for **altitude control during deceleration**, the transition to **high AOA
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**The main idea in slow flight is precise airplane control at low airspeed and high angle of attack, where the margin to a stall warning is small and the controls feel less effective.**
+### Objective
 
-This maneuver teaches us how the airplane feels and responds when it is operating close to the critical angle of attack, while still remaining fully under control and **without activating the stall warning**.
+**Teach the learner to establish, maneuver, and recover from slow flight while maintaining precise aircraft control at high angle of attack and low airspeed, remaining coordinated, staying clear of a stall warning, and understanding how pitch, power, load factor, configuration, weight, CG, and environmental conditions affect the airplane near the stall.**
 
-The most useful control relationship is:
+### Purpose
+
+Slow flight teaches precise aircraft control where the airplane is least forgiving:
+
+- low airspeed,
+- high angle of attack,
+- high induced drag,
+- reduced control effectiveness,
+- pronounced yaw,
+- and a small margin to a stall warning.
+
+The teaching story is:
+
+**clear → slow while holding altitude → establish the high-AOA condition → add the power needed to hold flightpath → trim → maneuver gently → stay coordinated → protect the stall margin → recover smoothly.**
+
+The control relationship to teach is:
 
 **Pitch controls airspeed.**  
 **Power controls flightpath.**  
 **Rudder maintains coordination.**
 
-That is especially important because slow flight places us on the back side of the power curve, where slower flight requires more power to maintain altitude.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Slow_Flight.png" alt="Airplane in slow flight at low airspeed, high angle of attack, high power, and constant altitude" loading="lazy">
+    <figcaption>Slow flight combines low airspeed, high angle of attack, relatively high power, reduced control effectiveness, and precise altitude control.</figcaption>
+</figure>
 
-### Real-World Application
+---
 
-Slow flight is not something we do just for the checkride.
+### Current ACS Target
 
-We operate in slow-flight conditions during:
+The current CFI ACS does **not** define slow flight by one memorized airspeed.
 
-- Takeoff.
-- Climb.
-- Approach.
-- Landing.
-- Go-around.
+The target is an airspeed at which any further:
 
-A good real-world example is a **short-field or soft-field approach**, where the airplane may be at relatively high AOA and low airspeed close to the ground.
-
-If the airplane starts to sink in that condition, simply pulling harder may increase AOA toward the stall.
-
-The pilot needs to understand the relationship between **pitch, power, AOA, and available performance**.
-
-### What Is Slow Flight?
-
-For this maneuver, the ACS target is an airspeed at which any further:
-
-- **Increase in angle of attack**
-- **Increase in load factor**
-- **Reduction in power**
+- **increase in angle of attack,**
+- **increase in load factor,** or
+- **reduction in power**
 
 would result in a **stall warning**.
 
 The maneuver itself is flown **without the warning active**.
 
-That is an important distinction.
+So the goal is not to sit on the horn.
 
-We are not trying to sit on the horn or buffet.
+The goal is to fly just above that point with a small but definite stall margin. fileciteturn81file0L64-L68
 
-We are trying to operate just above that point so we can feel and control the airplane precisely while preserving a small but definite stall margin.
+---
+
+### Applicable FARs
+
+There is no FAR that specifically prescribes the slow-flight maneuver, but several operating rules remain directly relevant:
+
+- **14 CFR §91.103** — know the airplane, weather, area, and conditions before the maneuver.
+- **14 CFR §91.113** — see-and-avoid / collision avoidance remains continuous.
+- **14 CFR §91.119** — minimum safe altitudes still apply; select an altitude that leaves adequate margin for maneuvering and recovery.
+
+For the CFI ACS, the maneuver must be completed **no lower than 1,500 feet AGL** in ASEL. fileciteturn81file0L64-L66
+
+---
+
+### C172S Airspeed and Flap References
+
+From the C172S POH airspeed indicator markings:
+
+- **White arc: 40–85 KIAS**
+    - lower limit: maximum-weight **V<sub>SO</sub>**
+    - upper limit: maximum speed permitted with flaps fully extended
+- **Green arc: 48–129 KIAS**
+    - lower limit: maximum-weight **V<sub>S1</sub>** in the referenced clean condition
+    - upper limit: maximum structural cruising speed
+- **Yellow arc: 129–163 KIAS**
+    - caution range; smooth air only
+- **Red line: 163 KIAS**
+    - maximum speed for all operations
+
+C172S flap limits used in the local slow-flight procedure:
+
+- **Flaps 10° below 110 KIAS**
+- **Flaps beyond 10° only below 85 KIAS**
+
+Those speeds are limitations, not slow-flight target speeds.
+
+---
+
+### Important ACS vs. Local Training Procedure Distinction
+
+The current CFI ACS evaluates slow flight in the **configuration specified by the evaluator** and the source lesson identifies **cruise configuration** as the normal Task A setup. fileciteturn81file0L64-L68
+
+Your local training procedure uses progressive flap extension to full flaps and is useful for teaching configuration effects.
+
+So teach both ideas clearly:
+
+**ACS target:** establish the warning-free slow-flight condition in the evaluator-specified configuration.
+
+**Local C172 training profile:** use the flap sequence below when practicing configured slow flight.
+
+Do not confuse a local 50-knot training target with the ACS definition of the maneuver.
+
+---
 
 ### Why the Airplane Feels Different
 
-At slow speed, the airplane is flying at a higher angle of attack.
+As the airplane slows while holding altitude, angle of attack must increase.
 
-That creates several noticeable changes:
+At higher angle of attack:
 
-- Induced drag increases.
-- More power is required to maintain altitude.
-- Controls become less responsive.
-- Larger control movements may be required.
-- Left-turning tendencies become more pronounced because power is relatively high and airspeed is low.
-- The margin between normal flight and a stall warning becomes small.
+- induced drag increases,
+- more power is required to maintain altitude,
+- controls become less effective,
+- larger control deflections may be required,
+- left-turning tendencies become more noticeable,
+- and the margin to critical AOA becomes smaller.
 
-This is why the maneuver needs smooth control inputs and good coordination.
+The pilot should feel the airplane becoming:
 
-### Region of Reversed Command
+- softer on the controls,
+- more yaw-sensitive,
+- more power-dependent,
+- and less tolerant of abrupt control inputs.
 
-Below approximately **L/D MAX**, total drag begins to increase again as airspeed decreases.
+---
 
-That is the **region of reversed command**.
+### Region of Reverse Command
+
+Slow flight operates on or near the **back side of the power curve**.
 
 In this region:
 
-- Slower airspeed requires **more power** to maintain altitude.
-- Faster airspeed requires **less power**.
+**slower flight requires more power to maintain the same flightpath.**
 
-So in slow flight:
+That is why the teaching relationship becomes so useful:
 
-**Pitch is the primary control for airspeed.**  
-**Power is the primary control for altitude or flightpath.**
+**Pitch → airspeed**  
+**Power → flightpath**
 
-They still work together, but this is the cleanest way to think about the maneuver.
+They are still coupled, but this is the cleanest way to teach the maneuver.
+
+If altitude starts decreasing at the correct airspeed:
+
+**add power.**
+
+If airspeed is too low:
+
+**reduce AOA / lower pitch slightly.**
+
+Do not simply keep pulling to save altitude.
+
+---
 
 ### Angle of Attack, Load Factor, and Bank
 
-A wing stalls because it exceeds its **critical angle of attack**, not because it reaches one fixed airspeed.
+A wing stalls because it exceeds its **critical angle of attack**, not because it reaches one universal airspeed.
 
-At slow-flight speed, the airplane is already operating at relatively high AOA.
+In slow flight, the airplane is already operating close to that critical AOA.
 
 If we increase bank while trying to maintain altitude:
 
-- Load factor increases.
-- Required lift increases.
-- AOA increases.
-- Stall speed increases.
-- The margin to the stall warning gets smaller.
+- load factor increases,
+- required lift increases,
+- AOA increases,
+- stall speed increases,
+- and the margin to the warning decreases.
 
-That is why turns in slow flight must be smooth, coordinated, and conservative.
+That is why the local training profile limits turns to **20° bank or less**.
 
-### Weight and Center of Gravity
+That 20° value is a conservative training technique, not an ACS tolerance.
 
-Weight and CG affect the way the airplane behaves in slow flight.
+---
 
-- **Higher weight** requires more lift and generally a higher AOA at a given speed.
-- A heavier airplane reaches the warning or stall at a higher airspeed than a lighter airplane.
-- **Forward CG** generally requires more tail-down force, more wing lift, and more control pressure.
-- **Aft CG** reduces longitudinal stability and can make stall/spin recovery more difficult.
+### Weight and CG
 
-The exact warning speed is therefore not one fixed number.
+The exact warning speed is not fixed.
 
-It changes with the airplane and the conditions.
+It changes with:
 
-### Power and Yaw
+- weight,
+- CG,
+- configuration,
+- load factor,
+- power,
+- and atmospheric conditions.
 
-Slow flight requires relatively high power while the airplane is at high AOA.
+A heavier airplane generally reaches the stall warning at a higher indicated airspeed.
 
-That makes left-turning tendencies more noticeable.
+Forward CG generally requires more tail-down force and more wing lift.
 
-Expect:
+Aft CG reduces longitudinal stability and can make stall/spin recovery less favorable.
 
-- More right rudder than in cruise.
-- More right rudder as power increases.
-- Less right rudder as power decreases.
+That is why the ACS uses the **actual warning-free condition**, not one universal number.
 
-**Rudder is important here because uncoordinated slow flight near the stall can quickly become a spin problem.**
+---
 
-### Configuration
+### Power and Right Rudder
 
-The current CFI ACS evaluates this task in **cruise configuration**, but the learner still needs to understand how configuration changes affect slow flight.
+Slow flight combines:
 
-Flaps change:
+- high power,
+- low airspeed,
+- and high AOA.
 
-- Lift.
-- Drag.
-- Pitch.
-- Trim.
-- Stall behavior.
+That makes the left-turning tendencies more pronounced.
 
-Any configuration change needs to be made within POH limitations and anticipated with the appropriate pitch, power, and trim changes.
+Expect to use **more right rudder** than in cruise.
 
-### Entry
+As power increases, right-rudder demand usually increases.
 
-- Clear the area.
-- Select an altitude that allows the maneuver to be completed no lower than **1,500 feet AGL**.
-- Establish **cruise configuration** unless the evaluator specifies otherwise.
-- Establish an entry speed below the applicable maneuvering speed.
-- Reduce power smoothly.
-- Maintain altitude with increasing back-elevator pressure as airspeed decreases.
-- Approaching the target slow-flight condition, add power to stop the deceleration and maintain altitude.
-- Establish an airspeed at which one further adverse change would cause a stall warning, but keep the warning **off**.
-- Maintain coordination with the required right rudder.
-- Stabilize attitude and power.
-- Trim.
+As power decreases, right-rudder demand usually decreases.
 
-### Maneuver
+The airplane must remain coordinated because an uncoordinated stall near critical AOA can rapidly develop into a spin.
 
-1. **Establish and maintain straight-and-level slow flight.**
-2. Use **pitch for airspeed**.
-3. Use **power for altitude or flightpath**.
-4. Maintain coordination with rudder.
-5. Maintain an outside-dominant scan.
-6. Perform the specified turns with smooth bank changes.
-7. Anticipate the added lift and power required in a turn.
-8. Perform climbs and descents while maintaining the target slow-flight airspeed and coordination.
-9. If any stall warning occurs:
-    - **Reduce AOA immediately** until the warning stops.
-    - Maintain coordination.
-    - Then reestablish the desired flightpath and airspeed.
-10. Recover by:
-    - Adding power.
-    - Reducing AOA.
-    - Maintaining coordination.
-    - Accelerating.
-    - Returning to the desired cruise condition.
-    - Retrimming.
+---
 
-### ACS Standards — Maneuvering During Slow Flight
+### Entry — Local C172 Training Procedure
 
-- Clear the area.
-- Select an entry altitude that allows the maneuver to be completed no lower than **1,500 feet AGL** for ASEL.
-- Establish and maintain an airspeed at which any further:
-    - Increase in AOA
-    - Increase in load factor
-    - Reduction in power
-  would result in a stall warning.
-- Maintain the maneuver **without a stall warning**.
-- Accomplish coordinated:
-    - Straight-and-level flight
-    - Turns
-    - Climbs
-    - Descents
-- Use the configuration specified by the evaluator.
-- Maintain:
+Start with:
+
+1. **Clearing turn at or above 1,500 feet AGL** with sufficient altitude to complete the maneuver above the ACS floor.
+2. Establish a clean, stabilized condition below the applicable maneuvering speed.
+3. **Power → approximately 1500 RPM.**
+4. Below **110 KIAS**, select **flaps 10°**.
+5. As airspeed decreases, **increase pitch to maintain altitude**.
+6. **Trim** as the airplane stabilizes.
+7. Once inside the **white arc**, extend the remaining flaps progressively to full flaps if practicing the local configured profile.
+8. Approaching approximately **50 KIAS**, add power as needed — about **2000 RPM** is a training reference, not a fixed requirement.
+9. Stabilize the airplane:
+    - altitude steady,
+    - airspeed steady,
+    - warning off,
+    - coordinated,
+    - trimmed.
+
+The important point is:
+
+**Do not chase 50 knots.**
+
+Use 50 KIAS only as the local training reference.
+
+The ACS target is the actual warning-free condition. fileciteturn81file0L41-L43
+
+---
+
+### Straight-and-Level Slow Flight
+
+Once stabilized:
+
+- maintain the outside pitch picture,
+- use **pitch for airspeed**,
+- use **power for altitude / flightpath**,
+- use **rudder for coordination**,
+- and keep the stall warning off.
+
+Use an outside-dominant scan:
+
+**attitude → traffic → coordination → performance → attitude.**
+
+Do not stare at the airspeed indicator.
+
+The instruments confirm what the outside picture is producing.
+
+---
+
+### Turns
+
+Perform turns using **20° bank or less** under the local training profile.
+
+As bank increases:
+
+- load factor increases,
+- AOA requirement increases,
+- stall margin decreases.
+
+So anticipate the turn with:
+
+- gentle bank,
+- coordinated rudder,
+- small power increase if needed,
+- and enough pitch adjustment to preserve the target airspeed.
+
+The ACS requires the specified bank to be maintained within **±5°**. fileciteturn81file0L66-L68
+
+Do not pull harder to maintain altitude if that brings on the stall warning.
+
+Use power and reduce AOA as needed.
+
+---
+
+### Climbs
+
+To climb in slow flight:
+
+- add power,
+- add right rudder,
+- maintain the slow-flight airspeed with pitch,
+- and accept the climb performance the airplane can actually provide.
+
+Do not demand an aggressive climb by increasing AOA.
+
+At high density altitude or high weight, the airplane may have little excess power.
+
+If climb performance is inadequate:
+
+**protect airspeed and AOA first.**
+
+---
+
+### Descents
+
+To descend in slow flight:
+
+- reduce power gradually,
+- adjust pitch to preserve the target airspeed,
+- maintain coordination,
+- and monitor the stall margin.
+
+Because a reduction in power is itself one of the changes that can produce a stall warning at the ACS target condition, be ready to reduce AOA immediately if the warning activates.
+
+---
+
+### Stall Warning — Immediate Response
+
+This is the key safety rule.
+
+If the horn, buffet, or another valid warning occurs:
+
+**reduce angle of attack immediately until the warning stops.**
+
+Then:
+
+- maintain coordination,
+- use power as needed,
+- and reestablish the desired flightpath.
+
+Do not hold altitude or assigned pitch at the expense of stall avoidance.
+
+The maneuver is supposed to remain **warning-free**. fileciteturn81file0L41-L43
+
+---
+
+### Recovery — Local C172 Training Procedure
+
+From the configured local training profile:
+
+1. **Apply FULL POWER.**
+2. **Flaps → 20°.**
+3. Reduce pitch as needed to **maintain altitude and reduce AOA**.
+4. Apply right rudder as required.
+5. **Trim** as control pressures change.
+6. Accelerating through **55 KIAS → flaps 10°.**
+7. **Trim** as required.
+8. Accelerating through **60 KIAS → flaps 0°.**
+9. **Trim** as required.
+10. Accelerate to normal cruise or the specified airspeed.
+11. Reduce power as necessary.
+12. Complete the cruise / after-maneuver flow.
+
+The important recovery principle is:
+
+**power + reduced AOA + coordination + progressive cleanup.**
+
+Do not dump all the flaps at once.
+
+---
+
+### Environmental Effects
+
+Turbulence, wind shear, microbursts, and high density altitude all reduce the margin available in slow flight.
+
+#### Turbulence
+
+A sudden gust can change:
+
+- AOA,
+- load factor,
+- airspeed,
+- and stall margin.
+
+If conditions are too rough to maintain a warning-free margin:
+
+**discontinue the maneuver.**
+
+#### High Density Altitude
+
+High density altitude reduces:
+
+- engine power,
+- propeller performance,
+- and climb capability.
+
+If the airplane cannot hold altitude at the target condition, do not keep increasing AOA.
+
+Use a safer airspeed and terminate or modify the maneuver.
+
+---
+
+### Collision Avoidance
+
+Slow flight creates high cockpit workload.
+
+Under **§91.113**, traffic avoidance remains continuous.
+
+Clear before entry and keep the scan outside.
+
+Do not let:
+
+- the airspeed indicator,
+- trim,
+- flap lever,
+- or explanation of the maneuver
+
+take your eyes away from the traffic environment for too long.
+
+---
+
+### Common Errors
+
+#### Failure to Clear
+
+**Error:** Starting the maneuver without an adequate traffic scan.
+
+**Correction:** Clear first and continue scanning throughout.
+
+#### Altitude Loss During Deceleration
+
+**Error:** Not increasing pitch enough as power is reduced.
+
+**Correction:** Increase back pressure smoothly while slowing.
+
+#### Climb / Rapid Airspeed Decay
+
+**Error:** Excessive back pressure during entry.
+
+**Correction:** Reduce AOA slightly and reestablish the proper sight picture.
+
+#### Insufficient Right Rudder
+
+**Error:** Nose yaws left as power and AOA increase.
+
+**Correction:** Anticipate with coordinated right rudder.
+
+#### Instrument Fixation
+
+**Error:** Trying to fly the maneuver from the ASI or altimeter.
+
+**Correction:** Fly the outside picture; use instruments only to verify.
+
+#### Poor Flap Management
+
+**Error:** Extending outside the flap limits or retracting too quickly.
+
+**Correction:** Respect **110 KIAS for 10°** and **85 KIAS beyond 10°**; clean up progressively.
+
+#### Poor Power Management
+
+**Error:** Pulling to correct sink instead of adding power.
+
+**Correction:** Use power for flightpath and pitch for airspeed.
+
+#### Poor Trim
+
+**Error:** Holding excessive pressure or trimming before the airplane is stable.
+
+**Correction:** Stabilize attitude and power first, then trim.
+
+#### Stall Warning Allowed to Continue
+
+**Error:** Treating the horn as normal slow flight.
+
+**Correction:** **Reduce AOA immediately.**
+
+---
+
+### Instructor Demonstration
+
+Teach it in this order:
+
+1. Clear the area and select an altitude allowing completion above **1,500 feet AGL**.
+2. Explain that the ACS target is **warning-free slow flight**, not one fixed number.
+3. Reduce power to about **1500 RPM**.
+4. Below **110 KIAS → flaps 10°** if using the local configured profile.
+5. Increase pitch to maintain altitude as speed decreases.
+6. Trim.
+7. Inside the white arc, progressively extend full flaps if practicing the configured profile.
+8. Approaching approximately **50 KIAS**, add power as required — roughly **2000 RPM** is only a reference.
+9. Stabilize with:
+    - warning off,
+    - coordination,
+    - altitude,
+    - airspeed,
+    - and trim.
+10. Demonstrate straight-and-level flight.
+11. Demonstrate turns **20° bank or less**.
+12. Demonstrate climbs and descents.
+13. Throughout:
+    - pitch = airspeed,
+    - power = flightpath,
+    - rudder = coordination.
+14. At any stall warning:
+    - **reduce AOA immediately.**
+15. Recover:
+    - full power,
+    - flaps 20°,
+    - reduce pitch / hold altitude,
+    - right rudder,
+    - 55 KIAS → flaps 10°,
+    - 60 KIAS → flaps 0°,
+    - accelerate,
+    - cruise power,
+    - trim.
+
+A concise teaching flow is:
+
+**“Clear. Power back. Hold altitude and slow. Configure. Trim. Add power before the warning. Pitch for airspeed, power for altitude, rudder for coordination. Maneuver gently. Any warning — reduce AOA. Recover with power, reduce AOA, clean up progressively, accelerate, trim.”**
+
+---
+
+### ACS Completion Standards
+
+For the current CFI ACS:
+
+- complete the maneuver no lower than **1,500 feet AGL**,
+- establish an airspeed at which one further increase in AOA, load factor, or reduction in power would produce a stall warning,
+- keep the maneuver **warning-free**,
+- perform coordinated:
+    - straight-and-level flight,
+    - turns,
+    - climbs,
+    - descents,
+- maintain:
     - **Altitude ±50 feet**
     - **Heading ±10°**
     - **Airspeed +5/-0 knots**
     - **Bank ±5°**
-- Analyze and correct common errors.
+- provide effective instruction,
+- analyze and correct common errors. fileciteturn81file0L39-L43
 
-### Common Errors — Maneuvering During Slow Flight
+---
 
-- Failure to adequately clear the area.
-- Improper entry technique.
-- Failure to establish the specified configuration.
-- Failure to establish and maintain the required airspeed.
-- Excessive altitude or heading deviations.
-- Uncoordinated use of flight controls.
-- Improper correction for torque and left-turning tendencies.
-- Improper trim technique.
-- Fixation on the instruments.
-- Poor division of attention.
-- Excessive or abrupt control inputs.
-- Unintentional stall or allowing the stall warning to remain active.
-- Inappropriate removal of the hand from the throttle when immediate power may be required.
-- Failure to anticipate configuration changes.
-- Failure to anticipate the additional lift/power requirement in turns.
+### ACS Coverage — Area X, Task A
 
-### Risk Management
+**Knowledge**
 
-#### Inadvertent Slow Flight or Stall Warning
+- **AI.X.A.K1** — Purpose of and procedures for proper slow flight
+- **AI.X.A.K2** — Aerodynamics associated with slow flight in various configurations, including AOA, airspeed, load factor, power, weight, CG, attitude, and yaw effects
+- **AI.X.A.K3** — Common errors
 
-The airplane is operating close to the critical AOA.
+**Risk Management**
 
-If airspeed decays, load factor increases, or power is reduced without correction, the airplane may reach the stall warning or stall.
+- **AI.X.A.R1** — Inadvertent slow flight and flight with a stall warning
+- **AI.X.A.R2** — Range and limitations of stall-warning indicators
+- **AI.X.A.R3** — Uncoordinated flight
+- **AI.X.A.R4** — Environmental effects including turbulence, microbursts, and high density altitude
+- **AI.X.A.R5** — Collision hazards
+- **AI.X.A.R6** — Distractions, task prioritization, loss of situational awareness, or disorientation
 
-**Any stall warning means reduce AOA immediately.**
+**Skills**
 
-Do not try to preserve altitude or pitch attitude at the expense of stall avoidance.
+- **AI.X.A.S1** — Clear the area
+- **AI.X.A.S2** — Select altitude allowing completion above **1,500 feet AGL**
+- **AI.X.A.S3** — Establish and maintain the warning-free target condition
+- **AI.X.A.S4** — Perform coordinated straight-and-level flight, turns, climbs, and descents
+- **AI.X.A.S5** — Maintain ACS tolerances
+- **AI.X.A.S6** — Analyze and correct common errors
 
-#### Stall-Warning Limitations
-
-The stall warning is not the only cue.
-
-Use:
-
-- Sight.
-- Sound.
-- Feel.
-- Buffet.
-- Control response.
-- Installed warning systems.
-
-Do not rely on one horn or one number.
-
-#### Uncoordinated Flight
-
-High power, high AOA, and low airspeed make yaw effects more pronounced.
-
-A stall while uncoordinated can develop into a spin.
-
-Maintain coordinated flight at all times.
-
-#### Environmental Effects
-
-Turbulence, wind shear, microbursts, and high-density altitude can reduce the available performance margin.
-
-Turbulence can produce sudden AOA and load-factor changes.
-
-High density altitude reduces power available and climb performance.
-
-If the airplane cannot safely maintain the maneuver, discontinue it.
-
-#### Collision Hazards
-
-Slow flight has a high workload and can tempt the pilot to look inside too much.
-
-Clear the area before beginning and maintain an outside-dominant traffic scan.
-
-#### Distraction and Situational Awareness
-
-Do not let the explanation of the maneuver interfere with flying it.
-
-If aircraft control, traffic awareness, or orientation begins to deteriorate:
-
-- Aviate first.
-- Reestablish control.
-- Resume instruction only when stable.
-
-### Instructor Emphasis
-
-The learner should leave the lesson understanding:
-
-1. **Slow flight is high-AOA flight with a small margin to the stall warning.**
-2. **Pitch controls airspeed.**
-3. **Power controls flightpath.**
-4. **Rudder maintains coordination.**
-5. **Any stall warning requires an immediate AOA reduction.**
-6. **Turns increase load factor and reduce the stall margin.**
-7. **The target is not one memorized airspeed; it is the actual warning-free condition for the airplane and conditions.**
-
-### Close
-
-Slow flight teaches us what the airplane feels like close to the stall while still under precise control.
-
-The pilot has to manage:
-
-- Airspeed.
-- Altitude.
-- AOA.
-- Power.
-- Coordination.
-- Load factor.
-- Traffic.
-- Stall margin.
-
-The key relationship is:
-
-**Pitch for airspeed → Power for flightpath → Rudder for coordination**
-
-And the most important safety rule is:
-
-**If the stall warning activates, reduce AOA immediately.**
 
 
 ## K1 — Purpose and Procedures for Proper Slow Flight
@@ -626,53 +883,154 @@ The applicant clears; completes above **1,500 feet AGL**; establishes warning-fr
 ## Kneeboard
 
 <div class="kneeboard-header">
-	<div class="kneeboard-title">MANEUVERING DURING SLOW FLIGHT — CFI X.A</div>
-	<div class="kneeboard-target"><strong>Target:</strong> Warning-free · Any further AOA/load increase or power reduction causes warning · Floor 1,500 ft AGL</div>
+    <strong>MANEUVERING DURING SLOW FLIGHT — C172S — CFI X.A</strong><br>
+    Warning-free high-AOA flight · Pitch = IAS · Power = flightpath · Rudder = coordination
 </div>
 
 <div class="kneeboard-layout">
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">SPEEDS</div>
-		<div class="kneeboard-group-body">
-			<table class="kneeboard-reference-table"><thead><tr><th>V<sub>A</sub></th><th>2,550 lb</th><th>2,200 lb</th><th>1,900 lb</th></tr></thead><tbody><tr><th>Max</th><td>105 KIAS</td><td>98 KIAS</td><td>90 KIAS</td></tr></tbody></table>
-			<div class="kneeboard-detail"><strong>V<sub>FE</sub>:</strong> 10° = 110 KIAS · beyond 10° = 85 KIAS.</div>
-			<div class="kneeboard-detail"><strong>Reference only:</strong> V<sub>S1</sub> 48 KIAS flaps up · V<sub>S0</sub> 40 KIAS full flaps at POH reference condition. Do not use either as the fixed ACS target.</div>
-		</div>
-	</div>
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">SETUP</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item"><label><input type="checkbox"> Clear / altitude / configure</label><div class="kneeboard-detail"><strong>P:</strong> Clearing turns; complete &gt;1,500 AGL; cruise configuration unless evaluator specifies otherwise; entry below applicable V<sub>A</sub>.</div><div class="kneeboard-detail"><strong>CE:</strong> No floor, traffic scan, or configuration brief.</div></div>
-		</div>
-	</div>
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">ENTRY</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item"><label><input type="checkbox"> Power down / hold altitude</label><div class="kneeboard-detail"><strong>P:</strong> Reduce power smoothly; progressive back pressure; hold heading and altitude.</div><div class="kneeboard-detail"><strong>CE:</strong> Sink, climb, or rapid speed decay.</div></div>
-			<div class="kneeboard-item"><label><input type="checkbox"> Capture target / trim</label><div class="kneeboard-detail"><strong>P:</strong> Add power approaching target; warning remains off; coordinate; stabilize, then trim.</div><div class="kneeboard-detail"><strong>CE:</strong> Fixed-speed fixation, left yaw, or warning ignored.</div></div>
-		</div>
-	</div>
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">MANEUVER</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item"><label><input type="checkbox"> Straight / turns</label><div class="kneeboard-detail"><strong>P:</strong> Pitch = airspeed; power = flightpath; coordinated bank; outside scan.</div><div class="kneeboard-detail"><strong>CE:</strong> Pulling to hold altitude or instrument fixation.</div></div>
-			<div class="kneeboard-item"><label><input type="checkbox"> Climbs / descents</label><div class="kneeboard-detail"><strong>P:</strong> Manage power and pitch smoothly; anticipate yaw; preserve warning margin.</div><div class="kneeboard-detail"><strong>CE:</strong> Demanding unavailable climb or allowing speed decay.</div></div>
-			<div class="kneeboard-item"><label><input type="checkbox"> ACS tolerances</label><div class="kneeboard-detail"><strong>P:</strong> Alt ±50 ft · Hdg ±10° · IAS +5/-0 kt · Bank ±5°.</div><div class="kneeboard-detail"><strong>CE:</strong> Chasing instruments instead of correcting trends.</div></div>
-		</div>
-	</div>
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">WARNING</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item"><label><input type="checkbox"> Horn / buffet / warning</label><div class="kneeboard-detail"><strong>P:</strong> REDUCE AOA immediately until warning stops; coordinate; then power/flightpath.</div><div class="kneeboard-detail"><strong>CE:</strong> Holding pitch or treating the warning as normal.</div></div>
-		</div>
-	</div>
-	<div class="kneeboard-group">
-		<div class="kneeboard-rail">RECOVER</div>
-		<div class="kneeboard-group-body">
-			<div class="kneeboard-item"><label><input type="checkbox"> Power / AOA / clean up</label><div class="kneeboard-detail"><strong>P:</strong> Add power; reduce AOA; coordinate; level as needed; retract flaps incrementally if used; accelerate; retrim.</div><div class="kneeboard-detail"><strong>CE:</strong> Abrupt flap retraction, altitude gain, or left yaw.</div></div>
-		</div>
-	</div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">LIMITS</div>
+        <div class="kneeboard-group-body">
+
+            <table class="kneeboard-reference-table">
+                <thead>
+                    <tr>
+                        <th>Reference</th>
+                        <th>C172S</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>White arc</td><td>40–85 KIAS</td></tr>
+                    <tr><td>Green arc</td><td>48–129 KIAS</td></tr>
+                    <tr><td>Flaps 10°</td><td>≤110 KIAS</td></tr>
+                    <tr><td>Flaps &gt;10°</td><td>≤85 KIAS</td></tr>
+                </tbody>
+            </table>
+
+            <div class="kneeboard-item">
+                <div class="kneeboard-detail"><strong>ACS target:</strong> Not one fixed IAS — warning-free condition where one more AOA/load increase or power reduction would trigger a warning.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear / altitude / configuration.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Complete maneuver above <strong>1,500 AGL</strong>; cruise configuration unless evaluator specifies otherwise.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poor clearing, no altitude floor, or unclear configuration plan.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ENTRY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Power ~<strong>1500 RPM</strong> → hold altitude → slow.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Increase pitch progressively; maintain heading; add right rudder as required.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Sink, climb, rapid speed decay, or left yaw.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Below <strong>110 KIAS → flaps 10°</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Trim after attitude stabilizes.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Extending flaps above limit or trimming too early.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> In white arc → full flaps if using local configured profile.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Approaching ~<strong>50 KIAS</strong>, add power as required (~2000 RPM reference) to hold altitude and stop deceleration.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Chasing 50 KIAS instead of establishing the actual warning-free condition.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">MANEUVER</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>PITCH = AIRSPEED | POWER = ALTITUDE/FLIGHTPATH | RUDDER = COORDINATION</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Outside-dominant scan; light grip; trim after stable.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Pulling to correct sink, instrument fixation, or poor trim.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Straight-and-level + turns ≤<strong>20° bank</strong> local technique.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Anticipate added power / right rudder in turns.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Excessive bank, load factor, AOA, or uncoordinated turn.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Climbs / descents as assigned.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Protect IAS and stall margin; do not demand unavailable performance.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Excessive pitch or allowing warning to develop.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">WARNING</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Horn / buffet / valid stall cue?</label>
+                <div class="kneeboard-detail"><strong>P:</strong> <strong>REDUCE AOA IMMEDIATELY</strong> until warning stops; coordinate; then restore flightpath.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Holding pitch / altitude with the warning active.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">RECOVER</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>FULL POWER → FLAPS 20° → REDUCE AOA / HOLD ALTITUDE.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Right rudder; trim as control pressure changes.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Balloon, left yaw, or excessive pitch.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>55 KIAS → flaps 10°.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Continue accelerating; trim.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Premature cleanup or altitude loss.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>60 KIAS → flaps 0°.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Accelerate to cruise / assigned IAS → set power → trim.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Abrupt flap retraction or forgetting cruise power/trim.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ACS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Warning-free slow flight in evaluator-specified configuration.</label>
+                <div class="kneeboard-detail"><strong>STD:</strong> Altitude <strong>±50 ft</strong> | Heading <strong>±10°</strong> | IAS <strong>+5/-0 kt</strong> | Bank <strong>±5°</strong>.</div>
+                <div class="kneeboard-detail"><strong>P:</strong> Coordinated straight/level, turns, climbs, descents; teach and correct errors.</div>
+            </div>
+
+        </div>
+    </div>
+
 </div>
+
 
 # Review
 

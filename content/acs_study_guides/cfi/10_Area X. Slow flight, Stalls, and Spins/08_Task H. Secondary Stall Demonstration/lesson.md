@@ -88,309 +88,441 @@ Clear; complete above **3,000 feet AGL**; enter a stall in the specified configu
     <button type="button" class="lesson-action-button" data-print-instructor-notes>Print Instructor Notes</button>
 </div>
 
-**The main idea in a secondary stall is that the airplane stalls a second time because the first recovery was incomplete or the pilot tried to return to the flightpath too aggressively.**
+### Objective
 
-The wing still stalls for the same reason:
+**Teach the learner to recognize, avoid, and recover from a secondary stall by understanding how an incomplete initial stall recovery or an overly aggressive attempt to regain the flightpath can cause the wing to exceed the critical angle of attack a second time.**
 
-**Critical angle of attack is exceeded.**
+### Purpose
 
-The difference is the timing.
+The secondary stall is really a **lesson in not rushing the recovery**.
 
-The pilot has just begun recovering from one stall, but before enough airspeed and control effectiveness return, the pilot increases pitch and load factor too quickly.
+The first stall is not the whole problem.
 
-That gives us the key relationship:
+The real trap appears **after** the first stall break, when the airplane is still slow, still regaining airflow, and still rebuilding control effectiveness. If the nose is raised too soon in an attempt to stop altitude loss or hurry back to the original flightpath, the wing can exceed the critical angle of attack again and stall a second time.
 
-**Incomplete recovery → premature pull → AOA increases again → second stall**
+The error chain is:
 
-### Real-World Application — Rushing the Recovery
+**Initial stall → incomplete recovery → premature pull → critical AOA exceeded again → secondary stall**
 
-The most realistic setup is a stall close to the ground.
+The prevention chain is:
 
-The pilot recovers from the initial stall, sees the airplane losing altitude, and immediately tries to save the altitude by pulling hard.
+**Reduce AOA → keep it reduced until the wing is flying again → accelerate → then smoothly return to the desired flightpath**
 
-But the airplane may still be:
+That is the lesson.
 
-- Slow.
-- At reduced control effectiveness.
-- Close to critical AOA.
-- Building load factor rapidly.
+---
 
-That aggressive pull can exceed critical AOA a second time.
+### Applicable FARs
 
-Another possibility is trying to recover from the first stall with **power only**, without adequately reducing AOA.
+There is no regulation that prescribes a secondary stall demonstration step by step, but the maneuver is conducted within normal operating rules:
 
-Power may improve performance, but:
+- **14 CFR §91.9** — comply with the airplane’s operating limitations and POH/AFM procedures.
+- **14 CFR §91.103** — know the airplane, performance, limitations, and practice area conditions before flight.
+- **14 CFR §91.113** — maintain see-and-avoid vigilance throughout the maneuver.
+- **14 CFR §91.119** — use an altitude that provides an adequate margin for demonstration and recovery.
 
-**power does not unstall the wing.**
+For the **CFI ACS**, the maneuver must be completed **no lower than 3,000 feet AGL**.
 
-If AOA remains excessive, the airplane can remain stalled or stall again.
+---
 
-### What Is a Secondary Stall?
+### Start With the Real-World Scenario
 
-A secondary stall is a stall that occurs during recovery from a preceding stall.
+Picture a pilot recovering from a stall close to the ground.
 
-Typically:
+The nose is lowered enough to break the first stall. The airplane starts to recover. But then the pilot sees altitude disappearing and reacts too aggressively, pulling back too soon to stop the descent.
 
-1. The airplane stalls.
-2. The pilot begins the recovery.
-3. AOA is reduced only briefly or incompletely.
-4. The pilot raises the nose too soon.
-5. Load factor and AOA increase.
-6. Critical AOA is exceeded again.
+That is the setup for the secondary stall.
 
-The second stall may be:
+The wing is not fully flying yet. Airspeed is still low. Control effectiveness is still coming back. The pilot is asking the airplane to carry more load before it is ready.
 
-- More abrupt.
-- More pronounced.
-- Associated with a sharper wing drop.
-- Associated with greater altitude loss.
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Secondary_Stall.png" alt="Secondary stall sequence showing initial stall, incomplete recovery, and second stall" loading="lazy">
+    <figcaption>A secondary stall occurs when the initial recovery is incomplete or the nose is raised too aggressively before the wing has fully recovered.</figcaption>
+</figure>
+
+That second pull raises angle of attack again, and the airplane stalls a second time.
+
+This is why the secondary stall is not really a separate kind of stall in an aerodynamic sense. It is another stall caused by exceeding critical angle of attack, but it happens during a poor recovery from the first one.
+
+---
+
+### The Wing Still Stalls for the Same Reason
+
+Every stall lesson eventually comes back to one fact:
+
+**The wing stalls when critical angle of attack is exceeded.**
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Critical_AOA.png" alt="Critical angle of attack illustration" loading="lazy">
+    <figcaption>The secondary stall is not caused by low airspeed alone. The wing stalls again because the pilot raises AOA back above critical during the recovery.</figcaption>
+</figure>
+
+So the correct explanation is not:
+
+“the airplane stalled again because it was still slow.”
+
+Being slow is part of the setup, but not the cause.
+
+The correct explanation is:
+
+**the airplane was still low-energy after the first stall, and the pilot increased pitch and AOA too early, taking the wing past critical AOA again.**
+
+That distinction matters because it teaches the correct cure:
+
+**reduce AOA first, and do not re-load the wing until it is ready to fly.**
+
+---
 
 ### Why the Second Stall Can Be Worse
 
-The airplane may still have very little energy after the first stall.
+The second stall can be more abrupt than the first.
 
-Then the pilot adds a rapid pitch input.
+After the first stall, the pilot is often already moving the airplane through a changing pitch attitude. If the pilot then pulls too aggressively:
 
-That can create:
+- load factor increases,
+- stall speed increases,
+- AOA increases rapidly,
+- control effectiveness may still be poor,
+- and yaw may be present.
 
-- Increased load factor.
-- A rapid return to critical AOA.
-- A deeper stall.
-- More altitude loss.
-- Greater yaw or roll.
-- Greater spin potential.
+That combination can produce:
 
-The second stall may also surprise the pilot.
+- a sharper break,
+- a more pronounced wing drop,
+- greater altitude loss,
+- and greater spin potential.
 
-That startle can delay the second recovery.
+The second stall may also be more surprising, because it happens during what the pilot thinks is already the recovery.
 
-### Airspeed and Control Effectiveness
+---
 
-After the first stall breaks, the airplane still needs time to:
+### Load Factor Matters
 
-- Accelerate.
-- Restore airflow.
-- Restore control effectiveness.
-- Reestablish a safe flightpath.
+A secondary stall is closely connected to the same ideas taught in accelerated stalls.
 
-This is why we do not immediately pull the nose back to the desired attitude.
+When the pilot pulls hard during the recovery, the wing has to produce more lift. That requires more angle of attack, and stall speed rises as load factor rises.
 
-**The airplane has to be allowed to recover before we ask it to carry load again.**
+So part of the lesson is:
 
-### Load Factor
+**A premature pull can turn a normal stall recovery into an accelerated stall during the recovery.**
 
-If the pilot pulls too aggressively during recovery:
+This is why the recovery should never become a desperate pull to save altitude.
 
-- Load factor increases.
-- Required lift increases.
-- AOA increases.
-- Stall speed increases.
+The order is:
 
-So a secondary stall can also become an **accelerated stall**.
+1. Recover the wing.
+2. Regain control effectiveness and energy.
+3. Then recover the flightpath.
 
-That relationship is:
+---
 
-**Premature pull → load factor increases → stall speed increases → critical AOA reached again**
+### Where Secondary Stalls Commonly Occur
 
-### Where Secondary Stalls Occur
+The classic training setup may begin from a power-off stall or power-on stall, but the operational lesson is broader.
 
-Typical situations include:
+Secondary stalls may develop during:
 
-- Abrupt pullout after a power-off stall.
-- Abrupt pullout after a power-on stall.
-- Trying to minimize altitude loss during recovery.
-- Recovery from a spin or steep dive.
-- Power-only stall recovery.
-- Startle response close to the ground.
-- Pulling before airspeed and control effectiveness return.
+- rushed recovery from a power-off stall,
+- rushed recovery from a power-on stall,
+- an overaggressive go-around,
+- an abrupt pullout from a spin or steep dive,
+- a climb attempt before adequate airspeed returns,
+- or any situation where the pilot tries to stop altitude loss before the stall recovery is actually complete.
 
-### Recognizing a Secondary Stall
+The common thread is always the same:
 
-The cues are similar to any stall, but they occur again during the recovery.
+**the pilot tries to recover the flightpath before the wing has fully recovered.**
 
-Look for:
+---
 
-- Stall horn returning.
-- Buffet returning.
-- Mushy controls.
-- Loss of control effectiveness.
-- Nose drop.
-- Wing drop.
-- Increased sink rate.
-- Yaw.
-- Rapidly increasing back pressure.
+### Recognition
+
+Recognition is essential because the learner needs to understand that the stall cues can return during the recovery.
+
+The cues include:
+
+- stall warning horn returning,
+- buffet returning,
+- mushy or ineffective controls,
+- renewed nose drop,
+- renewed wing drop,
+- increased sink,
+- yaw,
+- or the feeling that the airplane was recovering and then stopped flying again.
 
 The key recognition point is:
 
-**The airplane was recovering, then the stall cues came back.**
+**The airplane had already started recovering, but the stall indications came back.**
 
-That is a secondary stall.
+That is the defining picture of a secondary stall.
 
-### Entry
+---
 
-This maneuver is a **demonstration of an improper recovery**.
+### Entry and Setup
 
-- Clear the area.
-- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
-- Establish the configuration specified by the evaluator.
-- Enter a normal primary stall.
-- Begin the stall recovery.
-- Reduce AOA only enough to start the recovery.
-- Before adequate airspeed and control effectiveness return, deliberately increase pitch again.
-- Exceed critical AOA a second time.
-- Call the secondary stall.
-- Recover promptly and correctly.
+Now the maneuver can be demonstrated.
 
-The distinction needs to be obvious:
+1. **Clear the area thoroughly.**
+2. Select an entry altitude that allows the maneuver to be completed **no lower than 3,000 feet AGL**. In practice, beginning at **3,500 feet AGL or higher** is appropriate.
+3. Complete the pre-maneuver checklist.
+4. Establish the configuration specified by the evaluator.
+5. Brief the full sequence: **initial stall → intentionally incomplete recovery → secondary stall → correct recovery**.
 
-**First recovery = intentionally incomplete.**  
-**Second recovery = complete and correct.**
+The teaching point here is important:
+
+The first recovery is deliberately incomplete **for demonstration purposes only**.
+
+The final recovery is the one that must be correct and complete.
+
+---
+
+### Demonstrating the Initial Stall
+
+Enter a normal stall in the specified configuration.
+
+This may be:
+
+- a power-off stall,
+- a power-on stall,
+- or another evaluator-specified setup.
+
+The exact configuration matters less than the teaching goal.
+
+The goal is to show what happens when the first recovery is not fully completed.
+
+As the first stall develops, the first indication should be acknowledged:
+
+**“Imminent stall.”**
+
+If the maneuver is continued to a full stall, then acknowledge the stall as well.
+
+---
+
+### Demonstrating the Incomplete Recovery
+
+Begin the initial recovery by reducing AOA enough to break the first stall.
+
+If power is appropriate, apply it as required for the recovery.
+
+But do **not** allow the airplane to fully recover before the demonstration continues.
+
+Before sufficient airspeed and control effectiveness return, begin raising the nose too soon or too aggressively.
+
+That is the deliberate error.
+
+<figure class="lesson-reference-figure">
+    <img src="/knowledge/Stall_Recovery_Template.png" alt="FAA stall recovery template" loading="lazy">
+    <figcaption>The FAA recovery sequence prevents a secondary stall by emphasizing full AOA reduction and a smooth return to the desired flightpath.</figcaption>
+</figure>
+
+That premature pull causes AOA to rise again.
+
+If enough AOA is added, the wing will exceed critical angle of attack a second time.
+
+At that point, call it:
+
+**“Secondary stall.”**
+
+---
 
 ### Recovery
 
-Once the secondary stall occurs:
+The recovery from the secondary stall is the same in principle as recovery from any stall, but it must be done **completely** this time.
 
-1. **Reduce AOA sufficiently.**
-2. Maintain the reduced AOA until the stall warning is eliminated.
-3. **Maintain coordination.**
-4. Level the wings after airflow is restored.
-5. Add or confirm appropriate power.
-6. Configure as recommended by the manufacturer.
-7. Allow the airplane to accelerate.
-8. Establish the appropriate **VX or VY** climb if required.
-9. Return smoothly to the desired flightpath.
+#### 1. Reduce AOA
 
-The lesson is:
+Promptly and positively lower the angle of attack enough to unstall the wing.
 
-**Do not rush the pullout.**
+This is the first priority.
 
-Recover the wing first.
+Not power.
 
-Then rebuild energy.
+Not heading.
 
-Then increase load.
+Not altitude.
 
-### ACS Standards — Secondary Stall Demonstration
+**AOA first.**
 
-- Clear the area.
-- Select an entry altitude that allows the maneuver to be completed no lower than **3,000 feet AGL**.
-- Enter a stall in the configuration specified by the evaluator.
-- During the recovery, exceed the **critical AOA a second time**.
-- Recognize the secondary stall.
-- Recover promptly and appropriately.
-- Describe and demonstrate the conditions that lead to a secondary stall so the learner can avoid it.
-- Analyze and correct common errors.
+#### 2. Maintain Coordination
 
-### Common Errors — Secondary Stall Demonstration
+Keep the airplane coordinated and prevent yaw from developing into a spin entry.
 
-- Failure to adequately clear the area.
-- Failure to establish the selected configuration before entry.
-- Performing the maneuver without adequate altitude.
-- Improper or inadequate demonstration of the primary stall.
-- Improper or inadequate demonstration of the secondary stall.
-- Failure to make the first recovery clearly incomplete.
-- Pulling so aggressively that the maneuver becomes uncontrolled.
-- Uncoordinated flight during either stall.
-- Failure to recognize the second stall.
-- Insufficient AOA reduction during the final recovery.
-- Attempting to level the wings before reducing AOA.
-- Using power before adequately reducing AOA.
-- Excessive forward elevator during the final recovery.
-- Creating a third stall through another premature pull.
-- Excessive airspeed or G during recovery.
-- Failure to regain situational awareness after the maneuver.
-- Failure to explain why poor primary-stall recovery creates the secondary stall.
+If power is being used, directional control matters even more.
+
+#### 3. Level the Wings as Appropriate
+
+Once airflow is restored and the wing is flying again, level the wings as needed while maintaining coordination.
+
+#### 4. Add or Confirm Power as Appropriate
+
+Use the power required for the recovery and the return to the desired flightpath.
+
+#### 5. Allow the Airplane to Accelerate
+
+Do not immediately yank the airplane back to the original attitude.
+
+Allow airspeed and control effectiveness to return.
+
+#### 6. Return Smoothly to the Flightpath
+
+Only after the airplane is flying again should the nose be brought back to the desired climb or level-flight attitude.
+
+The concise teaching line is:
+
+**Recover the wing first. Then recover the flightpath.**
+
+---
+
+### Why the Demonstration Matters
+
+This lesson matters because the same mistake appears in real-world flying.
+
+A pilot stalls, begins recovering, sees altitude loss, and instinctively pulls.
+
+That instinct feels natural, but it is exactly what creates the second stall.
+
+So the student should leave the lesson understanding:
+
+- altitude may be lost during a proper stall recovery,
+- trying to save every foot too early can make things worse,
+- a rushed pull can create another stall,
+- and the correct recovery requires patience.
+
+A proper stall recovery is not complete just because the horn stopped for a moment.
+
+It is complete only when the wing is flying again, the airplane is accelerating, and the flightpath is being reestablished smoothly.
+
+---
 
 ### Risk Management
 
-#### Repeated Stall and Spin
+#### Stall / Spin Risk
 
-The airplane is deliberately taken through two critical-AOA exceedances.
+The biggest hazard is allowing the renewed stall to develop with yaw present.
 
-The second one occurs while the airplane is still low-energy.
+If the airplane is slow, uncoordinated, and re-stalled during the recovery, spin risk increases immediately.
 
-If yaw is present, the secondary stall can develop into a spin.
+Mitigation:
 
-Maintain coordination throughout.
-
-#### Stall Recovery Procedure
-
-The demonstration intentionally shows an improper first recovery.
-
-The learner must understand that this is **not** the correct recovery technique.
-
-The correct recovery is:
-
-**Reduce AOA sufficiently and keep it reduced until the wing is flying again.**
+- reduce AOA decisively,
+- maintain coordination,
+- prevent excessive yaw,
+- and do not chase altitude with back pressure.
 
 #### Environmental Effects
 
-Turbulence can increase AOA and load factor unexpectedly.
+Turbulence can change AOA and load factor unexpectedly.
 
-High density altitude can increase the time required to regain energy and climb performance.
+High density altitude can slow acceleration and reduce climb performance, increasing the temptation to pull too early.
 
-Use suitable conditions and adequate altitude.
+Microburst or wind-shear conditions can also push the pilot toward an overaggressive pullout.
+
+Mitigation:
+
+- use suitable conditions,
+- use adequate altitude,
+- and do not rush the return to the flightpath.
 
 #### Collision Hazards
 
-Clear before beginning and continue the traffic scan.
+This maneuver requires altitude, clearing, and continued outside scan.
 
-The maneuver has a high workload and large vertical component.
+The airplane may lose significant altitude during the sequence.
+
+Maintain traffic awareness throughout.
 
 #### Aircraft Limitations
 
 Respect:
 
-- Configuration limits.
-- Airspeed limits.
-- VA as applicable.
-- Flap limits.
-- POH/AFM procedures.
+- configuration limits,
+- flap limits,
+- maneuvering limits,
+- and POH procedures.
 
-Do not allow the demonstration to become an aggressive or structurally excessive maneuver.
+Do not allow the recovery to become abrupt or structurally abusive.
 
 #### Distraction and Task Prioritization
 
-The pilot may become fixated on minimizing altitude loss.
+The classic distraction is fixation on altitude loss.
 
-That instinct is exactly what can produce the second stall.
+That fixation causes the pilot to skip the real priority.
 
-The priority is:
+The correct priority remains:
 
-**Recover from the stall first.**
+**Aviate — reduce AOA and restore control first.**
 
-Altitude preservation comes after restoring controlled flight.
+---
 
-### Instructor Emphasis
+### Common Errors
 
-The learner should leave the lesson understanding:
+Common errors include:
 
-1. **A secondary stall is a second exceedance of critical AOA during recovery.**
-2. **It usually happens because the pilot pulls too soon or too aggressively.**
-3. **The airplane may still be slow and have poor control effectiveness after the first stall.**
-4. **Premature back pressure increases load factor and AOA.**
-5. **Power alone does not recover a stalled wing.**
-6. **The final recovery must reduce AOA completely and patiently rebuild energy.**
-7. **The maneuver is completed no lower than 3,000 feet AGL.**
-8. **The best prevention is to recover correctly the first time.**
+- failure to adequately clear the area,
+- beginning the maneuver too low,
+- improper setup in the specified configuration,
+- failure to demonstrate the initial stall clearly,
+- failure to make the first recovery clearly incomplete,
+- pulling too aggressively and making the demonstration sloppy or uncontrolled,
+- failure to maintain coordination,
+- failure to recognize the secondary stall,
+- insufficient AOA reduction during the final recovery,
+- trying to save altitude too early,
+- using power as a substitute for unloading the wing,
+- leveling the wings before reducing AOA,
+- creating a third stall by pulling too soon again,
+- and failure to explain how incomplete recovery leads to the second stall.
 
-### Close
+The correction theme is simple:
 
-A secondary stall is really a lesson in patience.
+**Unstall the wing, let the airplane fly again, then return to the flightpath.**
 
-The error chain is:
+---
 
-**Primary stall → incomplete recovery → premature pull → second stall**
+### ACS Coverage — Area X, Task H
 
-The prevention chain is:
+This lesson covers all current ACS elements for Secondary Stall Demonstration.
 
-**Reduce AOA → restore airflow → accelerate → then increase load**
+#### Knowledge
 
-Do not trade a correct recovery for an attempt to save altitude too early.
+- **AI.X.H.K1** — Aerodynamics of secondary stalls.
+- **AI.X.H.K2** — Flight situations where secondary stalls could occur.
+- **AI.X.H.K3** — Recognition of secondary stalls.
+- **AI.X.H.K4** — Entry procedure and minimum entry altitude.
+- **AI.X.H.K5** — Recovery procedure.
+- **AI.X.H.K6** — Common errors related to this Task.
 
-The most important rule is:
+#### Risk Management
 
-**Recover the wing first. Then recover the flightpath.**
+- **AI.X.H.R1** — Stall recovery procedure.
+- **AI.X.H.R2** — Effect of environmental elements on airplane performance related to secondary stalls.
+- **AI.X.H.R3** — Collision hazards.
+- **AI.X.H.R4** — Aircraft limitations.
+- **AI.X.H.R5** — Distractions, task prioritization, loss of situational awareness, or disorientation.
+
+#### Skills
+
+- **AI.X.H.S1** — Clear the area.
+- **AI.X.H.S2** — Select an entry altitude that allows the Task to be completed no lower than **3,000 feet AGL**.
+- **AI.X.H.S3** — Enter a stall in a specified configuration and exceed the critical angle of attack a second time during the recovery.
+- **AI.X.H.S4** — Recover promptly and appropriately after a secondary stall occurs.
+- **AI.X.H.S5** — Describe and demonstrate conditions that lead to a secondary stall for future avoidance.
+- **AI.X.H.S6** — Analyze and correct common errors related to this Task.
+
+---
+
+### Teaching Flow
+
+The entire lesson should sound like one connected story:
+
+**The airplane stalls the first time and begins to recover. Before enough airspeed and control effectiveness return, the pilot tries to stop altitude loss by pulling too soon. That early pull raises angle of attack back above critical, and the airplane stalls again. The second stall is recognized, angle of attack is reduced promptly, coordination is maintained, the airplane is allowed to accelerate, and only then is the flightpath recovered smoothly.**
+
+That is the maneuver.
+
+That is the hazard.
+
+And that is the lesson the learner should remember.
+
 
 
 ## K1 — Aerodynamics
@@ -480,13 +612,140 @@ Demonstrate a primary stall, deliberate incomplete recovery, second critical-AOA
 
 ## Kneeboard
 
-<div class="kneeboard-header"><div class="kneeboard-title">SECONDARY STALL — CFI X.H</div><div class="kneeboard-target"><strong>Demonstration only:</strong> Primary stall → incomplete recovery → early pull → second stall · Floor 3,000 AGL</div></div>
-<div class="kneeboard-layout">
-	<div class="kneeboard-group"><div class="kneeboard-rail">SETUP</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Clear / floor / configure</label><div class="kneeboard-detail"><strong>P:</strong> Start ≥3,500 AGL; finish &gt;3,000; automation OFF; evaluator-specified config.</div><div class="kneeboard-detail"><strong>CE:</strong> Inadequate altitude or unstable setup.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">PRIMARY</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Stall / incomplete recover</label><div class="kneeboard-detail"><strong>P:</strong> Induce primary stall; call cue; reduce AOA only enough to begin recovery.</div><div class="kneeboard-detail"><strong>CE:</strong> Complete recovery prevents demonstration or yaw creates spin.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">SECONDARY</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Pull early / call second stall</label><div class="kneeboard-detail"><strong>P:</strong> Increase pitch before speed returns; exceed critical AOA again; call “secondary stall.”</div><div class="kneeboard-detail"><strong>CE:</strong> Excessive pitch rate or lost coordination.</div></div></div></div>
-	<div class="kneeboard-group"><div class="kneeboard-rail">RECOVER</div><div class="kneeboard-group-body"><div class="kneeboard-item"><label><input type="checkbox"> Complete recovery</label><div class="kneeboard-detail"><strong>P:</strong> REDUCE AOA until warning ends → coordinate → wings level → power/config → accelerate.</div><div class="kneeboard-detail"><strong>CE:</strong> Third stall, negative G, or excess speed.</div></div><div class="kneeboard-item"><label><input type="checkbox"> Return / teach</label><div class="kneeboard-detail"><strong>P:</strong> V<sub>X</sub>/V<sub>Y</sub>; desired flightpath; explain patient pullout.</div><div class="kneeboard-detail"><strong>CE:</strong> Recovery without prevention lesson.</div></div></div></div>
+<div class="kneeboard-header">
+    <strong>SECONDARY STALL — C172S — CFI X.H</strong><br>
+    Demonstration only · Initial stall → incomplete recovery → premature pull → second stall · Floor 3,000' AGL
 </div>
+
+<div class="kneeboard-layout">
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SCENARIO</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Show what happens when recovery is rushed.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> The airplane begins recovering from the first stall, then the nose is raised too soon to stop altitude loss.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Treating the maneuver like a basic stall instead of an incomplete-recovery demonstration.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">SETUP</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Clear the area.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Above, below, and around; maintain traffic scan.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Inadequate clearing.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Entry altitude high enough to finish above <strong>3,000' AGL</strong>.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Begin around <strong>3,500' AGL or higher</strong> to preserve margin.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Starting too low or without a recovery floor.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Pre-maneuver checklist / evaluator-specified configuration.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Brief: initial stall → incomplete recovery → secondary stall → complete recovery.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Unclear plan or wrong configuration.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">INITIAL STALL</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Enter the specified stall.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Power-off, power-on, or evaluator-specified setup.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Poor setup or unclear stall demonstration.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>CALL FIRST INDICATION OF STALL.</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Horn, buffet, mushy controls, or other approaching-stall cue.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Late recognition.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">INCOMPLETE RECOVERY</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Begin recovery, but only enough to start it.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Reduce AOA enough to break the first stall; add power as appropriate.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Fully recovering and losing the demonstration.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Before airspeed and control effectiveness return, raise the nose too soon.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> This is the deliberate error that recreates the hazard.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Overdoing the pitch change or allowing the maneuver to become sloppy/uncoordinated.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Exceed critical AOA a second time — call <strong>“secondary stall.”</strong></label>
+                <div class="kneeboard-detail"><strong>P:</strong> Show that the second stall is caused by a premature pull during recovery.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Failing to make the cause-and-effect obvious.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">RECOVER</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>REDUCE AOA</strong> promptly and sufficiently.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Unstall the wing first. Hold the reduced AOA until the wing is flying again.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Inadequate unloading or trying to save altitude too early.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Maintain coordination / level wings as appropriate.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Prevent yaw and spin entry; roll only after the stall is broken.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Uncoordinated recovery or aileron use before unloading.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Add or confirm power as appropriate.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Use power to help recover the flightpath, but not instead of reducing AOA.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Relying on power alone to recover the stall.</div>
+            </div>
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> Allow acceleration, then return smoothly to the desired flightpath.</label>
+                <div class="kneeboard-detail"><strong>P:</strong> Recover the wing first, then recover the flightpath.</div>
+                <div class="kneeboard-detail"><strong>CE:</strong> Creating a third stall with another premature pull.</div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="kneeboard-group">
+        <div class="kneeboard-rail">ACS</div>
+        <div class="kneeboard-group-body">
+
+            <div class="kneeboard-item">
+                <label><input type="checkbox"> <strong>CFI — AI.X.H</strong></label>
+                <div class="kneeboard-detail"><strong>Clear the area · use an entry altitude that allows completion no lower than 3,000' AGL · enter a stall in the specified configuration · exceed critical AOA a second time during the recovery · recover promptly and appropriately after the secondary stall · describe and demonstrate the conditions that lead to a secondary stall for future avoidance · analyze and correct common errors.</strong></div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
 
 # Review
 
